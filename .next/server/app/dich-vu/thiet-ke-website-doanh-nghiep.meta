@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/dich-vu/layout,_N_T_/dich-vu/thiet-ke-website-doanh-nghiep/layout,_N_T_/dich-vu/thiet-ke-website-doanh-nghiep/page,_N_T_/dich-vu/thiet-ke-website-doanh-nghiep"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/dich-vu/thiet-ke-website-doanh-nghiep/__PAGE__",
+    "/dich-vu/thiet-ke-website-doanh-nghiep",
+    "/dich-vu",
+    "/_index",
+    "/_head"
+  ]
+}

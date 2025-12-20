@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/kien-thuc/layout,_N_T_/kien-thuc/[...slug]/layout,_N_T_/kien-thuc/[...slug]/page,_N_T_/kien-thuc/checklist-seo-website-doanh-nghiep"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/kien-thuc/$c$slug/__PAGE__",
+    "/kien-thuc/$c$slug",
+    "/kien-thuc",
+    "/_index",
+    "/_head"
+  ]
+}

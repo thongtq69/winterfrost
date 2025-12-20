@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/khoa-hoc/layout,_N_T_/khoa-hoc/[slug]/layout,_N_T_/khoa-hoc/[slug]/page,_N_T_/khoa-hoc/khoa-hoc-thiet-ke-website-wordpress"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/khoa-hoc/$d$slug/__PAGE__",
+    "/khoa-hoc/$d$slug",
+    "/khoa-hoc",
+    "/_index",
+    "/_head"
+  ]
+}

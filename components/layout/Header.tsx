@@ -86,12 +86,16 @@ const Header = () => {
       <div ref={navRef}>
         <Container className="flex items-center justify-between gap-6 py-4 lg:py-5">
           <Link href="/" className="inline-flex items-center gap-3 focus-outline" aria-label="Trang chủ">
-            <div className="flex h-11 w-11 items-center justify-center rounded-2xl bg-brand-600 text-white shadow-ring">
-              <span className="text-lg font-extrabold">{siteConfig.brandName.split(' ')[0] ?? 'BR'}</span>
+            <div className="flex h-12 w-12 items-center justify-center rounded-2xl bg-white text-white shadow-ring ring-1 ring-gray-100">
+              {siteConfig.assets.markPath ? (
+                <img src={siteConfig.assets.markPath} alt={siteConfig.brand.name} className="h-12 w-12 object-contain" />
+              ) : (
+                <span className="text-lg font-extrabold text-brand-600">{siteConfig.brand.name.split(' ')[0] ?? 'WF'}</span>
+              )}
             </div>
             <div className="hidden sm:block">
-              <p className="text-sm font-semibold text-brand-700">{siteConfig.brandName}</p>
-              <p className="text-xs text-gray-500">Tư vấn phát triển website</p>
+              <p className="text-base font-semibold text-brand-700">{siteConfig.brand.name}</p>
+              <p className="text-sm text-gray-500">{siteConfig.brand.tagline}</p>
             </div>
           </Link>
 
@@ -177,9 +181,9 @@ const Header = () => {
           </nav>
 
           <div className="hidden items-center gap-3 lg:flex">
-            <Badge className="bg-brand-50 text-brand-700">Tư vấn 1-1</Badge>
+            <Badge className="bg-brand-50 text-brand-700">{siteConfig.cta.secondaryText}</Badge>
             <Button size="lg" icon={<PhoneCall size={18} />} asChild>
-              <Link href="/lien-he">Liên hệ ngay</Link>
+              <Link href={siteConfig.cta.primaryHref}>{siteConfig.cta.primaryText}</Link>
             </Button>
           </div>
 
@@ -227,8 +231,8 @@ const Header = () => {
             >
               <div className="mb-6 flex items-center justify-between">
                 <div>
-                  <p className="text-sm font-semibold text-brand-700">{siteConfig.brandName}</p>
-                  <p className="text-xs text-gray-500">Tư vấn phát triển website</p>
+                  <p className="text-sm font-semibold text-brand-700">{siteConfig.brand.name}</p>
+                  <p className="text-xs text-gray-500">{siteConfig.brand.tagline}</p>
                 </div>
                 <button
                   type="button"
@@ -270,9 +274,9 @@ const Header = () => {
               </div>
               <div className="mt-6 space-y-3">
                 <Button className="w-full" size="lg" icon={<PhoneCall size={18} />} asChild>
-                  <Link href="/lien-he">Nhận tư vấn</Link>
+                  <Link href={siteConfig.cta.primaryHref}>{siteConfig.cta.primaryText}</Link>
                 </Button>
-                <Badge className="bg-brand-50 text-center text-brand-700">Ưu tiên phản hồi trong 24h</Badge>
+                <Badge className="bg-brand-50 text-center text-brand-700">Ưu tiên phản hồi {siteConfig.contact.onlineSupport}</Badge>
               </div>
             </motion.div>
           </motion.div>

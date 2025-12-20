@@ -19,7 +19,7 @@ const HomeHero = () => (
   <section className="relative overflow-hidden pb-12 pt-2 sm:pt-4 lg:pt-6" id="hero">
     <Container className="relative grid items-start gap-8 lg:grid-cols-2 lg:items-start">
       <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.6 }} className="space-y-6">
-        <Badge className="bg-white shadow-card text-brand-700">{siteConfig.brandName} / Tư vấn phát triển website</Badge>
+        <Badge className="bg-white shadow-card text-brand-700">{siteConfig.brand.name} / {siteConfig.brand.tagline}</Badge>
         <h1 className="text-4xl font-extrabold leading-[1.05] tracking-tight text-ink sm:text-5xl lg:text-[52px]">
           Thiết kế website tối ưu chuyển đổi & chuẩn SEO
         </h1>
@@ -60,7 +60,7 @@ const HomeHero = () => (
         <div className="relative w-full max-w-[780px] lg:max-w-[820px] lg:max-h-[520px] overflow-hidden rounded-[32px]">
           <HeroMedia className="h-full" />
           <div className="absolute left-4 top-4 rounded-2xl bg-white/90 px-3 py-2 text-xs font-semibold text-ink shadow-card backdrop-blur">
-            {siteConfig.brandName} • Workshop • Mentoring
+            {siteConfig.brand.name} • Workshop • Mentoring
           </div>
         </div>
       </motion.div>

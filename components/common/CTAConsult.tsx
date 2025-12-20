@@ -3,6 +3,8 @@ import Link from 'next/link';
 import Card from '../ui/Card';
 import Container from '../ui/Container';
 import Button from '../ui/Button';
+import { siteConfig } from '../../site.config';
+import { telHref } from '../../src/lib/format';
 
 type Props = {
   anchorId?: string;
@@ -21,10 +23,10 @@ const CTAConsult = ({ anchorId }: Props) => (
         </div>
         <div className="flex flex-col gap-3 sm:flex-row sm:items-center">
           <Button variant="secondary" size="lg" className="bg-white text-brand-700 hover:-translate-y-0.5" icon={<MessageCircle size={18} />} asChild>
-            <Link href="https://example.com">Chat Zalo ngay</Link>
+            <Link href={siteConfig.links.zalo}>{siteConfig.cta.zaloText}</Link>
           </Button>
           <Button variant="ghost" size="lg" className="text-white hover:bg-white/10" icon={<PhoneCall size={18} />} asChild>
-            <Link href="/lien-he">Gọi lịch nhanh</Link>
+            <Link href={telHref(siteConfig.contact.phoneTel)}>Gọi {siteConfig.contact.phoneDisplay}</Link>
           </Button>
         </div>
       </Card>

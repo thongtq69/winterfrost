@@ -6,17 +6,18 @@ import Card from '../../components/ui/Card';
 import Container from '../../components/ui/Container';
 import SectionHeading from '../../components/ui/SectionHeading';
 import { siteConfig } from '../../site.config';
+import { mailHref, telHref } from '../../src/lib/format';
 
 export const metadata: Metadata = {
-  title: 'Liên hệ',
+  title: 'Liên hệ | WinterFrost',
   description: 'Kết nối để nhận tư vấn thiết kế website, tối ưu SEO và chuyển đổi.',
 };
 
 const contacts = [
-  { title: 'Số điện thoại', value: siteConfig.phone, action: 'Gọi ngay', icon: PhoneCall, href: `tel:${siteConfig.phone.replace(/\s/g, '')}` },
-  { title: 'Zalo', value: siteConfig.zalo, action: 'Chat ngay', icon: MessageCircle, href: siteConfig.zalo },
-  { title: 'Email', value: siteConfig.email, action: 'Gửi tin nhắn', icon: Mail, href: `mailto:${siteConfig.email}` },
-  { title: 'Facebook', value: siteConfig.facebook, action: 'Kết nối', icon: Facebook, href: siteConfig.facebook },
+  { title: 'Số điện thoại', value: siteConfig.contact.phoneDisplay, action: 'Gọi ngay', icon: PhoneCall, href: telHref(siteConfig.contact.phoneTel) },
+  { title: 'Zalo', value: siteConfig.links.zalo, action: siteConfig.cta.zaloText, icon: MessageCircle, href: siteConfig.links.zalo },
+  { title: 'Email', value: siteConfig.contact.email, action: 'Gửi tin nhắn', icon: Mail, href: mailHref(siteConfig.contact.email) },
+  { title: 'Facebook', value: siteConfig.links.facebook, action: 'Kết nối', icon: Facebook, href: siteConfig.links.facebook },
 ];
 
 export default function ContactPage() {

@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/quy-trinh-lam-viec/layout,_N_T_/quy-trinh-lam-viec/page,_N_T_/quy-trinh-lam-viec"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/quy-trinh-lam-viec/__PAGE__",
+    "/quy-trinh-lam-viec",
+    "/_index",
+    "/_head"
+  ]
+}

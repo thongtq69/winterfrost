@@ -1,6 +1,7 @@
 import { MessageCircle, PhoneCall } from 'lucide-react';
 import Link from 'next/link';
 import { siteConfig } from '../../site.config';
+import { telHref } from '../../src/lib/format';
 import Button from './Button';
 import Card from './Card';
 import Container from './Container';
@@ -18,7 +19,7 @@ const CTASection = ({
     <Container>
       <Card className="flex flex-col gap-6 rounded-3xl bg-gradient-to-r from-brand-600 via-brand-600 to-brand-500 p-6 text-white lg:flex-row lg:items-center lg:justify-between">
         <div>
-          <p className="text-sm uppercase tracking-wide text-white/70">{siteConfig.brandName}</p>
+          <p className="text-sm uppercase tracking-wide text-white/70">{siteConfig.brand.name}</p>
           <h3 className="mt-1 text-2xl font-extrabold">{title}</h3>
           <p className="mt-2 text-sm text-white/80">{description}</p>
         </div>
@@ -30,10 +31,10 @@ const CTASection = ({
             icon={<MessageCircle size={18} />}
             asChild
           >
-            <Link href={siteConfig.zalo}>Chat Zalo ngay</Link>
+            <Link href={siteConfig.links.zalo}>{siteConfig.cta.zaloText}</Link>
           </Button>
           <Button variant="ghost" size="lg" className="text-white hover:bg-white/10" icon={<PhoneCall size={18} />} asChild>
-            <Link href="/lien-he">Nhận tư vấn</Link>
+            <Link href={telHref(siteConfig.contact.phoneTel)}>{siteConfig.cta.primaryText}</Link>
           </Button>
         </div>
       </Card>

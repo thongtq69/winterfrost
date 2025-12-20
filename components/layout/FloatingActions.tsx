@@ -1,10 +1,12 @@
 'use client';
 
 import { AnimatePresence, motion } from 'framer-motion';
-import { ArrowUp, Home, Mail, Menu, MessageCircle, PhoneCall } from 'lucide-react';
+import { ArrowUp, Home, Mail, Menu, MessageCircle, PhoneCall, Facebook } from 'lucide-react';
 import Link from 'next/link';
 import { useEffect, useState } from 'react';
 import Button from '../ui/Button';
+import { siteConfig } from '../../site.config';
+import { mailHref, telHref } from '../../src/lib/format';
 
 const FloatingActions = () => {
   const [visible, setVisible] = useState(false);
@@ -20,9 +22,10 @@ const FloatingActions = () => {
   const actions = [
     { label: 'Menu', icon: <Menu size={18} />, onClick: () => window.scrollTo({ top: 0, behavior: 'smooth' }) },
     { label: 'Home', icon: <Home size={18} />, href: '/' },
-    { label: 'Gọi điện', icon: <PhoneCall size={18} />, href: 'tel:0988000888' },
-    { label: 'Zalo', icon: <MessageCircle size={18} />, href: 'https://zalo.me' },
-    { label: 'Liên hệ', icon: <Mail size={18} />, href: '/lien-he' },
+    { label: 'Gọi điện', icon: <PhoneCall size={18} />, href: telHref(siteConfig.contact.phoneTel) },
+    { label: siteConfig.cta.zaloText, icon: <MessageCircle size={18} />, href: siteConfig.links.zalo },
+    { label: 'Email', icon: <Mail size={18} />, href: mailHref(siteConfig.contact.email) },
+    { label: 'Facebook', icon: <Facebook size={18} />, href: siteConfig.links.facebook },
     { label: 'Lên đầu trang', icon: <ArrowUp size={18} />, onClick: () => window.scrollTo({ top: 0, behavior: 'smooth' }) },
   ];
 

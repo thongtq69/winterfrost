@@ -22,18 +22,16 @@ const Footer = () => {
         <div className="space-y-4">
           <div className="inline-flex items-center gap-3">
             <div className="flex h-12 w-12 items-center justify-center rounded-2xl bg-brand-600 text-white shadow-card">
-              <span className="text-lg font-extrabold">{siteConfig.brandName.split(' ')[0] ?? 'BR'}</span>
+              <span className="text-lg font-extrabold">{siteConfig.brand.name.split(' ')[0] ?? 'WF'}</span>
             </div>
             <div>
-              <p className="text-sm font-semibold text-brand-700">{siteConfig.brandName}</p>
-              <p className="text-xs text-gray-500">Tư vấn phát triển website.</p>
+              <p className="text-sm font-semibold text-brand-700">{siteConfig.brand.name}</p>
+              <p className="text-xs text-gray-500">{siteConfig.brand.tagline}</p>
             </div>
           </div>
-          <p className="text-sm text-gray-600">
-            Thiết kế website, tối ưu SEO và chuyển đổi. Đồng hành từ discovery đến bàn giao.
-          </p>
+          <p className="text-sm text-gray-600">{siteConfig.brand.description}</p>
           <div className="flex items-center gap-3">
-            {[{ icon: Linkedin, href: siteConfig.facebook }, { icon: Facebook, href: siteConfig.facebook }, { icon: Clapperboard, href: siteConfig.tiktok }].map(
+            {[{ icon: Linkedin, href: siteConfig.links.linkedin }, { icon: Facebook, href: siteConfig.links.facebook }, { icon: Clapperboard, href: siteConfig.links.tiktok }].map(
               ({ icon: Icon, href }) => (
                 <Link
                   key={href}
@@ -61,20 +59,29 @@ const Footer = () => {
             </ul>
           </div>
         ))}
+
+        <div className="space-y-3">
+          <h3 className="text-sm font-semibold text-gray-800">Liên hệ</h3>
+          <div className="space-y-1 text-sm text-gray-600">
+            <p>Phone: <Link href={`tel:${siteConfig.contact.phoneTel}`} className="hover:text-brand-700 hover:underline">{siteConfig.contact.phoneDisplay}</Link></p>
+            <p>Email: <Link href={`mailto:${siteConfig.contact.email}`} className="hover:text-brand-700 hover:underline">{siteConfig.contact.email}</Link></p>
+            <p>Địa chỉ: {siteConfig.contact.address}</p>
+            <p>Hỗ trợ: {siteConfig.contact.onlineSupport}</p>
+            <p>Giờ làm việc: {siteConfig.contact.officeHours}</p>
+          </div>
+        </div>
       </Container>
       <div className="border-t border-gray-100 bg-white/60">
         <Container className="flex flex-col items-center justify-between gap-4 py-4 text-xs text-gray-500 sm:flex-row">
-          <p>© {new Date().getFullYear()} {siteConfig.brandName}. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} {siteConfig.brand.name}. All rights reserved.</p>
           <div className="flex items-center gap-4">
-            <Link className="hover:text-brand-700 hover:underline" href="https://example.com">
+            <Link className="hover:text-brand-700 hover:underline" href={siteConfig.legal.privacyHref}>
               Privacy
             </Link>
-            <Link className="hover:text-brand-700 hover:underline" href="https://example.com">
+            <Link className="hover:text-brand-700 hover:underline" href={siteConfig.legal.termsHref}>
               Terms
             </Link>
-            <Link className="hover:text-brand-700 hover:underline" href="https://example.com">
-              Cookies
-            </Link>
+            <span className="text-gray-400">Support {siteConfig.contact.onlineSupport}</span>
           </div>
         </Container>
       </div>

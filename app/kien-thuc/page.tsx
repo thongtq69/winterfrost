@@ -4,12 +4,13 @@ import BlogList from '../../components/blog/BlogList';
 import BlogSidebar from '../../components/blog/BlogSidebar';
 import CTAConsult from '../../components/common/CTAConsult';
 import { posts } from '../../src/data/posts';
+import { siteConfig } from '../../site.config';
 
 export const metadata: Metadata = {
-  title: 'Kiến thức | YOUR BRAND',
+  title: `Kiến thức | ${siteConfig.brand.name}`,
   description: 'Chia sẻ kiến thức về thiết kế website, SEO, tối ưu chuyển đổi và trải nghiệm người dùng.',
   openGraph: {
-    title: 'Kiến thức | YOUR BRAND',
+    title: `Kiến thức | ${siteConfig.brand.name}`,
     description: 'Chia sẻ kiến thức về thiết kế website, SEO, tối ưu chuyển đổi và trải nghiệm người dùng.',
   },
 };

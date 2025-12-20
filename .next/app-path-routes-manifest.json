@@ -1,0 +1,19 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/chinh-sach-bao-mat/page": "/chinh-sach-bao-mat",
+  "/dich-vu/[slug]/page": "/dich-vu/[slug]",
+  "/dich-vu/page": "/dich-vu",
+  "/dich-vu/thiet-ke-website-doanh-nghiep/page": "/dich-vu/thiet-ke-website-doanh-nghiep",
+  "/dieu-khoan/page": "/dieu-khoan",
+  "/du-an/[slug]/page": "/du-an/[slug]",
+  "/du-an/page": "/du-an",
+  "/khoa-hoc/[slug]/page": "/khoa-hoc/[slug]",
+  "/kien-thuc/[...slug]/page": "/kien-thuc/[...slug]",
+  "/kien-thuc/page": "/kien-thuc",
+  "/lien-he/page": "/lien-he",
+  "/page": "/",
+  "/quy-trinh-lam-viec/page": "/quy-trinh-lam-viec",
+  "/tai-nguyen/page": "/tai-nguyen",
+  "/tiktok/page": "/tiktok"
+}
