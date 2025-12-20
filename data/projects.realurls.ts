@@ -1,0 +1,362 @@
+export const projectsRealUrls = [
+  {
+    "slug": "wbc",
+    "title": "wbc",
+    "detailUrl": "https://xuanhieuit.com/du-an/wbc/",
+    "realUrl": null
+  },
+  {
+    "slug": "cong-ty-tnhh-tu-van-va-quan-ly-sct",
+    "title": "cong-ty-tnhh-tu-van-va-quan-ly-sct",
+    "detailUrl": "https://xuanhieuit.com/du-an/cong-ty-tnhh-tu-van-va-quan-ly-sct/",
+    "realUrl": null
+  },
+  {
+    "slug": "h3-group",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/h3-group/",
+    "realUrl": "https://h3group.com.vn/"
+  },
+  {
+    "slug": "catherine-cruise",
+    "title": "catherine-cruise",
+    "detailUrl": "https://xuanhieuit.com/du-an/catherine-cruise/",
+    "realUrl": null
+  },
+  {
+    "slug": "meditrain",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/meditrain/",
+    "realUrl": "https://meditrain.xuanhieuit.com/"
+  },
+  {
+    "slug": "pathfinder",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/pathfinder/",
+    "realUrl": "https://pathfinder.edu.vn/"
+  },
+  {
+    "slug": "viamc",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/viamc/",
+    "realUrl": "https://amcvietnam.edufly.edu.vn/"
+  },
+  {
+    "slug": "vi-vu-quang-binh",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/vi-vu-quang-binh/",
+    "realUrl": "https://vivuquangbinh.vn/"
+  },
+  {
+    "slug": "fly-future",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/fly-future/",
+    "realUrl": "https://flyfuture.edu.vn"
+  },
+  {
+    "slug": "thanh-toan-viet-tin",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/thanh-toan-viet-tin/",
+    "realUrl": "https://restaurant.vvt.com.vn/"
+  },
+  {
+    "slug": "hoang-ngan-jp",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/hoang-ngan-jp/",
+    "realUrl": "https://hoangnganrestaurant.com/"
+  },
+  {
+    "slug": "royalcare",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/royalcare/",
+    "realUrl": "https://royalcare.net.vn/"
+  },
+  {
+    "slug": "romo-cons",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/romo-cons/",
+    "realUrl": "https://romo.vn/"
+  },
+  {
+    "slug": "bao-hung",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/bao-hung/",
+    "realUrl": "https://baohung.co/"
+  },
+  {
+    "slug": "viet-sky-agency",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/viet-sky-agency/",
+    "realUrl": "https://skyvietagency.com/"
+  },
+  {
+    "slug": "hang-gift-store",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/hang-gift-store/",
+    "realUrl": "https://hangstore.net/"
+  },
+  {
+    "slug": "tra-sua-bong-bieng",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/tra-sua-bong-bieng/",
+    "realUrl": "https://bongbieng.xuanhieuit.com/"
+  },
+  {
+    "slug": "cnbuyapp-ung-dung",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/cnbuyapp-ung-dung/",
+    "realUrl": "https://cnbuyapp.com"
+  },
+  {
+    "slug": "kyodai-hai-duong",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/kyodai-hai-duong/",
+    "realUrl": "https://kyodai.xuanhieuit.com/"
+  },
+  {
+    "slug": "may-chieu-hoci",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/may-chieu-hoci/",
+    "realUrl": "https://maychieuhoci.xuanhieuit.com/"
+  },
+  {
+    "slug": "eclate",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/eclate/",
+    "realUrl": "https://eclate.vn/"
+  },
+  {
+    "slug": "diademy-elearning",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/diademy-elearning/",
+    "realUrl": "https://lms01.builtemp.com/"
+  },
+  {
+    "slug": "ldp-bds-eaton-park",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/ldp-bds-eaton-park/",
+    "realUrl": "https://eatonpark.xuanhieuit.com/"
+  },
+  {
+    "slug": "cong-vien-76",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/cong-vien-76/",
+    "realUrl": "https://congvien76.xuanhieuit.com"
+  },
+  {
+    "slug": "elearning-website",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/elearning-website/",
+    "realUrl": "https://elearning.xuanhieuit.com/"
+  },
+  {
+    "slug": "website-ban-qua-tet",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/website-ban-qua-tet/",
+    "realUrl": "https://quatet.xuanhieuit.com/"
+  },
+  {
+    "slug": "qspa",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/qspa/",
+    "realUrl": "https://qspa.vn/"
+  },
+  {
+    "slug": "qbeauty",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/qbeauty/",
+    "realUrl": "https://qbeauty.vn/"
+  },
+  {
+    "slug": "tu-an-clinic",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/tu-an-clinic/",
+    "realUrl": "https://tuanclinic.xuanhieuit.com"
+  },
+  {
+    "slug": "myosung-trading",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/myosung-trading/",
+    "realUrl": "https://myosung.com"
+  },
+  {
+    "slug": "coinminutes",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/coinminutes/",
+    "realUrl": "https://coinminutes.com/"
+  },
+  {
+    "slug": "ommani-viet-nam",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/ommani-viet-nam/",
+    "realUrl": "https://ommanivietnam.com/"
+  },
+  {
+    "slug": "truong-anh-holtel",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/truong-anh-holtel/",
+    "realUrl": "https://truonganhhotel.com/"
+  },
+  {
+    "slug": "nha-dat-kim-tuan",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/nha-dat-kim-tuan/",
+    "realUrl": "https://kimtuan.vn"
+  },
+  {
+    "slug": "masteri-waterfront",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/masteri-waterfront/",
+    "realUrl": "https://masteri.xuanhieuit.com/"
+  },
+  {
+    "slug": "travel-newland",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/travel-newland/",
+    "realUrl": "https://newland.xuanhieuit.com/"
+  },
+  {
+    "slug": "thuy-san-vuong-phat-68",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/thuy-san-vuong-phat-68/",
+    "realUrl": "https://thuysanvuongphat68.com/"
+  },
+  {
+    "slug": "level-up",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/level-up/",
+    "realUrl": "https://levelup.xuanhieuit.com/"
+  },
+  {
+    "slug": "aplus",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/aplus/",
+    "realUrl": "https://pktmaplus.com/"
+  },
+  {
+    "slug": "patado-go",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/patado-go/",
+    "realUrl": "https://duhocpatado.edu.vn/"
+  },
+  {
+    "slug": "nha-thuoc-manh-anh",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/nha-thuoc-manh-anh/",
+    "realUrl": "https://nhathuocmanhanh.com.vn/"
+  },
+  {
+    "slug": "nha-khoa-ken",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/nha-khoa-ken/",
+    "realUrl": "https://nhakhoaken.com"
+  },
+  {
+    "slug": "luong-dien-ngoc-lien",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/luong-dien-ngoc-lien/",
+    "realUrl": "https://luongdienngoclien.com/"
+  },
+  {
+    "slug": "my-candy-viet-nam",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/my-candy-viet-nam/",
+    "realUrl": "https://mycandyvn.com/"
+  },
+  {
+    "slug": "qacademy",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/qacademy/",
+    "realUrl": "https://qacademy.vn/"
+  },
+  {
+    "slug": "kjm-group-korea-ginseng-center",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/kjm-group-korea-ginseng-center/",
+    "realUrl": "https://kojamart.xuanhieuit.com/"
+  },
+  {
+    "slug": "6868-logistics",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/6868-logistics/",
+    "realUrl": "https://6868logistics.xuanhieuit.com/"
+  },
+  {
+    "slug": "mens-hair-designer",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/mens-hair-designer/",
+    "realUrl": "https://giun.vn"
+  },
+  {
+    "slug": "duoc-bat-phuc",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/duoc-bat-phuc/",
+    "realUrl": "https://bpmpharma.com/"
+  },
+  {
+    "slug": "agency-mic-creative",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/agency-mic-creative/",
+    "realUrl": "https://miccreative.vn"
+  },
+  {
+    "slug": "xuong-thiet-ke-kas-house",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/xuong-thiet-ke-kas-house/",
+    "realUrl": "https://xuongthietkecuakas.com"
+  },
+  {
+    "slug": "qgroup",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/qgroup/",
+    "realUrl": "https://qgroups.vn/"
+  },
+  {
+    "slug": "benh-vien-mat-ha-noi",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/benh-vien-mat-ha-noi/",
+    "realUrl": "https://benhvienmathanoi.gov.vn/"
+  },
+  {
+    "slug": "phong-kham-mat-bich-ngoc",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/phong-kham-mat-bich-ngoc/",
+    "realUrl": "https://matbichngoc.vn/"
+  },
+  {
+    "slug": "wulong",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/wulong/",
+    "realUrl": "https://wulong.vn/"
+  },
+  {
+    "slug": "mabanol-viet-nam",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/mabanol-viet-nam/",
+    "realUrl": "https://mabanolvietnam.vn/"
+  },
+  {
+    "slug": "moss-viet-nam",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/moss-viet-nam/",
+    "realUrl": "https://moss.xuanhieuit.com/"
+  },
+  {
+    "slug": "sao-ee-viet-nam-va-tot-architects-tay-ban-nha",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/sao-ee-viet-nam-va-tot-architects-tay-ban-nha/",
+    "realUrl": "https://satoh.xuanhieuit.com"
+  },
+  {
+    "slug": "alegolf",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/alegolf/",
+    "realUrl": "https://alegolf.com"
+  },
+  {
+    "slug": "lau-wang",
+    "title": "Dự án hoàn thành",
+    "detailUrl": "https://xuanhieuit.com/du-an/lau-wang/",
+    "realUrl": "https://lauwang.vn/"
+  }
+] as const;

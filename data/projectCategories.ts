@@ -1,0 +1,18 @@
+export const projectCategories = [
+  'Bán hàng',
+  'Bất động sản',
+  'Doanh nghiệp',
+  'Du lịch',
+  'Dược phẩm & thuốc',
+  'Giáo dục',
+  'Hair salon',
+  'Khách sạn',
+  'Landing Page',
+  'Nhà hàng',
+  'Nội thất',
+  'Phòng khám',
+  'Spa',
+  'Tin tức & Blog',
+  'Y tế',
+  'All',
+];
