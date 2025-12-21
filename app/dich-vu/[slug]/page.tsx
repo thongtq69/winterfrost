@@ -12,7 +12,7 @@ import { getServiceDetail, serviceDetails } from '../../../data/services';
 import { getServicePageMetadata } from '@lib/seo';
 
 type Props = {
-  params: { slug: string };
+  params: Promise<{ slug: string }>;
 };
 
 export async function generateStaticParams() {
@@ -20,11 +20,12 @@ export async function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
-  return getServicePageMetadata(params.slug);
+  const { slug } = await params;
+  return getServicePageMetadata(slug);
 }
 
-export default function ServiceDetailPage({ params }: Props) {
-  const { slug } = params;
+export default async function ServiceDetailPage({ params }: Props) {
+  const { slug } = await params;
   const service = getServiceDetail(slug);
   if (!service) return notFound();
 

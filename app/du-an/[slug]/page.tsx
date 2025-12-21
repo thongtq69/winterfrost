@@ -12,7 +12,7 @@ import { workflowSteps } from '../../../data/workflow';
 import { buildPageMetadata, getProjectDetailMetadata } from '@lib/seo';
 
 type Props = {
-  params: { slug: string };
+  params: Promise<{ slug: string }>;
 };
 
 export function generateStaticParams() {
@@ -20,7 +20,7 @@ export function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
-  const { slug } = params;
+  const { slug } = await params;
   const project = getProjectBySlug(slug);
   if (!project) {
     return buildPageMetadata({
@@ -39,10 +39,11 @@ const faqItems = [
 ];
 
 export default async function ProjectDetailPage({ params }: Props) {
-  const project = getProjectBySlug(params.slug);
+  const { slug } = await params;
+  const project = getProjectBySlug(slug);
   if (!project) return notFound();
 
-  const related = projects.filter((p) => p.slug !== params.slug).slice(0, 4);
+  const related = projects.filter((p) => p.slug !== slug).slice(0, 4);
 
   return (
     <>
