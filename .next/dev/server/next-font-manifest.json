@@ -3,10 +3,16 @@
     "[project]/app/_not-found/page": [
       "static/media/a343f882a40d2cc9-s.p.71e1367e.woff2"
     ],
-    "[project]/app/page": [
+    "[project]/app/admin/du-an/page": [
       "static/media/a343f882a40d2cc9-s.p.71e1367e.woff2"
     ],
-    "[project]/app/tiktok/page": [
+    "[project]/app/du-an/[slug]/page": [
+      "static/media/a343f882a40d2cc9-s.p.71e1367e.woff2"
+    ],
+    "[project]/app/du-an/page": [
+      "static/media/a343f882a40d2cc9-s.p.71e1367e.woff2"
+    ],
+    "[project]/app/page": [
       "static/media/a343f882a40d2cc9-s.p.71e1367e.woff2"
     ]
   },

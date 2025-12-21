@@ -74,6 +74,18 @@
       "namedRegex": "^/_not\\-found(?:/)?$"
     },
     {
+      "page": "/admin/du-an",
+      "regex": "^/admin/du\\-an(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/admin/du\\-an(?:/)?$"
+    },
+    {
+      "page": "/api/admin/save-projects",
+      "regex": "^/api/admin/save\\-projects(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/api/admin/save\\-projects(?:/)?$"
+    },
+    {
       "page": "/chinh-sach-bao-mat",
       "regex": "^/chinh\\-sach\\-bao\\-mat(?:/)?$",
       "routeKeys": {},

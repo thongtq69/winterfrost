@@ -1,6 +1,8 @@
 {
   "/_global-error/page": "app/_global-error/page.js",
   "/_not-found/page": "app/_not-found/page.js",
+  "/admin/du-an/page": "app/admin/du-an/page.js",
+  "/api/admin/save-projects/route": "app/api/admin/save-projects/route.js",
   "/chinh-sach-bao-mat/page": "app/chinh-sach-bao-mat/page.js",
   "/dich-vu/[slug]/page": "app/dich-vu/[slug]/page.js",
   "/dich-vu/page": "app/dich-vu/page.js",

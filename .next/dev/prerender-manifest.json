@@ -1,11 +1,1 @@
-{
-  "version": 4,
-  "routes": {},
-  "dynamicRoutes": {},
-  "notFoundRoutes": [],
-  "preview": {
-    "previewModeId": "dd015fc5793d02de714363eca7a058b1",
-    "previewModeSigningKey": "128eab411670f88522a6a640590d717a229603f592a662feecf32c9e1207c77a",
-    "previewModeEncryptionKey": "5399ee8f9bcbd63eb369ffd1e500aa705c4cd2647f6e42ad64d9356fde53e902"
-  }
-}
+{"version":4,"routes":{"/du-an/wbc":{},"/du-an/cong-ty-tnhh-tu-van-va-quan-ly-sct":{},"/du-an/h3-group":{},"/du-an/catherine-cruise":{},"/du-an/meditrain":{},"/du-an/pathfinder":{},"/du-an/viamc":{},"/du-an/vi-vu-quang-binh":{},"/du-an/fly-future":{},"/du-an/thanh-toan-viet-tin":{},"/du-an/hoang-ngan-jp":{},"/du-an/royalcare":{},"/du-an/romo-cons":{},"/du-an/bao-hung":{},"/du-an/viet-sky-agency":{},"/du-an/hang-gift-store":{},"/du-an/tra-sua-bong-bieng":{},"/du-an/cnbuyapp-ung-dung":{},"/du-an/kyodai-hai-duong":{},"/du-an/may-chieu-hoci":{},"/du-an/eclate":{},"/du-an/diademy-elearning":{},"/du-an/ldp-bds-eaton-park":{},"/du-an/cong-vien-76":{},"/du-an/elearning-website":{},"/du-an/website-ban-qua-tet":{},"/du-an/qspa":{},"/du-an/qbeauty":{},"/du-an/tu-an-clinic":{},"/du-an/myosung-trading":{},"/du-an/coinminutes":{},"/du-an/ommani-viet-nam":{},"/du-an/truong-anh-holtel":{},"/du-an/nha-dat-kim-tuan":{},"/du-an/masteri-waterfront":{},"/du-an/travel-newland":{},"/du-an/thuy-san-vuong-phat-68":{},"/du-an/level-up":{},"/du-an/aplus":{},"/du-an/patado-go":{},"/du-an/nha-thuoc-manh-anh":{},"/du-an/nha-khoa-ken":{},"/du-an/luong-dien-ngoc-lien":{},"/du-an/my-candy-viet-nam":{},"/du-an/qacademy":{},"/du-an/kjm-group-korea-ginseng-center":{},"/du-an/6868-logistics":{},"/du-an/mens-hair-designer":{},"/du-an/duoc-bat-phuc":{},"/du-an/agency-mic-creative":{},"/du-an/xuong-thiet-ke-kas-house":{},"/du-an/qgroup":{},"/du-an/benh-vien-mat-ha-noi":{},"/du-an/phong-kham-mat-bich-ngoc":{},"/du-an/wulong":{},"/du-an/mabanol-viet-nam":{},"/du-an/moss-viet-nam":{},"/du-an/sao-ee-viet-nam-va-tot-architects-tay-ban-nha":{},"/du-an/alegolf":{},"/du-an/lau-wang":{},"/du-an/du-an-moi-60":{}},"dynamicRoutes":{"/du-an/[slug]":{"dataRoute":null,"dataRouteRegex":null,"fallback":null,"fallbackRevalidate":false,"fallbackSourceRoute":"/du-an/[slug]","routeRegex":"^\\/du\\-an\\/([^/]+?)(?:\\/)?$","allowHeader":[]}},"notFoundRoutes":[],"preview":{"previewModeId":"92aa6b084e6e133f7d7d61e7c3fb6707","previewModeSigningKey":"eebe6ecd244b79f679179666dc182e322237b174be9e47f2b05009da88f52fc4","previewModeEncryptionKey":"c1e7b348721c7b40a875d6e55269af232b95ccd4c9d24b525df948bccf42f2fd"}}

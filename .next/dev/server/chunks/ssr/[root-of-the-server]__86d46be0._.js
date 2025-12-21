@@ -235,7 +235,7 @@ const siteConfig = {
     },
     links: {
         zalo: 'https://zaloapp.com/qr/p/t2fsk4cb36fx?src=qr',
-        facebook: 'https://www.facebook.com/thong.quoc.791790',
+        facebook: 'https://www.facebook.com/profile.php?id=61585603883149',
         tiktok: 'https://www.tiktok.com/@thongtq68',
         github: 'https://github.com/thongtq69',
         linkedin: 'https://example.com/linkedin',
@@ -254,8 +254,8 @@ const siteConfig = {
         termsHref: '/dieu-khoan'
     },
     assets: {
-        logoPath: '/brand/logo.svg',
-        markPath: '/brand/mark.svg',
+        logoPath: '/brand/logo.png',
+        markPath: '/brand/mark.png',
         zaloQrPath: '/brand/zalo-qr.png',
         ogImagePath: '/og.jpg',
         faviconPath: '/favicon.ico'
@@ -393,11 +393,11 @@ const Header = ()=>{
                             "aria-label": "Trang chủ",
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                    className: "flex h-11 w-11 items-center justify-center rounded-2xl bg-white text-white shadow-ring ring-1 ring-gray-100",
+                                    className: "flex h-12 w-12 items-center justify-center rounded-2xl bg-white text-white shadow-ring ring-1 ring-gray-100",
                                     children: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$config$2f$site$2e$config$2e$ts__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["siteConfig"].assets.markPath ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
                                         src: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$config$2f$site$2e$config$2e$ts__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["siteConfig"].assets.markPath,
                                         alt: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$config$2f$site$2e$config$2e$ts__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["siteConfig"].brand.name,
-                                        className: "h-11 w-11 object-contain"
+                                        className: "h-12 w-12 object-contain"
                                     }, void 0, false, {
                                         fileName: "[project]/components/layout/Header.tsx",
                                         lineNumber: 91,
@@ -419,7 +419,7 @@ const Header = ()=>{
                                     className: "hidden sm:block",
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                            className: "text-sm font-semibold text-brand-700",
+                                            className: "text-base font-semibold text-brand-700",
                                             children: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$config$2f$site$2e$config$2e$ts__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["siteConfig"].brand.name
                                         }, void 0, false, {
                                             fileName: "[project]/components/layout/Header.tsx",
@@ -427,7 +427,7 @@ const Header = ()=>{
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                            className: "text-xs text-gray-500",
+                                            className: "text-sm text-gray-500",
                                             children: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$config$2f$site$2e$config$2e$ts__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["siteConfig"].brand.tagline
                                         }, void 0, false, {
                                             fileName: "[project]/components/layout/Header.tsx",

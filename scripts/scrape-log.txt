@@ -1,0 +1,5 @@
+[2025-12-21T04:07:42.112Z] Starting scraper...
+[2025-12-21T04:07:42.300Z] Found 1 pages
+[2025-12-21T04:07:42.301Z] Scraping page 1/1: https://xuanhieuit.com/du-an/
+[2025-12-21T04:07:42.314Z] Found 12 projects on page 1
+[2025-12-21T04:08:10.843Z] Scraping completed. Total projects: 12

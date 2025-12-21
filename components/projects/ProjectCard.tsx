@@ -11,7 +11,16 @@ type Props = {
 
 const ProjectCard = ({ project }: Props) => (
   <Card className="flex h-full flex-col gap-4 rounded-3xl p-5 transition duration-200 hover:-translate-y-1.5 hover:shadow-soft">
-    <ImagePlaceholder label="Preview" aspect="aspect-[4/3]" />
+    <div className="overflow-hidden rounded-2xl border border-dashed border-gray-200 bg-white">
+      {project.cover ? (
+        <div className="relative aspect-[4/3]">
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img src={project.cover} alt={project.title} className="h-full w-full object-cover" />
+        </div>
+      ) : (
+        <ImagePlaceholder label="Preview" aspect="aspect-[4/3]" />
+      )}
+    </div>
     <div className="flex items-center justify-between">
       <span className="rounded-full bg-brand-50 px-3 py-1 text-xs font-semibold text-brand-700">Dự án</span>
       <span className="inline-flex items-center gap-1 text-xs font-semibold text-gray-600">
