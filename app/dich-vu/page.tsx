@@ -3,11 +3,9 @@ import ServicesGrid from '../../components/sections/ServicesGrid';
 import CTASection from '../../components/ui/CTASection';
 import Container from '../../components/ui/Container';
 import SectionHeading from '../../components/ui/SectionHeading';
+import { servicesPageMetadata } from '@lib/seo';
 
-export const metadata: Metadata = {
-  title: 'Dịch vụ thiết kế website',
-  description: '4 gói dịch vụ thiết kế website: bán hàng, doanh nghiệp, landing page, theo yêu cầu.',
-};
+export const metadata: Metadata = servicesPageMetadata;
 
 export default function ServicesPage() {
   return (

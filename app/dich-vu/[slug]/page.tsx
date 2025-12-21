@@ -9,9 +9,10 @@ import Container from '../../../components/ui/Container';
 import ImagePlaceholder from '../../../components/ui/ImagePlaceholder';
 import SectionHeading from '../../../components/ui/SectionHeading';
 import { getServiceDetail, serviceDetails } from '../../../data/services';
+import { getServicePageMetadata } from '@lib/seo';
 
 type Props = {
-  params: Promise<{ slug: string }>;
+  params: { slug: string };
 };
 
 export async function generateStaticParams() {
@@ -19,17 +20,11 @@ export async function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
-  const { slug } = await params;
-  const service = getServiceDetail(slug);
-  if (!service) return { title: 'Dịch vụ', description: 'Dịch vụ thiết kế website' };
-  return {
-    title: service.title,
-    description: service.intro,
-  };
+  return getServicePageMetadata(params.slug);
 }
 
-export default async function ServiceDetailPage({ params }: Props) {
-  const { slug } = await params;
+export default function ServiceDetailPage({ params }: Props) {
+  const { slug } = params;
   const service = getServiceDetail(slug);
   if (!service) return notFound();
 

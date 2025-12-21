@@ -1,4 +1,3 @@
-import type { Metadata } from 'next';
 import { Facebook, Mail, MessageCircle, PhoneCall } from 'lucide-react';
 import CTASection from '../../components/ui/CTASection';
 import Button from '../../components/ui/Button';
@@ -7,11 +6,9 @@ import Container from '../../components/ui/Container';
 import SectionHeading from '../../components/ui/SectionHeading';
 import { siteConfig } from '../../site.config';
 import { mailHref, telHref } from '../../src/lib/format';
+import { contactPageMetadata } from '@lib/seo';
 
-export const metadata: Metadata = {
-  title: 'Liên hệ | WinterFrost',
-  description: 'Kết nối để nhận tư vấn thiết kế website, tối ưu SEO và chuyển đổi.',
-};
+export const metadata = contactPageMetadata;
 
 const contacts = [
   { title: 'Số điện thoại', value: siteConfig.contact.phoneDisplay, action: 'Gọi ngay', icon: PhoneCall, href: telHref(siteConfig.contact.phoneTel) },

@@ -1,0 +1,17 @@
+{
+  "name": "WinterFrost",
+  "short_name": "WinterFrost",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fbff",
+  "theme_color": "#0c1626",
+  "description": "WinterFrost thiết kế website chuẩn SEO, tối ưu tốc độ và chuyển đổi cho doanh nghiệp tại TP.HCM.",
+  "icons": [
+    {
+      "src": "/brand/mark.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

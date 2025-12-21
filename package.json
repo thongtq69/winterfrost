@@ -4,10 +4,10 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "next dev",
+    "dev": "NEXT_DISABLE_TURBOPACK=1 next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
+    "lint": "eslint . --ext .ts,.tsx",
     "scrape:realurls": "node scripts/scrape-real-urls.mjs"
   },
   "dependencies": {

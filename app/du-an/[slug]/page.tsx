@@ -9,9 +9,10 @@ import ImagePlaceholder from '../../../components/ui/ImagePlaceholder';
 import SectionHeading from '../../../components/ui/SectionHeading';
 import { getProjectBySlug, projects } from '../../../data/projects';
 import { workflowSteps } from '../../../data/workflow';
+import { buildPageMetadata, getProjectDetailMetadata } from '@lib/seo';
 
 type Props = {
-  params: Promise<{ slug: string }>;
+  params: { slug: string };
 };
 
 export function generateStaticParams() {
@@ -19,13 +20,16 @@ export function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
-  const { slug } = await params;
+  const { slug } = params;
   const project = getProjectBySlug(slug);
-  if (!project) return { title: 'Dự án', description: 'Dự án đã hoàn thành' };
-  return {
-    title: project.title,
-    description: project.description,
-  };
+  if (!project) {
+    return buildPageMetadata({
+      title: 'Dự án',
+      description: 'Dự án đã hoàn thành',
+      path: `/du-an/${slug}`,
+    });
+  }
+  return getProjectDetailMetadata(project);
 }
 
 const faqItems = [
@@ -35,11 +39,10 @@ const faqItems = [
 ];
 
 export default async function ProjectDetailPage({ params }: Props) {
-  const { slug } = await params;
-  const project = getProjectBySlug(slug);
+  const project = getProjectBySlug(params.slug);
   if (!project) return notFound();
 
-  const related = projects.filter((p) => p.slug !== slug).slice(0, 4);
+  const related = projects.filter((p) => p.slug !== params.slug).slice(0, 4);
 
   return (
     <>
