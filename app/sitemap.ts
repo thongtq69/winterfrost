@@ -13,10 +13,6 @@ type Entry = MetadataRoute.Sitemap[number];
 const staticRoutes: Entry[] = [
   '/',
   '/dich-vu',
-  '/dich-vu/thiet-ke-website-ban-hang',
-  '/dich-vu/thiet-ke-website-doanh-nghiep',
-  '/dich-vu/thiet-ke-landing-page-chuyen-nghiep',
-  '/dich-vu/thiet-ke-website-theo-yeu-cau',
   '/du-an',
   '/kien-thuc',
   '/lien-he',
@@ -25,9 +21,6 @@ const staticRoutes: Entry[] = [
   '/quy-trinh-lam-viec',
   '/tai-nguyen',
   '/tiktok',
-  '/khoa-hoc/thiet-ke-website-wordpress-elementor',
-  '/khoa-hoc/wordpress-chuan-seo-2026',
-  '/khoa-hoc/khoa-hoc-thiet-ke-website-wordpress',
 ].map((path) => ({
   url: `${baseUrl}${path}`,
   lastModified: today,
@@ -64,5 +57,17 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.7,
   }));
 
-  return [...staticRoutes, ...services, ...projectEntries, ...blogEntries, ...courseEntries];
+  const allEntries = [...staticRoutes, ...services, ...projectEntries, ...blogEntries, ...courseEntries];
+
+  // Dedupe by URL to avoid accidental duplicates when static + dynamic overlap.
+  const deduped = Array.from(
+    allEntries.reduce<Map<string, Entry>>((map, entry) => {
+      if (!map.has(entry.url)) {
+        map.set(entry.url, entry);
+      }
+      return map;
+    }, new Map()).values(),
+  );
+
+  return deduped;
 }
