@@ -648,7 +648,7 @@
 - [ ] Lighthouse PWA score 90+
 
 **Issues/Notes:**
-- [Cursor will note any issues here]
+- [2025-12-21] Prompt 4 in progress: converted remaining `<img>` to `next/image` in header, project cards, admin project cover; fonts already via next/font. Lint/build clean. Pending: run Lighthouse/PageSpeed (blocked in sandbox), optimize images/WebP + lazy loading/resource hints, bundle analysis, critical CSS/defer scripts. Before/after metrics not captured yet—run PSI/Lighthouse on /, /dich-vu/thiet-ke-website-doanh-nghiep, /du-an/wbc, /kien-thuc/*, /lien-he.
 
 **Related Prompts:** Prompt 16 (Final Audit)
 
