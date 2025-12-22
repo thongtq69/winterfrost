@@ -12,22 +12,17 @@ const lastModified = new Date('2025-12-21');
 type Entry = MetadataRoute.Sitemap[number];
 
 const staticRoutes: Entry[] = [
-  '/',
-  '/dich-vu',
-  '/du-an',
-  '/kien-thuc',
-  '/lien-he',
-  '/chinh-sach-bao-mat',
-  '/dieu-khoan',
-  '/quy-trinh-lam-viec',
-  '/tai-nguyen',
-  '/tiktok',
-].map((path) => ({
-  url: `${baseUrl}${path}`,
-  lastModified,
-  changeFrequency: 'weekly',
-  priority: 0.6,
-}));
+  { url: `${baseUrl}/`, priority: 1, changeFrequency: 'monthly' as const },
+  { url: `${baseUrl}/dich-vu`, priority: 0.7, changeFrequency: 'weekly' as const },
+  { url: `${baseUrl}/du-an`, priority: 0.7, changeFrequency: 'weekly' as const },
+  { url: `${baseUrl}/kien-thuc`, priority: 0.7, changeFrequency: 'daily' as const },
+  { url: `${baseUrl}/lien-he`, priority: 0.6, changeFrequency: 'monthly' as const },
+  { url: `${baseUrl}/chinh-sach-bao-mat`, priority: 0.6, changeFrequency: 'monthly' as const },
+  { url: `${baseUrl}/dieu-khoan`, priority: 0.6, changeFrequency: 'monthly' as const },
+  { url: `${baseUrl}/quy-trinh-lam-viec`, priority: 0.6, changeFrequency: 'monthly' as const },
+  { url: `${baseUrl}/tai-nguyen`, priority: 0.6, changeFrequency: 'monthly' as const },
+  { url: `${baseUrl}/tiktok`, priority: 0.6, changeFrequency: 'monthly' as const },
+].map((entry) => ({ ...entry, lastModified }));
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const services = serviceDetails.map<Entry>((svc) => ({
@@ -55,7 +50,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     url: `${baseUrl}/khoa-hoc/${course.slug}`,
     lastModified,
     changeFrequency: 'weekly',
-    priority: 0.7,
+    priority: 0.6,
   }));
 
   const allEntries = [...staticRoutes, ...services, ...projectEntries, ...blogEntries, ...courseEntries];

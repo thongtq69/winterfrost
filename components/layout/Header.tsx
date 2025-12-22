@@ -4,6 +4,7 @@ import { AnimatePresence, motion } from 'framer-motion';
 import { ChevronDown, Menu, PhoneCall, X } from 'lucide-react';
 import clsx from 'clsx';
 import Link from 'next/link';
+import Image from 'next/image';
 import { useEffect, useMemo, useRef, useState } from 'react';
 import { usePathname } from 'next/navigation';
 import { navItems, type DropdownItem, type NavItem } from '../../data/nav';
@@ -86,9 +87,16 @@ const Header = () => {
       <div ref={navRef}>
         <Container className="flex items-center justify-between gap-6 py-4 lg:py-5">
           <Link href="/" className="inline-flex items-center gap-3 focus-outline" aria-label="Trang chủ">
-            <div className="flex h-12 w-12 items-center justify-center rounded-2xl bg-white text-white shadow-ring ring-1 ring-gray-100">
+            <div className="flex h-12 w-12 items-center justify-center rounded-2xl bg-white text-white shadow-ring ring-1 ring-gray-100 overflow-hidden">
               {siteConfig.assets.markPath ? (
-                <img src={siteConfig.assets.markPath} alt={siteConfig.brand.name} className="h-12 w-12 object-contain" />
+                <Image
+                  src={siteConfig.assets.markPath}
+                  alt={siteConfig.brand.name}
+                  width={48}
+                  height={48}
+                  priority
+                  className="h-12 w-12 object-contain"
+                />
               ) : (
                 <span className="text-lg font-extrabold text-brand-600">{siteConfig.brand.name.split(' ')[0] ?? 'WF'}</span>
               )}

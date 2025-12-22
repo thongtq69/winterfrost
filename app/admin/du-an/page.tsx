@@ -5,6 +5,7 @@ import Container from '../../../components/ui/Container';
 import Card from '../../../components/ui/Card';
 import Button from '../../../components/ui/Button';
 import ImagePlaceholder from '../../../components/ui/ImagePlaceholder';
+import Image from 'next/image';
 import { projects as initialProjects } from '../../../data/projects';
 import { projectCategories } from '../../../data/projectCategories';
 
@@ -285,7 +286,13 @@ export default function AdminProjectsPage() {
                   <div className="space-y-2">
                     <p className="text-sm font-semibold text-gray-700">Ảnh cover</p>
                     {selected.cover ? (
-                      <img src={selected.cover} alt="" className="h-32 w-full rounded-2xl object-cover ring-1 ring-gray-200" />
+                      <Image
+                        src={selected.cover}
+                        alt={selected.title || 'Ảnh cover'}
+                        width={240}
+                        height={180}
+                        className="h-32 w-full rounded-2xl object-cover ring-1 ring-gray-200"
+                      />
                     ) : (
                       <ImagePlaceholder aspect="aspect-[4/3]" />
                     )}
