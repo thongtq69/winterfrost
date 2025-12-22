@@ -173,29 +173,33 @@
 ---
 
 ### ✅ Prompt 4: Performance Optimization
-**Status:** ⏳ NOT STARTED
+**Status:** ⏳ IN PROGRESS
 **Priority:** 🔴 CRITICAL
 **Estimated Time:** 4-6 hours
 **Assigned To:** [Your Name]
-**Started:** --
+**Started:** 2025-12-21
 **Completed:** --
 
 **Tasks:**
 - [ ] Audit current performance (run PageSpeed)
 - [ ] Optimize all images (convert to WebP)
 - [ ] Implement lazy loading
-- [ ] Optimize fonts with next/font
+- [x] Optimize fonts with next/font (Manrope via next/font already in use)
 - [ ] Configure next.config.js for optimization
 - [ ] Minimize JavaScript bundles
 - [ ] Implement critical CSS
 - [ ] Add resource hints (preconnect, dns-prefetch)
 - [ ] Test Core Web Vitals
 - [ ] Defer non-critical scripts
+- [x] Replace `<img>` with `next/image` for key UI (Header logo, admin project cover, project cards)
 
 **Files Created/Modified:**
 - [ ] `/next.config.mjs` (modified)
 - [ ] All image files (optimized)
 - [ ] `/app/layout.tsx` (fonts optimization)
+- [x] `/components/layout/Header.tsx` (logo uses next/image)
+- [x] `/app/admin/du-an/page.tsx` (cover uses next/image)
+- [x] `/components/projects/ProjectCard.tsx` (project cover uses next/image)
 - [ ] Various components (lazy loading)
 
 **Before Metrics:**
@@ -220,7 +224,7 @@
 5. Check bundle size: `npm run build`
 
 **Issues/Notes:**
-- [Cursor will note any issues here]
+- [2025-12-21] Prompt 4 in progress: converted remaining `<img>` to `next/image` in header, project cards, admin cover; fonts already via next/font. Lint/build clean. Pending: PageSpeed/Lighthouse audit, WebP/lazy loading/resource hints, bundle analysis.
 
 **Related Prompts:** Prompt 16 (Final Audit)
 

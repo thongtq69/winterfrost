@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import Image from 'next/image';
 import { ArrowUpRight, Calendar } from 'lucide-react';
 import Card from '../ui/Card';
 import ImagePlaceholder from '../ui/ImagePlaceholder';
@@ -14,8 +15,14 @@ const ProjectCard = ({ project }: Props) => (
     <div className="overflow-hidden rounded-2xl border border-dashed border-gray-200 bg-white">
       {project.cover ? (
         <div className="relative aspect-[4/3]">
-          {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img src={project.cover} alt={project.title} className="h-full w-full object-cover" />
+          <Image
+            src={project.cover}
+            alt={project.title}
+            fill
+            sizes="(min-width: 1024px) 320px, 100vw"
+            className="object-cover"
+            priority={false}
+          />
         </div>
       ) : (
         <ImagePlaceholder label="Preview" aspect="aspect-[4/3]" />
