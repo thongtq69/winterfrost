@@ -6,7 +6,8 @@ import { posts } from '../data/posts';
 import { courses } from '../data/courses';
 
 const baseUrl = `https://${siteConfig.brand.domain}`;
-const today = new Date();
+// Build-time lastModified to avoid per-request "new Date()"
+const lastModified = new Date('2025-12-21');
 
 type Entry = MetadataRoute.Sitemap[number];
 
@@ -23,7 +24,7 @@ const staticRoutes: Entry[] = [
   '/tiktok',
 ].map((path) => ({
   url: `${baseUrl}${path}`,
-  lastModified: today,
+  lastModified,
   changeFrequency: 'weekly',
   priority: 0.6,
 }));
@@ -31,28 +32,28 @@ const staticRoutes: Entry[] = [
 export default function sitemap(): MetadataRoute.Sitemap {
   const services = serviceDetails.map<Entry>((svc) => ({
     url: `${baseUrl}/dich-vu/${svc.slug}`,
-    lastModified: today,
+    lastModified,
     changeFrequency: 'weekly',
     priority: 0.9,
   }));
 
   const projectEntries = projects.map<Entry>((project) => ({
     url: `${baseUrl}/du-an/${project.slug}`,
-    lastModified: today,
+    lastModified,
     changeFrequency: 'weekly',
     priority: 0.8,
   }));
 
   const blogEntries = posts.map<Entry>((post) => ({
     url: `${baseUrl}/kien-thuc/${post.slug.join('/')}`,
-    lastModified: today,
+    lastModified,
     changeFrequency: 'daily',
     priority: 0.7,
   }));
 
   const courseEntries = courses.map<Entry>((course) => ({
     url: `${baseUrl}/khoa-hoc/${course.slug}`,
-    lastModified: today,
+    lastModified,
     changeFrequency: 'weekly',
     priority: 0.7,
   }));

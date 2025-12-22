@@ -166,7 +166,7 @@
 4. Submit to Google Search Console after deployment
 
 **Issues/Notes:**
-- [2025-12-21] Robots allow all, disallow /api /admin /_next, sitemap points to base domain. Sitemap covers static pages, services, projects, blog posts, courses with priorities/changefreq. Lint warnings unrelated to sitemap (existing <img>); dev server not curl-verified due to sandbox EPERM, build ok.
+- [2025-12-21] Robots allow all, disallow /api /admin /_next; sitemap points to base domain. Sitemap covers static pages, services, projects, blog posts, courses with priorities/changefreq. Added dedupe to avoid duplicate URLs and set build-time lastModified (2025-12-21) instead of per-request Date. Lint warnings unrelated to sitemap (existing <img>); dev server not curl-verified due to sandbox EPERM; build OK.
 
 **Related Prompts:** None
 
