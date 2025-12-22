@@ -6,6 +6,9 @@ import Container from '../../../components/ui/Container';
 import ImagePlaceholder from '../../../components/ui/ImagePlaceholder';
 import SectionHeading from '../../../components/ui/SectionHeading';
 import { getPostBySlug, posts } from '../../../data/posts';
+import ArticleSchema from '../../../components/schema/ArticleSchema';
+import BreadcrumbSchema from '../../../components/schema/BreadcrumbSchema';
+import { siteConfig } from '../../../site.config';
 
 type Props = {
   params: Promise<{ slug: string[] }>;
@@ -30,6 +33,15 @@ export default async function PostDetailPage({ params }: Props) {
   const post = getPostBySlug(slug);
   if (!post) return notFound();
 
+  const baseUrl = `https://${siteConfig.brand.domain}`;
+  const url = `${baseUrl}/kien-thuc/${slug.join('/')}`;
+  const toIso = (dateStr: string) => {
+    const [day, month, year] = dateStr.split('/').map((part) => parseInt(part, 10));
+    if (!day || !month || !year) return dateStr;
+    const iso = new Date(year, month - 1, day).toISOString();
+    return iso;
+  };
+
   return (
     <>
       <section className="py-12">
@@ -50,6 +62,22 @@ export default async function PostDetailPage({ params }: Props) {
         </Container>
       </section>
       <CTASection />
+      <BreadcrumbSchema
+        items={[
+          { name: 'Trang chủ', url: `${baseUrl}/` },
+          { name: 'Kiến thức', url: `${baseUrl}/kien-thuc` },
+          { name: post.title, url },
+        ]}
+        id={`breadcrumb-article-${post.slug.join('-')}`}
+      />
+      <ArticleSchema
+        title={post.title}
+        description={post.excerpt}
+        url={url}
+        datePublished={toIso(post.date)}
+        dateModified={toIso(post.date)}
+        image={siteConfig.assets.logoPath}
+      />
     </>
   );
 }

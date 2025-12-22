@@ -2,13 +2,12 @@ import type { Metadata, Viewport } from 'next';
 import type { ReactNode } from 'react';
 import { Manrope } from 'next/font/google';
 import clsx from 'clsx';
-import Script from 'next/script';
 import './globals.css';
 import Header from '../components/layout/Header';
 import Footer from '../components/layout/Footer';
 import FloatingActions from '../components/layout/FloatingActions';
 import { baseMetadata, baseViewport } from '@lib/seo';
-import { organizationJsonLd } from '../src/lib/jsonld';
+import OrganizationSchema from '../components/schema/OrganizationSchema';
 
 const manrope = Manrope({
   subsets: ['latin'],
@@ -28,9 +27,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
         <main className="min-h-screen">{children}</main>
         <Footer />
         <FloatingActions />
-        <Script id="jsonld-organization" type="application/ld+json">
-          {JSON.stringify(organizationJsonLd())}
-        </Script>
+        <OrganizationSchema />
       </body>
     </html>
   );

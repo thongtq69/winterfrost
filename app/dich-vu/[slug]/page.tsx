@@ -10,6 +10,10 @@ import ImagePlaceholder from '../../../components/ui/ImagePlaceholder';
 import SectionHeading from '../../../components/ui/SectionHeading';
 import { getServiceDetail, serviceDetails } from '../../../data/services';
 import { getServicePageMetadata } from '@lib/seo';
+import BreadcrumbSchema from '../../../components/schema/BreadcrumbSchema';
+import FAQSchema from '../../../components/schema/FAQSchema';
+import ServiceSchema from '../../../components/schema/ServiceSchema';
+import { siteConfig } from '../../../site.config';
 
 type Props = {
   params: Promise<{ slug: string }>;
@@ -28,6 +32,15 @@ export default async function ServiceDetailPage({ params }: Props) {
   const { slug } = await params;
   const service = getServiceDetail(slug);
   if (!service) return notFound();
+
+  const baseUrl = `https://${siteConfig.brand.domain}`;
+  const priceRangeMap: Record<string, string> = {
+    'thiet-ke-website-ban-hang': '15000000-50000000',
+    'thiet-ke-website-doanh-nghiep': '20000000-80000000',
+    'thiet-ke-landing-page-chuyen-nghiep': '8000000-25000000',
+    'thiet-ke-website-theo-yeu-cau': '25000000-120000000',
+  };
+  const canonical = `${baseUrl}/dich-vu/${slug}`;
 
   return (
     <>
@@ -177,6 +190,22 @@ export default async function ServiceDetailPage({ params }: Props) {
       </section>
 
       <CTASection />
+      <BreadcrumbSchema
+        id={`breadcrumb-${slug}`}
+        items={[
+          { name: 'Trang chủ', url: `${baseUrl}/` },
+          { name: 'Dịch vụ', url: `${baseUrl}/dich-vu` },
+          { name: service.title, url: canonical },
+        ]}
+      />
+      <ServiceSchema
+        name={service.title}
+        description={service.intro}
+        url={canonical}
+        priceRange={priceRangeMap[slug]}
+        serviceType={service.title}
+      />
+      <FAQSchema id={`faq-${slug}`} faqs={service.faqs} />
     </>
   );
 }

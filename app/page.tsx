@@ -4,6 +4,8 @@ import ServicesGrid from '../components/sections/ServicesGrid';
 import ProjectsHighlight from '../components/sections/ProjectsHighlight';
 import CTASection from '../components/ui/CTASection';
 import { homePageMetadata } from '@lib/seo';
+import LocalBusinessSchema from '../components/schema/LocalBusinessSchema';
+import BreadcrumbSchema from '../components/schema/BreadcrumbSchema';
 
 export const metadata = homePageMetadata;
 
@@ -15,6 +17,14 @@ export default function HomePage() {
       <ServicesGrid />
       <ProjectsHighlight />
       <CTASection />
+      <BreadcrumbSchema
+        items={[
+          { name: 'Trang chủ', url: 'https://winterfrost.tech/' },
+          { name: 'Dịch vụ', url: 'https://winterfrost.tech/dich-vu' },
+        ]}
+        id="breadcrumb-home"
+      />
+      <LocalBusinessSchema />
     </>
   );
 }
