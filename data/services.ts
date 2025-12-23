@@ -50,10 +50,12 @@ export type ServiceDetail = {
   features: {
     title: string;
     description: string;
+    icon?: string;
   }[];
   projectsPreview: {
     title: string;
     description: string;
+    cover?: string | null;
   }[];
   faqs: {
     question: string;
@@ -86,16 +88,86 @@ export const serviceDetails: ServiceDetail[] = [
       },
     ],
     features: [
-      { title: 'Website chuẩn SEO', description: 'Cấu trúc heading, schema và tối ưu tốc độ Core Web Vitals.' },
-      { title: 'Giao diện độc quyền', description: 'Thiết kế theo brand guideline, giữ trải nghiệm nhất quán.' },
-      { title: 'Web chuẩn Responsive', description: 'Kiểm thử trên mobile, tablet, desktop với layout riêng.' },
-      { title: 'Code thêm tính năng', description: 'Phát triển tính năng mua hàng, voucher, upsell nếu cần.' },
-      { title: 'Gói Domain, Hosting', description: 'Tư vấn hạ tầng, bảo mật SSL, backup và tối ưu tải trang.' },
-      { title: 'SEO lên TOP', description: 'Kế hoạch nội dung, onpage, và checklist kỹ thuật sau bàn giao.' },
+      {
+        title: 'Website chuẩn SEO',
+        description: 'Cấu trúc heading, schema và tối ưu tốc độ Core Web Vitals.',
+        icon: 'https://xuanhieuit.com/wp-content/uploads/2024/08/Chuan-SEO-1.jpeg',
+      },
+      {
+        title: 'Giao diện độc quyền',
+        description: 'Thiết kế theo brand guideline, giữ trải nghiệm nhất quán.',
+        icon: 'https://xuanhieuit.com/wp-content/uploads/2024/08/6868-logistics.jpeg',
+      },
+      {
+        title: 'Web chuẩn Responsive',
+        description: 'Kiểm thử trên mobile, tablet, desktop với layout riêng.',
+        icon: 'https://xuanhieuit.com/wp-content/uploads/2024/08/reponsive.jpeg',
+      },
+      {
+        title: 'Code thêm tính năng',
+        description: 'Phát triển tính năng mua hàng, voucher, upsell nếu cần.',
+        icon: 'https://xuanhieuit.com/wp-content/uploads/2024/08/duction-code.jpeg',
+      },
+      {
+        title: 'Gói Domain, Hosting',
+        description: 'Tư vấn hạ tầng, bảo mật SSL, backup và tối ưu tải trang.',
+        icon: 'https://xuanhieuit.com/wp-content/uploads/2024/08/domain.jpeg',
+      },
+      {
+        title: 'SEO lên TOP',
+        description: 'Kế hoạch nội dung, onpage, và checklist kỹ thuật sau bàn giao.',
+        icon: 'https://xuanhieuit.com/wp-content/uploads/2024/08/SEO-top.jpg',
+      },
     ],
     projectsPreview: [
-      { title: 'Ecom Launch', description: 'Tăng 30% CR nhờ tối ưu flow thanh toán.' },
-      { title: 'Beauty Shop', description: 'Thiết kế landing và upsell combo dưỡng da.' },
+      {
+        title: 'Công ty cổ phần Maison Online',
+        description: 'Website bán lẻ thời trang, đồng bộ thương hiệu và tối ưu chuyển đổi.',
+        cover: 'https://images.careerviet.vn/employer_photo/314449/z5736216863100_1b0c576f3e744c4069c132c31a579a6c_1723781501.jpg',
+        href: 'https://maisonrmi.com/',
+      },
+      {
+        title: 'Sở Y Tế – Bệnh Viện Mắt Hà Nội',
+        description: 'Cổng thông tin chuyên khoa, đặt lịch khám và tra cứu dịch vụ.',
+        cover: 'https://xuanhieuit.com/wp-content/uploads/2024/08/benh-vien-mat-ha-noi.jpeg',
+        href: 'https://benhvienmathanoi.gov.vn/',
+      },
+      {
+        title: 'Công ty TNHH DVTM TH Xuân Nghiêm Gas',
+        description: 'Giới thiệu sản phẩm LPG, quy trình an toàn và tư vấn nhanh.',
+        cover: 'https://xuanhieuit.com/wp-content/uploads/2024/08/6868-logistics.jpeg',
+        href: 'https://www.xuannghiemgas.vn/',
+      },
+      {
+        title: 'Khu công nghiệp Lương Điền – Ngọc Liên',
+        description: 'Trang dự án khu công nghiệp, bản đồ, tiến độ và form liên hệ.',
+        cover: 'https://xuanhieuit.com/wp-content/uploads/2024/08/luong-dien.jpeg',
+        href: 'https://luongdienngoclien.com/',
+      },
+      {
+        title: 'Công ty TNHH My Candy Việt Nam – Bánh kẹo',
+        description: 'Catalogue sản phẩm, chương trình khuyến mãi và đặt hàng.',
+        cover: 'https://xuanhieuit.com/wp-content/uploads/2024/08/my-candy-vietnam.jpeg',
+        href: 'https://mycandyvn.com/',
+      },
+      {
+        title: 'Dược Bát Phúc',
+        description: 'Website doanh nghiệp dược, giới thiệu sản phẩm và chứng nhận.',
+        cover: 'https://xuanhieuit.com/wp-content/uploads/2024/08/duoc-bat-phiuc.jpeg',
+        href: 'https://bpmpharma.com/',
+      },
+      {
+        title: 'MIC Creative – Công ty CP truyền thông và quảng cáo',
+        description: 'Trình bày portfolio, dịch vụ truyền thông và CTA nhận báo giá.',
+        cover: 'https://xuanhieuit.com/wp-content/uploads/2024/08/MIC-Creative.jpeg',
+        href: 'https://miccreative.vn/',
+      },
+      {
+        title: 'H3 Group',
+        description: 'Thiết kế thi công nội thất F&B, nhà ở, Spa & Shop,… hàng đầu tại Hà Nội.',
+        cover: 'https://xuanhieuit.com/wp-content/uploads/2025/07/353shots_so.jpeg',
+        href: 'https://h3group.com.vn/',
+      },
     ],
     faqs: [
       { question: 'Thời gian triển khai bao lâu?', answer: 'Từ 2-4 tuần tùy độ phức tạp và số lượng trang.' },
@@ -127,16 +199,86 @@ export const serviceDetails: ServiceDetail[] = [
       },
     ],
     features: [
-      { title: 'Website chuẩn SEO', description: 'Chuẩn cấu trúc URL, sitemap, schema và tốc độ tải.' },
-      { title: 'Giao diện độc quyền', description: 'Phong cách riêng phù hợp ngành nghề và brand guideline.' },
-      { title: 'Web chuẩn Responsive', description: 'Tối ưu mobile-first, ưu tiên CTA và thông tin quan trọng.' },
-      { title: 'Code thêm tính năng', description: 'Tùy chỉnh trang dịch vụ, biểu mẫu nhiều bước, integration.' },
-      { title: 'Gói Domain, Hosting', description: 'Đề xuất hạ tầng, CDN, backup định kỳ.' },
-      { title: 'SEO lên TOP', description: 'Checklist onpage + kế hoạch nội dung dài hạn.' },
+      {
+        title: 'Website chuẩn SEO',
+        description: 'Chuẩn cấu trúc URL, sitemap, schema và tốc độ tải.',
+        icon: 'https://xuanhieuit.com/wp-content/uploads/2024/08/Chuan-SEO-1.jpeg',
+      },
+      {
+        title: 'Giao diện độc quyền',
+        description: 'Phong cách riêng phù hợp ngành nghề và brand guideline.',
+        icon: 'https://xuanhieuit.com/wp-content/uploads/2024/08/6868-logistics.jpeg',
+      },
+      {
+        title: 'Web chuẩn Responsive',
+        description: 'Tối ưu mobile-first, ưu tiên CTA và thông tin quan trọng.',
+        icon: 'https://xuanhieuit.com/wp-content/uploads/2024/08/reponsive.jpeg',
+      },
+      {
+        title: 'Code thêm tính năng',
+        description: 'Tùy chỉnh trang dịch vụ, biểu mẫu nhiều bước, integration.',
+        icon: 'https://xuanhieuit.com/wp-content/uploads/2024/08/duction-code.jpeg',
+      },
+      {
+        title: 'Gói Domain, Hosting',
+        description: 'Đề xuất hạ tầng, CDN, backup định kỳ.',
+        icon: 'https://xuanhieuit.com/wp-content/uploads/2024/08/domain.jpeg',
+      },
+      {
+        title: 'SEO lên TOP',
+        description: 'Checklist onpage + kế hoạch nội dung dài hạn.',
+        icon: 'https://xuanhieuit.com/wp-content/uploads/2024/08/SEO-top.jpg',
+      },
     ],
     projectsPreview: [
-      { title: 'Consulting Firm', description: 'Website mới giúp tăng lead B2B 28%.' },
-      { title: 'Tech Startup', description: 'Landing giới thiệu sản phẩm, tối ưu tốc độ.' },
+      {
+        title: 'Công ty cổ phần Maison Online',
+        description: 'Website bán lẻ thời trang, đồng bộ thương hiệu và tối ưu chuyển đổi.',
+        cover: 'https://images.careerviet.vn/employer_photo/314449/z5736216863100_1b0c576f3e744c4069c132c31a579a6c_1723781501.jpg',
+        href: 'https://maisonrmi.com/',
+      },
+      {
+        title: 'Sở Y Tế – Bệnh Viện Mắt Hà Nội',
+        description: 'Cổng thông tin chuyên khoa, đặt lịch khám và tra cứu dịch vụ.',
+        cover: 'https://xuanhieuit.com/wp-content/uploads/2024/08/benh-vien-mat-ha-noi.jpeg',
+        href: 'https://benhvienmathanoi.gov.vn/',
+      },
+      {
+        title: 'Công ty TNHH DVTM TH Xuân Nghiêm Gas',
+        description: 'Giới thiệu sản phẩm LPG, quy trình an toàn và tư vấn nhanh.',
+        cover: 'https://xuanhieuit.com/wp-content/uploads/2024/08/6868-logistics.jpeg',
+        href: 'https://www.xuannghiemgas.vn/',
+      },
+      {
+        title: 'Khu công nghiệp Lương Điền – Ngọc Liên',
+        description: 'Trang dự án khu công nghiệp, bản đồ, tiến độ và form liên hệ.',
+        cover: 'https://xuanhieuit.com/wp-content/uploads/2024/08/luong-dien.jpeg',
+        href: 'https://luongdienngoclien.com/',
+      },
+      {
+        title: 'Công ty TNHH My Candy Việt Nam – Bánh kẹo',
+        description: 'Catalogue sản phẩm, chương trình khuyến mãi và đặt hàng.',
+        cover: 'https://xuanhieuit.com/wp-content/uploads/2024/08/my-candy-vietnam.jpeg',
+        href: 'https://mycandyvn.com/',
+      },
+      {
+        title: 'H3 Group',
+        description: 'Thiết kế thi công nội thất F&B, nhà ở, Spa & Shop,… hàng đầu tại Hà Nội.',
+        cover: 'https://xuanhieuit.com/wp-content/uploads/2025/07/353shots_so.jpeg',
+        href: 'https://h3group.com.vn/',
+      },
+      {
+        title: 'Dược Bát Phúc',
+        description: 'Website doanh nghiệp dược, giới thiệu sản phẩm và chứng nhận.',
+        cover: 'https://xuanhieuit.com/wp-content/uploads/2024/08/duoc-bat-phiuc.jpeg',
+        href: 'https://bpmpharma.com/',
+      },
+      {
+        title: 'MIC Creative – Công ty CP truyền thông và quảng cáo',
+        description: 'Trình bày portfolio, dịch vụ truyền thông và CTA nhận báo giá.',
+        cover: 'https://xuanhieuit.com/wp-content/uploads/2024/08/MIC-Creative.jpeg',
+        href: 'https://miccreative.vn/',
+      },
     ],
     faqs: [
       { question: 'Có hỗ trợ viết nội dung?', answer: 'Có thể hỗ trợ outline, copy mẫu và training đội content.' },
@@ -167,16 +309,86 @@ export const serviceDetails: ServiceDetail[] = [
       },
     ],
     features: [
-      { title: 'Website chuẩn SEO', description: 'Landing vẫn chuẩn meta và tốc độ tải tối ưu.' },
-      { title: 'Giao diện độc quyền', description: 'Thiết kế đúng insight khách hàng mục tiêu.' },
-      { title: 'Web chuẩn Responsive', description: 'Ưu tiên mobile-first và CTA sticky.' },
-      { title: 'Code thêm tính năng', description: 'Form nhiều bước, countdown, upsell nhẹ.' },
-      { title: 'Gói Domain, Hosting', description: 'Tối ưu hosting cho traffic lớn, CDN.' },
-      { title: 'SEO lên TOP', description: 'Hỗ trợ triển khai landing dài hơi cho SEO nếu cần.' },
+      {
+        title: 'Website chuẩn SEO',
+        description: 'Landing vẫn chuẩn meta và tốc độ tải tối ưu.',
+        icon: 'https://xuanhieuit.com/wp-content/uploads/2024/08/Chuan-SEO-1.jpeg',
+      },
+      {
+        title: 'Giao diện độc quyền',
+        description: 'Thiết kế đúng insight khách hàng mục tiêu.',
+        icon: 'https://xuanhieuit.com/wp-content/uploads/2024/08/6868-logistics.jpeg',
+      },
+      {
+        title: 'Web chuẩn Responsive',
+        description: 'Ưu tiên mobile-first và CTA sticky.',
+        icon: 'https://xuanhieuit.com/wp-content/uploads/2024/08/reponsive.jpeg',
+      },
+      {
+        title: 'Code thêm tính năng',
+        description: 'Form nhiều bước, countdown, upsell nhẹ.',
+        icon: 'https://xuanhieuit.com/wp-content/uploads/2024/08/duction-code.jpeg',
+      },
+      {
+        title: 'Gói Domain, Hosting',
+        description: 'Tối ưu hosting cho traffic lớn, CDN.',
+        icon: 'https://xuanhieuit.com/wp-content/uploads/2024/08/domain.jpeg',
+      },
+      {
+        title: 'SEO lên TOP',
+        description: 'Hỗ trợ triển khai landing dài hơi cho SEO nếu cần.',
+        icon: 'https://xuanhieuit.com/wp-content/uploads/2024/08/SEO-top.jpg',
+      },
     ],
     projectsPreview: [
-      { title: 'Event Landing', description: 'Tăng 2.1x số đăng ký workshop.' },
-      { title: 'SaaS Launch', description: 'Thu 1.200 lead trong 1 tháng.' },
+      {
+        title: 'Công ty cổ phần Maison Online',
+        description: 'Website bán lẻ thời trang, đồng bộ thương hiệu và tối ưu chuyển đổi.',
+        cover: 'https://images.careerviet.vn/employer_photo/314449/z5736216863100_1b0c576f3e744c4069c132c31a579a6c_1723781501.jpg',
+        href: 'https://maisonrmi.com/',
+      },
+      {
+        title: 'Sở Y Tế – Bệnh Viện Mắt Hà Nội',
+        description: 'Cổng thông tin chuyên khoa, đặt lịch khám và tra cứu dịch vụ.',
+        cover: 'https://xuanhieuit.com/wp-content/uploads/2024/08/benh-vien-mat-ha-noi.jpeg',
+        href: 'https://benhvienmathanoi.gov.vn/',
+      },
+      {
+        title: 'Công ty TNHH DVTM TH Xuân Nghiêm Gas',
+        description: 'Giới thiệu sản phẩm LPG, quy trình an toàn và tư vấn nhanh.',
+        cover: 'https://xuanhieuit.com/wp-content/uploads/2024/08/6868-logistics.jpeg',
+        href: 'https://www.xuannghiemgas.vn/',
+      },
+      {
+        title: 'Khu công nghiệp Lương Điền – Ngọc Liên',
+        description: 'Trang dự án khu công nghiệp, bản đồ, tiến độ và form liên hệ.',
+        cover: 'https://xuanhieuit.com/wp-content/uploads/2024/08/luong-dien.jpeg',
+        href: 'https://luongdienngoclien.com/',
+      },
+      {
+        title: 'Công ty TNHH My Candy Việt Nam – Bánh kẹo',
+        description: 'Catalogue sản phẩm, chương trình khuyến mãi và đặt hàng.',
+        cover: 'https://xuanhieuit.com/wp-content/uploads/2024/08/my-candy-vietnam.jpeg',
+        href: 'https://mycandyvn.com/',
+      },
+      {
+        title: 'H3 Group',
+        description: 'Thiết kế thi công nội thất F&B, nhà ở, Spa & Shop,… hàng đầu tại Hà Nội.',
+        cover: 'https://xuanhieuit.com/wp-content/uploads/2025/07/353shots_so.jpeg',
+        href: 'https://h3group.com.vn/',
+      },
+      {
+        title: 'Dược Bát Phúc',
+        description: 'Website doanh nghiệp dược, giới thiệu sản phẩm và chứng nhận.',
+        cover: 'https://xuanhieuit.com/wp-content/uploads/2024/08/duoc-bat-phiuc.jpeg',
+        href: 'https://bpmpharma.com/',
+      },
+      {
+        title: 'MIC Creative – Công ty CP truyền thông và quảng cáo',
+        description: 'Trình bày portfolio, dịch vụ truyền thông và CTA nhận báo giá.',
+        cover: 'https://xuanhieuit.com/wp-content/uploads/2024/08/MIC-Creative.jpeg',
+        href: 'https://miccreative.vn/',
+      },
     ],
     faqs: [
       { question: 'Có hỗ trợ viết quảng cáo?', answer: 'Cung cấp cấu trúc copy, bạn có thể chỉnh sửa theo kênh.' },
@@ -207,16 +419,86 @@ export const serviceDetails: ServiceDetail[] = [
       },
     ],
     features: [
-      { title: 'Website chuẩn SEO', description: 'Kiến trúc thông tin và technical SEO đầy đủ.' },
-      { title: 'Giao diện độc quyền', description: 'Thiết kế UI/UX theo hành trình người dùng của bạn.' },
-      { title: 'Web chuẩn Responsive', description: 'Đảm bảo trải nghiệm trên mọi thiết bị.' },
-      { title: 'Code thêm tính năng', description: 'Lập trình theo nghiệp vụ: booking, membership, dashboard...' },
-      { title: 'Gói Domain, Hosting', description: 'Tư vấn hạ tầng phù hợp, bảo mật và backup.' },
-      { title: 'SEO lên TOP', description: 'Checklist kỹ thuật và hướng dẫn triển khai SEO.' },
+      {
+        title: 'Website chuẩn SEO',
+        description: 'Kiến trúc thông tin và technical SEO đầy đủ.',
+        icon: 'https://xuanhieuit.com/wp-content/uploads/2024/08/Chuan-SEO-1.jpeg',
+      },
+      {
+        title: 'Giao diện độc quyền',
+        description: 'Thiết kế UI/UX theo hành trình người dùng của bạn.',
+        icon: 'https://xuanhieuit.com/wp-content/uploads/2024/08/6868-logistics.jpeg',
+      },
+      {
+        title: 'Web chuẩn Responsive',
+        description: 'Đảm bảo trải nghiệm trên mọi thiết bị.',
+        icon: 'https://xuanhieuit.com/wp-content/uploads/2024/08/reponsive.jpeg',
+      },
+      {
+        title: 'Code thêm tính năng',
+        description: 'Lập trình theo nghiệp vụ: booking, membership, dashboard...',
+        icon: 'https://xuanhieuit.com/wp-content/uploads/2024/08/duction-code.jpeg',
+      },
+      {
+        title: 'Gói Domain, Hosting',
+        description: 'Tư vấn hạ tầng phù hợp, bảo mật và backup.',
+        icon: 'https://xuanhieuit.com/wp-content/uploads/2024/08/domain.jpeg',
+      },
+      {
+        title: 'SEO lên TOP',
+        description: 'Checklist kỹ thuật và hướng dẫn triển khai SEO.',
+        icon: 'https://xuanhieuit.com/wp-content/uploads/2024/08/SEO-top.jpg',
+      },
     ],
     projectsPreview: [
-      { title: 'Booking Travel', description: 'Tối ưu quy trình đặt tour nhiều bước.' },
-      { title: 'Healthcare Portal', description: 'Bổ sung module hồ sơ và đặt lịch.' },
+      {
+        title: 'Công ty cổ phần Maison Online',
+        description: 'Website bán lẻ thời trang, đồng bộ thương hiệu và tối ưu chuyển đổi.',
+        cover: 'https://images.careerviet.vn/employer_photo/314449/z5736216863100_1b0c576f3e744c4069c132c31a579a6c_1723781501.jpg',
+        href: 'https://maisonrmi.com/',
+      },
+      {
+        title: 'Sở Y Tế – Bệnh Viện Mắt Hà Nội',
+        description: 'Cổng thông tin chuyên khoa, đặt lịch khám và tra cứu dịch vụ.',
+        cover: 'https://xuanhieuit.com/wp-content/uploads/2024/08/benh-vien-mat-ha-noi.jpeg',
+        href: 'https://benhvienmathanoi.gov.vn/',
+      },
+      {
+        title: 'Công ty TNHH DVTM TH Xuân Nghiêm Gas',
+        description: 'Giới thiệu sản phẩm LPG, quy trình an toàn và tư vấn nhanh.',
+        cover: 'https://xuanhieuit.com/wp-content/uploads/2024/08/6868-logistics.jpeg',
+        href: 'https://www.xuannghiemgas.vn/',
+      },
+      {
+        title: 'Khu công nghiệp Lương Điền – Ngọc Liên',
+        description: 'Trang dự án khu công nghiệp, bản đồ, tiến độ và form liên hệ.',
+        cover: 'https://xuanhieuit.com/wp-content/uploads/2024/08/luong-dien.jpeg',
+        href: 'https://luongdienngoclien.com/',
+      },
+      {
+        title: 'Công ty TNHH My Candy Việt Nam – Bánh kẹo',
+        description: 'Catalogue sản phẩm, chương trình khuyến mãi và đặt hàng.',
+        cover: 'https://xuanhieuit.com/wp-content/uploads/2024/08/my-candy-vietnam.jpeg',
+        href: 'https://mycandyvn.com/',
+      },
+      {
+        title: 'H3 Group',
+        description: 'Thiết kế thi công nội thất F&B, nhà ở, Spa & Shop,… hàng đầu tại Hà Nội.',
+        cover: 'https://xuanhieuit.com/wp-content/uploads/2025/07/353shots_so.jpeg',
+        href: 'https://h3group.com.vn/',
+      },
+      {
+        title: 'Dược Bát Phúc',
+        description: 'Website doanh nghiệp dược, giới thiệu sản phẩm và chứng nhận.',
+        cover: 'https://xuanhieuit.com/wp-content/uploads/2024/08/duoc-bat-phiuc.jpeg',
+        href: 'https://bpmpharma.com/',
+      },
+      {
+        title: 'MIC Creative – Công ty CP truyền thông và quảng cáo',
+        description: 'Trình bày portfolio, dịch vụ truyền thông và CTA nhận báo giá.',
+        cover: 'https://xuanhieuit.com/wp-content/uploads/2024/08/MIC-Creative.jpeg',
+        href: 'https://miccreative.vn/',
+      },
     ],
     faqs: [
       { question: 'Có làm đa ngôn ngữ?', answer: 'Có, hỗ trợ i18n và quản trị nội dung đa ngôn ngữ.' },

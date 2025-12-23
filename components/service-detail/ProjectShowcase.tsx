@@ -3,6 +3,7 @@ import { ArrowUpRight } from 'lucide-react';
 import Container from '../ui/Container';
 import Card from '../ui/Card';
 import ImagePlaceholder from '../ui/ImagePlaceholder';
+import Image from 'next/image';
 import Button from '../ui/Button';
 import type { ServiceProject } from '../../src/data/services';
 
@@ -26,7 +27,19 @@ const ProjectShowcase = ({ projects }: Props) => (
       <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
         {projects.map((project) => (
           <Card key={project.title} className="flex h-full flex-col gap-3 rounded-[24px] p-5 shadow-soft">
-            <ImagePlaceholder aspect="aspect-[4/3]" label="Dự án" />
+            <div className="relative aspect-[4/3] w-full overflow-hidden rounded-2xl bg-brand-50">
+              {project.cover ? (
+                <Image
+                  src={project.cover}
+                  alt={project.title}
+                  fill
+                  sizes="(min-width: 1024px) 340px, 100vw"
+                  className="object-cover"
+                />
+              ) : (
+                <ImagePlaceholder aspect="aspect-[4/3]" label="Dự án" className="absolute inset-0" />
+              )}
+            </div>
             <p className="text-xs uppercase tracking-wide text-brand-700">Dự án</p>
             <h3 className="text-lg font-bold text-ink">{project.title}</h3>
             <p className="text-sm text-gray-600">{project.description}</p>

@@ -17,6 +17,7 @@ export type ServiceProject = {
   description: string;
   year: string;
   href: string;
+  cover?: string;
 };
 
 export type ServiceFAQ = {
@@ -82,66 +83,84 @@ export const services: ServiceDetail[] = [
     ],
     features: [
       {
-        title: 'Chuẩn SEO & tốc độ',
-        description: 'Cấu trúc nội dung rõ ràng, tối ưu onpage, điểm tốc độ cao trên mobile & desktop.',
+        title: 'Website chuẩn SEO',
+        description:
+          'Đảm bảo website thân thiện với Google, cấu trúc HTML chuẩn, cập nhật tiêu chí đánh giá mới giúp site đạt thứ hạng tốt ngay sau khi hoàn thành.',
+        icon: 'https://xuanhieuit.com/wp-content/uploads/2024/08/Chuan-SEO-1.jpeg',
       },
       {
-        title: 'Responsive đa thiết bị',
-        description: 'Hiển thị đẹp trên mobile, tablet, desktop; giữ trải nghiệm nhất quán.',
+        title: 'Giao diện độc quyền',
+        description:
+          'Thiết kế dựa trên bộ nhận diện thương hiệu để tạo sản phẩm mới, độc quyền cho khách hàng muốn website chuyên nghiệp.',
+        icon: 'https://xuanhieuit.com/wp-content/uploads/2024/08/6868-logistics.jpeg',
       },
       {
-        title: 'Bảo mật & ổn định',
-        description: 'Cấu hình bảo mật, backup định kỳ, kiểm thử trước khi bàn giao.',
+        title: 'Web chuẩn Responsive',
+        description:
+          'Tối ưu trải nghiệm trên mọi thiết bị (desktop, tablet, mobile) với hơn 80% người dùng truy cập qua di động.',
+        icon: 'https://xuanhieuit.com/wp-content/uploads/2024/08/reponsive.jpeg',
       },
       {
-        title: 'Dễ quản trị nội dung',
-        description: 'Trang quản trị đơn giản, hướng dẫn chi tiết, dễ chỉnh sửa và thêm mới.',
+        title: 'Code thêm tính năng',
+        description:
+          'Sẵn sàng phát triển tính năng tùy chỉnh theo yêu cầu kinh doanh, tư vấn giải pháp cho đặc thù ngành.',
+        icon: 'https://xuanhieuit.com/wp-content/uploads/2024/08/duction-code.jpeg',
       },
       {
-        title: 'Theo dõi hành vi người dùng',
-        description: 'Thiết lập tracking sự kiện, heatmap/analytics để ra quyết định tối ưu.',
+        title: 'Gói Domain, Hosting',
+        description:
+          'Có thể hỗ trợ đăng ký domain/hosting hoặc tư vấn chọn gói phù hợp, mang đến giải pháp trọn gói.',
+        icon: 'https://xuanhieuit.com/wp-content/uploads/2024/08/domain.jpeg',
       },
       {
-        title: 'Tùy chỉnh tính năng',
-        description: 'Mở rộng tính năng theo nhu cầu: blog, landing, form nhiều bước, tích hợp CRM.',
+        title: 'SEO lên TOP',
+        description:
+          'Hỗ trợ khai báo website, đăng ký Google Maps để thông tin doanh nghiệp dễ được tìm thấy trên Google.',
+        icon: 'https://xuanhieuit.com/wp-content/uploads/2024/08/SEO-top.jpg',
       },
     ],
     projects: [
       {
-        title: 'Doanh nghiệp dịch vụ A',
-        description: 'Website giới thiệu dịch vụ, tối ưu form liên hệ và lịch hẹn.',
+        title: 'Công ty cổ phần Maison Online',
+        description: 'Website bán lẻ thời trang, đồng bộ thương hiệu và tối ưu chuyển đổi.',
         year: '2025',
-        href: '/du-an',
+        href: 'https://maisonrmi.com/',
+        cover: 'https://images.careerviet.vn/employer_photo/314449/z5736216863100_1b0c576f3e744c4069c132c31a579a6c_1723781501.jpg',
       },
       {
-        title: 'Công ty công nghệ B',
-        description: 'Trang sản phẩm & tài liệu kỹ thuật, tập trung SEO và tốc độ.',
-        year: '2024',
-        href: '/du-an',
-      },
-      {
-        title: 'Tập đoàn tư vấn C',
-        description: 'Giải pháp website đa trang, dẫn dắt CTA theo hành trình khách hàng.',
-        year: '2024',
-        href: '/du-an',
-      },
-      {
-        title: 'Doanh nghiệp giáo dục D',
-        description: 'Trang chương trình đào tạo, form đăng ký và automation email.',
-        year: '2023',
-        href: '/du-an',
-      },
-      {
-        title: 'Doanh nghiệp bất động sản E',
-        description: 'Landing giới thiệu dự án, gallery, CTA tư vấn nhanh.',
+        title: 'Sở Y Tế – Bệnh Viện Mắt Hà Nội',
+        description: 'Cổng thông tin chuyên khoa, đặt lịch khám và tra cứu dịch vụ.',
         year: '2025',
-        href: '/du-an',
+        href: 'https://benhvienmathanoi.gov.vn/',
+        cover: 'https://xuanhieuit.com/wp-content/uploads/2024/08/benh-vien-mat-ha-noi.jpeg',
       },
       {
-        title: 'Công ty sản xuất F',
-        description: 'Website sản phẩm, danh mục và tài liệu kỹ thuật, chuẩn SEO.',
-        year: '2023',
-        href: '/du-an',
+        title: 'Công ty TNHH DVTM TH Xuân Nghiêm Gas',
+        description: 'Giới thiệu sản phẩm LPG, quy trình an toàn và tư vấn nhanh.',
+        year: '2024',
+        href: 'https://www.xuannghiemgas.vn/',
+        cover: 'https://xuanhieuit.com/wp-content/uploads/2024/08/6868-logistics.jpeg',
+      },
+      {
+        title: 'Khu công nghiệp Lương Điền – Ngọc Liên',
+        description: 'Trang dự án khu công nghiệp, bản đồ, tiến độ và form liên hệ.',
+        year: '2024',
+        href: 'https://luongdienngoclien.com/',
+        cover: 'https://xuanhieuit.com/wp-content/uploads/2024/08/luong-dien.jpeg',
+      },
+      {
+        title: 'Công ty TNHH My Candy Việt Nam – Bánh kẹo',
+        description: 'Catalogue sản phẩm, chương trình khuyến mãi và đặt hàng.',
+        year: '2025',
+        href: 'https://mycandyvn.com/',
+        cover: 'https://xuanhieuit.com/wp-content/uploads/2024/08/my-candy-vietnam.jpeg',
+      },
+      {
+        title: 'H3 Group',
+        description: 'Thiết kế thi công nội thất F&B, nhà ở, Spa & Shop,… hàng đầu tại Hà Nội.',
+        year: '2024',
+        href: 'https://h3group.com.vn/',
+        cover: 'https://xuanhieuit.com/wp-content/uploads/2025/07/353shots_so.jpeg',
       },
     ],
     faqs: [

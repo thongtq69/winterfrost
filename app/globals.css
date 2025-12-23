@@ -48,3 +48,45 @@ a {
   outline: 2px solid #4d8aff;
   outline-offset: 4px;
 }
+
+/* Code blocks inside prose */
+.prose pre {
+  white-space: pre;
+  overflow-x: auto;
+  background: #f8fafc;
+  border: 1px solid rgba(15, 23, 42, 0.08);
+  border-radius: 12px;
+  padding: 12px 14px;
+  font-size: 12.5px;
+  line-height: 1.5;
+  max-width: 100%;
+  display: block;
+}
+
+.prose code {
+  background: rgba(15, 23, 42, 0.04);
+  padding: 2px 6px;
+  border-radius: 8px;
+}
+
+.snow-overlay {
+  pointer-events: none;
+  position: absolute;
+  inset: 0;
+  background-image: radial-gradient(#bde8ff 1px, transparent 1px),
+    radial-gradient(#d7f2ff 1px, transparent 1px),
+    radial-gradient(#b1e0ff 1px, transparent 1px);
+  background-size: 120px 120px, 160px 160px, 200px 200px;
+  background-position: 0 0, 40px 60px, 80px 20px;
+  animation: snowFall 12s linear infinite;
+  opacity: 0.45;
+}
+
+@keyframes snowFall {
+  0% {
+    transform: translate3d(0, -20px, 0);
+  }
+  100% {
+    transform: translate3d(0, 40px, 0);
+  }
+}

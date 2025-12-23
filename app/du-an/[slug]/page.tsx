@@ -10,6 +10,7 @@ import SectionHeading from '../../../components/ui/SectionHeading';
 import { getProjectBySlug, projects } from '../../../data/projects';
 import { workflowSteps } from '../../../data/workflow';
 import { buildPageMetadata, getProjectDetailMetadata } from '@lib/seo';
+import Image from 'next/image';
 
 type Props = {
   params: Promise<{ slug: string }>;
@@ -105,21 +106,22 @@ export default async function ProjectDetailPage({ params }: Props) {
 
       <section className="bg-white/70 py-12">
         <Container className="space-y-6">
-          <SectionHeading eyebrow="Giao diện" title="Hiển thị trên các thiết bị" />
-          <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
-            <Card className="p-4">
-              <p className="text-sm font-semibold text-gray-600">Giao diện Tablet</p>
-              <ImagePlaceholder aspect="aspect-[4/3]" />
-            </Card>
-            <Card className="p-4">
-              <p className="text-sm font-semibold text-gray-600">Giao diện Desktop</p>
-              <ImagePlaceholder aspect="aspect-[16/9]" />
-            </Card>
-            <Card className="p-4">
-              <p className="text-sm font-semibold text-gray-600">Giao diện Mobile</p>
-              <ImagePlaceholder aspect="aspect-[9/16]" />
-            </Card>
-          </div>
+          <SectionHeading eyebrow="Hình ảnh dự án" title="Giao diện thực tế" />
+          <Card className="overflow-hidden rounded-3xl p-0 shadow-card">
+            <div className="relative aspect-[16/9] w-full bg-gray-50">
+              {project.cover ? (
+                <Image
+                  src={project.cover}
+                  alt={project.title}
+                  fill
+                  sizes="(min-width: 1024px) 900px, 100vw"
+                  className="object-cover"
+                />
+              ) : (
+                <ImagePlaceholder aspect="aspect-[16/9]" className="absolute inset-0" />
+              )}
+            </div>
+          </Card>
         </Container>
       </section>
 
@@ -155,7 +157,19 @@ export default async function ProjectDetailPage({ params }: Props) {
           <div className="mt-6 grid gap-6 md:grid-cols-2 lg:grid-cols-4">
             {related.map((item) => (
               <Card key={item.slug} className="flex h-full flex-col gap-3 p-5">
-                <ImagePlaceholder aspect="aspect-[4/3]" />
+                <div className="relative aspect-[4/3] w-full overflow-hidden rounded-2xl bg-brand-50">
+                  {item.cover ? (
+                    <Image
+                      src={item.cover}
+                      alt={item.title}
+                      fill
+                      sizes="(min-width: 1024px) 280px, 100vw"
+                      className="object-cover"
+                    />
+                  ) : (
+                    <ImagePlaceholder aspect="aspect-[4/3]" className="absolute inset-0" />
+                  )}
+                </div>
                 <p className="text-xs uppercase tracking-wide text-brand-600">Dự án</p>
                 <h4 className="text-lg font-bold text-ink">{item.title}</h4>
                 <p className="text-sm text-gray-600">{item.description}</p>

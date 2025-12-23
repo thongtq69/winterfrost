@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import { ArrowRight, CheckCircle2, HelpCircle, MousePointerClick } from 'lucide-react';
+import { ArrowRight, CheckCircle2, HelpCircle, ImageOff } from 'lucide-react';
 import CTASection from '../../../components/ui/CTASection';
 import Button from '../../../components/ui/Button';
 import Card from '../../../components/ui/Card';
@@ -14,6 +14,8 @@ import BreadcrumbSchema from '../../../components/schema/BreadcrumbSchema';
 import FAQSchema from '../../../components/schema/FAQSchema';
 import ServiceSchema from '../../../components/schema/ServiceSchema';
 import { siteConfig } from '../../../site.config';
+import Image from 'next/image';
+import HeroMedia from '../../../components/hero/HeroMedia';
 
 type Props = {
   params: Promise<{ slug: string }>;
@@ -65,22 +67,9 @@ export default async function ServiceDetailPage({ params }: Props) {
               </Button>
             </div>
           </div>
-          <Card className="rounded-3xl bg-gradient-to-br from-brand-50 to-white p-6">
-            <div className="flex items-center justify-between">
-              <p className="text-sm font-semibold text-brand-600">Tư vấn nhanh</p>
-              <MousePointerClick size={18} className="text-brand-500" />
-            </div>
-            <p className="mt-2 text-lg font-bold text-ink">Book lịch để trao đổi yêu cầu</p>
-            <p className="text-sm text-gray-600">Chúng tôi phản hồi trong 24h, đề xuất lộ trình và chi phí phù hợp.</p>
-            <div className="mt-4 flex flex-col gap-3 sm:flex-row">
-              <Button fullWidth asChild>
-                <Link href="/lien-he">Liên hệ ngay</Link>
-              </Button>
-              <Button fullWidth variant="secondary" asChild>
-                <Link href="/du-an">Xem dự án</Link>
-              </Button>
-            </div>
-          </Card>
+          <div className="rounded-3xl bg-white">
+            <HeroMedia className="rounded-3xl shadow-card" />
+          </div>
         </Container>
       </section>
 
@@ -127,10 +116,26 @@ export default async function ServiceDetailPage({ params }: Props) {
           />
           <div className="mt-8 grid gap-6 md:grid-cols-3">
             {service.features.map((feature) => (
-              <Card key={feature.title} className="flex flex-col gap-4 p-5">
-                <ImagePlaceholder aspect="aspect-[4/3]" />
-                <h4 className="text-lg font-bold text-ink">{feature.title}</h4>
-                <p className="text-sm text-gray-600">{feature.description}</p>
+              <Card key={feature.title} className="flex h-full flex-col overflow-hidden rounded-3xl p-0 shadow-card">
+                <div className="relative aspect-[4/3] w-full overflow-hidden bg-brand-50">
+                  {feature.icon ? (
+                    <Image
+                      src={feature.icon}
+                      alt={feature.title}
+                      fill
+                      sizes="(min-width: 1280px) 360px, (min-width: 1024px) 33vw, (min-width: 768px) 50vw, 100vw"
+                      className="object-cover"
+                    />
+                  ) : (
+                    <div className="flex h-full w-full items-center justify-center text-brand-500">
+                      <ImageOff size={28} />
+                    </div>
+                  )}
+                </div>
+                <div className="space-y-2 px-5 pb-5 pt-4">
+                  <h4 className="text-xl font-extrabold text-ink">{feature.title}</h4>
+                  <p className="text-base text-gray-600">{feature.description}</p>
+                </div>
               </Card>
             ))}
           </div>
@@ -152,16 +157,45 @@ export default async function ServiceDetailPage({ params }: Props) {
           <div className="mt-8 grid gap-6 md:grid-cols-2">
             {service.projectsPreview.map((item, idx) => (
               <Card key={item.title} className="flex gap-4 p-5">
-                <ImagePlaceholder aspect="aspect-[4/3]" className="w-28 shrink-0" label={`0${idx + 1}`} />
+                <div className="relative aspect-[4/3] w-28 shrink-0 overflow-hidden rounded-2xl bg-brand-50">
+                  {item.cover ? (
+                    <Image
+                      src={item.cover}
+                      alt={item.title}
+                      fill
+                      sizes="112px"
+                      className="object-cover"
+                    />
+                  ) : (
+                    <ImagePlaceholder aspect="aspect-[4/3]" className="absolute inset-0" label={`0${idx + 1}`} />
+                  )}
+                </div>
                 <div>
                   <p className="text-xs uppercase tracking-wide text-brand-600">Dự án</p>
                   <h4 className="text-lg font-bold text-ink">{item.title}</h4>
                   <p className="text-sm text-gray-600">{item.description}</p>
+                  <div className="pt-2">
+                    <Button variant="ghost" size="sm" asChild>
+                      <Link href={item.href ?? '/du-an'} target={item.href ? '_blank' : undefined} rel={item.href ? 'noopener noreferrer' : undefined}>
+                        Xem dự án
+                      </Link>
+                    </Button>
+                  </div>
                 </div>
               </Card>
             ))}
             <Card className="flex flex-col gap-4 p-5">
-              <ImagePlaceholder aspect="aspect-[4/3]" className="w-full" label="More" />
+              <div className="relative aspect-[4/3] w-full overflow-hidden rounded-2xl bg-brand-50">
+                <video
+                  className="absolute inset-0 h-full w-full object-cover"
+                  src="https://1d486bca.delivery.rocketcdn.me/wp-content/uploads/2025/12/Motion-ViettinxBonbon-case-study.mp4"
+                  autoPlay
+                  muted
+                  loop
+                  playsInline
+                  preload="metadata"
+                />
+              </div>
               <h4 className="text-lg font-bold text-ink">Khám phá thêm</h4>
               <p className="text-sm text-gray-600">Xem thêm các dự án liên quan trong thư viện.</p>
               <Button variant="outline" asChild>

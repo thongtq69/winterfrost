@@ -8,6 +8,7 @@ import Footer from '../components/layout/Footer';
 import FloatingActions from '../components/layout/FloatingActions';
 import { baseMetadata, baseViewport } from '@lib/seo';
 import OrganizationSchema from '../components/schema/OrganizationSchema';
+import SnowOverlay from '../components/common/SnowOverlay';
 
 const manrope = Manrope({
   subsets: ['latin'],
@@ -27,6 +28,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
         <main className="min-h-screen">{children}</main>
         <Footer />
         <FloatingActions />
+        <SnowOverlay />
         <OrganizationSchema />
       </body>
     </html>

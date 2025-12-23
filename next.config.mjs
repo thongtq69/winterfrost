@@ -5,7 +5,18 @@ const nextConfig = {
     optimizePackageImports: ['lucide-react'],
   },
   images: {
-    domains: ['xuanhieuit.com'],
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: 'xuanhieuit.com',
+        pathname: '/**',
+      },
+      {
+        protocol: 'https',
+        hostname: 'images.careerviet.vn',
+        pathname: '/**',
+      },
+    ],
   },
 };
 
