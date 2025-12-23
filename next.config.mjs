@@ -4,6 +4,9 @@ const nextConfig = {
   experimental: {
     optimizePackageImports: ['lucide-react'],
   },
+  images: {
+    domains: ['xuanhieuit.com'],
+  },
 };
 
 export default nextConfig;
