@@ -56,6 +56,7 @@ export type ServiceDetail = {
     title: string;
     description: string;
     cover?: string | null;
+    href?: string;
   }[];
   faqs: {
     question: string;
