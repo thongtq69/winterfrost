@@ -3,6 +3,7 @@ import clsx from 'clsx';
 import Card from '../ui/Card';
 import Badge from '../ui/Badge';
 import ImagePlaceholder from '../ui/ImagePlaceholder';
+import Image from 'next/image';
 import type { Post } from '../../src/data/posts';
 
 type Props = {
@@ -11,8 +12,20 @@ type Props = {
 
 const BlogCard = ({ post }: Props) => (
   <Card className="group flex h-full flex-col gap-3 overflow-hidden rounded-[24px] bg-white p-4 shadow-card transition hover:-translate-y-1 hover:shadow-soft">
-    <div className="overflow-hidden rounded-2xl bg-gray-50">
-      <ImagePlaceholder aspect="aspect-[16/9]" label="Thumbnail" className="transition duration-200 group-hover:scale-[1.02]" />
+    <div className="relative aspect-[16/9] overflow-hidden rounded-2xl bg-gray-50">
+      {post.image ? (
+        <Image
+          src={post.image}
+          alt={post.title}
+          width={960}
+          height={540}
+          className="h-full w-full object-cover transition duration-200 group-hover:scale-[1.02]"
+          sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
+          priority={false}
+        />
+      ) : (
+        <ImagePlaceholder aspect="aspect-[16/9]" label="Thumbnail" className="transition duration-200 group-hover:scale-[1.02]" />
+      )}
     </div>
     <div className="space-y-2">
       <Badge className="bg-brand-50 text-brand-700">{post.category}</Badge>

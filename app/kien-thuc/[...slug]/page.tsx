@@ -7,8 +7,11 @@ import Badge from '../../../components/ui/Badge';
 import Image from 'next/image';
 import Link from 'next/link';
 import { getPostBySlug, posts } from '../../../data/posts';
+import { posts as simplePosts } from '../../../src/data/posts';
 import ArticleSchema from '../../../components/schema/ArticleSchema';
 import BreadcrumbSchema from '../../../components/schema/BreadcrumbSchema';
+import BlogList from '../../../components/blog/BlogList';
+import BlogSidebar from '../../../components/blog/BlogSidebar';
 import { siteConfig } from '../../../site.config';
 import clsx from 'clsx';
 
@@ -47,6 +50,84 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 export default async function PostDetailPage({ params }: Props) {
   const { slug } = await params;
   const post = getPostBySlug(slug);
+  const categoryMap: Record<
+    string,
+    {
+      name: string;
+      description: string;
+      filter: (p: (typeof simplePosts)[number]) => boolean;
+      disabled?: boolean;
+    }
+  > = {
+    'huong-dan-ky-thuat': {
+      name: 'Hướng dẫn kỹ thuật',
+      description: 'Tổng hợp hướng dẫn kỹ thuật WordPress/CF7/Elementor.',
+      filter: () => true,
+    },
+    'case-study': {
+      name: 'Case study',
+      description: 'Chúng tôi sẽ sớm phát triển nội dung Case study. Vui lòng quay lại sau.',
+      filter: () => false,
+      disabled: true,
+    },
+    'seo-noi-dung': {
+      name: 'SEO & nội dung',
+      description: 'Chúng tôi sẽ sớm phát triển nội dung SEO & nội dung. Vui lòng quay lại sau.',
+      filter: () => false,
+      disabled: true,
+    },
+  };
+
+  // Nếu slug là category, hiển thị trang danh mục
+  if (!post && slug.length === 1 && categoryMap[slug[0]]) {
+    const category = categoryMap[slug[0]];
+    const filtered = simplePosts.filter(category.filter);
+    const isDisabled = category.disabled || filtered.length === 0;
+    return (
+      <>
+        <section className="bg-white py-10">
+          <Container className="space-y-3 lg:max-w-5xl">
+            <nav className="text-sm text-gray-600" aria-label="Breadcrumb">
+              <Link href="/" className="hover:text-brand-700">
+                Trang chủ
+              </Link>
+              <span className="px-1 text-gray-400">/</span>
+              <Link href="/kien-thuc" className="hover:text-brand-700">
+                Kiến thức
+              </Link>
+              <span className="px-1 text-gray-400">/</span>
+              <span className="text-gray-700">{category.name}</span>
+            </nav>
+            <h1 className="text-3xl font-extrabold leading-tight text-ink sm:text-4xl">{category.name}</h1>
+            <p className="text-base text-gray-600 sm:text-lg">{category.description}</p>
+          </Container>
+        </section>
+        {isDisabled ? (
+          <section className="bg-surface py-12">
+            <Container className="lg:max-w-4xl">
+              <div className="rounded-2xl border border-dashed border-gray-200 bg-white p-8 text-center shadow-sm">
+                <h2 className="text-2xl font-bold text-ink">Nội dung đang được phát triển</h2>
+                <p className="mt-3 text-gray-600">
+                  Chúng tôi sẽ sớm bổ sung các bài viết cho chuyên mục này. Vui lòng quay lại sau hoặc xem các bài hướng dẫn kỹ thuật.
+                </p>
+                <div className="mt-6 flex justify-center">
+                  <Link
+                    href="/kien-thuc/huong-dan-ky-thuat"
+                    className="rounded-full bg-brand-600 px-4 py-2 text-sm font-semibold text-white transition hover:bg-brand-700"
+                  >
+                    Xem Hướng dẫn kỹ thuật
+                  </Link>
+                </div>
+              </div>
+            </Container>
+          </section>
+        ) : (
+          <BlogList posts={filtered} sidebar={<BlogSidebar />} />
+        )}
+      </>
+    );
+  }
+
   if (!post) return notFound();
 
   const baseUrl = `https://${siteConfig.brand.domain}`;

@@ -47,11 +47,10 @@ export const navItems: NavItem[] = [
     label: 'Kiến thức',
     href: '/kien-thuc',
     dropdown: [
-      { label: 'Case study', href: '/kien-thuc/case-study' },
-      { label: 'SEO & nội dung', href: '/kien-thuc/seo-noi-dung' },
       { label: 'Hướng dẫn kỹ thuật', href: '/kien-thuc/huong-dan-ky-thuat' },
+      { label: 'Case study (đang phát triển)', href: '/kien-thuc/case-study' },
+      { label: 'SEO & nội dung (đang phát triển)', href: '/kien-thuc/seo-noi-dung' },
     ],
   },
-  { label: 'Tiktok', href: '/tiktok' },
   { label: 'Liên hệ', href: '/lien-he' },
 ];
