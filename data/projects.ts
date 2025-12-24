@@ -26,18 +26,46 @@ export const projects: Project[] = [
     "detailUrl": ""
   },
   {
-    "slug": "wbc",
-    "title": "Wbc",
-    "description": "Website giới thiệu thương hiệu và dịch vụ, tối ưu chuyển đổi liên hệ.",
-    "client": "Client 1",
+    "slug": "fly-future",
+    "title": "Fly Future",
+    "description": "FLY FUTURE – Master Agency trong lĩnh vực giáo dục quốc tế\n\n",
+    "client": "Client 9",
     "year": "2022",
     "categories": [
       "Bán hàng",
-      "Bán hàng"
+      "Landing Page"
     ],
-    "cover": "https://xuanhieuit.com/wp-content/uploads/2025/09/684_1x_shots_so.jpeg",
-    "externalUrl": "https://xuanhieuit.com/du-an/wbc/",
-    "detailUrl": "https://xuanhieuit.com/du-an/wbc/"
+    "cover": "https://xuanhieuit.com/wp-content/uploads/2025/07/830_1x_shots_so.jpeg",
+    "externalUrl": "https://flyfuture.edu.vn",
+    "detailUrl": "https://xuanhieuit.com/du-an/fly-future/"
+  },
+  {
+    "slug": "hoang-ngan-jp",
+    "title": "Hoàng Ngân JP",
+    "description": "Giải pháp website đa trang, chuẩn SEO và tốc độ tải.",
+    "client": "Client 11",
+    "year": "2024",
+    "categories": [
+      "Bán hàng",
+      "Nội thất"
+    ],
+    "cover": "https://xuanhieuit.com/wp-content/uploads/2025/07/Hoang-Ngan-JP.jpeg",
+    "externalUrl": "https://hoangnganrestaurant.com/",
+    "detailUrl": "https://xuanhieuit.com/du-an/hoang-ngan-jp/"
+  },
+  {
+    "slug": "thanh-toan-viet-tin",
+    "title": "Thanh Toán Việt Tín",
+    "description": "Landing page chiến dịch với form đăng ký và thông tin nổi bật.",
+    "client": "Client 10",
+    "year": "2023",
+    "categories": [
+      "Bán hàng",
+      "Nhà hàng"
+    ],
+    "cover": "https://xuanhieuit.com/wp-content/uploads/2025/07/Viet-Tin.jpeg",
+    "externalUrl": "https://restaurant.vvt.com.vn/",
+    "detailUrl": "https://xuanhieuit.com/du-an/thanh-toan-viet-tin/"
   },
   {
     "slug": "h3-group",
@@ -52,34 +80,6 @@ export const projects: Project[] = [
     "cover": "https://xuanhieuit.com/wp-content/uploads/2025/07/353shots_so.jpeg",
     "externalUrl": "https://h3group.com.vn/",
     "detailUrl": "https://xuanhieuit.com/du-an/h3-group/"
-  },
-  {
-    "slug": "catherine-cruise",
-    "title": "Catherine Cruise",
-    "description": "Du thuyền Catherine là sự giao thoa tinh tế giữa nét đẹp đa văn hóa...",
-    "client": "Client 4",
-    "year": "2025",
-    "categories": [
-      "Bán hàng",
-      "Du lịch"
-    ],
-    "cover": "https://xuanhieuit.com/wp-content/uploads/2025/07/188shots_so.jpeg",
-    "externalUrl": "https://xuanhieuit.com/du-an/catherine-cruise/",
-    "detailUrl": "https://xuanhieuit.com/du-an/catherine-cruise/"
-  },
-  {
-    "slug": "meditrain",
-    "title": "Meditrain",
-    "description": "Nền tảng đào tạo trực tuyến dành cho đội ngũ nhân viên y tế\n",
-    "client": "Client 5",
-    "year": "2022",
-    "categories": [
-      "Bán hàng",
-      "Dược phẩm & thuốc"
-    ],
-    "cover": "https://xuanhieuit.com/wp-content/uploads/2025/07/276shots_so.jpeg",
-    "externalUrl": "https://meditrain.xuanhieuit.com/",
-    "detailUrl": "https://xuanhieuit.com/du-an/meditrain/"
   },
   {
     "slug": "pathfinder",
@@ -122,48 +122,6 @@ export const projects: Project[] = [
     "cover": "https://xuanhieuit.com/wp-content/uploads/2025/07/Vivuquangbinh.jpeg",
     "externalUrl": "https://vivuquangbinh.vn/",
     "detailUrl": "https://xuanhieuit.com/du-an/vi-vu-quang-binh/"
-  },
-  {
-    "slug": "fly-future",
-    "title": "Fly Future",
-    "description": "FLY FUTURE – Master Agency trong lĩnh vực giáo dục quốc tế\n\n",
-    "client": "Client 9",
-    "year": "2022",
-    "categories": [
-      "Bán hàng",
-      "Landing Page"
-    ],
-    "cover": "https://xuanhieuit.com/wp-content/uploads/2025/07/830_1x_shots_so.jpeg",
-    "externalUrl": "https://flyfuture.edu.vn",
-    "detailUrl": "https://xuanhieuit.com/du-an/fly-future/"
-  },
-  {
-    "slug": "thanh-toan-viet-tin",
-    "title": "Thanh Toán Việt Tín",
-    "description": "Landing page chiến dịch với form đăng ký và thông tin nổi bật.",
-    "client": "Client 10",
-    "year": "2023",
-    "categories": [
-      "Bán hàng",
-      "Nhà hàng"
-    ],
-    "cover": "https://xuanhieuit.com/wp-content/uploads/2025/07/Viet-Tin.jpeg",
-    "externalUrl": "https://restaurant.vvt.com.vn/",
-    "detailUrl": "https://xuanhieuit.com/du-an/thanh-toan-viet-tin/"
-  },
-  {
-    "slug": "hoang-ngan-jp",
-    "title": "Hoàng Ngân JP",
-    "description": "Giải pháp website đa trang, chuẩn SEO và tốc độ tải.",
-    "client": "Client 11",
-    "year": "2024",
-    "categories": [
-      "Bán hàng",
-      "Nội thất"
-    ],
-    "cover": "https://xuanhieuit.com/wp-content/uploads/2025/07/Hoang-Ngan-JP.jpeg",
-    "externalUrl": "https://hoangnganrestaurant.com/",
-    "detailUrl": "https://xuanhieuit.com/du-an/hoang-ngan-jp/"
   },
   {
     "slug": "royalcare",
@@ -738,6 +696,48 @@ export const projects: Project[] = [
     "cover": "https://xuanhieuit.com/wp-content/uploads/2024/08/qgroup.png",
     "externalUrl": "https://qgroups.vn/",
     "detailUrl": "https://xuanhieuit.com/du-an/qgroup/"
+  },
+  {
+    "slug": "wbc",
+    "title": "Wbc",
+    "description": "Website giới thiệu thương hiệu và dịch vụ, tối ưu chuyển đổi liên hệ.",
+    "client": "Client 1",
+    "year": "2022",
+    "categories": [
+      "Bán hàng",
+      "Bán hàng"
+    ],
+    "cover": "https://xuanhieuit.com/wp-content/uploads/2025/09/684_1x_shots_so.jpeg",
+    "externalUrl": "https://xuanhieuit.com/du-an/wbc/",
+    "detailUrl": "https://xuanhieuit.com/du-an/wbc/"
+  },
+  {
+    "slug": "meditrain",
+    "title": "Meditrain",
+    "description": "Nền tảng đào tạo trực tuyến dành cho đội ngũ nhân viên y tế\n",
+    "client": "Client 5",
+    "year": "2022",
+    "categories": [
+      "Bán hàng",
+      "Dược phẩm & thuốc"
+    ],
+    "cover": "https://xuanhieuit.com/wp-content/uploads/2025/07/276shots_so.jpeg",
+    "externalUrl": "https://meditrain.xuanhieuit.com/",
+    "detailUrl": "https://xuanhieuit.com/du-an/meditrain/"
+  },
+  {
+    "slug": "catherine-cruise",
+    "title": "Catherine Cruise",
+    "description": "Du thuyền Catherine là sự giao thoa tinh tế giữa nét đẹp đa văn hóa...",
+    "client": "Client 4",
+    "year": "2025",
+    "categories": [
+      "Bán hàng",
+      "Du lịch"
+    ],
+    "cover": "https://xuanhieuit.com/wp-content/uploads/2025/07/188shots_so.jpeg",
+    "externalUrl": "https://xuanhieuit.com/du-an/catherine-cruise/",
+    "detailUrl": "https://xuanhieuit.com/du-an/catherine-cruise/"
   },
   {
     "slug": "benh-vien-mat-ha-noi",
