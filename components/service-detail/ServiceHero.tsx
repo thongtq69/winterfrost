@@ -7,6 +7,7 @@ import Container from '../ui/Container';
 import ImagePlaceholder from '../ui/ImagePlaceholder';
 import type { ServiceDetail } from '../../src/data/services';
 import { siteConfig } from '../../site.config';
+import Image from 'next/image';
 
 type Props = {
   service: ServiceDetail;
@@ -43,7 +44,19 @@ const ServiceHero = ({ service }: Props) => (
       <div className="relative w-full max-w-[780px] lg:max-w-[840px] lg:justify-self-end">
         <div className="overflow-hidden rounded-[32px] bg-gradient-to-br from-ink via-ink/90 to-brand-900 shadow-soft">
           <div className="relative aspect-[16/10]">
-            <ImagePlaceholder aspect="aspect-[16/10]" label="Media" className="h-full w-full" />
+            {service.heroVideo ? (
+              <video
+                className="absolute inset-0 h-full w-full object-cover"
+                src={service.heroVideo}
+                autoPlay
+                muted
+                loop
+                playsInline
+                preload="metadata"
+              />
+            ) : (
+              <ImagePlaceholder aspect="aspect-[16/10]" label="Media" className="h-full w-full" />
+            )}
             <div className="pointer-events-none absolute inset-0 bg-gradient-to-b from-white/10 via-transparent to-black/25" />
             <div className="absolute left-5 top-5 rounded-2xl bg-white/85 px-4 py-2 text-xs font-semibold text-ink shadow-card">
               {siteConfig.brand.name} • Workshop • Mentoring

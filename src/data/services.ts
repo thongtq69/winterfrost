@@ -29,6 +29,7 @@ export type ServiceDetail = {
   slug: string;
   title: string;
   subtitle: string;
+  heroVideo?: string;
   bullets: string[];
   primaryCta: { label: string; href: string };
   secondaryCta: { label: string; href: string };
@@ -44,6 +45,7 @@ export const services: ServiceDetail[] = [
     title: 'Thiết kế website doanh nghiệp chuẩn nhận diện & tối ưu chuyển đổi',
     subtitle:
       'Website doanh nghiệp được xây dựng theo hành trình khách hàng, tối ưu tốc độ, bảo mật và SEO để hỗ trợ tăng trưởng bền vững.',
+    heroVideo: '/videos/hero.mp4',
     bullets: [
       'Tư vấn cấu trúc nội dung bám sát hành trình khách hàng',
       'Thiết kế UI theo nhận diện thương hiệu, hiện đại và rõ ràng',
