@@ -14,13 +14,17 @@ export const siteConfig = {
     officeHours: 'T2–T7 09:00–18:00',
   },
   links: {
-    zalo: 'https://zaloapp.com/qr/p/t2fsk4cb36fx?src=qr',
+    zalo: 'https://zalo.me/84971450454',
     facebook: 'https://www.facebook.com/profile.php?id=61585603883149',
     tiktok: 'https://www.tiktok.com/@thongtq68',
     github: 'https://github.com/thongtq69',
     linkedin: 'https://example.com/linkedin',
     youtube: 'https://example.com/youtube',
     instagram: 'https://example.com/instagram',
+  },
+  socialLabels: {
+    zalo: 'Winterforst Tech',
+    facebook: 'WinterFort',
   },
   cta: {
     primaryText: 'Liên hệ ngay',

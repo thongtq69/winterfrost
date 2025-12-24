@@ -12,9 +12,9 @@ export const metadata = contactPageMetadata;
 
 const contacts = [
   { title: 'Số điện thoại', value: siteConfig.contact.phoneDisplay, action: 'Gọi ngay', icon: PhoneCall, href: telHref(siteConfig.contact.phoneTel) },
-  { title: 'Zalo', value: siteConfig.links.zalo, action: siteConfig.cta.zaloText, icon: MessageCircle, href: siteConfig.links.zalo },
+  { title: 'Zalo', value: siteConfig.socialLabels.zalo, action: siteConfig.cta.zaloText, icon: MessageCircle, href: siteConfig.links.zalo },
   { title: 'Email', value: siteConfig.contact.email, action: 'Gửi tin nhắn', icon: Mail, href: mailHref(siteConfig.contact.email) },
-  { title: 'Facebook', value: siteConfig.links.facebook, action: 'Kết nối', icon: Facebook, href: siteConfig.links.facebook },
+  { title: 'Facebook', value: siteConfig.socialLabels.facebook, action: 'Kết nối', icon: Facebook, href: siteConfig.links.facebook },
 ];
 
 export default function ContactPage() {
@@ -41,7 +41,7 @@ export default function ContactPage() {
                   </span>
                   <div>
                     <p className="text-sm font-semibold text-gray-600">{item.title}</p>
-                    <p className="text-base font-bold text-ink break-all">{item.value}</p>
+                    <p className="text-base font-bold text-ink break-words">{item.value}</p>
                   </div>
                 </div>
                 <Button variant="secondary" asChild>
