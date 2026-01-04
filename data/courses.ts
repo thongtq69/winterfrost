@@ -5,7 +5,7 @@ export type Course = {
   summary: string;
   modules: string[];
   outcomes: string[];
-  videoSrc?: string;
+  imageSrc?: string;
 };
 
 export const courses: Course[] = [
@@ -14,7 +14,7 @@ export const courses: Course[] = [
     title: 'Thiết kế Website WordPress Elementor',
     label: 'KHÓA HỌC ONLINE',
     summary: 'Tự tay dựng website bán hàng với Elementor và tối ưu chuyển đổi.',
-    videoSrc: '/videos/hero.mp4',
+    imageSrc: '/videos/pexels-olia-danilevich-4974914.jpg',
     modules: ['Setup hosting, domain', 'Thiết kế landing với Elementor', 'Tối ưu tốc độ & bảo mật', 'Tracking & form automation'],
     outcomes: ['Sở hữu website hoàn chỉnh', 'Biết tối ưu tốc độ và SEO', 'Tự chỉnh sửa và nhân bản trang'],
   },
@@ -23,7 +23,7 @@ export const courses: Course[] = [
     title: 'WordPress chuẩn SEO 2026',
     label: 'KHÓA HỌC ONLINE',
     summary: 'Triển khai WordPress chuẩn SEO, schema và content structure.',
-    videoSrc: '/videos/hero.mp4',
+    imageSrc: '/videos/pexels-kindelmedia-7688100.jpg',
     modules: ['Checklist technical SEO', 'Cấu trúc content & category', 'Schema cơ bản', 'Tối ưu hình ảnh & cache'],
     outcomes: ['Hiểu cách audit SEO', 'Tự tối ưu onpage', 'Thiết lập tracking & báo cáo'],
   },
@@ -32,7 +32,7 @@ export const courses: Course[] = [
     title: 'Kèm 1-1 Thiết kế Website WordPress',
     label: 'COACHING 1-1',
     summary: 'Coaching cá nhân, hoàn thiện website theo yêu cầu trong 4 tuần.',
-    videoSrc: '/videos/hero.mp4',
+    imageSrc: '/videos/pexels-dkomov-34803983.jpg',
     modules: ['Discovery 1-1', 'Wireframe & UI cơ bản', 'Build website thực tế', 'QA & bàn giao'],
     outcomes: ['Website hoàn thiện theo yêu cầu', 'Quy trình vận hành rõ ràng', 'Hỗ trợ sau khóa học'],
   },

@@ -2,6 +2,7 @@
 
 import { motion } from 'framer-motion';
 import Link from 'next/link';
+import Image from 'next/image';
 import { ArrowUpRight } from 'lucide-react';
 import { courses } from '../../data/courses';
 import Button from '../ui/Button';
@@ -15,7 +16,7 @@ const CoursesHighlight = () => (
     <Container>
       <SectionHeading
         eyebrow="Khóa học & mentoring"
-        title="Video giới thiệu các lộ trình WordPress"
+        title="Các lộ trình WordPress"
         description="3 chương trình tập trung triển khai website thực tế, tối ưu SEO và coaching 1-1."
       />
       <div className="mt-10 grid gap-6 md:grid-cols-2 lg:grid-cols-3">
@@ -29,23 +30,17 @@ const CoursesHighlight = () => (
           >
             <Card className="group flex h-full flex-col overflow-hidden rounded-3xl p-0">
               <div className="relative aspect-[16/10] w-full overflow-hidden rounded-t-3xl bg-gray-100">
-                {course.videoSrc ? (
-                  <video
-                    className="absolute inset-0 h-full w-full object-cover"
-                    src={course.videoSrc}
-                    autoPlay
-                    muted
-                    loop
-                    playsInline
-                    preload="auto"
-                    aria-label={`Video giới thiệu ${course.title}`}
-                  >
-                    <source src={course.videoSrc} type="video/mp4" />
-                    Trình duyệt không hỗ trợ video.
-                  </video>
+                {course.imageSrc ? (
+                  <Image
+                    src={course.imageSrc}
+                    alt={course.title}
+                    fill
+                    className="object-cover"
+                    sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+                  />
                 ) : (
                   <div className="absolute inset-0 flex items-center justify-center text-sm font-semibold text-gray-500">
-                    Video hiện chưa sẵn sàng
+                    Hình ảnh chưa sẵn sàng
                   </div>
                 )}
                 <div className="pointer-events-none absolute inset-0 bg-gradient-to-b from-white/10 via-transparent to-black/30" />

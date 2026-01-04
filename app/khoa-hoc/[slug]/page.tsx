@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
+import Image from 'next/image';
 import { notFound } from 'next/navigation';
 import { ArrowRight, BookOpen, CheckCircle2 } from 'lucide-react';
 import CTASection from '../../../components/ui/CTASection';
@@ -61,23 +62,17 @@ export default async function CoursePage({ params }: Props) {
           </div>
           <Card className="rounded-3xl p-6">
             <div className="relative aspect-video w-full overflow-hidden rounded-2xl bg-gray-100">
-              {course.videoSrc ? (
-                <video
-                  className="absolute inset-0 h-full w-full object-cover"
-                  src={course.videoSrc}
-                  autoPlay
-                  muted
-                  loop
-                  playsInline
-                  preload="auto"
-                  aria-label={`Video giới thiệu ${course.title}`}
-                >
-                  <source src={course.videoSrc} type="video/mp4" />
-                  Trình duyệt không hỗ trợ video.
-                </video>
+              {course.imageSrc ? (
+                <Image
+                  src={course.imageSrc}
+                  alt={course.title}
+                  fill
+                  className="object-cover"
+                  sizes="(max-width: 768px) 100vw, 50vw"
+                />
               ) : (
                 <div className="absolute inset-0 flex items-center justify-center text-sm font-semibold text-gray-500">
-                  Video hiện chưa sẵn sàng
+                  Hình ảnh chưa sẵn sàng
                 </div>
               )}
             </div>
