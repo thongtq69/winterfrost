@@ -10,10 +10,18 @@ import { contactPageMetadata } from '@lib/seo';
 
 export const metadata = contactPageMetadata;
 
+const emailContacts = siteConfig.contact.emails.map((email) => ({
+  title: email.label,
+  value: email.address,
+  action: 'Gửi email',
+  icon: Mail,
+  href: mailHref(email.address),
+}));
+
 const contacts = [
   { title: 'Số điện thoại', value: siteConfig.contact.phoneDisplay, action: 'Gọi ngay', icon: PhoneCall, href: telHref(siteConfig.contact.phoneTel) },
   { title: 'Zalo', value: siteConfig.socialLabels.zalo, action: siteConfig.cta.zaloText, icon: MessageCircle, href: siteConfig.links.zalo },
-  { title: 'Email', value: siteConfig.contact.email, action: 'Gửi tin nhắn', icon: Mail, href: mailHref(siteConfig.contact.email) },
+  ...emailContacts,
   { title: 'Facebook', value: siteConfig.socialLabels.facebook, action: 'Kết nối', icon: Facebook, href: siteConfig.links.facebook },
 ];
 

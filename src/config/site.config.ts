@@ -1,3 +1,9 @@
+const contactEmails = [
+  { label: 'Email công việc', address: 'info@winterfrost.tech' },
+  { label: 'Email hỗ trợ khách hàng', address: 'support@winterfrost.tech' },
+  { label: 'Email tuyển dụng', address: 'recruitment@winterfrost.tech' },
+] as const;
+
 export const siteConfig = {
   brand: {
     name: 'WinterFrost',
@@ -8,7 +14,8 @@ export const siteConfig = {
   contact: {
     phoneDisplay: '0971450454',
     phoneTel: '0971450454',
-    email: 'quocthong0801@gmail.com',
+    email: contactEmails[0].address,
+    emails: contactEmails,
     address: 'BE3 Vinhomes Grand Park, Quận 9, TP.HCM',
     onlineSupport: '24/7',
     officeHours: 'T2–T7 09:00–18:00',

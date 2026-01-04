@@ -64,7 +64,14 @@ const Footer = () => {
           <h3 className="text-sm font-semibold text-gray-800">Liên hệ</h3>
           <div className="space-y-1 text-sm text-gray-600">
             <p>Phone: <Link href={`tel:${siteConfig.contact.phoneTel}`} className="hover:text-brand-700 hover:underline">{siteConfig.contact.phoneDisplay}</Link></p>
-            <p>Email: <Link href={`mailto:${siteConfig.contact.email}`} className="hover:text-brand-700 hover:underline">{siteConfig.contact.email}</Link></p>
+            {siteConfig.contact.emails.map((email) => (
+              <p key={email.address}>
+                {email.label}:{' '}
+                <Link href={`mailto:${email.address}`} className="hover:text-brand-700 hover:underline">
+                  {email.address}
+                </Link>
+              </p>
+            ))}
             <p>Địa chỉ: {siteConfig.contact.address}</p>
             <p>Hỗ trợ: {siteConfig.contact.onlineSupport}</p>
             <p>Giờ làm việc: {siteConfig.contact.officeHours}</p>

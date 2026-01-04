@@ -152,7 +152,7 @@ export const projectsPageMetadata = buildPageMetadata({
 export const contactPageMetadata = buildPageMetadata({
   title: 'Liên Hệ Tư Vấn Thiết Kế Website | Hotline 0971450454 | WinterFrost TP.HCM',
   description:
-    'Liên hệ WinterFrost để được tư vấn thiết kế website miễn phí. Hotline: 0971450454, Email: quocthong0801@gmail.com. Văn phòng tại Vinhomes Grand Park, Quận 9, TP.HCM.',
+    'Liên hệ WinterFrost để được tư vấn thiết kế website miễn phí. Hotline: 0971450454, Email: info@winterfrost.tech (công việc), support@winterfrost.tech (hỗ trợ), recruitment@winterfrost.tech (tuyển dụng). Văn phòng tại Vinhomes Grand Park, Quận 9, TP.HCM.',
   path: '/lien-he',
 });
 

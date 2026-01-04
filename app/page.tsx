@@ -2,6 +2,7 @@ import HomeHero from '../components/sections/HomeHero';
 import CoreValues from '../components/sections/CoreValues';
 import ServicesGrid from '../components/sections/ServicesGrid';
 import ProjectsHighlight from '../components/sections/ProjectsHighlight';
+import CoursesHighlight from '../components/sections/CoursesHighlight';
 import CTASection from '../components/ui/CTASection';
 import { homePageMetadata } from '@lib/seo';
 import LocalBusinessSchema from '../components/schema/LocalBusinessSchema';
@@ -15,6 +16,7 @@ export default function HomePage() {
       <HomeHero />
       <CoreValues />
       <ServicesGrid />
+      <CoursesHighlight />
       <ProjectsHighlight />
       <CTASection />
       <BreadcrumbSchema

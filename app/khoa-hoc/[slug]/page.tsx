@@ -6,7 +6,6 @@ import CTASection from '../../../components/ui/CTASection';
 import Button from '../../../components/ui/Button';
 import Card from '../../../components/ui/Card';
 import Container from '../../../components/ui/Container';
-import ImagePlaceholder from '../../../components/ui/ImagePlaceholder';
 import SectionHeading from '../../../components/ui/SectionHeading';
 import { courses, getCourseBySlug } from '../../../data/courses';
 
@@ -61,7 +60,27 @@ export default async function CoursePage({ params }: Props) {
             </div>
           </div>
           <Card className="rounded-3xl p-6">
-            <ImagePlaceholder aspect="aspect-video" label="Video/Thumbnail" />
+            <div className="relative aspect-video w-full overflow-hidden rounded-2xl bg-gray-100">
+              {course.videoSrc ? (
+                <video
+                  className="absolute inset-0 h-full w-full object-cover"
+                  src={course.videoSrc}
+                  autoPlay
+                  muted
+                  loop
+                  playsInline
+                  preload="auto"
+                  aria-label={`Video giới thiệu ${course.title}`}
+                >
+                  <source src={course.videoSrc} type="video/mp4" />
+                  Trình duyệt không hỗ trợ video.
+                </video>
+              ) : (
+                <div className="absolute inset-0 flex items-center justify-center text-sm font-semibold text-gray-500">
+                  Video hiện chưa sẵn sàng
+                </div>
+              )}
+            </div>
             <h3 className="mt-4 text-lg font-bold text-ink">Học viên nhận được</h3>
             <ul className="mt-2 space-y-2 text-sm text-gray-700">
               {course.outcomes.map((item) => (
