@@ -16,6 +16,11 @@ const nextConfig = {
         hostname: 'images.careerviet.vn',
         pathname: '/**',
       },
+      {
+        protocol: 'https',
+        hostname: 'img.vietqr.io',
+        pathname: '/**',
+      },
     ],
   },
 };

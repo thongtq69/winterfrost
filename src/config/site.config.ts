@@ -6,7 +6,7 @@ const contactEmails = [
 
 export const siteConfig = {
   brand: {
-    name: 'WinterFrost',
+    name: 'WinterFrost Tech',
     domain: 'winterfrost.tech',
     tagline: 'Tư vấn phát triển website',
     description: 'WinterFrost thiết kế và tối ưu website chuẩn SEO, tốc độ và chuyển đổi cho doanh nghiệp.',

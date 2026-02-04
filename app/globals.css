@@ -90,3 +90,14 @@ a {
     transform: translate3d(0, 40px, 0);
   }
 }
+
+@media print {
+  header,
+  footer,
+  [role='navigation'],
+  .floating-actions,
+  #zalo-chat-widget,
+  .print-hidden {
+    display: none !important;
+  }
+}

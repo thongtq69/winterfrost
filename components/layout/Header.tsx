@@ -87,15 +87,15 @@ const Header = () => {
       <div ref={navRef}>
         <Container className="flex items-center justify-between gap-6 py-4 lg:py-5">
           <Link href="/" className="inline-flex items-center gap-3 focus-outline" aria-label="Trang chủ">
-            <div className="flex h-12 w-12 items-center justify-center rounded-2xl bg-white text-white shadow-ring ring-1 ring-gray-100 overflow-hidden">
+            <div className="flex h-16 w-16 items-center justify-center rounded-2xl bg-white text-white shadow-ring ring-1 ring-gray-100 overflow-hidden p-1">
               {siteConfig.assets.markPath ? (
                 <Image
                   src={siteConfig.assets.markPath}
                   alt={siteConfig.brand.name}
-                  width={48}
-                  height={48}
+                  width={64}
+                  height={64}
                   priority
-                  className="h-12 w-12 object-contain"
+                  className="h-16 w-16 object-contain"
                 />
               ) : (
                 <span className="text-lg font-extrabold text-brand-600">{siteConfig.brand.name.split(' ')[0] ?? 'WF'}</span>

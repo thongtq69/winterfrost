@@ -7,7 +7,6 @@ import Container from '../ui/Container';
 import ImagePlaceholder from '../ui/ImagePlaceholder';
 import type { ServiceDetail } from '../../src/data/services';
 import { siteConfig } from '../../site.config';
-import Image from 'next/image';
 
 type Props = {
   service: ServiceDetail;

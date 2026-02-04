@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import Image from 'next/image';
 import { Clapperboard, Facebook, Linkedin } from 'lucide-react';
 import Container from '../ui/Container';
 import { navItems } from '../../data/nav';
@@ -21,8 +22,14 @@ const Footer = () => {
       <Container className="grid gap-10 py-12 md:grid-cols-2 lg:grid-cols-4">
         <div className="space-y-4">
           <div className="inline-flex items-center gap-3">
-            <div className="flex h-12 w-12 items-center justify-center rounded-2xl bg-brand-600 text-white shadow-card">
-              <span className="text-lg font-extrabold">{siteConfig.brand.name.split(' ')[0] ?? 'WF'}</span>
+            <div className="flex h-14 w-14 items-center justify-center rounded-2xl bg-white text-white shadow-card overflow-hidden border border-gray-100 p-1">
+              <Image
+                src={siteConfig.assets.markPath}
+                alt={siteConfig.brand.name}
+                width={56}
+                height={56}
+                className="object-contain"
+              />
             </div>
             <div>
               <p className="text-sm font-semibold text-brand-700">{siteConfig.brand.name}</p>
