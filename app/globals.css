@@ -91,6 +91,43 @@ a {
   }
 }
 
+/* === Tết Nguyên Đán Decorations === */
+.tet-banner {
+  animation: tetGlow 2s ease-in-out infinite alternate;
+}
+
+@keyframes tetGlow {
+  0% {
+    filter: brightness(1);
+  }
+  100% {
+    filter: brightness(1.15);
+  }
+}
+
+/* Ngựa phi - Mã Đáo Thành Công */
+.horse-gallop {
+  animation: gallop 0.4s steps(2) infinite;
+}
+
+@keyframes gallop {
+  0% {
+    transform: scaleX(-1) translateY(0px);
+  }
+  50% {
+    transform: scaleX(-1) translateY(-6px);
+  }
+  100% {
+    transform: scaleX(-1) translateY(0px);
+  }
+}
+
+/* Viền đỏ nhẹ cho ngày Tết */
+.tet-border-top {
+  border-top: 3px solid transparent;
+  border-image: linear-gradient(90deg, transparent, #dc2626, #f59e0b, #dc2626, transparent) 1;
+}
+
 @media print {
   header,
   footer,
