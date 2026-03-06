@@ -3,6 +3,7 @@
 import { AnimatePresence, motion } from 'framer-motion';
 import { ArrowUp, Home, Mail, Menu, MessageCircle, PhoneCall, Facebook } from 'lucide-react';
 import Link from 'next/link';
+import { usePathname } from 'next/navigation';
 import { useEffect, useState } from 'react';
 import Button from '../ui/Button';
 import { siteConfig } from '../../site.config';
@@ -11,6 +12,8 @@ import { mailHref, telHref } from '../../src/lib/format';
 const FloatingActions = () => {
   const [visible, setVisible] = useState(false);
   const [expanded, setExpanded] = useState(false);
+  const pathname = usePathname();
+  const isKnowledgePage = pathname === '/kien-thuc' || pathname?.startsWith('/kien-thuc/');
 
   useEffect(() => {
     const onScroll = () => setVisible(window.scrollY > 200);
@@ -30,7 +33,7 @@ const FloatingActions = () => {
   ];
 
   return (
-    <div className="pointer-events-none fixed bottom-6 right-4 z-40 md:right-8">
+    <div className="floating-actions pointer-events-none fixed bottom-6 right-4 z-40 md:right-8">
       <AnimatePresence>
         {visible && (
           <motion.div
@@ -39,7 +42,7 @@ const FloatingActions = () => {
             exit={{ opacity: 0, y: 20 }}
             className="pointer-events-auto"
           >
-            <div className="hidden flex-col items-end gap-2 md:flex">
+            <div className={isKnowledgePage ? 'hidden' : 'hidden flex-col items-end gap-2 md:flex'}>
               {actions.map((action) => {
                 if (action.href) {
                   return (

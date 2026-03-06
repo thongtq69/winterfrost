@@ -5,6 +5,12 @@ import type { ArticleSchemaProps } from '../../types/schema';
 const baseUrl = `https://${siteConfig.brand.domain}`;
 
 export function ArticleSchema({ title, description, url, datePublished, dateModified, authorName, image }: ArticleSchemaProps) {
+  const imageUrl = image
+    ? image.startsWith('http://') || image.startsWith('https://')
+      ? image
+      : `${baseUrl}${image}`
+    : `${baseUrl}${siteConfig.assets.logoPath}`;
+
   const data: Record<string, unknown> = {
     '@context': 'https://schema.org',
     '@type': 'Article',
@@ -24,7 +30,7 @@ export function ArticleSchema({ title, description, url, datePublished, dateModi
         url: `${baseUrl}${siteConfig.assets.logoPath}`,
       },
     },
-    image: image ? `${baseUrl}${image}` : `${baseUrl}${siteConfig.assets.logoPath}`,
+    image: imageUrl,
     datePublished,
     dateModified: dateModified ?? datePublished,
   };

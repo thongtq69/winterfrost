@@ -110,6 +110,7 @@ const Header = () => {
           <nav className="hidden items-center gap-2 lg:flex">
             {navItems.map((item) => {
               const hasDropdown = !!item.dropdown?.length;
+              const isKnowledgeMenu = item.label === 'Kiến thức';
               return (
                 <div
                   key={item.label}
@@ -154,7 +155,7 @@ const Header = () => {
                     {hasDropdown && openDropdown === item.label && (
                       <motion.div
                         {...dropdownMotion}
-                        className="absolute left-0 mt-2 w-72 rounded-2xl border border-gray-100 bg-white/95 p-3 shadow-soft"
+                        className="absolute left-0 mt-3 w-[23rem] overflow-hidden rounded-[30px] border border-white/70 bg-white/95 p-2 shadow-[0_30px_90px_-40px_rgba(12,22,38,0.38)] backdrop-blur-xl"
                         role="menu"
                       >
                         <ul className="space-y-1">
@@ -163,23 +164,38 @@ const Header = () => {
                               <Link
                                 href={child.href}
                                 onClick={() => handleNav(child)}
-                                className="group flex w-full flex-col gap-1 rounded-xl px-3 py-2 text-left transition hover:bg-brand-50 focus-outline"
+                                className="group flex w-full flex-col gap-2 rounded-[24px] border border-transparent px-4 py-3.5 text-left transition hover:-translate-y-0.5 hover:border-brand-100 hover:bg-brand-50/60 focus-outline"
                                 role="menuitem"
                               >
                                 <div className="flex items-center justify-between">
-                                  <span className="text-sm font-semibold text-ink">{child.label}</span>
+                                  <div className="flex items-center gap-2">
+                                    <span className="text-sm font-semibold text-ink">{child.label}</span>
+                                    {child.status === 'coming-soon' ? (
+                                      <span className="rounded-full border border-amber-200 bg-amber-50 px-2 py-1 text-[10px] font-semibold uppercase tracking-[0.18em] text-amber-700">
+                                        Sắp mở
+                                      </span>
+                                    ) : null}
+                                  </div>
                                   <ChevronDown
                                     size={14}
                                     className="translate-y-[1px] rotate-[-90deg] text-gray-300 transition group-hover:text-brand-500"
                                   />
                                 </div>
                                 {child.description && (
-                                  <span className="text-xs text-gray-500">{child.description}</span>
+                                  <span className="pr-6 text-xs leading-5 text-gray-500">{child.description}</span>
                                 )}
                               </Link>
                             </li>
                           ))}
                         </ul>
+                        {isKnowledgeMenu ? (
+                          <div className="mt-2 rounded-[24px] bg-[linear-gradient(135deg,rgba(238,247,255,0.95),rgba(255,247,237,0.92))] px-4 py-4">
+                            <p className="text-[11px] font-semibold uppercase tracking-[0.24em] text-brand-700">Roadmap 2026</p>
+                            <p className="mt-1 text-sm font-semibold leading-6 text-ink">
+                              Hai chuyên mục mới sẽ đi theo hướng case thực tế và framework nội dung có thể áp dụng ngay.
+                            </p>
+                          </div>
+                        ) : null}
                       </motion.div>
                     )}
                   </AnimatePresence>
@@ -257,24 +273,39 @@ const Header = () => {
                     <Link
                       href={item.href}
                       onClick={() => handleNav(item, true)}
-                      className="flex w-full items-center justify-between rounded-xl bg-gray-50 px-4 py-3 text-left text-base font-semibold text-ink focus-outline"
+                      className="flex w-full items-center justify-between rounded-[24px] bg-gray-50 px-4 py-3 text-left text-base font-semibold text-ink focus-outline"
                     >
                       <span>{item.label}</span>
                       {item.dropdown && <ChevronDown size={16} className="text-gray-400" />}
                     </Link>
                     {item.dropdown && (
-                      <div className="space-y-1 rounded-2xl bg-white px-2">
+                      <div className="space-y-1 rounded-[24px] bg-white px-2">
                         {item.dropdown.map((child) => (
                           <Link
                             key={child.label}
                             href={child.href}
                             onClick={() => handleNav(child, true)}
-                            className="flex w-full flex-col rounded-xl px-3 py-2 text-left text-sm text-gray-700 transition hover:bg-brand-50 focus-outline"
+                            className="flex w-full flex-col gap-2 rounded-[20px] px-3 py-3 text-left text-sm text-gray-700 transition hover:bg-brand-50 focus-outline"
                           >
-                            <span className="font-semibold text-ink">{child.label}</span>
+                            <div className="flex items-center gap-2">
+                              <span className="font-semibold text-ink">{child.label}</span>
+                              {child.status === 'coming-soon' ? (
+                                <span className="rounded-full border border-amber-200 bg-amber-50 px-2 py-1 text-[10px] font-semibold uppercase tracking-[0.18em] text-amber-700">
+                                  Sắp mở
+                                </span>
+                              ) : null}
+                            </div>
                             {child.description && <span className="text-xs text-gray-500">{child.description}</span>}
                           </Link>
                         ))}
+                        {item.label === 'Kiến thức' ? (
+                          <div className="rounded-[20px] bg-[linear-gradient(135deg,rgba(238,247,255,0.95),rgba(255,247,237,0.92))] px-4 py-4">
+                            <p className="text-[11px] font-semibold uppercase tracking-[0.24em] text-brand-700">Roadmap 2026</p>
+                            <p className="mt-1 text-sm font-semibold leading-6 text-ink">
+                              Nội dung mới sẽ tập trung vào dự án thật và blueprint SEO có thể bàn giao cho team nội bộ.
+                            </p>
+                          </div>
+                        ) : null}
                       </div>
                     )}
                   </div>

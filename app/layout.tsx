@@ -8,8 +8,6 @@ import Footer from '../components/layout/Footer';
 import FloatingActions from '../components/layout/FloatingActions';
 import { baseMetadata, baseViewport } from '@lib/seo';
 import OrganizationSchema from '../components/schema/OrganizationSchema';
-import TetOverlay from '../components/common/TetOverlay';
-import TetDecorations from '../components/common/TetDecorations';
 
 const manrope = Manrope({
   subsets: ['latin'],
@@ -29,8 +27,6 @@ export default function RootLayout({ children }: { children: ReactNode }) {
         <main className="min-h-screen">{children}</main>
         <Footer />
         <FloatingActions />
-        <TetOverlay />
-        <TetDecorations />
         <OrganizationSchema />
       </body>
     </html>

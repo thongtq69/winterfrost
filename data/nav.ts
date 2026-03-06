@@ -1,7 +1,10 @@
+import { knowledgeTracks, type KnowledgeTrackStatus } from './knowledgeTracks';
+
 export type DropdownItem = {
   label: string;
   href: string;
   description?: string;
+  status?: KnowledgeTrackStatus;
 };
 
 export type NavItem = {
@@ -46,11 +49,12 @@ export const navItems: NavItem[] = [
   {
     label: 'Kiến thức',
     href: '/kien-thuc',
-    dropdown: [
-      { label: 'Hướng dẫn kỹ thuật', href: '/kien-thuc/huong-dan-ky-thuat' },
-      { label: 'Case study (đang phát triển)', href: '/kien-thuc/case-study' },
-      { label: 'SEO & nội dung (đang phát triển)', href: '/kien-thuc/seo-noi-dung' },
-    ],
+    dropdown: knowledgeTracks.map((track) => ({
+      label: track.label,
+      href: track.href,
+      description: track.navDescription,
+      status: track.status,
+    })),
   },
   { label: 'Liên hệ', href: '/lien-he' },
 ];

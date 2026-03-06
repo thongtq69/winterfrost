@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
+import KnowledgeComingSoon from '../../../components/blog/KnowledgeComingSoon';
 import CTASection from '../../../components/ui/CTASection';
 import Card from '../../../components/ui/Card';
 import Container from '../../../components/ui/Container';
@@ -12,6 +13,8 @@ import ArticleSchema from '../../../components/schema/ArticleSchema';
 import BreadcrumbSchema from '../../../components/schema/BreadcrumbSchema';
 import BlogList from '../../../components/blog/BlogList';
 import BlogSidebar from '../../../components/blog/BlogSidebar';
+import { getKnowledgeTrackBySlug, knowledgeTracks } from '../../../data/knowledgeTracks';
+import { prepareBlogContent } from '../../../src/lib/blog';
 import { siteConfig } from '../../../site.config';
 import clsx from 'clsx';
 
@@ -19,13 +22,74 @@ type Props = {
   params: Promise<{ slug: string[] }>;
 };
 
+type ArticleTocProps = {
+  headings: ReturnType<typeof prepareBlogContent>['headings'];
+  className?: string;
+};
+
+function ArticleTableOfContents({ headings, className }: ArticleTocProps) {
+  if (headings.length === 0) return null;
+
+  return (
+    <aside
+      className={clsx(
+        'rounded-[28px] border border-slate-200/90 bg-white/95 p-5 shadow-soft backdrop-blur-sm',
+        className,
+      )}
+    >
+      <div className="mb-4 flex items-center justify-between gap-3 border-b border-slate-100 pb-3">
+        <div>
+          <p className="text-[11px] font-semibold uppercase tracking-[0.22em] text-slate-400">Điều hướng bài viết</p>
+          <h2 className="mt-1 text-lg font-extrabold text-ink">Nội dung chính</h2>
+        </div>
+        <span className="rounded-full bg-brand-50 px-3 py-1 text-xs font-semibold text-brand-700">{headings.length} mục</span>
+      </div>
+      <div className="space-y-2 text-sm text-slate-700">
+        {headings.map((heading, index) => (
+          <a
+            key={heading.id}
+            href={`#${heading.id}`}
+            className={clsx(
+              'flex gap-3 rounded-2xl border border-transparent px-3 py-2.5 leading-6 transition hover:border-brand-100 hover:bg-brand-50/60 hover:text-brand-800',
+              heading.level === 'h3' && 'ml-4 text-[13px] text-slate-600',
+            )}
+          >
+            <span className="min-w-6 pt-0.5 text-xs font-semibold text-slate-400">{index + 1}.</span>
+            <span className="min-w-0 break-words font-medium">{heading.text}</span>
+          </a>
+        ))}
+      </div>
+    </aside>
+  );
+}
+
 export async function generateStaticParams() {
-  return posts.map((post) => ({ slug: post.slug }));
+  return [...posts.map((post) => ({ slug: post.slug })), ...knowledgeTracks.map((track) => ({ slug: [track.slug] }))];
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
   const post = getPostBySlug(slug);
+  const track = slug.length === 1 ? getKnowledgeTrackBySlug(slug[0]) : undefined;
+
+  if (!post && track) {
+    return {
+      title: { absolute: `${track.label} | Kiến thức | ${siteConfig.brand.name}` },
+      description: track.description,
+      alternates: { canonical: `https://${siteConfig.brand.domain}${track.href}` },
+      openGraph: {
+        title: `${track.label} | ${siteConfig.brand.name}`,
+        description: track.description,
+        url: `https://${siteConfig.brand.domain}${track.href}`,
+      },
+      twitter: {
+        card: 'summary_large_image',
+        title: `${track.label} | ${siteConfig.brand.name}`,
+        description: track.description,
+      },
+    };
+  }
+
   if (!post) return { title: 'Bài viết', description: 'Nội dung đang cập nhật' };
   return {
     title: post.title,
@@ -50,43 +114,26 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 export default async function PostDetailPage({ params }: Props) {
   const { slug } = await params;
   const post = getPostBySlug(slug);
-  const categoryMap: Record<
-    string,
-    {
-      name: string;
-      description: string;
-      filter: (p: (typeof simplePosts)[number]) => boolean;
-      disabled?: boolean;
-    }
-  > = {
-    'huong-dan-ky-thuat': {
-      name: 'Hướng dẫn kỹ thuật',
-      description: 'Tổng hợp hướng dẫn kỹ thuật WordPress/CF7/Elementor.',
-      filter: () => true,
-    },
-    'case-study': {
-      name: 'Case study',
-      description: 'Chúng tôi sẽ sớm phát triển nội dung Case study. Vui lòng quay lại sau.',
-      filter: () => false,
-      disabled: true,
-    },
-    'seo-noi-dung': {
-      name: 'SEO & nội dung',
-      description: 'Chúng tôi sẽ sớm phát triển nội dung SEO & nội dung. Vui lòng quay lại sau.',
-      filter: () => false,
-      disabled: true,
-    },
-  };
+  const track = slug.length === 1 ? getKnowledgeTrackBySlug(slug[0]) : undefined;
 
   // Nếu slug là category, hiển thị trang danh mục
-  if (!post && slug.length === 1 && categoryMap[slug[0]]) {
-    const category = categoryMap[slug[0]];
-    const filtered = simplePosts.filter(category.filter);
-    const isDisabled = category.disabled || filtered.length === 0;
+  if (!post && track) {
+    const filtered = track.slug === 'huong-dan-ky-thuat' ? simplePosts : [];
+
+    if (track.status === 'coming-soon') {
+      return (
+        <>
+          <KnowledgeComingSoon track={track} fallbackPosts={simplePosts.slice(0, 3)} />
+          <CTASection />
+        </>
+      );
+    }
+
     return (
       <>
-        <section className="bg-white py-10">
-          <Container className="space-y-3 lg:max-w-5xl">
+        <section className="relative overflow-hidden bg-white py-10">
+          <div className="absolute inset-0 bg-[radial-gradient(circle_at_top_left,rgba(77,138,255,0.14),transparent_38%),radial-gradient(circle_at_bottom_right,rgba(59,130,246,0.08),transparent_28%)]" />
+          <Container className="relative space-y-4 lg:max-w-5xl">
             <nav className="text-sm text-gray-600" aria-label="Breadcrumb">
               <Link href="/" className="hover:text-brand-700">
                 Trang chủ
@@ -96,34 +143,41 @@ export default async function PostDetailPage({ params }: Props) {
                 Kiến thức
               </Link>
               <span className="px-1 text-gray-400">/</span>
-              <span className="text-gray-700">{category.name}</span>
+              <span className="text-gray-700">{track.label}</span>
             </nav>
-            <h1 className="text-3xl font-extrabold leading-tight text-ink sm:text-4xl">{category.name}</h1>
-            <p className="text-base text-gray-600 sm:text-lg">{category.description}</p>
+            <div className="flex flex-wrap items-center gap-3">
+              <Badge className="bg-brand-50 text-brand-700">{track.eyebrow}</Badge>
+              <span className="rounded-full border border-slate-200 bg-white/80 px-3 py-1 text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">
+                {filtered.length} bài đang có
+              </span>
+            </div>
+            <h1 className="text-3xl font-extrabold leading-tight text-ink sm:text-4xl">{track.label}</h1>
+            <p className="max-w-3xl text-base text-gray-600 sm:text-lg">{track.heroDescription}</p>
+            <div className="flex flex-wrap gap-2">
+              {track.previews.map((item) => (
+                <span
+                  key={item}
+                  className="rounded-full border border-white/90 bg-white/90 px-3 py-1 text-xs font-medium text-slate-600 shadow-[0_12px_32px_-28px_rgba(12,22,38,0.3)]"
+                >
+                  {item}
+                </span>
+              ))}
+            </div>
           </Container>
         </section>
-        {isDisabled ? (
-          <section className="bg-surface py-12">
-            <Container className="lg:max-w-4xl">
-              <div className="rounded-2xl border border-dashed border-gray-200 bg-white p-8 text-center shadow-sm">
-                <h2 className="text-2xl font-bold text-ink">Nội dung đang được phát triển</h2>
-                <p className="mt-3 text-gray-600">
-                  Chúng tôi sẽ sớm bổ sung các bài viết cho chuyên mục này. Vui lòng quay lại sau hoặc xem các bài hướng dẫn kỹ thuật.
-                </p>
-                <div className="mt-6 flex justify-center">
-                  <Link
-                    href="/kien-thuc/huong-dan-ky-thuat"
-                    className="rounded-full bg-brand-600 px-4 py-2 text-sm font-semibold text-white transition hover:bg-brand-700"
-                  >
-                    Xem Hướng dẫn kỹ thuật
-                  </Link>
-                </div>
+        <BlogList posts={filtered} sidebar={<BlogSidebar />} />
+        <section className="bg-white pb-12">
+          <Container className="grid gap-5 md:grid-cols-3">
+            {track.formats.map((item, index) => (
+              <div key={item.title} className="rounded-[28px] border border-slate-100 bg-surface p-6 shadow-card">
+                <p className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-400">Format 0{index + 1}</p>
+                <h2 className="mt-3 text-xl font-bold text-ink">{item.title}</h2>
+                <p className="mt-2 text-sm leading-6 text-gray-600">{item.description}</p>
               </div>
-            </Container>
-          </section>
-        ) : (
-          <BlogList posts={filtered} sidebar={<BlogSidebar />} />
-        )}
+            ))}
+          </Container>
+        </section>
+        <CTASection />
       </>
     );
   }
@@ -133,55 +187,20 @@ export default async function PostDetailPage({ params }: Props) {
   const baseUrl = `https://${siteConfig.brand.domain}`;
   const currentSlug = slug.join('/');
   const url = `${baseUrl}/kien-thuc/${currentSlug}`;
-  const plainText = post.contentHtml.replace(/<[^>]*>/g, ' ');
-  const wordCount = plainText.split(/\s+/).filter(Boolean).length;
-  const readTime = Math.max(1, Math.ceil(wordCount / 200));
+  const preparedContent = prepareBlogContent(post.contentHtml);
+  const readTime = preparedContent.readTime;
   const toIso = (dateStr: string) => {
     const parsed = new Date(dateStr);
     if (Number.isNaN(parsed.getTime())) return dateStr;
     return parsed.toISOString();
   };
-
-  // Strip unwanted TOC/related blocks from scraped HTML
-  const cleanedHtml = post.contentHtml
-    // Remove elementor TOC widgets
-    .replace(/<div[^>]*elementor-widget-table-of-contents[^>]*>[\s\S]*?<\/div>\s*<\/div>/gi, '')
-    // Remove trailing related-posts section starting at heading "Bài viết liên quan"
-    .replace(/<h2[^>]*>Bài viết liên quan<\/h2>[\s\S]*/i, '')
-    // Remove stray text markers
-    .replace(/Nội dung chính/gi, '')
-    .replace(/Bài viết liên quan/gi, '');
-
-  const slugify = (text: string) =>
-    text
-      .toLowerCase()
-      .normalize('NFD')
-      .replace(/[\u0300-\u036f]/g, '')
-      .replace(/[^a-z0-9\s-]/g, '')
-      .trim()
-      .replace(/\s+/g, '-');
-
-  const extractHeadings = (html: string) => {
-    const headings: { id: string; text: string; level: 'h2' | 'h3' }[] = [];
-    const headingRegex = /<h([23])([^>]*)>([\s\S]*?)<\/h[23]>/gi;
-    const withIds = html.replace(headingRegex, (_m, lvl, attrs, inner) => {
-      const text = inner.replace(/<[^>]*>/g, '').trim();
-      const idMatch = /id=\"([^\"]+)\"/.exec(attrs);
-      const id = idMatch?.[1] ?? slugify(text || `heading-${headings.length + 1}`);
-      headings.push({ id, text, level: lvl === '2' ? 'h2' : 'h3' });
-      const newAttrs = attrs.includes('id=') ? attrs : `${attrs} id="${id}"`;
-      return `<h${lvl}${newAttrs}>${inner}</h${lvl}>`;
-    });
-    return { headings, html: withIds };
-  };
-
-  const { headings, html: enhancedHtml } = extractHeadings(cleanedHtml);
+  const enhancedHtml = preparedContent.html;
+  const headings = preparedContent.headings;
 
   return (
     <>
-      <section className="relative overflow-hidden bg-white py-8 sm:py-10">
-        <div className="snow-overlay" aria-hidden="true" />
-        <Container className="relative space-y-4 lg:max-w-6xl">
+      <section className="bg-white py-8 sm:py-10">
+        <Container className="space-y-4 lg:max-w-6xl">
           <p className="text-sm text-gray-500">
             <Link href="/" className="hover:text-brand-700">Trang chủ</Link>
             <span className="px-1 text-gray-400">/</span>
@@ -199,49 +218,30 @@ export default async function PostDetailPage({ params }: Props) {
           <p className="max-w-3xl text-base text-gray-600 sm:text-lg">{post.excerpt}</p>
         </Container>
       </section>
-      <section className="relative bg-surface/60 pb-12 pt-6">
-        <div className="snow-overlay" aria-hidden="true" />
-        <Container className="relative lg:max-w-6xl">
-          <div className="grid gap-8 lg:grid-cols-[1.8fr,1fr]">
-            <div className="space-y-6">
+      <section className="bg-surface/60 pb-12 pt-6">
+        <Container className="lg:max-w-7xl">
+          <div className="grid gap-8 xl:grid-cols-[minmax(0,1fr)_320px] xl:gap-10">
+            <div className="min-w-0 space-y-6">
+              <ArticleTableOfContents headings={headings} className="xl:hidden" />
               {post.image ? (
-                <div className="relative aspect-video overflow-hidden rounded-2xl border border-white/80 bg-white shadow-soft">
-                  <Image
-                    src={post.image}
-                    alt={post.title}
-                    fill
-                    className="h-full w-full object-cover"
-                    priority
-                    sizes="(min-width: 1024px) 768px, 100vw"
-                  />
+                <div className="rounded-[28px] border border-white/80 bg-white p-2 shadow-soft">
+                  <div className="relative aspect-[16/9] overflow-hidden rounded-[22px] bg-slate-100">
+                    <Image
+                      src={post.image}
+                      alt={post.title}
+                      fill
+                      className="h-full w-full object-cover object-top"
+                      priority
+                      sizes="(min-width: 1440px) 860px, (min-width: 1024px) 70vw, 100vw"
+                    />
+                  </div>
                 </div>
               ) : null}
-              <Card className="prose prose-lg max-w-none rounded-2xl border border-slate-100 bg-white/95 p-6 shadow-soft prose-h2:text-2xl prose-h3:text-xl prose-p:leading-relaxed prose-a:text-brand-700 hover:prose-a:text-brand-800 prose-img:rounded-xl prose-li:my-1 prose-pre:bg-slate-50 prose-pre:border prose-pre:border-slate-200 prose-pre:rounded-xl prose-pre:shadow-inner prose-pre:px-4 prose-pre:py-3 prose-pre:text-sm prose-code:text-sm prose-code:bg-transparent">
-                <div dangerouslySetInnerHTML={{ __html: enhancedHtml }} />
+              <Card className="rounded-[28px] border border-slate-100 bg-white/95 p-5 shadow-soft hover:translate-y-0 sm:p-8">
+                <div className="blog-article" dangerouslySetInnerHTML={{ __html: enhancedHtml }} />
               </Card>
             </div>
-            {headings.length > 0 ? (
-              <aside className="top-20 h-fit max-h-[75vh] overflow-auto rounded-2xl border border-slate-300 bg-white p-5 shadow-soft lg:sticky">
-                <div className="mb-3 flex items-center justify-between">
-                  <h3 className="text-base font-extrabold uppercase tracking-wide text-ink">Nội dung chính</h3>
-                </div>
-                <div className="space-y-2 text-sm text-gray-700">
-                  {headings.map((h, idx) => (
-                    <a
-                      key={h.id}
-                      href={`#${h.id}`}
-                      className={clsx(
-                        'flex gap-2 rounded-lg border border-transparent px-2 py-2 leading-snug transition hover:border-brand-100 hover:bg-brand-50/50 hover:text-brand-800',
-                        h.level === 'h3' && 'ml-3 text-gray-600',
-                      )}
-                    >
-                      <span className="text-gray-400">{idx + 1}.</span>
-                      <span>{h.text}</span>
-                    </a>
-                  ))}
-                </div>
-              </aside>
-            ) : null}
+            <ArticleTableOfContents headings={headings} className="hidden h-fit max-h-[calc(100vh-8rem)] overflow-auto xl:sticky xl:top-24 xl:block" />
           </div>
         </Container>
       </section>
