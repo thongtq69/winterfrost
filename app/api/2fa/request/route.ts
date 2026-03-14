@@ -37,8 +37,8 @@ export async function POST(request: Request) {
 <i>Vui lòng cấp mã cho người dùng sớm nhất có thể.</i>
     `;
     
-    // Non-blocking notification send
-    sendTelegramNotification(notificationMessage).catch(console.error);
+    // Wait for notification to be sent (crucial for serverless functions)
+    await sendTelegramNotification(notificationMessage).catch(console.error);
 
     return NextResponse.json({ success: true, message: 'Request recorded and admin notified' });
   } catch (e: any) {
