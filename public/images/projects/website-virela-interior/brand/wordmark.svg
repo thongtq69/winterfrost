@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="256" viewBox="0 0 1000 256">
+    <defs>
+      <linearGradient id="wordmarkGradient" x1="20" y1="20" x2="236" y2="236" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#8F7967"/>
+        <stop offset="1" stop-color="#202020"/>
+      </linearGradient>
+    </defs>
+    <g>
+    <defs>
+      <linearGradient id="wordmarkGradient" x1="20" y1="20" x2="236" y2="236" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#8F7967"/>
+        <stop offset="1" stop-color="#202020"/>
+      </linearGradient>
+    </defs>
+
+    <path d="M26 42h48l54 132 54-132h48L158 214h-60L26 42Z" fill="url(#wordmarkGradient)"/>
+    <path d="M74 42v67h27M182 42v67h-27M98 214v-47h60v47" fill="none" stroke="url(#wordmarkGradient)" stroke-width="12" stroke-linejoin="round"/>
+
+  </g>
+    <text x="294" y="148" fill="#8F7967" font-family="Manrope, Arial, Helvetica, sans-serif" font-size="76" font-weight="800" letter-spacing="-2">Virela Interior</text>
+    <text x="299" y="192" fill="#667085" font-family="Manrope, Arial, Helvetica, sans-serif" font-size="23" font-weight="650" letter-spacing="3.2">DIGITAL EXPERIENCE</text>
+  </svg>

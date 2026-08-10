@@ -1,0 +1,7 @@
+id,asset_role,source_reference,replacement_file,required_dimensions,actual_dimensions,status,notes
+NIVORA-001,Ảnh bìa dự án,Giao-dien-Vietplus-case-study.jpg,public/images/projects/nivora-connect/01-cover.webp,1920 × 1080 px,1920 × 1080 px,HOAN_THANH,"Ảnh điện thoại trên nền đá; logo và tên Nivora hoàn toàn mới."
+NIVORA-002,Màn hình tin nhắn,Giao-dien-tin-nhan-cua-Vietplus-case-study.jpg,public/images/projects/nivora-connect/02-messaging.webp,934 × 2021 px,934 × 2021 px,HOAN_THANH,"Nhân vật trong avatar là người Việt Nam; tên Trần Quốc Huy."
+NIVORA-003,Màn hình tìm nhà,Giao-dien-Housing-cua-Vietplus-case-study.jpg,public/images/projects/nivora-connect/03-housing.webp,934 × 2021 px,934 × 2021 px,HOAN_THANH,"Ảnh căn hộ và dữ liệu danh sách được tạo mới."
+NIVORA-004,Màn hình đăng nhập,Giao-dien-dang-nhap-Vietplus-case-study.jpg,public/images/projects/nivora-connect/04-login.webp,934 × 2021 px,934 × 2021 px,HOAN_THANH,"Thay toàn bộ V+ và VietPlus bằng biểu tượng Nivora."
+NIVORA-005,Màn hình trang chủ,Giao-dien-trang-chu-cua-Vietplus-case-study.jpg,public/images/projects/nivora-connect/05-home.webp,934 × 2021 px,934 × 2021 px,HOAN_THANH,"Avatar người Việt Nam; nội dung và thumbnail bài viết được tạo mới."
+NIVORA-006,Màn hình cộng đồng,Giao-dien-cua-Vietplus-case-study.jpg,public/images/projects/nivora-connect/06-community.webp,934 × 2021 px,934 × 2021 px,HOAN_THANH,"Ba bài viết và thumbnail được tạo mới; không còn nhận diện cũ."

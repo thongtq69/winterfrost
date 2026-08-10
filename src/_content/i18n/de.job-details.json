@@ -1,0 +1,1206 @@
+[
+  {
+    "slug": "mobile-developer-developer",
+    "blocks": [
+      {
+        "text": "STELLENBESCHREIBUNG",
+        "type": "h2"
+      },
+      {
+        "text": "Beteiligen Sie sich an der Entwicklung und Optimierung mobiler Anwendungen auf iOS/Android-Plattformen mit Flutter, React Native oder Native.\nArbeiten Sie mit dem Backend-, UI/UX-, BA- und QA-Team zusammen, um Funktionen für die Anwendung entsprechend den Projektanforderungen bereitzustellen.\nAnalysieren Sie Anforderungen, entwickeln Sie technische Lösungen und beteiligen Sie sich an der Gestaltung der mobilen Systemarchitektur.\nDurchführung der technischen Aufgabenverteilung, Schätzung und Verwaltung des zugewiesenen Arbeitsfortschritts.\nOptimieren Sie die Anwendungsleistung, verbessern Sie die Benutzererfahrung und gewährleisten Sie die Systemstabilität.\nStellen Sie sicher, dass der Quellcode den Clean Architecture-Standards entspricht, einfach zu warten und zu erweitern ist.\nNimm an Code-Reviews, Support und Wissensaustausch mit Junior- und Berufseinsteiger-Entwicklern teil.\nRecherchieren und aktualisieren Sie neue mobile Technologien, um die Produktqualität zu verbessern.\nKoordination der Implementierung und Unterstützung des Anwendungsbetriebs in der Test- und Produktionsumgebung gemäß dem Agile/Scrum-Prozess.",
+        "type": "div"
+      },
+      {
+        "text": "ANTRAGSTELLERANFORDERUNGEN",
+        "type": "h2"
+      },
+      {
+        "text": "Erfahrung & Fachwissen\n\nIch habe an einer Universität mit Schwerpunkt IT oder verwandten Fachrichtungen abgeschlossen.\nIch habe 3-5 Jahre Erfahrung in der Entwicklung mobiler Apps.\nErfahrung in plattformübergreifender iOS/Android-Entwicklung.\nBeherrschung von Flutter, React Native oder Native iOS (Swift).\n\nTechnische Fähigkeiten\n\nGutes Wissen über SOLID, Clean Architecture und Quellcode-Optimierung.\nErfahrung im Umgang mit State Management wie BLoC, Riverpod oder Ähnlichem.\nFähigkeit, mit nativem Code (Kotlin/Swift) und Flutter-Plugin-Integration zu arbeiten.\nVerstehen Sie den App-Lebenszyklus, Gradle, CocoaPods und den Prozess der Erstellung mobiler Apps.\nErfahrung mit REST-APIs, Echtzeit-Sockets und Cache-Management.\n\nSicherheit & Leistung\n\nVerständnis von Sicherheitsmechanismen wie JWT, OAuth, AES, SHA.\nWissen über Datensicherheit auf dem Gerät (Keychain/Keystore).\nWissen Sie, wie man die Anwendungsleistung optimiert und nutzt DevTools, um Speicher und CPU zu analysieren.\n\nWerkzeuge & Prozesse\n\nErfahrung im Umgang mit Git und im Umgang mit fortgeschrittenem Quellcode.\nErfahrung im Schreiben von Unit Test und Widget Test.\nWissen Sie, wie man Postman für API-Tests verwendet.\nHabe ein grundlegendes Verständnis von CI/CD- und Agile/Scrum-Prozessen.\nBeherrsche Aufgabenmanagement-Tools wie Jira, Trello oder Confluence.\n\nPersönliche Fähigkeiten\n\nGutes logisches Denken und verantwortungsbewusst bei der Arbeit.\nLernen Sie aktiv neue Technologien und aktualisieren Sie diese aktiv.\nFähigkeit, im Team zu arbeiten, Code zu überprüfen und Junior/Fresher zu unterstützen.\nFähigkeit, technische Dokumente auf Englisch zu lesen und zu verstehen.\nHaben Sie eine Produktmentalität und die Fähigkeit, technische Probleme effektiv zu lösen.",
+        "type": "div"
+      },
+      {
+        "text": "VORTEILE",
+        "type": "h2"
+      },
+      {
+        "text": "Wettbewerbsfähiges Einkommen + Projektbonus + Urlaubs-/Tet-Bonus.\nÜberprüfen Sie die Leistung und erhöhen Sie regelmäßig das Gehalt entsprechend der Kapazität.\nProfessionelle, transparente und flexible Agile/Scrum-Umgebung.\nBefähigt darin, technische Lösungen zu analysieren, zu entwerfen und zu leiten.\nDirekt Mentoring durch erfahrenes Management und CTO.\nMöglichkeiten für berufliche Weiterbildung und Projektmanagementfähigkeiten.\nTeambuilding, Reisen, Geburtstage, Weihnachten, Jahresende...\nNehmen Sie sich gesetzeskonform vollständig an Sozialversicherung, Krankenversicherung und Arbeitslosenversicherung teil.",
+        "type": "div"
+      }
+    ],
+    "extra": [
+      {
+        "text": "Wenn Sie Ihre Karriere in einem professionellen Umfeld entwickeln möchten, in dem Sie direkt an der Entwicklung von Softwareprodukten, Mobile Apps, Webseiten und KI-Anwendungen gemäß neuen Technologietrends teilnehmen können, ist Winterfrost das richtige Ziel. Hier arbeiten Sie mit einem jungen, dynamischen und kreativen Team zusammen, das viele Entwicklungs- und Fördermöglichkeiten bietet und gleichzeitig praktische Werte für Unternehmen und Nutzer schafft. Mach mit.",
+        "type": "p"
+      },
+      {
+        "text": "Senden Sie Ihren Lebenslauf per Post ein: careers@winterfrost.tech",
+        "type": "p"
+      },
+      {
+        "text": "Oder Zalo: 097 145 04 54",
+        "type": "p"
+      }
+    ],
+    "sidebar": [
+      "Bewerbungsschluss: 31.12.2026",
+      "Gehalt:",
+      "Get Deal",
+      "Adresse:",
+      "Ho-Chi-Minh-Stadt",
+      "Rang:",
+      "Mitarbeiter",
+      "Erfahrung:",
+      "3 Jahre"
+    ],
+    "title": "Mobilentwickler Entwickler"
+  },
+  {
+    "slug": "backend-developer-php-laravel",
+    "blocks": [
+      {
+        "text": "Winterfrost rekrutiert Backend-Entwickler (PHP/Laravel), um an der Entwicklung von Website-, Mobile-App- und Softwareprojekten für Unternehmen mitzuwirken. Wir suchen Kandidaten mit gutem Backend-Hintergrund, Systemdenken und der Fähigkeit, praktische technische Probleme zu bewältigen, um stabile, sichere und leistungsstarke Produkte zu entwickeln.",
+        "type": "p"
+      },
+      {
+        "text": "STELLENBESCHREIBUNG",
+        "type": "h2"
+      },
+      {
+        "items": [
+          "Entwickeln Sie eigenständig Backend-Module und Funktionen für das Website/App/Software-System.",
+          "Entwerfen und bauen Sie RESTful APIs, um Stabilität und Skalierbarkeit zu gewährleisten.",
+          "Datenbankdesign, Abfrageoptimierung und Indexierungsstrategie.",
+          "Übernehmen Sie komplexe Geschäftslogik, Validierung und Exception Handling.",
+          "Integration von Drittanbieterdiensten wie Zahlungsgateways, E-Rechnungen, Webhooks usw.",
+          "Optimieren Sie die Systemleistung und verbessern Sie die Lastkapazität.",
+          "Schreiben Sie Unit Test, Integration Test und gewährleisten Sie die Qualität des Quellcodes.",
+          "Nehmen Sie an Code-Review, Unterstützung und Einführung für Praktikanten/Junior-Entwickler teil.",
+          "Arbeiten Sie mit Frontend, Mobile und UI/UX zusammen, um Funktionen entsprechend den Projektanforderungen bereitzustellen."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "ANTRAGSTELLERANFORDERUNGEN",
+        "type": "h2"
+      },
+      {
+        "text": "Erfahrung & Fachwissen",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Ich habe an einer Universität mit Schwerpunkt IT oder verwandten Fachrichtungen abgeschlossen.",
+          "Ich habe 1–2 Jahre Erfahrung in der Backend-Entwicklung.",
+          "Beherrschung von PHP 8.1+ und objektorientierter Programmierung (OOP).",
+          "Erfahrung mit dem Laravel Framework:\nRouting, Middleware, Dienstanbieter\nEloquent ORM, Query Builder\nEntwicklung von RESTful API"
+        ],
+        "type": "list"
+      },
+      {
+        "text": "Datenbank & Architektur",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Versiert in MySQL, komplexe Abfrageoptimierung, JOIN, Subquery.",
+          "Verständnis von Designmustern:\nFassade\nRepository-Muster\nDienstanbieter",
+          "Wissen über Authentifizierung/Autorisierung:\nJWT\nGrundlegendes OAuth2\nSitzungsauthentifizierung"
+        ],
+        "type": "list"
+      },
+      {
+        "text": "Testen & Werkzeuge",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Erfahrung im Unit-Testing mit PHPUnit oder Pest.",
+          "Wissen Sie, wie man Swagger/OpenAPI verwendet, um APIs zu dokumentieren.",
+          "Mastery Git-Workflow:\nRebase\nCherry-Picking\nKonfliktlösung",
+          "Gute Nutzung der grundlegenden Linux-Befehlszeile."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "Soft Skills",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Gute Kommunikations- und Teamfähigkeiten.",
+          "Problemlösende Denkweise und technische Analysefähigkeiten.",
+          "Schlage proaktiv Systemverbesserungen und Optimierungen vor.",
+          "Hab den Geist, Wissen mit Junior/Praktikanten zu teilen.",
+          "Gutes Zeitmanagement und die Einhaltung von Projektfristen."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "Priorität",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Erfahrung in Docker, Docker Compose.",
+          "CI/CD-Verständnis:\nJenkins\nGitHub-Aktionen\nGitLab CI",
+          "Erfahrung mit Redis Queue, RabbitMQ oder Kafka.",
+          "Verstehen Sie API-Versionierung und Abwärtskompatibilität.",
+          "Ich habe unter dem Agile/Scrum-Modell gearbeitet."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "VORTEILE",
+        "type": "h2"
+      },
+      {
+        "text": "Einnahmen & Boni",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Wettbewerbsfähiges Gehalt entsprechend der Kapazität.",
+          "Projektbonus, Leistungsbonus, Feiertags-/Tet-Bonus.",
+          "Belohnen Sie Innovation und technische Verbesserungen."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "Wachstumschancen",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Arbeiten Sie direkt mit erfahrenen Senior Developers und Tech Leads zusammen.",
+          "Nehmen Sie an praktischen Projekten teil:\nWeb-App\nSaaS\nERP\nPMS\nTicketsystem",
+          "Chancen, erwachsen zu werden:\nSenior Entwickler\nTechnischer Leiter\nFullstack-Entwickler"
+        ],
+        "type": "list"
+      },
+      {
+        "text": "Arbeitsumgebung",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Das technologische Umfeld ist jung und dynamisch.",
+          "Professioneller Softwareentwicklungsprozess gemäß Agile/Scrum.",
+          "Regelmäßige Code-Überprüfungen und Mentoring zur Verbesserung der Expertise.",
+          "Neue Technologie empfohlen und getestet."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "Vorteile",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Zahlen Sie die vollständige Sozialversicherung wie vorgeschrieben.",
+          "Jahresurlaub, gesetzliche Feiertage gemäß Arbeitsgesetz.",
+          "Teambuilding, jährliche Reisen.",
+          "Unterstützung für Parkplätze, Pausengeld (falls vorhanden).",
+          "Stellen Sie ein vollständiges Sortiment an Arbeitsgeräten bereit."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "Unternehmenskultur",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Respekt vor Kreativität und persönlichem Beitrag.",
+          "Klarer Fahrplan für die Karriereentwicklung.",
+          "Gelegenheit, an der Entwicklung von Produkten von Grund auf mitzuwirken.",
+          "Erkenne Ergebnisse mit transparenten KPIs."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "📩 Bewerben Sie sich jetzt für die Zusammenarbeit mit Winterfrost, um hochwertige Technologieprodukte zu entwickeln und Ihre beruflichen Fähigkeiten zu erweitern!",
+        "type": "p"
+      }
+    ],
+    "extra": [
+      {
+        "text": "Wenn Sie Ihre Karriere in einem professionellen Umfeld entwickeln möchten, in dem Sie direkt an der Entwicklung von Softwareprodukten, Mobile Apps, Webseiten und KI-Anwendungen gemäß neuen Technologietrends teilnehmen können, ist Winterfrost das richtige Ziel. Hier arbeiten Sie mit einem jungen, dynamischen und kreativen Team zusammen, das viele Entwicklungs- und Fördermöglichkeiten bietet und gleichzeitig praktische Werte für Unternehmen und Nutzer schafft. Mach mit.",
+        "type": "p"
+      },
+      {
+        "text": "Senden Sie Ihren Lebenslauf per Post ein: careers@winterfrost.tech",
+        "type": "p"
+      },
+      {
+        "text": "Oder Zalo: 097 145 04 54",
+        "type": "p"
+      }
+    ],
+    "sidebar": [
+      "Bewerbungsschluss: 31.12.2026",
+      "Gehalt:",
+      "Get Deal",
+      "Adresse:",
+      "Ho-Chi-Minh-Stadt",
+      "Rang:",
+      "Mitarbeiter",
+      "Erfahrung:",
+      "2 Jahre"
+    ],
+    "title": "Backend-Entwickler (PHP/Laravel)"
+  },
+  {
+    "slug": "backend-developer-fintech-banking-finance",
+    "blocks": [
+      {
+        "text": "Winterfrost rekrutiert Backend-Entwickler, um an der Entwicklung von Website-, Mobile-App- und Softwaresystemen im Bereich Fintech, Banking und Finanzen mitzuwirken. Dies ist eine Gelegenheit für Sie, groß angelegte digitale Transformationsprojekte zu begleiten und leistungsstarke, sichere und stabile Backend-Systeme zu entwickeln.",
+        "type": "p"
+      },
+      {
+        "text": "STELLENBESCHREIBUNG",
+        "type": "h2"
+      },
+      {
+        "items": [
+          "Analysieren und gestalten Sie die Backend-Architektur entsprechend den Anforderungen jedes Produkts und Geschäfts.",
+          "Entwickeln und integrieren Sie Backend-Funktionen in bestehende Systeme, um Leistung und Stabilität sicherzustellen.",
+          "Baue und entwickle RESTful APIs gemäß der Microservices-Architektur.",
+          "Koordiniere mit Frontend, Mobile, UI/UX und Product Owner zur Bereitstellung von Funktionen für Website und Mobile App.",
+          "Konfigurieren und bereiten Sie Operationen im BPM-System aus.",
+          "Unterstützung der Anwendungsbereitstellung in Test- und Produktionsumgebungen.",
+          "Überwachen, optimieren Sie die Leistung und gewährleisten Sie die Skalierbarkeit des Systems."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "ANTRAGSTELLERANFORDERUNGEN",
+        "type": "h2"
+      },
+      {
+        "text": "Erfahrung & Fachwissen",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Abschluss an einer Universität mit Schwerpunkten IT, Mathematik, Elektronik und Telekommunikation oder verwandten Disziplinen.",
+          "Mindestens 3 Jahre Backend-Entwicklungserfahrung mit Java, NodeJS, Python oder Golang haben.",
+          "Erfahrung in der Teilnahme an Projekten in den Bereichen Bankwesen, Finanzen oder Investitionen.",
+          "Priorität gilt Kandidaten, die an Kunden-Onboarding-Systemen für Finanzprodukte teilgenommen haben."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "Technische Fähigkeiten",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Kompetent in Java 8+, Spring Boot, Hibernate.",
+          "Erfahrung mit Spring Security, RestEasy und RabbitMQ in eventgesteuerter Architektur.",
+          "Erlangen Sie ein tiefgehendes Verständnis des Designs von RESTful APIs mit hoher Verfügbarkeit und guter Lastkapazität.",
+          "Erfahrung im Umgang mit relationalen Datenbanken (Oracle, PostgreSQL, MySQL) und NoSQL (MongoDB).",
+          "Erfahrung in der Optimierung von Systemen auf Cloud-Plattformen wie AWS oder Azure."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "Priorität",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Erfahrung, Systeme mit Docker, Kubernetes, ECS oder AWS Lambda bereitzustellen.",
+          "Ich bin versiert mit CI/CD-Tools wie Git, Jenkins, Gradle, npm, Ansible.",
+          "Erfahrung in der Gestaltung großer Systeme und der Optimierung der Backend-Performance.",
+          "Habe ein CRM-System für ein Unternehmen oder eine Finanzinstitution implementiert."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "Soft Skills",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Gutes Produktdenken und effektive Teamarbeit.",
+          "Abteilungsübergreifende Kommunikations- und Koordinationsfähigkeiten.",
+          "Sei proaktiv, verantwortungsbewusst und bereit, neue Technologien zu lernen."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "VORTEILE",
+        "type": "h2"
+      },
+      {
+        "items": [
+          "Direkt an digitalen Transformationsprojekten im Bereich Fintech/Banking teilnehmen.",
+          "Wettbewerbsfähiges Einkommen mit Projektboni, Leistungsboni und Geschäftsboni.",
+          "Jährliche Kompetenzbewertung und Gehaltsüberprüfung.",
+          "Vergütungs- und Entwicklungspolitiken für talentiertes Personal.",
+          "Ausgebildet zu werden, um berufliche Fähigkeiten und Fertigkeiten zu verbessern.",
+          "Professionelles, dynamisches Arbeitsumfeld und viele Entwicklungsmöglichkeiten.",
+          "Vollständig an Sozialversicherungen, Krankenversicherungen und Regelungen gemäß Arbeitsrecht teilnehmen.",
+          "Urlaub von 12 Tagen im Jahr mit Feiertagen, Mutterschafts- und Gastfreundschaftsleistungen wie verschrieben.",
+          "Teambuilding, Reisen, Frühlingsreise, Jahresendfest und andere interne Aktivitäten.",
+          "Belohnen Sie große Feiertage, vierteljährliche Boni und Boni entsprechend der Arbeitsleistung."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "⏰ Arbeitszeiten: Montag – Samstag | 08:30 – 17:30",
+        "type": "p"
+      },
+      {
+        "text": "📩 Bewerben Sie sich jetzt für Winterfrost, um moderne Technologiesysteme im Bereich Finanzen und Bankwesen zu entwickeln!",
+        "type": "p"
+      }
+    ],
+    "extra": [
+      {
+        "text": "Wenn Sie Ihre Karriere in einem professionellen Umfeld entwickeln möchten, in dem Sie direkt an der Entwicklung von Softwareprodukten, Mobile Apps, Webseiten und KI-Anwendungen gemäß neuen Technologietrends teilnehmen können, ist Winterfrost das richtige Ziel. Hier arbeiten Sie mit einem jungen, dynamischen und kreativen Team zusammen, das viele Entwicklungs- und Fördermöglichkeiten bietet und gleichzeitig praktische Werte für Unternehmen und Nutzer schafft. Mach mit.",
+        "type": "p"
+      },
+      {
+        "text": "Senden Sie Ihren Lebenslauf per Post ein: careers@winterfrost.tech",
+        "type": "p"
+      },
+      {
+        "text": "Oder Zalo: 097 145 04 54",
+        "type": "p"
+      }
+    ],
+    "sidebar": [
+      "Bewerbungsschluss: 31.12.2026",
+      "Gehalt:",
+      "Get Deal",
+      "Adresse:",
+      "Ho-Chi-Minh-Stadt",
+      "Rang:",
+      "Mitarbeiter",
+      "Erfahrung:",
+      "2 Jahre"
+    ],
+    "title": "Backend-Entwickler (Fintech, Bankwesen, Finanzen)"
+  },
+  {
+    "slug": "frontend-developer-banking-finance",
+    "blocks": [
+      {
+        "text": "Winterfrost rekrutiert Frontend-Entwickler, um an der Entwicklung von Website-, Mobile-App- und Softwaresystemen im Bereich Fintech, Banking und Finanzen mitzuwirken. Dies ist eine Gelegenheit für Sie, groß angelegte digitale Transformationsprojekte zu begleiten, moderne Technologien anzuwenden und die Nutzererfahrung zu optimieren.",
+        "type": "p"
+      },
+      {
+        "text": "STELLENBESCHREIBUNG",
+        "type": "h2"
+      },
+      {
+        "items": [
+          "Beteiligen Sie sich an der Gestaltung der Systemarchitektur und schlagen geeignete technologische Lösungen vor.",
+          "Neue Funktionen für Web-/App-Systeme entwickeln und in Backend-Dienste integrieren.",
+          "Arbeiten Sie mit Product Owners, UI/UX-Designern und Backend-Entwicklern zusammen, um Funktionen entsprechend den Projektanforderungen bereitzustellen.",
+          "Entwickeln Sie eine moderne Benutzeroberfläche, die Leistung und Nutzererlebnis optimiert.",
+          "Beteiligen Sie sich an der Bereitstellung, Überwachung und Optimierung der Anwendungsleistung in Test- und Produktionsumgebungen.",
+          "Beitrage zur Verbesserung des Entwicklungsprozesses und zur Verbesserung der Produktqualität."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "ANTRAGSTELLERANFORDERUNGEN",
+        "type": "h2"
+      },
+      {
+        "text": "Erfahrung & Fachwissen",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Abschluss an einer Universität mit Schwerpunkten IT, Mathematik, Elektronik und Telekommunikation oder verwandten Disziplinen.",
+          "Ich habe 2–3 Jahre Erfahrung in der Frontend-Entwicklung.",
+          "Kompetenz in JavaScript, ReactJS Next.js; Kandidaten mit Erfahrung in Flutter, React Navite und verwandten Frameworks werden bevorzugt.",
+          "Erfahrung in der Teilnahme an Projekten im Bereich Bankwesen, Finanzen oder Investitionen.",
+          "An individuellen Kunden-Onboarding-Projekten im Finanzsektor teilgenommen zu haben, ist ein Vorteil."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "Technische Fähigkeiten",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Erfahrung in der Arbeit mit Design-System- und UI-Bibliotheken.",
+          "Kompetenz in Ameisendesign, Bilderbüchern und modernen Frontend-Frameworks.",
+          "Erlangen Sie ein tiefes Verständnis von RESTful APIs, WebSockets und Authentifizierungs-/Sicherheitslösungen wie Auth0.",
+          "Erfahrung im State-Management und Integration mit Backend-Diensten oder Drittanbieter-Diensten.",
+          "Wissen über relationale und nicht-relationale Datenbanken."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "Priorität",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Erfahrung mit Micro-Frontend-Architektur.",
+          "Erfahrung in DevOps/DevSecOps, CI/CD mit Jenkins, Docker, Kubernetes.",
+          "Erfahrung in der Implementierung von CRM für ein Unternehmen oder Finanzinstitut.",
+          "Leidenschaftlich daran interessiert, neue Technologien auf Produkte zu erforschen und anzuwenden."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "Soft Skills",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Gutes Produktdenken und effektive Teamarbeit.",
+          "Gute Kommunikations- und Problemlösungsfähigkeiten.",
+          "Sei proaktiv, verantwortungsbewusst und habe einen Lerngeist."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "VORTEILE",
+        "type": "h2"
+      },
+      {
+        "items": [
+          "Ich arbeite direkt an digitalen Transformationsprojekten im Bereich Fintech/Banking.",
+          "Wettbewerbsfähiges Einkommen und Belohnungen entsprechend Projekt, Leistung und Geschäftsergebnissen.",
+          "Jährliche Kompetenzbewertung und Gehaltsüberprüfung.",
+          "Professionelles, dynamisches Arbeitsumfeld und viele Entwicklungsmöglichkeiten.",
+          "Schulungsrichtlinien zur Verbesserung von Fachwissen und Soft Skills.",
+          "Vollständig an Sozialversicherungen, Krankenversicherungen und Regelungen gemäß Arbeitsrecht teilnehmen.",
+          "Urlaub von 12 Tagen im Jahr mit Feiertagen, Mutterschaftsurlaub und Gastfreundschaft wie vorgeschrieben.",
+          "Teambuilding, Reisen, Frühlingsreise, Jahresendfest und interne Aktivitäten.",
+          "Vergütungs- und Entwicklungsrichtlinien für Langzeitbeschäftigte."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "⏰ Arbeitszeiten: Montag – Samstag | 08:30 – 17:30",
+        "type": "p"
+      },
+      {
+        "text": "📩 Bewerben Sie sich jetzt für Winterfrost, um moderne Technologieprodukte für den Bank- und Finanzsektor zu entwickeln!",
+        "type": "p"
+      }
+    ],
+    "extra": [
+      {
+        "text": "Wenn Sie Ihre Karriere in einem professionellen Umfeld entwickeln möchten, in dem Sie direkt an der Entwicklung von Softwareprodukten, Mobile Apps, Webseiten und KI-Anwendungen gemäß neuen Technologietrends teilnehmen können, ist Winterfrost das richtige Ziel. Hier arbeiten Sie mit einem jungen, dynamischen und kreativen Team zusammen, das viele Entwicklungs- und Fördermöglichkeiten bietet und gleichzeitig praktische Werte für Unternehmen und Nutzer schafft. Mach mit.",
+        "type": "p"
+      },
+      {
+        "text": "Senden Sie Ihren Lebenslauf per Post ein: careers@winterfrost.tech",
+        "type": "p"
+      },
+      {
+        "text": "Oder Zalo: 097 145 04 54",
+        "type": "p"
+      }
+    ],
+    "sidebar": [
+      "Bewerbungsschluss: 31.12.2026",
+      "Gehalt:",
+      "Get Deal",
+      "Adresse:",
+      "Ho-Chi-Minh-Stadt",
+      "Rang:",
+      "Mitarbeiter",
+      "Erfahrung:",
+      "2 Jahre"
+    ],
+    "title": "Frontend-Entwickler (Bankwesen, Finanzen)"
+  },
+  {
+    "slug": "thuc-tap-sinh-reactjs-nestjs-typescript",
+    "blocks": [
+      {
+        "text": "Winterfrost rekrutiert ReactJS / NestJS / Typescript Praktikanten, die an der Entwicklung von Website-, Mobile-App- und Softwareprojekten für inländische und ausländische Kunden mitwirken. Dies ist eine Gelegenheit für diejenigen, die das Programmieren lieben, in der Praxis ausgebildet werden und sich in einer professionellen Technologieumgebung weiterentwickeln möchten.",
+        "type": "p"
+      },
+      {
+        "text": "STELLENBESCHREIBUNG",
+        "type": "h2"
+      },
+      {
+        "items": [
+          "Nehmen Sie an Projekten zur Entwicklung von Website, mobilen Apps und Software teil, in Form von On-Job-Schulungen unter direkter Anleitung des Leiters.",
+          "Koordiniere mit dem Team, um Funktionen für Web-/App-/Softwaresysteme zu erforschen und zu entwickeln.",
+          "Bauen Sie eine reaktionsschnelle Benutzeroberfläche, die die Leistung und die Datenabfragbarkeit optimiert.",
+          "Beteiligen Sie sich an API-Design, Datenverarbeitung und Systemintegration.",
+          "Die Angaben zur Aufgabe werden im Gespräch ausführlich besprochen."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "ANTRAGSTELLERANFORDERUNGEN",
+        "type": "h2"
+      },
+      {
+        "items": [
+          "Kann Vollzeit arbeiten.",
+          "Habe eine logische Denkweise und eine Leidenschaft fürs Programmieren.",
+          "Beherrsche das Wissen von ReactJS.",
+          "Kenntnisse von Javascript, Typescript, HTML, CSS, REST API, JSON, XML,...",
+          "Wissen über MySQL- oder PostgreSQL-Datenbanken; MongoDB oder Oracle zu kennen, ist ein Vorteil.",
+          "Erfahrung oder Verständnis von APIs und Datenverarbeitung.",
+          "Gut in Git.",
+          "Gute Team- und Kommunikationsfähigkeiten.",
+          "Lerne aktiv, arbeite hart und sei verantwortungsbewusst bei der Arbeit.",
+          "Fähigkeit, beim Arbeitsplatz Leseverständnis zu lesen oder in grundlegendem Englisch zu kommunizieren.",
+          "DevOps oder Cloud Services (AWS, Azure, GCP) zu kennen, ist ein Vorteil."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "VORTEILE",
+        "type": "h2"
+      },
+      {
+        "items": [
+          "Die Möglichkeit, nach dem Praktikum Vollzeitangestellter bei Winterfrost mit attraktivem Gehalt zu werden.",
+          "Kapazitäten und einen klaren Entwicklungsplan überprüft.",
+          "Urlaubs-/Tet-Boni, vierteljährliche Boni, Dienstaltersboni und Boni je nach Projekteffizienz.",
+          "Geburtstagsgeschenke und innere Aktivitäten.",
+          "Lerne und arbeite mit neuen Technologien.",
+          "Berufliches und dynamisches Arbeitsumfeld mit inländischen und ausländischen Partnern.",
+          "Reisen, regelmäßiges Teambuilding.",
+          "Unterstützung bei der Teilnahme an Schulungen zur Verbesserung beruflicher Fähigkeiten."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "📩 Bewerben Sie sich jetzt für die Zusammenarbeit mit Winterfrost, um innovative Technologieprodukte zu entwickeln und praktische Programmierfähigkeiten zu verbessern!",
+        "type": "p"
+      }
+    ],
+    "extra": [
+      {
+        "text": "Wenn Sie Ihre Karriere in einem professionellen Umfeld entwickeln möchten, in dem Sie direkt an der Entwicklung von Softwareprodukten, Mobile Apps, Webseiten und KI-Anwendungen gemäß neuen Technologietrends teilnehmen können, ist Winterfrost das richtige Ziel. Hier arbeiten Sie mit einem jungen, dynamischen und kreativen Team zusammen, das viele Entwicklungs- und Fördermöglichkeiten bietet und gleichzeitig praktische Werte für Unternehmen und Nutzer schafft. Mach mit.",
+        "type": "p"
+      },
+      {
+        "text": "Senden Sie Ihren Lebenslauf per Post ein: careers@winterfrost.tech",
+        "type": "p"
+      },
+      {
+        "text": "Oder Zalo: 097 145 04 54",
+        "type": "p"
+      }
+    ],
+    "sidebar": [
+      "Bewerbungsschluss: 31.12.2026",
+      "Gehalt:",
+      "Get Deal",
+      "Adresse:",
+      "Ho-Chi-Minh-Stadt",
+      "Rang:",
+      "Praktikant",
+      "Erfahrung:",
+      "Nicht erforderlich"
+    ],
+    "title": "ReactJS/NestJS/Typescript Praktikant"
+  },
+  {
+    "slug": "middle-mobile-developer-flutter-swift-react-native",
+    "blocks": [
+      {
+        "text": "Winterfrost sucht einen Middle Mobile Developer mit Erfahrung in der plattformübergreifenden iOS- und Android-App-Entwicklung. Die Kandidaten werden an der Entwicklung und Entwicklung realmaßstäblicher mobiler Produkte beteiligt sein, wobei Echtzeit-Vertriebs-, Transaktions- und Anwendungssysteme Priorität haben.",
+        "type": "p"
+      },
+      {
+        "text": "STELLENBESCHREIBUNG",
+        "type": "h2"
+      },
+      {
+        "text": "Projekt- und Teammanagement",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Planen Sie die Anwendungsentwicklung, zerlegen Sie technische Aufgaben (WBS), schätzen Sie und verteilen Sie die Arbeit an das Team.",
+          "Überwachen Sie den Fortschritt, erkennen Sie Engpässe und schlagen Sie zeitnahe Lösungen vor.",
+          "Verwalten und entwickeln Sie mobile Anwendungen für Unternehmensprojekte."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "Technische Führung",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Technische Orientierung für mobile Teams.",
+          "Stellen Sie sicher, dass der Quellcode SOLID-konform ist, eine saubere Architektur hat und einfach zu erweitern und zu warten ist.",
+          "Nimm an Code-Review und Mentoring für Junior/Fresher teil."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "Systemdesign & Optimierung",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Design der mobilen Systemarchitektur.",
+          "Optimierung der Anwendungsleistung (Caching, Lazy Load, Isolate...).",
+          "Verbessern Sie das Nutzererlebnis und die Systemstabilität."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "Zusammenarbeit",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Koordiniere mit Backend, PO, UI/UX, QA gemäß dem Agile/Scrum-Prozess.",
+          "Sicherstellen Sie Produktqualität und Entwicklungsfortschritt."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "Forschung & Verbesserung",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Recherchieren und aktualisieren Sie neue mobile Technologien.",
+          "Empfehlen Sie Lösungen zur Optimierung der Systemsicherheit und -leistung."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "ANTRAGSTELLERANFORDERUNGEN",
+        "type": "h2"
+      },
+      {
+        "text": "Erfahrung & Fachwissen",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Bachelorabschluss in IT oder ähnlichem.",
+          "Ich habe 3-5 Jahre Erfahrung in der Entwicklung mobiler Apps.",
+          "Erfahrung auf iOS- und Android-Plattformen.",
+          "Kenne Flutter, Swift, React Native."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "Technische Fähigkeiten",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Kompetent in SOLID, sauberer Architektur.",
+          "Erfahrung mit BLoC, Riverpod oder gleichwertigem State Management.",
+          "Fähigkeit, Flutter-Plugins mit Native Code (Kotlin/Swift) zu schreiben.",
+          "Verstehen Sie die Gradle-Mechanik, Pods und Anwendungslebenszyklen."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "Sicherheit & Leistung",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Wissen über OAuth, AES, SHA, JWT.",
+          "Verstehen Sie die Sicherheit von Schlüsselanhängern/Keystores und mobilen Anwendungen.",
+          "Nutzen Sie DevTools gut, um Speicher, CPU zu überwachen und die Leistung zu optimieren."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "Netzwerke & Echtzeit",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Verstehen Sie MQTT, Socket und Cache-Management für Echtzeit-/Handelsanwendungen.",
+          "Ich bin kompetent in Postman (Testskript, Mock-API)."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "Werkzeuge und Management",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Grundlegende CI/CD-Erfahrung.",
+          "Schreibe Unit-Test, Widget-Test.",
+          "Fortgeschrittene Git-Fertigkeit: neu basieren, zurücksetzen, Konflikt lösen.",
+          "Erfahrung im Teammanagement, Code-Review und Mentoring.",
+          "Gute Verwendung von Jira, Trello, Confluence."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "Weitere Fähigkeiten",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Haben Sie eine Produktbesitz-Denkweise und verstehen Sie SDLC.",
+          "Gutes Lesen und Verständnis englischer Dokumente.",
+          "Sei proaktiv, verantwortungsbewusst und in der Lage, technische Projektrisiken zu handhaben."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "VORTEILE",
+        "type": "h2"
+      },
+      {
+        "items": [
+          "Wettbewerbsfähiges Einkommen + Projektbonus + Urlaubs-/Tet-Bonus.",
+          "Überprüfen Sie die Leistung und erhöhen Sie regelmäßig das Gehalt entsprechend der Kapazität.",
+          "Professionelle, transparente und flexible Agile/Scrum-Umgebung.",
+          "Befähigt darin, technische Lösungen zu analysieren, zu entwerfen und zu leiten.",
+          "Direkt Mentoring durch erfahrenes Management und CTO.",
+          "Möglichkeiten für berufliche Weiterbildung und Projektmanagementfähigkeiten.",
+          "Teambuilding, Reisen, Geburtstage, Weihnachten, Jahresende...",
+          "Nehmen Sie sich gesetzeskonform vollständig an Sozialversicherung, Krankenversicherung und Arbeitslosenversicherung teil."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "📩 Bewerben Sie sich noch heute, um Winterfrost zu begleiten, um hochwertige Technologieprodukte zu entwickeln!",
+        "type": "p"
+      }
+    ],
+    "extra": [
+      {
+        "text": "Wenn Sie Ihre Karriere in einem professionellen Umfeld entwickeln möchten, in dem Sie direkt an der Entwicklung von Softwareprodukten, Mobile Apps, Webseiten und KI-Anwendungen gemäß neuen Technologietrends teilnehmen können, ist Winterfrost das richtige Ziel. Hier arbeiten Sie mit einem jungen, dynamischen und kreativen Team zusammen, das viele Entwicklungs- und Fördermöglichkeiten bietet und gleichzeitig praktische Werte für Unternehmen und Nutzer schafft. Mach mit.",
+        "type": "p"
+      },
+      {
+        "text": "Senden Sie Ihren Lebenslauf per Post ein: careers@winterfrost.tech",
+        "type": "p"
+      },
+      {
+        "text": "Oder Zalo: 097 145 04 54",
+        "type": "p"
+      }
+    ],
+    "sidebar": [
+      "Bewerbungsschluss: 31.12.2026",
+      "Gehalt:",
+      "Get Deal",
+      "Adresse:",
+      "Ho-Chi-Minh-Stadt",
+      "Rang:",
+      "Mitarbeiter",
+      "Erfahrung:",
+      "3 Jahre"
+    ],
+    "title": "Mittlerer Mobilentwickler (Flutter / Swift / React Native)"
+  },
+  {
+    "slug": "thuc-tap-sinh-ai-engineer",
+    "blocks": [
+      {
+        "text": "STELLENBESCHREIBUNG",
+        "type": "h2"
+      },
+      {
+        "items": [
+          "Unterstützung der Entwicklung von KI-Komponenten für das Produkt: Chatbot, RAG, Dokumentenverarbeitung, KI-Workflow und Automatisierung.",
+          "Mitwirken Sie am Aufbau von Diensten/APIs, um KI in Websites, CRM und interne Systeme zu integrieren.",
+          "Lerne, wie man Datenpipelines, Abruf, Bewertung und Überwachung für KI-Systeme entwirft und implementiert.",
+          "Beteiligen Sie sich an der Integration von KI/LLM-Modellen und Backend-Systemen in tatsächliche Betriebsprodukte.",
+          "Koordinieren Sie mit den Abteilungen Business, Produkt, Backend, Frontend, Data und DevOps zur Implementierung von KI-Lösungen.",
+          "Schreiben Sie grundlegende technische Dokumentation, beschreiben Sie den Verarbeitungsfluss, Eingaben und Ausgaben sowie Betriebsnotizen."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "ANTRAGSTELLERANFORDERUNGEN",
+        "type": "h2"
+      },
+      {
+        "items": [
+          "Studierende oder frischgebackene Absolventen in den Bereichen IT, KI, Data Science oder verwandten Bereichen.",
+          "Ich habe Grundkenntnisse in Programmierung, besonders in Python.",
+          "Ich bin leidenschaftlich für KI, schnelles Lernen und proaktiv bei der Arbeit.",
+          "Fähigkeit, Teams zu koordinieren und praktische Probleme zu lösen.",
+          "Kenntnisse über Chatbots, LLMs, Automatisierung oder Datenpipelines sind wünschenswert."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "VORTEILE",
+        "type": "h2"
+      },
+      {
+        "items": [
+          "Praktische Erfahrung mit KI-Projekten angewandt in CRM, Chatbots, Dokumenten-KI und Workflow-Automatisierung.",
+          "Arbeiten Sie direkt mit dem Produktteam zusammen, lassen Sie sich führen und befähigen, die Initiative in Ihrem Fachgebiet zu ergreifen.",
+          "Greifen Sie auf eine Premium-KI-Engine wie GPT Pro für Forschung und Entwicklung zu.",
+          "Professionelles und freundliches Arbeitsumfeld, Aufrechterhaltung und proaktiver Geist."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "STANDORT UND ARBEITSZEITEN",
+        "type": "h2"
+      },
+      {
+        "items": [
+          "Standort: Vinhomes Grand Park, Bezirk 9, Ho-Chi-Minh-Stadt.",
+          "Arbeitszeit: Montag bis Samstag (von 8:30 bis 17:30)."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "ERFAHREN SIE MEHR ÜBER DAS LEBEN IM WINTERFROST",
+        "type": "h2"
+      },
+      {
+        "text": "Erfahren Sie mehr über die Arbeitskultur bei Winterfrost und die Karriereentwicklungsmöglichkeiten bei Worklife",
+        "type": "p"
+      }
+    ],
+    "extra": [
+      {
+        "text": "Wenn Sie Ihre Karriere in einem professionellen Umfeld entwickeln möchten, in dem Sie direkt an der Entwicklung von Softwareprodukten, Mobile Apps, Webseiten und KI-Anwendungen gemäß neuen Technologietrends teilnehmen können, ist Winterfrost das richtige Ziel. Hier arbeiten Sie mit einem jungen, dynamischen und kreativen Team zusammen, das viele Entwicklungs- und Fördermöglichkeiten bietet und gleichzeitig praktische Werte für Unternehmen und Nutzer schafft. Mach mit.",
+        "type": "p"
+      },
+      {
+        "text": "Senden Sie Ihren Lebenslauf per Post ein: careers@winterfrost.tech",
+        "type": "p"
+      },
+      {
+        "text": "Oder Zalo: 097 145 04 54",
+        "type": "p"
+      }
+    ],
+    "sidebar": [
+      "Bewerbungsschluss: 31.12.2026",
+      "Gehalt:",
+      "Get Deal",
+      "Adresse:",
+      "Ho-Chi-Minh-Stadt",
+      "Rang:",
+      "Praktikant",
+      "Erfahrung:",
+      "Nicht erforderlich"
+    ],
+    "title": "KI-Ingenieur-Praktikant"
+  },
+  {
+    "slug": "chuyen-vien-ai-engineer",
+    "blocks": [
+      {
+        "text": "STELLENBESCHREIBUNG",
+        "type": "h2"
+      },
+      {
+        "items": [
+          "Entwickeln Sie KI-Komponenten für das Produkt: Chatbot, RAG, KI-Dokumentenverarbeitung, KI-Workflow und Automatisierung.",
+          "Entwickeln Sie Dienste/APIs, um KI in Websites, CRM, interne Systeme und verwandte Plattformen zu integrieren.",
+          "Entwerfen und implementieren Sie Datenpipelines, Abruf, Orchestrierung, Bewertung und Überwachung für KI-Systeme.",
+          "Mitwirken Sie an der Entwicklung technischer Lösungen und gewährleisten so Leistung, Stabilität, Sicherheit und Skalierbarkeit des Systems.",
+          "Schlage die optimale Implementierungsrichtung zwischen Prompting, RAG, KI-Workflow, Modellrouting oder anderen KI-Lösungen je nach eigenem Problem vor.",
+          "Integrieren Sie KI/LLM-Modelle, Datenverarbeitungswerkzeuge und Backend-Systeme in operative Produkte.",
+          "Überwachen und verbessern Sie die Systemqualität basierend auf Kennzahlen: Genauigkeit, Reaktionsgeschwindigkeit, Fehlerquote, Kosten und Nutzererfahrung.",
+          "Analysieren Sie die Ursachen, wenn das KI-System die Erwartungen nicht erfüllt, und implementieren Sie Lösungen.",
+          "Koordinieren Sie mit den Abteilungen Business, Produkt, Backend, Frontend, Data und DevOps, um KI in die reale Umgebung einzusetzen.",
+          "Schreiben Sie technische Dokumentation, die den Verarbeitungsfluss, Ein- und Ausgänge, Systemgrenzen und Betriebsnotizen beschreibt."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "ANTRAGSTELLERANFORDERUNGEN",
+        "type": "h2"
+      },
+      {
+        "items": [
+          "Mindestens 2 Jahre Erfahrung in der Softwareentwicklung, einschließlich praktischer Erfahrung mit AI/ML/LLM/NLP.",
+          "Versiert in Python; verfügen über einen soliden Hintergrund in Backend, API, Datenverarbeitung und Systemdesign.",
+          "Ich habe mindestens ein praktisches KI/LLM-System implementiert.",
+          "Praktische Erfahrung in mindestens zwei Fachbereichen:\nLLM / Chatbot / RAG\nKI-Workflow / Automatisierung\nDatenpipeline / Abruf / Vektordatenbank\nBewertung / Überwachung / Beobachtbarkeit\nCloud-Bereitstellung",
+          "Die Fähigkeit, eigenständig, proaktiv und ausgewogen, zwischen Qualität – Geschwindigkeit – Kosten – Risiko – Skalierbarkeit zu denken.",
+          "Wissen Sie, wie man berufliche Probleme in praktikable technische Lösungen umwandelt."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "Priorität:",
+        "type": "p"
+      },
+      {
+        "items": [
+          "Implementieren Sie KI für CRM, Kundenservice-Chatbots, interne Wissensdatenbanken, Dokumentenverarbeitung oder Automatisierungsworkflows.",
+          "Erfahrung mit FastAPI, Django, Flask oder gleichwertigen Backend-Frameworks.",
+          "Erfahrung mit Vektordatenbank, Redis, Warteschlange, Logging, Monitoring.",
+          "Erfahrung mit der Bereitstellung auf AWS/GCP/Azure.",
+          "Ich arbeitete in einer Koordinationsumgebung für Unternehmen – Produkt und Technologie.",
+          "Haben Sie eine optimale Einstellung hinsichtlich Latenz, Tokenkosten, Qualität und Zuverlässigkeit.",
+          "Schreiben Sie klare, kohärente technische Dokumentationen."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "VORTEILE",
+        "type": "h2"
+      },
+      {
+        "items": [
+          "Einkommen: Verhandelbar entsprechend Kapazität und Erfahrung.",
+          "Beteiligen Sie sich am Aufbau von Kernprodukten für KI-CRM und KI-Produkte, die direkt auf Kunden und Unternehmen angewendet werden.",
+          "Arbeiten Sie direkt mit dem Produktteam zusammen und seien Sie im Rahmen Ihrer Fachgebiete proaktiv.",
+          "Greifen Sie auf Forschungs- und Entwicklungstools wie GPT Pro zu.",
+          "vollständige Sozialversicherung, Krankenversicherung und Arbeitslosenversicherung; Urlaubsboni, Tet und andere interne Leistungen.",
+          "Das Arbeitsumfeld ist freundlich, professionell, aufrechterhaltend, leistungsfähig und proaktiv."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "STANDORT UND ARBEITSZEITEN",
+        "type": "h2"
+      },
+      {
+        "items": [
+          "Standort: Vinhomes Grand Park, Bezirk 9, Ho-Chi-Minh-Stadt.",
+          "Arbeitszeit: Montag bis Samstag (von 8:30 bis 17:30)."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "ERFAHREN SIE MEHR ÜBER DAS LEBEN IM WINTERFROST",
+        "type": "h2"
+      },
+      {
+        "text": "Erfahren Sie mehr über die Arbeitskultur bei Winterfrost und die Karriereentwicklungsmöglichkeiten bei Worklife",
+        "type": "p"
+      }
+    ],
+    "extra": [
+      {
+        "text": "Wenn Sie Ihre Karriere in einem professionellen Umfeld entwickeln möchten, in dem Sie direkt an der Entwicklung von Softwareprodukten, Mobile Apps, Webseiten und KI-Anwendungen gemäß neuen Technologietrends teilnehmen können, ist Winterfrost das richtige Ziel. Hier arbeiten Sie mit einem jungen, dynamischen und kreativen Team zusammen, das viele Entwicklungs- und Fördermöglichkeiten bietet und gleichzeitig praktische Werte für Unternehmen und Nutzer schafft. Mach mit.",
+        "type": "p"
+      },
+      {
+        "text": "Senden Sie Ihren Lebenslauf per Post ein: careers@winterfrost.tech",
+        "type": "p"
+      },
+      {
+        "text": "Oder Zalo: 097 145 04 54",
+        "type": "p"
+      }
+    ],
+    "sidebar": [
+      "Bewerbungsschluss: 31.12.2026",
+      "Gehalt:",
+      "Get Deal",
+      "Adresse:",
+      "Ho-Chi-Minh-Stadt",
+      "Rang:",
+      "Mitarbeiter",
+      "Erfahrung:",
+      "2 Jahre"
+    ],
+    "title": "KI-Ingenieur Experte"
+  },
+  {
+    "slug": "thuc-tap-sinh-fullstack-developer",
+    "blocks": [
+      {
+        "text": "STELLENBESCHREIBUNG",
+        "type": "h2"
+      },
+      {
+        "items": [
+          "Lernen Sie die Systemarchitektur kennen und unterstützen Sie die Entwicklung von Grundmodulen für die CMS-Website und das Managementsystem.",
+          "Übe das Schneiden von HTML/CSS und die Implementierung von Frontend-Schnittstellen basierend auf bestehenden UI/UX-Blueprints.",
+          "Machen Sie sich mit und unterstützen Sie die Verbindung und Integration von Daten über RESTful-APIs zwischen Frontend und Backend.",
+          "Helfen Sie bei der Erkennung von Fehlern, der Behebung grundlegender Fehler und der Teilnahme am Schreiben von Tests, um die Qualität des Quellcodes sicherzustellen.",
+          "Lerne den Standardprozess der Softwareentwicklung kennen, wie man optimalen, sauberen und leicht zu wartenden Quellcode schreibt.",
+          "Erforsche neue Technologien und erledige weitere Aufgaben, wie vom Leiter zugewiesen."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "DETAILLIERTE ANFORDERUNGEN",
+        "type": "h2"
+      },
+      {
+        "items": [
+          "Abschlussstudierende oder frischgebackene Universitäts- oder Hochschulabsolventen mit Schwerpunkten Informationstechnologie, Softwaretechnik, Informatik oder verwandten Disziplinen.",
+          "Beherrsche das Grundwissen der Frontend-Webprogrammierung: HTML5, CSS3, JavaScript.",
+          "Habe grundlegende Kenntnisse des Backends mit PHP oder NodeJS.",
+          "Ich habe grundlegende theoretische Kenntnisse in Datenbankadministration (MySQL oder SQL Server).",
+          "Ich habe große Aufgaben und persönliche Projekte im Zusammenhang mit Webentwicklung eigenständig erledigt. Zu wissen, wie man Frameworks wie ReactJS und VueJS verwendet, ist ein großer Vorteil.",
+          "Fähigkeit, Informationen zu suchen und spezialisierte Dokumente auf Englisch zu lesen.",
+          "Gutes systematisches und logisches Denken, proaktives Lernen, schneller Empfang und Verantwortung für die zugewiesene Arbeit.",
+          "Ausgestattet mit einem persönlichen Laptop für die Arbeit."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "VORTEILE",
+        "type": "h2"
+      },
+      {
+        "items": [
+          "Gut ausgebildet vom Erstellen von Schnittstellen bis hin zur Logikbewältigung und der Manipulation von Datenbanken.",
+          "Er wird mit Daten bereitgestellt, bestätigt und mit dem Firmenlogo gestempelt, um den Abschlussbericht bzw. die Abschlussarbeit zu vervollständigen.",
+          "Erhalten Sie eine monatliche Praktikumszuschuss, die Ihrer Leistungsfähigkeit und Ihrer Arbeitszeit entspricht.",
+          "Es besteht eine hohe Wahrscheinlichkeit, nach dem Praktikum bewertet zu werden und Vollzeitangestellter zu werden, wenn man gute Ergebnisse erzielt.",
+          "In einer jungen und dynamischen Technologieumgebung zu arbeiten; Man sollte gehört werden, persönliche Meinungen respektieren und offen teilen, um gemeinsam weiterzuentwickeln.",
+          "Teilnahme an internen Aktivitäten: Reisen, Teambuilding, Geburtstage, Tet-Feiertage und Sportvereine."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "STANDORT UND ARBEITSZEITEN",
+        "type": "h2"
+      },
+      {
+        "items": [
+          "Standort: Vinhomes Grand Park, Bezirk 9, Ho-Chi-Minh-Stadt.",
+          "Arbeitszeit: Montag bis Samstag (von 8:30 bis 17:30)."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "ERFAHREN SIE MEHR ÜBER DAS LEBEN IM WINTERFROST",
+        "type": "h2"
+      },
+      {
+        "text": "Erfahren Sie mehr über die Arbeitskultur bei Winterfrost und die Karriereentwicklungsmöglichkeiten bei Worklife",
+        "type": "p"
+      }
+    ],
+    "extra": [
+      {
+        "text": "Wenn Sie Ihre Karriere in einem professionellen Umfeld entwickeln möchten, in dem Sie direkt an der Entwicklung von Softwareprodukten, Mobile Apps, Webseiten und KI-Anwendungen gemäß neuen Technologietrends teilnehmen können, ist Winterfrost das richtige Ziel. Hier arbeiten Sie mit einem jungen, dynamischen und kreativen Team zusammen, das viele Entwicklungs- und Fördermöglichkeiten bietet und gleichzeitig praktische Werte für Unternehmen und Nutzer schafft. Mach mit.",
+        "type": "p"
+      },
+      {
+        "text": "Senden Sie Ihren Lebenslauf per Post ein: careers@winterfrost.tech",
+        "type": "p"
+      },
+      {
+        "text": "Oder Zalo: 097 145 04 54",
+        "type": "p"
+      }
+    ],
+    "sidebar": [
+      "Bewerbungsschluss: 31.12.2026",
+      "Gehalt:",
+      "Get Deal",
+      "Adresse:",
+      "Ho-Chi-Minh-Stadt",
+      "Rang:",
+      "Mitarbeiter",
+      "Erfahrung:",
+      "Nicht erforderlich"
+    ],
+    "title": "Fullstack-Entwicklerpraktikant"
+  },
+  {
+    "slug": "content-marketing",
+    "blocks": [
+      {
+        "text": "STELLENBESCHREIBUNG",
+        "type": "h2"
+      },
+      {
+        "items": [
+          "Direkt Ideen entwickeln, Containerpläne erstellen und Omnichannel-Inhalte entsprechend der Gesamtstrategie produzieren.",
+          "Verantwortlich für das Verfassen von Marken-PR-Artikeln, SEO-standardisierten Tiefenartikeln, Videoskripten und Werbeinhalten, die den Zielen jeder Marketingkampagne eng folgen.",
+          "Arbeiten Sie eng mit den Teams für Grafikdesign und Videoeditor zusammen, um die Form der Inhaltsausdrucksform zu optimieren und die richtige Botschaft und Markenidentität sicherzustellen.",
+          "Verwalten und aktualisieren Sie regelmäßig Inhalte auf den Social-Media-Plattformen des Unternehmens und der Kunden.",
+          "Verfolgen, analysieren und messen Sie die Wirksamkeit von Inhaltsrouten, um zeitnah optimale Pläne zu erstellen.",
+          "Erforschen Sie Markt, Wettbewerber, aktualisieren Sie neue Content-Trends und wenden Sie proaktiv KI-Tools an, um die Arbeitsleistung zu optimieren."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "DETAILLIERTE ANFORDERUNGEN",
+        "type": "h2"
+      },
+      {
+        "items": [
+          "Abschluss an einem College/Universität mit Schwerpunkten Marketing, Journalismus, Kommunikation, Öffentlichkeitsarbeit, Literatur oder verwandten Bereichen.",
+          "Habe 1-2 Jahre Erfahrung im Bereich Content Marketing oder Texter.",
+          "Ausgezeichnete Schreibfähigkeiten, flexibler Schreibstil, gute Fähigkeit, Informationen zu orientieren, zu analysieren und zu synthetisieren.",
+          "Fundiertes Verständnis von Inhalts-SEO, Social-Media-Inhaltsformaten und dem Lieferalgorithmus der Plattform.",
+          "Hab eine gute ästhetische Einstellung. Zu wissen, wie man grundlegende Bild- und Videobearbeitungswerkzeuge benutzt, ist ein Vorteil.",
+          "Passen Sie sich schnell an Veränderungen an und sind Sie bereit, neues Wissen über Technologie zu erlernen.",
+          "Proaktiv, fleißig, kann Arbeitsbelastung standhalten und hat ein hohes Verantwortungsbewusstsein.",
+          "Ausgestattet mit einem persönlichen Laptop für die Arbeit."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "VORTEILE",
+        "type": "h2"
+      },
+      {
+        "items": [
+          "Das vereinbarte Gehalt entspricht der Kapazität + dem 13. Monatsgehalt.",
+          "KPI-/Kampagneneffizienzboni, Tet-Boni und regelmäßige Gehaltserhöhungen gemäß den Unternehmensrichtlinien.",
+          "Arbeiten Sie in einer jugendlichen, kreativen, dynamischen und offenen Technologieumgebung.",
+          "Mit verschiedenen praktischen Projekten überzogen; die Möglichkeit haben, sich in Führungspositionen zu entwickeln.",
+          "Nehmen Sie vollständig an den vorgeschriebenen Sozialversicherungs-, Krankenversicherungs- und Arbeitslosenversicherungssystemen teil. Nehmen Sie an jährlichen Firmenausflügen, Teambuilding, Geburtstagsfeiern und intramuralen Sportvereinen teil."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "STANDORT UND ARBEITSZEITEN",
+        "type": "h2"
+      },
+      {
+        "items": [
+          "Standort: Vinhomes Grand Park, Bezirk 9, Ho-Chi-Minh-Stadt.",
+          "Arbeitszeit: Montag bis Samstag (von 8:30 bis 17:30)."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "ERFAHREN SIE MEHR ÜBER DAS LEBEN IM WINTERFROST",
+        "type": "h2"
+      },
+      {
+        "text": "Erfahren Sie mehr über die Arbeitskultur bei Winterfrost und die Karriereentwicklungsmöglichkeiten bei Worklife",
+        "type": "p"
+      }
+    ],
+    "extra": [
+      {
+        "text": "Wenn Sie Ihre Karriere in einem professionellen Umfeld entwickeln möchten, in dem Sie direkt an der Entwicklung von Softwareprodukten, Mobile Apps, Webseiten und KI-Anwendungen gemäß neuen Technologietrends teilnehmen können, ist Winterfrost das richtige Ziel. Hier arbeiten Sie mit einem jungen, dynamischen und kreativen Team zusammen, das viele Entwicklungs- und Fördermöglichkeiten bietet und gleichzeitig praktische Werte für Unternehmen und Nutzer schafft. Mach mit.",
+        "type": "p"
+      },
+      {
+        "text": "Senden Sie Ihren Lebenslauf per Post ein: careers@winterfrost.tech",
+        "type": "p"
+      },
+      {
+        "text": "Oder Zalo: 097 145 04 54",
+        "type": "p"
+      }
+    ],
+    "sidebar": [
+      "Bewerbungsschluss: 31.12.2026",
+      "Gehalt:",
+      "Get Deal",
+      "Adresse:",
+      "Ho-Chi-Minh-Stadt",
+      "Rang:",
+      "Mitarbeiter",
+      "Erfahrung:",
+      "2 Jahre"
+    ],
+    "title": "Content Marketing"
+  }
+]

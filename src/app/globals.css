@@ -1,0 +1,326 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "Winterfrost";
+  src: url("/fonts/HomeNest-Thin.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Winterfrost";
+  src: url("/fonts/HomeNest-Extra-Light.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Winterfrost";
+  src: url("/fonts/HomeNest-Light.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Winterfrost";
+  src: url("/fonts/HomeNest-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Winterfrost";
+  src: url("/fonts/HomeNest-Medium.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Winterfrost";
+  src: url("/fonts/HomeNest-Semi-Bold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Winterfrost";
+  src: url("/fonts/HomeNest-Bold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Winterfrost";
+  src: url("/fonts/HomeNest-Extra-Bold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Winterfrost";
+  src: url("/fonts/HomeNest-Black.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+}
+
+/*
+ * Winterfrost design tokens — extracted from production via DevTools (see _audit/design-tokens.json)
+ * Edit there + here together.
+ */
+:root {
+  --bg: rgb(253, 253, 253);
+  --bg-alt: rgba(250, 250, 250, 0.9);
+  --bg-card: rgb(245, 245, 245);
+  --bg-chip-blue: rgb(233, 240, 253);
+  --bg-dark: rgb(0, 0, 0);
+
+  --text: rgb(13, 19, 33);
+  --text-inverse: rgb(255, 255, 255);
+  --text-navy-deep: rgb(12, 30, 91);
+  --text-navy-alt: rgb(18, 21, 40);
+  --text-muted: rgb(85, 85, 85);
+  --text-muted-strong: rgb(72, 72, 72);
+  --text-eyebrow: rgb(5, 8, 12);
+  --text-secondary-btn: rgb(26, 59, 145);
+
+  --brand: rgb(26, 59, 145);
+  --brand-link: rgb(22, 112, 222);
+  --brand-link-alt: rgb(22, 106, 217);
+  --accent-cyan: rgb(0, 242, 255);
+  --ring-btn: rgb(77, 110, 209);
+
+  --border: rgb(218, 218, 219);
+  --border-search: rgba(22, 106, 217, 0.3);
+  --font-Winterfrost: "Winterfrost";
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-bg-alt: var(--bg-alt);
+  --color-bg-card: var(--bg-card);
+  --color-bg-chip-blue: var(--bg-chip-blue);
+  --color-bg-dark: var(--bg-dark);
+
+  --color-text: var(--text);
+  --color-text-inverse: var(--text-inverse);
+  --color-text-navy-deep: var(--text-navy-deep);
+  --color-text-navy-alt: var(--text-navy-alt);
+  --color-text-muted: var(--text-muted);
+  --color-text-muted-strong: var(--text-muted-strong);
+  --color-text-eyebrow: var(--text-eyebrow);
+  --color-text-secondary-btn: var(--text-secondary-btn);
+
+  --color-brand: var(--brand);
+  --color-brand-link: var(--brand-link);
+  --color-brand-link-alt: var(--brand-link-alt);
+  --color-accent-cyan: var(--accent-cyan);
+  --color-border: var(--border);
+
+  --font-sans: var(--font-manrope);
+  --font-display: var(--font-Winterfrost);
+  --font-script: var(--font-script);
+}
+
+html, body {
+  background: var(--bg);
+  color: var(--text);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+html {
+  scroll-behavior: smooth;
+  overflow-x: clip;
+  overflow-y: visible;
+}
+
+body {
+  overflow-x: clip;
+  overflow-y: visible;
+}
+
+body {
+  font-family: var(--font-manrope), -apple-system, system-ui, "Segoe UI", Roboto, Arial, sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: normal;
+}
+
+@layer base {
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-Winterfrost), -apple-system, system-ui, "Segoe UI", Roboto, Arial, sans-serif;
+    color: inherit;
+  }
+
+  h1 {
+    font-size: clamp(3rem, 6vw, 5rem);
+    font-weight: 500;
+    line-height: 1.1;
+    letter-spacing: -0.02em;
+  }
+
+  h2 {
+    font-size: clamp(2rem, 4vw, 3.5rem);
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: -0.02em;
+  }
+
+  h3 {
+    font-size: 1.5rem;
+    font-weight: 500;
+  }
+}
+
+.font-script {
+  font-family: var(--font-script), "Great Vibes", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Winterfrost button shadow utilities — exact replicas from production */
+.hn-btn-primary {
+  background: var(--brand-link);
+  color: var(--text-inverse);
+  border-radius: 1000px;
+  box-shadow:
+    rgba(123,139,209,0.33) 0 0.74px 0.74px -0.75px,
+    rgba(123,139,209,0.32) 0 2.02px 2.02px -1.5px,
+    rgba(123,139,209,0.3) 0 4.43px 4.43px -2.25px,
+    rgba(123,139,209,0.25) 0 9.83px 9.83px -3px,
+    rgba(123,139,209,0.11) 0 25px 25px -3.75px,
+    var(--ring-btn) 0 0 0 1px;
+  transition: transform 0.18s ease, filter 0.18s ease;
+}
+.hn-btn-primary:hover { transform: translateY(-1px); filter: brightness(1.06); }
+
+.hn-btn-secondary {
+  background: var(--text-inverse);
+  color: var(--text-secondary-btn);
+  border-radius: 1000px;
+  box-shadow:
+    rgba(255,255,255,0.4) 0 2px 4px 0 inset,
+    rgba(255,255,255,0.33) 0 0.74px 0.74px -0.75px,
+    rgba(255,255,255,0.32) 0 2.02px 2.02px -1.5px,
+    rgba(255,255,255,0.3) 0 4.43px 4.43px -2.25px,
+    rgba(255,255,255,0.25) 0 9.83px 9.83px -3px,
+    rgba(255,255,255,0.11) 0 25px 25px -3.75px;
+  transition: transform 0.18s ease;
+}
+.hn-btn-secondary:hover { transform: translateY(-1px); }
+
+.hn-cta-pill {
+  background: var(--text-inverse);
+  color: var(--text);
+  border-radius: 1000px;
+  box-shadow: rgba(22,112,222,0.2) 0 4px 16px 0;
+  transition: transform 0.18s ease;
+}
+.hn-cta-pill:hover { transform: translateY(-1px); }
+
+.hn-card {
+  background: var(--text-inverse);
+  border-radius: 24px;
+  box-shadow: rgba(0,0,0,0.1) 0 1.6px 9.6px 0, rgba(0,0,0,0.05) 0 0 0 1px inset;
+}
+
+.hn-header-pill {
+  background: rgb(255, 255, 255);
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  box-shadow: rgba(0,0,0,0.08) 0 4px 20px 0, rgba(0,0,0,0.05) 0 0 1px 0;
+  border-radius: 50px;
+}
+
+.no-scrollbar::-webkit-scrollbar { display: none; }
+.no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+
+@keyframes marquee { from { transform: translateX(0); } to { transform: translateX(-50%); } }
+.animate-marquee { animation: marquee 35s linear infinite; }
+
+@keyframes floatY { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-10px); } }
+.animate-float-y { animation: floatY 4s ease-in-out infinite; }
+
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.animate-fade-up { animation: fadeInUp 0.8s ease-out both; }
+
+.line-clamp-2 { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.line-clamp-3 { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+.line-clamp-4 { display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden; }
+
+.hn-content { color: var(--text-navy-alt); line-height: 1.78; font-size: 16px; position: relative; }
+.hn-content > * { max-width: 720px; }
+.hn-content::before {
+  content: "";
+  position: absolute;
+  left: 240px;
+  top: 0;
+  bottom: 0;
+  width: 1px;
+  background: linear-gradient(to bottom, transparent, var(--border) 6%, var(--border) 94%, transparent);
+  pointer-events: none;
+  display: none;
+}
+@media (min-width: 1024px) {
+  .hn-content::before { display: block; }
+  .hn-content > h2,
+  .hn-content > h3,
+  .hn-content > p,
+  .hn-content > ul,
+  .hn-content > ol,
+  .hn-content > blockquote {
+    margin-left: 307px;
+  }
+  .hn-content > h2 { position: relative; }
+  .hn-content > h2::before {
+    content: "";
+    position: absolute;
+    left: -56px;
+    top: 16px;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: var(--text-navy-alt);
+  }
+}
+.hn-content h1, .hn-content h2, .hn-content h3, .hn-content h4 {
+  font-family: var(--font-Winterfrost), var(--font-manrope), sans-serif;
+  color: var(--text-navy-alt);
+  font-weight: 500;
+  line-height: 1.4;
+  margin-top: 40px;
+  margin-bottom: 16px;
+}
+.hn-content h1 { font-size: 24px; font-weight: 600; }
+.hn-content h2 { font-size: 22px; }
+.hn-content h3 { font-size: 18px; }
+.hn-content h2 strong, .hn-content h3 strong { font-weight: 700; }
+.hn-content p { margin-top: 16px; margin-bottom: 16px; font-size: 16px; }
+.hn-content ul, .hn-content ol { margin-top: 16px; margin-bottom: 16px; padding-left: 24px; }
+.hn-content ul { list-style: outside disc; }
+.hn-content ol { list-style: decimal; }
+.hn-content li { margin: 6px 0; }
+.hn-content a { color: var(--brand-link); text-decoration: underline; }
+.hn-content a strong { font-weight: 600; }
+.hn-content img { max-width: 100%; height: auto; border-radius: 12px; margin: 1rem 0; }
+.hn-content blockquote { border-left: 4px solid var(--brand-link); padding-left: 1rem; margin: 1rem 0; color: var(--text-muted-strong); font-style: italic; }
+.hn-content [class*="heroSection"], .hn-content [class*="HeroSection"] { display: none; }
+.hn-content > script, .hn-content noscript { display: none; }
+
+@media (min-width: 768px) {
+  .hn-content { font-size: 18px; }
+  .hn-content h2 { font-size: 22px; }
+  .hn-content p { font-size: 18px; line-height: 32px; }
+}

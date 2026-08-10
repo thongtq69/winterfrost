@@ -1,0 +1,324 @@
+{
+  "website-edunora": {
+    "title": "Website Edunora",
+    "date": "2026/07/18",
+    "author": "admin",
+    "description": "Edunora Webdesign-Projekt von Winterfrost VN: Lösung zur Digitalisierung des ästhetischen Schulungssystems, Automatisierung der Anmeldung und Optimierung von UI/UX sowie zur Reduzierung der Seitenladezeit.",
+    "scope": [
+      {
+        "href": "/dich-vu/thiet-ke-website",
+        "label": "Website-Design"
+      },
+      {
+        "href": "/linh-vuc/y-te",
+        "label": "Medizinisch"
+      }
+    ],
+    "liveUrl": null,
+    "desktop": [
+      "/images/projects/website-edunora/01-anh-bia-du-an.webp?v=wf-projects-pro-20260726",
+      "/images/projects/website-edunora/02-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+      "/images/projects/website-edunora/03-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+      "/images/projects/website-edunora/04-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+      "/images/projects/website-edunora/05-man-hinh-website.webp?v=wf-gallery-pro-20260726"
+    ],
+    "mobile": [],
+    "ui": [
+      "/images/projects/website-edunora/01-anh-bia-du-an.webp?v=wf-projects-pro-20260726",
+      "/images/projects/website-edunora/02-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+      "/images/projects/website-edunora/03-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+      "/images/projects/website-edunora/04-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+      "/images/projects/website-edunora/05-man-hinh-website.webp?v=wf-gallery-pro-20260726"
+    ],
+    "contentHtml": "<div class=\"content-module__ZwfD0a__wpContent\"><h2><strong>Projektübersicht</strong></h2>\n<p>Das Edunora-Website-Projekt ist ein professionelles Online-Medizinportal und eine Terminverwaltungslösung, die von <a href=\"https://winterfrost.tech/\" target=\"_blank\" rel=\"noopener nofollow\">Winterfrost</a> Entwurf und Bau. Das neue Online-System hilft, den automatisierten Terminbuchungsprozess zu digitalisieren und das Kundenerlebnis im Raum Hanoi zu optimieren.</p>\n<ul>\n<li><b>Industrien und Sektoren:</b> Medizinische und Schönheits- und Schönheits- und Kosmetika-Ästhetikdienste</li>\n<li><b>Jahr der Umsetzung:</b> 2025</li>\n<li><b>Anzahl der Beschäftigten:</b> 3 Personen</li>\n<li><b>Service:</b> Design der Website der Fachklinik</li>\n<li><b>Umsetzungszeit:</b> 2 Monate</li>\n<li><b>Unterstützende Werkzeuge:</b> WordPress, PHP-Sprache, MySQL-Datenbank, Google Analytics 4, Rank Math.</li>\n</ul>\n<h2>Kundenempfehlung</h2>\n<p>Edunora ist eine professionelle medizinische Einrichtung, die sich auf die Bereitstellung prestigeträchtiger Hightech-Ästhetik im Hanoi-Markt spezialisiert hat. Die Klinik ist im Bereich Gesundheits- und Schönheitsdienstleistungen tätig und bietet nicht-invasive Schönheitsbehandlungen an, darunter hochmoderne Hautverjüngungsmaschinen und Injektionen zur Entfernung von Unreinheiten sowie intensive strukturelle plastische Chirurgie. Edunora verpflichtet sich stets dazu, einen sicheren und medizinisch standardisierten Behandlungsprozess anzubieten, der die natürliche Schönheit verbessert und den Kunden umfassendes Vertrauen verschafft.</p>\n<h2>Der Kontext, in dem die Website operiert</h2>\n<p>Die kosmetische medizinische Dienstleistungsbranche verlangt von Websites, die genaue und klare medizinische Informationen bereitstellen, um solides Vertrauen aufzubauen. Kunden möchten sich bei der Erzählung von Therapien immer auf den transparenten Behandlungsprozess und das Kapazitätsprofil des Expertenteams beziehen. Implementierung der Lösung <a href=\"https://winterfrost.tech/loi-ich-cua-viec-thiet-ke-website-cho-spa-va-tham-my-vien\" target=\"_blank\" rel=\"noopener nofollow\">Vorteile der Gestaltung einer Website für Spas und Salons</a> Professionalität wird Kliniken helfen, den Prozess der effektiven Online-Interaktion und -Verbindung mit Kunden zu optimieren.</p>\n<h2>Herausforderung</h2>\n<p>Vor der Zusammenarbeit mit Winterfrost stand die alte Website von Edunora vor vielen großen technischen Hürden. Die durchschnittliche Seitenladezeit beträgt bis zu 8,2 Sekunden, bedingt durch das unoptimierte Volumen an klinischen Bildern mit hoher Kapazität, was zu einer Abprallrate von 74 % führt. Die Informationsstruktur des Prozesses der Durchführung von Fettabsaugung oder Filler-Injektionen fehlt an Fachwissen, was den Markenruf verringert und zu einer Terminbuchungsquote von nur 0,4 % führt. Gleichzeitig führt der manuelle Erhalt von Kundendaten per Telefon oft dazu, dass sich die Untersuchungspläne der Ärzte in den Betrieben an der Do Quang und Vu Thanh Straße überschneiden.</p>\n<h2>Lösungen von Winterfrost</h2>\n<p>Das Ingenieurteam von Winterfrost hat ein neues Website-System programmiert, das sich auf die Optimierung der Datenladegeschwindigkeit und die Automatisierung der Terminverwaltung konzentriert.</p>\n<h3>Bedeutung des medizinisch-standardisierten flachen Schnittstellendesigns</h3>\n<p>Die Website wählt einen minimalistischen Wohnungsstil und eine wissenschaftliche Weißraumzuweisung, um tiefgehende medizinische Wissensblöcke zu trennen. Überflüssige grafische Details werden vollständig entfernt, um die Aufmerksamkeit des Patienten auf das Bild der klinischen Behandlungsergebnisse zu lenken. Das Farbschema des Systems ist strikt mit der Markenidentität von Edunora synchronisiert. Die Call-to-Action-Buttons für ausführliche Termine sind im Farbschema auffallend kontrastierend und praktisch entsprechend dem Scrollverhalten der Seite angeordnet, um den Standard-UI/UX-Oberflächenregeln der medizinischen Branche zu entsprechen.</p>\n<h3>Digitalisieren Sie Arztakten und automatisieren Sie die Terminbuchung</h3>\n<p>Wir haben intelligente Online-Engagement-Tools entwickelt, um die operative Leistung zu verbessern:</p>\n<ul>\n<li><b>Automatisiertes Terminbuchungsmodul:</b> Ermöglichen Sie den Kunden, ihre eigene Untersuchungseinrichtung und gewünschte Zeit auszuwählen und anschließend automatisch den Arbeitsplan des Arztes abzustimmen, um den Termin im internen Managementsystem zu bestätigen.</li>\n<li><b>Experten-Elektronisches Aufzeichnungssystem:</b> Geben Sie die Qualifikationsdaten des Arztes fest und verlinken Sie direkt auf die tatsächlichen Behandlungsergebnisse, die er gemacht hat.</li>\n<li><b>Digitale Karte der Standorte der Klinikeinrichtungen:</b> Die Integration der genauen Koordinaten der Einrichtungen in den Bezirken Yen Hoa und O Cho Dua in das Online-Kartensystem hilft Kunden, die zurückgelegte Entfernung einfach zu berechnen.</li>\n<li><b>Bildoptimierungstechnologie:</b> Die Umwandlung des gesamten Stockbildes in das WebP-Bildformat beinhaltet asynchrone Datenladetechniken, die hochauflösende Bilder sofort wiedergeben, ohne den Server zu überlasten.</li>\n</ul>\n<h3>Angewandte Programmiersprachen</h3>\n<p>Das System funktioniert nachhaltig dank moderner Programmiertechnologien:</p>\n<ul>\n<li><b>PHP-Sprache:</b> Die serverseitige Logikverarbeitungs-Engine hilft dabei, das Online-Buchungsformularsystem zu bedienen und die persönlichen Kundendaten sicher zu verschlüsseln.</li>\n<li><b>JavaScript-Sprache:</b> Das Tool bewältigt dynamische Browserinteraktionen, einschließlich der Optimierung der Darstellung von Bildern, die die Behandlungsergebnisse des Klienten vergleichen.</li>\n<li><b>MySQL Datenbankverwaltungssystem:</b> Das Hochgeschwindigkeitsdatenbanksystem wird verwendet, um die Datensätze von Kunden, die sich zur Prüfung anmelden, sicher zu speichern und die Terminhistorie zu verfolgen.</li>\n<li><b>HTML5-Sprache und CSS3-Format:</b> Das Grid Layout Toolkit ermöglicht es, medizinische Informationen sowohl auf Computerbildschirmen als auch auf mobilen Geräten klar und kohärent darzustellen.</li>\n<li><b>WordPress-System:</b> Die Content-Management-Plattform macht es Edunoras Team einfach, neue ästhetische Serviceinformationen zu aktualisieren und medizinische Ankündigungen anzupassen.</li>\n</ul>\n<h2>Kundenbewertungen</h2>\n<p>Der Edunora-Markenvertreter teilte die Zufriedenheit: <i><b>\"Die neue Website-Struktur, die von Winterfrost entwickelt wurde, hat die operativen Probleme der Klinik präzise gelöst. Bilder der Behandlungsergebnisse werden schnell angezeigt und die Online-Terminbuchungsfunktion funktioniert genau, was uns erheblich Zeit spart.\"</b></i></p>\n<h2>Tatsächliche Datenergebnisse</h2>\n<p>Das Projekt hat nach drei Monaten Inbetriebnahme des neuen Systems viele bedeutende Verbesserungen verzeichnet:</p>\n<ul>\n<li>Die Seitenladegeschwindigkeit auf Mobilgeräten sank von 8,2 Sekunden auf nur 0,8 Sekunden.</li>\n<li>Der Seitenlade-Performance-Wert erreicht 96 Punkte auf einer Skala von 100 gemäß Google-Standards.</li>\n<li>Die Absprungrate sank von 74 % auf 28 %, begleitet von einem Wachstum des organischen Traffics um 30 %.</li>\n<li>Die Zeit, die Kunden blieben, um medizinische Informationen auf der Website zu erhalten, stieg um 40 % und erreichte durchschnittlich 4 Minuten und 15 Sekunden.</li>\n<li>Die Rate der Online-Termine stieg von 1,4 % auf 4,5 %, begleitet von einem Rückgang der Fehler bei Arztterminen.</li>\n<li>Die Kundenzufriedenheitsrate für die Informationssuche erreichte 98 %.</li>\n</ul>\n<h2>Fazit</h2>\n<p>Das Online-System-Upgrade-Projekt für Edunora bestätigt die Fähigkeit von Winterfrost, hochpraktische Technologielösungen bereitzustellen. Die Lösung zur Beschleunigung von Problemen und Prozessautomatisierung hat der Klinik geholfen, ihren soliden medizinischen Ruf zu stärken. Partner, die im Beauty-Bereich tätig sind, können auf weitere Dienstleistungen verweisen <a href=\"https://winterfrost.tech/thiet-ke-website-spa-lam-dep-tham-my-vien\" target=\"_blank\" rel=\"noopener nofollow\">Design der Website von Schönheitssalon-Spas</a> Um unser eigenes Projekt zu bauen. Winterfrost ist bestrebt, Lösungen zu programmieren, die stets langfristigen SEO-Standarddatenstrukturen folgen, um Display-Rankings zu optimieren.</p>\n</div>",
+    "heights": {
+      "cta": 491.984375,
+      "header": 239.09375,
+      "latest": 1248.390625,
+      "root": 7306.6484375,
+      "showcase": 651.3203125,
+      "ui": 406.859375,
+      "wp": 3740
+    }
+  },
+  "website-virela-interior": {
+    "title": "Website Virela Innenraum",
+    "date": "2026/07/18",
+    "author": "admin",
+    "description": "Die Reise, um die Virela Interior-Website aufzuwerten. Durch die Umstrukturierung der UI/UX, die Integration eines intelligenten Werbesystems und die Optimierung der Geschwindigkeit half Winterfrost der Marke, die Konversionsraten um 35 % zu steigern und den effektiven Abschlussprozess zu automatisieren.",
+    "scope": [
+      {
+        "href": "/dich-vu/thiet-ke-website",
+        "label": "Website-Design"
+      },
+      {
+        "href": "/linh-vuc/kien-truc-xay-dung",
+        "label": "Architektur & Bau"
+      },
+      {
+        "href": "/linh-vuc/thuong-mai-dien-tu",
+        "label": "Elektronischer Handel"
+      }
+    ],
+    "liveUrl": "https://noithatvanquyet.com/",
+    "desktop": [
+      "/images/projects/website-virela-interior/01-anh-bia-du-an.webp?v=wf-projects-pro-20260726",
+      "/images/projects/website-virela-interior/02-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+      "/images/projects/website-virela-interior/03-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+      "/images/projects/website-virela-interior/04-man-hinh-website.webp?v=wf-gallery-pro-20260726"
+    ],
+    "mobile": [],
+    "ui": [
+      "/images/projects/website-virela-interior/01-anh-bia-du-an.webp?v=wf-projects-pro-20260726",
+      "/images/projects/website-virela-interior/02-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+      "/images/projects/website-virela-interior/03-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+      "/images/projects/website-virela-interior/04-man-hinh-website.webp?v=wf-gallery-pro-20260726"
+    ],
+    "contentHtml": "<div class=\"content-module__ZwfD0a__wpContent\"><h2><strong>Projektübersicht</strong></h2>\n<p>Das Virela Interior Website-Projekt ist eine professionelle E-Commerce-Lösung, die von <a href=\"https://winterfrost.tech/\" target=\"_blank\" rel=\"noopener nofollow\">Winterfrost</a> Entwurf und Bau. Eine neue Online-Plattform, die das Such- und Einkaufserlebnis der Kunden optimiert, sowie ein Automatisierungssystem für Werbeaktionen, um im Raum Ho-Chi-Minh-Stadt Einnahmen zu steigern.</p>\n<ul>\n<li><b>Industrien und Sektoren:</b> Architektur, Bauwesen und E-Commerce, Möbel, Möbel</li>\n<li><b>Jahr der Umsetzung:</b> 2025</li>\n<li><b>Anzahl der Beschäftigten:</b> 3 Personen</li>\n<li><b>Service:</b> Design von Möbelverkaufswebseiten</li>\n<li><b>Umsetzungszeit:</b> 1 Monat</li>\n<li><b>Unterstützende Werkzeuge:</b> WordPress, WooCommerce, PHP-Sprache, Google Search Console, Google Analytics, LiteSpeed-Server.</li>\n</ul>\n<h2>Kundenempfehlung</h2>\n<p>Virela Interior ist eine renommierte Einheit, die sich auf die Online-Produktion und den Vertrieb von Büromöbeln, ergonomischen Stühlen und neuer Gaming-Schreibtische im Raum Ho-Chi-Minh-Stadt spezialisiert hat. In den Bereichen Architektur, Bauwesen und E-Commerce tätig, bietet das Geschäft ein umfangreiches Produktportfolio, einschließlich professioneller Arbeitsgeräte, um die Gesundheit der Nutzer zu schützen. Virela Interior setzt sich stets dafür ein, hochwertige Produkte mit einer zweistündigen Expresslieferung anzubieten, um die Kundenzufriedenheit zu optimieren.</p>\n<h2>Der Kontext, in dem die Website operiert</h2>\n<p>Der Online-Möbelmarkt erfordert stets auffällige Visualisierungen, damit Kunden Material und Oberfläche des Produkts spüren können. Die Umsetzung der Lösungen <a href=\"https://winterfrost.tech/thiet-ke-website-noi-that-chuyen-nghiep-cao-cap-va-chuan-seo-nhat\" target=\"_blank\" rel=\"noopener nofollow\">Innenarchitektur der Webseite</a> Professionalität in Kombination mit einem schnellen Zahlungsprozess hilft Unternehmen, ihren Ruf zu verbessern. Der Einsatz neuer Technologien wird Geschäftsbereiche unterstützen, den Zugang zu Partnern und Großhandelskunden in städtischen Gebieten effektiv zu beschleunigen.</p>\n<h2>Herausforderung</h2>\n<p>Vor der Partnerschaft mit Winterfrost hatte das Online-Geschäft von Virela Interior viele Schwierigkeiten aufgrund des ineffizienten Filtersystems für große Warenkategorien wie Bürotische, Spieltische und ergonomische Stühle und Betten. Die alte Website verfügte nicht über Einkaufsanregungsfunktionen wie einen Aktionstimer und intuitive Benachrichtigungen mit Rabattcodes. Langsame Seitenladezeiten aufgrund zahlreicher Produktbilder und unoptimierter Inhaltsstruktur gemäß Geokeywords in Ho-Chi-Minh-Stadt begrenzen die organischen Suchergebnisse der Seite.</p>\n<h2>Lösungen von Winterfrost</h2>\n<p>Das Expertenteam von Winterfrost hat den Nutzererfahrungsfluss neu gestaltet und das Verkaufssystem mit dem Ziel programmiert, die Konversionsraten zu optimieren.</p>\n<h3>Die Bedeutung des modernen minimalistischen Interface-Designs</h3>\n<p>Die Website verwendet Schwarz-Weißtöne und rustikales Grau auf einem hellen Hintergrund, um die Details der Holzmaterialien und Produktfarben zu würdigen. Die ordentlich angeordneten Inhaltsblöcke zeigen deutlich den Produktnamen, den Aktionspreis und Kernverpflichtungen wie zweistündige Lieferung und kostenloses Bezahlen an. Das Seitenlayout ist wissenschaftlich optimiert und entspricht den UI/UX-Standard-Interface-Regeln, um es Kunden einfacher zu machen, auf Mobilgeräten zu arbeiten.</p>\n<h3>Funktionen von Lean Shopping und Checkout-Stimulus-Funktionen</h3>\n<p>Wir haben bahnbrechende Funktionen programmiert, um die Leistung des Online-Geschäfts zu verbessern:</p>\n<ul>\n<li><b>Flash-Promotionssystem und Rabattcode-Management:</b> Bauen Sie einen Ausstellungsbereich mit Rabattcodes von bis zu 20 % und kostenlosem Versand für Bestellungen ab 1.499.000 VND, damit Kunden einfach kopieren und automatisch beim Checkout angewendet werden.</li>\n<li><b>Ein-Schritt-Checkout-Prozess:</b> Kombinieren Sie alle Schritte zum Eingeben der Versandadresse und zur Wahl der Zahlungsmethode in einer einzigen Schnittstelle, um die Zeit zum Bestellabschluss zu verkürzen.</li>\n<li><b>Multi-Tier-Produktfilteroptimierung:</b> Unterstützen Sie Kunden dabei, schnell nach Produkten nach Preis, Beinmaterial oder Merkmalen wie Faltbarkeit oder ergonomischem Design zu suchen.</li>\n<li><b>Anzeigeleistung optimieren:</b> Die Anwendung von Bildverzögerung und WebP-Bildformat reduziert die Belastung des Website-Speicherplatzes und sorgt für eine gute Kompatibilität mit schnellen Mobilfunknetzen.</li>\n</ul>\n<h3>Angewandte Programmiersprachen</h3>\n<p>Das System funktioniert stabil dank der Anwendung standardisierter Programmiertechnologien:</p>\n<ul>\n<li><b>PHP-Sprache und MySQL-Datenbank:</b> Das Toolkit verarbeitet die Datenströme des Bestellsystems, speichert Produktinformationen und verwaltet Einkaufsrabattcodes.</li>\n<li><b>HTML5-Sprache und CSS3-Format:</b> Das Werkzeug zur Einrichtung der korrekten Anzeigeseitenstruktur hilft dabei, das Bild von Bürotischen und Stühlen auf allen Bildschirmtypen immer ausgewogen und scharf zu gestalten.</li>\n<li><b>JavaScript-Sprache:</b> Das Tool übernimmt den Countdown-Effekt der Aktionszeit und unterstützt das schnelle Kopieren von Kundenrabattcodes.</li>\n<li><b>WordPress-System kombiniert mit WooCommerce:</b> Die leistungsstarke Kernplattform unterstützt Unternehmen, Lagerhäuser zu verwalten, Preislisten automatisch zu aktualisieren und den Online-Zahlungsprozess zu steuern.</li>\n</ul>\n<h2>Kundenbewertungen</h2>\n<p>Ein Vertreter von Virela Interior berichtete über die Veränderung: <i><b>\"Die neue Website, die von Winterfrost entworfen wurde, läuft sehr schnell und ist einfach zu bedienen. Kunden können nun die Spezifikationen der Tische und Stühle selbst einsehen und den Rabattcode direkt speichern, was sehr praktisch ist und uns täglich Zeit bei der Bestellung spart.\"</b></i></p>\n<h2>Tatsächliche Datenergebnisse</h2>\n<p>Das Projekt hat nach zwei Monaten Betrieb viele spezifische Messergebnisse erzielt:</p>\n<ul>\n<li>Die Seitenladezeit sank stark von 4,2 Sekunden auf nur 1,2 Sekunden, was das Sichterlebnis des Produkts flüssiger machte.</li>\n<li>Die Konversionsrate der Bestellungen auf der Website stieg um 35 % und der Online-Umsatz um 25 %.</li>\n<li>Die Zeit, die Kunden mit der Recherche von Produktinformationen auf der Website verbringen, stieg um 40 %.</li>\n<li>Die Absprungquote wird dank der minimalistischen Ein-Schritt-Kasse um 30 % reduziert.</li>\n<li>Der organische Traffic erreicht dank der Optimierung regionaler Schlüsselwörter wie Schreibtische im Bezirk Tan Binh mehr als 4000 Besuche pro Monat.</li>\n</ul>\n<h2>Fazit</h2>\n<p>Das Virela Interior-Projekt hat die Effektivität einer E-Commerce-Website bestätigt, die dem tatsächlichen Einkaufsverhalten der Kunden genau folgt. Winterfrost ist stolz darauf, technologische Lösungen anzubieten, die die Wettbewerbsfähigkeit der Partner verbessern. Möbelunternehmen können sich auf den Service beziehen <a href=\"https://winterfrost.tech/thiet-ke-website-noi-that-ngoai-that-chuan-seo-de-len-top-google\" target=\"_blank\" rel=\"noopener nofollow\">Innen- und Außendesign der Website</a> Um unsere Markenstärke im Internet zu stärken. Wir setzen uns dafür ein, stets langfristige SEO-Standards einzuhalten, um die Suchposition bei Google zu optimieren.</p>\n</div>",
+    "heights": {
+      "cta": 491.984375,
+      "header": 281.09375,
+      "latest": 1248.390625,
+      "root": 7219.1796875,
+      "showcase": 651.3203125,
+      "ui": 406.859375,
+      "wp": 3610.53125
+    }
+  },
+  "website-ceranova": {
+    "title": "Website Ceranova",
+    "date": "2026/07/18",
+    "author": "admin",
+    "description": "Das Ceranova B2B-Website-Projekt implementiert von Winterfrost: Digitalisierung des Exports von Keramikkatalogen, Optimierung der internationalen Seitenladegeschwindigkeit und Integration einer speziellen Funktion \"Request a Quote\". Die Lösung trägt dazu bei, die Angebotsrate auf den nordamerikanischen und europäischen Märkten zu erhöhen.",
+    "scope": [
+      {
+        "href": "/dich-vu/thiet-ke-website",
+        "label": "Website-Design"
+      },
+      {
+        "href": "/linh-vuc/kien-truc-xay-dung",
+        "label": "Architektur & Bau"
+      },
+      {
+        "href": "/linh-vuc/thuong-mai-dien-tu",
+        "label": "Elektronischer Handel"
+      }
+    ],
+    "liveUrl": null,
+    "desktop": [
+      "/images/projects/website-ceranova/01-anh-bia-du-an.webp?v=wf-projects-pro-20260726",
+      "/images/projects/website-ceranova/02-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+      "/images/projects/website-ceranova/03-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+      "/images/projects/website-ceranova/04-man-hinh-website.webp?v=wf-gallery-pro-20260726"
+    ],
+    "mobile": [],
+    "ui": [
+      "/images/projects/website-ceranova/01-anh-bia-du-an.webp?v=wf-projects-pro-20260726",
+      "/images/projects/website-ceranova/02-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+      "/images/projects/website-ceranova/03-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+      "/images/projects/website-ceranova/04-man-hinh-website.webp?v=wf-gallery-pro-20260726"
+    ],
+    "contentHtml": "<div class=\"content-module__ZwfD0a__wpContent\"><h2><strong>Projektübersicht</strong></h2>\n<p>Das Ceranova-Website-Projekt ist eine professionelle Online-Exportlösung, die von <a href=\"https://winterfrost.tech/\" target=\"_blank\" rel=\"noopener nofollow\">Winterfrost</a> Entwurf und Bau. Die neue digitale Plattform trägt dazu bei, den Keramikproduktkatalog aufzuwerten und ein direktes Interaktionsportal mit internationalen Großhändlern und Importpartnern aufzubauen.</p>\n<ul>\n<li><b>Industrien und Sektoren:</b> E-Commerce und Gebäudearchitektur</li>\n<li><b>Jahr der Umsetzung:</b> 2024</li>\n<li><b>Anzahl der Beschäftigten:</b> 4 Personen</li>\n<li><b>Service:</b> B2B-Produktkatalog-Website-Design</li>\n<li><b>Umsetzungszeit:</b> anderthalb Monate</li>\n<li><b>Unterstützende Werkzeuge:</b> WordPress, Katalogmodus-Quote-Modul, PHP-Sprache, Google Analytics, Rank Math.</li>\n</ul>\n<h2>Kundenempfehlung</h2>\n<p>Ceranova ist ein renommierter Hersteller und Exporteur von Kunstkeramiken, der sich auf die Lieferung hochwertiger Keramiktöpfesammlungen an internationale Großimporteure und Großhandelsagenten spezialisiert hat. Im Bereich E-Commerce und Architektur bietet das Unternehmen ein äußerst vielfältiges Produktportfolio, darunter Terrakotta-Töpfe und glasierte Glasiertöpfe sowie ultraleichte GRC-Verbundzementtöpfe. Ceranova konzentriert sich darauf, anspruchsvolle Keramikprodukte zu liefern, die strenge technische Standards erfüllen, um Schlüsselmärkte wie Nordamerika und Europa zu bedienen.</p>\n<h2>Der Kontext, in dem die Website operiert</h2>\n<p>Die Exportbranche für Kunstkeramik verlangt von der Website, hochauflösende Bilder anzuzeigen, damit ausländische Kunden die Details der Glasur und das Material des Keramiktopfes klar sehen können. Großhandelskunden haben bei der Beschaffung immer ein Suchverhalten, das auf klaren Spezifikationen basiert. Implementierung der Lösung <a href=\"https://winterfrost.tech/thiet-ke-website-gom-su-chuyen-nghiep-chuan-seo-de-len-top-google\" target=\"_blank\" rel=\"noopener nofollow\">Keramik-Website-Design</a> Die professionelle Integration des Portals zur Sammlung von Angebotsanfragen hilft Unternehmen, große Vertriebspartner weltweit effektiv zu erreichen.</p>\n<h2>Herausforderung</h2>\n<p>Vor der Partnerschaft mit Winterfrost sah sich Ceranovas Website in westlichen Ländern mit einer großen Hürde hinsichtlich der Ladezeiten von Remote-Seiten von bis zu 6,5 bis 8 Sekunden konfrontiert, was die Absprungrate drastisch erhöhte. Das unwissenschaftliche alte Keramiktöpfe-Klassifikationssystem macht es schwierig, Töpfe nach jedem Materialtyp wie Hochgebrannten Töpfen oder Poly- und Faserstein- und GRC-Verbundmaterialien nachzuschlagen. Gleichzeitig macht das Fehlen einer Wholesale-Produktgruppierungsfunktion, die Massenangebotsanfragen für einen einzelnen Container versenden kann, den Bestellabschlussprozess für die Vertriebsabteilung zeitaufwendig.</p>\n<h2>Lösungen von Winterfrost</h2>\n<p>Um die oben genannten Einschränkungen vollständig zu lösen, hat Winterfrost eine neue Struktur für die Website nach B2B-Exportstandards entworfen.</p>\n<h3>Die Bedeutung von Schnittstellendesign ehrt Produkte</h3>\n<p>Die Website-Oberfläche nutzt weißen Raum als Hauptfarbpalette, um die natürlichen Farben des Terrakotta und der charakteristischen keramischen Glasur hervorzuheben. Der dunkelrote Schriftzug wird harmonisch kombiniert, um ein rustikales, künstlerisches Gefühl zu erzeugen, das für die Keramikindustrie geeignet ist. Die Parameterblöcke sind in einer wissenschaftlichen Rasterstruktur angeordnet und entsprechen den UI/UX-Standard-Schnittstellenregeln, um internationalen Kunden zu helfen, sich auf das Produkt zu konzentrieren, ohne von grafischen Elementen abgelenkt zu werden.</p>\n<h3>Durchbruchmerkmale für das Großhandelsgeschäftsmodell</h3>\n<p>Wir haben modernste Softwaretools entwickelt, um die Abschlusseffizienz zu verbessern:</p>\n<ul>\n<li><b>B2B-Quote-Cart-System:</b> Ermöglicht es Großhändlern, Produktcodes in großen Mengen zur Angebotsliste hinzuzufügen und spezifische Mengenanfragen direkt an Ceranova zu senden.</li>\n<li><b>Optimierung der globalen Anzeigeleistung:</b> Die Kombination eines globalen Content-Delivery-Serversystems und des WebP-Bildformats, um die Bildgröße um 65 % zu reduzieren, während die Schärfe für ein reibungsloses Seitenladen in den USA und Großbritannien erhalten bleibt.</li>\n<li><b>Professionelle Produktklassifikation:</b> Stellen Sie Unterkategorien genau nach Material auf, wie zum Beispiel den Bubble Pot Keramiktopf oder den ähnlichen Stil des Glazed Pot Keramiktopfs <a href=\"https://winterfrost.tech/thiet-ke-trang-web-ban-do-gom-su-hien-dai-chuyen-nghiep-chuan-seo\" target=\"_blank\" rel=\"noopener nofollow\">Keramik-Website-Design</a> modern.</li>\n<li><b>Fortschrittliche Produktfilter:</b> Partner-Unterstützung, um Keramiktöpfe schnell nach Material, Farbe sowie rundem oder quadratischem Stil zu filtern, ohne die gesamte Website neu zu laden.</li>\n</ul>\n<h3>Angewandte Programmiersprachen</h3>\n<p>Die Website funktioniert reibungslos dank der Anwendung standardisierter Programmiersprachen:</p>\n<ul>\n<li><b>PHP-Sprache und MySQL-Datenbank:</b> Das Toolkit verarbeitet logische Berechnungen und Systemmanagement, Daten zu Tausenden exportierten Keramiktöpfen und Angebotsinformationen von Partnern.</li>\n<li><b>HTML5-Sprache und CSS3-Format:</b> Das Tool zur Einrichtung der Website-Struktur zeigt genau an und hält die Produktbilder auf jeder Bildschirmgröße scharf.</li>\n<li><b>JavaScript-Sprache und AJAX-Techniken:</b> Das Toolkit übernimmt die Interaktionen wie das Filtern von Produkten und das Hinzufügen von Pot-Codes zum Großhandelsangebots-Warenkorb nahtlos, ohne dass die gesamte Website neu geladen werden muss.</li>\n<li><b>WordPress-System:</b> Eine flexible Content-Management-Plattform erleichtert es Unternehmen, neue Kollektionen hochzuladen und die Liste der Kunden zu kontrollieren, die sie täglich kontaktieren.</li>\n</ul>\n<h2>Kundenbewertungen</h2>\n<p>Vertreter von Ceranova teilten ihre Zufriedenheit: <em><strong>\"Das Design von Winterfrost löste wirklich unser größtes Problem, nämlich die Geschwindigkeit, Bilder mit internationalen Partnern anzuzeigen. Derzeit können Importeure in den USA oder Großbritannien heranzoomen und jeden Emaille-Riss am Keramiktopf sehen, und die Website läuft immer noch sehr schnell. Der Wechsel zu einem Angebotsanfragesystem hilft unserem Vertriebsteam auch, effizienter zu arbeiten, indem es genaue und klare Anfrageinformationen von Kunden erhält, anstatt so oft E-Mails austauschen zu müssen wie zuvor.\"</strong></em></p>\n<h2>Tatsächliche Datenergebnisse</h2>\n<p>Das Projekt hat nach drei Monaten Betrieb viele beeindruckende Wachstumsindikatoren verzeichnet:</p>\n<ul>\n<li>Die Seitenladezeiten auf den US- und britischen Märkten sanken von 7 Sekunden auf 1,5 Sekunden.</li>\n<li>Die Anzahl der Formulare zur Einreichung von Angebotsanfragen von internationalen Partnern stieg um 42 %.</li>\n<li>Ein Rückgang der Absprungquote um 34 % geht einher, mit einer Erhöhung der durchschnittlichen Besuchszeit auf 4 Minuten und 12 Sekunden.</li>\n<li>Sparen Sie 15 % bei den Server-Betriebskosten durch Optimierung des Quellcodes und Reduzierung der Bildbandbreite.</li>\n<li>Die Bindungsrate der Nutzer, die auf der Seite blieben, erreichte 90 %.</li>\n<li>Die Kundenzufriedenheit mit dem Interface-Erlebnis erreichte 99 %.</li>\n</ul>\n<h2>Fazit</h2>\n<p>Das Ceranova-Website-Projekt ist ein Beweis für den Einsatz moderner Bildtechnologie zur Lösung des Problems der Online-Exporte von Unternehmen. Winterfrost ist stolz darauf, eine internationale Standardlösung für digitale Showrooms anzubieten, um das Niveau vietnamesischer Marken weltweit zu heben.&nbsp;Wir setzen uns für eine Quellcode-Struktur ein, die stets den Standards&nbsp;entspricht<span style=\"box-sizing: border-box; margin: 0px; padding: 0px;\">SEO</span>&nbsp;langfristig, um die Geschäftseffizienz zu optimieren.</p>\n</div>",
+    "heights": {
+      "cta": 491.984375,
+      "header": 239.09375,
+      "latest": 1248.390625,
+      "root": 7154.703125,
+      "showcase": 651.3203125,
+      "ui": 406.859375,
+      "wp": 3588.0546875
+    }
+  },
+  "website-rovena-travel": {
+    "title": "Webseite Rovena Travel",
+    "date": "2026/07/18",
+    "author": "admin",
+    "description": "Winterfrost löst das Geschäftsproblem für Rovena Travel: Umstrukturierung der Reisewebsite, Optimierung der Seitendownloadgeschwindigkeit auf 1,5 Sekunden und eine Steigerung des Online-Umsatzes um 40 % dank des detaillierten automatisierten Buchungsprozesses.",
+    "scope": [
+      {
+        "href": "/dich-vu/thiet-ke-website",
+        "label": "Website-Design"
+      },
+      {
+        "href": "/linh-vuc/du-lich",
+        "label": "Reisen"
+      }
+    ],
+    "liveUrl": null,
+    "desktop": [
+      "/images/projects/website-rovena-travel/01-anh-bia-du-an.webp?v=wf-projects-pro-20260726",
+      "/images/projects/website-rovena-travel/02-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+      "/images/projects/website-rovena-travel/03-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+      "/images/projects/website-rovena-travel/04-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+      "/images/projects/website-rovena-travel/05-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+      "/images/projects/website-rovena-travel/06-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+      "/images/projects/website-rovena-travel/07-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+      "/images/projects/website-rovena-travel/08-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+      "/images/projects/website-rovena-travel/09-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+      "/images/projects/website-rovena-travel/10-man-hinh-website.webp?v=wf-gallery-pro-20260726"
+    ],
+    "mobile": [],
+    "ui": [
+      "/images/projects/website-rovena-travel/01-anh-bia-du-an.webp?v=wf-projects-pro-20260726",
+      "/images/projects/website-rovena-travel/02-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+      "/images/projects/website-rovena-travel/03-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+      "/images/projects/website-rovena-travel/04-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+      "/images/projects/website-rovena-travel/05-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+      "/images/projects/website-rovena-travel/06-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+      "/images/projects/website-rovena-travel/07-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+      "/images/projects/website-rovena-travel/08-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+      "/images/projects/website-rovena-travel/09-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+      "/images/projects/website-rovena-travel/10-man-hinh-website.webp?v=wf-gallery-pro-20260726"
+    ],
+    "contentHtml": "<div class=\"content-module__ZwfD0a__wpContent\"><h2><strong>Projektübersicht</strong></h2>\n<p>Das Rovena Travel Website-Projekt ist eine professionelle E-Commerce-Lösung, die von <a href=\"https://winterfrost.tech/\" target=\"_blank\" rel=\"noopener nofollow\">Winterfrost</a>. Das neue Online-System hilft, den Buchungsprozess für Touren zu optimieren und eine Plattform zu schaffen, die eine reibungslose Big-Data-Verarbeitung ermöglicht, um den Direktvertrieb zu steigern.</p>\n<ul>\n<li><b>Industrien und Sektoren:</b> In- und Auslandsreisen</li>\n<li><b>Jahr der Umsetzung:</b> 2024</li>\n<li><b>Anzahl der Beschäftigten:</b> 4 Spezialisten</li>\n<li><b>Service:</b> Website-Design für die Buchung von Touren und Reisedienstleistungen</li>\n<li><b>Umsetzungszeit:</b> anderthalb Monate</li>\n<li><b>Unterstützende Werkzeuge:</b> WordPress, PHP-Sprache, JavaScript, Google Analytics 4, Rank Math Pro, Figma-Engine.</li>\n</ul>\n<h2>Kundenempfehlung</h2>\n<p>Rovena Travel ist ein professionelles Reisebüro, das sich auf die Bereitstellung von inländischen und internationalen Reisepaketen sowie Online-Visa- und Hotelbuchungsdienste spezialisiert hat. Im Bereich Tourismus und E-Commerce-Dienstleistungen tätig, bietet das Unternehmen eine Vielzahl von Reiserouten an, um Kunden mit perfekten Resort-Erlebnissen zu verbinden. Rovena Travel verpflichtet sich, den Buchungsprozess zu optimieren, um den Passagieren auf jeder Reise maximalen Komfort zu bieten.</p>\n<h2>Der Kontext, in dem die Website operiert</h2>\n<p>Die Online-Reisebranche verlangt von Websites, große Mengen an hochwertigen Bildern anzuzeigen, um Nutzer anzuziehen. Kunden möchten bei der Suche nach Resort-Touren immer schnell spezifische Zeitpläne einschlagen und bequeme Online-Buchungen durchführen. Die Umsetzung der Lösungen <a href=\"https://winterfrost.tech/dich-vu-thiet-ke-website-du-lich-tron-goi-gia-re-toi-uu-cho-cong-ty-lu-hanh\" target=\"_blank\" rel=\"noopener nofollow\">Paketreise-Website-Designdienste</a> Professionalität wird Reisebüros helfen, den Betriebsprozess zu digitalisieren und den Markenruf im Internet zu verbessern.</p>\n<h2>Herausforderung</h2>\n<p>Vor der Zusammenarbeit mit Winterfrost hatte die alte Website von Rovena Travel große Schwierigkeiten mit einer Ladegeschwindigkeit von mobilen Seiten von bis zu 7,5 Sekunden, was zu einer hohen Absprungrate von 68 % führte. Der Buchungsprozess der Tour ist durch viele Zwischenschritte kompliziert, sodass die Verlassensquote des Einkaufswagens beim Ausfüllen des Formulars auf bis zu 75 % erhöht. Darüber hinaus führt das manuelle Aktualisieren der Anzahl der freien Stellen während der Hochsaison zu Überfüllung und verlangsamt die Reaktionsgeschwindigkeit auf Informationen an Kunden.</p>\n<h2>Lösungen von Winterfrost</h2>\n<p>Winterfrost setzte fortschrittliche Programmierungstechniken ein, um das neue Website-System für Rovena Travel neu aufzubauen.</p>\n<h3>Bedeutung des inhaltszentrierten Interface-Designs</h3>\n<p>Die Website verwendet Weißraum als Hauptfarbe in Harmonie mit Blau-, Grün- und warmen Gelbtönen, um Vertrauen zu wecken. Wichtige Informationen zu Tourkosten und Transport sind deutlich fett gedruckt, damit die Besucher die Informationen leicht verstehen können. Das Layout hält sich strikt an die Regeln der Standard-UI/UX-Oberfläche für eine optimale Darstellung auf dem vertikalen Bildschirm mobiler Geräte.</p>\n<h3>Digitalisieren Sie den Servicebuchungsprozess und automatisieren Sie die Datensynchronisation</h3>\n<p>Wir haben intelligente Feature-Module programmiert, um den Geschäftsprozess abzuschließen:</p>\n<ul>\n<li><b>Vereinfachen Sie den Buchungsprozess:</b> Vereinfachen Sie die Schritte zur Buchung einer Tour auf drei Schritte: Von der Wahl von Datum und Anzahl der Mitglieder über das Einfüllen grundlegender Informationen bis hin zur Bezahlung über das VNPay-Portal oder die Kreditkarte.</li>\n<li><b>Automatische Verfügbarkeitsupdates:</b> Entwickeln Sie ein administratives Modul, das tatsächliche Daten verbindet, um automatisch die Anzahl der auf der Kundenoberfläche angezeigten Lücken abzuziehen, sobald eine erfolgreiche Transaktion erfolgt.</li>\n<li><b>Optimierung der hochwertigen Bildanzeige:</b> Manuelle Frontend-Programmierung kombiniert Bildladeverzögerung und Konvertierung ins WebP-Bildformat, um die Seitenladekapazität um 60 % zu reduzieren und dabei die Schärfe zu erhalten.</li>\n<li><b>Smart Tour-Filter:</b> Die Programmierung einer Datenverbindungslösung, die die Seite nicht neu laden muss, unterstützt die Nutzer, Ergebnisse schnell nach Preis und Ziel mit einer Geschwindigkeit von weniger als 0,5 Sekunden zu filtern.</li>\n</ul>\n<h3>Angewandte Programmiersprachen</h3>\n<p>Das System funktioniert nachhaltig dank der Anwendung moderner Softwaresprachen:</p>\n<ul>\n<li><b>PHP-Sprache:</b> Das serverseitige Logikverarbeitungstool hilft dabei, Tourbuchungsdaten zu verwalten, Kosten entsprechend der Anzahl der Fahrgäste zu berechnen und die Datenbank zu synchronisieren.</li>\n<li><b>JavaScript-Sprache und AJAX-Techniken:</b> Das Toolkit übernimmt interaktive Aktivitäten wie intelligente Filter und die Validierung von Formulardaten direkt im Browser.</li>\n<li><b>HTML5-Sprache und CSS3-Format:</b> Das Tool rahmt die optimale Datenstruktur, natürliche Suche und erzeugt flüssige Bewegungseffekte, passt sich über Geräte hinweg an.</li>\n<li><b>WordPress-System:</b> Die stark verfeinerte Content-Management-Plattform unterstützt die Einrichtung separater Kategorien für Reise- und Hotelinformationen sowie Visadienstleistungen.</li>\n</ul>\n<h2>Kundenbewertungen</h2>\n<p>Der Vertreter von Rovena Travel äußerte seine Freude: <i><b>\"Die technologische Begleitung von Winterfrost hat die Effizienz unseres Online-Geschäfts komplett verändert. Die Benutzeroberfläche ist nicht nur schön und dem Tourismus treu, sondern das Wichtigste ist, dass die Website sehr reibungslos läuft und Kunden dabei unterstützt, Touren zu buchen und zu bezahlen, was den Online-Umsatz um 40 % steigert.\"</b></i></p>\n<h2>Tatsächliche Datenergebnisse</h2>\n<p>Das Projekt hat nach drei Monaten Betrieb einen starken Durchbruch bei den Geschäftsindikatoren gebracht:</p>\n<ul>\n<li>Die Seitenladegeschwindigkeit sank von 7,5 Sekunden auf nur 1,5 Sekunden, um das Nutzererlebnis zu verbessern.</li>\n<li>Die Absprungquote sank von 68 % auf 35 % mit einer Erhöhung der durchschnittlichen Besuchszeit auf 4 Minuten und 20 Sekunden.</li>\n<li>Die Wagen-Verlassensquote im Füllschritt wird um 45 % gesenkt, was zur Optimierung des Verkaufstrichters beiträgt.</li>\n<li>Die Umwandlungsrate der Online-Tourbuchungen stieg von 0,8 % auf 3,2 %.</li>\n<li>Ein 1,5-facher Anstieg des organischen Traffics geht mit einer Reduzierung der manuellen Bearbeitungszeit des Beraters um 30 % einher.</li>\n</ul>\n<h2>Fazit</h2>\n<p>Das Kooperationsprojekt mit Rovena Travel bestätigt die herausragenden Fähigkeiten von Winterfrost im Bereich von <a href=\"https://winterfrost.tech/thiet-ke-website-du-lich-uy-tin-chuyen-nghiep\" target=\"_blank\" rel=\"noopener nofollow\">Design von Reise-Webseiten</a> Hohe Qualität. Die Beseitigung von Geschwindigkeitsengpässen und die Integration der sicheren Tourbuchungsfunktion haben Rovena Travel geholfen, den Reiseservice-Prozess erfolgreich zu digitalisieren. Unternehmen, die ihre Online-Vertriebskanäle verbessern möchten, können sich über unsere Lösungen oder Dienstleistungen informieren <a href=\"https://winterfrost.tech/thiet-ke-web-app-du-lich-giai-phap-booking-tour-va-khach-san-chuyen-nghiep\" target=\"_blank\" rel=\"noopener nofollow\">Reise-App-Webdesign</a> Professionell, um damit zu beginnen, Einnahmen zu erzielen.</p>\n<p>Erfahren Sie mehr über <a href=\"https://winterfrost.tech/case-studies\" target=\"_blank\" rel=\"noopener nofollow\"><strong>Winterfrost-Projekte</strong></a></p>\n</div>",
+    "heights": {
+      "cta": 491.984375,
+      "header": 281.09375,
+      "latest": 1248.390625,
+      "root": 7143.0625,
+      "showcase": 651.3203125,
+      "ui": 406.859375,
+      "wp": 3534.4140625
+    }
+  },
+  "website-zenovia-retail": {
+    "title": "Webseite Zenovia Retail",
+    "date": "2026/07/18",
+    "author": "admin",
+    "description": "Zenovia-Website-Designprojekt umgesetzt von Winterfrost: Optimierung der Benutzeroberfläche, Integration intuitiver PPF-Simulation und Agentenportal, um den Umsatz zu steigern und die Anzahl der registrierten Partner um 60 % zu erhöhen.",
+    "scope": [
+      {
+        "href": "/dich-vu/thiet-ke-website",
+        "label": "Website-Design"
+      },
+      {
+        "href": "/linh-vuc/ban-le",
+        "label": "Einzelhandel"
+      },
+      {
+        "href": "/linh-vuc/chuoi-cung-ung",
+        "label": "Lieferkette"
+      }
+    ],
+    "liveUrl": null,
+    "desktop": [
+      "/images/projects/website-zenovia-retail/01-anh-bia-du-an.webp?v=wf-projects-pro-20260726",
+      "/images/projects/website-zenovia-retail/02-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+      "/images/projects/website-zenovia-retail/03-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+      "/images/projects/website-zenovia-retail/04-man-hinh-website.webp?v=wf-gallery-pro-20260726"
+    ],
+    "mobile": [
+      "/images/projects/website-zenovia-retail/01-anh-bia-du-an.webp?v=wf-projects-pro-20260726",
+      "/images/projects/website-zenovia-retail/02-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+      "/images/projects/website-zenovia-retail/03-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+      "/images/projects/website-zenovia-retail/04-man-hinh-website.webp?v=wf-gallery-pro-20260726"
+    ],
+    "ui": [
+      "/images/projects/website-zenovia-retail/01-anh-bia-du-an.webp?v=wf-projects-pro-20260726",
+      "/images/projects/website-zenovia-retail/02-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+      "/images/projects/website-zenovia-retail/03-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+      "/images/projects/website-zenovia-retail/04-man-hinh-website.webp?v=wf-gallery-pro-20260726"
+    ],
+    "articleMedia": [
+      {
+        "kind": "brandMockup",
+        "beforeHeading": "Kundenempfehlung",
+        "backgroundSrc": "/images/projects/website-zenovia-retail/00-mockup-brand-context.jpg",
+        "logoSrc": "/images/brand/winterfrost/winterfrost-wordmark.png",
+        "screenSrc": "/images/projects/website-zenovia-retail/01-anh-bia-du-an.webp?v=wf-projects-pro-20260726",
+        "alt": "Zenovia Retail-Website-Projekt-Mockup erstellt von Winterfrost"
+      },
+      {
+        "kind": "Projekt",
+        "beforeHeading": "Lösungen von Winterfrost",
+        "src": "/images/projects/website-zenovia-retail/02-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+        "width": 984,
+        "height": 555,
+        "alt": "PPF-Schnittstelle der Zenovia Retail-Website"
+      },
+      {
+        "kind": "Projekt",
+        "beforeHeading": "Kundenbewertungen",
+        "src": "/images/projects/website-zenovia-retail/03-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+        "width": 984,
+        "height": 555,
+        "alt": "Startseite der Zenovia Retail-Website"
+      },
+      {
+        "kind": "Projekt",
+        "beforeHeading": "Fazit",
+        "src": "/images/projects/website-zenovia-retail/04-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+        "width": 1000,
+        "height": 563.4765625,
+        "alt": "Ergebnisse der Zenovia Retail-Website-Oberfläche"
+      }
+    ],
+    "contentHtml": "<div class=\"content-module__ZwfD0a__wpContent\"><h2><strong>Projektübersicht</strong></h2>\n<p>Das Zenovia Retail-Website-Projekt ist eine E-Commerce-Lösung und eine Einführung in professionelle Dienstleistungen, entwickelt von <a href=\"https://winterfrost.tech/\" target=\"_blank\" rel=\"noopener nofollow\">Winterfrost</a> Design und Programmierung. Das neue System hilft Unternehmen, hochwertige Marken für Autolackschutzfolien zu positionieren und ein effektives Vertriebsagentennetzwerk aufzubauen.</p>\n<ul>\n<li><b>Industrien und Sektoren:</b> Einzelhandel und Lieferkette von Kfz-Schutzausrüstung</li>\n<li><b>Jahr der Umsetzung:</b> 2024</li>\n<li><b>Anzahl der Beschäftigten:</b> 4 Personen</li>\n<li><b>Service:</b> Produkteinführung, Geschäftswebdesign</li>\n<li><b>Umsetzungszeit:</b> 1 Monat</li>\n<li><b>Unterstützende Werkzeuge:</b> WordPress, PHP-Sprache, JavaScript-Sprache, Google Analytics, Rank Math, Google Search Console.</li>\n</ul>\n<h2>Kundenempfehlung</h2>\n<p>Zenovia ist eine renommierte Marke, die sich auf die Lieferung von Hightech-Lackschutzfolien aus hochwertigen TPU-Kunststoffmaterialien auf dem vietnamesischen Markt spezialisiert hat. Das Unternehmen ist im Einzelhandel und in der Lieferkette von Autoschutzprodukten tätig und vertreibt spezialisierte Produktlinien für Kratzschutzfolien, darunter transparente und Schleiffolien sowie Farbwechselfolien für Autolacke. Zenovia verpflichtet sich, die ultimative Schutzlösung zu bieten, die die Schönheit und Langlebigkeit des Originallacks für Fahrzeuge bewahrt.</p>\n<h2>Der Kontext, in dem die Website operiert</h2>\n<p>Die Branche, die Fahrzeugschutzzubehör und kratzfeste Filme liefert, verlangt von Unternehmen, die Qualität der Materialien und die Haltbarkeitsindikatoren ihrer Produkte visuell darzustellen. Die Einrichtung eines transparenten Online-Datensystems in Kombination mit einer organischen Suchmarketingstrategie wird Unternehmen helfen, ihren Ruf zu verbessern. Diensteinsatz <a href=\"https://winterfrost.tech/dich-vu-thiet-ke-website-ban-phu-kien-o-to-do-choi-xe-hoi-chuyen-nghiep\" target=\"_blank\" rel=\"noopener nofollow\">Website-Design zum Verkauf von Autozubehör</a> SEO-Standards schaffen einen herausragenden Wettbewerbsvorteil, um schnell mit einem Netzwerk professioneller Baumakler in Kontakt zu treten.</p>\n<h2>Herausforderung</h2>\n<p>Vor der Zusammenarbeit mit Winterfrost hatte die alte Website von Zenovia Retail aufgrund der transparenten Spezifität des Films viele Schwierigkeiten bei der Präsentation von Produkten. Die Seitenoberfläche verwendet ausschließlich statische Bilder, was es den Kunden erschwert, Produktlinien zu unterscheiden, wodurch die Absprungrate im Produktkatalog um bis zu 72 % steigt. Agentenrabattrichtlinien und technische Schulungen verfügen nicht über eine separate spezialisierte Seite, was dazu führt, dass der Prozess der Unterstützung von Partnern manuell gehandhabt wird, was zu hohen Betriebskosten führt. Langsame Seitenladezeiten aufgrund unoptimierter Bilder großer Autos und alter Quellcode-Strukturen schränken das SEO-Ranking von Websites bei Google ein.</p>\n<h2>Lösungen von Winterfrost</h2>\n<p>Das Expertenteam von Winterfrost hat den gesamten Nutzererfahrungsfluss neu gestaltet und spezialisierte interaktive Funktionen für Zenovia Retail programmiert.</p>\n<h3>Bedeutung minimalistischer Kontrast-Schnittstellen-Designs</h3>\n<p>Die Website verfolgt einen minimalistischen Stil, um die Spezifikationen und tatsächlichen Bilder des Films hervorzuheben. Als Hauptfarben werden dunkles Schwarz und Anthrazitgrau gewählt, um maximalen Kontrast zu erzeugen, der die 99%ige Transparenz des Produkts betont. Wichtige Aktionsköpfe wie Produktansicht oder Händlerregistrierung sind deutlich farblich abgestimmt, um das Handeln der Nutzer zu steuern. Das Datenlayout ist in einer Gitterstruktur organisiert, um Informationen kohärent darzustellen und den Standardregeln der UI/UX-Schnittstelle auf jedem mobilen Gerät zu entsprechen.</p>\n<h3>Einzigartige interaktive Funktionen und Digitalisierung von Partnerprozessen</h3>\n<p>Wir haben herausragende Feature-Module entwickelt, um den Wert des Erlebnisses zu steigern:</p>\n<ul>\n<li><b>Vergleichstool vor und nach dem Bau:</b> Die direkte Vergleichs-Schieberegler-Programmierung hilft den Nutzern, die Maus zu ziehen, um vor und nach dem Auftragen der Schutzfolie den Unterschied in der Lackoberfläche des Autos klar zu erkennen.</li>\n<li><b>Materialoberflächensimulator:</b> Ermöglicht es Kunden, glänzende oder geschliffene Filmlinien und farbwechselnde Filme auszuwählen, um den simulierten Reflexionseffekt direkt am Fahrzeugmodell zu sehen.</li>\n<li><b>Positionierungssystem der Baustelle:</b> Die Integration smarter Kartendaten erleichtert es Einzelhandelskunden, Kontaktinformationen und Wegbeschreibungen zu den nächstgelegenen drei Agenten entsprechend ihrem physischen Standort abzurufen.</li>\n<li><b>Automatisiertes Partnerportal:</b> Bauen Sie ein automatisches Agentenregistrierungsmodul, um Partnerinformationen nach geografischen Regionen wie Long An, Hanoi und Ho-Chi-Minh-Stadt zu klassifizieren.</li>\n</ul>\n<h3>Angewandte Programmiersprachen</h3>\n<p>Das System funktioniert dank der Kombination moderner Softwaresprachen reibungslos:</p>\n<ul>\n<li><b>PHP-Sprache:</b> Das Hauptwerkzeug läuft auf dem Server, der Agentenregistrierungsformularinformationen verarbeitet und die Daten automatisch an das Management-E-Mail-System weiterleitet.</li>\n<li><b>JavaScript-Sprache:</b> Das Tool übernimmt flüssige Browserinteraktionen, einschließlich eines Schiebereglers zum Vergleich von Bildern davor und danach sowie eines Moduls zur Materialoberflächensimulation.</li>\n<li><b>HTML5-Sprache und CSS3-Format:</b> Das Toolkit baut die Struktur auf und gestaltet den Interface-Stil, sodass die Website auf allen Bildschirmtypen scharf dargestellt wird.</li>\n<li><b>MySQL Datenbankverwaltungssystem:</b> Das Datenbanksystem wird verwendet, um Produktinformationen und Netzwerkdaten der Vertriebspartner sicher zu speichern.</li>\n<li><b>WordPress-System:</b> Die Content-Management-Plattform hilft Unternehmen, die Liste der Bauprojekte einfach zu aktualisieren und Produktspezifikationen anzupassen.</li>\n</ul>\n<h2>Kundenbewertungen</h2>\n<p>Vertreter von Zenovia Retail Vietnam drückten ihr Vertrauen aus: <i><b>\"Das neue Website-System, das von Winterfrost entwickelt wurde, hat die Engpässe in unserem Betrieb präzise gelöst. Kunden können die Qualität des visuellen Aufklebers direkt auf ihren Handys spüren, und die Anzahl der Agentenregistrierungen ist enorm gestiegen.\"</b></i></p>\n<h2>Tatsächliche Datenergebnisse</h2>\n<p>Das Projekt hat nach drei Monaten Betrieb viele bedeutende Verbesserungen verzeichnet:</p>\n<ul>\n<li>Die Seitenladezeit sank von 6,8 Sekunden auf nur noch 1,2 Sekunden.</li>\n<li>Die Seitenlade-Performance erreichte 94 Punkte auf einer Skala von 100 für mobile Plattformen.</li>\n<li>Die Absprungquote der Nutzer sank von 72 % auf 34 %.</li>\n<li>Der Anteil der Partner, die das Registrierungsformular als Vertriebsagent ausfüllten, stieg um 60 %.</li>\n<li>Ein Anstieg des organischen Traffics um 35 % spart 30 % des Werbebudgets eines Unternehmens.</li>\n<li>40 % kürzung der Zeit, die für die Bearbeitung von Anrufen bei grundlegenden Informationsanfragen der Beratungsabteilung benötigt wird.</li>\n<li>Die Rendite des Website-Projekts erreichte im ersten Quartal 15 %.</li>\n</ul>\n<h2>Fazit</h2>\n<p>Das Website-Entwicklungsprojekt für die Marke Zenovia Retail Vietnam ist ein Beweis für den Einsatz visueller Technologien und Optimierung digitaler Infrastruktur zur Lösung des Umsatzproblems. Partner, die in der Lack- oder Beschichtungsvertriebsbranche tätig sind, können sich auf zusätzliche Dienstleistungen beziehen <a href=\"/thiet-ke-website-garage-sua-chua-o-to-xe-may-chuyen-nghiep\" target=\"_blank\" rel=\"noopener\">Design der Website der Autogarage</a>&nbsp;um unsere Geschäftsstärke zu stärken. Winterfrost verpflichtet sich, Lösungen zu programmieren, die stets langfristigen SEO-Standarddatenstrukturen entsprechen, um die Markenpräsenz bei Google zu optimieren.</p>\n<p>Sie können außerdem sehen: <a href=\"https://winterfrost.tech/case-studies\" target=\"_blank\" rel=\"noopener nofollow\"><strong>Typische Projekte von Winterfrost</strong></a></p>\n</div>",
+    "heights": {
+      "cta": 491.984375,
+      "header": 239.09375,
+      "latest": 1248.390625,
+      "root": 7336.2109375,
+      "showcase": 651.3203125,
+      "ui": 406.859375,
+      "wp": 3769.5625
+    }
+  },
+  "website-veloura-nails": {
+    "title": "Webseite Veloura Nails",
+    "date": "2026/07/17",
+    "author": "admin",
+    "description": "Die von Winterfrost bereitgestellte Website Veloura Nails integriert ein automatisches Terminplanungssystem, das lokale SEO optimiert, um den Umsatz zu steigern und die Zeit für manuelle Anrufe zu reduzieren.",
+    "scope": [
+      {
+        "href": "/dich-vu/thiet-ke-website",
+        "label": "Website-Design"
+      },
+      {
+        "href": "/linh-vuc/ban-le",
+        "label": "Einzelhandel"
+      }
+    ],
+    "liveUrl": null,
+    "desktop": [
+      "/images/projects/website-veloura-nails/01-anh-bia-du-an.webp?v=wf-projects-pro-20260726",
+      "/images/projects/website-veloura-nails/02-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+      "/images/projects/website-veloura-nails/03-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+      "/images/projects/website-veloura-nails/04-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+      "/images/projects/website-veloura-nails/05-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+      "/images/projects/website-veloura-nails/06-man-hinh-website.webp?v=wf-gallery-pro-20260726"
+    ],
+    "mobile": [
+      "/images/projects/website-veloura-nails/07-man-hinh-mobile.webp?v=wf-gallery-pro-20260726",
+      "/images/projects/website-veloura-nails/08-man-hinh-mobile.webp?v=wf-gallery-pro-20260726",
+      "/images/projects/website-veloura-nails/09-man-hinh-mobile.webp?v=wf-gallery-pro-20260726",
+      "/images/projects/website-veloura-nails/10-man-hinh-mobile.webp?v=wf-gallery-pro-20260726",
+      "/images/projects/website-veloura-nails/11-man-hinh-mobile.webp?v=wf-gallery-pro-20260726",
+      "/images/projects/website-veloura-nails/12-man-hinh-mobile.webp?v=wf-gallery-pro-20260726"
+    ],
+    "ui": [
+      "/images/projects/website-veloura-nails/01-anh-bia-du-an.webp?v=wf-projects-pro-20260726",
+      "/images/projects/website-veloura-nails/02-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+      "/images/projects/website-veloura-nails/03-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+      "/images/projects/website-veloura-nails/04-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+      "/images/projects/website-veloura-nails/05-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+      "/images/projects/website-veloura-nails/06-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+      "/images/projects/website-veloura-nails/07-man-hinh-mobile.webp?v=wf-gallery-pro-20260726",
+      "/images/projects/website-veloura-nails/08-man-hinh-mobile.webp?v=wf-gallery-pro-20260726",
+      "/images/projects/website-veloura-nails/09-man-hinh-mobile.webp?v=wf-gallery-pro-20260726",
+      "/images/projects/website-veloura-nails/10-man-hinh-mobile.webp?v=wf-gallery-pro-20260726",
+      "/images/projects/website-veloura-nails/11-man-hinh-mobile.webp?v=wf-gallery-pro-20260726",
+      "/images/projects/website-veloura-nails/12-man-hinh-mobile.webp?v=wf-gallery-pro-20260726"
+    ],
+    "contentHtml": "<div class=\"content-module__ZwfD0a__wpContent\"><h2 data-path-to-node=\"2\"><strong>Projektübersicht</strong></h2>\n<p data-path-to-node=\"3\">Das Webseitenprojekt von Veloura Nails ist <a href=\"https://winterfrost.tech/\" target=\"_blank\" rel=\"noopener nofollow\">Winterfrost</a> Umgesetzt mit dem Ziel einer umfassenden digitalen Transformation des Geschäftsmodells für Schönheitsdienstleistungen. Veloura Nails ist eine Marke, die Nagelpflege- und Spa-Dienstleistungen im hochwertigen Segment anbietet. Die Website wurde als automatisiertes Online-Terminbuchungssystem und als Kanal zur Präsentation professioneller Nageldesigns konzipiert. Das Kernziel des Projekts ist es, den Kundenbuchungsprozess zu optimieren, die manuelle Arbeitsbelastung für das Salonpersonal zu reduzieren, die Möglichkeit, lokale Kunden durch SEO zu erreichen, zu verbessern und direkt den Umsatz über die Online-Plattform zu generieren.</p>\n<ul>\n<li data-path-to-node=\"4,0,0\"><b data-path-to-node=\"4,0,0\" data-index-in-node=\"0\">Branche/Fach:</b> <a href=\"https://winterfrost.tech/website-cho-nganh-lam-dep-trai-nghiem-cao-cap\" target=\"_blank\" rel=\"noopener nofollow\">Schönheitsdienste</a></li>\n<li data-path-to-node=\"4,1,0\"><b data-path-to-node=\"4,1,0\" data-index-in-node=\"0\">Jahr der Umsetzung:</b> 2025</li>\n<li data-path-to-node=\"4,2,0\"><b data-path-to-node=\"4,2,0\" data-index-in-node=\"0\">Anzahl der Beschäftigten:</b> 4</li>\n<li data-path-to-node=\"4,3,0\"><b data-path-to-node=\"4,3,0\" data-index-in-node=\"0\">Service:</b> Website-Design</li>\n<li data-path-to-node=\"4,3,0\"><b data-path-to-node=\"4,4,0\" data-index-in-node=\"0\">Umsetzungszeit:</b> 1 Monat</li>\n<li data-path-to-node=\"4,5,0\"><b data-path-to-node=\"4,5,0\" data-index-in-node=\"0\">Unterstützende Werkzeuge:</b> WordPress, PHP, MySQL, Google Search Console, Google Analytics, lokales SEO-Schema, Buchungs-API.</li>\n</ul>\n<p>Sie können außerdem sehen: <a href=\"https://winterfrost.tech/thiet-ke-website-nails-chuyen-nghiep-hien-dai-uy-tin\" target=\"_blank\" rel=\"noopener nofollow\"><strong>Modernes Nagel-Website-Design</strong></a></p>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-full wp-image-80263\" src=\"/images/projects/website-veloura-nails/brand/wordmark.png\" alt=\"Veloura Nails - logo\" width=\"1600\" height=\"900\" title=\"\" srcset=\"/images/projects/website-veloura-nails/brand/wordmark.png 1600w, /images/projects/website-veloura-nails/brand/wordmark.png 300w, /images/projects/website-veloura-nails/brand/wordmark.png 1024w, /images/projects/website-veloura-nails/brand/wordmark.png 768w, /images/projects/website-veloura-nails/brand/wordmark.png 1536w\" sizes=\"auto, (max-width: 1600px) 100vw, 1600px\"></p>\n<h2>Kundenempfehlung</h2>\n<p>Veloura Nails ist eine Marke, die Nagelpflege- und Spa-Dienstleistungen im High-End-Segment anbietet. Der Salon hat sich zum Ziel gesetzt, der lokalen Kundschaft ein hochwertiges Schönheitserlebnis zu bieten.</p>\n<h2>Marktkontext</h2>\n<p>Die Schönheitsbranche erfordert heute maximale Bequemlichkeit für Kunden. Verbraucher neigen zunehmend dazu, online Termine zu suchen und zu buchen, anstatt im Salon anzurufen oder zu warten. Der Wettbewerb in der Region ist enorm, was von Marken erfordert, prominent in den Google-Suchergebnissen zu erscheinen und einen schnellen Abschlussprozess anzubieten.</p>\n<h2>Herausforderung</h2>\n<p>Vor der Partnerschaft mit Winterfrost stand Veloura Nails vor erheblichen operativen und umsatzbedingten Problemen. Der Prozess der Buchung per Telefon und SMS ist für die Mitarbeiter zeitaufwendig und zeitlich fehleranfällig. Das Fehlen eines Erinnerungssystems führt zu einer hohen Rate von Kunden, die ihre Kalender vergessen. Der alte Online-Kanal zeigte ein verspätetes Bild, keine klare Preisliste und wurde vollständig auf der regionalen Google-Suchseite untergetaucht, wodurch viele potenzielle Kunden verloren gingen.</p>\n<h2>Lösungen von Winterfrost</h2>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-full\" src=\"/images/projects/website-veloura-nails/03-man-hinh-website.webp?v=wf-gallery-pro-20260726\" alt=\"Giao diện dịch vụ Veloura Nails\" width=\"1880\" height=\"836\"></p>\n<h3>Elegantes und intuitives Interface-Design</h3>\n<p>Die Benutzeroberfläche wird von Weiß- und Beigetönen dominiert, um ein sauberes und hochwertiges Gefühl zu erzeugen. Das Layout ist in Raster unterteilt, um scharfe Nageldesigns zu zeigen. Dieses Design, kombiniert mit auffälligen Planungsbuttons, hilft den Kunden, schnell zu einer Entscheidung zur Nutzung des Dienstes zu führen.</p>\n<h3>Ein umfassendes automatisiertes Planungssystem aufbauen</h3>\n<p>Das Winterfrost-Team erstellt ein Formular, das es Kunden ermöglicht, ihre eigenen Dienstleistungen auszuwählen, ihre Lieblingsmitarbeiter und ihre Freizeit sofort zu wählen. Wenn ein Kunde das Datum auf dem Formular ändert, erscheinen die verfügbaren Zeitfenster sofort, ohne die Seite neu laden zu müssen. Diese Funktion verbindet sich direkt mit dem Datensystem des Salons, um doppelte Kalender zu vermeiden, und sendet automatisch Bestätigungsnachrichten an Kunden.</p>\n<h3>Anwendung moderner Technologie</h3>\n<p>Die Website basiert auf einem intelligenten Managementsystem, das Geschäftsinhabern hilft, Dienstleistungen einfach zu aktualisieren und Termine ohne technische Kenntnisse zu kontrollieren. Die gesamte Benutzeroberfläche ist intuitiv gestaltet, um sicherzustellen, dass die Bilder scharf dargestellt werden und die Swipes und Taps auf jedem mobilen Gerät äußerst reibungslos ablaufen. Die Plattformdaten sind zudem maximal optimiert, um die Seitenladegeschwindigkeit stets hoch zu halten und den Kunden den sichersten und reibungslosesten Terminierungsprozess zu ermöglichen.</p>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-full\" src=\"/images/projects/website-veloura-nails/06-man-hinh-website.webp?v=wf-gallery-pro-20260726\" alt=\"Giao diện sản phẩm Veloura Nails\" width=\"1890\" height=\"832\"></p>\n<h2>Durchbruchsergebnisse und geschäftliche Auswirkungen</h2>\n<p>Das neue System dient als Betriebsmanagement-Werkzeug, das täglich kontinuierlich betrieben wird. Das Personal an der Rezeption ist freihändig und konzentriert sich ausschließlich auf den Kundenservice im Salon, anstatt ständig am Telefon zu sein. Technologieprodukte von Winterfrost bringen bereits nach nur zwei Monaten Implementierung eine stabile Besucherzahl mit tatsächlichen Wachstumsindikatoren:</p>\n<ul>\n<li>30 % Steigerung der Konversionsraten und des Umsatzes durch neue Kunden, die über Google suchen.</li>\n<li>80 % Anstieg der Klicks aus lokalen Suchergebnissen.</li>\n<li>Die Seitenladegeschwindigkeit erreichte 1,1 Sekunden im Vergleich zu den ursprünglichen 4,2 Sekunden.</li>\n<li>40 % Reduzierung der Anzahl der Anrufe mit Preisanfragen und manueller Terminplanung.</li>\n<li>Dank der automatischen Nachrichtenfunktion um 15 % sinken Sie die Zahl der Kunden, die Termine nicht vereinbaren.</li>\n</ul>\n<h2>Kundenbewertungen</h2>\n<p>Ein Vertreter von Veloura Nails teilte mit: <em><strong>\"Die von Winterfrost bereitgestellte technologische Lösung hat unsere Arbeitsweise grundlegend verändert. Das neue Website-System präsentiert den Service nicht nur professionell, sondern fungiert auch als digitaler Manager. Kunden legen den Zeitplan selbst fest, das System regelt es selbst, wir sparen viel manuelle Bearbeitungszeit. Die Wachstumszahlen bei neuen Kunden und Online-Buchungsraten haben die praktische Wirksamkeit dieses Projekts bewiesen.\"</strong></em></p>\n<p>Siehe auch: <a href=\"https://winterfrost.tech/chi-phi-thiet-ke-website-chuyen-nghiep\" target=\"_blank\" rel=\"noopener nofollow\"><strong>Die Kosten für professionelles Website-Design</strong></a></p>\n<h2 data-path-to-node=\"25\"><strong>Fazit</strong></h2>\n<p data-path-to-node=\"26\">Das von Winterfrost umgesetzte Webprojekt Veloura Nails ist ein konkretes Beispiel dafür, wie Technologielösungen direkt auf lokale Service-Geschäftsmodelle angewendet werden, um operative und Wachstumsprobleme zu lösen. Durch die Gestaltung der Benutzeroberfläche nach den UI/UX-Standards der Beauty-Industrie, die Integration von Tools zur Automatisierung des Buchungsprozesses und die Optimierung technischer SEO hat die Website erfolgreich die Rolle erfüllt, neue Kunden anzuziehen und den Umsatz zu steigern. Transparente quantitative Messindikatoren bestätigen die Wirksamkeit der Umsetzungsstrategie und schaffen eine solide technische Grundlage für Veloura Nails, um seinen Marktanteil in der Region weiter auszubauen.</p>\n</div>",
+    "heights": {
+      "cta": 491.984375,
+      "header": 281.09375,
+      "latest": 1248.390625,
+      "root": 8612.546875,
+      "showcase": 651.3203125,
+      "ui": 406.859375,
+      "wp": 5003.8984375
+    }
+  }
+}

@@ -1,0 +1,417 @@
+{
+  "slug": "van-hanh-va-bao-tri",
+  "metaTitle": "Dịch vụ vận hành và bảo trì - Winterfrost",
+  "hero": {
+    "titleDark": "và bảo trì",
+    "titleLight": "Dịch vụ vận hành",
+    "lightFirst": true,
+    "description": "Đảm bảo sự hiện diện trực tuyến không gián đoạn cho website, mobile app và hệ thống phần mềm của bạn. Winterfrost ứng dụng công nghệ giám sát tự động giúp duy trì hiệu suất đỉnh cao, bảo mật đa lớp và thích ứng tức thì với các thay đổi công nghệ, giúp doanh nghiệp an tâm tăng trưởng.",
+    "bgImage": "",
+    "dashboardImage": "",
+    "carousel": {
+      "arcText": "An toàn ✦ Tin cậy ✦ Vận hành 24/7 ✦",
+      "images": [
+        "/images/migrated/homenest-software/wp-content/uploads/2026/04/Software-Maintenance-Support-header.jpg",
+        "/images/migrated/homenest-software/wp-content/uploads/2026/04/Software-Maintenance-Support-header2.jpg",
+        "/images/migrated/homenest-software/wp-content/uploads/2026/04/Software-Maintenance-Support-header3.jpg"
+      ]
+    }
+  },
+  "features": {
+    "headlineLight": "Giải pháp vận hành và bảo trì hệ thống chuyên dụng",
+    "headlineDark": "",
+    "description": "Thực hiện các hoạt động kỹ thuật để đảm bảo Website, Mobile App và hệ thống AI luôn hoạt động ở hiệu suất tối đa, bảo vệ dữ liệu và giữ cho hệ thống phần mềm hoạt động ở trạng thái tốt nhất.",
+    "ctaLabel": "Trao đổi về dự án",
+    "ctaHref": "/lien-he",
+    "items": [
+      {
+        "title": "Khắc phục sự cố & xử lý lỗi",
+        "desc": "Giám sát và xử lý tức thì các sự cố kỹ thuật trên Website và App, đảm bảo hành trình trải nghiệm của khách hàng không bao giờ bị gián đoạn.",
+        "image": "/images/migrated/homenest-software/wp-content/uploads/2026/03/Corrective-Maintenance-Bug-Resolution.jpg"
+      },
+      {
+        "title": "Bảo trì bảo mật thường xuyên",
+        "desc": "Cập nhật định kỳ các bản vá an ninh và chứng chỉ SSL. Chủ động ngăn chặn xâm nhập trái phép, bảo vệ tuyệt đối dữ liệu doanh nghiệp và thông tin khách hàng.",
+        "image": "/images/migrated/homenest-software/wp-content/uploads/2026/03/Proactive-Security-System-Monitoring.jpg"
+      },
+      {
+        "title": "Tối ưu hóa hiệu suất hệ thống",
+        "desc": "Tinh chỉnh cấu trúc code và Database để Website tải nhanh hơn và App phản hồi mượt mà hơn, giúp giảm tỷ lệ thoát trang.",
+        "image": "/images/migrated/homenest-software/wp-content/uploads/2026/03/Performance-Optimization.jpg"
+      },
+      {
+        "title": "Giám sát hoạt động 24/7",
+        "desc": "Sử dụng công nghệ tự động theo dõi hạ tầng máy chủ và ứng dụng suốt 24/7. Phát hiện và xử lý rủi ro trước khi khách hàng của bạn kịp nhận ra.",
+        "image": "/images/migrated/homenest-software/wp-content/uploads/2026/03/Feature-Enhancements.jpg"
+      },
+      {
+        "title": "Cập nhật độ tương thích kỹ thuật",
+        "desc": "Đảm bảo Website và App luôn hoạt động tốt trên các phiên bản trình duyệt, IOS và Android mới nhất. Loại bỏ hoàn toàn lỗi hiển thị do công nghệ lạc hậu.",
+        "image": "/images/migrated/homenest-software/wp-content/uploads/2026/03/Expert-Support-Consulting.jpg"
+      }
+    ]
+  },
+  "howWeWork": {
+    "label": "Quy trình triển khai dự án?",
+    "ctaLabel": "Cùng xây dựng sản phẩm của bạn",
+    "ctaHref": "/lien-he",
+    "steps": [
+      {
+        "num": "01",
+        "badge": "Tiếp nhận",
+        "title": "Khảo sát & đánh giá",
+        "desc": "Kiểm tra toàn diện mã nguồn Website/App và cấu hình máy chủ hiện tại để xác định các \"điểm yếu\" cần khắc phục ngay."
+      },
+      {
+        "num": "02",
+        "badge": "Giải pháp",
+        "title": "Thiết lập giám sát tự động",
+        "desc": "Cài đặt các công cụ cảnh báo thông minh giúp đội ngũ kỹ thuật của Winterfrost nhận tin báo sự cố sớm hơn cả người dùng của bạn."
+      },
+      {
+        "num": "03",
+        "badge": "Bảo trì",
+        "title": "Bảo trì định kỳ & tối ưu",
+        "desc": "Thực hiện cập nhật, vá lỗi và tối ưu mã nguồn hàng tháng để hệ thống luôn chạy nhanh hơn và an toàn hơn."
+      },
+      {
+        "num": "04",
+        "badge": "Hỗ trợ",
+        "title": "Hỗ trợ kỹ thuật ưu tiên",
+        "desc": "Tiếp nhận và xử lý các yêu cầu thay đổi hoặc chỉnh sửa tính năng từ doanh nghiệp với cam kết thời gian phản hồi (SLA) rõ ràng."
+      }
+    ]
+  },
+  "benefits": {
+    "label": "Tại sao chọn Winterfrost để vận hành hệ thống ?",
+    "headlineLight": "Năng lực quản trị và",
+    "headlineDark": "đảm bảo vận hành hệ thống.",
+    "items": [
+      {
+        "num": "1",
+        "title": "Giám sát hệ thống chủ động",
+        "desc": "Áp dụng các công cụ theo dõi tự động nhằm phát hiện sớm những dấu hiệu quá tải hoặc lỗi kỹ thuật. Chúng tôi xử lý các rủi ro tiềm ẩn trước khi chúng gây ra sự cố ngừng hoạt động."
+      },
+      {
+        "num": "2",
+        "title": "Tiêu chuẩn bảo mật đa lớp",
+        "desc": "Tiến hành cập nhật các bản sửa lỗi an ninh và kiểm tra lỗ hổng hệ thống thường xuyên. Quy trình này bảo đảm rằng dữ liệu của doanh nghiệp luôn được bảo vệ trước các mối đe dọa mới."
+      },
+      {
+        "num": "3",
+        "title": "Đội ngũ kỹ thuật chuyên sâu",
+        "desc": "Các chuyên gia có kiến thức về nhiều ngôn ngữ lập trình và kiến trúc hệ thống sẽ tham gia hỗ trợ trực tiếp. Điều này giúp thời gian chẩn đoán và sửa chữa các lỗi phức tạp được rút ngắn."
+      },
+      {
+        "num": "4",
+        "title": "Tối ưu hóa chi phí vận hành",
+        "desc": "Dịch vụ bảo trì góp phần giúp hệ thống vận hành ổn định, giảm thiểu thiệt hại tài chính do ngừng hoạt động và tiết kiệm chi phí so với việc duy trì một đội ngũ kỹ thuật nội bộ lớn."
+      },
+      {
+        "num": "5",
+        "title": "Cam kết thời gian phản hồi",
+        "desc": "Xác lập các cam kết cụ thể về thời gian tiếp nhận và xử lý yêu cầu hỗ trợ. Chúng tôi đảm bảo rằng những sự cố nghiêm trọng sẽ được ưu tiên xử lý trong thời gian ngắn nhất."
+      },
+      {
+        "num": "6",
+        "title": "Duy trì tính tương thích công nghệ",
+        "desc": "Cập nhật và điều chỉnh mã nguồn để phần mềm luôn tương thích với những phiên bản trình duyệt, hệ điều hành và phần cứng mới nhất, tránh việc công nghệ bị lỗi thời."
+      },
+      {
+        "num": "7",
+        "title": "Quy trình xử lý lỗi minh bạch",
+        "desc": "Tất cả các yêu cầu hỗ trợ được ghi lại trong hệ thống quản lý, giúp doanh nghiệp dễ dàng theo dõi tiến độ xử lý và lịch sử bảo trì của từng mục."
+      },
+      {
+        "num": "8",
+        "title": "Báo cáo định kỳ chi tiết",
+        "desc": "Cung cấp báo cáo hàng tháng về tình hình vận hành của hệ thống, hiệu suất máy chủ và các hạng mục đã thực hiện, giúp doanh nghiệp có cái nhìn tổng thể về hạ tầng kỹ thuật."
+      },
+      {
+        "num": "9",
+        "title": "Hỗ trợ mở rộng tính năng linh hoạt",
+        "desc": "Ngoài dịch vụ bảo trì, chúng tôi còn sẵn lòng tư vấn và thực hiện các nâng cấp nhỏ về tính năng để kịp thời đáp ứng những thay đổi trong quy trình kinh doanh của khách hàng"
+      }
+    ]
+  },
+  "ctaBanner": {
+    "badge": "Liên hệ ngay!",
+    "headline": "Đảm bảo hệ thống phần mềm luôn vận hành ổn định",
+    "description": "Winterfrost cung cấp dịch vụ theo dõi, cập nhật và xử lý sự cố liên tục. Chúng tôi giúp hệ thống của bạn luôn hoạt động an toàn, chính xác và không bị gián đoạn trong suốt quá trình kinh doanh.",
+    "ctaLabel": "Nhận tư vấn bảo trì",
+    "ctaHref": "/lien-he",
+    "image": "/images/people/cta/winterfrost/quan-ly-nam.png"
+  },
+  "counter": {
+    "badgeText": "Thành tựu của chúng tôi",
+    "items": [
+      {
+        "index": "/01",
+        "value": "10+",
+        "desc": "Năm kinh nghiệm"
+      },
+      {
+        "index": "/02",
+        "value": "250+",
+        "desc": "Khách hàng"
+      },
+      {
+        "index": "/03",
+        "value": "15+",
+        "desc": "Quốc gia phục vụ"
+      },
+      {
+        "index": "/04",
+        "value": "98%",
+        "desc": "Sự hài lòng của khách hàng"
+      }
+    ]
+  },
+  "industries": {
+    "label": "Các lĩnh vực nổi bật",
+    "headlineLight": "Duy trì sự ổn định",
+    "headlineDark": "cho các ngành công nghiệp cốt lõi",
+    "items": [
+      {
+        "slug": "thuong-mai-dien-tu",
+        "title": "Thương mại điện tử",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/eComerce-Industries-Icon.png"
+      },
+      {
+        "slug": "cong-nghe-tai-chinh",
+        "title": "Công nghệ tài chính",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Fintech-Industries-Icon.png"
+      },
+      {
+        "slug": "y-te",
+        "title": "Y tế",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Healthcare-Industries-Icon.png"
+      },
+      {
+        "slug": "tai-chinh-doanh-nghiep",
+        "title": "Tài chính doanh nghiệp",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Expert-Financial-Industries-Icon.png"
+      },
+      {
+        "slug": "phan-mem-doanh-nghiep",
+        "title": "Phần mềm doanh nghiệp",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Business-Industries-Icon.png"
+      },
+      {
+        "slug": "ban-le",
+        "title": "Bán lẻ",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Retail-Industries-Icon.png"
+      },
+      {
+        "slug": "bat-dong-san",
+        "title": "Bất động sản",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Real-Estate-Industries-Icon.png"
+      },
+      {
+        "slug": "van-tai-va-logistics",
+        "title": "Vận tải và Logistics",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Logistics-Industries-Icon.png"
+      },
+      {
+        "slug": "giao-duc",
+        "title": "Giáo dục",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Education-Industries-Icon.png"
+      }
+    ]
+  },
+  "price": {
+    "label": "",
+    "headlineLight": "Gói vận hành và bảo trì",
+    "headlineDark": "tại Winterfrost",
+    "description": "Duy trì hiệu suất đỉnh cao và bảo mật tuyệt đối cho website, mobile app và phần mềm với chi phí tối ưu. Winterfrost cam kết vận hành chuyên sâu, loại bỏ mọi rủi ro kỹ thuật và phản ứng nhanh 24/7.",
+    "packages": [
+      {
+        "name": "Giải pháp tùy chỉnh",
+        "price": "Linh hoạt theo nhu cầu thực tế",
+        "currency": "",
+        "period": "",
+        "description": "Đảm bảo website và app luôn ổn định, tốc độ và an toàn. Winterfrost túc trực tối ưu hóa từng dòng code để hệ thống của bạn luôn sẵn sàng phục vụ lượng người dùng lớn.",
+        "features": [
+          "Tối ưu hiệu năng liên tục.",
+          "Quét lỗi định kỳ, ngăn chặn rò rỉ dữ liệu.",
+          "Sao lưu và có sẵn phương án khôi phục dữ liệu tức thì.",
+          "Hệ thống giám sát thông minh 24/7.",
+          "Hỗ trợ nâng cấp, thêm các tính năng theo yêu cầu.",
+          "Phản hồi sự cố khẩn cấp trong vòng 2 giờ."
+        ],
+        "ctaLabel": "Bắt đầu",
+        "ctaHref": "/lien-he",
+        "highlight": true,
+        "labelText": "Gói Chuyên Nghiệp"
+      }
+    ]
+  },
+  "techStack": {
+    "headlineLight": "Công nghệ vận hành",
+    "headlineDark": "tại Winterfrost",
+    "filters": [
+      "Tất cả",
+      "Giao diện",
+      "Hệ thống",
+      "Cơ sở dữ liệu",
+      "Vận hành",
+      "Quản lý"
+    ],
+    "items": [
+      {
+        "name": "React / Next.js",
+        "category": ""
+      },
+      {
+        "name": "Angular",
+        "category": ""
+      },
+      {
+        "name": "Vue.js",
+        "category": ""
+      },
+      {
+        "name": "Figma",
+        "category": ""
+      },
+      {
+        "name": "Adobe XD",
+        "category": ""
+      },
+      {
+        "name": "Sketch",
+        "category": ""
+      },
+      {
+        "name": "Node.js",
+        "category": ""
+      },
+      {
+        "name": "Laravel",
+        "category": ""
+      },
+      {
+        "name": "WordPress / PHP",
+        "category": ""
+      },
+      {
+        "name": ".NET / ASP.NET",
+        "category": ""
+      },
+      {
+        "name": "MySQL",
+        "category": ""
+      },
+      {
+        "name": "PostgreSQL",
+        "category": ""
+      },
+      {
+        "name": "MongoDB",
+        "category": ""
+      },
+      {
+        "name": "Redis",
+        "category": ""
+      },
+      {
+        "name": "Docker",
+        "category": ""
+      },
+      {
+        "name": "GitHub",
+        "category": ""
+      },
+      {
+        "name": "GitLab",
+        "category": ""
+      },
+      {
+        "name": "Bitbucket",
+        "category": ""
+      },
+      {
+        "name": "GitHub Actions",
+        "category": ""
+      },
+      {
+        "name": "CI/CD",
+        "category": ""
+      },
+      {
+        "name": "AWS",
+        "category": ""
+      },
+      {
+        "name": "Deploy Server",
+        "category": ""
+      },
+      {
+        "name": "Jira",
+        "category": ""
+      }
+    ]
+  },
+  "comprehensiveServices": {
+    "headlineLight": "Giải pháp đồng hành",
+    "headlineDark": "cùng sự phát triển của hệ thống",
+    "items": [
+      {
+        "slug": "phat-trien-phan-mem-doanh-nghiep",
+        "title": "Phát triển phần mềm doanh nghiệp",
+        "desc": "Hiện đại hóa hoạt động kinh doanh bằng các giải pháp quản trị chuyên sâu và bảo mật cấp cao. Chúng tôi xây dựng các hệ thống ERP, CRM tùy chỉnh giúp đồng bộ dữ liệu toàn diện và tối ưu hóa quy trình vận hành cho các doanh nghiệp quy mô lớn.",
+        "image": "/images/services/winterfrost/enterprise-software-development.webp",
+        "href": "/dich-vu/phat-trien-phan-mem-doanh-nghiep"
+      },
+      {
+        "slug": "phat-trien-devops",
+        "title": "Dịch vụ phát triển DevOps",
+        "desc": "Xây dựng thêm các module tính năng hoặc thiết kế lại kiến trúc khi quy mô doanh nghiệp thay đổi. Chúng tôi đảm bảo quá trình chuyển đổi từ bảo trì sang phát triển mới diễn ra liền mạch.",
+        "image": "/images/services/winterfrost/devops-development.webp",
+        "href": "/dich-vu/phat-trien-devops"
+      },
+      {
+        "slug": "phat-trien-ai",
+        "title": "Phát triển AI",
+        "desc": "Nâng tầm hệ thống hiện có thông qua việc tích hợp các mô hình trí tuệ nhân tạo riêng biệt. Từ tự động hóa quy trình đến phân tích dữ liệu dự báo, chúng tôi giúp doanh nghiệp sở hữu lợi thế cạnh tranh tuyệt đối dựa trên nền tảng dữ liệu sẵn có.",
+        "image": "/images/services/winterfrost/ai-development.webp",
+        "href": "/dich-vu/phat-trien-ai"
+      }
+    ]
+  },
+  "faq": {
+    "label": "Các câu hỏi thường gặp",
+    "headlineParts": [
+      "Giải Đáp",
+      "Mọi",
+      "Thắc Mắc"
+    ],
+    "description": "Tổng hợp các câu hỏi về quy trình tiếp quản hệ thống, cam kết thời gian phản hồi và cách chúng tôi bảo vệ phần mềm của bạn trước các sự cố kỹ thuật.",
+    "items": [
+      {
+        "q": "Winterfrost có nhận bảo trì phần mềm do đơn vị khác phát triển không?",
+        "a": "Có. Chúng tôi sẽ thực hiện một đợt khảo sát kỹ thuật để đánh giá mã nguồn và hạ tầng hiện tại của bạn. Sau khi nắm rõ cấu trúc, Winterfrost sẽ tư vấn lộ trình tiếp quản và tối ưu hóa để đảm bảo hệ thống vận hành ổn định nhất."
+      },
+      {
+        "q": "Nếu hệ thống gặp sự cố khẩn cấp vào ban đêm thì xử lý thế nào?",
+        "a": "Tùy vào gói dịch vụ bạn lựa chọn, chúng tôi có đội ngũ kỹ thuật trực chiến hoặc hệ thống cảnh báo tự động 24/7. Với các sự cố nghiêm trọng, Winterfrost cam kết bắt tay vào xử lý ngay lập tức để giảm thiểu tối đa thiệt hại cho doanh nghiệp."
+      },
+      {
+        "q": "Tại sao tôi nên mua gói bảo trì định kỳ thay vì hỏng đâu sửa đó?",
+        "a": "Việc bảo trì định kỳ giúp doanh nghiệp phòng ngừa rủi ro. Thay vì đợi hệ thống sập và mất khách hàng mới đi tìm thợ sửa, quy trình của chúng tôi giúp phát hiện sớm các lỗ hổng bảo mật và điểm nghẽn hiệu suất, giúp bạn tiết kiệm chi phí và giữ uy tín với người dùng."
+      },
+      {
+        "q": "Gói bảo trì có bao gồm việc phát triển thêm tính năng mới không?",
+        "a": "Các gói bảo trì tập trung chính vào việc giữ hệ thống ổn định và an toàn. Tuy nhiên, chúng tôi vẫn hỗ trợ các nâng cấp nhỏ về giao diện hoặc tính năng. Với các yêu cầu phát triển lớn, Winterfrost sẽ tư vấn riêng để đảm bảo không làm ảnh hưởng đến cấu trúc vận hành hiện tại."
+      },
+      {
+        "q": "Dữ liệu của tôi có được an toàn khi Winterfrost tiếp quản hệ thống?",
+        "a": "Tuyệt đối an toàn. Chúng tôi thiết lập các cam kết bảo mật thông tin và sử dụng các lớp mã hóa dữ liệu nghiêm ngặt. Mọi thao tác của kỹ thuật viên trên hệ thống đều được ghi lại để bạn có thể kiểm soát hoàn toàn quyền truy cập."
+      },
+      {
+        "q": "Tôi sẽ nhận được báo cáo công việc như thế nào?",
+        "a": "Hàng tháng hoặc theo quý, Winterfrost sẽ gửi báo cáo chi tiết về tình trạng của hệ thống, bao gồm: số lượng lỗi đã xử lý, tình trạng bảo mật, hiệu suất máy chủ và các đề xuất tối ưu. Bạn sẽ luôn biết rõ ngân sách bảo trì của mình đang được sử dụng hiệu quả ra sao."
+      }
+    ]
+  }
+}

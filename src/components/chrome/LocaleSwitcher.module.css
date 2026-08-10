@@ -1,0 +1,204 @@
+.switcher {
+  position: relative;
+  flex: 0 0 auto;
+  width: 68px;
+  height: 36px;
+}
+
+.trigger {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+  width: 100%;
+  height: 100%;
+  padding: 0 9px;
+  color: #1e3a5f;
+  border: 1px solid rgba(22, 106, 217, 0.22);
+  border-radius: 999px;
+  background: rgba(244, 248, 255, 0.92);
+  font: inherit;
+  cursor: pointer;
+  transition:
+    color 0.2s ease,
+    border-color 0.2s ease,
+    background-color 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+.trigger:hover,
+.trigger:focus-visible,
+.switcher:focus-within .trigger {
+  color: #1a3b91;
+  border-color: rgba(22, 106, 217, 0.55);
+  background: #fff;
+  box-shadow: 0 4px 14px rgba(26, 59, 145, 0.12);
+  outline: none;
+}
+
+.pending {
+  opacity: 0.62;
+}
+
+.flag {
+  font-size: 17px;
+  line-height: 1;
+}
+
+.localeCode {
+  min-width: 18px;
+  font-size: 11px;
+  font-weight: 700;
+  line-height: 1;
+  letter-spacing: 0.04em;
+}
+
+.chevron {
+  width: 12px;
+  height: 12px;
+  transition: transform 0.2s ease;
+}
+
+.chevronOpen {
+  transform: rotate(180deg);
+}
+
+.menu {
+  position: absolute;
+  z-index: 50;
+  top: calc(100% + 10px);
+  right: 0;
+  display: grid;
+  width: 218px;
+  padding: 8px;
+  overflow: hidden;
+  border: 1px solid rgba(22, 106, 217, 0.16);
+  border-radius: 18px;
+  background: rgba(255, 255, 255, 0.97);
+  box-shadow:
+    0 22px 60px rgba(2, 27, 123, 0.18),
+    0 4px 16px rgba(26, 59, 145, 0.08);
+  -webkit-backdrop-filter: blur(18px);
+  backdrop-filter: blur(18px);
+}
+
+.option {
+  display: grid;
+  grid-template-columns: 28px minmax(0, 1fr) 28px 18px;
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+  min-height: 42px;
+  padding: 7px 9px;
+  color: #17345d;
+  border: 0;
+  border-radius: 12px;
+  background: transparent;
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+  transition:
+    color 0.16s ease,
+    background-color 0.16s ease;
+}
+
+.option:hover,
+.option:focus-visible {
+  color: #123c94;
+  background: #eef5ff;
+  outline: none;
+}
+
+.optionSelected {
+  color: #123c94;
+  background: linear-gradient(100deg, #edf5ff 0%, #f7faff 100%);
+}
+
+.optionFlag {
+  font-size: 21px;
+  line-height: 1;
+}
+
+.optionName {
+  min-width: 0;
+  overflow: hidden;
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 1.25;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.optionCode {
+  color: #7890ad;
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+}
+
+.check {
+  width: 16px;
+  height: 16px;
+  opacity: 0;
+}
+
+.checkVisible {
+  opacity: 1;
+}
+
+.visuallyHidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+@media (max-width: 430px) {
+  .switcher {
+    width: 54px;
+  }
+
+  .localeCode {
+    display: none;
+  }
+
+  .trigger {
+    gap: 4px;
+    padding: 0 8px;
+  }
+
+  .menu {
+    right: -40px;
+    width: min(218px, calc(100vw - 36px));
+  }
+}
+
+.mobileHeaderSwitcher {
+  width: 58px;
+}
+
+.mobileHeaderSwitcher .trigger {
+  gap: 3px;
+  padding: 0 4px;
+}
+
+.mobileHeaderSwitcher .localeCode {
+  display: inline;
+  min-width: 16px;
+}
+
+.mobileHeaderSwitcher .chevron {
+  width: 9px;
+  height: 9px;
+}
+
+.mobileHeaderSwitcher .menu {
+  right: 50%;
+  width: min(218px, calc(100vw - 24px));
+  transform: translateX(50%);
+}

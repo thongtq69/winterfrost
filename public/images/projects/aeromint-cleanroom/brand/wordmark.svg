@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="256" viewBox="0 0 1000 256">
+    <defs>
+      <linearGradient id="wordmarkGradient" x1="20" y1="20" x2="236" y2="236" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#0F5C78"/>
+        <stop offset="1" stop-color="#64D4C8"/>
+      </linearGradient>
+    </defs>
+    <g>
+    <defs>
+      <linearGradient id="wordmarkGradient" x1="20" y1="20" x2="236" y2="236" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#0F5C78"/>
+        <stop offset="1" stop-color="#64D4C8"/>
+      </linearGradient>
+    </defs>
+
+    <path d="m128 22 95 55v102l-95 55-95-55V77l95-55Z" fill="none" stroke="url(#wordmarkGradient)" stroke-width="16"/>
+    <path d="M57 101c35-31 66-20 94-4 27 15 48 14 69-4M41 132c41-27 75-13 105 4 28 16 51 15 75-2M50 164c36-19 68-5 94 9 27 15 50 14 70-3" fill="none" stroke="url(#wordmarkGradient)" stroke-width="12" stroke-linecap="round"/>
+
+  </g>
+    <text x="294" y="148" fill="#0F5C78" font-family="Manrope, Arial, Helvetica, sans-serif" font-size="76" font-weight="800" letter-spacing="-2">Aeromint</text>
+    <text x="299" y="192" fill="#667085" font-family="Manrope, Arial, Helvetica, sans-serif" font-size="23" font-weight="650" letter-spacing="3.2">DIGITAL EXPERIENCE</text>
+  </svg>

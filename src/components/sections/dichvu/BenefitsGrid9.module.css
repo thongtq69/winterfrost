@@ -1,0 +1,212 @@
+.benefitsSection {
+  z-index: 2;
+  position: relative;
+  display: flex;
+  width: 100%;
+  padding: 50px 0 80px;
+  flex-direction: column;
+  align-items: center;
+  gap: 60px;
+  background-color: #fff;
+  scroll-margin-top: 100px;
+}
+
+.content {
+  position: relative;
+  display: flex;
+  max-width: 960px;
+  flex-direction: column;
+  align-items: center;
+  gap: 44px;
+  user-select: none;
+  background: radial-gradient(
+    50% 33% at 50% 62.3%,
+    rgba(208, 208, 255, 0.5) 0%,
+    transparent 100%
+  );
+}
+
+.hero {
+  z-index: 2;
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  align-items: center;
+  gap: 64px;
+}
+
+.insideContainer {
+  display: flex;
+  max-width: 1400px;
+  flex-direction: column;
+  align-items: center;
+  gap: 32px;
+}
+
+.label {
+  display: flex;
+  margin: 0;
+  align-items: center;
+  gap: 8px;
+  color: #1a3b91;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.labelDot {
+  width: 8px;
+  height: 8px;
+  border-radius: 100%;
+  background-color: rgba(22, 106, 217, 0.55);
+}
+
+.sectionHeading {
+  margin: 0;
+  font-family: Winterfrost, sans-serif;
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 1.2em;
+  letter-spacing: -0.02em;
+  text-align: center;
+}
+
+.sectionHeading span { display: block; }
+
+.headingLight {
+  color: rgba(22, 106, 217, 0.55);
+}
+
+.headingDark { color: #0c1e5b; }
+
+.benefitsGrid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(50px, 1fr));
+  grid-auto-rows: 1fr;
+  gap: 10px;
+  width: 100%;
+}
+
+.card {
+  position: relative;
+  display: flex;
+  overflow: hidden;
+  padding: 16px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 20px;
+  border: 1px solid #fff;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 0.6);
+  backdrop-filter: blur(5px);
+  box-shadow:
+    0 0.6px 0.6px -1.25px rgba(0, 0, 0, 0.16),
+    0 2.3px 2.3px -2.5px rgba(0, 0, 0, 0.14),
+    0 10px 10px -3.75px rgba(0, 0, 0, 0.06),
+    inset 87px 55px 67px rgba(255, 255, 255, 0.73),
+    0 8px 262px rgba(145, 130, 179, 0.04),
+    0 0 60px rgba(157, 150, 255, 0.1);
+}
+
+.cardNumber {
+  position: absolute;
+  top: -1px;
+  right: -15px;
+  color: rgba(208, 208, 255, 0.5);
+  opacity: 0.5;
+  pointer-events: none;
+  white-space: pre;
+  font-size: 144px;
+  font-weight: 900;
+  line-height: 0.7;
+}
+
+.cardIcon {
+  width: 24px;
+  height: 24px;
+  color: rgba(22, 106, 217, 0.55);
+}
+
+.cardIcon svg {
+  width: 100%;
+  height: 100%;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.5px;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.cardText {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.cardTitle {
+  margin: 0;
+  color: #0c1e5b;
+  font-size: 18px;
+  font-weight: 300;
+}
+
+.cardDesc {
+  margin: 0;
+  color: #121528;
+  opacity: 0.6;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+@media (min-width: 2400px) {
+  .content { max-width: 1160px; }
+  .label { font-size: 21px; }
+  .sectionHeading { font-size: 52px; }
+  .cardTitle { font-size: 22px; }
+  .cardDesc { font-size: 20px; }
+}
+
+@media (max-width: 1400px) {
+  .label { font-size: 17px; }
+  .sectionHeading { font-size: 40px; }
+}
+
+@media (max-width: 1200px) {
+  .label { font-size: 16px; }
+  .benefitsSection { padding: 60px 0; }
+  .sectionHeading { font-size: 36px; }
+  .content {
+    box-sizing: content-box;
+    padding: 0 32px;
+  }
+  .cardTitle { font-size: 17.5px; }
+  .cardDesc { font-size: 15px; }
+}
+
+@media (max-width: 996px) {
+  .content { padding: 0 24px; }
+  .benefitsGrid { grid-template-columns: repeat(2, 1fr); }
+  .sectionHeading { font-size: 38px; }
+  .cardNumber { font-size: 100px; }
+  .insideContainer { gap: 24px; }
+  .label { font-size: 16px; }
+}
+
+@media (max-width: 768px) {
+  .label { font-size: 15px; }
+  .benefitsSection { padding: 48px 0; }
+  .content { padding: 0 20px; }
+  .sectionHeading { font-size: min(7.5vw, 32px); }
+  .insideContainer { gap: 14px; }
+  .cardTitle { font-size: 16px; }
+  .cardDesc { font-size: 14px; }
+}
+
+@media (max-width: 576px) {
+  .label { font-size: 14px; }
+  .content { padding: 0 16px; }
+  .insideContainer { gap: 12px; }
+  .benefitsGrid {
+    grid-template-columns: 1fr;
+    gap: 8px;
+  }
+}

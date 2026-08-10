@@ -1,0 +1,440 @@
+{
+  "slug": "thiet-ke-app",
+  "metaTitle": "Dịch vụ thiết kế App - Winterfrost",
+  "hero": {
+    "titleLight": "Dịch vụ ",
+    "titleDark": "thiết kế App",
+    "description": "Winterfrost là đơn vị thiết kế app chuyên nghiệp, tạo ra những giao diện di động trực quan, mang đến trải nghiệm người dùng cực tốt bằng những tính năng thông minh và tiện lợi cho người dùng. Từ đó, giúp doanh nghiệp rút ngắn khoảng cách với khách hàng, kết nối nhanh chóng và vận hành ổn định với lưu lượng truy cập lớn trên cả IOS và Android.",
+    "bgImage": "/images/migrated/homenest-software/wp-content/uploads/2026/03/services-app-bg.jpg",
+    "dashboardImage": "",
+    "phones": {
+      "left": "/images/migrated/homenest-software/wp-content/uploads/2026/04/The-Lover_s-Lawn-app_s-booking-details-interface.webp",
+      "center": "/images/migrated/homenest-software/wp-content/uploads/2026/04/The-homepage-interface-of-the-Lover_s-Lawn-app.webp",
+      "right": "/images/migrated/homenest-software/wp-content/uploads/2026/04/The-booking-interface-of-the-Lover_s-Lawn-app.webp"
+    },
+    "chips": [
+      "/images/migrated/homenest-software/wp-content/uploads/2026/04/Working-Progress.jpg",
+      "/images/migrated/homenest-software/wp-content/uploads/2026/04/Time-field.jpg",
+      "/images/migrated/homenest-software/wp-content/uploads/2026/04/login-button.jpg"
+    ]
+  },
+  "solution": {
+    "headlineLight": "Tại sao ứng dụng di động",
+    "headlineDark": " là chìa khóa tăng trưởng?",
+    "description": "Trong kỷ nguyên di động toàn cầu, mobile app không chỉ là công cụ mà còn là điểm chạm chiến lược giữa doanh nghiệp và khách hàng. Chúng tôi tối ưu hóa trải nghiệm người dùng để biến mỗi lượt tải thành một cơ hội kinh doanh thực sự.",
+    "ctaLabel": "Bắt đầu dự án của bạn ngay hôm nay",
+    "ctaHref": "tel:+84971450454",
+    "items": [
+      {
+        "title": "Tương tác thông minh bằng AI",
+        "desc": "Thay vì chỉ gửi thông báo đẩy đại trà, hệ thống AI tích hợp sẽ tự động phân tích hành vi người dùng theo thời gian thực để kích hoạt kịch bản chăm sóc cá nhân hóa, giúp tăng tỷ lệ chuyển đổi lên gấp 2 lần.",
+        "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/05/Dich-Vu-Tuong-tac-thong-minh-bang-AI-HomeNest-Viet-Nam.jpg"
+      },
+      {
+        "title": "Tối ưu bằng Machine Learning",
+        "desc": "Ứng dụng tự động học hỏi thói quen của người dùng để tùy chỉnh giao diện và tính năng ưu tiên. App của bạn sẽ trở nên đơn giản hơn, thông minh hơn và hiểu người dùng hơn sau mỗi lần sử dụng.",
+        "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/05/Dich-Vu-Toi-uu-bang-Machine-Learning-HomeNest-Viet-Nam.jpg"
+      },
+      {
+        "title": "Trợ lý ảo AI Agents hỗ trợ 24/7",
+        "desc": "Tích hợp các mô hình ngôn ngữ lớn LLM để tạo ra các trợ lý ảo có khả năng tư vấn, xử lý khiếu nại và chốt đơn ngay trên app, giúp doanh nghiệp tiết kiệm tới 50% chi phí vận hành bộ phận CSKH.",
+        "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/05/Dich-Vu-Tro-ly-ao-AI-Agents-ho-tro-24-7-HomeNest-Viet-Nam.jpg"
+      },
+      {
+        "title": "Dự báo xu hướng",
+        "desc": "Sử dụng thuật toán dự đoán để đề xuất sản phẩm hoặc dịch vụ mà khách hàng có khả năng mua cao nhất. Đây là chìa khóa để tăng giá trị đơn hàng trung bình và giữ chân khách hàng lâu dài.",
+        "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/05/Dich-Vu-Du-bao-xu-huong-HomeNest-Viet-Nam.jpg"
+      },
+      {
+        "title": "Bảo mật chủ động",
+        "desc": "Không chỉ là FaceID hay Fingerprint, AI của chúng tôi còn giúp phát hiện các hành vi truy cập bất thường và ngăn chặn gian lận ngay từ khi có dấu hiệu sơ khởi, bảo vệ tuyệt đối uy tín thương hiệu của bạn.",
+        "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/05/Dich-Vu-Bao-mat-chu-dong-HomeNest-Viet-Nam.jpg"
+      }
+    ]
+  },
+  "features": {
+    "headlineLight": "Giải pháp chuyên sâu",
+    "headlineDark": " cho ứng dụng di động",
+    "description": "",
+    "ctaLabel": "Bắt đầu dự án của bạn ngay hôm nay",
+    "ctaHref": "tel:+84971450454",
+    "items": [
+      {
+        "num": "01",
+        "title": "Phát triển ứng dụng cho IOS & Android",
+        "desc": "Xây dựng ứng dụng riêng biệt cho từng nền tảng bằng các ngôn ngữ chuyên dụng. Giải pháp này giúp khai thác tối đa sức mạnh phần cứng, đảm bảo hiệu năng cao nhất, mang đến trải nghiệm người dùng cực tốt.",
+        "iconPath": "M88.57,35A8,8,0,0,1,103.43,29l8,20A8,8,0,0,1,96.57,55ZM29,103.43l20,8A8,8,0,1,0,55,96.57l-20-8A8,8,0,0,0,29,103.43ZM227,152.57l-20-8A8,8,0,1,0,201,159.43l20,8A8,8,0,0,0,227,152.57ZM159.43,201A8,8,0,0,0,144.57,207l8,20A8,8,0,1,0,167.43,221ZM237.91,18.52a8,8,0,0,0-11.5-.18L174,70.75l-5.38-5.38a32,32,0,0,0-45.28,0L106.14,82.54a4,4,0,0,0,0,5.66l61.7,61.66a4,4,0,0,0,5.66,0l16.74-16.74a32.76,32.76,0,0,0,9.81-22.52,31.82,31.82,0,0,0-9.37-23.17l-5.38-5.37,52.2-52.17A8.22,8.22,0,0,0,237.91,18.52ZM85.64,90.34a8,8,0,0,0-11.49.18,8.22,8.22,0,0,0,.41,11.37L80.67,108,65.34,123.31A31.82,31.82,0,0,0,56,146.47,32.75,32.75,0,0,0,65.77,169l5,4.94L18.49,226.13a8.21,8.21,0,0,0-.61,11.1,8,8,0,0,0,11.72.43L82,185.25l5.37,5.38a32.1,32.1,0,0,0,45.29,0L148,175.31l6.34,6.35a8,8,0,0,0,11.32-11.32Z",
+        "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/05/Dich-Vu-Phat-Trien-Ung-Dung-Cho-iOS-Android-HomeNest-Viet-Nam.jpg"
+      },
+      {
+        "num": "02",
+        "title": "Phát triển ứng dụng đa nền tảng",
+        "desc": "Sử dụng một bộ mã nguồn duy nhất để vận hành trên cả IOS và Android. Đây là lựa chọn tối ưu giúp doanh nghiệp tiết kiệm chi phí, rút ngắn thời gian phát triển mà vẫn đảm bảo tính nhất quán về tính năng.",
+        "iconPath": "M128,40a96,96,0,1,0,96,96A96.11,96.11,0,0,0,128,40Zm45.66,61.66-40,40a8,8,0,0,1-11.32-11.32l40-40a8,8,0,0,1,11.32,11.32ZM96,16a8,8,0,0,1,8-8h48a8,8,0,0,1,0,16H104A8,8,0,0,1,96,16Z",
+        "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/05/Dich-Vu-Phat-Trien-Ung-Dung-Da-Nen-Tang-HomeNest-Viet-Nam.jpg"
+      },
+      {
+        "num": "03",
+        "title": "Thiết kế UI/UX và tối ưu trải nghiệm di động",
+        "desc": "Tập trung vào việc kiến tạo những giao diện tinh tế và luồng trải nghiệm người dùng tự nhiên.Chúng tôi kết hợp giữa thẩm mỹ và dữ liệu hành vi để tạo ra những ứng dụng không chỉ đẹp mà còn mang lại tỷ lệ chuyển đổi cao.",
+        "iconPath": "M240,56v64a8,8,0,0,1-13.66,5.66L200,99.31l-58.34,58.35a8,8,0,0,1-11.32,0L96,123.31,29.66,189.66a8,8,0,0,1-11.32-11.32l72-72a8,8,0,0,1,11.32,0L136,140.69,188.69,88,162.34,61.66A8,8,0,0,1,168,48h64A8,8,0,0,1,240,56Z",
+        "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/05/Dich-Vu-Thiet-Ke-UI-UX-Va-Toi-Uu-Trai-Nghiem-Di-Dong-HomeNest-Viet-Nam-scaled.jpg"
+      }
+    ]
+  },
+  "benefits": {
+    "label": "Tại sao các đối tác tin tưởng chúng tôi",
+    "headlineLight": "Trải nghiệm di động tinh tế.",
+    "headlineDark": "Quy chuẩn vận hành quốc tế.",
+    "items": [
+      {
+        "num": "1",
+        "title": "Làm chủ công nghệ đa nền tảng",
+        "desc": "Chúng tôi thành thạo cả phát triển ứng dụng bản địa lẫn đa nền tảng, giúp bạn tối ưu chi phí mà vẫn đảm bảo hiệu suất mượt mà nhất cho từng hệ điều hành."
+      },
+      {
+        "num": "2",
+        "title": "Giao diện UI/UX dẫn đầu xu hướng",
+        "desc": "Mọi ứng dụng đều được thiết kế dựa trên dữ liệu hành vi người dùng, đảm bảo sự tinh tế trong thẩm mỹ và tính đơn giản, trực quan trong thao tác."
+      },
+      {
+        "num": "3",
+        "title": "Tối ưu hóa hiệu năng thiết bị",
+        "desc": "Hệ thống được tinh chỉnh để tiết kiệm dung lượng, ít tiêu tốn pin và hoạt động ổn định. Quy trình này áp dụng trên nhiều dòng thiết bị có cấu hình khác nhau, từ tầm trung đến cao cấp."
+      },
+      {
+        "num": "4",
+        "title": "Quy trình bàn giao trọn gói",
+        "desc": "Chúng tôi đồng hành cùng doanh nghiệp từ khâu tư vấn, thiết kế, lập trình cho đến khi hoàn tất các thủ tục đưa ứng dụng lên App Store và Google Play một cách nhanh chóng."
+      },
+      {
+        "num": "5",
+        "title": "Hạ tầng Back-end chịu tải cao",
+        "desc": "Xây dựng hệ thống máy chủ mạnh mẽ, đảm bảo ứng dụng vận hành ổn định ngay cả khi có hàng triệu lượt truy cập và tương tác cùng lúc."
+      },
+      {
+        "num": "6",
+        "title": "Bảo mật và quyền riêng tư tuyệt đối",
+        "desc": "Áp dụng các tiêu chuẩn nghiêm ngặt về dữ liệu để bảo vệ thông tin người dùng, giúp doanh nghiệp an tâm, khách hàng tin tưởng và đáp ứng đầy đủ các quy định pháp lý về bảo mật."
+      },
+      {
+        "num": "7",
+        "title": "Chu kỳ phát triển Agile linh hoạt",
+        "desc": "Chia nhỏ lộ trình phát triển để khách hàng có thể kiểm soát tiến độ và điều chỉnh tính năng theo xu hướng thị trường, giúp sản phẩm luôn đáp ứng được nhu cầu người dùng."
+      },
+      {
+        "num": "8",
+        "title": "Khả năng mở rộng không giới hạn",
+        "desc": "Kiến trúc mã nguồn được xây dựng bài bản, cho phép dễ dàng tích hợp thêm các tính năng mới hoặc nâng cấp quy mô khi doanh nghiệp phát triển mà không phải làm lại từ đầu."
+      },
+      {
+        "num": "9",
+        "title": "Hỗ trợ kỹ thuật và bảo trì tận tâm",
+        "desc": "Chúng tôi cam kết đồng hành dài hạn sau khi ra mắt, xử lý các bản cập nhật hệ điều hành và hỗ trợ kỹ thuật liên tục để ứng dụng của bạn luôn trong trạng thái hoàn hảo nhất."
+      }
+    ]
+  },
+  "ctaBanner": {
+    "badge": "Liên hệ ngay!",
+    "headline": "Thiết kế ứng dụng di động để kết nối khách hàng hiệu quả",
+    "description": "Winterfrost thiết kế ứng dụng IOS và Android có tốc độ nhanh, bảo mật và dễ sử dụng. Giải pháp này giúp bạn duy trì sự hiện diện và tương tác với khách hàng mọi lúc, mọi nơi.",
+    "ctaLabel": "Nhận tư vấn thiết kế app",
+    "ctaHref": "/lien-he",
+    "image": "/images/people/cta/winterfrost/nhan-vien-cong-nghe-tre.png"
+  },
+  "counter": {
+    "badgeText": "Thành tựu của chúng tôi",
+    "items": [
+      {
+        "index": "/01",
+        "value": "10+",
+        "desc": "Năm kinh nghiệm"
+      },
+      {
+        "index": "/02",
+        "value": "250+",
+        "desc": "Khách hàng"
+      },
+      {
+        "index": "/03",
+        "value": "15+",
+        "desc": "Quốc gia phục vụ"
+      },
+      {
+        "index": "/04",
+        "value": "98%",
+        "desc": "Sự hài lòng của khách hàng"
+      }
+    ]
+  },
+  "industries": {
+    "label": "Các lĩnh vực nổi bật",
+    "headlineLight": "Giải pháp di động tối ưu",
+    "headlineDark": "cho mọi ngành nghề",
+    "items": [
+      {
+        "slug": "thuong-mai-dien-tu",
+        "title": "Thương mại điện tử",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/eComerce-Industries-Icon.png"
+      },
+      {
+        "slug": "cong-nghe-tai-chinh",
+        "title": "Công nghệ tài chính",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Fintech-Industries-Icon.png"
+      },
+      {
+        "slug": "y-te",
+        "title": "Y tế",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Healthcare-Industries-Icon.png"
+      },
+      {
+        "slug": "tai-chinh-doanh-nghiep",
+        "title": "Tài chính doanh nghiệp",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Expert-Financial-Industries-Icon.png"
+      },
+      {
+        "slug": "phan-mem-doanh-nghiep",
+        "title": "Phần mềm doanh nghiệp",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Business-Industries-Icon.png"
+      },
+      {
+        "slug": "ban-le",
+        "title": "Bán lẻ",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Retail-Industries-Icon.png"
+      },
+      {
+        "slug": "bat-dong-san",
+        "title": "Bất động sản",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Real-Estate-Industries-Icon.png"
+      },
+      {
+        "slug": "van-tai-va-logistics",
+        "title": "Vận tải và Logistics",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Logistics-Industries-Icon.png"
+      },
+      {
+        "slug": "giao-duc",
+        "title": "Giáo dục",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Education-Industries-Icon.png"
+      }
+    ]
+  },
+  "price": {
+    "label": "Gói dịch vụ",
+    "headlineLight": "Thiết kế App",
+    "headlineDark": "",
+    "description": "Chi phí được xác định rõ ràng theo từng giai đoạn phát triển, không phát sinh chi phí ẩn. Mọi gói dịch vụ đều bao gồm ký kết thỏa thuận bảo mật, quản lý dự án chuyên biệt, hỗ trợ đưa ứng dụng lên các kho ứng dụng và bàn giao toàn bộ quyền sở hữu trí tuệ sau khi hoàn tất.",
+    "packages": [
+      {
+        "name": "Gói Cơ Bản",
+        "price": "60.000.000",
+        "currency": "VNĐ",
+        "period": "/ dự án",
+        "description": "Giải pháp hoàn hảo để hiện thực hóa ý tưởng và đưa ứng dụng cốt lõi tiếp cận thị trường trong thời gian ngắn nhất.",
+        "features": [
+          "Phát triển ứng dụng cho cả Android và IOS.",
+          "Quy trình triển khai linh hoạt theo mô hình Agile.",
+          "Tích hợp các tính năng cốt lõi tiêu chuẩn.",
+          "Hệ thống xác thực và quản lý hồ sơ người dùng bảo mật.",
+          "Hỗ trợ thủ tục đưa ứng dụng lên Google Play và App Store.",
+          "Hỗ trợ kỹ thuật ưu tiên qua Email và hệ thống Ticket."
+        ],
+        "ctaLabel": "Bắt đầu",
+        "ctaHref": "tel:+84971450454",
+        "highlight": false,
+        "labelText": "Gói Cơ Bản"
+      },
+      {
+        "name": "Gói Nâng Cao",
+        "price": "Linh hoạt theo quy mô dự án",
+        "currency": "",
+        "period": "",
+        "description": "Thiết kế và xây dựng nền tảng di động chuyên sâu, được may đo hoàn toàn để đáp ứng những yêu cầu khắt khe nhất về hiệu năng và trải nghiệm.",
+        "features": [
+          "Tối ưu hiệu năng tương đương với ứng dụng bản địa.",
+          "Thiết kế UI/UX cao cấp và các hiệu ứng tương tác tinh tế.",
+          "Phát triển tính năng độc quyền và hệ sinh thái kết nối API.",
+          "Bảo mật sinh trắc học và công nghệ bảo vệ dữ liệu nâng cao.",
+          "Giám sát vận hành và theo dõi hiệu suất theo thời gian thực.",
+          "Đội ngũ kỹ thuật hỗ trợ chuyên biệt 24/7.",
+          "Cam kết bảo trì và đảm bảo chất lượng vận hành sau ra mắt."
+        ],
+        "ctaLabel": "Bắt đầu",
+        "ctaHref": "tel:+84971450454",
+        "highlight": true,
+        "labelText": "Gói Nâng Cao"
+      }
+    ]
+  },
+  "techStack": {
+    "headlineLight": "Công nghệ thiết kế App",
+    "headlineDark": "tại Winterfrost",
+    "filters": [
+      "Tất cả",
+      "Giao diện",
+      "Hệ thống",
+      "Cơ sở dữ liệu",
+      "Vận hành",
+      "Quản lý"
+    ],
+    "items": [
+      {
+        "name": "React / Next.js",
+        "category": ""
+      },
+      {
+        "name": "Angular",
+        "category": ""
+      },
+      {
+        "name": "Vue.js",
+        "category": ""
+      },
+      {
+        "name": "Figma",
+        "category": ""
+      },
+      {
+        "name": "Adobe XD",
+        "category": ""
+      },
+      {
+        "name": "Sketch",
+        "category": ""
+      },
+      {
+        "name": "Node.js",
+        "category": ""
+      },
+      {
+        "name": "Laravel",
+        "category": ""
+      },
+      {
+        "name": "WordPress / PHP",
+        "category": ""
+      },
+      {
+        "name": ".NET / ASP.NET",
+        "category": ""
+      },
+      {
+        "name": "MySQL",
+        "category": ""
+      },
+      {
+        "name": "PostgreSQL",
+        "category": ""
+      },
+      {
+        "name": "MongoDB",
+        "category": ""
+      },
+      {
+        "name": "Redis",
+        "category": ""
+      },
+      {
+        "name": "Docker",
+        "category": ""
+      },
+      {
+        "name": "GitHub",
+        "category": ""
+      },
+      {
+        "name": "GitLab",
+        "category": ""
+      },
+      {
+        "name": "Bitbucket",
+        "category": ""
+      },
+      {
+        "name": "GitHub Actions",
+        "category": ""
+      },
+      {
+        "name": "CI/CD",
+        "category": ""
+      },
+      {
+        "name": "AWS",
+        "category": ""
+      },
+      {
+        "name": "Deploy Server",
+        "category": ""
+      },
+      {
+        "name": "Jira",
+        "category": ""
+      }
+    ]
+  },
+  "comprehensiveServices": {
+    "headlineLight": "Hoàn thiện hệ sinh thái",
+    "headlineDark": "với các dịch vụ bổ trợ",
+    "items": [
+      {
+        "slug": "thiet-ke-website",
+        "title": "Thiết kế website chuyên nghiệp",
+        "desc": "Chúng tôi xây dựng phiên bản web tương ứng cho ứng dụng di động của bạn, sử dụng chung hệ thống quản trị và lớp dữ liệu cốt lõi. Giải pháp này giúp sản phẩm của bạn vận hành mượt mà và nhất quán trên mọi nền tảng và thiết bị mà người dùng sử dụng.",
+        "image": "/images/services/winterfrost/web-application-development.webp",
+        "href": "/dich-vu/thiet-ke-website"
+      },
+      {
+        "slug": "phat-trien-phan-mem-doanh-nghiep",
+        "title": "Phát triển phần mềm doanh nghiệp",
+        "desc": "Xây dựng cấu trúc hệ thống bảo mật có khả năng chịu tải cao dành riêng cho các quy mô vận hành lớn. Giải pháp này bao gồm việc kết nối dữ liệu chuyên sâu cùng các cam kết về chất lượng dịch vụ nghiêm ngặt.",
+        "image": "/images/services/winterfrost/enterprise-software-development.webp",
+        "href": "/dich-vu/phat-trien-phan-mem-doanh-nghiep"
+      },
+      {
+        "slug": "van-hanh-va-bao-tri",
+        "title": "Dịch vụ vận hành & bảo trì",
+        "desc": "Sẵn sàng đồng hành cùng ứng dụng của bạn sau khi ra mắt để đảm bảo tính tương thích với các bản cập nhật hệ điều hành mới, xử lý sự cố kịp thời và liên tục cải thiện hiệu suất. Chúng tôi giúp ứng dụng của bạn luôn duy trì đánh giá cao trên các kho ứng dụng và giữ chân người dùng hiệu quả.",
+        "image": "/images/services/winterfrost/software-maintenance-and-support.webp",
+        "href": "/dich-vu/van-hanh-va-bao-tri"
+      }
+    ]
+  },
+  "faq": {
+    "label": "Các câu hỏi thường gặp",
+    "headlineParts": [
+      "Giải Đáp Mọi",
+      "Thắc Mắc"
+    ],
+    "description": "Giải đáp các thắc mắc về kỹ thuật, quy trình đưa ứng dụng lên các kho lưu trữ và chính sách đồng hành dài hạn cùng Winterfrost.",
+    "items": [
+      {
+        "q": "Winterfrost có hỗ trợ đưa ứng dụng lên App Store và Google Play không?",
+        "a": "Có. Đây là một phần quan trọng trong dịch vụ trọn gói của chúng tôi. Winterfrost sẽ đồng hành cùng bạn xử lý các thủ tục đăng ký, cấu hình kỹ thuật và đảm bảo ứng dụng tuân thủ các chính sách khắt khe của Apple và Google để được xét duyệt nhanh nhất."
+      },
+      {
+        "q": "Tôi nên chọn ứng dụng đa nền tảng hay ứng dụng bản địa?",
+        "a": "Lựa chọn này phụ thuộc vào ngân sách và mục tiêu kinh doanh của bạn. Ứng dụng đa nền tảng như Flutter giúp tiết kiệm chi phí và thời gian phát triển khi chỉ cần một bộ mã nguồn cho cả iOS và Android. Trong khi đó, ứng dụng bản địa sẽ mang lại hiệu năng tối ưu và trải nghiệm mượt mà nhất cho các dự án cực kỳ phức tạp hoặc yêu cầu xử lý đồ họa cao."
+      },
+      {
+        "q": "Chi phí duy trì ứng dụng sau khi ra mắt bao gồm những gì?",
+        "a": "Chi phí này thường bao gồm phí thuê máy chủ, phí duy trì tài khoản nhà phát triển hàng năm trên các kho ứng dụng và phí bảo trì kỹ thuật định kỳ. Winterfrost sẽ tư vấn gói hạ tầng tối ưu nhất để bạn tiết kiệm chi phí mà vẫn đảm bảo ứng dụng vận hành ổn định."
+      },
+      {
+        "q": "Làm sao để ứng dụng hoạt động tốt trên nhiều dòng điện thoại khác nhau?",
+        "a": "Chúng tôi thực hiện quy trình kiểm thử nghiêm ngặt trên nhiều thiết bị thực tế với các kích thước màn hình và phiên bản hệ điều hành khác nhau. Điều này đảm bảo giao diện ứng dụng luôn cân đối và các tính năng hoạt động đồng nhất từ các dòng máy đời cũ đến các dòng điện thoại cao cấp nhất."
+      },
+      {
+        "q": "Ứng dụng có thể hoạt động khi không có kết nối internet không?",
+        "a": "Có thể. Chúng tôi có thể thiết kế cơ chế lưu trữ dữ liệu cục bộ và đồng bộ hóa thông minh. Điều này cho phép người dùng truy cập và sử dụng một số tính năng cốt lõi ngay cả khi ngoại tuyến, dữ liệu sẽ tự động được cập nhật lên máy chủ ngay khi có kết nối mạng trở lại."
+      },
+      {
+        "q": "Winterfrost có hỗ trợ cập nhật khi iOS hoặc Android ra phiên bản mới không?",
+        "a": "Chắc chắn. Chúng tôi cung cấp các gói hỗ trợ và bảo trì dài hạn để đảm bảo ứng dụng của bạn luôn tương thích với các bản cập nhật mới nhất từ Apple và Google, tránh tình trạng lỗi tính năng hoặc bị gỡ bỏ khỏi kho ứng dụng do lạc hậu về công nghệ."
+      },
+      {
+        "q": "Tôi có quyền kiểm soát và theo dõi tiến độ dự án không?",
+        "a": "Có. Chúng tôi sử dụng các công cụ quản lý dự án chuyên nghiệp giúp bạn theo dõi sát sao từng giai đoạn phát triển. Bạn sẽ luôn biết được đội ngũ đang làm đến đâu, các tính năng nào đã hoàn thiện và tham gia vào quá trình kiểm soát chất lượng trước khi bàn giao chính thức."
+      }
+    ]
+  }
+}

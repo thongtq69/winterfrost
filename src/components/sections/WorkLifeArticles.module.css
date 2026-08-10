@@ -1,0 +1,24 @@
+.section { width: calc(100% - 248px); max-width: 1480px; height: 735.1875px; margin: 0 auto; padding: 0 40px; background: #fff; }
+.header { display: flex; width: 100%; height: 137.59375px; align-items: center; justify-content: space-between; padding-top: 80px; }
+.header h2 { margin: 0; color: #121528; font-size: 48px; font-weight: 500; line-height: 1.2; }
+.grid { display: grid; width: 100%; height: 565.59375px; grid-template-columns: repeat(3, 1fr); gap: 24px; padding-bottom: 80px; margin-top: 32px; }
+.card { display: flex; width: 100%; height: 485.59375px; flex-direction: column; align-items: flex-start; gap: 16px; color: inherit; }
+.imageWrapper { position: relative; overflow: hidden; width: 100%; height: 253.4921875px; flex-shrink: 0; border-radius: 8px; }
+.imageWrapper img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; transition: transform .5s ease; }
+.card:hover .imageWrapper img { transform: scale(1.035); }
+.tagRow { display: flex; height: 19.90625px; gap: 6px; }
+.tagRow span { border-radius: 4px; padding: 3px 8px; background: rgba(217,132,22,.45); color: #1a3b91; font-size: 11px; font-weight: 600; line-height: normal; }
+.content { display: flex; width: 100%; height: 135.1953125px; flex-direction: column; gap: 12px; }
+.content h3 { display: -webkit-box; overflow: hidden; height: 56px; margin: 0; color: #121528; font-size: 20px; font-weight: 500; line-height: 1.4; -webkit-box-orient: vertical; -webkit-line-clamp: 2; }
+.content p { display: -webkit-box; overflow: hidden; height: 67.1953125px; margin: 0; color: #5b5b5b; font-size: 14px; font-weight: 400; line-height: 1.6; -webkit-box-orient: vertical; -webkit-line-clamp: 3; }
+.meta { display: flex; width: 100%; height: 29px; align-items: flex-end; justify-content: flex-end; padding-top: 10px; color: #5b5b5b; }
+.meta > span, .meta > div > span { display: flex; align-items: center; gap: 6px; font-size: 13px; font-weight: 500; line-height: normal; }
+.meta > div { display: flex; gap: 16px; }
+.meta svg { width: 13px; height: 13px; }
+
+@media (max-width: 900px) {
+  .section { width: 100%; height: auto; padding: 0 20px; }
+  .header { height: auto; padding-top: 60px; }
+  .header h2 { font-size: 36px; }
+  .grid { height: auto; grid-template-columns: 1fr; padding: 32px 0 60px; }
+}

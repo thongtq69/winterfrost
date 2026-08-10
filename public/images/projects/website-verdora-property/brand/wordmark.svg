@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="256" viewBox="0 0 1000 256">
+    <defs>
+      <linearGradient id="wordmarkGradient" x1="20" y1="20" x2="236" y2="236" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#176B53"/>
+        <stop offset="1" stop-color="#263238"/>
+      </linearGradient>
+    </defs>
+    <g>
+    <defs>
+      <linearGradient id="wordmarkGradient" x1="20" y1="20" x2="236" y2="236" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#176B53"/>
+        <stop offset="1" stop-color="#263238"/>
+      </linearGradient>
+    </defs>
+
+    <path d="m128 20 106 108-106 108L22 128 128 20Z" fill="url(#wordmarkGradient)"/>
+    <path d="M72 166V98l56-34 56 34v68h-29v-46h-54v46H72Z" fill="#fff"/>
+    <path d="M111 166v-30h34v30" fill="none" stroke="url(#wordmarkGradient)" stroke-width="9"/>
+
+  </g>
+    <text x="294" y="148" fill="#176B53" font-family="Manrope, Arial, Helvetica, sans-serif" font-size="66" font-weight="800" letter-spacing="-2">Verdora Property</text>
+    <text x="299" y="192" fill="#667085" font-family="Manrope, Arial, Helvetica, sans-serif" font-size="23" font-weight="650" letter-spacing="3.2">DIGITAL EXPERIENCE</text>
+  </svg>

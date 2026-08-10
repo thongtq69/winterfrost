@@ -1,0 +1,492 @@
+{
+  "slug": "phat-trien-iot",
+  "metaTitle": "Dịch vụ phát triển IoT - Winterfrost",
+  "hero": {
+    "titleDark": "Dịch vụ ",
+    "titleLight": "phát triển IoT",
+    "description": "Winterfrost cung cấp giải pháp IoT toàn diện, bao gồm lập trình firmware nhúng, thiết lập các thiết bị đầu cuối và tạo bảng điều khiển đám mây cùng với hệ thống phân tích dữ liệu thông minh.",
+    "bgImage": "/images/migrated/homenest-software/wp-content/uploads/2026/03/Web-app-development.jpg",
+    "dashboardImage": "/images/services/winterfrost/web-application-development.webp"
+  },
+  "solution": {
+    "headlineLight": "Giá trị thực thi từ",
+    "headlineDark": "hệ sinh thái IoT",
+    "description": "Giải pháp IoT của Winterfrost tăng cường khả năng kết nối giữa các thiết bị, đảm bảo xử lý dữ liệu ngay tức thì và bảo vệ hệ thống bằng nhiều lớp an ninh, nhằm nâng cao hiệu suất tự động hóa cho các doanh nghiệp.",
+    "ctaLabel": "Bắt đầu dự án của bạn",
+    "ctaHref": "/lien-he",
+    "items": [
+      {
+        "title": "Kết nối thiết bị mượt mà",
+        "desc": "Hỗ trợ nhiều giao thức kết nối khác nhau, giúp cho các thiết bị phần cứng giao tiếp một cách ổn định với hệ thống trung tâm ở mọi điều kiện cơ sở hạ tầng."
+      },
+      {
+        "title": "Xử lý dữ liệu ngay lập tức",
+        "desc": "Dữ liệu từ cảm biến được thu thập, xử lý và phản hồi nhanh chóng, đảm bảo độ chính xác cho các hệ thống giám sát và điều khiển từ xa."
+      },
+      {
+        "title": "Tự động hóa vận hành thông minh",
+        "desc": "Thiết lập các kịch bản tự động hóa dựa trên dữ liệu từ cảm biến, giúp giảm thiểu sự can thiệp của con người và tối ưu hóa hiệu suất hoạt động của thiết bị."
+      },
+      {
+        "title": "Bảo mật nhiều lớp",
+        "desc": "Áp dụng các biện pháp mã hóa dữ liệu từ thiết bị đến hạ tầng đám mây, đảm bảo an toàn thông tin và ngăn chặn truy cập trái phép vào hệ thống phần cứng."
+      },
+      {
+        "title": "Khả năng mở rộng lớn",
+        "desc": "Kiến trúc hệ thống được xây dựng để quản lý từ hàng trăm đến hàng triệu thiết bị kết nối đồng thời mà không làm chậm quá trình xử lý dữ liệu."
+      },
+      {
+        "title": "Phân tích dữ liệu dự đoán",
+        "desc": "Sử dụng dữ liệu trong quá khứ để dự đoán xu hướng hoạt động hoặc cảnh báo sớm về sự cố thiết bị, giúp doanh nghiệp chủ động hơn trong công việc bảo trì."
+      }
+    ]
+  },
+  "features": {
+    "headlineLight": "Danh mục giải pháp ",
+    "headlineDark": "kỹ thuật IoT chuyên sâu",
+    "description": "Cung cấp một hệ sinh thái giải pháp kỹ thuật chuyên sâu, từ lập trình nhúng, xử lý dữ liệu gần nơi thu thập, cho đến việc xây dựng nền tảng quản lý trung tâm tích hợp trí tuệ nhân tạo.",
+    "ctaLabel": "Thảo luận về dự án",
+    "ctaHref": "/lien-he",
+    "items": [
+      {
+        "title": "Lập trình firmware và thiết bị nhúng",
+        "desc": "Thiết kế và phát triển mã cho các vi điều khiển, nhằm đảm bảo thiết bị hoạt động hiệu quả nhất có thể, tiết kiệm điện năng và xử lý các công việc tại chỗ một cách tốt nhất.",
+        "image": "/images/services/winterfrost/enterprise-software-development.webp"
+      },
+      {
+        "title": "Tính toán tại biên",
+        "desc": "Triển khai các nốt gần nơi thu thập dữ liệu để xử lý ngay tại chỗ. Điều này giúp giảm bớt gánh nặng cho hạ tầng đám mây, giảm độ trễ và đảm bảo hệ thống vẫn tiếp tục hoạt động ngay cả khi không có kết nối internet.",
+        "image": "/images/services/winterfrost/ai-development.webp"
+      },
+      {
+        "title": "Nền tảng quản lý IoT tập trung",
+        "desc": "Xây dựng hạ tầng đám mây để quản lý vòng đời của thiết bị, lưu trữ lượng dữ liệu lớn và điều phối thông tin giữa các phần trong hệ thống.",
+        "image": "/images/services/winterfrost/devops-development.webp"
+      },
+      {
+        "title": "Bảng điều khiển trực quan",
+        "desc": "Phát triển các bảng điều khiển hiển thị thông số cảm biến một cách trực quan theo thời gian thực, giúp cho người quản lý dễ dàng theo dõi và điều khiển thiết bị từ xa.",
+        "image": "/images/services/winterfrost/saas-application-development.webp"
+      },
+      {
+        "title": "Tích hợp AI vào IoT",
+        "desc": "Nhúng các mô hình trí tuệ nhân tạo để phân tích dữ liệu cảm biến một cách sâu sắc, nhận diện hành vi và tự động đưa ra quyết định điều khiển thông minh.",
+        "image": "/images/services/winterfrost/custom-software-solutions.webp"
+      }
+    ]
+  },
+  "howWeWork": {
+    "label": "Lộ trình xây dựng hệ thống IoT",
+    "ctaLabel": "Bắt đầu xây dựng sản phẩm của bạn!",
+    "ctaHref": "/lien-he",
+    "steps": [
+      {
+        "num": "01",
+        "badge": "Phân tích",
+        "title": "Khảo sát nghiệp vụ và lựa chọn phần cứng",
+        "desc": "Xác định các chỉ số cần thu thập và môi trường lắp đặt thực tế. Lựa chọn loại cảm biến, thiết bị điều khiển và vi điều khiển phù hợp về độ bền, độ chính xác và khả năng tiêu thụ điện năng."
+      },
+      {
+        "num": "02",
+        "badge": "Giải pháp",
+        "title": "Thiết kế kiến trúc và giao thức kết nối",
+        "desc": "Xây dựng mô hình phân tầng từ thiết bị đến Cloud. Lựa chọn giao thức truyền tải dữ liệu tối ưu và phương thức kết nối Wifi, LoRaWAN, Zigbee hoặc 4G/5G, đảm bảo tín hiệu thông suốt và tiết kiệm băng thông."
+      },
+      {
+        "num": "03",
+        "badge": "Thực thi",
+        "title": "Lập trình nhúng và thiết kế bo mạch",
+        "desc": "Triển khai lập trình nhúng cho thiết bị để xử lý dữ liệu tại chỗ và gửi dữ liệu về máy chủ. Thiết kế và tối ưu hóa sơ đồ bo mạch nếu dự án yêu cầu phần cứng chuyên biệt, đảm bảo khả năng chống nhiễu và hoạt động ổn định."
+      },
+      {
+        "num": "04",
+        "badge": "Tích hợp",
+        "title": "Tích hợp Cloud và Module xử lý AI",
+        "desc": "Thiết lập hạ tầng máy chủ lưu trữ dữ liệu lớn. Tích hợp các thuật toán học máy để phân tích dữ liệu lịch sử, đưa ra các cảnh báo tự động hoặc dự báo xu hướng như dự báo bảo trì thiết bị hoặc dự báo sản lượng."
+      },
+      {
+        "num": "05",
+        "badge": "Thẩm định",
+        "title": "Thử nghiệm thực địa và kiểm thử hệ thống",
+        "desc": "Lắp đặt hệ thống tại hiện trường và vận hành thử nghiệm trong môi trường thực tế. Kiểm tra khả năng chịu tải, độ trễ truyền tin và tính ổn định của các kịch bản tự động hóa trước khi bàn giao chính thức."
+      },
+      {
+        "num": "06",
+        "badge": "Duy trì",
+        "title": "Quản trị thiết bị từ xa và tối ưu hóa",
+        "desc": "Triển khai hệ thống quản lý thiết bị tập trung để cập nhật phần mềm từ xa, giám sát dung lượng pin và tình trạng sức khỏe của từng cảm biến 24/7. Thực hiện tinh chỉnh thuật toán dựa trên dữ liệu vận hành thực tế."
+      }
+    ]
+  },
+  "benefits": {
+    "label": "Vì sao nên chọn dịch vụ IoT tại Winterfrost?",
+    "headlineLight": "Xây dựng hệ sinh thái IoT chuyên biệt và",
+    "headlineDark": "tự động hóa doanh nghiệp",
+    "items": [
+      {
+        "num": "1",
+        "title": "Giải pháp trọn gói",
+        "desc": "Đồng bộ từ thiết kế phần cứng, lập trình phần mềm đến hạ tầng đám mây và ứng dụng quản lý trong cùng một hệ sinh thái."
+      },
+      {
+        "num": "2",
+        "title": "Xử lý dữ liệu lớn",
+        "desc": "Hạ tầng hiện đại có khả năng thu thập và phân tích hàng triệu bản ghi mỗi giây, cung cấp các báo cáo và phản hồi ngay lập tức."
+      },
+      {
+        "num": "3",
+        "title": "Bảo mật đa lớp",
+        "desc": "Thiết lập các biện pháp mã hóa thông tin và xác minh thiết bị chặt chẽ, đảm bảo an toàn tuyệt đối từ phần cứng đến đám mây."
+      },
+      {
+        "num": "4",
+        "title": "Tối ưu năng lượng và hiệu suất",
+        "desc": "Lập trình firmware sâu sắc nhằm kéo dài thời gian sử dụng pin tối đa cho thiết bị nhúng mà vẫn bảo đảm độ chính xác của dữ liệu."
+      },
+      {
+        "num": "5",
+        "title": "Đa giao thức và mở rộng linh hoạt",
+        "desc": "Hỗ trợ tất cả các chuẩn kết nối như MQTT, CoAP, LoRaWAN, Zigbee, có khả năng mở rộng lên tới hàng triệu thiết bị."
+      },
+      {
+        "num": "6",
+        "title": "Dashboard trực quan theo yêu cầu",
+        "desc": "Giao diện Web/Mobile App được thiết kế riêng theo quy trình thực tế của doanh nghiệp, giúp điều khiển từ xa một cách dễ dàng."
+      },
+      {
+        "num": "7",
+        "title": "Tích hợp hệ thống liền mạch",
+        "desc": "Liên kết dữ liệu IoT trực tiếp với các phần mềm quản lý hiện có như ERP, CRM thông qua cổng API tiêu chuẩn."
+      },
+      {
+        "num": "8",
+        "title": "Bàn giao 100% mã nguồn",
+        "desc": "Doanh nghiệp hoàn toàn sở hữu tài sản trí tuệ, từ firmware cho đến mã nguồn ứng dụng, bảo đảm tính tự chủ công nghệ lâu dài."
+      },
+      {
+        "num": "9",
+        "title": "Đội ngũ kỹ sư trực tiếp thực thi",
+        "desc": "Làm việc trực tiếp với các chuyên gia có kinh nghiệm thực tế phong phú, đảm bảo yêu cầu kỹ thuật được đáp ứng nhanh chóng và chính xác."
+      }
+    ]
+  },
+  "ctaBanner": {
+    "badge": "Liên hệ ngay!",
+    "headline": "Kết nối và điều khiển thiết bị thông minh qua internet",
+    "description": "Nếu doanh nghiệp cần giám sát tài sản hoặc tự động hóa dây chuyền sản xuất, giải pháp của Winterfrost sẽ giúp bạn thực hiện điều đó. Hệ thống đảm bảo dữ liệu được truyền tải liên tục, bảo mật và dễ dàng phân tích để đưa ra quyết định kinh doanh.",
+    "ctaLabel": "Bắt đầu dự án IoT ngay",
+    "ctaHref": "/lien-he",
+    "image": "/images/people/cta/winterfrost/chuyen-vien-nu.png"
+  },
+  "counter": {
+    "badgeText": "Thành tựu của chúng tôi",
+    "items": [
+      {
+        "index": "/01",
+        "value": "10+",
+        "desc": "Năm kinh nghiệm"
+      },
+      {
+        "index": "/02",
+        "value": "250+",
+        "desc": "Khách hàng"
+      },
+      {
+        "index": "/03",
+        "value": "15+",
+        "desc": "Quốc gia phục vụ"
+      },
+      {
+        "index": "/04",
+        "value": "98%",
+        "desc": "Sự hài lòng của khách hàng"
+      }
+    ]
+  },
+  "industries": {
+    "label": "Lĩnh vực phục vụ",
+    "headlineLight": "Các lĩnh vực trọng điểm triển ",
+    "headlineDark": "khai giải pháp IoT",
+    "items": [
+      {
+        "slug": "thuong-mai-dien-tu",
+        "title": "Thương mại điện tử",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/eComerce-Industries-Icon.png"
+      },
+      {
+        "slug": "cong-nghe-tai-chinh",
+        "title": "Công nghệ tài chính",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Fintech-Industries-Icon.png"
+      },
+      {
+        "slug": "y-te",
+        "title": "Y tế",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Healthcare-Industries-Icon.png"
+      },
+      {
+        "slug": "tai-chinh-doanh-nghiep",
+        "title": "Tài chính doanh nghiệp",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Expert-Financial-Industries-Icon.png"
+      },
+      {
+        "slug": "phan-mem-doanh-nghiep",
+        "title": "Phần mềm doanh nghiệp",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Business-Industries-Icon.png"
+      },
+      {
+        "slug": "ban-le",
+        "title": "Bán lẻ",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Retail-Industries-Icon.png"
+      },
+      {
+        "slug": "bat-dong-san",
+        "title": "Bất động sản",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Real-Estate-Industries-Icon.png"
+      },
+      {
+        "slug": "van-tai-va-logistics",
+        "title": "Vận tải và Logistics",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Logistics-Industries-Icon.png"
+      },
+      {
+        "slug": "giao-duc",
+        "title": "Giáo dục",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Education-Industries-Icon.png"
+      }
+    ]
+  },
+  "price": {
+    "label": "Bảng giá",
+    "headlineLight": "Chi phí dịch vụ ",
+    "headlineDark": "phát triển IoT",
+    "description": "Chuyển đổi dữ liệu cảm biến thô thành thông tin vận hành thông minh thông qua quy trình phát triển IoT toàn diện từ Firmware đến Dashboard đám mây.",
+    "packages": [
+      {
+        "name": "Gói Cơ Bản",
+        "price": "60.000.000",
+        "currency": "VNĐ",
+        "period": "/ dự án",
+        "description": "Giải pháp tối ưu cho doanh nghiệp bắt đầu tiếp cận IoT thông qua các dự án thí điểm hoặc kiểm chứng ý tưởng.",
+        "features": [
+          "Thiết lập kết nối thiết bị",
+          "Tích hợp đám mây cơ bản",
+          "Bảng điều khiển dữ liệu thời gian thực",
+          "Sử dụng các giao thức tiêu chuẩn",
+          "Hỗ trợ kỹ thuật qua email"
+        ],
+        "ctaLabel": "Bắt đầu",
+        "ctaHref": "/lien-he",
+        "highlight": false
+      },
+      {
+        "name": "Hệ sinh thái IoT",
+        "price": "Báo giá linh hoạt theo",
+        "currency": "",
+        "period": "",
+        "description": "Dành cho doanh nghiệp xây dựng hệ sinh thái thiết bị kết nối hoàn chỉnh và có khả năng mở rộng quy mô.",
+        "features": [
+          "Phát triển firmware tùy chỉnh",
+          "Quản lý mạng lưới đa thiết bị",
+          "Tích hợp tính toán tại biên",
+          "Hệ thống phân tích nâng cao và cảnh báo",
+          "Bảo mật và mã hóa dữ liệu IoT chuyên sâu",
+          "Tích hợp API với các hệ thống bên thứ ba",
+          "Hỗ trợ kỹ thuật chuyên sâu sau khi vận hành"
+        ],
+        "ctaLabel": "Bắt đầu",
+        "ctaHref": "/lien-he",
+        "highlight": true
+      },
+      {
+        "name": "Gói Nâng Cao",
+        "price": "120.000.000",
+        "currency": "VNĐ",
+        "period": "/ dự án",
+        "description": "Giải pháp IoT tổng thể cho quy mô công nghiệp hoặc triển khai diện rộng với yêu cầu khắt khe về hạ tầng và bảo mật.",
+        "features": [
+          "Kiến trúc IoT công nghiệp chuyên dụng",
+          "Triển khai đám mây đa khu vực",
+          "Hạ tầng có tính sẵn sàng cao",
+          "Tuân thủ các tiêu chuẩn bảo mật cấp doanh nghiệp",
+          "Đội ngũ DevOps riêng biệt và cam kết chất lượng dịch vụ",
+          "Khả năng mở rộng số lượng thiết bị không giới hạn"
+        ],
+        "ctaLabel": "Bắt đầu",
+        "ctaHref": "/lien-he",
+        "highlight": false
+      }
+    ]
+  },
+  "techStack": {
+    "headlineLight": "Công nghệ phát triển IoT ",
+    "headlineDark": "tại Winterfrost",
+    "filters": [
+      "Tất cả",
+      "Giao diện",
+      "Hệ thống",
+      "Cơ sở dữ liệu",
+      "Vận hành",
+      "Quản lý"
+    ],
+    "items": [
+      {
+        "name": "React / Next.js",
+        "category": "Giao diện"
+      },
+      {
+        "name": "Angular",
+        "category": "Giao diện"
+      },
+      {
+        "name": "Vue.js",
+        "category": "Giao diện"
+      },
+      {
+        "name": "Figma",
+        "category": "Giao diện"
+      },
+      {
+        "name": "Adobe XD",
+        "category": "Giao diện"
+      },
+      {
+        "name": "Sketch",
+        "category": "Giao diện"
+      },
+      {
+        "name": "Node.js",
+        "category": "Hệ thống"
+      },
+      {
+        "name": "Laravel",
+        "category": "Hệ thống"
+      },
+      {
+        "name": "WordPress / PHP",
+        "category": "Hệ thống"
+      },
+      {
+        "name": ".NET / ASP.NET",
+        "category": "Hệ thống"
+      },
+      {
+        "name": "MySQL",
+        "category": "Cơ sở dữ liệu"
+      },
+      {
+        "name": "PostgreSQL",
+        "category": "Cơ sở dữ liệu"
+      },
+      {
+        "name": "MongoDB",
+        "category": "Cơ sở dữ liệu"
+      },
+      {
+        "name": "Redis",
+        "category": "Cơ sở dữ liệu"
+      },
+      {
+        "name": "Docker",
+        "category": "Vận hành"
+      },
+      {
+        "name": "GitHub",
+        "category": "Vận hành"
+      },
+      {
+        "name": "GitLab",
+        "category": "Vận hành"
+      },
+      {
+        "name": "Bitbucket",
+        "category": "Vận hành"
+      },
+      {
+        "name": "GitHub Actions",
+        "category": "Vận hành"
+      },
+      {
+        "name": "CI/CD",
+        "category": "Vận hành"
+      },
+      {
+        "name": "AWS",
+        "category": "Vận hành"
+      },
+      {
+        "name": "Deploy Server",
+        "category": "Vận hành"
+      },
+      {
+        "name": "Jira",
+        "category": "Quản lý"
+      }
+    ]
+  },
+  "comprehensiveServices": {
+    "headlineLight": "Giải pháp bổ trợ ",
+    "headlineDark": "hệ sinh thái IoT chuyên sâu",
+    "items": [
+      {
+        "slug": "phat-trien-ai",
+        "title": "Phát triển trí tuệ nhân tạo",
+        "desc": "IoT và AI là sự kết hợp tất yếu. Việc ứng dụng Machine Learning vào dữ liệu cảm biến giúp thực hiện bảo trì dự báo, phát hiện bất thường và ra quyết định tự động ngay tại biên. Chúng tôi xây dựng các lớp phân tích giúp chuyển hóa dữ liệu IoT thô thành trí tuệ vận hành tự động.",
+        "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Dich-vu-phat-trien-AI-HomeNest-Viet-Nam.jpg",
+        "href": "/dich-vu/phat-trien-ai"
+      },
+      {
+        "slug": "phat-trien-blockchain",
+        "title": "Phát triển Blockchain",
+        "desc": "Gia tăng tính minh bạch và bảo mật tuyệt đối cho dữ liệu từ các thiết bị IoT. Chúng tôi xây dựng các sổ cái phi tập trung giúp truy xuất nguồn gốc, xác thực thiết bị và tự động hóa giao dịch thông qua Smart Contracts, đảm bảo dữ liệu không thể bị giả mạo trong suốt chu kỳ vận hành.",
+        "image": "/images/migrated/homenest-software/wp-content/uploads/2026/04/M7XkcGNNmF9nUkjJM8FXYMH8BA.avif",
+        "href": "/dich-vu/phat-trien-blockchain"
+      },
+      {
+        "slug": "phat-trien-devops",
+        "title": "Phát triển DevOps",
+        "desc": "Các nền tảng IoT Cloud yêu cầu quản trị hạ tầng nghiêm ngặt. Chúng tôi triển khai quy trình CI/CD cho cả Firmware và Cloud, điều phối Container cho kiến trúc Microservices và giám sát liên tục để đảm bảo tính sẵn sàng tối đa cho các hệ thống kết nối quan trọng.",
+        "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Dich-vu-phat-trien-DevOps-HomeNest-Viet-Nam.jpg",
+        "href": "/dich-vu/phat-trien-devops"
+      }
+    ]
+  },
+  "faq": {
+    "label": "Các câu hỏi thường gặp",
+    "headlineParts": [
+      "Giải Đáp",
+      "Mọi",
+      "Thắc Mắc"
+    ],
+    "description": "Tổng hợp các thông tin về giải pháp phần cứng, giao thức kết nối, an ninh dữ liệu và khả năng tích hợp hệ thống.",
+    "items": [
+      {
+        "q": "Winterfrost có hỗ trợ lựa chọn thiết bị phần cứng không?",
+        "a": "Có. Dựa trên nhu cầu thực tế và môi trường triển khai, chúng tôi sẽ tư vấn và lựa chọn các dòng vi điều khiển, cảm biến và module truyền thông tối ưu nhất về công suất, độ bền và chi phí. Chúng tôi ưu tiên các linh kiện có tính sẵn sàng cao trên thị trường để đảm bảo khả năng bảo trì lâu dài."
+      },
+      {
+        "q": "Hệ thống IoT có hoạt động ổn định khi không có kết nối Internet?",
+        "a": "Có. Bằng cách ứng dụng kỹ thuật Edge Computing, các tác vụ xử lý logic và điều khiển quan trọng được thực hiện ngay tại thiết bị hoặc nốt biên cục bộ. Hệ thống vẫn vận hành bình thường và sẽ tự động đồng bộ dữ liệu lên đám mây ngay khi kết nối được khôi phục."
+      },
+      {
+        "q": "Làm thế nào để đảm bảo an toàn cho dữ liệu từ thiết bị?",
+        "a": "Chúng tôi triển khai cơ chế bảo mật đa lớp: 1. Mã hóa: Sử dụng TLS/SSL cho dữ liệu truyền tải và lưu trữ. 2. Xác thực: Mỗi thiết bị có định danh duy nhất và chứng chỉ riêng. 3. Cập nhật: Hỗ trợ cơ chế OTA để vá lỗi bảo mật cho Firmware từ xa nhanh chóng."
+      },
+      {
+        "q": "Hệ thống có thể tích hợp với phần mềm hiện có của doanh nghiệp không?",
+        "a": "Có. Toàn bộ dữ liệu từ nền tảng IoT của Winterfrost được cung cấp thông qua cổng API. Điều này cho phép doanh nghiệp dễ dàng kết nối và đẩy dữ liệu trực tiếp vào các hệ thống quản trị sẵn có như SAP, Salesforce hoặc các ứng dụng nội bộ khác."
+      },
+      {
+        "q": "Giao thức kết nối nào được ưu tiên sử dụng?",
+        "a": "Tùy đặc thù dự án, chúng tôi triển khai: MQTT/CoAP (tối ưu cho thiết bị ít tài nguyên, tiết kiệm pin), HTTP/HTTPS (tương thích hạ tầng Web), hoặc LoRaWAN/Zigbee (cho mạng cảm biến diện rộng và môi trường công nghiệp)."
+      },
+      {
+        "q": "Doanh nghiệp có được sở hữu mã nguồn firmware và phần mềm không?",
+        "a": "Có. Winterfrost cam kết bàn giao 100% mã nguồn và các tài liệu kỹ thuật liên quan. Doanh nghiệp hoàn toàn làm chủ công nghệ và có quyền tự thực hiện nâng cấp hoặc mở rộng hệ thống về sau."
+      },
+      {
+        "q": "Chi phí vận hành hạ tầng IoT hàng tháng được tính như thế nào?",
+        "a": "Chi phí này chủ yếu phụ thuộc vào lưu lượng dữ liệu truyền tải, số lượng thiết bị kết nối và tài nguyên lưu trữ trên Cloud. Chúng tôi luôn tối ưu hóa kịch bản truyền tin để giảm thiểu băng thông, giúp doanh nghiệp tiết kiệm tối đa chi phí vận hành."
+      }
+    ]
+  }
+}

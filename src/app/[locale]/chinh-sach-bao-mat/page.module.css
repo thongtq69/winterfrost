@@ -1,0 +1,34 @@
+.main { width: 100%; color: #101426; background: #fff; }
+.container { width: 1200px; max-width: 100%; margin: 0 auto; padding: 120px 20px 115px; }
+.breadcrumb { height: 19px; margin-bottom: 24px; display: flex; align-items: center; gap: 5px; color: #1a3b91; font-size: 14px; line-height: 19px; }
+.breadcrumb a { color: #555; text-decoration: none; }
+.introBox { min-height: 372.38px; margin-bottom: 60px; padding: 40px; border-radius: 12px; background: #f4f7fc; }
+.introBox h1 { margin: 0 0 20px; color: #1a3b91; font-family: Winterfrost, sans-serif; font-size: 28px; font-weight: 600; line-height: 30.8px; }
+.introBox p { margin: 0 0 20px; font-size: 16px; line-height: 25.6px; }
+.introBox p:last-child { margin-bottom: 0; }
+.section { margin-bottom: 60px; }
+.section h2 { margin: 0 0 24px; color: #1a3b91; font-family: Winterfrost, sans-serif; font-size: 24px; font-weight: 600; line-height: 28.8px; }
+.section .leftTitle { margin-bottom: 30px; }
+.section > p { margin: 0 5px 20px; font-size: 16px; line-height: 25.6px; }
+.cards3, .cards2 { display: grid; gap: 20px; }
+.cards3 { grid-template-columns: repeat(3, 1fr); }
+.cards2 { grid-template-columns: repeat(2, 1fr); margin: 30px 5px 40px; }
+.numberCard { position: relative; min-height: 241px; overflow: hidden; padding: 24px; border-radius: 12px; background: rgba(255,255,255,.8); box-shadow: 0 12px 38px rgba(30,64,130,.055); }
+.cards2 .numberCard { min-height: 196px; }
+.numberCard > svg { width: 20px; height: 20px; margin-bottom: 14px; color: #79a0dc; stroke-width: 1.6; }
+.numberCard h3 { position: relative; z-index: 1; margin: 0; font-family: Winterfrost, sans-serif; font-size: 18px; font-weight: 400; line-height: 22.5px; }
+.numberCard p { position: relative; z-index: 1; margin: 18px 0 0; font-size: 16px; line-height: 25.6px; }
+.bigNumber { position: absolute; top: -10px; right: 12px; color: #f0edff; font-family: Winterfrost, sans-serif; font-size: 128px; font-weight: 600; line-height: 1; }
+.infoList { margin: 0 5px 24px; padding-left: 24px; font-size: 16px; line-height: 28.8px; }
+.infoList li { margin-bottom: 8px; }
+.controlSection { margin-bottom: 0; }
+
+@media (max-width: 900px) {
+  .container { width: 100%; padding-top: 105px; }
+  .cards3 { grid-template-columns: 1fr; }
+  .cards2 { grid-template-columns: 1fr; }
+}
+@media (max-width: 600px) {
+  .container { padding-inline: 14px; }
+  .introBox { padding: 28px 22px; }
+}

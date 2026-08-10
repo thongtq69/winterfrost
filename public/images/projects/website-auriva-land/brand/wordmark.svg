@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="256" viewBox="0 0 1000 256">
+    <defs>
+      <linearGradient id="wordmarkGradient" x1="20" y1="20" x2="236" y2="236" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#174C3C"/>
+        <stop offset="1" stop-color="#C5A15A"/>
+      </linearGradient>
+    </defs>
+    <g>
+    <defs>
+      <linearGradient id="wordmarkGradient" x1="20" y1="20" x2="236" y2="236" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#174C3C"/>
+        <stop offset="1" stop-color="#C5A15A"/>
+      </linearGradient>
+    </defs>
+
+    <path d="m128 26 104 190h-48l-19-37H91l-19 37H24L128 26Zm0 76-20 40h40l-20-40Z" fill="url(#wordmarkGradient)"/>
+    <path d="M68 180h121M91 151h74" stroke="#fff" stroke-width="10" stroke-linecap="round" opacity=".72"/>
+
+  </g>
+    <text x="294" y="148" fill="#174C3C" font-family="Manrope, Arial, Helvetica, sans-serif" font-size="76" font-weight="800" letter-spacing="-2">Auriva Land</text>
+    <text x="299" y="192" fill="#667085" font-family="Manrope, Arial, Helvetica, sans-serif" font-size="23" font-weight="650" letter-spacing="3.2">DIGITAL EXPERIENCE</text>
+  </svg>

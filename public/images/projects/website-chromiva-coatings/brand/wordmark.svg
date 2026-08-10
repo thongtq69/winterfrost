@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="256" viewBox="0 0 1000 256">
+    <defs>
+      <linearGradient id="wordmarkGradient" x1="20" y1="20" x2="236" y2="236" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#EA6B35"/>
+        <stop offset="1" stop-color="#2353A5"/>
+      </linearGradient>
+    </defs>
+    <g>
+    <defs>
+      <linearGradient id="wordmarkGradient" x1="20" y1="20" x2="236" y2="236" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#EA6B35"/>
+        <stop offset="1" stop-color="#2353A5"/>
+      </linearGradient>
+    </defs>
+
+    <path d="M128 25C93 72 59 107 59 151c0 42 31 74 69 74s69-32 69-74c0-44-34-79-69-126Z" fill="url(#wordmarkGradient)"/>
+    <path d="M77 160c29-12 56-13 103 1" fill="none" stroke="#fff" stroke-width="15" stroke-linecap="round" opacity=".9"/>
+    <path d="M86 190c24-8 51-8 83 0" fill="none" stroke="#fff" stroke-width="10" stroke-linecap="round" opacity=".62"/>
+
+  </g>
+    <text x="294" y="148" fill="#EA6B35" font-family="Manrope, Arial, Helvetica, sans-serif" font-size="66" font-weight="800" letter-spacing="-2">Chromiva Coatings</text>
+    <text x="299" y="192" fill="#667085" font-family="Manrope, Arial, Helvetica, sans-serif" font-size="23" font-weight="650" letter-spacing="3.2">DIGITAL EXPERIENCE</text>
+  </svg>

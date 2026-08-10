@@ -1,0 +1,229 @@
+.section {
+  -webkit-backdrop-filter: blur(5px);
+  backdrop-filter: blur(5px);
+  z-index: 2;
+  background-color: rgba(255, 255, 255, 0.6);
+  flex-direction: column;
+  align-items: center;
+  gap: 60px;
+  width: 100%;
+  padding: 120px 80px 80px;
+  display: flex;
+  position: relative;
+  overflow: visible;
+}
+
+.label {
+  color: #1a3b91;
+  z-index: 3;
+  align-items: center;
+  gap: 8px;
+  font-size: 18px;
+  font-weight: 500;
+  margin: 0;
+  line-height: 1.2;
+  display: flex;
+  position: relative;
+}
+
+.labelDot {
+  background-color: rgba(22, 106, 217, 0.55);
+  border-radius: 100%;
+  width: 8px;
+  height: 8px;
+  flex-shrink: 0;
+}
+
+.content {
+  -webkit-user-select: none;
+  user-select: none;
+  flex-direction: column;
+  align-items: center;
+  gap: 44px;
+  width: 100%;
+  max-width: 960px;
+  display: flex;
+  position: relative;
+}
+
+.timeline {
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  width: 100%;
+  display: flex;
+}
+
+.row {
+  z-index: 1;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 48px;
+  width: 100%;
+  display: flex;
+}
+
+.progressWrapper {
+  flex-direction: column;
+  flex-shrink: 0;
+  align-self: stretch;
+  align-items: center;
+  gap: 20px;
+  width: 100px;
+  display: flex;
+  overflow: hidden;
+}
+
+.stepNumber {
+  letter-spacing: -0.5px;
+  color: #1842a3;
+  white-space: pre;
+  font-size: 64px;
+  font-weight: 700;
+  line-height: normal;
+  opacity: 0.4;
+}
+
+.progressBar {
+  background-color: rgba(255, 255, 255, 0.05);
+  flex: 1;
+  width: 2px;
+  position: relative;
+  overflow: hidden;
+}
+
+.progressFill {
+  background-color: #2b5cb5;
+  width: 100%;
+  height: 0%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  transition: height 0.4s;
+}
+
+.row:last-child .progressBar { display: none; }
+
+.textContent {
+  flex-direction: column;
+  flex: 1;
+  gap: 16px;
+  min-width: 0;
+  max-width: 640px;
+  padding: 0 0 128px;
+  display: flex;
+}
+
+.row:last-child .textContent { padding-bottom: 0; }
+
+.heading {
+  flex-direction: column;
+  gap: 12px;
+  display: flex;
+}
+
+.badge {
+  background-color: #fff;
+  border-radius: 20px;
+  width: fit-content;
+  padding: 0 2px 2px 0;
+  box-shadow:
+    0 .602187px .602187px -1.25px rgba(42, 40, 46, 0.18),
+    0 2.28853px 2.28853px -2.5px rgba(42, 40, 46, 0.16),
+    0 10px 10px -3.75px rgba(42, 40, 46, 0.06);
+}
+
+.badgeInner {
+  background: linear-gradient(121deg, #021b7b 0%, #1670de 29%, #193493 100%);
+  border-radius: 20px;
+  padding: 2px 8px;
+}
+
+.badgeText {
+  color: #fff;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.6;
+  margin: 0;
+}
+
+.stepTitle {
+  letter-spacing: -0.04em;
+  color: #1a3b91;
+  margin: 0;
+  font-size: 32px;
+  font-weight: 500;
+  line-height: 1em;
+}
+
+.stepDesc {
+  color: #121528;
+  margin: 0;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 1.6;
+}
+
+.ctaWrapper {
+  z-index: 10;
+  margin-top: -40px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  height: 86px;
+}
+
+.content .ctaWrapper { margin-top: 0; }
+.ctaFlush { margin-top: 0; }
+
+.ctaButton {
+  color: #fff;
+  background: linear-gradient(121deg, #021b7b 0%, #1670de 29%, #193493 100%);
+  border-radius: 64px;
+  justify-content: center;
+  align-items: center;
+  padding: 12px 16px;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: normal;
+  text-decoration: none;
+  display: inline-flex;
+  transition: opacity .2s, transform .2s;
+  box-shadow:
+    0 .74px .74px -.75px rgba(123, 139, 209, 0.33),
+    0 2.01px 2.01px -1.5px rgba(123, 139, 209, 0.32),
+    0 4.43px 4.43px -2.25px rgba(123, 139, 209, 0.3),
+    0 9.83px 9.83px -3px rgba(123, 139, 209, 0.25),
+    0 25px 25px -3.75px rgba(123, 139, 209, 0.11),
+    0 0 0 1px #4d6ed1;
+}
+
+.ctaButton:hover { opacity: 0.9; transform: translateY(-2px); }
+
+.section.legacy { padding-bottom: 50px; }
+
+@media (max-width: 1200px) {
+  .section { padding: 100px 60px 50px; }
+  .stepNumber { font-size: 56px; }
+  .stepTitle { font-size: 28px; }
+}
+
+@media (max-width: 996px) {
+  .section { padding: 80px 40px 50px; }
+  .row { gap: 32px; }
+  .progressWrapper { width: 72px; }
+  .stepNumber { font-size: 48px; }
+  .stepTitle { font-size: 26px; }
+  .stepDesc { font-size: 14px; }
+  .label { font-size: 16px; }
+}
+
+@media (max-width: 768px) {
+  .section { padding: 60px 24px 30px; }
+  .row { gap: 24px; }
+  .progressWrapper { width: 56px; }
+  .stepNumber { font-size: 36px; }
+  .stepTitle { font-size: 22px; }
+}

@@ -1,0 +1,460 @@
+{
+  "slug": "phat-trien-ai",
+  "metaTitle": "Dịch vụ phát triển AI - Winterfrost",
+  "ctaBannerAfterIndustries": true,
+  "hero": {
+    "titleLight": "Dịch vụ phát triển AI ",
+    "titleDark": "chuyên nghiệp",
+    "description": "Winterfrost cung cấp dịch vụ phát triển trí tuệ nhân tạo, từ xây dựng machine learning đến triển khai hệ thống ngôn ngữ lớn LLMs. Ngoài ra, chúng tôi còn giúp doanh nghiệp tự động hóa các quy trình phức tạp và khai thác dữ liệu thông minh để mang lại những kết quả kinh doanh thực tế.",
+    "bgImage": "/images/migrated/homenest-software/wp-content/uploads/2026/03/services-app-bg.jpg",
+    "dashboardImage": "",
+    "phones": {
+      "left": "/images/migrated/homenest-software/wp-content/uploads/2026/04/AI-Development-header-left.webp",
+      "center": "/images/migrated/homenest-software/wp-content/uploads/2026/04/header-Ai-center.webp",
+      "right": "/images/migrated/homenest-software/wp-content/uploads/2026/04/AI-Development-header-right.webp"
+    },
+    "chips": [
+      "/images/migrated/homenest-software/wp-content/uploads/2026/04/AI-Development-header-text-left.jpg",
+      "/images/migrated/homenest-software/wp-content/uploads/2026/04/AI-Development-text-right-down.jpg",
+      "/images/migrated/homenest-software/wp-content/uploads/2026/04/AI-Development-header-text-left-down.jpg",
+      "/images/migrated/homenest-software/wp-content/uploads/2026/04/AI-Development-header-text-right-up.jpg"
+    ]
+  },
+  "solution": {
+    "headlineLight": "Giá trị đột phá khi phát triển AI",
+    "headlineDark": " cho doanh nghiệp",
+    "description": "Đầu tư vào AI không chỉ là tự động hóa đơn thuần mà còn là chiến lược biến dữ liệu thành lợi thế cạnh tranh, giúp doanh nghiệp vận hành nhanh, dự báo chính xác và cá nhân hóa trải nghiệm khách hàng ở quy mô lớn.",
+    "ctaLabel": "Bắt đầu dự án của bạn ngay hôm nay",
+    "ctaHref": "/lien-he",
+    "items": [
+      {
+        "title": "Tối ưu trải nghiệm khách hàng",
+        "desc": "Tăng tỷ lệ chuyển đổi và giữ chân khách hàng trong các lĩnh vực thương mại điện tử, tài chính và y tế nhờ AI dự báo nhu cầu người dùng. Chúng tôi sử dụng Machine Learning để cung cấp các gợi ý theo thời gian thực, định giá linh hoạt và phân phối nội dung cá nhân hóa.",
+        "image": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Predictive-Personalization.webp",
+        "descLinks": [
+          {
+            "phrase": "thương mại điện tử",
+            "href": "/linh-vuc/thuong-mai-dien-tu"
+          },
+          {
+            "phrase": "tài chính",
+            "href": "/linh-vuc/cong-nghe-tai-chinh"
+          },
+          {
+            "phrase": "y tế",
+            "href": "/linh-vuc/y-te"
+          }
+        ]
+      },
+      {
+        "title": "Tự động hóa quy trình vận hành",
+        "desc": "Đội ngũ kỹ sư AI của chúng tôi giúp cắt giảm tới 60% chi phí vận hành thông qua các luồng tự động hóa thông minh. Chúng tôi thay thế các tác vụ thủ công trong quản lý chuỗi cung ứng bằng các khung AI tự động điều phối nhiệm vụ, kích hoạt hành động và xử lý các tình huống phát sinh.",
+        "image": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Autonomous-Workflow-Orchestration.webp"
+      },
+      {
+        "title": "Tối ưu tài nguyên hệ thống",
+        "desc": "Tối ưu hóa chi phí và hiệu suất với hạ tầng được hỗ trợ bởi AI, tự động điều chỉnh tài nguyên tính toán theo nhu cầu thực tế. Chúng tôi đảm bảo hiệu suất hệ thống ổn định cho môi trường doanh nghiệp trong khi loại bỏ các chi phí dư thừa do phân bổ tài nguyên quá mức.",
+        "image": "/images/migrated/homenest-software/wp-content/uploads/2026/04/High-Efficiency-Cloud-Scaling.webp"
+      },
+      {
+        "title": "Bảo mật dữ liệu chủ động",
+        "desc": "Chúng tôi tích hợp bảo mật ngay từ khâu thiết kế, bảo vệ các hệ thống AI thông qua mã hóa đầu cuối, kiểm soát truy cập nghiêm ngặt và phát hiện bất thường tự động. Khung bảo mật chủ động đảm bảo khả năng phòng thủ vững chắc trước các cuộc tấn công dữ liệu và truy cập trái phép.",
+        "image": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Proactive-AI-Security.webp"
+      },
+      {
+        "title": "Phân tích & dự báo xu hướng",
+        "desc": "Chuyển từ việc xem xét quá khứ sang dự báo tương lai với khả năng dự đoán xu hướng bằng AI. Sử dụng các mô hình học máy hiện đại, chúng tôi dự báo nhu cầu, doanh thu và rủi ro cho các ngành FinTech, Y tế và Logistics, cung cấp thông tin chiến lược giúp doanh nghiệp chủ động hoàn toàn.",
+        "image": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Predictive-Analytics-Forecasting.webp"
+      }
+    ]
+  },
+  "features": {
+    "headlineLight": "Dịch vụ chuyên sâu ",
+    "headlineDark": "trong phát triển AI ",
+    "description": "",
+    "ctaLabel": "Cùng xây dựng giải pháp của bạn",
+    "ctaHref": "/lien-he",
+    "items": [
+      {
+        "num": "01",
+        "title": "Hệ sinh thái doanh nghiệp thông minh ",
+        "desc": "Kết nối CRM, ERP thành hệ thống AI thống nhất. Tích hợp machine learning trực tiếp vào nghiệp vụ giúp quy trình tự tối ưu và thích nghi linh hoạt theo thời gian.",
+        "image": "/images/migrated/homenest-software/wp-content/uploads/2026/03/Intelligent-Business-Ecosystems.jpg",
+        "iconPath": "M88.57,35A8,8,0,0,1,103.43,29l8,20A8,8,0,0,1,96.57,55ZM29,103.43l20,8A8,8,0,1,0,55,96.57l-20-8A8,8,0,0,0,29,103.43ZM227,152.57l-20-8A8,8,0,1,0,201,159.43l20,8A8,8,0,0,0,227,152.57ZM159.43,201A8,8,0,0,0,144.57,207l8,20A8,8,0,1,0,167.43,221ZM237.91,18.52a8,8,0,0,0-11.5-.18L174,70.75l-5.38-5.38a32,32,0,0,0-45.28,0L106.14,82.54a4,4,0,0,0,0,5.66l61.7,61.66a4,4,0,0,0,5.66,0l16.74-16.74a32.76,32.76,0,0,0,9.81-22.52,31.82,31.82,0,0,0-9.37-23.17l-5.38-5.37,52.2-52.17A8.22,8.22,0,0,0,237.91,18.52ZM85.64,90.34a8,8,0,0,0-11.49.18,8.22,8.22,0,0,0,.41,11.37L80.67,108,65.34,123.31A31.82,31.82,0,0,0,56,146.47,32.75,32.75,0,0,0,65.77,169l5,4.94L18.49,226.13a8.21,8.21,0,0,0-.61,11.1,8,8,0,0,0,11.72.43L82,185.25l5.37,5.38a32.1,32.1,0,0,0,45.29,0L148,175.31l6.34,6.35a8,8,0,0,0,11.32-11.32Z"
+      },
+      {
+        "num": "02",
+        "title": "Giải pháp LLM và AI riêng biệt ",
+        "desc": "Phát triển mô hình ngôn ngữ lớn LLM chuyên sâu trên dữ liệu nội bộ. Bảo mật dữ liệu tuyệt đối với AI nội bộ giúp doanh nghiệp làm chủ công nghệ AI mà không phụ thuộc vào bên thứ ba.",
+        "image": "/images/migrated/homenest-software/wp-content/uploads/2026/03/Custom-LLM-Generative-AI-Solutions.jpg",
+        "iconPath": "M128,40a96,96,0,1,0,96,96A96.11,96.11,0,0,0,128,40Zm45.66,61.66-40,40a8,8,0,0,1-11.32-11.32l40-40a8,8,0,0,1,11.32,11.32ZM96,16a8,8,0,0,1,8-8h48a8,8,0,0,1,0,16H104A8,8,0,0,1,96,16Z"
+      },
+      {
+        "num": "03",
+        "title": "Kiến trúc dữ liệu tích hợp AI ",
+        "desc": "Xây dựng hạ tầng xử lý hàng triệu dữ liệu theo thời gian thực với độ trễ cực thấp, giúp nền tảng vững chắc cho các giải pháp AI quy mô lớn trong y tế, tài chính và bán lẻ",
+        "image": "/images/migrated/homenest-software/wp-content/uploads/2026/03/AI-Powered-Data-Architectures.jpg",
+        "iconPath": "M240,56v64a8,8,0,0,1-13.66,5.66L200,99.31l-58.34,58.35a8,8,0,0,1-11.32,0L96,123.31,29.66,189.66a8,8,0,0,1-11.32-11.32l72-72a8,8,0,0,1,11.32,0L136,140.69,188.69,88,162.34,61.66A8,8,0,0,1,168,48h64A8,8,0,0,1,240,56Z"
+      }
+    ]
+  },
+  "benefits": {
+    "label": "Tại sao chọn chúng tôi",
+    "headlineLight": "Đồng hành cùng doanh nghiệp.",
+    "headlineDark": "Hiện thực hóa các ý tưởng AI.",
+    "items": [
+      {
+        "num": "1",
+        "title": "Hơn một thập kỷ kinh nghiệm",
+        "desc": "10 năm triển khai các hệ thống AI và mô hình ngôn ngữ lớn cho khách hàng tại Mỹ, Châu Âu, Nhật Bản và Singapore với các tiêu chuẩn quốc tế."
+      },
+      {
+        "num": "2",
+        "title": "Tối ưu hóa chi phí đầu tư",
+        "desc": "Tiếp cận đội ngũ chuyên gia AI hàng đầu tại Việt Nam với mức chi phí phù hợp, Tiết kiệm 40-60% chi phí nhưng vẫn đảm bảo chất lượng tốt."
+      },
+      {
+        "num": "3",
+        "title": "Am hiểu đa dạng lĩnh vực",
+        "desc": "Kinh nghiệm chuyên sâu trong mảng tài chính, y tế và vận tải giúp tạo ra những giải pháp đáp ứng nghiêm ngặt các tiêu chuẩn ngành."
+      },
+      {
+        "num": "4",
+        "title": "Năng lực triển khai toàn diện",
+        "desc": "Làm chủ toàn bộ vòng đời của một dự án AI từ khâu xây dựng luồng dữ liệu đến việc vận hành các mô hình trên hệ thống thực tế."
+      },
+      {
+        "num": "5",
+        "title": "Tích hợp hệ thống hiệu suất cao",
+        "desc": "Kết nối AI mượt mà với các hệ thống quản trị như CRM và ERP thông qua các cổng giao tiếp bảo mật với độ trễ cực thấp."
+      },
+      {
+        "num": "6",
+        "title": "Kiểm tra và xác thực nghiêm ngặt",
+        "desc": "Quy trình thử nghiệm kết hợp với đánh giá của đội ngũ chuyên môn cao giúp đảm bảo kết quả đầu ra luôn chính xác và đáng tin cậy."
+      },
+      {
+        "num": "7",
+        "title": "Quy trình làm việc linh hoạt",
+        "desc": "Thực hiện dự án theo các chu kỳ ngắn giúp khách hàng sớm thấy được kết quả vận hành thực tế để điều chỉnh kịp thời theo nhu cầu của doanh nghiệp."
+      },
+      {
+        "num": "8",
+        "title": "Bảo mật tuyệt đối",
+        "desc": "Dữ liệu của bạn được bảo mật hoàn toàn. Winterfrost chúng tôi cam kết bàn giao toàn bộ mã nguồn và quyền sở hữu các mô hình AI sau khi hoàn tất."
+      },
+      {
+        "num": "9",
+        "title": "Hợp tác chuyên nghiệp toàn cầu",
+        "desc": "Chúng tôi đã hợp tác với các khách hàng quốc tế từ Châu Á đến Châu Âu với các tiêu chuẩn khắt khe và đòi hỏi tay nghề cao."
+      }
+    ]
+  },
+  "ctaBanner": {
+    "badge": "Liên hệ ngay!",
+    "headline": "Tối ưu hiệu suất vận hành bằng trí tuệ nhân tạo AI",
+    "description": "Tiết kiệm thời gian xử lý dữ liệu và tự động hóa các quy trình lặp đi lặp lại là những giá trị thực tế mà giải pháp AI của Winterfrost mang lại. Chúng tôi giúp doanh nghiệp của bạn hoạt động thông minh hơn thông qua các hệ thống phân tích và dự báo chính xác.",
+    "ctaLabel": "Nhận tư vấn giải pháp AI",
+    "ctaHref": "/lien-he",
+    "image": "/images/people/cta/winterfrost/chuyen-vien-nam-tre.png"
+  },
+  "counter": {
+    "badgeText": "Thành tựu của chúng tôi",
+    "items": [
+      {
+        "index": "/01",
+        "value": "10+",
+        "desc": "Năm kinh nghiệm"
+      },
+      {
+        "index": "/02",
+        "value": "250+",
+        "desc": "Khách hàng"
+      },
+      {
+        "index": "/03",
+        "value": "15+",
+        "desc": "Quốc gia phục vụ"
+      },
+      {
+        "index": "/04",
+        "value": "98%",
+        "desc": "Sự hài lòng của khách hàng"
+      }
+    ]
+  },
+  "industries": {
+    "label": "Các lĩnh vực nổi bật",
+    "headlineLight": "Chuyển đổi mọi ngành nghề",
+    "headlineDark": "bằng giải pháp AI chuyên biệt",
+    "items": [
+      {
+        "slug": "thuong-mai-dien-tu",
+        "title": "Thương mại điện tử",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/eComerce-Industries-Icon.png"
+      },
+      {
+        "slug": "cong-nghe-tai-chinh",
+        "title": "Công nghệ tài chính",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Fintech-Industries-Icon.png"
+      },
+      {
+        "slug": "y-te",
+        "title": "Y tế",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Healthcare-Industries-Icon.png"
+      },
+      {
+        "slug": "tai-chinh-doanh-nghiep",
+        "title": "Tài chính doanh nghiệp",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Expert-Financial-Industries-Icon.png"
+      },
+      {
+        "slug": "phan-mem-doanh-nghiep",
+        "title": "Phần mềm doanh nghiệp",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Business-Industries-Icon.png"
+      },
+      {
+        "slug": "ban-le",
+        "title": "Bán lẻ",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Retail-Industries-Icon.png"
+      },
+      {
+        "slug": "bat-dong-san",
+        "title": "Bất động sản",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Real-Estate-Industries-Icon.png"
+      },
+      {
+        "slug": "van-tai-va-logistics",
+        "title": "Vận tải và Logistics",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Logistics-Industries-Icon.png"
+      },
+      {
+        "slug": "giao-duc",
+        "title": "Giáo dục",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Education-Industries-Icon.png"
+      }
+    ]
+  },
+  "price": {
+    "label": "",
+    "headlineLight": "Bảng giá dịch vụ ",
+    "headlineDark": "phát triển AI ",
+    "description": "Chi phí minh bạch để xây dựng và mở rộng các giải pháp AI cùng Winterfrost.",
+    "packages": [
+      {
+        "name": "Gói Cơ Bản",
+        "price": "60.000.000",
+        "currency": "VNĐ",
+        "period": "/ dự án",
+        "description": "Lựa chọn hoàn hảo cho doanh nghiệp muốn ra mắt nhanh một giải pháp AI cơ bản.",
+        "features": [
+          "Tích hợp các mô hình AI có sẵn",
+          "Sử dụng khung phần mềm tiêu chuẩn",
+          "Tùy chỉnh các tính năng cơ bản",
+          "Hỗ trợ triển khai hệ thống",
+          "Ưu tiên hỗ trợ qua Email"
+        ],
+        "ctaLabel": "Bắt đầu",
+        "ctaHref": "/lien-he",
+        "highlight": false,
+        "labelText": "Gói cơ bản",
+        "iconPath": "M223.68,66.15,135.68,18a15.88,15.88,0,0,0-15.36,0l-88,48.17a16,16,0,0,0-8.32,14v95.64a16,16,0,0,0,8.32,14l88,48.17a15.88,15.88,0,0,0,15.36,0l88-48.17a16,16,0,0,0,8.32-14V80.18A16,16,0,0,0,223.68,66.15ZM128,120,47.65,76,128,32l80.35,44Zm8,99.64V133.83l80-43.78v85.76Z"
+      },
+      {
+        "name": "Gói Nâng Cao",
+        "price": "Linh hoạt theo dự án",
+        "currency": "",
+        "period": "",
+        "description": "Giải pháp lý tưởng cho các doanh nghiệp cần một hệ thống AI được phát triển hoàn toàn theo yêu cầu.",
+        "features": [
+          "Phát triển mô hình AI độc quyền",
+          "Quy trình học máy (ML) nâng cao",
+          "Thiết kế giao diện người dùng mới",
+          "Tích hợp và phát triển tính năng riêng",
+          "Ưu tiên hỗ trợ qua điện thoại 24/7"
+        ],
+        "ctaLabel": "Bắt đầu",
+        "ctaHref": "/lien-he",
+        "highlight": true,
+        "labelText": "Gói Nâng Cao",
+        "iconPath": "M234.29,114.85l-45,38.83L203,211.75a16.4,16.4,0,0,1-24.5,17.82L128,198.49,77.47,229.57A16.4,16.4,0,0,1,53,211.75l13.76-58.07-45-38.83A16.46,16.46,0,0,1,31.08,86l59-4.76,22.76-55.08a16.36,16.36,0,0,1,30.27,0l22.75,55.08,59,4.76a16.46,16.46,0,0,1,9.37,28.86Z"
+      }
+    ]
+  },
+  "techStack": {
+    "headlineLight": "Công nghệ vận hành AI",
+    "headlineDark": "tại Winterfrost",
+    "filters": [
+      "Tất cả",
+      "Giao diện",
+      "Hệ thống",
+      "Cơ sở dữ liệu",
+      "Vận hành",
+      "Quản lý"
+    ],
+    "items": [
+      {
+        "name": "React / Next.js",
+        "category": ""
+      },
+      {
+        "name": "Angular",
+        "category": ""
+      },
+      {
+        "name": "Vue.js",
+        "category": ""
+      },
+      {
+        "name": "Figma",
+        "category": ""
+      },
+      {
+        "name": "Adobe XD",
+        "category": ""
+      },
+      {
+        "name": "Sketch",
+        "category": ""
+      },
+      {
+        "name": "Node.js",
+        "category": ""
+      },
+      {
+        "name": "Laravel",
+        "category": ""
+      },
+      {
+        "name": "WordPress / PHP",
+        "category": ""
+      },
+      {
+        "name": ".NET / ASP.NET",
+        "category": ""
+      },
+      {
+        "name": "MySQL",
+        "category": ""
+      },
+      {
+        "name": "PostgreSQL",
+        "category": ""
+      },
+      {
+        "name": "MongoDB",
+        "category": ""
+      },
+      {
+        "name": "Redis",
+        "category": ""
+      },
+      {
+        "name": "Docker",
+        "category": ""
+      },
+      {
+        "name": "GitHub",
+        "category": ""
+      },
+      {
+        "name": "GitLab",
+        "category": ""
+      },
+      {
+        "name": "Bitbucket",
+        "category": ""
+      },
+      {
+        "name": "GitHub Actions",
+        "category": ""
+      },
+      {
+        "name": "CI/CD",
+        "category": ""
+      },
+      {
+        "name": "AWS",
+        "category": ""
+      },
+      {
+        "name": "Deploy Server",
+        "category": ""
+      },
+      {
+        "name": "Jira",
+        "category": ""
+      }
+    ]
+  },
+  "comprehensiveServices": {
+    "headlineLight": "Các giải pháp hỗ trợ trong ",
+    "headlineDark": "kỷ nguyên AI",
+    "items": [
+      {
+        "slug": "phat-trien-ung-dung-saas",
+        "title": "Phát triển ứng dụng SaaS",
+        "desc": "Xây dựng các nền tảng phần mềm dưới dạng dịch vụ với kiến trúc đa người dùng và khả năng mở rộng linh hoạt. Chúng tôi giúp doanh nghiệp tối ưu hóa hạ tầng đám mây và kiến tạo các mô hình kinh doanh mang lại doanh thu định kỳ bền vững.",
+        "image": "/images/services/winterfrost/generative-ai-integration.webp",
+        "href": "/dich-vu/phat-trien-ung-dung-saas"
+      },
+      {
+        "slug": "phat-trien-devops",
+        "title": "Dịch vụ phát triển DevOps",
+        "desc": "Đẩy nhanh chu kỳ bàn giao sản phẩm và đảm bảo tính ổn định của hệ thống. Chúng tôi thiết kế hạ tầng đám mây hiệu suất cao và quy trình MLOps hiện đại để các giải pháp AI luôn vận hành mượt mà.",
+        "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Dich-vu-phat-trien-DevOps-HomeNest-Viet-Nam.jpg",
+        "href": "/dich-vu/phat-trien-devops"
+      },
+      {
+        "slug": "phat-trien-phan-mem-doanh-nghiep",
+        "title": "Phát triển phần mềm doanh nghiệp",
+        "desc": "Hiện đại hóa hoạt động kinh doanh với các giải pháp phần mềm tùy chỉnh bảo mật và có khả năng mở rộng. Chúng tôi xây dựng các hệ thống ERP và bảng quản trị thông minh, kết nối trực tiếp với năng lực AI của doanh nghiệp.",
+        "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Dich-vu-phat-trien-phan-mem-doanh-nghiep-HomeNest-Viet-Nam.jpg",
+        "href": "/dich-vu/phat-trien-phan-mem-doanh-nghiep"
+      }
+    ]
+  },
+  "faq": {
+    "label": "Các câu hỏi thường gặp",
+    "headlineParts": [
+      "Giải Đáp",
+      "Mọi",
+      "Thắc Mắc"
+    ],
+    "description": "Giải đáp mọi thắc mắc về công nghệ, tính bảo mật và lộ trình thực thi trí tuệ nhân tạo chuyên sâu tại Winterfrost.",
+    "items": [
+      {
+        "q": "Dữ liệu của doanh nghiệp có được bảo mật khi làm AI không?",
+        "a": "Bảo mật dữ liệu là ưu tiên hàng đầu. Winterfrost cam kết mọi dữ liệu của doanh nghiệp được xử lý trong môi trường riêng biệt, đảm bảo tuyệt đối không rò rỉ thông tin ra bên ngoài. Chúng tôi áp dụng các biện pháp bảo mật đa lớp để bảo vệ tài sản số của bạn."
+      },
+      {
+        "q": "Winterfrost sử dụng AI của bên thứ ba hay tự phát triển mô hình riêng?",
+        "a": "Chúng tôi linh hoạt theo nhu cầu của bạn. Winterfrost có thể tích hợp các API hàng đầu thế giới để tối ưu thời gian, hoặc phát triển và tinh chỉnh (fine-tune) các mô hình ngôn ngữ lớn (LLM) riêng biệt dựa trên dữ liệu đặc thù của doanh nghiệp để đảm bảo tính chính xác và độc quyền."
+      },
+      {
+        "q": "Giải pháp AI có thể tích hợp vào các phần mềm hiện có không?",
+        "a": "Có. Chúng tôi chuyên về khả năng tích hợp hệ thống. Các giải pháp AI sẽ được kết nối mượt mà với các nền tảng ERP, CRM hoặc Website mà doanh nghiệp đang vận hành thông qua các cổng API bảo mật, đảm bảo dữ liệu được đồng bộ liên tục."
+      },
+      {
+        "q": "Thời gian triển khai một dự án AI thường mất bao lâu?",
+        "a": "Thời gian triển khai phụ thuộc vào độ phức tạp của bài toán. Một dự án tích hợp AI cơ bản có thể hoàn thành trong 4 đến 6 tuần. Đối với các giải pháp AI chuyên sâu và mô hình machine learning phức tạp, thời gian có thể kéo dài từ 3 đến 6 tháng."
+      },
+      {
+        "q": "Doanh nghiệp có cần đội ngũ kỹ thuật cao để vận hành AI không?",
+        "a": "Không nhất thiết. Winterfrost thiết kế giao diện quản trị và tương tác cực kỳ đơn giản cho người dùng cuối. Chúng tôi cung cấp đầy đủ tài liệu hướng dẫn và hỗ trợ kỹ thuật định kỳ để đội ngũ của bạn có thể vận hành hệ thống một cách dễ dàng."
+      },
+      {
+        "q": "Doanh nghiệp có được sở hữu mô hình AI sau khi bàn giao không?",
+        "a": "Có. Tương tự như dịch vụ website, chúng tôi bàn giao toàn bộ quyền sở hữu trí tuệ, mã nguồn và các tham số mô hình (weights) cho khách hàng. Bạn hoàn toàn làm chủ công nghệ và có quyền nâng cấp hệ thống bất cứ lúc nào."
+      },
+      {
+        "q": "Làm thế nào để đo lường hiệu quả (ROI) của dự án AI?",
+        "a": "Trước khi bắt đầu, Winterfrost sẽ cùng bạn xác định các chỉ số hiệu quả rõ ràng như: tỷ lệ tiết kiệm chi phí nhân sự, thời gian xử lý quy trình, hoặc mức tăng trưởng tỷ lệ chuyển đổi khách hàng. Chúng tôi tập trung vào việc tạo ra những kết quả có thể đo lường bằng con số thực tế."
+      },
+      {
+        "q": "AI có hay đưa ra các thông tin sai lệch không?",
+        "a": "Đối với các dòng AI tạo sinh, chúng tôi áp dụng các kỹ thuật ngăn chặn thông tin sai lệch (hallucination) bằng cách giới hạn phạm vi tri thức trong bộ dữ liệu nội bộ của doanh nghiệp và thiết lập các lớp kiểm soát kết quả đầu ra nghiêm ngặt."
+      }
+    ]
+  }
+}

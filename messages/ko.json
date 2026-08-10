@@ -1,0 +1,2263 @@
+{
+  "Navigation": {
+    "home": "홈",
+    "about": "회사 소개",
+    "services": "서비스",
+    "case_studies": "사례 연구",
+    "industries": "산업",
+    "technologies": "기술",
+    "wiki": "Wiki",
+    "careers": "채용",
+    "contact": "문의하기",
+    "projects": "프로젝트"
+  },
+  "LanguageSwitcher": {
+    "label": "언어 선택",
+    "changing": "언어 전환"
+  },
+  "ServiceDetail": {
+    "relatedProjects": "관련 프로젝트",
+    "featuredProjects": "일반적인 프로젝트",
+    "services": "서비스",
+    "relatedServices": "관련 서비스",
+    "viewMore": "자세히 보기"
+  },
+  "Header": {
+    "mainNavigation": "메인 네비게이션",
+    "homeAria": "Winterfrost — 홈 페이지",
+    "contact": "연락처",
+    "search": "검색",
+    "searchPlaceholder": "검색...",
+    "closeSearch": "검색 닫기",
+    "openMenu": "메뉴 열기",
+    "closeMenu": "메뉴 닫기",
+    "toggleServices": "서비스 목록 열기 또는 닫기",
+    "servicesMenu": "서비스",
+    "softwareDevelopment": "소프트웨어 개발",
+    "technologyInfrastructure": "기술 인프라",
+    "bannerAlt": "전문 웹사이트 디자인 및 소프트웨어 솔루션 - Winterfrost"
+  },
+  "Services": {
+    "websiteDesign": {
+      "title": "웹사이트 디자인",
+      "description": "빠른 웹사이트 디자인, 최적화된 사용자 경험으로 전환율을 높이는 데 도움이 됩니다."
+    },
+    "aiDevelopment": {
+      "title": "AI 개발",
+      "description": "AI 개발은 프로세스를 자동화하고 비즈니스 데이터를 최적화하는 데 도움이 됩니다."
+    },
+    "saasDevelopment": {
+      "title": "SaaS 애플리케이션 개발",
+      "description": "클라우드 네이티브 플랫폼 설계는 유연하고 확장이 용이하며 많은 사용자에게 서비스를 제공합니다."
+    },
+    "appDesign": {
+      "title": "앱 디자인",
+      "description": "고성능 iOS 및 Android 애플리케이션을 개발하여 원활하고 안정적인 작동을 보장합니다."
+    },
+    "maintenance": {
+      "title": "운영 및 유지보수",
+      "description": "소프트웨어를 작동하고 유지관리하면 시스템이 연중무휴 24시간 안전하고 안정적으로 작동하는 데 도움이 됩니다."
+    },
+    "enterpriseSoftware": {
+      "title": "엔터프라이즈 소프트웨어 개발",
+      "description": "중앙집중적이고 안전한 관리 시스템으로 대규모 운영 프로세스를 최적화하세요."
+    },
+    "mvpDevelopment": {
+      "title": "MVP 소프트웨어 개발",
+      "description": "아이디어를 검증하고 초기 투자 예산을 최적화하기 위한 신속한 제품 개발."
+    },
+    "itServices": {
+      "title": "IT 서비스",
+      "description": "종합적인 IT 솔루션, 시스템 관리 및 전문적인 기술 지원을 제공합니다."
+    },
+    "digitalTransformation": {
+      "title": "디지털 전환 컨설팅",
+      "description": "디지털 혁신 로드맵, 프로세스 최적화 및 최신 기술 적용에 대한 컨설팅."
+    },
+    "devops": {
+      "title": "DevOps 개발",
+      "description": "개발 및 운영 프로세스를 최적화하여 출시 시간을 단축하고 시스템 안정성을 높입니다."
+    },
+    "iot": {
+      "title": "IoT 개발",
+      "description": "장치를 연결하고 스마트 데이터를 수집하면 기업이 현실에서 귀중한 정보를 얻을 수 있습니다."
+    },
+    "blockchain": {
+      "title": "블록체인 개발",
+      "description": "블록체인 플랫폼에서 데이터를 보호하는 데 도움이 되는 안전한 분산형 애플리케이션을 구축하세요."
+    }
+  },
+  "Footer": {
+    "menu": "Menu",
+    "services": "서비스",
+    "contact": "연락처",
+    "headOffice": "본사",
+    "address": "베트남 호치민시 9군 빈홈스 그랜드파크.",
+    "socialMedia": "소셜 네트워크",
+    "privacyPolicy": "개인 정보 보호 정책",
+    "designedBy": "Winterfrost가 디자인함",
+    "navigationLabel": "바닥글 탐색"
+  },
+  "FooterCTA": {
+    "preTitle": "우리와 연결하기",
+    "headingPre": "초기화",
+    "headingHighlight": "프로젝트",
+    "headingMid": "당신의",
+    "headingPost": "오늘 바로",
+    "formTitle": "협력 문의",
+    "nameLabel": "이름*",
+    "namePlaceholder": "당신의 이름",
+    "emailLabel": "Email*",
+    "phoneLabel": "전화번호*",
+    "messageLabel": "메시지",
+    "messagePlaceholder": "홈페이지를 디자인하고 싶은데...",
+    "directEmail": "또는 직접 이메일 보내기:",
+    "copied": "복사됨",
+    "submit": "요청 보내기",
+    "featureFastResponse": "24시간 내 신속한 답변.",
+    "featureExpert": "전문가와 직접 작업.",
+    "featureStrategy": "명확한 전략 컨설팅.",
+    "directContact": "직접 연락",
+    "consult": "컨설팅 받기",
+    "imageAlt": "Winterfrost에 문의 - 베트남 최고의 기술 솔루션"
+  },
+  "FloatingButtons": {
+    "chatLabel": "Winterfrost와 채팅",
+    "closeChat": "채팅봇 종료",
+    "greeting": "Winterfrost가 여러분을 환영합니다. 저는 Winterfrost의 가상 비서로서 웹사이트 디자인, 앱 디자인, AI 개발 및 기술 서비스에 대한 정보를 지원할 준비가 되어 있습니다.",
+    "question": "나에게 어떤 정보가 필요합니까?",
+    "messagePlaceholder": "메시지를 입력하세요...",
+    "messageLabel": "메시지를 입력하세요",
+    "emoji": "이모티콘",
+    "send": "메시지 보내기",
+    "closeGreeting": "인사말 닫기",
+    "preview": "안녕하세요, 무엇을 도와드릴까요?",
+    "openChat": "채팅봇 열기",
+    "whatsapp": "WhatsApp에서 채팅",
+    "zalo": "Zalo를 통해 프로젝트 컨설팅 문의 - Winterfrost",
+    "call": "Winterfrost에 전화하세요",
+    "backToTop": "맨 위로 돌아가기"
+  },
+  "Metadata": {
+    "title": "Winterfrost — 웹사이트 디자인, 모바일 앱, AI 기반",
+    "description": "Winterfrost는 웹사이트, 모바일 앱 및 AI 기반 소프트웨어 솔루션 개발을 전문으로 하며 기업의 디지털 혁신 및 운영 최적화 여정을 지원합니다.",
+    "openGraphDescription": "Winterfrost는 웹사이트, 모바일 앱 및 AI 기반 소프트웨어 솔루션 개발을 전문으로 합니다."
+  },
+  "Team": {
+    "label": "우리 팀",
+    "headingPre": "팀",
+    "headingHighlight": "개발하다",
+    "headingPost": "엔터프라이즈 솔루션",
+    "experience": "10년 이상의 경험",
+    "secureOwnership": "경쟁력 있는 비용, 소유권 보안",
+    "locations": "베트남 주요 도시를 거점으로",
+    "process": "국제 표준에 따른 전문적인 프로세스",
+    "technology": "탄탄한 기술 기반"
+  },
+  "Home": {
+    "hero": {
+      "title": "Winterfrost",
+      "description": "웹 사이트 개발, 모바일 애플리케이션, 엔터프라이즈 소프트웨어 및 인공 지능 분야에서 10년 이상의 심층적인 경험을 바탕으로 운영 프로세스를 최적화하는 데 도움을 드립니다. Winterfrost는 귀하의 비즈니스가 디지털 시대에 혁신을 이룰 수 있도록 탄탄한 기술 기반을 구축합니다.",
+      "ctaPrimary": {
+        "label": "지금 시작하세요",
+        "href": "tel:+84971450454"
+      },
+      "ctaSecondary": {
+        "label": "서비스 세부정보 보기",
+        "href": "/dich-vu"
+      },
+      "imageMain": "/images/brand/winterfrost/hero/winterfrost-energy-emblem-transparent.png?v=wf-energy-20260727",
+      "imageColumn": "/images/brand/winterfrost/hero/winterfrost-pillar.png",
+      "logo": "/images/brand/winterfrost/winterfrost-wordmark.png",
+      "video": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Video-banner-HomeNest-Viet-Nam.mp4",
+      "detailCtaPrimary": {
+        "label": "지금 연결하세요",
+        "href": "tel:+84971450454"
+      },
+      "detailCtaSecondary": {
+        "label": "서비스 세부정보 보기",
+        "href": "/dich-vu"
+      },
+      "backLabel": "돌아가기",
+      "prevLabel": "이전",
+      "nextLabel": "다음",
+      "pillars": [
+        {
+          "key": "web",
+          "label": "웹사이트 디자인",
+          "title": "웹사이트 디자인",
+          "desc": "Winterfrost는 모든 전자 장치에서 원활하게 작동하는 웹사이트 구축 솔루션을 제공합니다. 우리는 데이터 보안과 사용하기 쉬운 관리 도구에 대한 높은 노력을 바탕으로 간단한 비즈니스 소개 페이지부터 복잡한 온라인 판매 시스템까지 작업합니다. 당사의 솔루션은 비즈니스 효율성을 높이고 귀하의 조직이 디지털 환경에서 선두를 달리는 데 도움이 됩니다.",
+          "href": "/dich-vu/thiet-ke-website"
+        },
+        {
+          "key": "app",
+          "label": "앱 디자인",
+          "title": "앱 디자인",
+          "desc": "Winterfrost의 전문가 팀은 고성능의 안정적인 모바일 애플리케이션 구축에 있어 다년간의 경험을 보유하고 있습니다. 우리는 각 비즈니스에 맞게 특별히 설계된 인터페이스를 통해 사용자 경험을 최적화하는 데 중점을 둡니다. 이러한 애플리케이션은 귀하의 사업부가 디지털 플랫폼에서 고객에게 효과적으로 다가가는 동시에 내부 운영 프로세스를 크게 개선하는 데 도움이 됩니다.",
+          "href": "/dich-vu/thiet-ke-app"
+        },
+        {
+          "key": "software",
+          "label": "소프트웨어 설계",
+          "title": "소프트웨어 설계",
+          "desc": "Winterfrost는 귀하의 비즈니스에 맞게 관리 및 운영 프로세스를 최적화하는 전문 소프트웨어 솔루션을 구축합니다. 우리는 비즈니스 규모에 따라 크로스 플랫폼 연결과 손쉬운 업그레이드를 갖춘 최신 시스템 아키텍처에 중점을 둡니다. 당사의 소프트웨어 제품은 항상 장기적인 안정성과 실제 비즈니스 환경의 변화에 ​​대한 높은 적응성을 보장합니다.",
+          "href": "/dich-vu/phat-trien-phan-mem-doanh-nghiep"
+        },
+        {
+          "key": "ai",
+          "label": "AI 개발",
+          "title": "AI 개발",
+          "desc": "Winterfrost는 기업이 심층적인 인공 지능 솔루션을 실제 운영에 적용할 수 있도록 지원합니다. 우리는 작업 프로세스 자동화부터 지능형 데이터 분석 시스템까지 현대적인 도구를 제공하여 귀하의 장치가 전반적인 운영 성과를 최적화할 수 있도록 돕습니다. 이러한 솔루션을 통해 기업은 실제 데이터를 기반으로 보다 정확한 의사결정을 내리고 관리 오류를 줄일 수 있습니다.",
+          "href": "/dich-vu/phat-trien-ai"
+        },
+        {
+          "key": "maintenance",
+          "label": "운영 및 유지보수",
+          "title": "운영 및 유지보수",
+          "desc": "Winterfrost는 웹사이트, 모바일 애플리케이션 및 비즈니스 소프트웨어가 항상 가장 안정적으로 작동할 수 있도록 포괄적인 시스템 운영 및 유지 관리 솔루션을 제공합니다. 시스템 전체에 대한 최적의 처리 속도와 절대적인 정보 보안을 유지하기 위해 지속적인 기술 모니터링을 수행합니다. 당사의 서비스는 귀하의 플랫폼이 최신 기술 변화와 호환성을 유지하고 기술적 문제를 즉각적으로 예방하여 중단 없는 비즈니스를 보장하도록 돕습니다.",
+          "href": "/dich-vu/van-hanh-va-bao-tri"
+        }
+      ]
+    },
+    "about": {
+      "label": "Winterfrost 소개",
+      "headline": "웹사이트 개발 부서, 모바일 앱 및 AI 기반 소프트웨어 솔루션, 디지털 혁신 여정에서 베트남 기업과 동행",
+      "paragraphs": [
+        "Winterfrost는 포괄적인 디지털 혁신 솔루션을 제공하는 전문 부서입니다. 우리의 목표는 기업이 운영 성과를 최적화하고 디지털 시장에서 강력하게 성장할 수 있도록 돕는 것입니다.",
+        "우리는 항상 고객의 입장에 서서 고객의 요구 사항을 이해하고 효과적인 솔루션을 제공하여 기업이 운영 문제를 해결할 수 있도록 돕습니다. Winterfrost의 차이점은 기능과 사용자 경험에 대한 이해의 완벽한 조합입니다. 우리의 각 제품은 원활하게 작동할 뿐만 아니라 비즈니스에 실질적인 가치를 제공합니다.",
+        "오늘날의 디지털 시대에 귀하의 비즈니스가 뒤쳐지지 않도록 하십시오. Winterfrost는 뛰어난 서비스 품질과 기술을 제공하기 위해 최선을 다하고 있으며 기업과 협력하여 운영 문제를 효과적인 솔루션으로 전환할 준비가 되어 있습니다."
+      ],
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Thi-truong-HomeNest-Viet-Nam-phuc-vu.jpg"
+    },
+    "companyOverview": {
+      "label": "창조의 여정",
+      "headline": [
+        "건설",
+        "미래",
+        "비즈니스"
+      ],
+      "founder": {
+        "name": "Lê Khải Minh",
+        "role": "공동 창립자",
+        "quote": "고객 성공은 당사의 서비스 품질과 평판을 측정하는 유일한 척도입니다.",
+        "image": "/images/people/founder/winterfrost/le-khai-minh.webp"
+      },
+      "vision": {
+        "title": "비전과 미션",
+        "text": "기업이 디지털 시대의 과제를 극복할 수 있도록 선도하는 선도적인 전략적 파트너가 되십시오. 우리는 운영을 최적화하기 위한 획기적인 기술을 제공하고, 지속 가능하고 장기적인 개발을 목표로 고객이 포괄적인 소프트웨어 생태계를 통해 한계를 극복할 수 있도록 지원하기 위해 최선을 다하고 있습니다.",
+        "ctaLabel": "우리에 대해 알아보세요",
+        "ctaHref": "/ve-chung-toi"
+      },
+      "values": {
+        "title": "핵심가치",
+        "items": [
+          "전문적인 서비스",
+          "끊임없는 창의성",
+          "유연한 운영",
+          "고객을 이해하다",
+          "봉사에 전념"
+        ]
+      },
+      "stats": [
+        {
+          "label": "수년간의 경험",
+          "value": "10",
+          "suffix": "+",
+          "desc": "실제 전투 경험, 진정한 가치를 창출합니다."
+        },
+        {
+          "label": "고객의 신뢰",
+          "value": "250",
+          "suffix": "+",
+          "desc": "수백 개의 기업이 신뢰하는 파트너.",
+          "highlight": true,
+          "avatars": [
+            "/images/people/khach-hang/nguyen-quoc-viet.webp",
+            "/images/people/khach-hang/tran-minh-chau.webp",
+            "/images/people/khach-hang/le-duc-anh.webp",
+            "/images/people/khach-hang/vo-thanh-huong.webp"
+          ],
+          "avatarBadgeText": "250+",
+          "starsImage": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/five-stars-rating.svg",
+          "starsLabel": "고객의 신뢰"
+        },
+        {
+          "label": "국가",
+          "value": "15",
+          "suffix": "+",
+          "desc": "글로벌 파트너 네트워크를 제공합니다."
+        },
+        {
+          "label": "고객 만족",
+          "value": "98",
+          "suffix": "%",
+          "desc": "서비스 품질은 모든 기대치를 뛰어넘습니다."
+        }
+      ],
+      "copyright": "Copyright © 2026 Winterfrost. All rights reserved."
+    },
+    "servicesSection": {
+      "label": "서비스",
+      "headline": [
+        "솔루션",
+        "성장",
+        "비즈니스"
+      ],
+      "ctaLabel": "모두 보기",
+      "ctaHref": "/dich-vu",
+      "tabs": [
+        {
+          "title": "소프트웨어 개발",
+          "items": [
+            {
+              "num": "01",
+              "title": "웹사이트 디자인",
+              "desc": "빠른 웹사이트 디자인, 최적화된 사용자 경험으로 전환율을 높이는 데 도움이 됩니다.",
+              "href": "/dich-vu/thiet-ke-website",
+              "hoverImg": "/images/services/winterfrost/web-application-development.webp"
+            },
+            {
+              "num": "02",
+              "title": "AI 개발",
+              "desc": "AI 개발은 프로세스를 자동화하고 비즈니스 데이터를 최적화하는 데 도움이 됩니다.",
+              "href": "/dich-vu/phat-trien-ai",
+              "hoverImg": "/images/services/winterfrost/ai-development.webp"
+            },
+            {
+              "num": "03",
+              "title": "SaaS 애플리케이션 개발",
+              "desc": "클라우드 네이티브 플랫폼 설계는 유연하고 확장이 용이하며 많은 사용자에게 서비스를 제공합니다.",
+              "href": "/dich-vu/phat-trien-ung-dung-saas",
+              "hoverImg": "/images/services/winterfrost/saas-application-development.webp"
+            },
+            {
+              "num": "04",
+              "title": "앱 디자인",
+              "desc": "고성능 IOS 및 Android 애플리케이션을 개발하여 원활하고 안정적인 작동을 보장합니다.",
+              "href": "/dich-vu/thiet-ke-app",
+              "hoverImg": "/images/services/winterfrost/mobile-app-development.webp"
+            },
+            {
+              "num": "05",
+              "title": "운영 및 유지보수",
+              "desc": "소프트웨어를 작동하고 유지관리하면 시스템이 연중무휴 24시간 안전하고 안정적으로 작동하는 데 도움이 됩니다.",
+              "href": "/dich-vu/van-hanh-va-bao-tri",
+              "hoverImg": "/images/services/winterfrost/software-maintenance-and-support.webp"
+            },
+            {
+              "num": "06",
+              "title": "엔터프라이즈 소프트웨어 개발",
+              "desc": "중앙집중적이고 안전한 관리 시스템으로 대규모 운영 프로세스를 최적화하세요.",
+              "href": "/dich-vu/phat-trien-phan-mem-doanh-nghiep",
+              "hoverImg": "/images/services/winterfrost/enterprise-software-development.webp"
+            },
+            {
+              "num": "07",
+              "title": "MVP 소프트웨어 개발",
+              "desc": "아이디어를 검증하고 초기 투자 예산을 최적화하기 위한 신속한 제품 개발.",
+              "href": "/dich-vu/phat-trien-phan-mem-mvp",
+              "hoverImg": "/images/services/winterfrost/mvp-software-development.webp"
+            },
+            {
+              "num": "08",
+              "title": "IT 서비스",
+              "desc": "종합적인 IT 솔루션, 시스템 관리 및 전문적인 기술 지원을 제공합니다.",
+              "href": "/dich-vu/dich-vu-it",
+              "hoverImg": "/images/services/winterfrost/custom-software-solutions.webp"
+            },
+            {
+              "num": "09",
+              "title": "디지털 전환 컨설팅",
+              "desc": "디지털 혁신 로드맵, 프로세스 최적화 및 최신 기술 적용에 대한 컨설팅.",
+              "href": "/dich-vu/tu-van-chuyen-doi-so",
+              "hoverImg": "/images/services/winterfrost/generative-ai-integration.webp"
+            }
+          ]
+        },
+        {
+          "title": "기술 인프라",
+          "items": [
+            {
+              "num": "01",
+              "title": "DevOps 개발",
+              "desc": "개발 및 운영 프로세스를 최적화하여 출시 시간을 단축하고 시스템 안정성을 높입니다.",
+              "href": "/dich-vu/phat-trien-devops",
+              "hoverImg": "/images/services/winterfrost/devops-development.webp"
+            },
+            {
+              "num": "02",
+              "title": "IoT 개발",
+              "desc": "장치를 연결하고 스마트 데이터를 수집하면 기업이 현실에서 귀중한 정보를 얻을 수 있습니다.",
+              "href": "/dich-vu/phat-trien-iot",
+              "hoverImg": "/images/services/winterfrost/iot-development.webp"
+            },
+            {
+              "num": "03",
+              "title": "블록체인 개발",
+              "desc": "블록체인 플랫폼에서 절대적인 데이터 보안을 보장하는 데 도움이 되는 안전한 분산형 애플리케이션을 구축하세요.",
+              "href": "/dich-vu/phat-trien-blockchain",
+              "hoverImg": "/images/services/winterfrost/blockchain-development.webp"
+            }
+          ]
+        }
+      ]
+    },
+    "industries": {
+      "label": "필드",
+      "headline": "활동 분야",
+      "items": [
+        {
+          "title": "기업금융",
+          "href": "/linh-vuc/tai-chinh-doanh-nghiep"
+        },
+        {
+          "title": "교육",
+          "href": "/linh-vuc/giao-duc"
+        },
+        {
+          "title": "회계",
+          "href": "/linh-vuc/ke-toan"
+        },
+        {
+          "title": "의료",
+          "href": "/linh-vuc/y-te"
+        },
+        {
+          "title": "엔터프라이즈 소프트웨어",
+          "href": "/linh-vuc/phan-mem-doanh-nghiep"
+        },
+        {
+          "title": "필요에 따라 애플리케이션 개발",
+          "href": "/linh-vuc/phat-trien-ung-dung-theo-yeu-cau"
+        },
+        {
+          "title": "농업",
+          "href": "/linh-vuc/nong-nghiep"
+        },
+        {
+          "title": "건축 및 건설",
+          "href": "/linh-vuc/kien-truc-xay-dung"
+        },
+        {
+          "title": "소매",
+          "href": "/linh-vuc/ban-le"
+        },
+        {
+          "title": "부동산",
+          "href": "/linh-vuc/bat-dong-san"
+        },
+        {
+          "title": "공급망",
+          "href": "/linh-vuc/chuoi-cung-ung"
+        },
+        {
+          "title": "금융기술",
+          "href": "/linh-vuc/cong-nghe-tai-chinh"
+        },
+        {
+          "title": "석유",
+          "href": "/linh-vuc/dau-khi"
+        },
+        {
+          "title": "여행",
+          "href": "/linh-vuc/du-lich"
+        },
+        {
+          "title": "은행",
+          "href": "/linh-vuc/ngan-hang"
+        },
+        {
+          "title": "전자상거래",
+          "href": "/linh-vuc/thuong-mai-dien-tu"
+        },
+        {
+          "title": "운송 및 물류",
+          "href": "/linh-vuc/van-tai-va-logistics"
+        },
+        {
+          "title": "유틸리티 소프트웨어",
+          "href": "/linh-vuc/phan-mem-tien-ich"
+        }
+      ]
+    },
+    "ctaBanner": {
+      "label": "지금 연락하세요!",
+      "headline": "Winterfrost와 함께 디지털 혁신 여정을 시작하세요",
+      "description": "운영 프로세스를 최적화하여 귀하의 비즈니스가 시장을 돌파하고 선도할 수 있도록 웹사이트, 모바일 앱 및 AI 솔루션을 구축하는 데 참여하세요.",
+      "ctaLabel": "즉시 솔루션 조언을 받아보세요",
+      "ctaHref": "tel:+84971450454"
+    },
+    "caseStudiesSection": {
+      "label": "프로젝트",
+      "headline": [
+        "아이디어",
+        "제품",
+        "선도적인 혁신"
+      ],
+      "headlineLeftPrefix": "아이디어",
+      "headlineLeftScript": "제품",
+      "headlineRight": "선도적인 혁신",
+      "headlineMobile": [
+        "획기적인 아이디어를 현실로 바꾸세요",
+        "제품",
+        "선도"
+      ],
+      "ctaLabel": "모든 프로젝트 보기",
+      "ctaHref": "/case-studies",
+      "items": [
+        {
+          "slug": "case-studies",
+          "title": "사례 연구 - Winterfrost",
+          "image": "https://winterfrost.tech/og-image.jpg",
+          "desc": "Winterfrost에서 주요 프로젝트와 사례 연구를 살펴보세요. 비즈니스를 효과적으로 최적화하고 운영하는 데 도움이 되는 웹사이트, 앱, AI를 설계하는 능력을 보여줍니다."
+        },
+        {
+          "slug": "app-nivora-connect",
+          "title": "니보라 커넥트",
+          "image": "/images/projects/nivora-connect/02-messaging.webp?v=wf-gallery-pro-20260726",
+          "desc": "교통, 주택, 고용을 연결하는 Winterfrost의 안전한 모바일 애플리케이션인 Nivora Connect를 통해 한국 내 베트남 커뮤니티에 힘을 실어주세요."
+        },
+        {
+          "slug": "website-flexora-packaging",
+          "title": "플렉소라 포장",
+          "image": "/images/projects/website-flexora-packaging/02-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+          "desc": "Winterfrost가 개발한 Flexora Packaging의 다양한 산업용 필름 및 플라스틱을 살펴보세요. SEO에 최적화된 이 사이트는 전문적인 B2B 경험을 보장합니다."
+        },
+        {
+          "slug": "la-cerise-dalat-villas",
+          "title": "Rovena Travel - Winterfrost 사례 연구",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2025/06/giao-dien-du-an-La-Cerise-Dalat-Villas-Case-Study.jpg",
+          "desc": "최적화된 SEO와 빠른 로딩 속도를 갖춘 Winterfrost가 개발한 로맨틱한 프랑스 스타일 플랫폼, Rovena Travel과 함께 럭셔리함을 경험해보세요."
+        },
+        {
+          "slug": "app-grevia-lawn",
+          "title": "Grevia Lawn - Winterfrost 사례 연구",
+          "image": "/images/projects/app-grevia-lawn/02-man-hinh-ung-dung.webp?v=wf-gallery-pro-20260726",
+          "desc": "스마트 일정 관리와 실시간 추적을 통합한 Winterfrost의 전문 서비스 예약 애플리케이션인 Grevia Lawn을 통해 경관 서비스를 향상하세요."
+        },
+        {
+          "slug": "website-polyvera",
+          "title": "폴리베라",
+          "image": "/images/projects/website-polyvera/02-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+          "desc": "웹사이트 Polyvera LLC는 품질과 지속 가능성에 중점을 두고 다양한 산업 분야에 서비스를 제공하는 HDPE 플라스틱 필름 및 포장 제조업체입니다."
+        },
+        {
+          "slug": "aeromint-cleanroom",
+          "title": "Aeromint 클린룸 - Winterfrost 베트남어 사례 연구",
+          "image": "/images/projects/aeromint-cleanroom/02-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+          "desc": "Aeromint Cleanroom 클린룸 장비와 Winterfrost의 전문 SEO 솔루션으로 비즈니스를 강화하여 시장 접근을 최적화하세요."
+        },
+        {
+          "slug": "website-loomora-rugs",
+          "title": "루모라 러그",
+          "image": "/images/projects/website-loomora-rugs/02-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+          "desc": "Winterfrost, SEO 표준, 빠른 로딩, 부드럽고 고급스러운 경험의 세련된 디지털 쇼룸을 통해 프리미엄 핸드메이드 울 러그인 Loomora Rugs를 만나보세요."
+        }
+      ]
+    },
+    "whyChooseUs": {
+      "label": "고객이 우리를 선택하는 이유는 무엇입니까?",
+      "headline": [
+        "왜요?",
+        "+250명의 파트너",
+        "Winterfrost를 믿으시나요?"
+      ],
+      "leftCard": {
+        "title": "전략적 솔루션은 지속 가능한 가치를 창출합니다",
+        "intro": "Winterfrost 보증",
+        "features": [
+          "뛰어난 품질",
+          "예정대로 인계됨",
+          "투명한 프로세스",
+          "배포 후 지원"
+        ],
+        "ctaLabel": "지금 연락하세요",
+        "ctaHref": "tel:+84971450454",
+        "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/why-choose-us-icon-5.png"
+      },
+      "cardItem1": {
+        "title": "비용 최적화",
+        "desc": "가장 합리적인 예산으로 국제적인 수준의 IT 서비스를 경험해보세요.",
+        "innerCardLabel": "규모에 따른 유연한 조정",
+        "chipImage": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/why-choose-us-icon-4.png",
+        "lightningImage": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/why-choose-us-icon-2.png",
+        "bgImage": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/why-choose-us-icon-3.png"
+      },
+      "cardItem2": {
+        "title": "250개 이상의 신뢰할 수 있는 글로벌 파트너",
+        "starIcon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/why-choose-us-icon-1.svg",
+        "score": "4.9",
+        "scoreTotal": "/5.0",
+        "avatars": [
+          "/images/people/doi-tac/bui-minh-duc.webp",
+          "/images/people/doi-tac/nguyen-thao-vy.webp",
+          "/images/people/doi-tac/tran-khanh-phong.webp",
+          "/images/people/doi-tac/le-kien-an.webp",
+          "/images/people/doi-tac/pham-minh-anh.webp",
+          "/images/people/doi-tac/vo-nhat-nam.webp",
+          "/images/people/doi-tac/dang-hoai-thuong.webp",
+          "/images/people/doi-tac/nguyen-tuan-kiet.webp"
+        ],
+        "centerLogo": "/images/brand/winterfrost/winterfrost-wordmark.png"
+      },
+      "cardItem3": {
+        "title": "첨단 기술",
+        "desc": "가장 현대적인 플랫폼과 도구를 적용하여 프로젝트 성과를 최적화하세요.",
+        "icons": [
+          {
+            "src": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/react-icon.svg",
+            "alt": "반응하다",
+            "dark": true
+          },
+          {
+            "src": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/slack-icon.svg",
+            "alt": "슬랙",
+            "dark": false
+          },
+          {
+            "src": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/xd-icon.svg",
+            "alt": "Xd",
+            "dark": true
+          },
+          {
+            "src": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/zapier-icon.svg",
+            "alt": "자피어",
+            "dark": true
+          },
+          {
+            "src": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/figma-icon.svg",
+            "alt": "피그마",
+            "dark": false
+          },
+          {
+            "src": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/notion-icon.svg",
+            "alt": "개념",
+            "dark": true
+          },
+          {
+            "src": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/github-icon.svg",
+            "alt": "Github",
+            "dark": false
+          }
+        ]
+      },
+      "cardItem5": {
+        "title": "24/7",
+        "desc": "고객 지원",
+        "userMessage": "조언이 필요해요.",
+        "userAvatar": "/images/people/anh-hoi-thoai/tran-hoai-an.webp",
+        "systemMessage": "Winterfrost가 당신을 지원할 준비가 되어 있습니다!",
+        "systemLogo": "/images/brand/winterfrost/winterfrost-symbol-transparent.png",
+        "decoration": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/decoration-pattern.png"
+      },
+      "cardItem4": {
+        "title": "안정적인 운영 및 선도할 준비가 되어 있음",
+        "scriptText": "미래",
+        "bgImage": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/campaign-background.png"
+      }
+    },
+    "testimonials": {
+      "label": "고객 리뷰",
+      "headline": [
+        "단어 체험",
+        "고객"
+      ],
+      "avatar": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/testimonial-avatar-1.jpg",
+      "items": [
+        {
+          "quote": "처음에는 별로 기대하지 않았지만 Winterfrost는 그를 놀라게 했습니다. 새로운 웹사이트는 훨씬 더 전문적으로 보이며 함께 일하는 팀은 매우 편안하고 즐겁습니다.",
+          "author": "Nguyễn Quốc Việt",
+          "role": "Verdora Property 이사",
+          "avatar": "/images/people/khach-hang/nguyen-quoc-viet.webp"
+        },
+        {
+          "quote": "Winterfrost가 구축한 견고하고 전문적인 웹사이트 덕분에 고객에게 다가가고 온라인 비즈니스를 운영하는 것이 훨씬 더 원활하고 효과적으로 되었습니다.",
+          "author": "Trần Minh Châu",
+          "role": "Loomora 러그 관리",
+          "avatar": "/images/people/khach-hang/tran-minh-chau.webp"
+        },
+        {
+          "quote": "MVP 앱은 예정대로 출시되었으며 첫날부터 원활하게 작동했습니다. 그는 Winterfrost가 현실적으로 작동하고 일정을 유지하며 약속된 내용을 정확하게 전달한다는 점을 높이 평가합니다.",
+          "author": "Lê Đức Anh",
+          "role": "창립자",
+          "avatar": "/images/people/khach-hang/le-duc-anh.webp"
+        },
+        {
+          "quote": "Winterfrost 팀은 요구 사항을 매우 빠르게 이해하고 즉시 작업에 착수하여 시간 소모적인 앞뒤 교환을 최소화하는 데 도움을 주었습니다. 이것이 바로 그가 개발 파트너에게서 찾는 것입니다.",
+          "author": "Phạm Hải Long",
+          "role": "공동 창업자",
+          "avatar": "/images/people/khach-hang/pham-hai-long.webp"
+        },
+        {
+          "quote": "많은 대행사와 일해본 경험이 있는 그는 Winterfrost의 차이점은 소프트웨어 기능을 논의하기 전에 비즈니스 목표에 대한 질문을 우선시한다는 점이라고 생각합니다. 그는 이러한 일이 매우 드물다고 말합니다.",
+          "author": "Võ Thanh Hương",
+          "role": "CMO",
+          "avatar": "/images/people/khach-hang/vo-thanh-huong.webp"
+        },
+        {
+          "quote": "우리 회사는 매주 수동 보고 프로세스에 많은 시간을 소비했습니다. Winterfrost는 이 프로세스의 대부분을 자동화하는 데 도움이 되었으며 처음에 예상했던 것보다 더 나은 결과를 제공했습니다.",
+          "author": "Đặng Minh Khoa",
+          "role": "Nivora Connect 제품 관리자",
+          "avatar": "/images/people/khach-hang/dang-minh-khoa.webp"
+        }
+      ]
+    },
+    "techStack": {
+      "label": "기술 플랫폼",
+      "headline": [
+        "신청",
+        "기술",
+        "Winterfrost에서"
+      ],
+      "tabs": [
+        "모두",
+        "인터페이스",
+        "시스템",
+        "데이터베이스",
+        "작동",
+        "관리"
+      ],
+      "items": [
+        {
+          "name": "React / Next.js",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/react-icon.svg",
+          "tab": "인터페이스"
+        },
+        {
+          "name": "Angular",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/figma-icon.svg",
+          "tab": "인터페이스"
+        },
+        {
+          "name": "Vue.js",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/figma-icon.svg",
+          "tab": "인터페이스"
+        },
+        {
+          "name": "Figma",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/figma-icon.svg",
+          "tab": "인터페이스"
+        },
+        {
+          "name": "Adobe XD",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/xd-icon.svg",
+          "tab": "인터페이스"
+        },
+        {
+          "name": "Sketch",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/figma-icon.svg",
+          "tab": "인터페이스"
+        },
+        {
+          "name": "Node.js",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/github-icon.svg",
+          "tab": "시스템"
+        },
+        {
+          "name": "Laravel",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/github-icon.svg",
+          "tab": "시스템"
+        },
+        {
+          "name": "WordPress / PHP",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/github-icon.svg",
+          "tab": "시스템"
+        },
+        {
+          "name": ".NET / ASP.NET",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/github-icon.svg",
+          "tab": "시스템"
+        },
+        {
+          "name": "Slack",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/slack-icon.svg",
+          "tab": "관리"
+        },
+        {
+          "name": "Notion",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/notion-icon.svg",
+          "tab": "관리"
+        },
+        {
+          "name": "Zapier",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/zapier-icon.svg",
+          "tab": "작동"
+        },
+        {
+          "name": "GitHub",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/github-icon.svg",
+          "tab": "작동"
+        }
+      ]
+    },
+    "faq": {
+      "label": "자주 묻는 질문",
+      "headline": [
+        "답변",
+        "매",
+        "원더"
+      ],
+      "items": [
+        {
+          "q": "Winterfrost는 어떤 핵심 서비스를 제공하나요?",
+          "a": "우리는 웹사이트 디자인, 앱, 전문 소프트웨어부터 AI 개발까지 디지털 혁신 솔루션을 전문적으로 제공합니다. 또한 Winterfrost는 IoT 스마트 장치 시스템과 절대적인 보안을 갖춘 블록체인 분산형 데이터베이스도 개발합니다. 이러한 서비스를 통해 우리는 각 개발 단계에서 기업과 자신있게 동행합니다."
+        },
+        {
+          "q": "Winterfrost와 협업할 때 가장 큰 차이점은 무엇인가요?",
+          "a": "Winterfrost의 핵심 차별화 요소는 비즈니스 사고와 기술 역량의 긴밀한 결합입니다. 단순히 소프트웨어를 아웃소싱하는 것이 아니라 비즈니스 문제를 정확하게 해결하여 비용을 최적화하고 전환율을 높이는 데 중점을 둡니다. 이를 달성하기 위해 Winterfrost는 복잡한 시스템을 처리할 수 있는 숙련된 다국적 전문가 팀을 보유하고 있습니다. 동시에 우리는 제품이 항상 안전하고 안정적으로 작동하며 비즈니스 성장에 따라 쉽게 확장될 수 있도록 최신 기술을 지속적으로 업데이트하고 적용합니다."
+        },
+        {
+          "q": "프로젝트 진행 상황을 어떻게 추적하나요?",
+          "a": "우리는 투명성을 중요하게 생각합니다. 고객은 프로젝트 관리 도구에 액세스하고 정기적인 진행 상황 보고 회의에 참여하며 각 완료 단계에서 제품을 직접 경험할 수 있습니다."
+        },
+        {
+          "q": "프로젝트 비용은 어떻게 계산되나요?",
+          "a": "비용은 프로젝트 규모, 복잡성, 구현 시간에 따라 결정됩니다. 1차 상담 후 Winterfrost에서 자세한 견적을 제공해 드립니다. 우리는 명확한 요구 사항이 있는 프로젝트를 위한 패키지부터 변화에 유연성이 필요한 장기 프로젝트를 위한 보다 유연한 패키지까지 다양한 협력 모델을 보유하고 있습니다."
+        },
+        {
+          "q": "완료되면 소스 코드와 데이터의 소유자는 누구입니까?",
+          "a": "우리의 고객입니다. 프로젝트가 승인되고 결제가 완료되는 즉시 모든 지적 재산권, 애플리케이션 저작권 및 소스 코드의 100%가 귀하의 비즈니스에 이전됩니다."
+        },
+        {
+          "q": "Winterfrost는 내 정보와 비즈니스 아이디어를 어떻게 안전하게 유지합니까?",
+          "a": "보안이 최우선입니다. 우리는 양 당사자가 중요한 데이터나 아이디어를 공유하기 전에 항상 초기 상담 단계부터 고객과 정보 기밀 유지 계약을 체결합니다."
+        },
+        {
+          "q": "제품 출시 후에도 Winterfrost는 이를 계속 지원합니까?",
+          "a": "그렇습니다. Winterfrost가 개발한 모든 제품에는 발생하는 오류를 처리하기 위해 일반적으로 3~6개월의 무료 보증 기간이 제공됩니다."
+        },
+        {
+          "q": "나중에 새로운 기능을 업그레이드하거나 추가하고 싶다면 어떻게 해야 합니까?",
+          "a": "우리 시스템은 항상 확장이 용이한 개방형 아키텍처로 구축되었습니다. 고객은 기존 고객에게만 제공되는 우대 가격으로 추가 유지 관리 및 운영 패키지를 체결하거나 기능 업그레이드 계약을 체결할 수 있습니다."
+        }
+      ]
+    },
+    "wikiSection": {
+      "label": "위키",
+      "ctaLabel": "모두 보기",
+      "ctaHref": "/wiki",
+      "items": [
+        {
+          "slug": "ai-va-machine-learning-trong-y-te",
+          "title": "의료 분야의 AI 및 머신러닝: 2026년의 이점 및 실제 적용",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/07/AI-Va-Machine-Learning-Trong-Y-Te.png",
+          "category": "기업 솔루션",
+          "categoryBg": "rgba(217, 132, 22, 0.45)",
+          "categoryColor": "#1A3B91",
+          "author": "Phương Ly",
+          "date": "35분 전",
+          "views": 2
+        },
+        {
+          "slug": "gemini-3-6-flash-va-google-antigravity-giai-phap-toi-uu-cho-lap-trinh",
+          "title": "Gemini 3.6 Flash와 Google Antigravity – 프로그래밍을 위한 최적 솔루션",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/07/Gemini-3.6-Flash-va-Google-Antigravity.jpg",
+          "category": "AI",
+          "categoryBg": "rgba(217, 41, 22, 0.45)",
+          "categoryColor": "#1A3B91",
+          "author": "Hữu Trí",
+          "date": "2시간 전",
+          "views": 3
+        },
+        {
+          "slug": "cong-nghe-blockchain-trong-y-te-loi-ich-va-ung-dung-thuc-tien",
+          "title": "의료 분야 블록체인 기술: 이점과 실무 적용",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/07/Cong-Nghe-Blockchain-Trong-Y-Te.png",
+          "category": "기업 솔루션",
+          "categoryBg": "rgba(217, 132, 22, 0.45)",
+          "categoryColor": "#1A3B91",
+          "author": "Phương Ly",
+          "date": "1일 전",
+          "views": 3
+        }
+      ]
+    },
+    "partnersMarquee": {
+      "avatars": [
+        "/images/people/khach-hang/nguyen-quoc-viet.webp",
+        "/images/people/khach-hang/tran-minh-chau.webp",
+        "/images/people/khach-hang/vo-thanh-huong.webp",
+        "/images/people/khach-hang/dang-minh-khoa.webp",
+        "/images/people/khach-hang/pham-hai-long.webp"
+      ],
+      "ratingLabel": "250개 이상의 파트너",
+      "logos": [
+        {
+          "src": "/images/projects/website-pixelnova-media/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "PixelNova 미디어"
+        },
+        {
+          "src": "/images/projects/website-mocvan-tea/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "목반차"
+        },
+        {
+          "src": "/images/projects/aeromint-cleanroom/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "에어로민트"
+        },
+        {
+          "src": "/images/projects/nivora-connect/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "니보라 커넥트"
+        },
+        {
+          "src": "/images/projects/app-grevia-lawn/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "그레비아 잔디밭"
+        },
+        {
+          "src": "/images/projects/website-loomora-rugs/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "루모라 러그"
+        },
+        {
+          "src": "/images/projects/website-chromiva-coatings/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "크로미바 코팅"
+        },
+        {
+          "src": "/images/projects/website-verdora-property/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "베르도라 프로퍼티"
+        },
+        {
+          "src": "/images/projects/website-candella-works/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "칸델라 웍스"
+        },
+        {
+          "src": "/images/projects/website-flexora-packaging/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "플렉소라 포장"
+        },
+        {
+          "src": "/images/projects/website-polyvera/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "폴리베라"
+        },
+        {
+          "src": "/images/projects/website-mirava/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "미라바"
+        },
+        {
+          "src": "/images/projects/website-bytevera/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "바이트베라"
+        },
+        {
+          "src": "/images/projects/website-motoria-link/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "모토리아 링크"
+        },
+        {
+          "src": "/images/projects/website-dentavera/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "덴타베라"
+        },
+        {
+          "src": "/images/projects/website-lumera-living/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "루메라 리빙"
+        },
+        {
+          "src": "/images/projects/website-auriva-land/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "아우리바랜드"
+        },
+        {
+          "src": "/images/projects/website-rovena-mobility/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "로베나 모빌리티"
+        },
+        {
+          "src": "/images/projects/website-brewvia/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "브루비아"
+        },
+        {
+          "src": "/images/projects/website-arcvera-construction/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "아크베라건설"
+        },
+        {
+          "src": "/images/projects/website-edunora/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "에두노라"
+        },
+        {
+          "src": "/images/projects/website-virela-interior/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "비렐라 인테리어"
+        },
+        {
+          "src": "/images/projects/website-ceranova/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "세라노바"
+        },
+        {
+          "src": "/images/projects/website-rovena-travel/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "로베나 여행"
+        },
+        {
+          "src": "/images/projects/website-zenovia-retail/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "제노비아 소매"
+        },
+        {
+          "src": "/images/projects/website-veloura-nails/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "벨로라 네일"
+        },
+        {
+          "src": "/images/projects/website-pixelnova-media/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "PixelNova 미디어"
+        },
+        {
+          "src": "/images/projects/website-mocvan-tea/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "목반차"
+        },
+        {
+          "src": "/images/projects/aeromint-cleanroom/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "에어로민트"
+        },
+        {
+          "src": "/images/projects/nivora-connect/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "니보라 커넥트"
+        },
+        {
+          "src": "/images/projects/app-grevia-lawn/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "그레비아 잔디밭"
+        },
+        {
+          "src": "/images/projects/website-loomora-rugs/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "루모라 러그"
+        }
+      ]
+    }
+  },
+  "ServicesPage": {
+    "meta": {
+      "title": "서비스",
+      "description": "Winterfrost는 웹사이트, 앱, AI, IoT 및 블록체인 설계를 전문으로 합니다. 포괄적인 기술 솔루션은 기업이 운영을 디지털 방식으로 혁신하고 최적화하는 데 도움을 줍니다."
+    },
+    "hero": {
+      "bgText": "겨울 서리",
+      "title": "웹사이트 디자인, 모바일 앱 및 AI 기반 소프트웨어 솔루션",
+      "description": "Winterfrost Vietnam은 웹, 모바일, AI 및 SaaS를 포함한 완전한 디지털 솔루션 시스템을 제공합니다. 우리는 귀하의 아이디어를 가장 최적의 기술 제품으로 만드는 데 중점을 둡니다. 각 솔루션은 높은 적용성을 바탕으로 구축되어 기업의 효과적인 운영을 돕습니다. 우리는 각 코드를 통해 파트너에게 실질적인 가치를 제공할 것을 약속합니다.",
+      "marqueeTags": [
+        "웹사이트 디자인",
+        "앱 디자인",
+        "엔터프라이즈 소프트웨어 개발",
+        "맞춤형 소프트웨어 개발",
+        "MVP 소프트웨어 개발",
+        "SaaS 애플리케이션 개발",
+        "운영 및 유지보수",
+        "소프트웨어 제품 개발",
+        "AI 개발",
+        "IT 아웃소싱 서비스",
+        "DevOps 개발",
+        "AI 통합 서비스",
+        "IoT 개발",
+        "IT 아웃소싱 서비스",
+        "아웃소싱된 웹사이트 디자인",
+        "블록체인 개발",
+        "베트남에서 프로그래머를 고용하세요",
+        "해양 개발 서비스"
+      ],
+      "cubeFaces": {
+        "front": "/images/services/winterfrost/cube-faces/nha-trang-travel-website.png",
+        "right": "/images/services/winterfrost/cube-faces/greenscape-mobile-app.png",
+        "back": "/images/services/winterfrost/cube-faces/nova-paint-website.png",
+        "left": "/images/services/winterfrost/cube-faces/planora-mobile-app.png"
+      },
+      "bgImage": "/images/brand/winterfrost/winterfrost-banner.jpg"
+    },
+    "servicesList": {
+      "label": "우리의 서비스",
+      "headlineLight": "소프트웨어 개발 및",
+      "headlineDark": "AI 자동화",
+      "viewLabel": "서비스 보기",
+      "description": "Winterfrost는 포괄적인 웹사이트, 앱 및 AI 솔루션을 제공하여 기업이 디지털 장벽을 극복하도록 돕습니다. 우리는 비용 최적화, 성능 개선, 보안 극대화를 통해 귀사가 시장을 선도할 수 있는 견고한 기반을 마련하기 위해 최선을 다하고 있습니다.",
+      "items": [
+        {
+          "slug": "thiet-ke-website",
+          "title": "웹사이트 디자인",
+          "desc": "전문적인 웹사이트는 수익을 창출하는 도구여야 합니다. Winterfrost에서는 빠르고 안정적이며 사용자 경험에 최적화된 플랫폼을 구축합니다. 인터페이스부터 기능까지 모든 세부 사항이 전환을 유도하고 비즈니스를 원활하게 운영하며 브랜드 위치를 확고히 할 수 있도록 세밀하게 조정되었습니다.",
+          "img": "/images/services/winterfrost/web-application-development-v2.png"
+        },
+        {
+          "slug": "phat-trien-ai",
+          "title": "AI 개발",
+          "desc": "Winterfrost는 전문 AI 및 머신러닝 솔루션을 통해 데이터를 분석하고 처리하는 데 도움을 줍니다. 이미지 인식부터 예측 분석까지, 우리는 기업이 복잡한 의사 결정 프로세스를 자동화하여 확실한 경쟁 우위를 확보할 수 있도록 지원합니다. 모든 모델은 비즈니스에 실제적이고 정확한 가치를 제공하도록 조정되었습니다.",
+          "img": "/images/services/winterfrost/ai-development.webp"
+        },
+        {
+          "slug": "phat-trien-ung-dung-saas",
+          "title": "SaaS 애플리케이션 개발",
+          "desc": "Winterfrost는 클라우드 플랫폼에서 SaaS 애플리케이션을 전문적으로 개발하여 보안 및 확장성 문제를 철저하게 해결합니다. 안정적인 운영을 위해 시스템 구조를 최적화하여 기업이 인프라 비용을 절감하고 지속 가능한 반복 수익원을 창출할 수 있도록 지원합니다.",
+          "img": "/images/services/winterfrost/saas-application-development.webp"
+        },
+        {
+          "slug": "thiet-ke-app",
+          "title": "앱 디자인",
+          "desc": "Winterfrost는 고성능 IOS 및 Android 애플리케이션 개발을 전문으로 하며 절대적인 안정성과 보안을 보장합니다. 우리의 솔루션은 기존 시스템과 유연하게 호환되므로 기업이 고객과 긴밀하게 연결되고 지속 가능한 성장을 이룰 수 있도록 돕습니다.",
+          "img": "/images/services/winterfrost/mobile-app-development.webp"
+        },
+        {
+          "slug": "van-hanh-va-bao-tri",
+          "title": "운영 및 유지보수",
+          "desc": "우리는 안정적인 시스템이 비즈니스에 필수적이라는 것을 알고 있습니다. Winterfrost는 소프트웨어가 가능한 한 최상의 상태로 실행되도록 보안을 사전에 유지하고 업데이트합니다. 기술팀은 장치의 작업 프로세스가 중단되지 않도록 모든 문제를 신속하게 해결할 준비가 되어 있습니다. 우리는 매일 귀하의 시스템을 보호하기 위해 여기 있기 때문에 귀하는 귀하의 비즈니스 성장에 집중할 수 있다는 확신을 가질 수 있습니다.",
+          "img": "/images/services/winterfrost/software-maintenance-and-support.webp"
+        },
+        {
+          "slug": "phat-trien-phan-mem-doanh-nghiep",
+          "title": "엔터프라이즈 소프트웨어 개발",
+          "desc": "Winterfrost는 심층적인 관리 시스템을 개발하여 모든 운영상의 복잡성을 철저하게 해결합니다. 우리는 각 비즈니스의 고유한 프로세스에 따라 소프트웨어를 맞춤화하여 데이터를 중앙 집중화하고 절대적인 보안을 보장합니다. 이는 조직을 표준화하고 지속 가능한 자원을 최적화하기 위한 견고한 기반입니다.",
+          "img": "/images/services/winterfrost/enterprise-software-development.webp"
+        },
+        {
+          "slug": "phat-trien-phan-mem-mvp",
+          "title": "MVP 소프트웨어 개발",
+          "desc": "Winterfrost는 간소화된 MVP 개발 프로세스를 통해 기업이 제품을 빠르게 출시할 수 있도록 지원합니다. 우리는 아이디어를 검증하고 실제 피드백을 수집하는 핵심 기능에 중점을 두어 대규모 투자를 하기 전에 예산을 최적화하고 위험을 최소화하도록 돕습니다. 이는 귀하가 효과적이고 안전하게 시작할 수 있는 현명한 디딤돌입니다.",
+          "img": "/images/services/winterfrost/mvp-software-development.webp"
+        },
+        {
+          "slug": "dich-vu-it",
+          "title": "IT 서비스",
+          "desc": "Winterfrost는 현재 프로세스를 직접 분석하여 수동 작업을 관리 소프트웨어 시스템으로 대체합니다. 디지털화는 데이터를 중앙에 저장하여 인적 오류를 최소화하고 작업 처리 시간을 단축하는 데 도움이 됩니다. 기업은 실제 데이터를 실시간으로 캡처하여 정확한 운영 결정을 내리고 이를 통해 운영 비용을 최적화하고 직원 성과를 향상시킵니다.",
+          "img": "/images/services/winterfrost/custom-software-solutions.webp"
+        },
+        {
+          "slug": "tu-van-chuyen-doi-so",
+          "title": "디지털 전환 컨설팅",
+          "desc": "기업을 위한 전체 서버 시스템, 내부 네트워크 및 기술 장비를 설정, 운영 및 유지 관리합니다. Winterfrost는 정보 손실이나 무단 침입의 위험을 방지하기 위해 보안 표준과 정기적인 백업 절차를 적용합니다. 기술 시스템은 중단 없이 작업을 보장하기 위해 지속적으로 유지 관리되고 운영되는 동시에 기업이 내부 IT 직원 채용 및 관리 비용을 줄이는 데 도움이 됩니다.",
+          "img": "/images/services/winterfrost/generative-ai-integration.webp"
+        },
+        {
+          "slug": "phat-trien-devops",
+          "title": "DevOps 개발",
+          "desc": "Winterfrost는 제품 출시 시간을 최소한으로 단축하는 자동화된 CI/CD 솔루션으로 소프트웨어 개발 프로세스를 개선합니다. 안정적인 클라우드 인프라 구축과 24시간 365일 지속적인 모니터링 시스템 구축에 중점을 두고 안정성을 확보하고 있습니다.",
+          "img": "/images/services/winterfrost/devops-development.webp"
+        },
+        {
+          "slug": "phat-trien-iot",
+          "title": "IoT 개발",
+          "desc": "Winterfrost는 스마트 장치를 연결하고 정보를 수집하여 기업의 운영 프로세스를 개선하는 데 도움을 줍니다. 실시간으로 데이터를 모니터링할 수 있는 안전하고 유연한 IoT 솔루션 개발에 중점을 두고 있습니다. 가장 정확한 데이터를 기반으로 의사결정을 내릴 수 있는 강력하게 연결된 생태계를 갖게 됩니다.",
+          "img": "/images/services/winterfrost/iot-development.webp"
+        },
+        {
+          "slug": "phat-trien-blockchain",
+          "title": "블록체인 개발",
+          "desc": "Winterfrost는 절대적인 데이터 보안을 보장하는 데 도움이 되는 분산형 블록체인 솔루션을 구축합니다. 비용을 최적화하고 중개 위험을 완전히 제거하기 위해 Smart Contract를 적용합니다. 이는 고객의 신뢰를 강화하고 디지털 시대에 효과적으로 돌파할 수 있도록 돕는 견고한 기반입니다.",
+          "img": "/images/services/winterfrost/blockchain-development.webp"
+        }
+      ]
+    },
+    "howWeWork": {
+      "label": "Winterfrost 워크플로",
+      "ctaLabel": "지금 경로 조언을 받아보세요!",
+      "ctaHref": "tel:+84971450454",
+      "steps": [
+        {
+          "num": "01",
+          "badge": "리셉션",
+          "title": "요청 수신 및 분석",
+          "desc": "고객의 아이디어를 듣고 비즈니스 문제를 분석하여 최적의 솔루션을 제안해 드립니다. 이를 통해 처음부터 범위와 목표를 명확하게 정의함으로써 프로젝트에서 불필요한 낭비를 피할 수 있습니다."
+        },
+        {
+          "num": "02",
+          "badge": "전략을 세우다",
+          "title": "계획과 의지",
+          "desc": "구현 로드맵은 계약 체결 직후의 명확한 이정표로 구체적입니다. 기업은 항상 적극적으로 진행 상황을 모니터링하고 시장 동향에 맞춰 시기적절하게 조정해야 합니다."
+        },
+        {
+          "num": "03",
+          "badge": "디자인",
+          "title": "디자인 UI/UX 인터페이스",
+          "desc": "심미성과 실용적인 사용자 행동에 중점을 두고 직관적인 인터페이스와 논리적 흐름을 디자인합니다. 핵심 목표는 제품의 전환율을 높이는 원활한 경험을 제공하는 것입니다."
+        },
+        {
+          "num": "04",
+          "badge": "완료",
+          "title": "지속적인 프로그래밍 및 최적화",
+          "desc": "엔지니어 팀은 코드를 실행하고 각 모듈의 오류와 품질을 확인합니다. 이 프로세스를 통해 오류를 조기에 감지하고 성능을 즉시 최적화하여 최종 제품이 항상 최고의 안정성과 완벽성을 달성하도록 보장합니다."
+        },
+        {
+          "num": "05",
+          "badge": "핸드오버",
+          "title": "인수인계 및 지속 가능한 지원",
+          "desc": "Winterfrost는 전체 기술 이전, 세부 운영 지침을 수행하고 정기적인 유지 관리 서비스를 유지합니다. 우리는 귀하의 시스템이 항상 안전하게 작동하고 확장할 준비가 되어 있도록 장기적인 동반자 관계에 최선을 다하고 있습니다."
+        }
+      ]
+    },
+    "benefits": {
+      "label": "왜 Winterfrost의 서비스를 선택해야 합니까?",
+      "headline": "Winterfrost와의 차이 값",
+      "items": [
+        {
+          "num": "1",
+          "title": "선구적인 기술",
+          "desc": "AI, 블록체인, IoT를 마스터하여 가장 현대적이고 획기적인 기술 솔루션을 기업에 제공하세요.",
+          "icon": "rocket"
+        },
+        {
+          "num": "2",
+          "title": "린 개발",
+          "desc": "MVP 모델을 적용하면 제품을 빠르게 출시할 수 있어 시간과 투자 예산이 최대로 절약됩니다.",
+          "icon": "zap"
+        },
+        {
+          "num": "3",
+          "title": "믿을 수 있는 품질",
+          "desc": "품질 테스트 프로세스와 병행하여 프로그래밍하면 시스템이 항상 안정적으로 작동하고 높은 완성도를 달성할 수 있습니다.",
+          "icon": "shield"
+        },
+        {
+          "num": "4",
+          "title": "전략적 파트너",
+          "desc": "우리는 디자인뿐만 아니라 비즈니스 성장과 함께 장기적인 솔루션도 제공합니다.",
+          "icon": "handshake"
+        },
+        {
+          "num": "5",
+          "title": "유연한 확장",
+          "desc": "현대적인 소프트웨어 구조로 기업은 각 비즈니스 단계에 따라 시스템을 쉽게 업그레이드하고 확장할 수 있습니다.",
+          "icon": "expand"
+        },
+        {
+          "num": "6",
+          "title": "절대적인 보안",
+          "desc": "다계층 보안 시스템을 구축하여 비즈니스 데이터와 정보의 안전을 보호하는데 최선을 다하고 있습니다.",
+          "icon": "lock"
+        },
+        {
+          "num": "7",
+          "title": "최적의 경험",
+          "desc": "실제 사용자 행동에 초점을 맞춘 정교한 UI/UX 디자인으로 가장 효과적인 전환율을 유도합니다.",
+          "icon": "sparkles"
+        },
+        {
+          "num": "8",
+          "title": "전문적인 업무 로드맵",
+          "desc": "명확한 작업 프로세스와 상세한 진행 보고서는 기업이 모든 프로젝트 단계를 사전에 파악하는 데 도움이 됩니다.",
+          "icon": "route"
+        },
+        {
+          "num": "9",
+          "title": "이익 가치",
+          "desc": "우리가 제공하는 솔루션은 모두 하나의 목표를 가지고 있습니다. 이는 기술을 비즈니스 이익을 증대시키는 수단으로 바꾸는 것입니다.",
+          "icon": "chart"
+        }
+      ]
+    },
+    "ctaBanner": {
+      "badge": "지금 연락하세요!",
+      "headline": "귀하의 비즈니스에 적합한 솔루션을 선택하세요",
+      "description": "Winterfrost 엔지니어가 비즈니스의 실제 요구 사항과 예산을 기반으로 올바른 솔루션에 대해 조언해 드립니다.",
+      "ctaLabel": "무료 상담 받기",
+      "ctaHref": "tel:+84971450454"
+    },
+    "industries": {
+      "label": "주요 지역",
+      "headlineLight": "Winterfrost는 서비스를 제공합니다",
+      "headlineDark": "각 특정 분야에 따라",
+      "ctaLabel": "모든 지역 탐색",
+      "items": [
+        {
+          "slug": "thuong-mai-dien-tu",
+          "title": "전자상거래",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/05/Linh-vuc-Thuong-mai-dien-tu-HomeNest-Viet-Nam.png"
+        },
+        {
+          "slug": "cong-nghe-tai-chinh",
+          "title": "금융기술",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/05/Linh-vuc-Cong-nghe-tai-chinh-HomeNest-Viet-Nam.png"
+        },
+        {
+          "slug": "y-te",
+          "title": "의료",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/05/Linh-vuc-Cham-soc-suc-khoe-HomeNest-Viet-Nam.png"
+        },
+        {
+          "slug": "tai-chinh-doanh-nghiep",
+          "title": "기업금융",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/05/Linh-vuc-Tai-chinh-doanh-nghiep-HomeNest-Viet-Nam.png"
+        },
+        {
+          "slug": "phan-mem-doanh-nghiep",
+          "title": "엔터프라이즈 소프트웨어",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/05/Linh-vuc-Phat-trien-phan-mem-doanh-nghiep-HomeNest-Viet-Nam.png"
+        },
+        {
+          "slug": "ban-le",
+          "title": "소매",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Retail-Industries-Icon.png"
+        },
+        {
+          "slug": "bat-dong-san",
+          "title": "부동산",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/05/Linh-vuc-Bat-dong-san-HomeNest-Viet-Nam.png"
+        },
+        {
+          "slug": "van-tai-va-logistics",
+          "title": "운송 및 물류",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/05/Linh-vuc-Van-tai-va-Logistics-HomeNest-Viet-Nam.png"
+        },
+        {
+          "slug": "giao-duc",
+          "title": "교육",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Education-Industries-Icon.png"
+        }
+      ]
+    },
+    "caseStudies": {
+      "heading": "일반적인 프로젝트",
+      "viewAllLabel": "자세히 보기",
+      "viewAllHref": "/case-studies",
+      "items": [
+        {
+          "slug": "app-nivora-connect",
+          "category": "필요에 따라 애플리케이션 개발",
+          "title": "앱 니보라 커넥트",
+          "tag": "앱 디자인",
+          "cta": "프로젝트 보기",
+          "img": "/images/projects/nivora-connect/01-cover.webp?v=wf-20260726"
+        },
+        {
+          "slug": "app-grevia-lawn",
+          "category": "필요에 따라 애플리케이션 개발",
+          "title": "앱 그레비아 잔디밭",
+          "tag": "앱 디자인",
+          "cta": "프로젝트 보기",
+          "img": "/images/projects/app-grevia-lawn/01-anh-bia-du-an.webp?v=wf-grevia-pro-20260726"
+        },
+        {
+          "slug": "website-loomora-rugs",
+          "category": "소매·전자상거래",
+          "title": "루모라 러그 웹사이트",
+          "tag": "웹사이트 디자인",
+          "cta": "프로젝트 보기",
+          "img": "/images/projects/website-loomora-rugs/01-anh-bia-du-an.webp?v=wf-projects-pro-20260726"
+        }
+      ]
+    },
+    "technology": {
+      "label": "기술 플랫폼",
+      "headline": [
+        "운영 기술",
+        "",
+        "Winterfrost에서"
+      ]
+    },
+    "faq": {
+      "label": "자주 묻는 질문",
+      "headline": [
+        "답변",
+        "매",
+        "원더"
+      ],
+      "intro": "고객이 Winterfrost에 자주 묻는 질문(FAQ)입니다.",
+      "items": [
+        {
+          "q": "Winterfrost는 어떤 분야에 강점이 있나요?",
+          "a": "특히 웹, 앱, SaaS용 맞춤형 소프트웨어 제작과 AI, 블록체인, IoT 등 신기술 적용에 능숙합니다. 모든 솔루션은 비즈니스의 실질적인 문제를 해결하기 위해 만들어졌습니다."
+        },
+        {
+          "q": "Winterfrost의 작업 프로세스는 얼마나 오래 지속되나요?",
+          "a": "구현 시간은 프로젝트 규모에 따라 다릅니다. 그러나 당사의 린 개발 모델을 사용하면 4~8주 안에 주요 버전을 출시하여 시장을 조기에 테스트할 수 있도록 도와드릴 수 있습니다."
+        },
+        {
+          "q": "이미 시스템을 갖추고 있는데 Winterfrost가 AI를 여기에 통합할 수 있나요?",
+          "a": "어쩌면. 우리는 모든 레거시 시스템을 교체하지 않고도 프로세스를 자동화하고 데이터를 최적화하며 효율성을 향상시키기 위해 기존 플랫폼에 AI 및 GenAI 통합 서비스를 제공하는 것을 전문으로 합니다."
+        },
+        {
+          "q": "제품 품질을 어떻게 믿을 수 있나요?",
+          "a": "Winterfrost는 프로그래밍 프로세스 전반에 걸쳐 매우 엄격한 품질 관리 절차를 적용합니다. 각 모듈에 대한 지속적인 테스트를 통해 오류를 조기에 감지하고 핸드오버 시 시스템이 가장 안정적으로 작동하도록 보장합니다."
+        },
+        {
+          "q": "서비스 비용은 어떻게 계산되나요?",
+          "a": "비용은 작업 범위, 기능의 복잡성 및 기술 요구 사항을 기반으로 투명하게 계산됩니다. 우리는 항상 귀하의 예산과 비즈니스 목표의 균형을 맞추기 위해 최선의 조언을 제공합니다."
+        },
+        {
+          "q": "Winterfrost는 프로젝트 정보 보안을 보장합니까?",
+          "a": "물론이죠. 우리는 프로젝트 정보를 받기 전에 항상 엄격한 기밀 유지 계약에 서명합니다. 지적 재산권과 모든 소스 코드는 인도 시점부터 고객에게 귀속됩니다."
+        },
+        {
+          "q": "Winterfrost의 인수 후 지원 정책은 무엇입니까?",
+          "a": "우리는 그냥 넘겨주지 않습니다. 우리는 귀하의 시스템이 원활하게 실행되고 확장할 수 있도록 정기적인 유지 관리, 보안 업데이트 및 연중무휴 기술 지원을 제공합니다."
+        }
+      ]
+    }
+  },
+  "AutoText": {
+    "k203kjd": "생성형 AI 챗봇이란 무엇인가요? 생성형 챗봇을 만드는 방법",
+    "k12asvl6": "르찬",
+    "k1xx73q9": "생성형 AI 챗봇은 LLM과 RAG 검색 기술을 통해 자연스럽게 소통하고 맥락을 유연하게 이해할 수 있는 능력 덕분에 베트남에서 강력한 디지털 전환의 물결을 일으키고 있습니다. 전통적인 스크립트형 챗봇보다 우수한 이 솔루션은 기업이 운영 비용을 최적화하고, 24시간 고객을 돌보며, 경험을 개인화하는 데 도움을 줍니다. 성공적인 적용을 위해서는 조직이 린 6단계 구축 프로세스를 준수해야 하며, 특히 깨끗한 데이터 준비에 중점을 두어야 합니다. 마지막으로, 기업은 국내 AI 생태계에서 기회를 포착하는 방법을 알아야 하며, 동시에 'AI 환상', 보안, 비용 측면에서 장벽을 극복할 전략을 갖추어야 합니다.",
+    "k12rgkcu": "웹사이트 디자인",
+    "k1o911ts": "앱 디자인",
+    "k1gf4ckt": "부동산",
+    "k1n7x1v": "소매",
+    "k1sabsg5": "의료",
+    "k1stjgu1": "미디어",
+    "kgqsb04": "여행",
+    "kxf0ssn": "제작",
+    "kez5f5q": "건축 및 건설",
+    "k1bn2dpa": "전자상거래",
+    "kt99tt0": "공급망",
+    "k1muhyk6": "투 씨",
+    "kaczs7z": "지금 연락하세요!",
+    "k6o8ltw": "독자적인 AI 시스템으로 디지털 시대를 선도하다",
+    "k15gtxg8": "일반적인 자동화에만 그치지 마십시오. Winterfrost에 가입하여 고유한 AI 모델을 구축하는 데이터의 힘을 탐색하고 귀하의 비즈니스가 시장에서 절대적인 경쟁 우위를 확보하도록 돕습니다.",
+    "k1ilexgi": "지금 AI 로드맵을 구축하세요",
+    "klti6ob": "Winterfrost가 함께 참여한 대표적인 프로젝트로는 웹사이트 디자인, 모바일 앱, AI 및 기업용 디지털 솔루션이 포함됩니다.",
+    "k1sb2524": "개인 정보 보호 정책",
+    "k4zdixi": "Winterfrost의 고객 및 사용자 정보 개인정보처리방침.",
+    "k1v9d27x": "내부 기록 보관",
+    "kpa4dn0": "고객 및 파트너 정보를 관리하세요.",
+    "k1qwyi5f": "서비스 개선",
+    "k1hyz6ue": "저희는 이 정보를 사용하여 소프트웨어 제품과 서비스를 개선할 수 있습니다.",
+    "k128d5uu": "마케팅 및 커뮤니케이션",
+    "kpswrex": "주기적으로 제공하신 이메일 주소를 통해 신규 서비스, 특별 혜택 또는 관심 있을 만한 기타 정보에 관한 홍보 이메일을 보낼 수 있습니다.",
+    "k1tbv4n0": "정보 제공 시",
+    "ki7t7kq": "웹사이트에서 양식을 작성하라는 요청을 받을 때, 직접 마케팅 목적으로 귀하의 정보를 사용하지 않기를 원하는 체크박스를 찾아보세요.",
+    "ka0te0n": "마음 변화와 허가 철회",
+    "kftdx1s": "이전에 저희가 직접 마케팅 목적으로 개인정보를 사용하는 데 동의하셨다면, 언제든지 서면이나 이메일을 보내 마음을 변경할 수 있습니다.",
+    "k1orq7up": "홈",
+    "k17spkxh": "이 개인정보처리방침은 Winterfrost가 웹사이트를 이용할 때 제공하는 모든 정보를 어떻게 사용하고 보호하는지 명시 https://winterfrost.tech.",
+    "kijmg0x": "Winterfrost는 여러분의 프라이버시 보호에 전념하고 있습니다. 이 웹사이트를 이용하는 과정에서 특정 신원 정보를 제공해 달라고 요청할 때, 해당 정보는 이 개인정보처리방침의 조건에 따라 사용될 것임을 완전히 확신하셔도 됩니다.",
+    "k1pdblz0": "Winterfrost는 이 정책을 웹사이트에서 수시로 업데이트하여 변경할 수 있습니다. 변경 사항을 항상 인지하고 동의하기 위해 이 페이지를 주기적으로 확인하시길 권장합니다. 이 정책은 2017년 1월 1일부터 발효됩니다",
+    "k1uezmpb": "우리가 수집한 정보를 어떻게 활용하는지는",
+    "kre72kk": "우리가 수집하는 정보",
+    "k18r4shf": "다음과 같은 정보를 수집할 수 있습니다:",
+    "k1uqxj4j": "연락처에는 이메일 주소, 전화번호가 포함되어 있습니다.",
+    "k1p6qhy5": "우편번호, 관심사, 관심사와 같은 인구통계학적 정보.",
+    "k1c3thua": "고객 설문조사 및/또는 프로모션과 관련된 기타 정보.",
+    "k1kcqept": "보안",
+    "kx9c36g": "저희는 귀하의 정보가 안전하게 지낼 수 있도록 최선을 다하고 있습니다. 무단 접근이나 공개를 방지하기 위해, 온라인에서 수집된 모든 정보를 보호하고 안전하게 보호하기 위해 적절한 물리적, 전자적, 관리 절차를 마련했습니다.",
+    "k1v0bhn5": "쿠키 사용 방법",
+    "k4siefb": "쿠키는 컴퓨터 하드 드라이브에 저장 허가를 요청하는 작은 파일입니다. 동의하면 파일이 추가되고 쿠키가 웹 트래픽 분석이나 특정 페이지 방문 시 알림을 제공합니다. 쿠키는 웹 애플리케이션이 독립적인 개인으로서 귀하에게 응답할 수 있게 합니다. 웹 애플리케이션은 정보를 수집하고 기억함으로써 사용자의 필요와 선호에 따라 활동을 맞춤화할 수 있습니다.",
+    "k6yd68l": "우리는 스크롤 로그 쿠키를 사용해 사용 중인 페이지를 식별합니다. 이를 통해 웹사이트 트래픽 데이터를 분석하고 고객의 요구에 더 잘 부응할 수 있도록 플랫폼을 개선할 수 있습니다. 이 정보는 통계 분석 목적으로만 사용하며, 이후 데이터는 시스템에서 삭제됩니다.",
+    "k7v9c9i": "전반적으로 쿠키는 유용한 페이지와 그렇지 않은 페이지를 추적하여 더 나은 웹사이트를 제공하는 데 도움을 줍니다. 쿠키는 귀하가 저희와 적극적으로 공유하는 데이터를 제외하고는 귀하의 컴퓨터나 귀하에 대한 어떤 정보도 저희에게 부여하지 않습니다.",
+    "k8793xo": "쿠키를 수락하거나 거부할 수 있습니다. 대부분의 웹 브라우저는 자동으로 쿠키를 허용하지만, 원한다면 브라우저 설정을 수정해 쿠키를 거부할 수도 있습니다. 하지만 이로 인해 사이트의 기능을 최대한 활용하는 데 방해가 될 수 있습니다.",
+    "kwu2i0i": "다른 웹사이트로의 링크",
+    "koxje9j": "저희 웹사이트에는 다른 웹사이트로 연결되는 링크가 포함될 수 있습니다. 하지만 이 링크를 사용해 Winterfrost 웹사이트를 떠난 후에는 저희가 해당 제3자 웹사이트에 대해 어떠한 통제권도 갖지 않는다는 점을 유의해야 합니다. 따라서 방문 시 제공하시는 정보의 개인정보 보호에 대해 저희는 책임을 지지 않으며, 해당 사이트들은 이 개인정보처리방침의 적용을 받지 않습니다. 해당 웹사이트에 적용되는 개인정보처리방침을 주의 깊게 검토하시기 바랍니다.",
+    "krvy4em": "개인 정보 통제",
+    "kux4jdh": "개인정보의 수집이나 사용을 다음과 같은 방식으로 제한할 수 있습니다:",
+    "ksf6a0o": "귀하의 허락이나 법적으로 요구되는 경우에만 귀하의 개인정보를 제3자에게 판매, 배포 또는 임대하지 않습니다. 귀하의 개인정보를 사용하여 귀하가 흥미로워할 만한 제3자 홍보 정보를 제공할 수 있습니다.",
+    "kwq3kzy": "저희가 보유한 정보가 부정확하거나 불완전하다고 생각되면 즉시 연락해 주시기 바랍니다. 부정확한 정보가 발견되면 신속히 정정하겠습니다.",
+    "k1dyoc0f": "이 정책에 대해 궁금한 점이 있으시면, 호치민시 9지구 빈홈스 그랜드파크에 위치한 저희 사무실로 직접 연락하시거나 이메일로 info@winterfrost.tech 연락해 주셔서 회사 지원을 받으시기 바랍니다.",
+    "k17vdoxp": "IT 서비스",
+    "k1b3y636": "포괄적인 IT 솔루션, 인프라 관리, 기술 지원 및 시스템 최적화를 기업을 지원합니다.",
+    "k1mtovmx": "Winterfrost는 아키텍처 컨설팅, 인프라 관리, 모니터링 및 기술 지원에 이르기까지 포괄적인 IT 서비스를 제공합니다. 이 솔루션은 실제 필요에 맞게 설계되어, 기업이 안정적이고 안전하며 확장 가능한 시스템을 유지할 수 있도록 돕습니다.",
+    "k1bn7e6b": "디지털 전환 컨설팅",
+    "khs9w9p": "명확한 디지털 전환 로드맵을 구축하고, 프로세스를 최적화하며, 귀사에 맞는 적절한 기술을 선택하세요.",
+    "kusz7zb": "Winterfrost 팀은 기업들과 함께 현재 상황을 평가하고 목표를 정의하며 실현 가능한 디지털 전환 로드맵을 구축합니다. 각 제안은 운영 효율성, 측정 가능성, 실행 속도에 중점을 둡니다.",
+    "k6x4xtf": "프로젝트 보기",
+    "k1j78eha": "건축 및 건설 · 전자상거래",
+    "k1vtc3vu": "Winterfrost에 연락하세요",
+    "k61e2xj": "웹사이트, 애플리케이션, AI 및 디지털 전환 솔루션에 대한 무료 상담을 원하시면 Winterfrost 팀에 연락하세요.",
+    "k133uj50": "지금 연락",
+    "k9jllvg": "기술 프로젝트 시작",
+    "kvohhjo": "우리는 위대한 발전은 항상 대화에서 시작된다고 믿습니다. 기술 전략 조언, 맞춤형 소프트웨어 솔루션, 장기적인 파트너를 찾고 계시다면, 저희가 여러분의 확장을 도와드리겠습니다.",
+    "k1aawfk3": "비즈니스 특성에 맞춘 소프트웨어 솔루션을 전문으로 제공합니다.",
+    "k15otzj9": "경험 많은 IT 전문가와 엔지니어 팀에 접근할 수 있습니다.",
+    "k9lwa9q": "프로젝트의 실현 가능성 조사와 평가는 완전히 무료입니다.",
+    "k2d0anu": "유연한 협력 모델을 통해 기업이 비용을 효과적으로 통제하고 최적화할 수 있도록 돕습니다.",
+    "knv4s0z": "여러분의 아이디어를 공유해 주세요",
+    "k14h1e6": "그들은",
+    "ks5zpb": "이름",
+    "k1tlfzb1": "이메일 주소",
+    "k1tjj3qj": "전화번호",
+    "k1iiv17r": "우리에게 전하는 메시지",
+    "kmi4i48": "전송 중...",
+    "kcox2yy": "지금 무료 상담을 받아보세요",
+    "k1cdxoog": "섹터 - Winterfrost",
+    "k1f74w09": "Winterfrost는 금융, 의료, 소매, 물류, 부동산 등 각 산업별로 전문 기술 솔루션을 개발합니다.",
+    "krtrm1z": "Winterfrost 벽지",
+    "kwazxva": "페이지를 찾을 수 없습니다",
+    "ktnduam": "찾으시는 페이지를 찾지 못했습니다. URL을 확인하시거나 홈페이지로 돌아가시기 바랍니다.",
+    "kc8hd9u": "Winterfrost의 기술",
+    "k435989": "Winterfrost가 디지털 제품을 개발하는 데 사용하는 백엔드, 프론트엔드, 앱, AI, 클라우드 컴퓨팅 플랫폼을 발견해 보세요.",
+    "kqnlbpy": "Winterfrost에서 테스터의 역할은 무엇을 할까요?",
+    "k1rohmxo": "이 글은 Winterfrost의 응우옌 꽝 후이와 툽 쿠엔의 일기를 통해 소프트웨어 테스터의 작업에 대한 진실되고 심도 있는 시각을 제공합니다. \"버그를 보고하고 시도해보라\"는 고정관념을 넘어서, 테스트 과정은 명세 문서 읽기, 스크립팅, 다양한 기술 플랫폼에서의 성능 및 인터페이스 평가에 이르기까지 철저한 분석을 요구합니다. Tester가 개발자 및 BA와 원활하게 협력하여 사용자 경험 문제를 해결하는 방법을 자세히 설명하는 것 외에도, 이 글은 초보자를 위한 실용적인 조언을 요약하고 Winterfrost에서의 매력적인 경력 개발 기회를 소개합니다.",
+    "kprfyju": "후이찌",
+    "kki27xm": "Winterfrost에서의 비즈니스 분석(BA) 근무일은 어떤 모습일까요?",
+    "k1adyffr": "Winterfrost에서 BA의 역할에 대해 알아보세요. 워크플로우, 문제 해결, 실무 경험, 초보자를 위한 조언을 발견하세요.",
+    "k16l7fif": "Flutter 개발자의 날은 어떤 모습인가요?",
+    "k1rsvf9n": "Winterfrost에서 Flutter 개발자로서 직접 경험하는 하루 일을 경험해 보세요. 지금 읽어보면 워크플로우, 비즈니스 문제 해결 방법, IT 분야에서 비싼 팁을 이해할 수 있습니다.",
+    "k1yoljaj": "Winterfrost 프로모션",
+    "k1cvak1s": "채용",
+    "k14xuapl": "이력서를 우편으로 제출하세요:",
+    "klpmq4w": "또는 잘로:",
+    "k1kfp6qk": "지금 상담 예약하세요",
+    "k1vp9tyg": "지금 바로 연락하여 비즈니스를 위한 탄탄한 기술 기반을 구축하세요",
+    "k16w7753": "디지털화 로드맵과 구현 비용 최적화 계획에 대한 심층 상담을 받으시려면 엔지니어 팀과 약속을 잡으세요.",
+    "k1hrxzg9": "→ 전문가와 상담하세요",
+    "kbvcrlw": "기타 채용 공고",
+    "k5u75qi": "급여: 협상 가능",
+    "kqb7d8z": "지원 마감일: 2026-12-31",
+    "klha8fm": "모두 보기",
+    "k4i8u0x": "Winterfrost 모집",
+    "kq6zf4": "Winterfrost 팀과 함께 공석 및 경력 개발 기회를 탐색해 보세요.",
+    "k1nl56ic": "위치",
+    "kal4s1w": "모두",
+    "k13m88rd": "인사 행정",
+    "k12uk7e": "회계 - 감사",
+    "k1n1xvcw": "법적",
+    "k16fiqcy": "리스크 관리",
+    "k3tzros": "작동",
+    "k6xye8l": "사무실",
+    "k19rs1yz": "직장",
+    "kn9ullg": "캔 토",
+    "k1n80rdt": "다낭",
+    "ka01zp1": "하노이",
+    "kw9mbk2": "호치민시",
+    "krzu36j": "채용 유형",
+    "k1884i9t": "작업 형식",
+    "kpbebgj": "기여자들",
+    "k1wirnzs": "직원",
+    "kl09q3d": "관리",
+    "k1evf6io": "인턴십",
+    "kqchjhv": "Winterfrost 동행",
+    "kkaq6io": "디지털 시대에",
+    "kvi2y1": "우리는 효과적인 디지털 전환 솔루션을 제공할 뿐만 아니라, 여러분이 전문적인 환경을 조성할 수 있도록 돕습니다",
+    "k8eswyb": "재능 발굴",
+    "ka8wf5y": "네트워크와 함께",
+    "k1r2ssz": "이 프로젝트는 15개국 이상에 걸쳐 진행되고 있습니다",
+    "k1nbvjc3": "Winterfrost의 회원이 된다는 것은 다문화 환경에서 직접 일할 기회를 갖는다는 의미입니다.",
+    "k17tnhsm": "주요 기술 도전 과제",
+    "k14t5v81": "우리는 항상 직원들의 개발에 집중합니다. 왜냐하면 편안하고 행복하게 일하는 직원들이 질 좋은 제품을 만들어낼 것이라 믿기 때문입니다.",
+    "k1cjcar6": "Winterfrost 팀",
+    "kw1c4oh": "공석",
+    "k1a2nlc5": "적합한 직업을 찾아 오늘 Winterfrost 팀에 합류하세요.",
+    "k1ihd60n": "공석 검색",
+    "kmqa1yw": "검색",
+    "kys5uyk": "모집 페이지 설정",
+    "k1j144uh": "Winterfrost의 브랜드 비전과 포지셔닝은 무엇인가요?",
+    "k1wpilfa": "Winterfrost는 전략적 기술 파트너로 자리매김하고 있습니다. 우리의 비전은 핵심 기술(Core Tech)과 사용자 경험(UX)을 완벽하게 결합하여 기업이 디지털 시대를 자신 있게 선도할 수 있도록 돕는 획기적인 디지털 솔루션을 만드는 것입니다.",
+    "kzegk5h": "Winterfrost의 운영 범위와 규모는 어느 정도인가요?",
+    "kp15d46": "저희는 10년 이상의 실무 경험을 가진 전문가 팀을 보유하고 있다는 점을 자랑스럽게 생각합니다. 현재까지 Winterfrost는 북미, 유럽, 호주 등 까다로운 시장을 포함해 전 세계 15개국 이상에서 기술 프로젝트를 성공적으로 수행해 왔습니다.",
+    "k1vcxb0x": "Winterfrost의 주요 고객은 누구인가요?",
+    "k1afe9ss": "저희는 다양한 규모의 기업과 함께합니다. MVP 제품을 빠르게 개발해 자본을 조달해야 하는 스타트업부터, 디지털 전환을 원하는 중소기업, 복잡한 맞춤형 앱 및 SaaS 시스템이 필요한 대기업까지 포함됩니다.",
+    "kwsnxx1": "Winterfrost가 아웃소싱 서비스를 전문으로 하나요, 아니면 솔루션 컨설팅을 전문으로 하나요?",
+    "k5xj24l": "우리는 단순한 아웃소싱 부서가 아닙니다. Winterfrost는 비즈니스 문제 분석, 시스템 아키텍처 계획, UI/UX 설계, 최종 제품 개발에 이르기까지 포괄적인 솔루션 컨설턴트 역할을 합니다.",
+    "ksmht77": "Winterfrost의 직원 수용 능력은 어느 정도인가요?",
+    "k1u33q83": "저희 팀은 경험 많은 소프트웨어 엔지니어, 데이터 분석가, 그리고 창의적인 UX/UI 디자이너로 구성되어 있습니다. 이들 모두는 현대 기술에 대한 깊은 이해를 가지고 있으며, 항상 고객 비즈니스 성과를 최우선으로 생각합니다.",
+    "klc1wsz": "Winterfrost는 첨단 기술을 적용하나요?",
+    "kwig183": "분명히 그렇습니다. 웹 및 앱 외에도 Winterfrost는 인공지능 통합, 안전한 블록체인 플랫폼 개발, 모든 것을 연결하는 심층적인 역량을 보유하고 있어 기업의 데이터 잠재력을 자동화하고 극대화하는 데 기여하고 있습니다.",
+    "k16tmvc6": "Winterfrost 서비스의 품질을 증명하는 수치는 무엇인가요?",
+    "k12r6o29": "Winterfrost의 서비스 품질은 250+ 개 이상의 글로벌 파트너들의 신뢰로 보장됩니다. 특히, 우리는 항상 98%의 고객 만족도를 유지하고 있습니다. 이는 프로젝트 헌신과 효율성을 가장 정확하게 측정하는 지표입니다.",
+    "k1expp0p": "해외에 있다면 Winterfrost와의 협력은 어떻게 진행될까요?",
+    "k5qgd83": "지리적 거리는 장벽이 아닙니다. 15+개국의 고객과 협력한 경험을 바탕으로, 유연한 애자일/스크럼 워크플로우, 온라인 플랫폼을 통한 투명한 진행 보고, 어디에 있든 프로젝트가 순조롭게 진행되도록 보장합니다.",
+    "k4nipa7": "Winterfrost와 파트너가 되세요",
+    "k1ge4yzn": "우리는 기술적 솔루션을 제공할 뿐만 아니라 사업의 장기적인 발전에도 항상 함께합니다. 함께 효과적인 기술 플랫폼을 구축하기 위해 연락합시다.",
+    "kmkrt1c": "상담 요청서 보내기",
+    "k590n0w": "자주 묻는 질문",
+    "k1b3xxv4": "답변",
+    "k1vqende": "매",
+    "ke374uu": "원더",
+    "k118iq2s": "위키 및 기술 지식 - Winterfrost",
+    "k19j2ntm": "Winterfrost의 기술 동향과 디지털 전환 솔루션에 대한 관점.",
+    "k1yntfcy": "영어",
+    "kp82r5w": "힌디어",
+    "kp1w2q1": "성장",
+    "k22yt8o": "당신의 이름",
+    "k11eclox": "요구사항에 대한 간단한 설명",
+    "k1vg3sak": "24시간 내 신속한 답변.",
+    "ku3y917": "전문가와 직접 작업.",
+    "k10ckrc5": "명확한 전략 컨설팅.",
+    "k150guhk": "우리와 연결하기",
+    "k1fs9rd1": "프로젝트",
+    "k2szj3b": "오늘 바로",
+    "kfc9h30": "협력 문의",
+    "k1fasa6m": "이름*",
+    "k1ajhsfk": "또는 직접 이메일 보내기:",
+    "k1d0joof": "요청 보내기",
+    "khi11kb": "상담 예약",
+    "ki2qlvt": "번호",
+    "kkwz6m4": "시연",
+    "k1i8v5d7": "가치",
+    "kogs9jp": "직접 연락",
+    "kdeeq73": "조언 요청 메시지",
+    "k8pzogk": "Winterfrost 서비스 시장",
+    "k1n3or0": "시행 프로젝트",
+    "ktqgo9l": "권한",
+    "k1g4wnoo": "개발",
+    "k19tpzs6": "각 프로젝트를 통해",
+    "k1lglekr": "직관적인 UI/UX 인터페이스, SEO 표준, 높은 성과를 갖춘 웹 플랫폼을 만들어, 기업이 디지털 플랫폼에서 전환율을 돌파할 수 있도록 돕습니다.",
+    "k12cqup9": "운영 비용 절감",
+    "kod3xeh": "데이터 처리 속도를 높이기",
+    "k1muqn2i": "레 카이 민",
+    "kwmjy7j": "고객의 98%가 서비스에 만족하고 있습니다",
+    "kjku9f7": "사용자 경험을 최적화하여 고객을 유지하고 성장을 촉진합니다.",
+    "ku7pug4": "소프트웨어 개발",
+    "k1ls1862": "공급",
+    "kv16om7": "집중 소프트웨어 솔루션",
+    "kmy0zdv": "유연한 아키텍처를 통해 비즈니스의 복잡한 운영 문제를 철저히 해결합니다.",
+    "ki1onzq": "AI 개발",
+    "ktbkc4r": "AI/생성형 AI에 적용하기",
+    "kz2xig2": "프로세스 자동화",
+    "k12qpx61": "그리고 심층적인 데이터 분석을 통해 자원 최적화와 획기적인 경쟁 우위 창출을 돕습니다.",
+    "k1uo9djv": "고객들은 서비스를 신뢰합니다",
+    "kcr38b9": "지능형 AI 챗봇",
+    "kzx5tqw": "주요 프로젝트 보기",
+    "k1y3x3x5": "Winterfrost의 베트남 컨설턴트",
+    "k7z28pa": "우리 프로젝트 개요",
+    "ks6ibqz": "일반적인 프로젝트 및 실질적인 구현 솔루션",
+    "k1neytx": "Winterfrost는 기업이 성장하고 운영을 확장할 수 있도록 돕는 디지털 솔루션을 만듭니다. 우리는 고객과 정기적으로 만나 그들의 워크플로우를 이해하고 실제 목표에 부합하는 소프트웨어 제품을 만듭니다. 각 프로젝트는 사업 파트너들의 효율성을 보장하기 위해 신중한 연구를 통해 실행됩니다.",
+    "k13obg59": "저희는",
+    "k1n8bhcz": "웹사이트 디자인 및 구축",
+    "kkxvu4l": "신청서에",
+    "k1mk5ou1": "휴대전화",
+    "k1jmtle2": "AI 개발과 기타",
+    "k1btark6": "특수 기업 관리 시스템",
+    "k15r5gk5": "Winterfrost 베트남의 엔지니어링 팀은 안정적인 기술 플랫폼을 사용하여 우수한 성능과 향후 원활한 업그레이드를 보장합니다.",
+    "k1r7xo7l": "Winterfrost는 사용자 참여를 높이기 위해 사용자 인터페이스와 경험을 최적화하는 데 중점을 두고 있습니다. 금융, 전자상거래, 교육, 교통 등 다양한 분야에서 많은 프로젝트를 성공적으로 진행해왔습니다. 다음의 뛰어난 프로젝트들은 전문 서비스를 제공하고 좋은 성과 높은 수익을 기업에 가져올 수 있는 능력을 보여줍니다.",
+    "k106txrn": "지금 바로 프로젝트를 시작하세요!",
+    "kyooo0k": "Winterfrost에서 개발한 Nivora Connect 앱은 한국 내 베트남 커뮤니티와 시험 서비스를 연결하는 직관적인 플랫폼입니다.",
+    "k16k0x93": "Winterfrost가 어떻게 고성능으로 설계하고 스케줄링이 용이하며 전문적인 정원 관리 방식으로 그레비아 잔디밭 앱을 개발했는지 알아보세요.",
+    "k1myjg7l": "Winterfrost가 개발한 루모라 러그스 웹사이트는 고급스럽게 디자인된 고급 전자상거래 플랫폼으로, ...",
+    "k1047x2j": "Winterfrost — 조언 문의",
+    "k1wnbede": "초기화",
+    "k1vcls4z": "당신의",
+    "k1ez7uii": "모든 프로젝트",
+    "k1teqs7i": "필드",
+    "kkfblio": "서비스",
+    "k1xz37hm": "금융기술",
+    "km8e3yl": "석유",
+    "k7n1aeh": "교육",
+    "k146zzvf": "회계",
+    "kn99dql": "은행",
+    "kwjvfrj": "농업",
+    "k1r7e72y": "엔터프라이즈 소프트웨어",
+    "kue3ppd": "유틸리티 소프트웨어",
+    "kkzsysz": "필요에 따라 애플리케이션 개발",
+    "klxa8al": "기업금융",
+    "kmvvqqv": "운송 및 물류",
+    "k1hssxax": "필터와 일치하는 프로젝트는 찾지 못했습니다.",
+    "k13m7pwz": "호출",
+    "k1a9nm3i": "명성 ✦ 품질 ✦ 효율성 ✦",
+    "k1qeosiv": "일반적인 프로젝트",
+    "ksk9ofs": "Winterfrost에서",
+    "kkkoxh6": "전문 웹사이트 인터페이스 시뮬레이션 프레임워크",
+    "k8altmf": "모바일 인터페이스 시뮬레이션 프레임워크",
+    "k1vwdpmt": "인터페이스",
+    "k9zgnl0": "시스템",
+    "kb172rl": "데이터베이스",
+    "k4oapv9": "맞춤형 소프트웨어 개발과 기성 소프트웨어의 차이점은 무엇인가요?",
+    "k14dd7b9": "기성 소프트웨어는 광범위한 시장 사용을 위해 만들어졌으며, 비즈니스 프로세스가 공급업체의 제품 구조에 부합하도록 요구합니다. 맞춤형 소프트웨어 개발 서비스는 귀하의 정확한 워크플로우, 데이터 모델, 비즈니스 규칙을 중심으로 구축된 시스템을 만들어 완전한 통제권을 제공하며, 중복 기능이나 공급업체의 일정에 따른 강제 업그레이드 없이 모든 권한을 제공합니다.",
+    "key234q": "맞춤 소프트웨어가 필요한지 기성품 솔루션이 필요한지 어떻게 알 수 있나요?",
+    "k1p3be3t": "기성 소프트웨어는 프로세스가 표준화되어 있고 공급업체의 제품 구조에 맞게 워크플로우를 조정할 의지가 있을 때 잘 작동합니다. 비즈니스 로직이 독점적일 때, 기존 시스템과의 깊은 통합이 필요할 때, 대규모 라이선스 비용이 개발 투자를 초과할 때, 또는 기성 제품의 한계가 운영 효율성을 직접적으로 제약할 때 맞춤형 소프트웨어 개발이 올바른 선택입니다. 저희는 두 경로를 객관적으로 평가할 수 있도록 무료 탐색 세션을 제공합니다.",
+    "k4atur7": "맞춤형 소프트웨어 개발에는 얼마나 걸리나요?",
+    "kz6u3id": "집중된 MVP 맞춤형 소프트웨어 개발은 일반적으로 8주에서 12주 정도 소요됩니다. 3–5개의 모듈과 백엔드 통합을 가진 중간 규모 시스템은 3개월에서 6개월 정도 걸립니다. 완전한 맞춤형 엔터프라이즈 소프트웨어 플랫폼은 6개월에서 12개월 정도 소요될 수 있습니다. 일정은 범위, 통합 횟수, 승인 소요 시간에 따라 달라집니다. 개발이 시작되기 전에 마일스톤 로드맵을 제공합니다.",
+    "k13vs2w2": "기존 레거시 소프트웨어를 현대화하거나 대체할 수 있을까요?",
+    "kjlshc7": "네. 레거시 소프트웨어 현대화는 저희의 핵심 전문 분야 중 하나입니다. 기존 시스템의 아키텍처, 데이터 구조, 통합 의존도를 감사한 후, 비즈니스 중단 없이 운영을 현대적이고 클라우드 네이티브 플랫폼으로 전환하는 단계별 마이그레이션 계획을 설계합니다. 우리는 처음부터 다시 구축하거나, 모듈식으로 재설계하거나, 기존 시스템을 현대적인 API 계층으로 확장할 수 있습니다.",
+    "k1auyzrr": "맞춤형 ERP 및 CRM 시스템을 처음부터 직접 구축하시나요?",
+    "k1856130": "네. 저희는 맞춤형 ERP 개발과 맞춤형 CRM 개발을 전문으로 하며, 일반적인 모듈 구성이 아닌 귀하의 특정 비즈니스 프로세스를 중심으로 설계되었습니다. 여기에는 맞춤형 데이터 모델, 워크플로우 규칙, 사용자 역할, 보고 대시보드, 기존 도구(회계 소프트웨어, 이메일 플랫폼, 결제 게이트웨이 등)와의 연동이 포함됩니다.",
+    "k19myud5": "개발 중에 요구사항이 변할 때 어떻게 처리하시나요?",
+    "k3murxt": "우리는 2주 스프린트를 사용하는 애자일 방법론을 사용합니다. 요구사항 변경은 구조화된 변경 요청 프로세스를 통해 관리되며, 범위 영향과 일정을 평가한 후 백로그에 추가됩니다. 이를 통해 맞춤형 소프트웨어 개발 프로젝트가 예산과 일정을 준수하면서도 합법적인 비즈니스 변화를 수용할 수 있습니다.",
+    "k1tumuef": "프로젝트가 완료된 후 소스 코드는 누가 소유하나요?",
+    "kycqpjd": "프로젝트 완료와 최종 결제가 완료되면 소스 코드, 데이터베이스 스키마, API 문서, 그리고 관련된 모든 지적 재산권은 100% 법적으로 귀하에게 이전됩니다. 라이선스 계약도 없고, 벤더 락인도 없으며, 자신이 만든 소프트웨어에 대한 반복 비용도 없습니다.",
+    "k1hg7jrn": "Winterfrost가 기존 시스템과 맞춤형 소프트웨어를 통합할 수 있을까요?",
+    "k10577t7": "네. API와 시스템 통합은 모든 맞춤형 소프트웨어 개발 업무의 핵심 요소입니다. 우리는 통합 요구사항에 따라 REST, GraphQL 또는 직접 데이터베이스 커넥터를 사용하여 ERP 시스템, CRM, 회계 플랫폼, 결제 게이트웨이, 인사 시스템, 창고 관리 시스템, 맞춤형 내부 도구에 연결됩니다.",
+    "k1a5d8ao": "맞춤형 소프트웨어 개발 프로젝트의 팀 구조는 어떻게 되나요?",
+    "k4m7q9h": "모든 맞춤형 소프트웨어 개발 프로젝트에는 전담 팀이 배치되어 있습니다: 기술 설계를 담당하는 솔루션 아키텍트, 일정과 커뮤니케이션을 담당하는 프로젝트 매니저, 그리고 범위와 납품 속도에 따라 2명에서 5명의 엔지니어가 있습니다. 매일 스탠드업, 스프린트 데모, 그리고 공유 프로젝트 관리 보드를 통해 팀과 직접 접촉할 수 있습니다. 중간자가 되는 계정 관리자는 없고, 참여 기간 동안 다른 프로젝트와 자원 공유도 금지됩니다.",
+    "k1jri16q": "커스텀 소프트웨어가 실행된 후에는 어떻게 되나요?",
+    "k122j1j": "우리는 버그 해결, 성능 최적화, 보안 패치, 서드파티 API 업데이트, 지속적인 기능 개발 스프린트를 포함한 구조화된 출시 후 지원을 제공합니다. 많은 고객이 Winterfrost를 장기적인 엔지니어링 파트너로 유지하며, 비즈니스 요구사항 변화에 따라 새로운 모듈과 개선 사항을 정기적으로 배송합니다.",
+    "k1xg5dv2": "자세히 보기",
+    "kpws91p": "앱 니보라 커넥트",
+    "k1dcbv7y": "앱 그레비아 잔디밭",
+    "kwerbek": "루모라 러그 웹사이트",
+    "k1x29vbr": "IoT 스마트 기기, 블록체인 분산 데이터베이스",
+    "k1egiy28": "Winterfrost는 어떤 핵심 서비스를 제공하나요?",
+    "k1rckq0y": "우리는 비즈니스가 직면한 문제에 직접 입장해 보고, 이를 통해 더 잘 이해하고 최적의 해결책을 제시합니다. 서비스",
+    "kwn6r9q": "웹사이트 디자인",
+    "krkgen0": "모바일 앱 개발",
+    "k9hesyk": "특히",
+    "k1g8oyvq": "AI 개발",
+    "k1sh1f9v": "우리는 기업이 시장에서 돌파할 수 있도록 필요한 모든 서비스를 제공합니다.",
+    "k139zxff": "지금 프로젝트에 대해 토론해보세요!",
+    "kzcodep": "Winterfrost의 주요 기술",
+    "ka4yxh8": " 알겠어",
+    "k132cqyn": "결승 - Winterfrost",
+    "kd0uftu": "크레딧 - Winterfrost",
+    "krr3l5h": "메일 - Winterfrost",
+    "kko0wf3": "투안 - Winterfrost",
+    "kvgokvw": "응우옌 자한",
+    "k8oxmu": "Winterfrost의 가장 인상적인 점은 조언 능력입니다. 저희 전문가 팀은 핵심 시스템을 매우 빠르게 이해하여, 불필요한 기능에 예산을 낭비하지 않고 올바른 기술 솔루션을 선택하는 데 도움을 줍니다.",
+    "k1fvwsp5": "쩐바오 응옥",
+    "k3nzrx4": "Winterfrost 팀은 매우 전문적이고 날카로운 사고방식을 가지고 있습니다. 그들은 요구사항을 준수할 뿐만 아니라, 우리에게 관리 프로세스를 최적화할 수 있는 실질적인 옵션에 대해 적극적으로 조언해 줍니다. 인수인계 결과는 매우 우수한 품질을 자랑하며 회사의 초기 기대에 부합합니다.",
+    "k1c5yk3r": "레꽝후이",
+    "k1awcilc": "기술 팀이 비즈니스 문제를 잘 이해해 준 점에 깊이 감사드립니다. 구현 조정 과정은 원활하고 시스템이 항상 안정적이어서 시장 확장에 집중할 수 있는 완전한 안심을 제공합니다. 진정으로 신뢰할 수 있는 기술 파트너입니다.",
+    "k13y2u9s": "팜 투 하",
+    "kpd7nob": "Winterfrost 전문가들의 헌신과 자격이 저를 가장 감동시킵니다. 운영 중 발생하는 모든 문제를 신속하고 철저하게 처리하여 우리의 작업이 중단되지 않도록 돕습니다. 우리는 이 동행에 매우 만족합니다.",
+    "k19d6hx": "보 칸 린",
+    "kp401rj": "여러 부서와 협력한 결과, Winterfrost의 워크플로우가 매우 투명하고 명확하다는 것을 알게 되었습니다. 그들은 탄탄한 기술 기반을 제공하며, 항상 제 팀이 시스템에 가장 효과적으로 적응할 수 있도록 도와줄 준비가 되어 있습니다.",
+    "k4phzb3": "당국바오",
+    "kciwy6n": "Winterfrost를 장기적인 기술 파트너로 선택한 것은 우리 비즈니스에 올바른 결정입니다. 그들의 팀은 구상부터 실제 운영까지 항상 높은 책임감을 보여줍니다. 그들의 전문성과 명성 덕분에 경영 과정에서 많은 어려움을 해결할 수 있었습니다.",
+    "kpukud3": "다중 기기 경험 최적화",
+    "kicpowe": "진행 상황을 최적화하고, 빠르게 발사하세요",
+    "kqdm92j": "즉시 운영 준비 완료 및 수익성",
+    "k1plrymm": "보안에 대한 완전한 안심을 줍니다",
+    "k6h9whq": "앱 릴리스 패키지 포함",
+    "k1m6uvsv": "헌신적인 동반자 및 기술 지원",
+    "kfh1ffy": "추천 패키지",
+    "kmfqqw6": "비용",
+    "k2uq1jj": "투명성,",
+    "k4casx3": "명백한 효과",
+    "k1vtn3su": "기본 앱 디자인 패키지",
+    "k1vnt99i": "안정적인 애플리케이션, 완전한 핵심 기능, 비용 최적화로 빠르게 시장에 진입하고자 하는 기업과 스타트업에게 완벽합니다.",
+    "kwd455t": "기본 패키지",
+    "ki1b5e8": "사전 계획",
+    "k1235qp9": "혜택 정보",
+    "k1x2qp50": "6천만 - 1억 2천만 VND",
+    "k18aii5j": "2억 - 4억 VND",
+    "k1igi150": "/프로젝트",
+    "k7rgneq": "레 카이 민 - Winterfrost 공동 창립자",
+    "k1o3wj43": "프로젝트 교환 일정 잡기",
+    "k1wuexj8": "비전을 공유해 주세요. Winterfrost가 가장 최적화된 앱 개발 로드맵을 설계하는 데 도움을 드릴 것입니다.",
+    "k1mo0uu2": "지금 예약하세요!",
+    "k1xm22zn": "연락처 이메일",
+    "ku4gqm0": "파트너들의 추천사",
+    "khc7kyw": "분석 및 인사이트",
+    "kyvesm7": "요청을 받고 비즈니스 모델과 현재 시스템을 깊이 연구하세요. Winterfrost의 전문가 팀은 문제를 분석하여 핵심 목표를 정확히 정의한 후 시작할 것입니다.",
+    "kdaumj4": "로드맵 및 솔루션 컨설팅",
+    "k1vmim79": "상세한 구현 로드맵 계획과 특수 시스템 아키텍처 설계. 저희는 최고의 기술을 선택하여 높은 성능을 보장하고 예산 낭비를 방지합니다.",
+    "kedxssd": "프로그래밍 및 최적화",
+    "k1sc2t0y": "직관적이고 사용자 중심적인 인터페이스로 아이디어를 현실로 만들어 보세요. 애자일 모델의 적용은 프로그래밍 과정을 빠르고 유연하게 진행하며, 진행 상황을 지속적으로 조정하고 업데이트할 수 있도록 돕습니다.",
+    "ktcy0rc": "테스트 및 핸드오버",
+    "k1vfhmqs": "시스템이 100% 원활하게 작동하도록 엄격한 테스트 절차를 수행하세요. 플랫폼에 애플리케이션을 올리고 모든 지적 재산권을 이전하는 데 도움을 줍니다.",
+    "kdl3gsn": "지원 및 확장",
+    "kl4xjwo": "우리의 책임은 발사에서 끝나지 않습니다. Winterfrost는 24시간 연중무휴로 시스템을 모니터링하며 우선 기술 지원을 제공하고, 사업 규모가 커짐에 따라 기능을 업그레이드하고 확장할 준비가 되어 있습니다.",
+    "k13qbrt0": "Winterfrost의 컨설팅 프로세스",
+    "k197bq4i": "무대",
+    "k5eymu9": "지금 바로 시작하세요!",
+    "k6ilxls": "activeTab === \"전부\" || it.tab === activeTab, ); 반환 (",
+    "kpghw63": "Winterfrost는 단순히 소프트웨어를 만드는 데 그치지 않고, 비즈니스가 원활하게 운영될 수 있도록 기술적 장벽을 제거합니다.",
+    "k1gq3erc": "출처",
+    "k1nxu39c": "앱 디자인",
+    "k14l56d": "로",
+    "kseiklf": "모든 코드는 비용을 최적화하고 비즈니스의 실질적인 매출 성장 동력을 창출하기 위해 작성됩니다.",
+    "k5wzxs9": "AI와 머신러닝은 데이터, 인공지능, 인간이 함께 협력하여 의료 서비스의 질을 향상시키는 새로운 시대를 열고 있습니다. 정확한 진단 지원, 맞춤형 치료, 실시간 환자 모니터링, 병원 운영 자동화에 이르기까지, AI는 비용 최적화뿐만 아니라 의사와 환자 모두의 경험을 향상시킵니다. 미래에는 빅데이터, IoT, 클라우드 컴퓨팅, 블록체인과 결합되면 AI가 스마트 헬스 생태계의 핵심 기반이 될 것입니다. 병원, 클리닉, 헬스테크 기업에게 오늘날 AI에 투자하는 것은 기술 트렌드보다 앞서 나갈 뿐만 아니라 경쟁력을 높이고 지속 가능한 디지털 전환을 촉진하는 중요한 전략이기도 합니다.",
+    "kr12p6": "Gemini 3.6 Flash 모델은 Google이 자동 처리 루프 최적화를 위해 설계했습니다. Google Antigravity 플랫폼과 결합하면, 시스템은 다중 AI 요소 조정을 지원하고, 오류를 자동으로 수정하며 비동기 명령을 실행합니다. 모델은 간결 추론 메커니즘으로 인해 불필요한 출력 토큰을 17% 줄여 반응 속도를 높이고 이전 버전 대비 API 비용을 16.6% 절감합니다. 모델의 지식 데이터는 2026년까지 업데이트됩니다. 운영 가격은 100만 입력 토큰당 1.50 USD, 100만 출력 토큰당 7.50 USD로 설정되어, 통합 및 자동 배포 시스템의 운영 비용을 최적화합니다.",
+    "k1xp8ev4": "블록체인은 데이터 보안, 정보 투명성, 연결성, 운영 절차 최적화와 같은 핵심 문제를 해결하여 의료 분야의 디지털 전환에 새로운 단계를 열고 있습니다. AI, IoT, 클라우드 컴퓨팅과 결합될 때, 블록체인은 환자 기록 보호, 병원 및 의약품 공급망 관리 효율 향상뿐만 아니라 환자를 중심으로 한 스마트 헬스케어 생태계의 기반을 제공합니다. 병원, 클리닉 및 헬스테크 기업의 경우 오늘 블록체인에 투자하는 것은 경쟁력 강화를 위한 전략적 단계이자 디지털 의료의 미래를 준비하는 발판이 될 것입니다.",
+    "k1j4ixq6": "적합한 헬스케어 CRM은 환자 데이터를 효율적으로 관리할 뿐만 아니라, 케어 경험을 향상시키고 운영 프로세스를 최적화하며 환자 유지율을 높이는 데 도움을 줍니다. CRM 시스템을 선택할 때, 의료 기관은 유연하게 통합할 수 있고 국제 표준에 따른 보안을 제공하며 AI를 적용하고 장기적인 디지털 전환 과정에서의 성장 요구를 충족할 수 있는 솔루션을 우선시해야 합니다.",
+    "kd9b7pw": "의료 분야의 AI와 머신러닝",
+    "kp7xfdu": "제미니 3.6 플래시와 구글 안티그래비티",
+    "k1kjv23n": "의료 분야에서의 블록체인 기술",
+    "kd84uuq": "이 글은 Winterfrost의 응우옌 꽝 후이와 툽 쿠엔의 일기를 통해 소프트웨어 테스터의 작업에 대한 진실되고 심도 있는 시각을 제공합니다. \"버그를 보고하고 시도해보라\"는 고정관념을 넘어서, 테스트 과정은 명세 문서 읽기, 스크립팅, 다양한 기술 플랫폼에서의 성능 및 인터페이스 평가에 이르기까지 철저한 분석을 요구합니다.",
+    "k190i701": "여러분의 사업이 그렇게 성공하길 원하시나요?",
+    "k1cx2dnb": "비즈니스 문제를 공유해 주세요. Winterfrost 베트남이 가장 효과적이고 적합한 기술 솔루션을 함께 구축할 것입니다.",
+    "k1g4ov9h": "즉시 솔루션 조언을 받아보세요",
+    "kf3qzfq": "기타 주요 프로젝트",
+    "kojrvuv": ">UI 디자인",
+    "k1q3onth": ">)[\\s\\s]*? (",
+    "k1kh6h29": "[^>]*>)[\\s\\S]*? (",
+    "k16j3rir": ")/, '$1< span 클래스=",
+    "k1922o5d": "]*클래스=",
+    "k1gsfy5u": "> <div className=",
+    "ktcjyul": "> {marqueeImages.map((src, index) => ( <div className=",
+    "k1ix38l3": "Draggable={false} />",
+    "k6uxxs4": "( 'button[아리아-라벨=",
+    "kxzazae": "('button[aria-label=",
+    "knvm46j": ", placeWebCards), ); placeWebCards(); resetWebTimer(); } return () => { observer?. disconnect(); window.clearInterval(appTimer); window.clearInterval(webTimer); runningAnimations.forEach((animation) => animation.cancel()); webAnimations.forEach((animation) => animation.cancel()); appDisposers.forEach((dispose) => dispose()); webDisposers.forEach((dispose) => dispose()); }; }, [page.html]); 리턴 (<>",
+    "k9ekgar": "] > section div:empty { display: none; } '}",
+    "k3kylge": "<span aria-hidden=",
+    "k1pir239": ", 높이: 1, 여백 아래: -1 }} />",
+    "k1alpefo": "{uiDesignTarget && createPortal( page.uiMode ===",
+    "k1iijt23": ") : ( <CaseStudyUIDesign images={page.uiImages} mobileImages={[]} tabletImages={page.uiImages} 제목=",
+    "k1pronqb": "탈중앙화",
+    "kht8u6u": "서비스 보기",
+    "k1c3oqaa": "전문 패키지",
+    "kxuc4hw": "왜 Winterfrost",
+    "kormafp": "왜 Winterfrost",
+    "k1mgj7g7": "왜 이 서비스를 이용해야 할까요?",
+    "kuv5yfc": "왜 에너지 기업인가",
+    "kz5n6y1": "기술 역량을 선택하는 이유",
+    "kh0bhwu": "은행이 이 서비스를 선택해야 하는 이유",
+    "kfwqgpr": "경쟁 우위",
+    "kkjr58n": "왜 어떤 해결책을 선택해야 하는가",
+    "k8ilvh4": "기업이 신뢰해야 하는 이유",
+    "k1xfxo49": "왜 금융 가짜 금융을 선택해야 하는가",
+    "kd6a8z5": "왜 이 사업을 시작했는가",
+    "k1mfonax": "기업이 선택해야 하는 이유",
+    "kykxzo1": "의료 소프트웨어 개발을 선택하는 이유",
+    "k2d6lql": "우리의 성과",
+    "k16wbl0j": "기업 솔루션",
+    "kw7a89b": "주요 백엔드 기술",
+    "k1spckpn": "주요 프론트엔드 기술",
+    "k4kas6p": "앱 디자인 기술",
+    "kxu0cs1": "AI 개발 기술",
+    "kbchwyk": "클라우드 컴퓨팅",
+    "k1mi7gdi": "전문 웹사이트 디자인",
+    "k1jkb9je": "저희는 About 페이지에서 전자상거래 플랫폼까지 최적의 웹사이트를 개발합니다. 이 시스템은 초고속 페이지 로드 속도, 어떤 기기에서도 완벽한 표시, 간단한 관리자 통합을 보장하여 사용자 경험을 최적화하고 온라인 수익을 효과적으로 증대할 수 있도록 돕습니다.",
+    "ksk6fsd": "심층 앱 설계",
+    "k1oyaqd": "Winterfrost 프로그램은 직관적인 인터페이스로 iOS와 안드로이드 모두에서 부드러운 모바일 앱을 제공합니다. 우리는 절대적인 데이터 보안에 집중하며 자동 알림 도구를 통합하여 기업이 언제 어디서나 고객과 연결하고 상호작용하며 지속적으로 고객을 돌볼 수 있도록 돕습니다.",
+    "k1tprypx": "AI 인공지능 개발",
+    "k189awi1": "우리는 AI와 대형 언어 모델(LLM)을 통합하여 운영 과정을 자동화하고 24시간 가상 비서를 구축합니다. 이 솔루션은 기업이 방대한 데이터를 순식간에 분석하고, 인사 비용을 절감하며, 보다 정확한 비즈니스 결정을 내릴 수 있도록 돕습니다.",
+    "kg3a245": "기업 소프트웨어 개발",
+    "k10xs27y": "저희는 실제 프로세스를 밀접하게 따라가는 내부 관리 소프트웨어를 설계하여 수작업 디지털화와 데이터를 즉시 동기화하는 데 도움을 줍니다. 회사는 성장함에 따라 확장이 쉽고, 소스 코드 100%를 넘겨주겠다는 약속이 포함되어 있어 디지털 자산에 대한 완전한 소유권을 가질 수 있습니다.",
+    "k1mxarm7": "사용자 경험 최적화",
+    "klv25p": "우리는 최신 프론트엔드 기술을 선택하여 모든 고객의 기기에 직관적이고 부드럽고 완벽하게 호환되는 인터페이스를 구축합니다.",
+    "k1iiuego": "보장된 응답 속도",
+    "k1ta1uwn": "마이크로서비스 아키텍처를 사용하면 시스템이 데이터를 즉시 처리하고 수천 건의 방문 압력 속에서도 항상 안정성을 유지할 수 있습니다.",
+    "klx4o9e": "절대 데이터 보호",
+    "k1qp90f8": "Winterfrost는 사이버 보안 위험을 방지하고 내부 데이터와 사용자 정보를 안전하게 보호하기 위해 가장 진보된 다층 암호화 알고리즘에 의존합니다.",
+    "k1nixe0a": "끊김 없는 업그레이드",
+    "k7wvsis": "클라우드 컴퓨팅 애플리케이션을 통해 시스템 업데이트와 유지보수 과정이 백그라운드에서 이루어지며, 고객 경험을 완전히 방해하지 않습니다.",
+    "k1s2c3nk": "지능형 자동화",
+    "kvug1uv": "사용자 행동 분석, 맞춤형 제안, 24시간 온라인 지원을 제공하기 위해 AI를 통합하기로 선택했습니다.",
+    "k1a1in7j": "스케일링하기 쉽습니다",
+    "k1oqjum4": "클린 소스 플랫폼과 개방형 아키텍처 사용을 우선시하여, 비즈니스가 성장함에 따라 시스템이 항상 새로운 기능을 통합할 준비가 되어 있도록 하세요.",
+    "k5omjqr": "전문 분야",
+    "km7o9jz": "Winterfrost 작성",
+    "k1qg3tyb": "프로젝트 기술 플랫폼 선택에 영향을 미치는 기술적 요인은 무엇인가요?",
+    "kw50l3v": "기술 플랫폼 선택은 추세를 따르기보다는 각 프로젝트의 기술적 문제의 구체성에 전적으로 달려 있습니다. 시스템 아키텍트는 처리할 데이터 양과 동시에 실시간 지연 시간 및 기존 인프라와의 호환성 요구사항을 기준으로 평가합니다. 최적의 기술 플랫폼은 소프트웨어 성능, 월별 서버 운영 비용, 그리고 기업 내부 기술팀이 나중에 소스 코드를 인수할 수 있는 편의성 사이에서 균형을 맞춰야 합니다.",
+    "k6rryfj": "사용자 수가 급증해도 시스템 구조가 어떻게 설계되어 크래시가 발생하지 않도록 하고 있나요?",
+    "kbul6iv": "확장 문제를 해결하기 위해 기업용 소프트웨어는 종종 마이크로서비스 아키텍처와 클라우드 컴퓨팅 기술을 결합하여 설계합니다. 이 접근법은 소프트웨어를 독립적으로 작동하는 여러 기능 영역으로 분해하여, 시스템이 과부하 중인 기능에만 자동으로 서버 자원을 보충할 수 있게 합니다. 이 기법은 애플리케이션이 항상 안정적인 응답률을 유지하고 기업의 네트워크 인프라 비용을 최대한 절감할 수 있도록 돕습니다.",
+    "kpmzgjp": "새로운 소프트웨어는 어떻게 기존 기업 관리 시스템과 데이터를 연결하고 동기화할 수 있을까요?",
+    "k1vf5ai": "새로운 시스템과 기존 소프트웨어 간의 데이터 동기화는 맞춤형 애플리케이션 프로그래밍 인터페이스(API) 구축을 통해 이루어집니다. 이 중개계층은 번역 다리 역할을 하여 서로 다른 기술 플랫폼을 가진 두 시스템이 실시간으로 안전하게 정보를 교환할 수 있게 합니다. 이 접근법은 기업이 기존 데이터베이스를 최대한 활용할 수 있도록 도와주며, 데이터를 처음부터 다시 입력하지 않고도 디지털 전환 과정 전반에 걸쳐 정보의 무결성을 유지할 수 있습니다.",
+    "k6riibg": "AI를 작동하는 소프트웨어에 통합하는 과정은 어떻게 되나요?",
+    "k1g9y94e": "AI 통합 과정은 시스템이 현재 워크플로우를 방해하지 않고 LLM 대형 언어 모델과 통신할 수 있도록 안전한 데이터 게이트웨이를 구축하는 것부터 시작합니다. 비즈니스의 전문 데이터는 표준화되어 AI가 실제 비즈니스를 이해하도록 미세 조정된 학습에 활용됩니다. 이 복잡한 알고리즘의 전체 처리 과정은 독립된 서버에서 스트리밍되어, AI가 작업을 수행하는 동안 주 소프트웨어가 원활하게 작동하도록 보장합니다.",
+    "k1m88gjg": "현재 사이버 보안 취약점을 방지하기 위해 어떤 데이터 보안 및 암호화 기준이 마련되어 있나요?",
+    "k1meqh8u": "데이터 무결성을 보호하기 위해 소프트웨어 아키텍처는 정지 데이터와 네트워크를 통한 전송 중인 데이터 모두에 대해 가장 진보된 종단 간 암호화 알고리즘을 적용합니다. 분산형 시스템은 외부로부터의 무단 접근을 철저히 방지하기 위해 여러 계층의 인증 방법으로 설계되었습니다. 공식적으로 운영되기 전에 모든 소스 코드는 자동화된 취약점 검사 도구와 엔지니어들이 제때 패치할 수 있는 시뮬레이션된 침투 테스트 시나리오를 통과해야 합니다.",
+    "klvra13": "새로운 기능을 업데이트하거나 소프트웨어 버그를 수정하는 과정이 어떻게 사용자 경험을 방해하지 않을 수 있을까요?",
+    "k1b0twpv": "우리는 테스트 및 소스 코드 공개 전 과정을 자동화하기 위해 지속적 통합 및 배포 프로세스를 적용합니다. 새로운 업데이트가 제공되면, 시스템은 기능을 테스트하기 위해 병렬 서버 환경을 자동으로 생성한 후 사용자 트래픽을 이 버전으로 재배치합니다. 이러한 기술적 접근법은 시스템 다운타임을 완전히 없애어, 최종 고객이 방해를 느끼지 않고 소프트웨어가 항상 원활하게 업그레이드될 수 있도록 돕습니다.",
+    "k111gmkf": "완전한 자율성을 위해 소스 코드 인수인계 과정에는 어떤 심층 기술 문서가 포함되어 있나요?",
+    "k6y32pk": "표준 인수인계 과정은 전체 프로그래밍 구조와 프로젝트 자원의 절대적인 투명성을 요구합니다. 깨끗한 소스 파일과 네이티브 데이터베이스 외에도, 기업들은 데이터 흐름 다이어그램, 사용 중인 오픈 소스 라이브러리 목록, 서버 배포 시나리오 등 상세한 기술 문서 세트를 받게 됩니다. 이 문서는 핵심 청사진 역할을 하여 엔지니어링 팀이 시스템을 즉시 이해하고, 독립적인 보안 감사를 수행하며, 새로운 기능을 자유롭게 개발할 수 있도록 합니다.",
+    "k1kstcb": "Winterfrost에서 저희는 프로젝트를 개발합니다",
+    "k1pz3qfp": "소프트웨어",
+    "k1pldw2l": "최신 프로그래밍 언어로. 현대 기술의 활용은 시스템이 원활하게 작동하고 데이터를 신속하게 처리하며 항상 사이버 위험으로부터 보호받을 수 있도록 돕습니다.",
+    "k1ijoklm": "더불어, 새로운 플랫폼은 비즈니스가 성장함에 따라 기능을 업그레이드하거나 다른 소프트웨어와 연결하는 것을 매우 쉽게 만듭니다. 특히, 소스 코드를 100% 넘겨드려 고객이 소프트웨어를 완전히 소유하고 통제할 수 있도록 약속하고 있습니다.",
+    "k1emydos": "Winterfrost 소프트웨어 개발 기술 플랫폼",
+    "k1bgkc2f": "10년 이상의 경험을 바탕으로, Winterfrost는 다음과 같은 포괄적인 디지털 전환 솔루션을 제공합니다",
+    "kl71yh1": "AI 인공지능 개발",
+    "kiyjndl": "스타트업과 대기업 모두를 위한 것입니다. 우리 팀은 프론트엔드, 백엔드, AI, 그리고",
+    "k1gpk4u7": "모든 규모의 프로젝트를 받을 준비가 되어 있어야 합니다.",
+    "kxedjqr": "저희는 특히 복잡한 소프트웨어 시스템을 최적의 비용으로 해결하는 데 강점을 가지고 있으며 어려운 문제도 기꺼이 해결합니다. Winterfrost의 모든 직원은 체계적인 교육을 받았으며 다년간의 실무 경험을 가지고 있어, 고객에게 다음을 보장합니다",
+    "k1debwq5": "품질 좋은 제품",
+    "kn2bi1l": "높고 가장 안정적인 운영.",
+    "k1wmn13n": "Winterfrost 소프트웨어 개발 기술",
+    "ku92pgl": "아이디어를 실제 제품으로 전환하세요",
+    "kyuj7o2": "운영 문제를 공유하면, Winterfrost 팀이 즉시 가장 적합한 기술 플랫폼을 제시할 것입니다. 시스템을 빠르게 구축하고, 엄격하게 보안을 강화하며, 소스 코드를 100% 소유하겠다고 약속하세요.",
+    "k1l2o3xr": "지금 바로 프로젝트를 시작하세요!",
+    "k1wskzi5": "Winterfrost에서 기술 프로젝트의 시스템 아키텍처, 보안 표준, 소스 코드 소유권에 관한 상세한 답변들입니다.",
+    "k1u3d0fj": "프로그래밍 기술과 언어",
+    "kgv7ep8": "기술 개요",
+    "kpwc550": "Winterfrost의 구현 역량과 팀",
+    "kfa6zmu": "기술 적용",
+    "k1uk2m95": "기술 활용",
+    "kszmp7k": "디지털 전환에서",
+    "k1gg9bmb": "세부 사항",
+    "k1qxs6gf": "모든 해법 보기",
+    "kp80eyx": "기술의 가치",
+    "k87p41u": "Winterfrost 이유",
+    "krw90zy": "이 기술들을 선택하세요",
+    "k1ld3fjg": "푸엉 리",
+    "k1j0qb4m": "초보자를 위한 UI 디자인 프로세스 A – Z 디코딩",
+    "k1cizpwd": "Winterfrost의 UX/UI 표준 앱 설계 프로세스",
+    "k8loyfl": "Figma 앱 디자인 사용자 가이드",
+    "k1ptg80p": "Go Office – Winterfrost에서 개발한 엔터프라이즈 소프트웨어",
+    "k1dcocsx": "소프트웨어 엔터프라이즈 솔루션",
+    "kb1erfh": "영업 소프트웨어 설계: 기업이 투자 전에 알아야 할 중요한 기준",
+    "kj5xl9": "소프트웨어",
+    "k13hc3z2": "최신 주문형 소프트웨어 개발 견언",
+    "kj4eit8": "의료 분야에서의 AI 편향: 미래 의료 산업의 주요 도전 과제",
+    "k1atz6rm": "개발 방법론",
+    "k1jjidz8": "의료 분야에서 산업을 변화시키고 있는 AI의 10가지 적용 사례",
+    "k1b8td0v": "스타트업과 중소기업을 위한 적합한 웹사이트 디자이너 채용 가이드",
+    "k1dqqlj5": "A부터 Z까지 스타트업을 개발하는 방법에 대한 상세한 가이드",
+    "k10hqsu6": "판타지 스포츠 온라인 사업 시작: 상세 가이드",
+    "k15o6wb1": "맞춤형 병원 소프트웨어나 의료 소프트웨어가 있나요? 상세 비교",
+    "k3vhvqd": "물류 앱 개발 가이드: 기능, 기술, 그리고 흔한 실수",
+    "krmrivb": "환자 진료의 질을 향상시키는 의료 분야 최고의 AI 도구 10대",
+    "k16fb95z": "베트남에서 가장 큰 소프트웨어 프로그래밍 회사 10대",
+    "ks4l58t": "베트남 상위 10대 웹 앱 개발 기업",
+    "k1ws0bhs": "헬스케어 앱 개발을 위한 상위 10대 프로그래밍 언어",
+    "k4wmuvu": "기사 보기",
+    "kc67gjm": "저자",
+    "k14rwwtd": "연도",
+    "ky917o3": "주제",
+    "k14x8s30": "목차",
+    "kztznp6": "성공적인 여정에 들어서기",
+    "kqgup96": "이름",
+    "ksppfho": "성명 *",
+    "k1nq8so1": "전화번호 *",
+    "kwj0r36": "서비스 선택",
+    "krnb7am": "웹사이트 디자인",
+    "kubo5mo": "SaaS 애플리케이션 개발",
+    "kai3nkk": "운영 및 유지보수",
+    "ki33z4l": "엔터프라이즈 소프트웨어 개발",
+    "kktys71": "MVP 소프트웨어 개발",
+    "krunszd": "DevOps 개발",
+    "k7d193k": "IoT 개발",
+    "k3iqlkq": "블록체인 개발",
+    "k12ucnla": "서비스 *",
+    "kfe18yl": "목차",
+    "k16sais": "메시지를 남기세요",
+    "k1ebv5y6": "예약 정보 보내기",
+    "kvax71g": "관련 기사",
+    "k1l95tu": "최신 기사",
+    "k1kua8cm": "Winterfrost 뉴스레터",
+    "k17repnp": "기술",
+    "k8ej68j": "엔터프라이즈 솔루션",
+    "k1ayqnhx": "소프트웨어",
+    "k1ajkxpr": "개발 방법론",
+    "k1rsbfkg": "Winterfrost의 기술 동향과 디지털 전환 솔루션에 대한 관점",
+    "kilbhsx": "기사 검색",
+    "kdw28rv": "Winterfrost에서 테스터로 하루",
+    "k19q2ybs": "UI/UX 디자이너란 무엇인가요? UI/UX 디자인 직업에 들어가기 위해 필요한 것들",
+    "kqc7u3k": "Flutter vs. React Native와 Xamarin: 모바일 개발을 위해 어떤 프레임워크를 선택해야 할까요?",
+    "k1lwj4fb": "Flutter vs. React Native와 Xamarin: 모바일 개발에 어떤 프레임워크를 선택해야 할까",
+    "k3ddftn": "상위 10대 최고의 백엔드 개발자 강좌",
+    "klbeetq": "Winterfrost에서 백엔드 엔지니어의 하루 일상",
+    "k93zl9u": "백엔드의 작업 시간",
+    "k1kmgnbo": "React Native 개발자란 무엇인가요? React Native 직무 설명 및 기술",
+    "k1b0lm3e": "React Native 개발자란 무엇인가요?",
+    "k135oz38": "비즈니스 분석 워크데이",
+    "k1tyhc25": "플러터에서의 하루 개발자 Winterfrost",
+    "k1g4w89p": "소프트웨어 엔지니어 경력 경로: 당신에게 맞는 방향을 선택하는 방법",
+    "k4rqyyv": "소프트웨어 엔지니어 경력 경로",
+    "k11319cu": "소프트웨어 엔지니어의 경력 경로에는 모두에게 고정된 공식이 있는 것은 아닙니다. 중요한 것은 처음부터 프론트엔드, 백엔드, 모바일, AI, 데브옵스를 선택하는 것이 아니라, 끊임없이 배우고 실무 경험을 쌓으며 문제 해결 사고방식을 기르는 것입니다. 기술적 기반이 점점 더 탄탄해지면, 기술 전문가, 엔지니어링 매니저(CTO) 또는 자신의 기술 제품을 가진 사업을 시작할 수 있는 많은 기회가 주어집니다. IT처럼 끊임없이 변화하는 업계에서는 적응력, 지속적인 학습, 직장에서의 진실성이 경쟁 우위를 만들고 장기적으로 지속 가능한 경력을 쌓는 데 도움이 됩니다.",
+    "k1xmbvxq": "주제: 직장 생활",
+    "k4irkug": "카테고리를 검색해보세요...",
+    "k1k5r5nv": "에두노라는 Winterfrost가 설계한 교육 플랫폼으로, 어떤 기기에서든 직관적이고 현대적이며 최적의 경험을 제공합니다.",
+    "kksv714": "비렐라 인테리어 웹사이트는 고급스럽고 이미지가 풍부한 인터페이스로 제품, 건설 능력, 브랜드 인프린트를 소개합니다.",
+    "k3eseya": "세라노바는 정교한 전자상거래 웹사이트를 운영하며 장인정신의 아름다움을 강조하고 고객에게 편리한 쇼핑을 제공합니다.",
+    "k1kmdzy6": "로베나 트래블 웹사이트는 여행에 영감을 주고, 투어를 명확하게 제공하며 고객의 전환 여정을 최적화하도록 설계되었습니다.",
+    "k1bwf4ht": "제노비아 리테일 웹사이트는 브랜드 아이덴티티, 제품, 딜러 시스템을 현대적인 소매 경험으로 동기화합니다.",
+    "k1s4noo1": "Veloura Nails 웹사이트는 고급 서비스 스타일과 매력적인 인터페이스, 탐색하기 쉽고 예약이 편리한 기능을 자랑합니다.",
+    "k1cb9hoo": "AI 챗봇 개발: A–Z부터 시작된 종합 가이드",
+    "k1ereplz": "AI 챗봇은 기업이 고객 관리를 자동화하고, 운영을 최적화하며, 다양한 플랫폼에서 사용자 경험을 개선하는 데 중요한 도구가 되고 있습니다. NLP, 머신러닝, 생성형 AI의 적용 덕분에 현대 챗봇은 맥락을 이해하고 자연스럽게 반응하며, 장기적으로 기업의 운영 성과를 향상시킬 수 있도록 지원합니다. 효과적으로 실행하려면 기업은 비즈니스 목표에 부합하는 적절한 기술 및 개발 파트너를 선택해야 합니다.",
+    "k1gf4gs4": "UI/UX란 무엇인가요? 웹사이트에서 UI/UX 디자인의 중요성",
+    "kakql3i": "UI와 UX는 단순한 미적 요소가 아니라 웹사이트, 애플리케이션, 디지털 제품의 비즈니스 성과를 결정하는 기반이기도 합니다. 전문적인 UI 디자인은 강한 인상을 남기고 브랜드 인지도를 높이며, 최적의 UX는 사용자가 정보를 쉽게 찾고, 행동하며, 사용 과정 내내 만족을 유지할 수 있게 합니다. UI와 UX의 조화로운 조합은 고객 경험을 향상시킬 뿐만 아니라 전환율 향상, SEO 효율성 향상, 운영 비용 절감, 그리고 점점 치열해지는 디지털 환경에서 기업에 지속 가능한 경쟁 우위를 창출하는 데 기여합니다.",
+    "k1dq1we0": "효과적인 CRM 구현 매뉴얼: 무시해서는 안 될 주의사항",
+    "kbugchp": "CRM 소프트웨어는 단순한 고객 데이터 관리 도구가 아니라 기업이 전체 영업, 마케팅, 고객 관리 과정을 체계적으로 최적화할 수 있도록 돕는 전략적 플랫폼이기도 합니다. 효과적인 CRM을 구현하려면 기술에만 집중하는 것이 아니라 명확한 전략, 올바른 프로세스, 그리고 인간 중심의 요소가 결합되어야 합니다. 적절한 CRM(클라우드, 온프레미스 또는 맞춤화)을 선택하고 비즈니스 특성에 맞게 유연하게 적용할 때, CRM은 고객 경험을 개선하고 운영 효율성을 높이며 디지털 전환 과정에서 지속 가능한 성장 동력을 창출하는 데 도움을 줄 것입니다.",
+    "k147n5vz": "워드프레스란 무엇인가요? 장단점은 무엇인가요? 왜 웹 디자인에 사용하나요?",
+    "ktxwzkl": "세계에서 가장 인기 있는 웹사이트 구축 플랫폼을 즉시 마스터하여 깊은 프로그래밍 지식 없이도 어떤 아이디어도 현실로 바꿀 수 있습니다. 이 글은 비용 최적화, 성능 고정관념 깨기, 디지털 공간을 가장 전문적이고 효과적으로 정복하기 위한 올바른 플랫폼 선택법에 이르기까지 WordPress의 힘을 포괄적으로 이해하는 데 도움을 줄 것입니다.",
+    "k1rrrgty": "스타트업을 위한 MVP 개발: A–Z 단계별 가이드",
+    "kitrbp7": "MVP 개발은 단순히 비용을 절감하는 방법일 뿐만 아니라, 스타트업이 아이디어를 빠르게 검증하고 위험을 줄이며 시장 출시 시간을 단축하는 핵심 전략이기도 합니다. 가장 중요한 기능에 집중하고, 실제 사용자로부터 피드백을 수집하며, 데이터를 지속적으로 개선함으로써 기업은 가정에 의존하지 않고 올바른 제품을 만들 수 있습니다. 적절히 구현된 MVP는 자원 최적화에 도움을 줄 뿐만 아니라 확장의 견고한 기반을 마련하여 투자자를 유치하고 지속 가능한 제품-시장 적합성으로 나아갑니다.",
+    "k18ezrd4": "자바스크립트란 무엇인가요? 웹사이트 설계 시 JavaScript를 사용하는 이유",
+    "k7f12hi": "자바스크립트는 인기 있는 프로그래밍 언어일 뿐만 아니라 현대 웹사이트를 더욱 상호작용적이고 유연하며 사용자 경험 있게 만드는 핵심 기반이기도 합니다. 애니메이션부터 실시간 데이터 처리, 복잡한 웹 앱 개발에 이르기까지, 자바스크립트는 인터페이스(UI)와 사용자 경험(UX) 모두에서 중요한 역할을 합니다. 성능 및 보안에 어려움이 있음에도 불구하고, JavaScript는 오늘날 모든 전문 웹사이트 디자인 프로젝트에서 여전히 필수적인 기술입니다.",
+    "k12fdtjm": "Gemini 3.6 Flash와 Google Antigravity – 프로그래밍을 위한 최적 솔루션",
+    "k1u13eb4": "의료 분야 블록체인 기술: 이점과 실무 적용",
+    "k1m9ww5a": "블록체인은 데이터 보안, 정보 투명성, 연결성, 운영 프로세스 최적화라는 핵심 문제를 해결함으로써 의료 산업의 디지털 전환을 위한 새로운 단계를 열고 있습니다.",
+    "k1qzq9i9": "병원 및 클리닉을 위한 최고의 CRM 소프트웨어 Top 10+",
+    "k14ootjv": "적합한 헬스케어 CRM은 환자 데이터를 효과적으로 관리하는 데 도움을 줄 뿐만 아니라, 치료 경험을 향상시키고 운영 프로세스를 최적화하며 환자 유지율을 높입니다.",
+    "k1yfpd8z": "작업 지향 챗봇의 작동 방식",
+    "k40oxzy": "이 글은 작업 지향 챗봇의 본질, 작동 메커니즘, 구현 과정에 이르기까지 자세히 답변하는 데 도움을 드릴 것입니다. 원활한 비즈니스 프로세스 자동화 솔루션을 발견하기 위해 Winterfrost에 가입하세요.",
+    "k1pep51m": "환자와 의사를 위한 의료 앱의 이점",
+    "k1ab7qqk": "이 의료 애플리케이션은 환자가 더 빠르고 편리하게 의료 서비스를 이용할 수 있도록 도울 뿐만 아니라, 의사와 병원이 의료 검사 및 치료 과정을 최적화하고, 데이터를 관리하며, 치료 품질을 향상시킬 수 있도록 지원합니다.",
+    "kz1qnqe": "데이터 기반 검색 챗봇이란 무엇인가? A-Z 가이드",
+    "kifd8im": "AI로부터 콘텐츠를 조작하는 위험을 완전히 극복하기 위해, 데이터 검색 기반의 챗봇이 최적 솔루션으로 탄생했으며, 이는 비즈니스가 표준화한 내부 문서에서만 정보를 추출하는 방식입니다.",
+    "k1tcf826": "전체 이름을 입력해 주세요",
+    "kjgofhv": "유효하지 않은 전화번호",
+    "k1nsau2n": "유효하지 않은 이메일",
+    "k9bgmqj": "필요성을 좀 더 자세히 설명해 주세요",
+    "kbbunp7": "유효하지 않은 데이터",
+    "kmbobfi": "연락해 주셔서 감사합니다. 24시간 이내에 답변드리겠습니다.",
+    "kn0mxf2": "홈",
+    "k12nasht": "위키",
+    "k1p2m6he": "직장 생활",
+    "kqkbdns": "다음",
+    "kbmxiz1": "사례 연구",
+    "kpibxgy": "경력",
+    "kbfu78y": "직장 생활",
+    "k1efyut2": "사례 연구 보기",
+    "kdoqjbh": "일과 삶",
+    "k9xx36n": "AI",
+    "k18aoloc": "상위 목록",
+    "k1mxldec": "UIUX 디자인",
+    "kdc7alm": "웹사이트",
+    "k366dvg": "모바일 앱",
+    "k8ljjfj": "블록체인",
+    "k1j2ddy7": "IoT",
+    "kknjjcr": "스타트업",
+    "kggjuyh": "날짜",
+    "k15hxgmu": "저자",
+    "k3dw7ft": "업무 범위",
+    "k1espu3h": "실시간 사이트 보기",
+    "k76kub1": "수색...",
+    "knpab1o": "우리의 통찰에 따르면,",
+    "ksq76pj": "업계 지식.",
+    "ku3gtop": "귀국",
+    "k1oav76x": "10년에 걸친 디지털 전환 여정을 거쳐, Winterfrost는 단순히 소프트웨어를 제공하는 것을 넘어 기업이 운영을 최적화하고 시장에서 경쟁 우위를 돌파할 수 있도록 기술 생태계를 구축합니다.",
+    "k11znac9": "지금 상담을 받아보세요!",
+    "knmhse9": "프로젝트 탐색",
+    "k1ax6bex": "Winterfrost 소개",
+    "k5k0n8b": "웹사이트 디자인, 앱 디자인, AI 개발에 이르기까지, 모든 코드가 비용을 최적화하고 비즈니스에 실질적인 매출 성장 동력을 창출하기 위해 작성됩니다.",
+    "kw88vgf": "시스템을 복잡하게 만드는 것은 쉽지만, 그것을 단순함과 효율성에 도달시키는 것이 진짜 도전입니다. 고객들이 가장 쉬운 개발 여정을 할 수 있도록 어려운 일을 선택했습니다.",
+    "kllt31p": "공동 창립자",
+    "klqmcf2": "유연한 아키텍처를 갖춘 심층 소프트웨어 솔루션을 제공하여 기업의 복잡한 운영 문제를 철저히 해결합니다.",
+    "k7jg2js": "AI/생성형 AI를 적용해 프로세스를 자동화하고 데이터를 분석하며 경쟁 우위를 창출하세요.",
+    "knqtt3g": "역량의 인쇄",
+    "k1m85w6a": "소프트웨어 개발 및 종합적인 디지털 전환 솔루션 개발에 대한 다년간의 실무 경험.",
+    "k1tj1dui": "스타트업부터 대기업에 이르기까지 파트너와 기업들이 Winterfrost와 함께하기로 신뢰해 왔습니다.",
+    "k1jojr1h": "전 세계적으로 Winterfrost 기술 솔루션이 성공적으로 구현되었습니다.",
+    "kng8c2w": "탁월한 프로젝트 품질과 실제 운영 성과 덕분에 만족하고 참여하는 고객률이 증가합니다.",
+    "k1vvm2ar": "회사 소개",
+    "k1i5wn75": "Winterfrost는 선도적인 B2B 기술 파트너입니다. 기업이 디지털로 전환하고 효과적인 운영을 최적화할 수 있도록 돕기 위해 웹사이트, 앱, AI 솔루션을 설계하는 데 특화되어 있습니다.",
+    "ktb6idf": "연락처",
+    "k1x9djqy": "웹사이트 및 앱 디자인에 대한 조언, 지원, 전문 AI 개발, 디지털 시대에 기업의 발전 촉진을 돕고 싶다면 저희에게 연락해 주세요.",
+    "k9vo1sg": "문의 - Winterfrost 지금 연락하세요 기술 프로젝트를 시작하세요. 우리는 큰 진전은 항상 대화에서 시작된다고 믿습니다. 기술 전략 조언, 맞춤형 소프트웨어 솔루션, 장기적인 파트너를 찾고 계시다면, 저희가 여러분의 확장을 도와드리겠습니다. 비즈니스 특성에 맞춘 소프트웨어 솔루션을 전문으로 제공합니다. 경험 많은 IT 전문가와 엔지니어 팀에 접근할 수 있습니다. 프로젝트의 실현 가능성 조사와 평가는 완전히 무료입니다. 유연한 협력 모델을 통해 기업이 비용을 효과적으로 통제하고 최적화할 수 있도록 돕습니다. [email protected] 097 145 04 54 아이디어를 공유하세요 전체 이름 이메일 전화번호 저희에게 보내는 메시지 무료 상담 지금 저희와 연결하세요 오늘 프로젝트를 시작하세요 연락하기: 전체 이름* 이메일* 또는 직접 이메일을 보내주세요:  [email protected] 24시간 내에 요청 빠른 응답 전송. 전문가와 직접 작업하세요. 명확한 전략적 조언. 상담 예약 상담 예약 메뉴 사례 연구 소개 현장 위키 서비스 소프트웨어 개발 웹사이트 개발 AI 개발 SaaS 애플리케이션 디자인 앱 디자인 운영 및 유지보수 엔터프라이즈 소프트웨어 개발 MVP 소프트웨어 개발 기술 인프라 개발 개발 개발 IoT 개발 블록체인 개발 연락처 097 145 04 54 [email protected] 베트남 호치민시 9지구 빈홈스 그랜드 파크 사무소. 윈터프로스트 소셜 네트워크 Winterfrost Winterfrost Winterfrost 기술 Winterfrost 미디어 저작권 © 2026 Winterfrost. 판권 소유. Winterfrost에서 설계함 • 개인정보처리방침",
+    "kr78lw": "기술 프로젝트 시작 ",
+    "k1kr5l0v": "[email protected]",
+    "kinbfc7": "이메일",
+    "k2kegpr": "활동 분야",
+    "k1fuv99x": "고급 솔루션",
+    "kfx4hz6": "각 섹터별로",
+    "k1mys9mj": "Winterfrost는 각 분야의 비즈니스 문제를 해결할 수 있도록 최신 기술 솔루션을 제공합니다. 우리는 모든 산업이 단순히 문제를 찾아내고 해결하는 것이 아니라 자신만의 운영 방식을 가지고 있다는 것을 알고 있습니다. 따라서 다분야 경험을 가진 전문 엔지니어 팀은 프로세스를 최적화하고 시장에서 경쟁 우위를 창출하는 지능형 생태계를 구축하는 데 도움을 줄 것입니다.",
+    "k1i5jqro": "우리는 비즈니스가 직면한 문제에 직접 입장해 보고, 이를 통해 더 잘 이해하고 최적의 해결책을 제시합니다. 웹사이트 디자인 서비스, 모바일 애플리케이션 개발, 특히 AI 개발을 통해 기업이 시장에서 돌파할 수 있도록 필요한 모든 서비스를 제공합니다.",
+    "k1pbdg25": "Winterfrost는 귀하의 비즈니스를 동반하며, 기술을 지속 가능한 성장을 위한 지렛대로 활용할 수 있도록 돕고 있습니다.",
+    "k10gx42a": "전문가와 상담하세요",
+    "kfxv50v": "소프트웨어 개발 산업",
+    "k1scefju": "개요",
+    "k174dzp3": "동반업체",
+    "k1lnndp7": "돌파구",
+    "k1c75fi7": "탄탄한 기술 기반",
+    "kaa263x": "Winterfrost는 제품의 성공을 코드 한 줄이 아니라 비즈니스에 가져다주는 실제 가치로 평가합니다. 프로젝트를 실행하기 전에 항상 건강, 금융 또는 공급망에 대해 심층 연구를 합니다. 이를 통해 비즈니스의 어려운 문제를 이해하고 최선의 해결책을 도출할 수 있습니다.",
+    "k1kjtujm": "이러한 효율성은 운영 비용을 최적화하여 확장 가능한 시스템을 구축하는 능력으로 입증됩니다. Winterfrost의 각 프로젝트는 항상 기업들이 시장에서 돌파구를 마련할 수 있는 절대적인 안정성과 보안을 보장합니다.",
+    "k1vyse8": "핀테크 일러스트레이션",
+    "k14p6xhj": "수년간의 경험",
+    "karkb3d": "고객",
+    "k1b9o5wl": "서비스를 제공하는 국가",
+    "k16ww9f1": "고객 만족도",
+    "k1nqbd43": "특정 기술",
+    "k6vweih": "모든 부문에 대해",
+    "k1cngpnc": "모든 지역 탐색",
+    "k190u3jj": "저희가 도와드립니다",
+    "kv07fbw": "어떻게?",
+    "kp8rcnm": "우리는 각 부문별로 설계된 기술 솔루션을 제공하여 복잡한 문제를 해결하고 고객에게 획기적인 경쟁 우위를 창출합니다.",
+    "k1bi40qb": "맞춤형 웹사이트 플랫폼",
+    "k1adl13l": "고객 포털부터 심층적인 내부 관리 도구에 이르기까지 비즈니스 운영 프로세스에 맞춰 웹사이트를 설계합니다.",
+    "k9qpcja": "고객 포털의 인터페이스부터 내부 관리 시스템까지 사업의 실제 운영 과정을 바탕으로 완전히 맞춤화된 웹사이트 플랫폼을 구축합니다. 각 기능은 당신이 속한 산업의 특정 문제를 해결하기 위해 설계되었습니다.",
+    "k1uaxkz4": "모바일 앱",
+    "k14vgtoj": "iOS와 Android 운영체제에서 앱을 개발하여 직관적인 인터페이스와 원활한 경험을 통해 사용자에게 더 가까이 서비스를 제공합니다.",
+    "k1sg6edu": "저희 모바일 개발팀은 직관적인 인터페이스를 갖춘 고성능 iOS 및 안드로이드 앱을 만들어 어떤 기기에서도 부드럽고 통합된 경험을 보장합니다. 백엔드 시스템, 푸시 알림, 생체 인식 로그인과 긴밀히 통합되어 있습니다.",
+    "k5yeqjz": "데이터 분석",
+    "k1arx1v0": "원시 데이터를 전략적 보고서로 전환하여 기업이 문제를 신속하게 처리하고 신속한 비즈니스 결정을 내릴 수 있도록 돕습니다.",
+    "k1n5kcam": "Winterfrost의 데이터 분석 시스템은 BI와 머신러닝 기술을 활용해 원시 데이터를 가치 있는 인사이트로 전환하며, 리더십 팀이 실제 데이터를 기반으로 정확하고 빠른 의사결정을 내릴 수 있도록 지원합니다.",
+    "k1nu1jdb": "시스템 통합",
+    "kqceu3j": "사용 중인 소프트웨어를 서로 연결해서 자동으로 데이터를 전송하세요. 수동으로 정보를 입력할 필요가 없어서 작업이 더 정확하고 빠릅니다.",
+    "k1wc9ihp": "ERP, CRM, 회계, 창고 및 전문 소프트웨어를 통합하여 단일 생태계를 형성하여, 기업이 수작업 데이터 입력을 없애고 오류를 줄이며 운영을 여러 배로 가속화할 수 있도록 돕습니다.",
+    "k1rgdgzt": "AI 기술",
+    "k172v3tg": "인공지능을 적용해 반복적인 프로세스를 자동화하고, 인적 자원을 최적화하며, 기업의 새로운 운영 역량을 열어줍니다.",
+    "kd66cn": "Winterfrost의 AI는 24시간 고객 지원 챗봇, 지능형 문서 분류, 수요 예측, 사기 탐지 등 각 분야에 맞게 특별히 설계되었습니다. 모델은 고객의 실제 데이터를 기반으로 학습되어 높은 정확도를 보장합니다.",
+    "k1xbwtm0": "클라우드 컴퓨팅 인프라",
+    "k18rosql": "클라우드 인프라를 최적화하여 시스템을 항상 안정적이고 안전하며 언제든 확장할 수 있도록 하세요.",
+    "km9zeyn": "우리는 AWS, Azure, Google Cloud에서 마이크로서비스 아키텍처, 자동 확장, 지역 간 백업, 24시간 모니터링을 통해 인프라를 배포하고 관리합니다. 99.95% SLA 보장과 비즈니스 요구에 맞춰 확장 준비가 되어 있습니다.",
+    "kdnv7in": "프로젝트 토론",
+    "k1vrhnys": "왜 Winterfrost가 많은 기업들에게 신뢰를 받나요?",
+    "k1kf9z4n": "각 산업의 구체적인 내용을 이해하기",
+    "k121lnfk": "소프트웨어를 만들기 전에 각 부문이 어떻게 작동하는지 자세히 조사하는 데 시간을 투자합니다. 이로 인해 시스템이 비즈니스가 일상 업무에서 직면하는 실제 문제를 적절히 해결할 수 있습니다.",
+    "kynqonl": "주문형 소프트웨어 빌드",
+    "k1395ql6": "Winterfrost는 귀하의 구체적인 요구사항과 작업 방식에 맞춰 소프트웨어를 설계합니다. 시스템은 당신이 필요로 하는 대로 정확히 작동하여, 작업 습관을 바꾸지 않고도 업무를 더 편리하게 관리할 수 있게 해줍니다.",
+    "kmqs3jp": "최신 기술 사용",
+    "ka7h146": "우리 엔지니어 팀은 최신 기술을 활용해 시스템을 구축합니다. 이렇게 하면 소프트웨어가 안정적으로 유지되고, 대량의 데이터를 처리할 수 있으며, 수년간 구식이 되지 않도록 합니다.",
+    "kd7n6u4": "빠르고 안정적인 배치 속도",
+    "k1oot0a2": "우리는 제품 완성 시간을 단축하기 위해 자동화를 도입합니다. 모든 시스템은 24시간 연중무휴로 지속적으로 작동하고 비즈니스 정보가 완전히 안전하도록 철저히 테스트됩니다.",
+    "kyhmj5c": "장기 기술 조언 및 지원",
+    "kfk20u": "Winterfrost는 단순히 소프트웨어를 제공하고 계약을 종료하는 것이 아닙니다. 적절한 기술적 해결책에 대해 직접 조언하고, 제품 사용 전반에 걸쳐 지원, 버그 수정 또는 시스템 업그레이드를 지속적으로 진행합니다.",
+    "k1dp8t27": "많은 대규모 프로젝트를 구현한 경험",
+    "kby0p8j": "15개국에서 프로젝트를 구현한 경험 덕분에 복잡한 기술 요구사항을 처리할 역량을 갖추고 있습니다. 작업 결과는 실제 고객 수와 제품 수령 후 만족도에 반영됩니다.",
+    "kqxnord": "비즈니스 프로세스를 최적화할 준비가 되셨나요?",
+    "k77k5ny": "이 분야와 겪고 있는 어려움에 대해 말씀해 주세요. Winterfrost의 엔지니어링 팀이 귀사의 비즈니스에 가장 적합한 소프트웨어 솔루션을 조언하고 응답할 것입니다.",
+    "kvjikad": "지금 상담을 위해 연락하세요",
+    "kzzwf4a": "주요 프로젝트",
+    "k1s5maut": "웹사이트-에듀노라",
+    "k14v21e5": "웹사이트-Virela-interior",
+    "k1crmlo2": "웹사이트-Ceranova",
+    "khpdbbt": "저희 서비스 프로세스",
+    "k8uw7w4": "설문조사",
+    "k1vp38cg": "필요 수용 및 분석",
+    "k1df9gly": "저희는 현재 업무 흐름과 비즈니스에서 겪고 있는 실질적인 문제를 직접 이해하기 위해 소통합니다.",
+    "kio9u57": "디자인",
+    "kit8nl1": "해결책 제안 및 계획",
+    "k1m4gzu3": "Winterfrost는 적합한 기술을 선택하고, 고객에게 진행 상황을 추적할 수 있는 명확한 로드맵과 계획을 제공하며, 요구사항에 따라 쉽게 조정할 수 있습니다.",
+    "krhsvh8": "건설",
+    "k1h5irsk": "프로그래밍 및 시스템 구축",
+    "ke8se2f": "엔지니어 팀은 코드를 작성하고, 인터페이스를 설계하며, 데이터를 연결하여 비즈니스의 요구에 따라 완전한 소프트웨어 제품을 만듭니다.",
+    "k1jp5mt0": "확인",
+    "k1h2ll4x": "시험 및 최종 확정",
+    "ksabutl": "우리는 소프트웨어를 여러 차례 테스트하여 속도, 안정성, 보안을 점검하여 시스템에 오류가 없는지 확인한 후 고객에게 전달합니다.",
+    "kz94sqd": "핸드오버",
+    "kquntut": "인수인계 및 기술 지원",
+    "kgnmokd": "소프트웨어를 시스템에 설치하고, 지원 사용 및 유지 방법을 안내하며, 제품 사용 과정에서 오류를 수정하세요.",
+    "kbalplj": "제품을 만들어 보세요!",
+    "k11r79q2": "우리가 사용하는 기술들",
+    "k1ksbplp": "들판에서",
+    "kib6m3g": "프론트엔드",
+    "kr64kw2": "백엔드",
+    "kzoo20h": "앱 개발 기술",
+    "k1qsz2ob": "6시간 전",
+    "ktvlgkj": "Gemini 3.6 Flash는 소프트웨어 개발의 자동화 처리 루프에 최적화되어 구글에서 설계되었습니다. 구글 안티그래비티 플랫폼과 결합하면 AI 다단계 조정, 자동 오류 수정, 비동기 명령 실행을 지원합니다.",
+    "ka1oswx": "2 days ago",
+    "kjaed3w": "상위 목록",
+    "k1c9w7ox": "우리는 구현 과정, 보안, 그리고 Winterfrost가 업계별 소프트웨어 솔루션을 어떻게 구축하는지에 관한 흔한 질문들을 모았습니다",
+    "krfdfo9": "Winterfrost는 업계별 규제나 기준을 어떻게 다루나요?",
+    "k1mp1t48": "우리는 항상 각 분야의 법적 틀과 필수 기술 기준을 꼼꼼히 검토하여 프로그래밍을 시작합니다. 예를 들어, 보건 산업에서는 환자 정보의 기밀성을, 금융 산업에서는 거래 및 조정 규칙을 의미합니다. 이는 완성 후 소프트웨어가 해당 산업의 관련 규정을 완전히 준수함을 보장합니다.",
+    "k18j9um9": "만약 제 사업이 확장되거나 지점을 추가한다면, 소프트웨어가 이를 충족할까요?",
+    "k10tl0ma": "네. Winterfrost가 개발한 모든 소프트웨어는 유연한 클라우드 컴퓨팅 인프라 위에 설계되었습니다. 사용자 수나 데이터 규모가 증가함에 따라 시스템은 자동으로 조정 및 확장하여 접근 속도가 항상 빠르고 안정적이도록 합니다.",
+    "k1ekces6": "Winterfrost 지원 직원들이 새 시스템 사용법을 교육하나요?",
+    "k1ug4pjj": "각 프로젝트마다 심층 교육 패키지를 제공합니다—실시간 튜토리얼, 동영상 튜토리얼, 상세한 문서화. 지원팀은 항상 초기 단계에서 답변할 준비가 되어 있어 직원들이 시스템을 가장 효과적으로 숙달하고 사용할 수 있도록 돕습니다.",
+    "klly69y": "새로운 소프트웨어가 현재 사업에 방해가 되지 않도록 어떻게 보장하나요?",
+    "k1tvkwco": "우선 스테이징 환경에 단계별로 도입(파일럿 → 롤아웃)을 하고, 레거시 시스템과 병행하여 테스트하며, 모든 기능이 안정될 때만 전환합니다. 롤백 스크립트가 제공되며, 팀은 가동 첫 주 동안 24시간 연중무휴로 대기할 수 있습니다.",
+    "k1wbbh7m": "각 산업별 소프트웨어 개발 비용은 어떤 기준으로 산정되나요?",
+    "kzl5feb": "비용은 기능의 범위, 사용 가능한 시스템과의 통합 수준, 업계의 보안/준수 요구사항, 사용자 수에 따라 달라집니다. 기업이 예산을 쉽게 관리하고 적절한 실행 로드맵을 선택할 수 있도록 상세한 견적서를 모듈로 보내드립니다.",
+    "kokeni9": "프로젝트가 끝난 후 기업이 코드를 완전히 소유할 수 있나요?",
+    "kuveltg": "네. 프로젝트가 완료되고 전액 결제되면, 모든 소스 코드, 기술 문서, 아키텍처 다이어그램, 지적 재산권을 회사에 넘깁니다. 앞으로 운영, 확장, 또는 다른 파트너를 선택할 수 있으며, 공급업체에 갇히지 않습니다.",
+    "kjgvv6k": "디지털 시대의 Winterfrost 동행",
+    "kuo57bp": "저희는 효과적인 디지털 전환 솔루션을 제공할 뿐만 아니라, 여러분의 재능을 발휘할 수 있는 전문적인 환경을 조성합니다. 15개국 이상에 걸친 프로젝트 네트워크를 통해 Winterfrost의 회원이 되면서 다문화 환경에서 주요 기술 과제를 직접 해결할 기회를 얻습니다.",
+    "k10rnnqf": "풀스택 개발자 인턴",
+    "kelt1il": "개발자",
+    "kdmk1f1": "딜 받기",
+    "kozhq2s": "호치민시",
+    "kcqp9je": "콘텐츠 마케팅",
+    "knizw27": "마케팅",
+    "k6i2lsu": "회계 인턴",
+    "ki39zmj": "DevOps 엔지니어 인턴 채용",
+    "k1gwvnpj": "법률 인턴",
+    "k4x5v2o": "회계 담당관",
+    "k1qe40yc": "인사 인턴",
+    "k1r7n2eu": "행정 - 인사",
+    "k1tfchh8": "SEO 마케팅 전문가",
+    "k1f7ubso": "자바 개발자 인턴",
+    "k1db3pt4": "그래픽 디자이너",
+    "k1c9kt7v": "그래픽 디자인",
+    "kf3wnb": "모바일 개발자 개발자",
+    "k1ntbc5w": "백엔드 개발자 (PHP/Laravel)",
+    "k2zjyl": "백엔드 개발자 (핀테크, 은행, 금융)",
+    "k1ocnq32": "프론트엔드 개발자 (은행, 금융)",
+    "k1w6b8so": "ReactJS/NestJS/Typescript 인턴",
+    "k4c5p34": "중간 모바일 개발자 (Flutter / Swift / React 네이티브)",
+    "k1hf1y79": "AI 엔지니어 인턴",
+    "kovba46": "AI 엔지니어",
+    "ky9sm80": "전자상거래 - Winterfrost",
+    "k1e8wiar": "Winterfrost에서 전문적인 전자상거래 플랫폼 개발 서비스를 제공합니다. 고용량 시스템, 통합 결제, 물류 동기화 및 소스 코드 완전 인수.",
+    "k1hzckhy": "옴니채널 솔루션은 전환율을 높이고 고객 경험을 최적화하는 데 도움을 줍니다.",
+    "kimeevw": "금융 기술 - Winterfrost",
+    "k1vyqw19": "Winterfrost에서 안전한 핀테크 소프트웨어 개발 서비스를 제공합니다. 디지털 뱅킹, 블록체인, 알고리즘 거래, 그리고 기업에 소스 코드를 완전히 인도하는 데 전문성을 가지고 있습니다.",
+    "k16cf0jg": "첨단 금융 시스템과 높은 보안, 실시간 거래 처리를 지원합니다.",
+    "k12hfvkj": "건강 - Winterfrost",
+    "kx0muwc": "AI/ML은 Winterfrost에서 의료 소프트웨어 개발 서비스를 통합했습니다. 국제 시장을 위한 EMR 및 원격의료 솔루션을 전문으로 합니다. HIPAA, GDPR 준수 보안.",
+    "k13ra51b": "온라인 예약 및 사례 관리 시스템을 통해 병원과 클리닉을 디지털화하세요.",
+    "k13k5f9n": "기업 금융 - Winterfrost",
+    "kewzjzt": "Winterfrost의 차세대 기업 금융 소프트웨어 개발 서비스. 핵심 뱅킹을 현대화하고, 자산 관리를 자동화하며, 소스 코드 100% 인도합니다.",
+    "kqri3mr": "기업을 위한 회계, 재무 보고, 현금 흐름 분석을 자동화합니다.",
+    "keulbnw": "엔터프라이즈 소프트웨어 - Winterfrost",
+    "k13a185v": "ERP 소프트웨어 프로그래밍 서비스, 맞춤형 CRM(Winterfrost)에서 제공됩니다. 운영 프로세스를 최적화하고, 데이터 관리를 중앙집중화하며, 소스 코드를 100% 비즈니스에 넘기세요.",
+    "k1vligmy": "ERP, CRM, 전문 소프트웨어가 관리 프로세스를 최적화하는 데 도움을 줍니다.",
+    "k1ewfm8l": "소매 - Winterfrost",
+    "ka5ouzk": "Winterfrost의 B2B 소매 관리 시스템은 마이크로서비스 아키텍처, 고동시성 처리, 실시간 데이터 동기화, 그리고 엔터프라이즈 표준 보안을 생성합니다.",
+    "kugsgex": "통합된 POS, 창고 관리, CRM은 소매 체인이 효율적으로 운영되도록 돕습니다.",
+    "k1m57mnv": "부동산 - Winterfrost",
+    "k1mxjpoe": "Winterfrost 부동산 소프트웨어 솔루션은 실시간 장바구니 관리, 커미션 자동화, CRM 보안을 지원합니다. 전문적인 B2B 거래 성과를 향상시키세요.",
+    "k1t9di64": "부동산 프로젝트를 위한 리스팅 플랫폼, 중개 CRM 및 디지털 쇼룸을 제공합니다.",
+    "km4kfk9": "교통 및 물류 - Winterfrost",
+    "kpj3am8": "Winterfrost 물류 소프트웨어 솔루션은 노선 최적화, 실시간 물류 동기화, 차량 관리 중앙 집중화를 돕습니다. 전문적인 B2B 공급망 성과를 향상시키세요.",
+    "k3wnxc4": "주문 관리, 다중 채널 운송 경로를 추적 및 최적화합니다.",
+    "kpmvvhz": "교육 - Winterfrost",
+    "k1gpj1fs": "Winterfrost에서 심층 교육기술 교육 시스템 프로그래밍 서비스를 제공합니다. 무거운 부하 인프라, DRM 보안, 소스 코드 인수인오버 및 완전한 기술 문서를 최적화합니다.",
+    "kwz2x3v": "LMS, 학생 관리, 학교 및 교육 센터를 위한 온라인 수업.",
+    "k1ccvmei": "여행 - Winterfrost",
+    "k175zdfb": "Winterfrost의 관광 산업을 위한 전문 기술 솔루션.",
+    "k1tkhpzd": "예약 플랫폼, 일정 관리, 방문객 경험 최적화.",
+    "kj8ttzv": "석유 및 가스 - Winterfrost",
+    "k1byuxtb": "Winterfrost의 석유 및 가스 산업을 위한 전문 디지털 전환 솔루션입니다.",
+    "kdzfxtp": "실시간 운영, 안전 및 기술 데이터 모니터링.",
+    "kx8w1st": "회계 - Winterfrost",
+    "kl3c82q": "Winterfrost의 기업 회계 시스템 솔루션.",
+    "kaadb9z": "운영 자동화, 거래 통합, 현금 흐름 관리.",
+    "k1h5w34r": "뱅킹 - Winterfrost",
+    "kgflvtr": "Winterfrost의 은행 산업을 위한 전문 디지털 전환 솔루션입니다.",
+    "k12zxsdz": "안전한 거래 인프라, 핵심 뱅킹 및 디지털 뱅킹 경험.",
+    "k14b8w35": "농업 - Winterfrost",
+    "k1t5vvph": "Winterfrost의 농업 산업을 위한 전문 디지털 전환 솔루션입니다.",
+    "kd3k5wg": "IoT, 데이터 분석, 스마트 작물 모니터링.",
+    "k1gqyq56": "공급망 - Winterfrost",
+    "kemqzxs": "Winterfrost의 종합 공급망 관리 솔루션.",
+    "kvvhas4": "데이터를 통합하고 전체 물류 시스템을 최적화합니다.",
+    "k1qn4i3z": "유틸리티 소프트웨어 - Winterfrost",
+    "kdv2w8p": "Winterfrost의 기업용 유틸리티 소프트웨어 솔루션.",
+    "kwcf59i": "성능 최적화, 작업 자동화, 인프라 보안을 위한 도구들.",
+    "k1c41ir9": "주문형 앱 개발 - Winterfrost",
+    "k1soozd1": "Winterfrost의 맞춤형 모바일 앱 디자인 및 개발.",
+    "knus9js": "iOS와 안드로이드 애플리케이션은 각자의 비즈니스에 따라 안정적이고 유연합니다.",
+    "k16z7owu": "건축 및 건설",
+    "k185ucn4": "건축 및 건설 - Winterfrost",
+    "ku2j88j": "Winterfrost의 건축 및 건설 소프트웨어 솔루션.",
+    "kq5pt27": "실시간 프로젝트 관리, 예산, 건설 데이터.",
+    "kg452uu": "서비스 - Winterfrost",
+    "k1pg2q3h": "Winterfrost는 웹사이트, 앱, AI, IoT 및 블록체인 설계를 전문으로 합니다. 포괄적인 기술 솔루션은 기업이 운영을 디지털 방식으로 혁신하고 최적화하는 데 도움을 줍니다.",
+    "khprhi9": "AI 개발 서비스",
+    "k3zzj8v": "AI 개발 서비스 - Winterfrost",
+    "kmuoegk": "Winterfrost의 AI 개발 서비스입니다. 머신러닝, LLM, 프로세스 자동화 솔루션은 비즈니스 운영을 최적화하는 데 도움을 줍니다. 지금 시청하세요!",
+    "k15qrl1d": "블록체인 개발 서비스",
+    "k1jt5sy7": "블록체인 개발 서비스 - Winterfrost",
+    "k1hffat9": "Winterfrost의 블록체인 개발 서비스. 스마트 계약 솔루션, dApps 및 별도의 네트워크는 운영 투명성과 보안을 제공합니다. 지금 시청하세요!",
+    "kfm41h2": "DevOps 개발 서비스",
+    "k1vebojc": "DevOps 개발 서비스 - Winterfrost",
+    "k1833i": "Winterfrost의 DevOps 개발 서비스. CI/CD 자동화 솔루션, 코드 기반 인프라 관리(IaC)는 클라우드 비용을 최적화하고 안정적으로 운영하는 데 도움을 줍니다. 지금 시청하세요!",
+    "kekirox": "IoT 개발 서비스",
+    "k171munz": "IoT 개발 서비스 - Winterfrost",
+    "k17havyc": "Winterfrost의 종합적인 IoT 개발 서비스. 펌웨어 프로그래밍 솔루션, 엣지 컴퓨팅, 지능형 데이터 관리 시스템. 지금 시청하세요!",
+    "kzoz6a4": "엔터프라이즈 소프트웨어 개발 서비스",
+    "k1qozu1u": "엔터프라이즈 소프트웨어 개발 서비스 - Winterfrost",
+    "kdjhovz": "Winterfrost에서 엔터프라이즈 소프트웨어 개발 서비스를 제공합니다. ERP 솔루션, 맞춤형 CRM, 시스템 통합, 그리고 규모를 위한 고급 보안. 지금 시청하세요!",
+    "ksb399i": "MVP 소프트웨어 개발 서비스",
+    "k4rjdt4": "MVP 소프트웨어 개발 서비스 - Winterfrost",
+    "k1ooa3ry": "Winterfrost에서 MVP 소프트웨어 개발 서비스. 빠른 출시, 비용 최적화, 비즈니스 아이디어 검증을 돕는 유연한 플랫폼. 지금 시청하세요!",
+    "k1nh4ec3": "맞춤형 소프트웨어 솔루션",
+    "k1onvqr2": "맞춤형 소프트웨어 솔루션 | Winterfrost",
+    "k1mw2civ": "귀하의 특정 비즈니스 과제에 맞춰 설계되고 제작된 맞춤형 소프트웨어 솔루션입니다.",
+    "krr6vw1": "SaaS 애플리케이션 개발 서비스",
+    "k5al75r": "SaaS 애플리케이션 개발 서비스 - Winterfrost",
+    "k1spqa1e": "Winterfrost의 SaaS 애플리케이션 개발 서비스. 보안 서비스 소프트웨어 솔루션, 다중 사용자 아키텍처, 유연한 확장성. 지금 시청하세요!",
+    "k1qpj5xd": "앱 디자인 서비스",
+    "kuzwhfz": "앱 디자인 서비스 - Winterfrost",
+    "kbhtdji": "Winterfrost의 전문 앱 디자인 서비스입니다. 최적의 UI/UX와 안정적인 운영을 갖춘 iOS 및 안드로이드 애플리케이션 솔루션. 지금 바로 상담을 받으세요!",
+    "kiqii6n": "웹사이트 디자인 서비스",
+    "klkyf75": "웹사이트 디자인 서비스 - Winterfrost",
+    "k1udogd2": "Winterfrost의 전문 웹사이트 디자인 서비스입니다. SEO 표준 웹 솔루션, 높은 보안, AI 통합 및 운영 최적화를 위한 기업 최적화. 지금 시청하세요!",
+    "k2hxqzb": "운영 및 유지보수 서비스",
+    "k1i8e8u1": "운영 및 유지보수 서비스 - Winterfrost",
+    "k2wnr28": "Winterfrost에서 전문적인 소프트웨어 운영 및 유지보수 서비스를 제공합니다. 시스템 안정성, 높은 보안, 최적의 성능, 24시간 지원을 보장합니다. 지금 시청하세요!",
+    "kysacsw": "웹사이트 픽셀노바 미디어",
+    "k1aymv4c": "PixelNova 미디어 - Winterfrost 사례 연구",
+    "k1z2whr": "PixelNova Media의 15년 경력은 Winterfrost라는 프리미엄 제품 포트폴리오에서 구축되었으며, 이 포트폴리오는 선도적인 이벤트 광고 솔루션을 선보입니다.",
+    "kztntfp": "",
+    "kgzs16": "웹사이트 모반 티",
+    "k1lgvzy0": "Mocvan 차 - Winterfrost 사례 연구",
+    "kpq8xlt": "프랑스에서 베트남 차의 정수를 Mocvan Tea에서 발견해 보세요 – 친근한 웹사이트, 자연스러운 이미지, 브랜드 스토리텔링, 현대적인 쇼핑 경험이 어우러져 있습니다.",
+    "kcz1v1u": "에어로민트 클린룸",
+    "k1lzebh7": "Aeromint 클린룸 - Winterfrost 베트남어 사례 연구",
+    "k1vaoswf": "Aeromint Cleanroom 클린룸 장비와 Winterfrost의 전문 SEO 솔루션으로 비즈니스를 강화하여 시장 접근을 최적화하세요.",
+    "k1w2b14j": "Nivora Connect - Winterfrost 사례 연구",
+    "kelqqdj": "교통, 주택, 고용을 연결하는 Winterfrost의 안전한 모바일 애플리케이션인 Nivora Connect를 통해 한국 내 베트남 커뮤니티에 힘을 실어주세요.",
+    "k14eb8qo": "Grevia Lawn - Winterfrost 사례 연구",
+    "ks4295c": "스마트 일정 관리와 실시간 추적을 통합한 Winterfrost의 전문 서비스 예약 애플리케이션인 Grevia Lawn을 통해 경관 서비스를 향상하세요.",
+    "k1ywm10q": "루모라 러그 - Winterfrost 사례 연구",
+    "k1wvba2m": "Winterfrost, SEO 표준, 빠른 로딩, 부드럽고 고급스러운 경험의 세련된 디지털 쇼룸을 통해 프리미엄 핸드메이드 울 러그인 Loomora Rugs를 만나보세요.",
+    "konvcjl": "웹사이트 크로미바 코팅",
+    "kpivzwz": "크로미바 코팅 - Winterfrost 사례 연구",
+    "kxxm7m8": "빠른 로딩 속도와 고급스러운 디자인을 자랑하는 Winterfrost의 전문 전자상거래 플랫폼 Chromiva Coatings와 함께 표면 솔루션을 최적화하세요.",
+    "k193umnw": "웹사이트 베르도라 부동산",
+    "k17z3xxm": "베르도라 부동산 - Winterfrost 사례 연구",
+    "k1hfq1rt": "Winterfrost가 도입한 전문 부동산 플랫폼인 킴 쵝 샨(Kim Cuong Xanh)과 함께 부동산 관리 효율성을 향상시키세요. 이 플랫폼은 SEO와 빠른 로딩 속도를 통합합니다.",
+    "k82n8kw": "웹사이트 칸델라 웍스",
+    "k1flelao": "웹사이트 플렉소라 패키징",
+    "kug5z1o": "플렉소라 패키징 - Winterfrost 사례 연구",
+    "k1om9bzs": "Winterfrost가 개발한 Flexora Packaging의 다양한 산업용 필름 및 플라스틱을 살펴보세요. SEO에 최적화된 이 사이트는 전문적인 B2B 경험을 보장합니다.",
+    "k1j8p70s": "웹사이트 폴리베라",
+    "k9357xu": "폴리베라 - Winterfrost 사례 연구",
+    "k1p0j45x": "웹사이트 Polyvera LLC는 품질과 지속 가능성에 중점을 두고 다양한 산업 분야에 서비스를 제공하는 HDPE 플라스틱 필름 및 포장 제조업체입니다.",
+    "k1tppkq0": "웹사이트 미라바",
+    "kknofk": "웹사이트 비테베라",
+    "kcqnz0v": "웹사이트 모토리아 링크",
+    "k31j7ui": "덴타베라 웹사이트",
+    "k1i6z52e": "덴타베라 - Winterfrost 사례 연구",
+    "k1gvqqt2": "Dentavera – Winterfrost의 치과 기술 플랫폼으로, 3D 프린팅, 전문 SEO, 최신 인터페이스, 뛰어난 빠른 로딩 속도를 통합합니다.",
+    "k1jskzx7": "웹사이트 루메라 리빙",
+    "kpfhg6z": "루메라 리빙 - Winterfrost 베트남 사례 연구",
+    "k1q5qkk1": "Winterfrost가 개발한 프리미엄 B2B 플랫폼인 Lumera Living을 발견해 보세요. 이 플랫폼은 디지털 쇼룸, SEO 최적화, 고속 성능을 자랑합니다.",
+    "k1t45btw": "내부",
+    "ktqfral": "웹사이트 오리바 랜드",
+    "k1prhhfm": "웹사이트 로베나 모빌리티",
+    "k569lzi": "웹사이트 브루비아",
+    "k1t8vsbj": "웹사이트 Arcvera 건설",
+    "kkah96l": "베트남 위키",
+    "k1sc5kjz": "위키 - Winterfrost",
+    "k1gmw7t6": "Winterfrost에 참여하여 최신 웹사이트 디자인, 앱, AI 디자인 지식을 공유하여 비즈니스 효율성을 높이고 브랜드를 개발할 수 있도록 도와주세요.",
+    "k1i4jyz3": "블록체인과 IoT: 기술 리더들에게 중요한 모든 지식",
+    "kx4qwnd": "블록체인과 IoT: 기술 리더를 위한 모든 중요한 지식 - Winterfrost.tech",
+    "krbr6yw": "전 세계적으로 연결된 기기의 수가 빠르게 증가하고 있습니다. 예측에 따르면 2024년 말까지 연결된 IoT 기기 수는 약 188억 대에 달하며, 이는 전년 대비 13% 증가한 수치입니다. 이러한 증가는 사물인터넷이 점점 더 중요한 역할을 하고 있음을 보여줍니다 [...]\n",
+    "kx5u0s7": "직장 생활 | 위키 | Winterfrost",
+    "k123stnn": "Work Life의 모든 기사를 둘러보세요.",
+    "k1vdkq88": "Flutter vs. React Native와 Xamarin: 모바일 개발을 위해 어떤 프레임워크를 선택해야 할까요? - Winterfrost.tech",
+    "k66cgt1": "Flutter가 무엇인가요? 오늘날 모바일 앱 개발은 그 어느 때보다 흥미진진합니다. 프로그래머들은 자신만의 방식으로 애플리케이션을 구축할 수 있는 다양한 기술 옵션을 가지고 있습니다. 하지만 소프트웨어 개발 산업의 큰 목표는 항상 [...]\n",
+    "k1wj7tz3": "소프트웨어 엔지니어 경력 경로: 자신에게 맞는 방향을 선택하는 방법 - Winterfrost.tech",
+    "k5wzn6a": "진로를 선택하는 것은 전공을 선택하는 것만큼 중요하며, 두 분야 모두 미래를 매우 명확하게 형성합니다. 소프트웨어 공학 분야를 추구하는 분들은 이 길이 [...]\n",
+    "k1fs2375": "웹사이트에서 \"확인\" 버튼을 클릭했을 때, 그 찰나에 실제로 무슨 일이 일어나는지 궁금해 본 적 있나요? 그 부드러운 경험 뒤에는 수만 개의 데이터 스트림을 처리하는 거대한 지하 시스템이 있습니다. 안녕하세요, 저는 응우옌 후인 자 [...]\n",
+    "k7t8s79": "가장 명망 있는 기술 및 소프트웨어 컨설팅 회사 상위 23대",
+    "k13zjr1v": "가장 평판 좋은 소프트웨어 및 기술 컨설팅 회사 상위 23대 기준 %(현재연도 %) - Winterfrost",
+    "khhlrz3": "오늘날 소프트웨어 개발팀은 그 어느 때보다 큰 압박에 직면해 있습니다: 단축된 배포 시간, 증가하는 보안 요구, 그리고 빠르게 변화하는 AI 기술 수명 주기. 따라서 많은 기업들이 민간 기업을 찾고 있습니다 [...]\n"
+  }
+}

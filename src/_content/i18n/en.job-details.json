@@ -1,0 +1,1206 @@
+[
+  {
+    "slug": "mobile-developer-developer",
+    "blocks": [
+      {
+        "text": "JOB DESCRIPTION",
+        "type": "h2"
+      },
+      {
+        "text": "Participate in developing and optimizing Mobile applications on iOS/Android platforms using Flutter, React Native or Native.\nCoordinate with Backend, UI/UX, BA, QA teams to deploy features for the application according to project requirements.\nAnalyze requirements, build technical solutions and participate in designing mobile system architecture.\nPerform technical task division, estimation and management of assigned work progress.\nOptimize application performance, improve user experience and ensure system stability.\nEnsure source code complies with Clean Architecture standards, is easy to maintain and expand.\nParticipate in code review, support and share knowledge with Junior/Fresher Developer.\nResearch and update new mobile technologies to improve product quality.\nCoordinate deployment and support application operations in testing and production environments according to Agile/Scrum processes.",
+        "type": "div"
+      },
+      {
+        "text": "CANDIDATE REQUIREMENTS",
+        "type": "h2"
+      },
+      {
+        "text": "Experience & Expertise\n\nUniversity graduate majoring in IT or related fields.\nHave 3–5 years of experience developing Mobile applications.\nExperienced in cross-platform iOS/Android development.\nProficient in Flutter, React Native or Native iOS (Swift).\n\nTechnical skills\n\nHave good knowledge of SOLID, Clean Architecture and source code optimization.\nExperience using State Management tools such as BLoC, Riverpod or equivalent.\nAble to work with Native code (Kotlin/Swift) and integrate Flutter Plugin.\nUnderstand the application lifecycle, Gradle, CocoaPods and the mobile app building process.\nExperience working with REST API, realtime socket and cache management.\n\nSecurity & Performance\n\nUnderstanding of security mechanisms such as JWT, OAuth, AES, SHA.\nHave knowledge about data security on devices (Keychain/Keystore).\nKnow how to optimize application performance and use DevTools to analyze memory and CPU.\n\nTools & Processes\n\nHave experience using Git and advanced source code processing.\nHave experience writing Unit Test, Widget Test.\nKnow how to use Postman to test APIs.\nHave basic understanding of CI/CD and Agile/Scrum process.\nProficiency in work management tools such as Jira, Trello or Confluence.\n\nPersonal skills\n\nGood logical thinking and responsible at work.\nActively learn and update new technology.\nAble to work in teams, code review and support Junior/Fresher.\nAble to read and understand technical documents in English.\nHave product thinking and the ability to effectively handle technical problems.",
+        "type": "div"
+      },
+      {
+        "text": "BENEFITS",
+        "type": "h2"
+      },
+      {
+        "text": "Competitive income + project bonus + Holiday/Tet bonus.\nReview performance and periodically increase salary based on ability.\nProfessional, transparent and flexible Agile/Scrum environment.\nEmpowered to analyze, design and drive technical solutions.\nMentoring directly from experienced managers and CTOs.\nOpportunities to develop professional and project management skills.\nTeam building, travel, birthday, Christmas, year-end...\nFully participate in social insurance, health insurance, and unemployment insurance according to the law.",
+        "type": "div"
+      }
+    ],
+    "extra": [
+      {
+        "text": "If you want to develop your career in a professional environment, where you can directly participate in building software products, Mobile Apps, Websites and AI applications according to new technology trends, then Winterfrost is the right destination. Here, you will work with a young, dynamic, creative team with many opportunities for development and advancement, while creating practical values ​​for businesses and users. Please Join us.",
+        "type": "p"
+      },
+      {
+        "text": "Submit your CV to email: careers@winterfrost.tech",
+        "type": "p"
+      },
+      {
+        "text": "Or Zalo: 097 145 04 54",
+        "type": "p"
+      }
+    ],
+    "sidebar": [
+      "Application deadline: 2026-12-31",
+      "Salary:",
+      "Agreement",
+      "Address:",
+      "Ho Chi Minh",
+      "Rank:",
+      "Staff",
+      "Experience:",
+      "3 years"
+    ],
+    "title": "Mobile Developer Developer"
+  },
+  {
+    "slug": "backend-developer-php-laravel",
+    "blocks": [
+      {
+        "text": "Winterfrost recruits Backend Developer (PHP/Laravel) to participate in developing Website, Mobile App and Software projects for businesses. We look for candidates with a good backend background, systems thinking and the ability to handle practical technical problems to build stable, secure and high-performance products.",
+        "type": "p"
+      },
+      {
+        "text": "JOB DESCRIPTION",
+        "type": "h2"
+      },
+      {
+        "items": [
+          "Independently develop modules and backend features for the Website/App/Software system.",
+          "Design and build RESTful APIs, ensuring stability and scalability.",
+          "Database design, query optimization and indexing strategy.",
+          "Handle complex business logic, validation and exception handling.",
+          "Integrate third-party services such as payment gateways, electronic invoices, webhooks...",
+          "Optimize system performance and improve load capacity.",
+          "Write Unit Test, Integration Test and ensure source code quality.",
+          "Participate in code review, support and orientation for Intern/Junior Developers.",
+          "Coordinate with Frontend, Mobile and UI/UX to deploy features according to project requirements."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "CANDIDATE REQUIREMENTS",
+        "type": "h2"
+      },
+      {
+        "text": "Experience & expertise",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "University graduate majoring in IT or related fields.",
+          "Have 1–2 years of Backend development experience.",
+          "Proficient in PHP 8.1+ and object-oriented programming (OOP).",
+          "Experience working with Laravel Framework:\nRouting, Middleware, Service Provider\nEloquent ORM, Query Builder\nRESTful API Development"
+        ],
+        "type": "list"
+      },
+      {
+        "text": "Database & Architecture",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Proficient in MySQL, optimizing complex queries, JOIN, subquery.",
+          "Understanding of Design Patterns:\nFacade\nRepository Pattern\nService Provider",
+          "Have knowledge about Authentication/Authorization:\nJWT\nBasic OAuth2\nSession Authentication"
+        ],
+        "type": "list"
+      },
+      {
+        "text": "Testing & Tools",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Experience in Unit Testing with PHPUnit or Pest.",
+          "Know how to use Swagger/OpenAPI to document APIs.",
+          "Proficient in Git workflow:\nRebase\nCherry-picked\nResolve conflicts",
+          "Use basic Linux command line well."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "Soft skills",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Good communication and teamwork skills.",
+          "Have a problem-solving mindset and technical analysis ability.",
+          "Proactively propose system improvements and optimizations.",
+          "Have the spirit of sharing knowledge with Junior/Intern.",
+          "Manage time well and meet project deadlines."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "Priority",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Experienced in Docker, Docker Compose.",
+          "Understanding of CI/CD:\nJenkins\nGitHub Actions\nGitLab CI",
+          "Experience with Redis Queue, RabbitMQ or Kafka.",
+          "Understand API versioning and backward compatibility.",
+          "Have worked in Agile/Scrum model."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "BENEFITS",
+        "type": "h2"
+      },
+      {
+        "text": "Income & Bonus",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Competitive salary according to ability.",
+          "Project bonus, performance bonus, Holiday/Tet bonus.",
+          "Reward innovation and technical innovation."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "Development opportunity",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Work directly with experienced Senior Developer and Tech Lead.",
+          "Participate in real projects:\nWeb App\nSaaS\nERP\nPMS\nTicketing System",
+          "Opportunities to develop:\nSenior Developer\nTech Lead\nFullstack Developer"
+        ],
+        "type": "list"
+      },
+      {
+        "text": "Working environment",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Young and dynamic technology environment.",
+          "Professional software development process according to Agile/Scrum.",
+          "Code review periodically and mentoring to improve expertise.",
+          "Suggested and tested new technology."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "Welfare",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Pay full social insurance according to regulations.",
+          "Annual leave and holidays according to the Labor Law.",
+          "Team building, annual trip.",
+          "Parking assistance, lunch allowance (if any).",
+          "Provide full working equipment."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "Corporate culture",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Respect individual creativity and contributions.",
+          "Clear career development path.",
+          "Opportunity to participate in building products from scratch.",
+          "Recognize achievements with transparent KPIs."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "📩 Apply now to join Winterfrost in developing high-quality technology products and expanding your professional capacity!",
+        "type": "p"
+      }
+    ],
+    "extra": [
+      {
+        "text": "If you want to develop your career in a professional environment, where you can directly participate in building software products, Mobile Apps, Websites and AI applications according to new technology trends, then Winterfrost is the right destination. Here, you will work with a young, dynamic, creative team with many opportunities for development and advancement, while creating practical values ​​for businesses and users. Please Join us.",
+        "type": "p"
+      },
+      {
+        "text": "Submit your CV to email: careers@winterfrost.tech",
+        "type": "p"
+      },
+      {
+        "text": "Or Zalo: 097 145 04 54",
+        "type": "p"
+      }
+    ],
+    "sidebar": [
+      "Application deadline: 2026-12-31",
+      "Salary:",
+      "Agreement",
+      "Address:",
+      "Ho Chi Minh",
+      "Rank:",
+      "Staff",
+      "Experience:",
+      "2 Years"
+    ],
+    "title": "Backend Developer (PHP/Laravel)"
+  },
+  {
+    "slug": "backend-developer-fintech-banking-finance",
+    "blocks": [
+      {
+        "text": "Winterfrost recruits Backend Developer to participate in developing Website, Mobile App and Software systems in the fields of Fintech, Banking and Finance. This is an opportunity for you to accompany large-scale digital transformation projects, building high-performance, secure and stable backend systems.",
+        "type": "p"
+      },
+      {
+        "text": "JOB DESCRIPTION",
+        "type": "h2"
+      },
+      {
+        "items": [
+          "Analyze and design backend architecture suitable for each product and business requirements.",
+          "Develop and integrate backend features into existing systems, ensuring performance and stability.",
+          "Build and develop RESTful APIs according to Microservices architecture.",
+          "Coordinate with Frontend, Mobile, UI/UX and Product Owner to deploy features for Website and Mobile App.",
+          "Configure and deploy operations on the BPM system.",
+          "Support application deployment on testing and production environments.",
+          "Monitor, optimize performance and ensure system scalability."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "CANDIDATE REQUIREMENTS",
+        "type": "h2"
+      },
+      {
+        "text": "Experience & expertise",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Graduated from University majoring in IT, Information Technology, Electronics and Telecommunications or related fields.",
+          "Minimum 3 years of Backend development experience with Java, NodeJS, Python or Golang.",
+          "Have experience participating in projects in the fields of banking, finance or investment.",
+          "Priority is given to candidates who have participated in customer onboarding systems for financial products."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "Technical Skills",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Proficient in Java 8+, Spring Boot, Hibernate.",
+          "Experience with Spring Security, RestEasy and RabbitMQ in event-driven architecture.",
+          "Deep understanding of designing RESTful APIs with high availability and good load tolerance.",
+          "Experience working with relational databases (Oracle, PostgreSQL, MySQL) and NoSQL (MongoDB).",
+          "Have experience optimizing systems on Cloud platforms such as AWS or Azure."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "Priority",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Experience deploying systems using Docker, Kubernetes, ECS or AWS Lambda.",
+          "Proficient in CI/CD tools such as Git, Jenkins, Gradle, npm, Ansible.",
+          "Experience in designing large systems and optimizing backend performance.",
+          "Have deployed a CRM system for businesses or financial institutions."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "Soft skills",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Good product thinking and ability to work effectively in teams.",
+          "Multi-departmental communication and coordination skills.",
+          "Proactive, responsible and willing to learn new technology."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "BENEFITS",
+        "type": "h2"
+      },
+      {
+        "items": [
+          "Directly participate in digital transformation projects in the Fintech/Banking field.",
+          "Competitive income with project bonus, performance bonus and business bonus.",
+          "Evaluate capacity and review salary periodically every year.",
+          "Remuneration and development policies for talented personnel.",
+          "Trained to improve expertise and professional skills.",
+          "Professional, dynamic working environment and many development opportunities.",
+          "Fully participate in social insurance, health insurance and other benefits according to the Labor Law.",
+          "12 days of leave/year with holiday, maternity, and wedding benefits as prescribed.",
+          "Team building, travel, spring break, year-end party and other internal activities.",
+          "Bonuses on major holidays, quarterly bonuses and bonuses based on work performance."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "⏰ Working hours: Monday - Saturday | 08:30 – 17:30",
+        "type": "p"
+      },
+      {
+        "text": "📩 Apply now to join Winterfrost in building modern technology systems for the finance and banking sector!",
+        "type": "p"
+      }
+    ],
+    "extra": [
+      {
+        "text": "If you want to develop your career in a professional environment, where you can directly participate in building software products, Mobile Apps, Websites and AI applications according to new technology trends, then Winterfrost is the right destination. Here, you will work with a young, dynamic, creative team with many opportunities for development and advancement, while creating practical values ​​for businesses and users. Please Join us.",
+        "type": "p"
+      },
+      {
+        "text": "Submit your CV to email: careers@winterfrost.tech",
+        "type": "p"
+      },
+      {
+        "text": "Or Zalo: 097 145 04 54",
+        "type": "p"
+      }
+    ],
+    "sidebar": [
+      "Application deadline: 2026-12-31",
+      "Salary:",
+      "Agreement",
+      "Address:",
+      "Ho Chi Minh",
+      "Rank:",
+      "Staff",
+      "Experience:",
+      "2 years"
+    ],
+    "title": "Backend Developer (Fintech, Banking, Finance)"
+  },
+  {
+    "slug": "frontend-developer-banking-finance",
+    "blocks": [
+      {
+        "text": "Winterfrost recruits Frontend Developer to participate in developing Website, Mobile App and Software systems in the fields of Fintech, Banking and Finance. This is an opportunity for you to accompany large-scale digital transformation projects, apply modern technology and optimize user experience.",
+        "type": "p"
+      },
+      {
+        "text": "JOB DESCRIPTION",
+        "type": "h2"
+      },
+      {
+        "items": [
+          "Participate in system architecture design and propose appropriate technology solutions.",
+          "Develop new features for the Web/App system and integrate with backend services.",
+          "Coordinate with Product Owner, UI/UX Designer and Backend Developer to implement features according to project requirements.",
+          "Build a modern user interface, optimize performance and user experience.",
+          "Participate in deploying, monitoring and optimizing application performance in testing and production environments.",
+          "Contribute to improving development processes and improving product quality."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "CANDIDATE REQUIREMENTS",
+        "type": "h2"
+      },
+      {
+        "text": "Experience & expertise",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Graduated from University majoring in IT, Information Technology, Electronics and Telecommunications or related fields.",
+          "Have 2–3 years of Frontend development experience.",
+          "Proficient in JavaScript, ReactJS, Next.js; Priority is given to candidates with experience with Flutter, React Navite and related frameworks.",
+          "Have experience participating in projects in the fields of banking, finance or investment.",
+          "Having participated in onboarding projects for individual customers in the financial sector is an advantage."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "Technical Skills",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Experience working with Design System and UI Libraries.",
+          "Proficient in Ant Design, Storybook and modern frontend frameworks.",
+          "Deep understanding of RESTful APIs, WebSocket, and authentication/security solutions like Auth0.",
+          "Experience in state management and integration with backend services or third-party services.",
+          "Have knowledge of relational and non-relational databases."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "Priority",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Experience with Micro-Frontend architecture.",
+          "Experienced in DevOps/DevSecOps, CI/CD with Jenkins, Docker, Kubernetes.",
+          "Experience implementing CRM for businesses or financial institutions.",
+          "Passionate about researching and applying new technology to products."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "Soft skills",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Good product thinking and ability to work effectively in teams.",
+          "Good communication and problem-solving skills.",
+          "Proactive, responsible and willing to learn."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "BENEFITS",
+        "type": "h2"
+      },
+      {
+        "items": [
+          "Work directly in digital transformation projects in the Fintech/Banking field.",
+          "Competitive income with bonuses based on projects, performance and business results.",
+          "Evaluate capacity and review salary periodically every year.",
+          "Professional, dynamic working environment and many development opportunities.",
+          "Training policy to improve expertise and soft skills.",
+          "Fully participate in social insurance, health insurance and other benefits according to the Labor Law.",
+          "12 days of leave/year with holiday, maternity leave, and wedding leave as prescribed.",
+          "Team building, travel, spring break, year-end party and internal activities.",
+          "Remuneration and development policies for long-term employees."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "⏰ Working hours: Monday - Saturday | 08:30 – 17:30",
+        "type": "p"
+      },
+      {
+        "text": "📩 Apply now to join Winterfrost in building modern technology products for the finance and banking sector!",
+        "type": "p"
+      }
+    ],
+    "extra": [
+      {
+        "text": "If you want to develop your career in a professional environment, where you can directly participate in building software products, Mobile Apps, Websites and AI applications according to new technology trends, then Winterfrost is the right destination. Here, you will work with a young, dynamic, creative team with many opportunities for development and advancement, while creating practical values ​​for businesses and users. Please Join us.",
+        "type": "p"
+      },
+      {
+        "text": "Submit your CV to email: careers@winterfrost.tech",
+        "type": "p"
+      },
+      {
+        "text": "Or Zalo: 097 145 04 54",
+        "type": "p"
+      }
+    ],
+    "sidebar": [
+      "Application deadline: 2026-12-31",
+      "Salary:",
+      "Agreement",
+      "Address:",
+      "Ho Chi Minh",
+      "Rank:",
+      "Staff",
+      "Experience:",
+      "2 years"
+    ],
+    "title": "Frontend Developer (Banking, Finance)"
+  },
+  {
+    "slug": "thuc-tap-sinh-reactjs-nestjs-typescript",
+    "blocks": [
+      {
+        "text": "Winterfrost recruits ReactJS / NestJS / Typescript Interns to participate in developing Website, Mobile App and Software projects for domestic and foreign customers. This is an opportunity for those who love programming and wish to receive hands-on training and development in a professional technology environment.",
+        "type": "p"
+      },
+      {
+        "text": "JOB DESCRIPTION",
+        "type": "h2"
+      },
+      {
+        "items": [
+          "Participate in Website, Mobile App and Software development projects in the form of on-job training under direct guidance from Leader.",
+          "Coordinate with the team to research and develop features for the Web/App/Software system.",
+          "Build responsive user interfaces, optimize performance and data query capabilities.",
+          "Participate in API design, data processing and system integration.",
+          "Job details will be discussed specifically during the interview."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "CANDIDATE REQUIREMENTS",
+        "type": "h2"
+      },
+      {
+        "items": [
+          "Can work full time.",
+          "Have logical thinking and passion for programming.",
+          "Master knowledge of ReactJS.",
+          "Have knowledge of Javascript, Typescript, HTML, CSS, REST API, JSON, XML,...",
+          "Have knowledge of MySQL or PostgreSQL databases; Knowing MongoDB or Oracle is an advantage.",
+          "Experience or understanding of APIs and data processing.",
+          "Proficient in using Git.",
+          "Have good teamwork and communication skills.",
+          "Actively learn, hardworking and responsible at work.",
+          "Ability to read and communicate in basic English at work.",
+          "Knowing DevOps or Cloud Services (AWS, Azure, GCP) is an advantage."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "BENEFITS",
+        "type": "h2"
+      },
+      {
+        "items": [
+          "Opportunity to become an official employee at Winterfrost with attractive salary after the internship.",
+          "Reviewed capacity and clear development roadmap.",
+          "Holiday/Tet bonuses, quarterly bonuses, seniority bonuses and project performance bonuses.",
+          "Birthday gifts and internal activities.",
+          "Learn and work with new technologies.",
+          "Professional, dynamic working environment with domestic and foreign partners.",
+          "Travel and team building periodically.",
+          "Support to participate in training courses to improve professional skills."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "📩 Apply now to join Winterfrost in developing innovative technology products and improving practical programming skills!",
+        "type": "p"
+      }
+    ],
+    "extra": [
+      {
+        "text": "If you want to develop your career in a professional environment, where you can directly participate in building software products, Mobile Apps, Websites and AI applications according to new technology trends, then Winterfrost is the right destination. Here, you will work with a young, dynamic, creative team with many opportunities for development and advancement, while creating practical values ​​for businesses and users. Please Join us.",
+        "type": "p"
+      },
+      {
+        "text": "Submit your CV to email: careers@winterfrost.tech",
+        "type": "p"
+      },
+      {
+        "text": "Or Zalo: 097 145 04 54",
+        "type": "p"
+      }
+    ],
+    "sidebar": [
+      "Application deadline: 2026-12-31",
+      "Salary:",
+      "Agreement",
+      "Address:",
+      "Ho Chi Minh",
+      "Rank:",
+      "Intern",
+      "Experience:",
+      "Not required"
+    ],
+    "title": "ReactJS/NestJS/Typescript Intern"
+  },
+  {
+    "slug": "middle-mobile-developer-flutter-swift-react-native",
+    "blocks": [
+      {
+        "text": "Winterfrost is looking for Middle Mobile Developer with experience in iOS & Android cross-platform application development. The candidate will participate in building and developing real-scale mobile products, prioritizing sales systems, transactions and real-time applications.",
+        "type": "p"
+      },
+      {
+        "text": "JOB DESCRIPTION",
+        "type": "h2"
+      },
+      {
+        "text": "Project & Team Management",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Plan application development, break down technical tasks (WBS), estimate and allocate work to the team.",
+          "Monitor progress, detect bottlenecks and propose timely solutions.",
+          "Manage and develop mobile applications for company projects."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "Technical Leadership",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Technical direction for mobile team.",
+          "Ensure source code complies with SOLID, Clean Architecture and is easy to expand and maintain.",
+          "Participate in code review and mentoring for Junior/Fresher."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "System Design & Optimization",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Design mobile system architecture.",
+          "Optimize application performance (Caching, Lazy Load, Isolate...).",
+          "Improve user experience and system stability."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "Collaboration",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Coordinate with Backend, PO, UI/UX, QA according to Agile/Scrum process.",
+          "Ensure product quality and development progress."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "Research & Improvement",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Research and update new mobile technology.",
+          "Propose solutions to optimize security and system performance."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "CANDIDATE REQUIREMENTS",
+        "type": "h2"
+      },
+      {
+        "text": "Experience & expertise",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Graduated from University majoring in IT or related.",
+          "3–5 years of experience developing mobile apps.",
+          "Experienced in cross-platform iOS/Android.",
+          "Know Flutter, Swift, React Native."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "Technical Skills",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Proficient in SOLID, Clean Architecture.",
+          "Experience with BLoC, Riverpod or equivalent State Management.",
+          "Able to write Flutter Plugin using Native code (Kotlin/Swift).",
+          "Understand Gradle, Pod mechanics and application lifecycle."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "Security & Performance",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Have knowledge of OAuth, AES, SHA, JWT.",
+          "Understand Keychain/Keystore and mobile application security.",
+          "Make good use of DevTools to monitor memory, CPU and optimize performance."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "Networking & Real-time",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Understand MQTT, Socket, Cache management for realtime/trading applications.",
+          "Proficient in Postman (test scripts, mock API)."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "Tooling & Management",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Have basic CI/CD experience.",
+          "Write Unit Test, Widget Test.",
+          "Advanced Git proficiency: rebase, revert, resolve conflict.",
+          "Experience in team management, code review and mentoring.",
+          "Good use of Jira, Trello, Confluence."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "Other skills",
+        "type": "h3"
+      },
+      {
+        "items": [
+          "Have a Product Ownership mindset and understand SDLC.",
+          "Good ability to read and understand English documents.",
+          "Proactive, responsible and capable of handling project technical risks."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "BENEFITS",
+        "type": "h2"
+      },
+      {
+        "items": [
+          "Competitive income + project bonus + Holiday/Tet bonus.",
+          "Review performance and periodically increase salary based on ability.",
+          "Professional, transparent and flexible Agile/Scrum environment.",
+          "Empowered to analyze, design and drive technical solutions.",
+          "Mentoring directly from experienced managers and CTOs.",
+          "Opportunities to develop professional and project management skills.",
+          "Team building, travel, birthday, Christmas, year-end...",
+          "Fully participate in social insurance, health insurance, and unemployment insurance according to the law."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "📩 Apply today to accompany Winterfrost in building high-quality technology products!",
+        "type": "p"
+      }
+    ],
+    "extra": [
+      {
+        "text": "If you want to develop your career in a professional environment, where you can directly participate in building software products, Mobile Apps, Websites and AI applications according to new technology trends, then Winterfrost is the right destination. Here, you will work with a young, dynamic, creative team with many opportunities for development and advancement, while creating practical values ​​for businesses and users. Please Join us.",
+        "type": "p"
+      },
+      {
+        "text": "Submit your CV to email: careers@winterfrost.tech",
+        "type": "p"
+      },
+      {
+        "text": "Or Zalo: 097 145 04 54",
+        "type": "p"
+      }
+    ],
+    "sidebar": [
+      "Application deadline: 2026-12-31",
+      "Salary:",
+      "Agreement",
+      "Address:",
+      "Ho Chi Minh",
+      "Rank:",
+      "Staff",
+      "Experience:",
+      "3 years"
+    ],
+    "title": "Middle Mobile Developer (Flutter / Swift / React Native)"
+  },
+  {
+    "slug": "thuc-tap-sinh-ai-engineer",
+    "blocks": [
+      {
+        "text": "JOB DESCRIPTION",
+        "type": "h2"
+      },
+      {
+        "items": [
+          "Support the development of AI components for products: chatbot, RAG, document processing, AI workflow and automation.",
+          "Participate in building services/APIs to integrate AI into websites, CRM and internal systems.",
+          "Learn how to design and implement data pipelines, retrieval, evaluation, and monitoring for AI systems.",
+          "Participate in integrating AI/LLM models and backend systems into actual operating products.",
+          "Collaborate with Business, Product, Backend, Frontend, Data and DevOps departments to deploy AI solutions.",
+          "Write basic technical documents, describing processing flows, inputs - outputs and operating notes."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "CANDIDATE REQUIREMENTS",
+        "type": "h2"
+      },
+      {
+        "items": [
+          "Students or recent graduates in IT, AI, Data Science or related fields.",
+          "Have basic knowledge of programming, especially Python.",
+          "Passionate about AI, quick to learn and proactive at work.",
+          "Ability to coordinate groups and solve practical problems.",
+          "Knowledge of chatbot, LLM, automation or data pipeline is preferred."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "BENEFITS",
+        "type": "h2"
+      },
+      {
+        "items": [
+          "Practical experience with applied AI projects for CRM, chatbot, document AI and workflow automation.",
+          "Work directly with the product team, be guided and empowered to be proactive in your expertise.",
+          "Access premium AI tools like GPT Pro for research and development.",
+          "Professional, friendly working environment, promoting ability and proactive spirit."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "WORKING LOCATION AND TIME",
+        "type": "h2"
+      },
+      {
+        "items": [
+          "Work location: Vinhomes Grand Park, District 9, City. Ho Chi Minh.",
+          "Working hours: Monday – Saturday (from 8:30 to 17:30)."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "LEARN MORE ABOUT LIFE AT WINTERFROST",
+        "type": "h2"
+      },
+      {
+        "text": "Learn more about the work culture at Winterfrost and career development opportunities at Worklife",
+        "type": "p"
+      }
+    ],
+    "extra": [
+      {
+        "text": "If you want to develop your career in a professional environment, where you can directly participate in building software products, Mobile Apps, Websites and AI applications according to new technology trends, then Winterfrost is the right destination. Here, you will work with a young, dynamic, creative team with many opportunities for development and advancement, while creating practical values ​​for businesses and users. Please Join us.",
+        "type": "p"
+      },
+      {
+        "text": "Submit your CV to email: careers@winterfrost.tech",
+        "type": "p"
+      },
+      {
+        "text": "Or Zalo: 097 145 04 54",
+        "type": "p"
+      }
+    ],
+    "sidebar": [
+      "Application deadline: 2026-12-31",
+      "Salary:",
+      "Agreement",
+      "Address:",
+      "Ho Chi Minh",
+      "Rank:",
+      "Intern",
+      "Experience:",
+      "Not required"
+    ],
+    "title": "AI Engineer intern"
+  },
+  {
+    "slug": "chuyen-vien-ai-engineer",
+    "blocks": [
+      {
+        "text": "JOB DESCRIPTION",
+        "type": "h2"
+      },
+      {
+        "items": [
+          "Develop AI components for products: chatbot, RAG, AI document processing, AI workflow and automation.",
+          "Build services/APIs to integrate AI into websites, CRM, internal systems and related platforms.",
+          "Design and implement data pipelines, retrieval, orchestration, evaluation and monitoring for AI systems.",
+          "Participate in designing technical solutions, ensuring system performance, stability, security and scalability.",
+          "Propose optimal implementation directions between prompting, RAG, AI workflow, model routing or other AI solutions depending on the actual problem.",
+          "Integrate AI/LLM models, data processing tools and backend systems into operational products.",
+          "Monitor and improve system quality based on metrics: accuracy, response speed, error rate, cost and user experience.",
+          "Analyze the causes when the AI system does not meet expectations and implement solutions.",
+          "Collaborate with Business, Product, Backend, Frontend, Data and DevOps departments to deploy AI into real environments.",
+          "Write technical documents, describing processing flows, inputs - outputs, system limitations and operating notes."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "CANDIDATE REQUIREMENTS",
+        "type": "h2"
+      },
+      {
+        "items": [
+          "Have at least 2 years of software development experience, including practical experience with AI/ML/LLM/NLP.",
+          "Proficient in Python; Have a solid foundation in backend, API, data processing and system design.",
+          "Implemented at least 1 practical AI/LLM system.",
+          "Practical experience in at least 2 of the following fields:\nLLM / Chatbot / RAG\nAI workflow / Automation\nData Pipeline / Retrieval / Vector database\nEvaluation / Monitoring / Observability\nCloud deployment",
+          "Ability to work independently, proactively and balance thinking between quality - speed - cost - risk - scalability.",
+          "Know how to transform business problems into feasible technical solutions."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "Priority:",
+        "type": "p"
+      },
+      {
+        "items": [
+          "Deploy AI for CRM, customer service chatbot, internal knowledge base, document processing, or automation workflow.",
+          "Experience with FastAPI, Django, Flask or equivalent backend frameworks.",
+          "Experience with vector database, Redis, queue, logging, monitoring.",
+          "Experience deploying on AWS/GCP/Azure.",
+          "Worked in a coordinated Business - Product - Tech environment.",
+          "Have a mindset of optimizing latency, token cost, quality and reliability.",
+          "Write clear, coherent technical documents."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "BENEFITS",
+        "type": "h2"
+      },
+      {
+        "items": [
+          "Income: negotiable according to ability and experience.",
+          "Participate in building core AI CRM and AI products applied directly to customers/businesses.",
+          "Work directly with the product team, proactively within the scope of expertise.",
+          "Access research and development tools like GPT Pro.",
+          "Full social insurance, health insurance, and unemployment insurance; Holiday bonuses, Tet holidays and other internal benefits.",
+          "Friendly, professional working environment, promoting capacity, performance and proactive spirit."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "WORKING LOCATION AND TIME",
+        "type": "h2"
+      },
+      {
+        "items": [
+          "Work location: Vinhomes Grand Park, District 9, City. Ho Chi Minh.",
+          "Working hours: Monday – Saturday (from 8:30 to 17:30)."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "LEARN MORE ABOUT LIFE AT WINTERFROST",
+        "type": "h2"
+      },
+      {
+        "text": "Learn more about the work culture at Winterfrost and career development opportunities at Worklife",
+        "type": "p"
+      }
+    ],
+    "extra": [
+      {
+        "text": "If you want to develop your career in a professional environment, where you can directly participate in building software products, Mobile Apps, Websites and AI applications according to new technology trends, then Winterfrost is the right destination. Here, you will work with a young, dynamic, creative team with many opportunities for development and advancement, while creating practical values ​​for businesses and users. Please Join us.",
+        "type": "p"
+      },
+      {
+        "text": "Submit your CV to email: careers@winterfrost.tech",
+        "type": "p"
+      },
+      {
+        "text": "Or Zalo: 097 145 04 54",
+        "type": "p"
+      }
+    ],
+    "sidebar": [
+      "Application deadline: 2026-12-31",
+      "Salary:",
+      "Agreement",
+      "Address:",
+      "Ho Chi Minh",
+      "Rank:",
+      "Staff",
+      "Experience:",
+      "2 years"
+    ],
+    "title": "AI Engineer Specialist"
+  },
+  {
+    "slug": "thuc-tap-sinh-fullstack-developer",
+    "blocks": [
+      {
+        "text": "JOB DESCRIPTION",
+        "type": "h2"
+      },
+      {
+        "items": [
+          "Learn system architecture and support the development of basic modules for Website CMS and management system.",
+          "Practice cutting HTML/CSS and implementing Frontend interface based on available UI/UX design.",
+          "Get familiar with and support connection and data integration through RESTful API between Frontend and Backend.",
+          "Support finding errors, fixing basic bugs and participating in the test writing process to ensure source code quality.",
+          "Learn standard software development processes, how to write optimal, clean source code that is easy to maintain.",
+          "Research new technology and perform other tasks as assigned by the Leader."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "REQUIREMENTS FOR DETAILS",
+        "type": "h2"
+      },
+      {
+        "items": [
+          "Final year students or recent graduates from University/College majoring in Information Technology, Software Engineering, Computer Science or related fields.",
+          "Master basic knowledge of Web Frontend programming: HTML5, CSS3, JavaScript.",
+          "Have basic knowledge of Backend with PHP or NodeJS.",
+          "Have basic theoretical knowledge of Database Administration (MySQL or SQL Server).",
+          "Have done your own large assignments/personal projects related to Web development. Knowing how to use frameworks like ReactJS and VueJS is a big advantage.",
+          "Ability to search for information and read and understand specialized documents in English.",
+          "Good systematic and logical thinking, proactive in learning, quick to absorb and responsible for assigned tasks.",
+          "Have a personal laptop ready for work."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "BENEFITS",
+        "type": "h2"
+      },
+      {
+        "items": [
+          "Thoroughly trained from making interfaces to handling logic and manipulating databases.",
+          "Be provided with data, confirmation and company stamp to complete the report/graduation thesis.",
+          "Receive a monthly internship allowance commensurate with your qualifications and working time.",
+          "High chance of being evaluated and becoming an official employee after the internship if you achieve good results.",
+          "Work in a young, dynamic technology environment; Listen, respect personal opinions and share frankly for mutual development.",
+          "Participate in internal activities: travel, team building, birthdays, Tet holidays and sports clubs."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "WORKING LOCATION AND TIME",
+        "type": "h2"
+      },
+      {
+        "items": [
+          "Work location: Vinhomes Grand Park, District 9, City. Ho Chi Minh.",
+          "Working hours: Monday – Saturday (from 8:30 to 17:30)."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "LEARN MORE ABOUT LIFE AT WINTERFROST",
+        "type": "h2"
+      },
+      {
+        "text": "Learn more about the work culture at Winterfrost and career development opportunities at Worklife",
+        "type": "p"
+      }
+    ],
+    "extra": [
+      {
+        "text": "If you want to develop your career in a professional environment, where you can directly participate in building software products, Mobile Apps, Websites and AI applications according to new technology trends, then Winterfrost is the right destination. Here, you will work with a young, dynamic, creative team with many opportunities for development and advancement, while creating practical values ​​for businesses and users. Please Join us.",
+        "type": "p"
+      },
+      {
+        "text": "Submit your CV to email: careers@winterfrost.tech",
+        "type": "p"
+      },
+      {
+        "text": "Or Zalo: 097 145 04 54",
+        "type": "p"
+      }
+    ],
+    "sidebar": [
+      "Application deadline: 2026-12-31",
+      "Salary:",
+      "Agreement",
+      "Address:",
+      "Ho Chi Minh",
+      "Rank:",
+      "Staff",
+      "Experience:",
+      "Not required"
+    ],
+    "title": "Fullstack Developer Intern"
+  },
+  {
+    "slug": "content-marketing",
+    "blocks": [
+      {
+        "text": "JOB DESCRIPTION",
+        "type": "h2"
+      },
+      {
+        "items": [
+          "Directly come up with ideas, build content plans and produce multi-channel content according to the general strategy.",
+          "Responsible for writing brand PR articles, in-depth articles with SEO standards, video scripts and advertising content closely following the goals of each Marketing campaign.",
+          "Work closely with the Graphic Design and Video Editor teams to optimize content presentation, ensuring the correct message and brand recognition are conveyed.",
+          "Manage and update content regularly on company and customer Social Media platforms.",
+          "Monitor, analyze and measure the effectiveness of content routes to provide timely optimal solutions.",
+          "Research the market, competitors, update new content trends and proactively apply AI tools to optimize work performance."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "REQUIREMENTS FOR DETAILS",
+        "type": "h2"
+      },
+      {
+        "items": [
+          "Graduated from College/University majoring in Marketing, Journalism, Communications, Public Relations, Literature or related fields.",
+          "Have 1 - 2 years of experience in a Content Marketing or Copywriter position.",
+          "Excellent writing skills, flexible writing style, good ability to orient, analyze and synthesize information.",
+          "Strong understanding of Content SEO, social media content formats and platform distribution algorithms.",
+          "Have good aesthetic thinking. Knowing how to use basic image/video editing tools is an advantage.",
+          "Quickly adapt to change, ready to learn new knowledge about technology.",
+          "Proactive, hardworking, able to withstand work pressure and have a high sense of responsibility.",
+          "Have a personal laptop ready for work."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "BENEFITS",
+        "type": "h2"
+      },
+      {
+        "items": [
+          "Salary negotiable commensurate with qualifications + 13th month salary.",
+          "KPI/campaign performance bonus, Tet bonus and periodic salary increase approval according to company policy.",
+          "Work in a young, creative, dynamic and open technology environment.",
+          "Experience with a variety of real projects; Have the opportunity to develop into management positions.",
+          "Fully participate in social insurance, health insurance, and unemployment insurance according to regulations. Participate in annual company trips, team building, birthday parties and intramural sports clubs."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "WORKING LOCATION AND TIME",
+        "type": "h2"
+      },
+      {
+        "items": [
+          "Work location: Vinhomes Grand Park, District 9, City. Ho Chi Minh.",
+          "Working hours: Monday – Saturday (from 8:30 to 17:30)."
+        ],
+        "type": "list"
+      },
+      {
+        "text": "LEARN MORE ABOUT LIFE AT WINTERFROST",
+        "type": "h2"
+      },
+      {
+        "text": "Learn more about the work culture at Winterfrost and career development opportunities at Worklife",
+        "type": "p"
+      }
+    ],
+    "extra": [
+      {
+        "text": "If you want to develop your career in a professional environment, where you can directly participate in building software products, Mobile Apps, Websites and AI applications according to new technology trends, then Winterfrost is the right destination. Here, you will work with a young, dynamic, creative team with many opportunities for development and advancement, while creating practical values ​​for businesses and users. Please Join us.",
+        "type": "p"
+      },
+      {
+        "text": "Submit your CV to email: careers@winterfrost.tech",
+        "type": "p"
+      },
+      {
+        "text": "Or Zalo: 097 145 04 54",
+        "type": "p"
+      }
+    ],
+    "sidebar": [
+      "Application deadline: 2026-12-31",
+      "Salary:",
+      "Agreement",
+      "Address:",
+      "Ho Chi Minh",
+      "Rank:",
+      "Staff",
+      "Experience:",
+      "2 Years"
+    ],
+    "title": "Content Marketing"
+  }
+]

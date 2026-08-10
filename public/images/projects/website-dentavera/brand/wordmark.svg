@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="256" viewBox="0 0 1000 256">
+    <defs>
+      <linearGradient id="wordmarkGradient" x1="20" y1="20" x2="236" y2="236" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#16A6A1"/>
+        <stop offset="1" stop-color="#173B67"/>
+      </linearGradient>
+    </defs>
+    <g>
+    <defs>
+      <linearGradient id="wordmarkGradient" x1="20" y1="20" x2="236" y2="236" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#16A6A1"/>
+        <stop offset="1" stop-color="#173B67"/>
+      </linearGradient>
+    </defs>
+
+    <path d="M128 31c-25-19-64-14-82 17-18 32-4 69 13 98 16 28 18 77 43 77 18 0 14-45 26-45s8 45 26 45c25 0 27-49 43-77 17-29 31-66 13-98-18-31-57-36-82-17Z" fill="url(#wordmarkGradient)"/>
+    <path d="m161 99 43-25 43 25v50l-43 25-43-25V99Z" fill="none" stroke="#fff" stroke-width="8" opacity=".92"/>
+    <path d="m161 99 43 25 43-25M204 124v50" fill="none" stroke="#fff" stroke-width="7" opacity=".92"/>
+
+  </g>
+    <text x="294" y="148" fill="#16A6A1" font-family="Manrope, Arial, Helvetica, sans-serif" font-size="76" font-weight="800" letter-spacing="-2">Dentavera</text>
+    <text x="299" y="192" fill="#667085" font-family="Manrope, Arial, Helvetica, sans-serif" font-size="23" font-weight="650" letter-spacing="3.2">DIGITAL EXPERIENCE</text>
+  </svg>

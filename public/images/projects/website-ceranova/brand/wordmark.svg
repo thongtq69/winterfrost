@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="256" viewBox="0 0 1000 256">
+    <defs>
+      <linearGradient id="wordmarkGradient" x1="20" y1="20" x2="236" y2="236" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#B56549"/>
+        <stop offset="1" stop-color="#F2E5D5"/>
+      </linearGradient>
+    </defs>
+    <g>
+    <defs>
+      <linearGradient id="wordmarkGradient" x1="20" y1="20" x2="236" y2="236" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#B56549"/>
+        <stop offset="1" stop-color="#F2E5D5"/>
+      </linearGradient>
+    </defs>
+
+    <path d="M207 76c-20-28-48-42-82-42-53 0-93 40-93 94s40 94 93 94c35 0 65-15 84-46l-34-25c-12 18-28 28-49 28-28 0-49-22-49-51s21-51 49-51c20 0 36 9 48 26l33-27Z" fill="url(#wordmarkGradient)"/>
+    <path d="M92 103c23-13 53-14 82-1M85 132c29-12 64-11 96 2M95 161c24-8 51-7 75 2" fill="none" stroke="#fff" stroke-width="9" stroke-linecap="round" opacity=".7"/>
+
+  </g>
+    <text x="294" y="148" fill="#B56549" font-family="Manrope, Arial, Helvetica, sans-serif" font-size="76" font-weight="800" letter-spacing="-2">Ceranova</text>
+    <text x="299" y="192" fill="#667085" font-family="Manrope, Arial, Helvetica, sans-serif" font-size="23" font-weight="650" letter-spacing="3.2">DIGITAL EXPERIENCE</text>
+  </svg>

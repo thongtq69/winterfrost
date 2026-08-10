@@ -1,0 +1,461 @@
+{
+  "slug": "phat-trien-phan-mem-mvp",
+  "metaTitle": "Dịch vụ phát triển phần mềm MVP - Winterfrost",
+  "hero": {
+    "titleDark": "Phần mềm MVP",
+    "titleLight": "Phát triển",
+    "lightFirst": true,
+    "description": "Rút ngắn thời gian đưa sản phẩm ra thị trường để nhanh chóng tiếp cận khách hàng thực tế. Chúng tôi hỗ trợ bạn trong việc lựa chọn và hiện thực hóa những tính năng quan trọng nhất, giúp bạn kiểm tra ý tưởng kinh doanh và xây dựng nền tảng kỹ thuật vững vàng với khoản đầu tư hợp lý.",
+    "bgImage": "",
+    "dashboardImage": "",
+    "carousel": {
+      "arcText": "Tối ưu chi phí ✦ Dễ dàng mở rộng ✦ Ra mắt nhanh chóng ✦",
+      "images": [
+        "/images/migrated/homenest-software/wp-content/uploads/2026/03/Analytics-Dashboard.jpg",
+        "/images/migrated/homenest-software/wp-content/uploads/2026/03/Custom-MVP-Development-Service.jpg",
+        "/images/migrated/homenest-software/wp-content/uploads/2026/03/Custom-MVP-Solution.jpg"
+      ]
+    }
+  },
+  "features": {
+    "headlineLight": "Đòn bẩy chiến lược để",
+    "headlineDark": "bứt phá thị trường",
+    "description": "Chuyển hóa ý tưởng thành sản phẩm thực tế với quy trình tinh gọn. MVP không chỉ giúp bạn ra mắt thần tốc mà còn là bước chuẩn bị hoàn hảo về dữ liệu để sẵn sàng cho các đột phá bằng công nghệ AI sau này.",
+    "ctaLabel": "Thảo luận về dự án của bạn",
+    "ctaHref": "/lien-he",
+    "items": [
+      {
+        "title": "Tối ưu thời gian ra mắt",
+        "desc": "Tập trung hoàn thiện nhóm tính năng cốt lõi để đưa sản phẩm đến tay người dùng chỉ trong 4-8 tuần, chiếm lĩnh cơ hội thị trường nhanh nhất.",
+        "image": "/images/migrated/homenest-software/wp-content/uploads/2026/03/MVP-Development-Consulting.jpg"
+      },
+      {
+        "title": "Xác thực ý tưởng bằng dữ liệu thực",
+        "desc": "Thay vì giả định, bạn nhận được phản hồi trực tiếp từ khách hàng để điều chỉnh mô hình kinh doanh dựa trên hành vi sử dụng thực tế.",
+        "image": "/images/migrated/homenest-software/wp-content/uploads/2026/03/Custom-MVP-Software.jpg"
+      },
+      {
+        "title": "Tiết kiệm ngân sách đầu tư",
+        "desc": "Giảm thiểu rủi ro tài chính bằng cách loại bỏ các tính năng chưa cần thiết, tập trung nguồn vốn vào những giá trị mang lại hiệu quả cao nhất.",
+        "image": "/images/migrated/homenest-software/wp-content/uploads/2026/03/MVP-App-Development.jpg"
+      },
+      {
+        "title": "Nền tảng sẵn sàng cho AI và dữ liệu",
+        "desc": "Xây dựng cấu trúc dữ liệu chuẩn hóa ngay từ đầu, tạo tiền đề để tích hợp các tính năng thông minh và AI trong giai đoạn mở rộng.",
+        "image": "/images/migrated/homenest-software/wp-content/uploads/2026/03/MVP-Web-App-Development.jpg"
+      },
+      {
+        "title": "Linh hoạt thay đổi quy mô",
+        "desc": "Mã nguồn được thiết kế theo dạng module, giúp dễ dàng nâng cấp, thêm mới tính năng hoặc thay đổi định hướng mà không phải xây dựng lại từ đầu.",
+        "image": "/images/migrated/homenest-software/wp-content/uploads/2026/03/Testing-Quality-Assurance.jpg"
+      }
+    ]
+  },
+  "howWeWork": {
+    "label": "Quy trình kiến tạo phần mềm MVP của Winterfrost",
+    "ctaLabel": "Liên hệ tư vấn ngay",
+    "ctaHref": "/lien-he",
+    "steps": [
+      {
+        "num": "01",
+        "badge": "Phân tích",
+        "title": "Xác định tính năng thiết yếu",
+        "desc": "Khảo sát yêu cầu nghiệp vụ và lựa chọn các chức năng cốt lõi bắt buộc phải có để hệ thống vận hành. Việc này giúp tập trung nguồn lực vào mục tiêu chính của sản phẩm và kiểm soát ngân sách đầu tư ban đầu."
+      },
+      {
+        "num": "02",
+        "badge": "Giải pháp",
+        "title": "Thiết kế luồng nghiệp vụ và giao diện",
+        "desc": "Xây dựng cấu trúc dữ liệu, sơ đồ luồng người dùng và giao diện. Tập trung tối ưu hóa các thao tác thực hiện chức năng chính để người dùng có thể sử dụng hệ thống ngay mà không cần đào tạo phức tạp."
+      },
+      {
+        "num": "03",
+        "badge": "Thực thi",
+        "title": "Lập trình và tích hợp hệ thống",
+        "desc": "Triển khai viết mã nguồn theo mô hình Agile, chia nhỏ giai đoạn để bàn giao từng phần. Thực hiện tích hợp các module AI hoặc các cổng kết nối dữ liệu cần thiết để xử lý dữ liệu và tính toán theo yêu cầu kỹ thuật."
+      },
+      {
+        "num": "04",
+        "badge": "Kiểm soát",
+        "title": "Kiểm tra và phát hành sản phẩm",
+        "desc": "Thực hiện kiểm thử phần mềm trên dữ liệu thực tế để loại bỏ lỗi vận hành. Hoàn thiện các thủ tục kỹ thuật để đưa sản phẩm lên môi trường Internet hoặc các kho ứng dụng App Store và Google Play."
+      },
+      {
+        "num": "05",
+        "badge": "Tối ưu",
+        "title": "Thu thập số liệu và lập kế hoạch mở rộng",
+        "desc": "Cài đặt công cụ đo lường hiệu suất và theo dõi hành vi người dùng. Dựa trên các chỉ số kỹ thuật và phản hồi thực tế, chúng tôi tư vấn các hạng mục cần tinh chỉnh hoặc bổ sung tính năng cho phiên bản nâng cấp tiếp theo."
+      }
+    ]
+  },
+  "benefits": {
+    "label": "Tại sao nên bắt đầu bản MVP cùng Winterfrost?",
+    "headlineLight": "Đưa ý tưởng ra thị trường nhanh nhất",
+    "headlineDark": "với chi phí tối ưu",
+    "items": [
+      {
+        "num": "1",
+        "title": "Ra mắt thị trường thần tốc",
+        "desc": "Hoàn thiện tính năng cốt lõi trong thời gian ngắn nhất, giúp doanh nghiệp sớm tiếp nhận phản hồi và chiếm lĩnh cơ hội thị trường."
+      },
+      {
+        "num": "2",
+        "title": "Tư vấn tính năng thực dụng",
+        "desc": "Phân loại và tập trung 100% nguồn lực vào các giá trị nghiệp vụ trọng tâm, loại bỏ lãng phí vào những chức năng chưa cần thiết."
+      },
+      {
+        "num": "3",
+        "title": "Kiến trúc dễ mở rộng",
+        "desc": "Phát triển trên nền tảng công nghệ linh hoạt, cho phép nâng cấp tính năng và mở rộng quy mô người dùng mà không cần xây dựng lại từ đầu."
+      },
+      {
+        "num": "4",
+        "title": "Tối ưu nguồn vốn đầu tư",
+        "desc": "Tập trung vào phiên bản tinh gọn để giữ mức chi phí ban đầu thấp nhất, dành nguồn lực cho các hoạt động marketing và tìm kiếm khách hàng của doanh nghiệp."
+      },
+      {
+        "num": "5",
+        "title": "Sở hữu mã nguồn 100%",
+        "desc": "Bàn giao toàn quyền sở hữu trí tuệ và mã nguồn ngay từ phiên bản đầu tiên. Doanh nghiệp hoàn toàn chủ động trong vận hành và phát triển."
+      },
+      {
+        "num": "6",
+        "title": "Quy trình Agile trực tiếp",
+        "desc": "Loại bỏ thủ tục trung gian, làm việc trực tiếp với đội ngũ kỹ thuật để đảm bảo dự án đi đúng hướng và hoàn thành đúng cam kết."
+      },
+      {
+        "num": "7",
+        "title": "Đo lường hành vi người dùng",
+        "desc": "Tích hợp công cụ phân tích dữ liệu thực tế để xác định chính xác nhu cầu người dùng, làm cơ sở cho các quyết định nâng cấp sản phẩm."
+      },
+      {
+        "num": "8",
+        "title": "Cam kết tính ổn định",
+        "desc": "Kiểm thử nghiêm ngặt để đảm bảo sản phẩm vận hành trơn tru, không lỗi gián đoạn ngay cả với những nhóm người dùng thực tế đầu tiên."
+      },
+      {
+        "num": "9",
+        "title": "Tư vấn lộ trình tăng trưởng",
+        "desc": "Không chỉ bàn giao, Winterfrost tiếp tục đồng hành hỗ trợ kỹ thuật và tư vấn chiến lược nâng cấp dựa trên sự phát triển thực tế của dự án."
+      }
+    ]
+  },
+  "ctaBanner": {
+    "badge": "Liên hệ ngay!",
+    "headline": "Phát triển sản phẩm MVP để nhanh chóng ra mắt thị trường",
+    "description": "Winterfrost giúp doanh nghiệp xây dựng phiên bản phần mềm cốt lõi với chi phí tối ưu nhất. Chúng tôi tập trung vào những tính năng quan trọng nhất để doanh nghiệp có thể thử nghiệm ý tưởng và nhận phản hồi thực tế từ người dùng ngay lập tức.",
+    "ctaLabel": "Bắt đầu dự án MVP",
+    "ctaHref": "/lien-he",
+    "image": "/images/people/cta/winterfrost/chuyen-vien-nu.png"
+  },
+  "counter": {
+    "badgeText": "Thành tựu của chúng tôi",
+    "items": [
+      {
+        "index": "/01",
+        "value": "10+",
+        "desc": "Năm kinh nghiệm"
+      },
+      {
+        "index": "/02",
+        "value": "250+",
+        "desc": "Khách hàng"
+      },
+      {
+        "index": "/03",
+        "value": "15+",
+        "desc": "Quốc gia phục vụ"
+      },
+      {
+        "index": "/04",
+        "value": "98%",
+        "desc": "Sự hài lòng của khách hàng"
+      }
+    ]
+  },
+  "industries": {
+    "label": "Lĩnh vực phục vụ",
+    "headlineLight": "Các lĩnh vực Winterfrost",
+    "headlineDark": "tập trung triển khai bản MVP",
+    "items": [
+      {
+        "slug": "thuong-mai-dien-tu",
+        "title": "Thương mại điện tử",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/eComerce-Industries-Icon.png"
+      },
+      {
+        "slug": "cong-nghe-tai-chinh",
+        "title": "Công nghệ tài chính",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Fintech-Industries-Icon.png"
+      },
+      {
+        "slug": "y-te",
+        "title": "Y tế",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Healthcare-Industries-Icon.png"
+      },
+      {
+        "slug": "tai-chinh-doanh-nghiep",
+        "title": "Tài chính doanh nghiệp",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Expert-Financial-Industries-Icon.png"
+      },
+      {
+        "slug": "phan-mem-doanh-nghiep",
+        "title": "Phần mềm doanh nghiệp",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Business-Industries-Icon.png"
+      },
+      {
+        "slug": "ban-le",
+        "title": "Bán lẻ",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Retail-Industries-Icon.png"
+      },
+      {
+        "slug": "bat-dong-san",
+        "title": "Bất động sản",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Real-Estate-Industries-Icon.png"
+      },
+      {
+        "slug": "van-tai-va-logistics",
+        "title": "Vận tải và Logistics",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Logistics-Industries-Icon.png"
+      },
+      {
+        "slug": "giao-duc",
+        "title": "Giáo dục",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Education-Industries-Icon.png"
+      }
+    ]
+  },
+  "price": {
+    "label": "",
+    "headlineLight": "Chi phí phát triển",
+    "headlineDark": "Phần mềm MVP",
+    "description": "Winterfrost báo giá dựa trên tính năng và lộ trình cụ thể. Bạn nắm rõ kết quả, thời gian và ngân sách ngay từ đầu. Cam kết không phí theo giờ, không phát sinh ngoài phạm vi thống nhất.",
+    "packages": [
+      {
+        "name": "Gói Cơ Bản",
+        "price": "60.000.000",
+        "currency": "VNĐ",
+        "period": "/ dự án",
+        "description": "Dành cho các dự án khởi nghiệp giai đoạn đầu cần kiểm chứng ý tưởng nhanh chóng với chi phí tối ưu.",
+        "features": [
+          "Lập trình các tính năng cốt lõi của sản phẩm",
+          "Thiết kế giao diện người dùng UX/UI cơ bản",
+          "Xây dựng hệ thống đăng nhập và phân quyền người dùng",
+          "Tích hợp các cổng kết nối API tiêu chuẩn",
+          "Thiết lập hạ tầng máy chủ đám mây cơ bản"
+        ],
+        "ctaLabel": "Bắt đầu",
+        "ctaHref": "/lien-he",
+        "highlight": false,
+        "labelText": "Gói Cơ Bản"
+      },
+      {
+        "name": "Giải pháp tùy chỉnh",
+        "price": "Linh hoạt theo yêu cầu thực tế",
+        "currency": "",
+        "period": "",
+        "description": "Phù hợp với các tổ chức cần một nền tảng phần mềm được thiết kế riêng biệt và có độ phức tạp cao hơn.",
+        "features": [
+          "Xử lý các luồng nghiệp vụ và logic phần mềm phức tạp",
+          "Thiết kế hệ thống cơ sở dữ liệu và backend riêng",
+          "Tích hợp hệ thống thanh toán và các API nâng cao",
+          "Đồng bộ hóa dữ liệu theo thời gian thực",
+          "Xây dựng bảng điều khiển và công cụ phân tích dữ liệu",
+          "Kiểm tra chất lượng và tuân thủ các tiêu chuẩn bảo mật",
+          "Hỗ trợ kỹ thuật trực tiếp sau khi ra mắt sản phẩm"
+        ],
+        "ctaLabel": "Bắt đầu",
+        "ctaHref": "/lien-he",
+        "highlight": true,
+        "labelText": "Gói Chuyên Nghiệp"
+      },
+      {
+        "name": "Gói Nâng Cao",
+        "price": "120.000.000",
+        "currency": "VNĐ",
+        "period": "/ dự án",
+        "description": "Giải pháp MVP quy mô lớn, có khả năng mở rộng liên tục và tích hợp sâu vào môi trường vận hành của doanh nghiệp.",
+        "features": [
+          "Kiến trúc Microservices giúp hệ thống dễ dàng mở rộng",
+          "Tích hợp các mô hình AI/ML theo đặc thù của dữ liệu riêng",
+          "Bảo mật cấp độ doanh nghiệp và hệ thống đăng nhập một lần",
+          "Thiết lập vận hành liên tục và tự động hóa cập nhật",
+          "Đội ngũ DevOps riêng biệt và cam kết chất lượng dịch vụ",
+          "Kết nối và đồng bộ dữ liệu với các hệ thống phần mềm cũ của doanh nghiệp"
+        ],
+        "ctaLabel": "Bắt đầu",
+        "ctaHref": "/lien-he",
+        "highlight": false,
+        "labelText": "Gói Nâng Cao"
+      }
+    ]
+  },
+  "techStack": {
+    "headlineLight": "Công nghệ",
+    "headlineDark": "phát triển phần mềm MVP",
+    "filters": [
+      "Tất cả",
+      "Giao diện",
+      "Hệ thống",
+      "Cơ sở dữ liệu",
+      "Vận hành",
+      "Quản lý"
+    ],
+    "items": [
+      {
+        "name": "React / Next.js",
+        "category": ""
+      },
+      {
+        "name": "Angular",
+        "category": ""
+      },
+      {
+        "name": "Vue.js",
+        "category": ""
+      },
+      {
+        "name": "Figma",
+        "category": ""
+      },
+      {
+        "name": "Adobe XD",
+        "category": ""
+      },
+      {
+        "name": "Sketch",
+        "category": ""
+      },
+      {
+        "name": "Node.js",
+        "category": ""
+      },
+      {
+        "name": "Laravel",
+        "category": ""
+      },
+      {
+        "name": "WordPress / PHP",
+        "category": ""
+      },
+      {
+        "name": ".NET / ASP.NET",
+        "category": ""
+      },
+      {
+        "name": "MySQL",
+        "category": ""
+      },
+      {
+        "name": "PostgreSQL",
+        "category": ""
+      },
+      {
+        "name": "MongoDB",
+        "category": ""
+      },
+      {
+        "name": "Redis",
+        "category": ""
+      },
+      {
+        "name": "Docker",
+        "category": ""
+      },
+      {
+        "name": "GitHub",
+        "category": ""
+      },
+      {
+        "name": "GitLab",
+        "category": ""
+      },
+      {
+        "name": "Bitbucket",
+        "category": ""
+      },
+      {
+        "name": "GitHub Actions",
+        "category": ""
+      },
+      {
+        "name": "CI/CD",
+        "category": ""
+      },
+      {
+        "name": "AWS",
+        "category": ""
+      },
+      {
+        "name": "Deploy Server",
+        "category": ""
+      },
+      {
+        "name": "Jira",
+        "category": ""
+      }
+    ]
+  },
+  "comprehensiveServices": {
+    "headlineLight": "Phát triển sản phẩm từ bản thử nghiệm",
+    "headlineDark": "lên phiên bản hoàn chỉnh",
+    "items": [
+      {
+        "slug": "phat-trien-san-pham-phan-mem",
+        "title": "Thiết kế App",
+        "desc": "Đưa sản phẩm của bạn lên môi trường di động với trải nghiệm mượt mà trên cả IOS và Android. Chúng tôi giúp bạn mở rộng khả năng tiếp cận khách hàng và tối ưu hóa tính tiện dụng thông qua giao diện trực quan cùng các tính năng thông minh, hiện đại.",
+        "image": "/images/migrated/homenest-software/wp-content/uploads/2026/04/7lo4FkmOpuHbbtGSrBrhRoC1Alk.avif",
+        "href": "/dich-vu/phat-trien-san-pham-phan-mem"
+      },
+      {
+        "slug": "phat-trien-phan-mem-tuy-chinh",
+        "title": "Phát triển AI",
+        "desc": "Tích hợp sức mạnh của trí tuệ nhân tạo để tạo ra lợi thế cạnh tranh đột phá ngay từ phiên bản đầu tiên. Chúng tôi giúp bạn hiện thực hóa các tính năng thông minh như xử lý dữ liệu tự động, trợ lý ảo hoặc phân tích dự báo, giúp sản phẩm MVP trở nên vượt trội và thu hút người dùng nhanh chóng.",
+        "image": "/images/migrated/homenest-software/wp-content/uploads/2026/04/M7XkcGNNmF9nUkjJM8FXYMH8BA.avif",
+        "href": "/dich-vu/phat-trien-phan-mem-tuy-chinh"
+      },
+      {
+        "slug": "thiet-ke-website",
+        "title": "Thiết kế website",
+        "desc": "Tối ưu hiệu suất và trải nghiệm người dùng. Chuyển đổi bản web thử nghiệm thành một nền tảng web hoàn chỉnh, có khả năng chịu tải cao. Chúng tôi tinh chỉnh lại mã nguồn, tối ưu hóa tốc độ phản hồi và hoàn thiện giao diện để phục vụ tệp khách hàng đang tăng trưởng nhanh của doanh nghiệp.",
+        "image": "/images/migrated/homenest-software/wp-content/uploads/2026/04/iKGjaDdf1TQeFAPs8cLj6TM34Q.avif",
+        "href": "/dich-vu/thiet-ke-website"
+      }
+    ]
+  },
+  "faq": {
+    "label": "Các câu hỏi thường gặp",
+    "headlineParts": [
+      "Giải Đáp",
+      "Mọi",
+      "Thắc Mắc"
+    ],
+    "description": "Tổng hợp các câu hỏi về thời gian thực hiện, cách tối ưu ngân sách và lộ trình chuyển đổi từ bản thử nghiệm sang sản phẩm hoàn chỉnh.",
+    "items": [
+      {
+        "q": "Mất bao lâu để một bản MVP có thể ra mắt thực tế?",
+        "a": "Thời gian trung bình để hoàn thành một bản MVP tại Winterfrost thường kéo dài từ 4 đến 12 tuần. Thời gian cụ thể phụ thuộc vào số lượng tính năng cốt lõi cần lập trình. Chúng tôi ưu tiên ra mắt nhanh để bạn sớm có dữ liệu thực tế từ người dùng."
+      },
+      {
+        "q": "Chi phí nâng cấp từ MVP lên sản phẩm hoàn chỉnh được tính như thế nào?",
+        "a": "Sau giai đoạn thử nghiệm, dựa trên phản hồi của người dùng, chúng tôi sẽ cùng bạn lập danh sách các tính năng cần ưu tiên thêm mới hoặc chỉnh sửa. Chi phí sẽ được báo giá theo từng giai đoạn phát triển hoặc theo phạm vi công việc mới, giúp bạn chủ động về dòng tiền."
+      },
+      {
+        "q": "Nếu sau khi chạy thử, tôi muốn thay đổi hoàn toàn tính năng thì sao?",
+        "a": "Đây là mục đích chính của việc làm MVP. Vì sử dụng các công nghệ linh hoạt và cấu trúc mã nguồn sạch ngay từ đầu, Winterfrost có thể điều chỉnh logic phần mềm hoặc thay đổi luồng nghiệp vụ nhanh chóng mà không cần phải phá bỏ toàn bộ hệ thống cũ."
+      },
+      {
+        "q": "Winterfrost có nhận phát triển tiếp các bản MVP do đơn vị khác thực hiện không?",
+        "a": "Có. Đội ngũ kỹ thuật của chúng tôi sẽ tiến hành kiểm tra chất lượng mã nguồn và kiến trúc hiện tại của bạn. Nếu mã nguồn đảm bảo tiêu chuẩn, chúng tôi sẽ tiếp quản và phát triển thêm tính năng. Nếu mã nguồn quá cũ hoặc lỗi thời, chúng tôi sẽ tư vấn phương án tối ưu nhất để tiết kiệm chi phí dài hạn."
+      },
+      {
+        "q": "Làm sao để đảm bảo hệ thống không bị treo khi lượng người dùng tăng đột ngột?",
+        "a": "Ngay từ bản MVP, chúng tôi đã thiết lập hạ tầng trên các nền tảng điện toán đám mây. Khi lượng truy cập tăng cao, hệ thống có thể tự động mở rộng tài nguyên máy chủ để đảm bảo phần mềm luôn vận hành ổn định và không bị gián đoạn."
+      },
+      {
+        "q": "Tôi nhận được những gì khi dự án kết thúc?",
+        "a": "Bạn nhận được toàn bộ quyền sở hữu 100% mã nguồn, tài liệu hướng dẫn kỹ thuật, sơ đồ kiến trúc hệ thống và các tài khoản quản trị hạ tầng. Chúng tôi bàn giao đầy đủ để bạn có thể tự vận hành hoặc chuyển giao cho đội ngũ nội bộ bất cứ lúc nào."
+      }
+    ]
+  }
+}

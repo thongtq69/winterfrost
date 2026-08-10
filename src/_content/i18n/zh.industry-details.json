@@ -1,0 +1,4650 @@
+{
+  "ban-le": {
+    "slug": "ban-le",
+    "title": "零售",
+    "hero": {
+      "title": "零售软件开发服务",
+      "description": "Winterfrost提供深入的零售管理系统编程服务，重点是多渠道数据整合和运营流程自动化。我们构建软件基础设施，帮助企业在集中平台上准确控制货物流、现金流和客户数据。",
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Dich-vu-phat-trien-phan-mem-ban-le.jpg",
+      "imageAlt": "零售软件开发服务",
+      "primaryLabel": "直接联系",
+      "secondaryLabel": "求教信息"
+    },
+    "overview": {
+      "label": "概述",
+      "title": "来自Winterfrost的挑战与技术解决方案",
+      "paragraphs": [
+        "零售企业经常面临库存数据在实体店和电子商务平台之间分散的情况，导致数据差异和订单处理延迟。Winterfrost 通过设计实时同步软件架构，直接集成仓库、会计和运输系统之间的 API，以优化运营性能，解决了这一问题。"
+      ],
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Thach-thuc-va-giai-phap-ky-thuat-tu-HomeNest-Viet-Nam.jpg",
+      "imageAlt": "来自Winterfrost的挑战与技术解决方案"
+    },
+    "counters": [
+      {
+        "index": "/01",
+        "value": "10+",
+        "label": "多年经验"
+      },
+      {
+        "index": "/02",
+        "value": "250+",
+        "label": "客户"
+      },
+      {
+        "index": "/03",
+        "value": "15+",
+        "label": "服务国家/地区"
+      },
+      {
+        "index": "/04",
+        "value": "98%",
+        "label": "客户满意度"
+      }
+    ],
+    "values": {
+      "title": "实施零售技术系统的实际益处",
+      "intro": "专业零售软件帮助企业消除人工操作，提高管理准确性。",
+      "items": [
+        {
+          "title": "仓库管理自动化",
+          "description": "尽量减少进出口和库存中的人为错误。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "多渠道库存同步",
+          "description": "网站、应用和实体销售点的即时产品计数更新。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "加快订单处理速度",
+          "description": "通过自动化流程缩短从客户下单到发货的时间。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "准确化财务报表",
+          "description": "实时提取零偏见的收入、利润和费用数据。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "优化人员成本",
+          "description": "通过业务流程自动化模块，减少运营人员数量。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "性能提升",
+          "description": "利用行为数据实施准确的忠诚度计划。",
+          "image": "",
+          "imageAlt": ""
+        }
+      ],
+      "cta": "立即预约咨询！"
+    },
+    "why": {
+      "label": "为什么选择我们？",
+      "title": "选择Winterfrost作为技术合作伙伴的理由",
+      "items": [
+        {
+          "number": "1",
+          "title": "自定义编程能力",
+          "description": "基于每个企业的实际业务流程构建功能。"
+        },
+        {
+          "number": "2",
+          "title": "开放系统架构",
+          "description": "允许轻松集成额外模块或第三方，如运输、API支付。"
+        },
+        {
+          "number": "3",
+          "title": "标准数据安全",
+          "description": "采用严格的加密和去中心化协议来保护企业信息。"
+        },
+        {
+          "number": "4",
+          "title": "可扩展性",
+          "description": "该系统具备高负载能力，随时准备在销售点或交通激增时扩展。"
+        },
+        {
+          "number": "5",
+          "title": "严格的测试流程",
+          "description": "确保软件稳定运行，在零售高峰期不出现技术错误。"
+        },
+        {
+          "number": "6",
+          "title": "现场技术支持",
+          "description": "工程师团队能够在最短时间内响应并处理运营问题。"
+        }
+      ]
+    },
+    "cta": {
+      "label": "立即联系！",
+      "title": "专属AI系统引领数字时代",
+      "description": "不要仅仅停留在常规自动化上。加入Winterfrost，探索数据的力量，构建独特的AI模型，帮助您的企业在市场上拥有绝对的竞争优势。",
+      "buttonLabel": "立即制定您的 AI 路线图",
+      "image": "/images/people/cta/winterfrost/chuyen-vien-tu-van-viet-nam.png",
+      "imageAlt": "专家顾问"
+    },
+    "cases": {
+      "title": "Case Studies",
+      "links": [
+        {
+          "href": "https://winterfrost.tech/case-studies/website-zenovia-retail",
+          "text": "零售\n供应链\n网站设计\nZenovia 零售网站\n查看项目"
+        },
+        {
+          "href": "https://winterfrost.tech/case-studies/website-veloura-nails",
+          "text": "零售\n网站设计\n网站：Veloura Nails\n查看项目"
+        },
+        {
+          "href": "https://winterfrost.tech/case-studies/website-mocvan-tea",
+          "text": "零售\n电子商务\n网站设计\nMocvan茶叶网站\n查看项目"
+        }
+      ],
+      "images": [
+        {
+          "alt": "Veloura 钉子家",
+          "src": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/05/Trang-chu-Destiny-Nail-Bar.jpg"
+        },
+        {
+          "alt": "Mocvan 茶叶接口——案例研究",
+          "src": "/images/projects/website-mocvan-tea/01-anh-bia-du-an.webp?v=wf-projects-pro-20260726"
+        }
+      ]
+    },
+    "services": {
+      "title": "零售核心服务",
+      "intro": "节目内容聚焦于供应链和销售的全面数字化。",
+      "items": [
+        {
+          "title": "电子商务网站设计",
+          "description": "打造高性能销售网站，优化技术转化率。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Thiet-ke-website-E-commerce-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "电子商务网站设计 - Winterfrost"
+        },
+        {
+          "title": "移动应用购物开发",
+          "description": "在iOS和Android上编程应用，支持推送通知和一键支付。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phat-trien-Mobile-App-mua-sam.jpg",
+          "imageAlt": "移动应用购物开发"
+        },
+        {
+          "title": "POS 系统编程",
+          "description": "构建了销售点管理软件，集成了收据打印机硬件和条码扫描器。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Lap-trinh-he-thong-POS.jpg",
+          "imageAlt": "POS 系统编程"
+        },
+        {
+          "title": "建筑仓库管理软件",
+          "description": "数字化仓储流程，定位货物，管理运输。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Xay-dung-phan-mem-quan-ly-kho.jpg",
+          "imageAlt": "建筑仓库管理软件"
+        },
+        {
+          "title": "零售CRM系统",
+          "description": "开发管理客户数据、分类受众群体和购买历史的工具。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/He-thong-CRM-ban-le.jpg",
+          "imageAlt": "零售CRM系统"
+        },
+        {
+          "title": "人工智能在零售中的应用",
+          "description": "编程算法预测进口需求并个性化产品推荐。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Ung-dung-AI-trong-ban-le.jpg",
+          "imageAlt": "人工智能在零售中的应用"
+        }
+      ],
+      "cta": "探索所有服务"
+    },
+    "process": {
+      "label": "项目实施流程？",
+      "items": [
+        {
+          "number": "01",
+          "tag": "分析",
+          "title": "基础设施调查与技术需求的建立",
+          "description": "工程团队会评估遗留系统的当前状态（如有），确定功能性和非功能性需求，如负载容量、安全性和系统延迟。"
+        },
+        {
+          "number": "02",
+          "tag": "设计",
+          "title": "构建系统与数据库架构",
+          "description": "设计关系实体图、后端架构规范和计划数据流，以确保模块间的信息完整性。"
+        },
+        {
+          "number": "03",
+          "tag": "编程",
+          "title": "按照敏捷/Scrum 模型执行源代码",
+          "description": "分阶段实施源代码编写，应用清洁代码标准和源代码审查流程，从构建阶段起就消除技术漏洞。"
+        },
+        {
+          "number": "04",
+          "tag": "测试",
+          "title": "质量控制与性能测试",
+          "description": "进行集成测试以确保模块运行一致。进行负载测试和压力测试，以确定系统在真实交易场景中的负载极限。"
+        },
+        {
+          "number": "05",
+          "tag": "部署",
+          "title": "将系统释放到实际操作环境中",
+          "description": "通过蓝绿部署或金丝雀部署场景将系统安装到云或物理服务器基础设施，以消除停机时间并降低运营风险。"
+        },
+        {
+          "number": "06",
+          "tag": "操作",
+          "title": "定期性能监控与优化",
+          "description": "建立监控和日志工具，全天候监控系统健康状况。基于真实运营数据执行安全补丁更新、优化数据库查询和功能升级。"
+        }
+      ],
+      "cta": "开始构建您的产品！"
+    },
+    "faq": {
+      "label": "常见问题",
+      "title": "所有问题的答案",
+      "intro": "查找关于我们行业专用软件开发服务常见问题的答案。",
+      "items": [
+        {
+          "q": "该系统能否与现有的会计或ERP软件集成？",
+          "a": "Winterfrost 基于 API-First 架构设计系统，允许直接连接 SAP、Oracle、Misa 或其他专业管理软件等流行平台。我们通过RESTful API或Webhooks协议进行数据同步，确保各部门财务和商品信息的一致流动。"
+        },
+        {
+          "q": "系统在大型促销期间是如何应对超载的？",
+          "a": "我们在云基础设施上应用了自动扩展解决方案，结合缓存和负载均衡技术。该架构允许系统实时自动扩展服务器资源，同时处理数千个访问请求和事务，而不会导致宿醉或延迟。"
+        },
+        {
+          "q": "在多渠道销售时，什么机制确保库存不会出现偏差？",
+          "a": "该系统采用事务控制机制和悲观/乐观锁定记录。当订单在任何渠道（如网站、应用、邮递服务）创建时，系统会立即在确认订单前，暂时将相应数量的库存存放在集中数据库中，完全消除了超售实际数量的风险。"
+        },
+        {
+          "q": "客户数据和交易信息的保护标准是什么？",
+          "a": "所有敏感数据在存储层使用AES-256算法进行加密，传输过程中通过TLS/SSL协议进行加密。此外，我们建立了基于角色的RBAC访问去中心化系统和活动追踪，以控制和检索任何影响系统数据的操作。"
+        },
+        {
+          "q": "当你遇到网络中断时，POS软件还能正常工作吗？",
+          "a": "我们通过本地存储机制编程离线模式功能。当网络中断时，员工仍可进行正常的销售和发票打印操作。一旦互联网连接恢复，系统会自动将数据同步到中央服务器，以更新收入和库存。"
+        },
+        {
+          "q": "维护成本是多少，切换后系统升级的能力如何？",
+          "a": "该系统建立在独立的模块化结构上，因此无需重构整个源代码，即可快速升级或添加新功能。在维护成本方面，Winterfrost 优化源代码以最小化硬件资源消耗，帮助企业节省每月基础设施运营成本，并为内部团队提供完整的技术文档。"
+        }
+      ]
+    }
+  },
+  "bat-dong-san": {
+    "slug": "bat-dong-san",
+    "title": "房地产",
+    "hero": {
+      "title": "房地产数字化转型与编程解决方案",
+      "description": "Winterfrost 提供集中式房地产管理软件基础设施建设服务，帮助开发商和交易所自动化产品分销流程、管理客户数据并优化交易现金流。",
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-lap-trinh-va-chuyen-doi-so-bat-dong-san.jpg",
+      "imageAlt": "房地产数字化转型与编程解决方案",
+      "primaryLabel": "直接联系",
+      "secondaryLabel": "求教信息"
+    },
+    "overview": {
+      "label": "概述",
+      "title": "交易流程的集中控制与标准化",
+      "paragraphs": [
+        "房地产企业面临的最大挑战是购物车管理的分散化，导致交易重叠和佣金计算缺乏透明度。Winterfrost 通过建立集中库存管理系统解决了这一问题，该系统集成了实时的根锁定机制，确保交易的独特性，并在销售、会计和客户之间同步数据。"
+      ],
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Kiem-soat-tap-trung-va-chuan-hoa-quy-trinh-giao-dich.jpg",
+      "imageAlt": "交易流程的集中控制与标准化"
+    },
+    "counters": [
+      {
+        "index": "/01",
+        "value": "10+",
+        "label": "多年经验"
+      },
+      {
+        "index": "/02",
+        "value": "250+",
+        "label": "客户"
+      },
+      {
+        "index": "/03",
+        "value": "15+",
+        "label": "服务国家/地区"
+      },
+      {
+        "index": "/04",
+        "value": "98%",
+        "label": "客户满意度"
+      }
+    ],
+    "values": {
+      "title": "实施房地产软件的实际好处",
+      "intro": "该系统帮助数字化从接近阶段到产品交付的整个业务周期。",
+      "items": [
+        {
+          "title": "实时购物车管理",
+          "description": "更新产品状态，如库存、顺序，系统内即时销售。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "自动化佣金计算",
+          "description": "建立自动贴现和佣金计算公式，消除人工错误。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "客户数据安全",
+          "description": "系统化潜在客户信息，防止内部数据丢失。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "优化审批流程",
+          "description": "数字化预订和支付流程，帮助加快交易完成速度。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "准确化收入报告",
+          "description": "逐项目或逐员工提取现金流和销售绩效数据。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "标准化法律文件",
+          "description": "集中管理合同表格和项目法律文件，方便快速检索。",
+          "image": "",
+          "imageAlt": ""
+        }
+      ],
+      "cta": "立即预约咨询！"
+    },
+    "why": {
+      "label": "为什么选择我们？",
+      "title": "选择Winterfrost作为技术合作伙伴的理由",
+      "items": [
+        {
+          "number": "1",
+          "title": "物业技术知识",
+          "description": "节目内容基于投资者和分销代理的实际流程。"
+        },
+        {
+          "number": "2",
+          "title": "稳定系统架构",
+          "description": "即使同时有大量经纪人访问，也要确保系统持续运行。"
+        },
+        {
+          "number": "3",
+          "title": "跨平台集成能力",
+          "description": "通过Map API、电子身份验证系统和支付网关灵活连接。"
+        },
+        {
+          "number": "4",
+          "title": "企业数据安全",
+          "description": "应用高端数据加密标准来保护金融交易信息。"
+        },
+        {
+          "number": "5",
+          "title": "交出全部源代码",
+          "description": "提供完整的技术文档和源代码，供企业长期主动管理。"
+        },
+        {
+          "number": "6",
+          "title": "灵活发展路线图",
+          "description": "未来可以轻松整合虚拟现实（VR）或人工智能定价等技术。"
+        }
+      ]
+    },
+    "cta": {
+      "label": "立即联系！",
+      "title": "房地产管理和分销基础设施的数字化",
+      "description": "请联系Winterfrost的工程团队，实施实时购物车管理系统并自动化交易流程，提升企业运营效率。",
+      "buttonLabel": "获取技术解决方案建议",
+      "image": "/images/people/cta/winterfrost/chuyen-vien-nu.png",
+      "imageAlt": "专家顾问"
+    },
+    "cases": {
+      "title": "Case Studies",
+      "links": [
+        {
+          "href": "https://winterfrost.tech/case-studies/website-verdora-property",
+          "text": "房地产\n网站设计\nVerdora Property 网站\n查看项目"
+        },
+        {
+          "href": "https://winterfrost.tech/case-studies/mont-pine-realty",
+          "text": "房地产\n网站设计\nVerdora Property 网站\n查看项目"
+        },
+        {
+          "href": "https://winterfrost.tech/case-studies/la-cerise-dalat-villas",
+          "text": "房地产\n网站设计\nRovena Travel – 大叻房地产网站设计\n查看项目"
+        }
+      ],
+      "images": [
+        {
+          "alt": "蓝钻接口——案例研究",
+          "src": "/images/projects/website-verdora-property/01-anh-bia-du-an.webp?v=wf-projects-pro-20260726"
+        },
+        {
+          "alt": "维尔多拉地产（3）",
+          "src": "/images/migrated/homenest-com-vn/wp-content/uploads/2025/07/22124517/Mont-Pine-Realty-3-2.webp"
+        },
+        {
+          "alt": "Rovena 旅游——案例研究",
+          "src": "/images/migrated/homenest-com-vn/wp-content/uploads/2025/06/La-Cerise-Dalat-Villas-Case-Study.jpg"
+        }
+      ]
+    },
+    "services": {
+      "title": "房地产行业的核心编程服务",
+      "intro": "项目重点在于打造一个全面的管理生态系统。",
+      "items": [
+        {
+          "title": "在线交易平台开发",
+          "description": "建立一个网站和移动应用，列出项目、智能搜索和在线预订",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phat-trien-san-giao-dich-truc-tuyen.jpg",
+          "imageAlt": "在线交易平台开发"
+        },
+        {
+          "title": "专业CRM系统编程",
+          "description": "从需求出现的那一刻起，管理客户旅程直到签署销售合同。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Lap-trinh-Dashboard-phan-tich-du-lieu-1.jpg",
+          "imageAlt": "数据分析仪表盘编程"
+        },
+        {
+          "title": "构建购物车管理引擎",
+          "description": "核心编程负责处理产品状态并协调货物向经销商的分销。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Xay-dung-Engine-quan-ly-gio-hang.jpg",
+          "imageAlt": "构建购物车管理引擎"
+        },
+        {
+          "title": "建筑与住户管理系统",
+          "description": "开发运营管理、费用收取和售后互动的应用程序。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/He-thong-quan-ly-toa-nha-va-cu-dan.jpg",
+          "imageAlt": "建筑与住户管理系统"
+        },
+        {
+          "title": "3D/VR旅游解决方案集成",
+          "description": "嵌入虚拟现实平台，帮助客户通过网页/应用在线参观项目。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Tich-hop-giai-phap-3D-VR-Tour.jpg",
+          "imageAlt": "3D-VR旅游解决方案集成"
+        },
+        {
+          "title": "数据分析仪表盘编程",
+          "description": "构建工具以可视化业务指标并预测市场趋势。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Lap-trinh-Dashboard-phan-tich-du-lieu.jpg",
+          "imageAlt": "数据分析仪表盘编程"
+        }
+      ],
+      "cta": "探索所有服务"
+    },
+    "process": {
+      "label": "项目实施流程？",
+      "items": [
+        {
+          "number": "01",
+          "tag": "调查",
+          "title": "工艺分析与规范",
+          "description": "工程师团队对销售流程进行详细调查，从预订阶段到合同签署。我们定义购物车结构、佣金计算逻辑和B2B客户数据安全标准的技术要求。"
+        },
+        {
+          "number": "02",
+          "tag": "设计",
+          "title": "构建数字交易架构与流程",
+          "description": "为仓库和用户设计关系实体图（ERD）。在此步骤中，建立了实时对齐锁定架构，以防止多个经纪商在同一产品上执行交易时发生的数据冲突。"
+        },
+        {
+          "number": "03",
+          "tag": "编程",
+          "title": "源代码执行与模块集成",
+          "description": "按照敏捷模型实现源代码编写，重点构建购物车处理核心（库存引擎）和客户关系管理系统。API网关与Maps API、支付网关和数字签名系统同步设置。"
+        },
+        {
+          "number": "04",
+          "tag": "测试",
+          "title": "数据控制与系统负载",
+          "description": "进行集成测试，确保购物车到会计的数据流畅无误。系统经过压力测试，以确保在突发交通集中销售中稳定运行。"
+        },
+        {
+          "number": "05",
+          "tag": "部署",
+          "title": "云基础设施配置与数据转换",
+          "description": "在安全的云基础设施上搭建一个操作环境。我们准确地将项目数据文件、客户名单和交易历史从旧系统转换到新平台。"
+        },
+        {
+          "number": "06",
+          "tag": "操作",
+          "title": "定期维护安全性并优化性能",
+          "description": "启用监控工具，全天候监控系统状态。执行安全补丁更新，优化数据库查询速度，并为您的管理团队提供一对一的技术支持。"
+        }
+      ],
+      "cta": "开始构建您的产品！"
+    },
+    "faq": {
+      "label": "常见问题",
+      "title": "所有问题的答案",
+      "intro": "关于房地产系统工程的常见问题",
+      "items": [
+        {
+          "q": "系统如何防止销售时堆叠设备？",
+          "a": "Winterfrost 在数据库层直接使用悲观锁定机制。当员工发起保留订单时，该产品记录会立即在毫秒级被锁定，阻止其他写入访问，直到交易完成或指定的保留时间结束。"
+        },
+        {
+          "q": "该系统能否与企业现有的ERP或会计平台集成？",
+          "a": "是的。我们按照API-First标准构建系统，该标准允许与SAP、Oracle或Microsoft Dynamics等ERP软件实现双向数据连接和交换。合同、付款计划和债务的数据流会自动同步，以确保企业内部的一致性。"
+        },
+        {
+          "q": "如何保护敏感客户数据以防止丢失？",
+          "a": "我们实施了基于角色的访问去中心化系统，结合AES-256数据加密技术。所有数据检索或导出操作都会被记录在系统日志中，以便在发生信息安全事件时进行控制和追踪。"
+        },
+        {
+          "q": "当开业当天突然有成千上万的经纪商涌入时，系统是如何处理的？",
+          "a": "我们的解决方案采用运行在云基础设施上的微服务架构，并支持自动扩展。系统会自动分配资源，并使用 Redis 数据缓冲层以降低数据库负载，确保即使在高负载下响应速度也少于 2 秒。"
+        },
+        {
+          "q": "软件是否支持在线签署电子合同和识别客户的流程？",
+          "a": "是的。Winterfrost集成了电子身份识别电子身份验证解决方案以认证客户信息，并与数字签名服务提供商连接，数字化整个合同签署流程，确保符合现行法律的合法性。"
+        },
+        {
+          "q": "企业能否自行配置复杂的折扣计划和销售政策？",
+          "a": "我们编写了一个灵活的配置引擎，允许管理员根据项目的每个阶段设置折扣规则、付款计划和优惠条件，而不干扰源代码，帮助业务部门主动开展工作。"
+        }
+      ]
+    }
+  },
+  "chuoi-cung-ung": {
+    "slug": "chuoi-cung-ung",
+    "title": "供应链",
+    "hero": {
+      "title": "全面的供应链管理解决方案",
+      "description": "Winterfrost 提供集中式供应链管理软件基础设施建设服务，帮助企业全面控制从供应商到终端客户的数据流。我们设计的软件架构能够整合多渠道数据，确保透明度并优化整个物流系统的运营成本。",
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-dong-bo-chuoi-cung-ung-cua-HomeNest-Viet-Nam.jpg",
+      "imageAlt": "Winterfrost 的供应链同步解决方案",
+      "primaryLabel": "直接联系",
+      "secondaryLabel": "求教信息"
+    },
+    "overview": {
+      "label": "概述",
+      "title": "供应链同步解决方案",
+      "paragraphs": [
+        "供应链管理中最大的挑战是各方信息缺乏同步，导致虚拟库存和货物协调延迟。Winterfrost通过建立统一供应链枢纽系统解决了这一问题，该系统集成了制造商、承运商和仓库之间的实时数据共享机制。我们的解决方案消除了数据瓶颈，使企业能够准确跟踪产品旅程，并能即时应对市场波动。"
+      ],
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-quan-ly-chuoi-cung-ung-toan-dien.jpg",
+      "imageAlt": "全面的供应链管理解决方案"
+    },
+    "counters": [
+      {
+        "index": "/01",
+        "value": "10+",
+        "label": "多年经验"
+      },
+      {
+        "index": "/02",
+        "value": "250+",
+        "label": "客户"
+      },
+      {
+        "index": "/03",
+        "value": "15+",
+        "label": "服务国家/地区"
+      },
+      {
+        "index": "/04",
+        "value": "98%",
+        "label": "客户满意度"
+      }
+    ],
+    "values": {
+      "title": "实施供应链管理系统的实际好处",
+      "intro": "集中式供应链系统整合数据，消除人工对账，消除编排延迟。该解决方案确保多模块一致性，支持企业基于准确的实际数据做出运营决策。",
+      "items": [
+        {
+          "title": "优化库存水平",
+          "description": "算法自动计算补货点，有助于最小化库存过剩，防止供应中断。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "提升数据可见性",
+          "description": "实时提供整个配送网络的货物流和订单状态的全面视图。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "自动化采购流程",
+          "description": "建立自动化工作流程，从报价请求创建到仓储完成并支付给供应商。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "最大限度地降低物流运营成本",
+          "description": "优化运输路线和包装方式，以降低单件产品成本。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "准确的需求预测",
+          "description": "利用历史数据编程模型，预测下一阶段业务所需的工作量。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "改善各方之间的协调",
+          "description": "为合作伙伴和分包商创建一个统一的数字工作环境，以加快响应和故障排除。",
+          "image": "",
+          "imageAlt": ""
+        }
+      ],
+      "cta": "立即预约咨询！"
+    },
+    "why": {
+      "label": "为什么选择我们？",
+      "title": "为什么选择Winterfrost作为供应链数字化转型解决方案",
+      "items": [
+        {
+          "number": "1",
+          "title": "能够建立密集的分布式基础设施",
+          "description": "我们编程了一个能够在多个不同地理位置的仓库和分支机构之间即时同步数据的系统。这帮助企业集中管理供应链网络，避免距离的障碍。"
+        },
+        {
+          "number": "2",
+          "title": "行业标准数据安全",
+          "description": "所有交易信息和供应商数据均经过多层加密，完全防止业务信息丢失的风险。该系统确保所有操作场景下的数据完整性。"
+        },
+        {
+          "number": "3",
+          "title": "系统的灵活可扩展性",
+          "description": "模块化软件架构使企业能够轻松添加新功能或扩展运营，而无需重构整个源代码。解决方案确保系统始终与业务增长保持一致。"
+        },
+        {
+          "number": "4",
+          "title": "专业多平台系统集成",
+          "description": "我们的解决方案通过标准化的API网关同步连接现有管理软件，如ERP或CRM。部门间的信息流通始终顺畅，不重叠。"
+        },
+        {
+          "number": "5",
+          "title": "稳定的操作系统和高负载能力",
+          "description": "该软件经过严格的性能测试，确保快速取回速度，即使在处理大量订单时也无技术错误。这有助于维持供应链连续性。"
+        },
+        {
+          "number": "6",
+          "title": "完全交出并掌握源代码",
+          "description": "企业会收到所有源代码和详细的技术指导文件，以便根据开发需求主动管理和升级系统。我们致力于软件版权的绝对透明。"
+        }
+      ]
+    },
+    "cta": {
+      "label": "立即联系！",
+      "title": "全面供应链管理基础设施的数字化",
+      "description": "请联系Winterfrost的工程团队，建立集中供应管理系统，并自动化编排流程，以优化您的业务运营效率。",
+      "buttonLabel": "立即获取建议",
+      "image": "/images/people/cta/winterfrost/nhan-vien-cong-nghe-tre.png",
+      "imageAlt": "专家顾问"
+    },
+    "cases": {
+      "title": "Case Studies",
+      "links": [
+        {
+          "href": "https://winterfrost.tech/case-studies/website-zenovia-retail",
+          "text": "零售\n供应链\n网站设计\nZenovia 零售网站\n查看项目"
+        }
+      ],
+      "images": []
+    },
+    "services": {
+      "title": "专注于供应链系统的编程服务",
+      "intro": "我们的项目重点是建立可持续的数字基础设施，数字化每一个接触点，优化货物从输入到输出的流动。",
+      "items": [
+        {
+          "title": "编程一个集中式订单调度系统",
+          "description": "我们构建了一个订单处理核心，将所有分销渠道的数据整合到单一的联络点。该服务帮助企业加快订单响应速度，消除部门间的错误信息。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Lap-trinh-he-thong-dieu-phoi-don-hang-tap-trung.jpg",
+          "imageAlt": "编程一个集中式订单调度系统"
+        },
+        {
+          "title": "建立供应商互动门户",
+          "description": "建立数字平台，帮助企业与供应合作伙伴直接交换数据。该系统自动化发送报价请求、确认采购订单和跟踪生产进度的流程，以提高供应关系的透明度。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Xay-dung-cong-thong-tin-tuong-tac-voi-nha-cung-cap.jpg",
+          "imageAlt": "建立供应商互动门户"
+        },
+        {
+          "title": "建立巡航监测和跟踪系统",
+          "description": "编程解决方案，实时更新货物状态，贯穿整个运输过程。我们集成了数据连接协议，让您能够随时精确控制产品的位置和存储条件。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Thiet-lap-he-thong-giam-sat-va-theo-doi-hanh-trinh.jpg",
+          "imageAlt": "建立巡航监测和跟踪系统"
+        },
+        {
+          "title": "仓库管理优化模块编程",
+          "description": "构建算法，数字化产品定位流程，并根据实际周转率规划进出口。该服务帮助企业最大化仓库空间，缩短仓库处理货物的时间。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Lap-trinh-module-toi-uu-hoa-quan-tri-kho-hang.jpg",
+          "imageAlt": "仓库管理优化模块编程"
+        },
+        {
+          "title": "构建供给绩效分析仪表盘",
+          "description": "建立一个工具，以可视化所有重要的运营指标，如物流成本、订单周期时间以及每个链路的性能。这是一个重要的数据库，有助于管理者做出准确的运营调整。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Xay-dung-Dashboard-phan-tich-hieu-suat-cung-ung.jpg",
+          "imageAlt": "构建供给绩效分析仪表盘"
+        },
+        {
+          "title": "预测与风险管理算法编程",
+          "description": "开发数据分析模型，预测市场需求波动和供应中断风险。该解决方案帮助企业主动构建响应场景，并维护整个系统的稳定性。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Lap-trinh-thuat-toan-du-bao-va-quan-tri-rui-ro.jpg",
+          "imageAlt": "预测与风险管理算法编程"
+        }
+      ],
+      "cta": "探索所有服务"
+    },
+    "process": {
+      "label": "项目实施流程？",
+      "items": [
+        {
+          "number": "01",
+          "tag": "分析",
+          "title": "供应网络调查与技术需求确定",
+          "description": "工程团队评估货物流的当前状态，并确定调度系统的技术参数。"
+        },
+        {
+          "number": "02",
+          "tag": "设计",
+          "title": "构建多方集成数据架构和流程",
+          "description": "设计供电网络实体图，并规划成员系统间的API网关。"
+        },
+        {
+          "number": "03",
+          "tag": "编程",
+          "title": "执行操作系统模块的源代码",
+          "description": "继续按照敏捷方法编写功能模块的源代码，并建立数据同步协议。"
+        },
+        {
+          "number": "04",
+          "tag": "测试",
+          "title": "软件质量控制与同步测试",
+          "description": "执行内置测试问题，确保数据在供电节点间传输时不偏斜。"
+        },
+        {
+          "number": "05",
+          "tag": "部署",
+          "title": "云基础设施配置与运营数据转换",
+          "description": "在服务器上安装软件，并从旧系统加载目录、库存和路由数据。"
+        },
+        {
+          "number": "06",
+          "tag": "操作",
+          "title": "监控系统性能并优化源代码",
+          "description": "全天候监控系统运行状态，定期进行安全更新或功能升级。"
+        }
+      ],
+      "cta": "开始构建您的产品！"
+    },
+    "faq": {
+      "label": "常见问题",
+      "title": "所有问题的答案",
+      "intro": "关于供应链系统工程的常见问题解答",
+      "items": [
+        {
+          "q": "该系统是否能够与企业现有的ERP管理软件集成？",
+          "a": "Winterfrost 按照 API First 标准设计基础设施，实现与 SAP 和 Oracle 等主流平台或其他内部管理系统直接连接。数据流采用双向同步方式设置，确保采购流程、仓库运营和财务会计在企业内的绝对一致性。"
+        },
+        {
+          "q": "当供应网络规模和交易数据量大幅增加时，系统如何应对？",
+          "a": "我们采用微服务架构，结合云基础设施，实现自动负载均衡和资源扩展。该解决方案帮助系统保持快速响应速度和高度稳定性，即使企业大规模扩大仓库、供应商或配送点数量。"
+        },
+        {
+          "q": "如何确保供应商数据在通用平台上的安全性和隐私？",
+          "a": "所有识别信息和交易合同内容均按照企业级AES 256标准进行加密。我们建立了基于角色的访问去中心化机制，确保供应链中的每个合作伙伴只能访问属于许可责任范围内的数据，完全避免业务信息丢失的风险。"
+        },
+        {
+          "q": "商品需求预测算法基于什么技术机制来确保准确性？",
+          "a": "该系统利用深入的数据分析模型结合实际市场变量处理货物流动历史。这些算法自动识别消费模式，提供最佳补货点建议，帮助企业主动协调供应，减少库存浪费。"
+        },
+        {
+          "q": "软件基础设施是否兼容条码扫描器和RFID传感器等硬件设备？",
+          "a": "我们编程标准化的数据通信端口，直接接收仓库外设和运输车辆上的信息。仓库的入库数据和货物状态可立即更新到中央管理系统，无需手动录入数据。"
+        },
+        {
+          "q": "实现时间和微调系统顺序编排规则的能力需要多长时间？",
+          "a": "从技术调查到实际运营的过程通常需要12到16周，具体取决于企业供应网络的规模。模块化的源代码结构使管理团队能够轻松地重新配置订单编排逻辑或供应商优先级规则，以匹配业务战略。"
+        }
+      ]
+    }
+  },
+  "cong-nghe-tai-chinh": {
+    "slug": "cong-nghe-tai-chinh",
+    "title": "金融科技",
+    "hero": {
+      "title": "金融科技解决方案",
+      "description": "Winterfrost 在云原生平台上构建超安全且可扩展的金融应用。从现代数字银行的开发、算法交易系统到深入的区块链整合，我们支持金融机构和初创企业实现大规模的强力创新。Winterfrost 的解决方案专注于打造安全、透明的交易环境，并优化真实世界的数据处理性能。",
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-cong-nghe-tai-chinh-HomeNest-Viet-Nam.jpg",
+      "imageAlt": "金融科技解决方案 - Winterfrost",
+      "primaryLabel": "直接联系",
+      "secondaryLabel": "求教信息"
+    },
+    "overview": {
+      "label": "概述",
+      "title": "金融科技行业的挑战",
+      "paragraphs": [
+        "金融机构常常面临过时的旧系统、交易处理速度缓慢以及高安全风险的挑战。缺乏可扩展性使系统在用户数量快速增长时容易过载。此外，区块链或自动化交易等新技术在现有基础设施中整合也面临许多复杂的技术障碍。",
+        "Winterfrost 在云原生平台上构建超安全且可扩展的金融应用。我们提供从数字银行、算法交易系统到深入区块链集成的全方位解决方案。该解决方案帮助金融机构和初创企业大规模强力创新，确保所有交易安全、透明且即时完成。"
+      ],
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Thach-thuc-cua-linh-vuc-cong-nghe-tai-chinh.jpg",
+      "imageAlt": "金融科技行业的挑战"
+    },
+    "counters": [
+      {
+        "index": "/01",
+        "value": "10+",
+        "label": "多年经验"
+      },
+      {
+        "index": "/02",
+        "value": "250+",
+        "label": "客户"
+      },
+      {
+        "index": "/03",
+        "value": "15+",
+        "label": "服务国家/地区"
+      },
+      {
+        "index": "/04",
+        "value": "98%",
+        "label": "客户满意度"
+      }
+    ],
+    "values": {
+      "title": "金融科技解决方案带来的突破性价值",
+      "intro": "金融科技解决方案帮助企业掌握超安全的金融基础设施，自动化复杂操作，并确保数字平台上系统的无限可扩展性。",
+      "items": [
+        {
+          "title": "增强安全性与风险管理",
+          "description": "使用多层加密协议和生物识别认证，确保金融数据的绝对保护。这项技术帮助企业有效防止针对账户的欺诈行为和网络攻击。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "自动化财务业务流程",
+          "description": "如核对发票、批准贷款和准备税务报告等任务，均通过该软件自动完成。这一流程消除了人工操作带来的错误，加快了现金流处理速度。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "优化系统运行成本",
+          "description": "数字金融解决方案消除了处理纸质文件、实体场所和庞大服务器基础设施的人员成本。企业节省大量资源，专注于核心业务活动。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "灵活贸易规模",
+          "description": "云原生基础设施使系统能够在交易量激增时无崩溃或延迟地处理。企业可以轻松地在现有平台上整合新的金融服务，以满足市场的增长。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "确保审计的透明和便捷性",
+          "description": "所有余额波动和交易历史均被详细记录，得益于数字账本技术，这些数据无法被抹去。这有助于企业随时准备审计，并充分符合财务法律标准。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "提升客户体验和信任",
+          "description": "客户能够以即时速度和绝对准确的方式完成支付和汇款交易。快速且安全的金融服务帮助企业在消费者心中建立坚实的声誉。",
+          "image": "",
+          "imageAlt": ""
+        }
+      ],
+      "cta": "立即预约咨询！"
+    },
+    "why": {
+      "label": "为什么选择我们？",
+      "title": "为什么要使用 Winterfrost 的服务",
+      "items": [
+        {
+          "number": "1",
+          "title": "银行级安全标准",
+          "description": "我们建立了多层安全系统，采用先进的端到端数据加密和生物识别认证协议。用户的所有交易和财务信息都受到严格保护，免受网络攻击的风险。"
+        },
+        {
+          "number": "2",
+          "title": "灵活的云原生基础设施",
+          "description": "该应用完全基于云计算平台构建，使系统能够自动瞬间扩展资源。这有助于即使用户数量大幅增长，也能保持交易处理的顺畅性能。"
+        },
+        {
+          "number": "3",
+          "title": "母带处理技术",
+          "description": "我们的专家团队能够部署区块链去中心化账本解决方案和准确的自动化交易算法。该方案有助于提高透明度，优化金融投资活动的效率。"
+        },
+        {
+          "number": "4",
+          "title": "交出并拥有绝对的源代码",
+          "description": "项目完成后，Winterfrost 交付了 100% 的源代码和技术架构文档。企业对产品拥有全部所有权，积极主动地运营，升级时不依赖供应商。"
+        },
+        {
+          "number": "5",
+          "title": "符合法律规范的设计",
+          "description": "该系统经过研究和构建，完全符合金融安全、反洗钱防止和客户身份验证（KYC）标准。这有助于企业降低法律风险，轻松通过审计。"
+        },
+        {
+          "number": "6",
+          "title": "根据实际运营提供咨询解决方案",
+          "description": "我们会深入研究每家金融机构的具体商业模式，以提出最合适的功能。Winterfrost 的解决方案专注于直接解决运营问题并优化客户现金流。"
+        }
+      ]
+    },
+    "cta": {
+      "label": "立即联系！",
+      "title": "现在就打造一个安全的金融生态系统吧！",
+      "description": "准备好将您的金融基础设施转变为安全且高性能的云原生平台。让Winterfrost帮助您打造专业的金融科技解决方案，确保绝对透明和源代码终身拥有权。",
+      "buttonLabel": "获取解决方案建议和实施路线图",
+      "image": "/images/people/cta/winterfrost/chuyen-vien-nam-tre.png",
+      "imageAlt": "专家顾问"
+    },
+    "cases": null,
+    "services": {
+      "title": "HomneNest越南的深入金融科技服务",
+      "intro": "Winterfrost 在云原生和区块链平台上提供下一代金融系统编程服务。我们专注于构建安全的交易基础设施、大规模数据处理，并确保金融机构严格合规。",
+      "items": [
+        {
+          "title": "开发数字银行平台",
+          "description": "构建具备完整功能的现代银行应用：账户管理、快速转账、储蓄和账单支付。该系统设计为完全在数字环境中运行，采用极简的用户体验和多层安全。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phat-trien-nen-tang-ngan-hang-so-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "数字银行平台开发 - Winterfrost"
+        },
+        {
+          "title": "构建电子钱包和支付网关",
+          "description": "建立数字支付基础设施，支持与银行系统和国际金融机构的多元联系。我们采用端到端加密标准，确保所有用户交易的绝对安全。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Xay-dung-vi-dien-tu-va-cong-thanh-toan-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "构建电子钱包和支付网关 - Winterfrost"
+        },
+        {
+          "title": "算法交易系统的编程",
+          "description": "开发支持基于实时数据分析算法的金融市场自动化交易的软件。该方案有助于消除情绪因素，优化订单执行速度，提高投资风险管理效率。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Lap-trinh-he-thong-giao-dich-thuat-toan-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "算法交易系统编程 - Winterfrost"
+        },
+        {
+          "title": "区块链解决方案集成",
+          "description": "将去中心化账本技术应用于数字资产管理、电子身份识别以及通过智能合约实现金融协议自动化。该服务确保透明度，数据不可篡改，并增强系统信任度。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Tich-hop-giai-phap-blockchain-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "区块链解决方案集成 - Winterfrost"
+        },
+        {
+          "title": "开发贷款平台",
+          "description": "构建一个集成数据分析技术以实现自动信用评分的在线贷款系统。贷款审批流程基于智能风险评估算法，快速且准确地进行。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phat-trien-nen-tang-cho-vay-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "借贷平台开发 - Winterfrost"
+        },
+        {
+          "title": "管理技术解决方案",
+          "description": "提供技术工具，帮助企业自动化客户识别、身份验证、反洗钱预防和金融监管合规控制流程。该解决方案有助于最大限度地降低法律风险，优化组织的运营成本。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-cong-nghe-quan-ly-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "管理技术解决方案 - Winterfrost"
+        }
+      ],
+      "cta": "探索所有服务"
+    },
+    "process": {
+      "label": "项目实施流程？",
+      "items": [
+        {
+          "number": "01",
+          "tag": "调查",
+          "title": "商业分析",
+          "description": "我们对交易流、现金流管理模型及相关法律法规进行详细研究。这一步骤确保系统从一开始就符合州的审计和财务安全标准。"
+        },
+        {
+          "number": "02",
+          "tag": "设置",
+          "title": "建筑设计与安全性",
+          "description": "在云计算平台上构建系统架构，以确保灵活的可扩展性。我们建立了深入的安全层面，包括端到端数据加密、应用防火墙和严格的身份认证协议。"
+        },
+        {
+          "number": "03",
+          "tag": "发展",
+          "title": "系统编程与金融连接",
+          "description": "如有需要，为核心金融功能和区块链集成编写源代码。API网关旨在安全连接银行系统、电子钱包和国际支付中介机构。"
+        },
+        {
+          "number": "04",
+          "tag": "安全保障",
+          "title": "测试与服役",
+          "description": "质量保证团队通过模拟攻击来发现并修补安全漏洞。同时，我们在数千笔交易压力下测试系统负载能力，确保在各种情况下的绝对稳定性。"
+        },
+        {
+          "number": "05",
+          "tag": "系统发布",
+          "title": "部署与运行监测",
+          "description": "高度安全的服务器配置，实时事务监控工具安装，并正式投入应用运行。Winterfrost建立了自动警报系统，能够立即检测并防止异常访问行为。"
+        },
+        {
+          "number": "06",
+          "tag": "转乘",
+          "title": "所有权转移与维护",
+          "description": "将所有源代码和技术架构文档交接给企业。我们定期维护，更新最新安全补丁，并提供全天候技术支持，确保金融系统的顺畅运行。"
+        }
+      ],
+      "cta": "开始构建您的产品！"
+    },
+    "faq": {
+      "label": "常见问题",
+      "title": "所有问题的答案",
+      "intro": "回答关于金融技术系统的问题",
+      "items": [
+        {
+          "q": "Winterfrost 的系统如何确保货币交易的安全？",
+          "a": "我们采用最严格的安全标准，包括端到端数据加密、多重身份验证和生物识别。此外，系统还会定期进行渗透测试，以及时发现并防止安全漏洞。"
+        },
+        {
+          "q": "该系统是否符合越南的金融法规？",
+          "a": "是的。Winterfrost的解决方案旨在严格遵守国家银行的法规以及反洗钱（AML）和KYC等国际标准。这有助于企业最大限度地降低法律风险并实现透明运营。"
+        },
+        {
+          "q": "Winterfrost 的基础设施能否同时处理大量交易？",
+          "a": "得益于云原生架构和微服务，系统能够自动瞬间扩展资源，每秒处理数千笔交易。表现始终保持稳定，确保高峰交易时段无种马或延误。"
+        },
+        {
+          "q": "企业能否将新的金融科技体系与旧银行基础设施整合？",
+          "a": "绝对是。我们使用标准化的API网关，实现新金融科技应用与传统核心银行系统之间的数据连接和同步。这一流程确保现金流和客户数据始终准确且安全地更新。"
+        },
+        {
+          "q": "项目完成后，Winterfrost 会交出整个源代码吗？",
+          "a": "是的。Winterfrost 致力于将 100% 的源代码和技术架构文档交给企业。你可以完全拥有系统，主动升级，运营系统，不受任何技术供应商的约束。"
+        },
+        {
+          "q": "区块链技术如何应用于Winterfrost的解决方案？",
+          "a": "我们应用区块链创建不可约的交易账本，提升透明度和安全性。该技术还被用于实施智能合约，能够自动化金融安排，无需中介。"
+        }
+      ]
+    }
+  },
+  "dau-khi": {
+    "slug": "dau-khi",
+    "title": "石油",
+    "hero": {
+      "title": "石油和天然气行业的数字化转型解决方案",
+      "description": "石油和天然气行业需要准确的监控、严格遵守安全标准以及保持不间断的运营。Winterfrost 提供定制化的技术解决方案，旨在优化复杂的运营流程。",
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-chuyen-doi-so-cho-nganh-dau-khi.jpg",
+      "imageAlt": "石油和天然气行业的数字化转型解决方案",
+      "primaryLabel": "直接联系",
+      "secondaryLabel": "求教信息"
+    },
+    "overview": {
+      "label": "概述",
+      "title": "利用真实数据优化操作",
+      "paragraphs": [
+        "在石油和天然气行业，远程管理机器并确保安全是最大的挑战。如果系统不互联，企业容易浪费资源和排查延迟。你需要一个集中管理所有东西的地方，从钻机到管道，确保工作流程顺畅。",
+        "Winterfrost 提供连接从挖矿到交付的所有活动的软件。通过跟踪传感器数据，我们帮助领导者了解绩效，管理车队，提前预测故障，避免突然停机。"
+      ],
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Toi-uu-van-hanh-bang-du-lieu-thuc-te-cho-nganh-dau-khi.jpg",
+      "imageAlt": "利用真实数据优化油气行业的运营"
+    },
+    "counters": [
+      {
+        "index": "/01",
+        "value": "10+",
+        "label": "多年经验"
+      },
+      {
+        "index": "/02",
+        "value": "250+",
+        "label": "客户"
+      },
+      {
+        "index": "/03",
+        "value": "15+",
+        "label": "服务国家/地区"
+      },
+      {
+        "index": "/04",
+        "value": "98%",
+        "label": "客户满意度"
+      }
+    ],
+    "values": {
+      "title": "将技术应用于石油和天然气行业的益处",
+      "intro": "将技术投入运营不仅是一种趋势，更是保护能源企业盈利能力和安全的关键解决方案。",
+      "items": [
+        {
+          "title": "确保连续运行",
+          "description": "全天候监控系统帮助您及早发现机械异常迹象。一旦有警报，立即操作有助于防止机器突然停机，确保生产流稳定且连续。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "确保职业安全",
+          "description": "智能传感器将取代压力、温度和泄漏监测，取代人员直接检查危险区域。这有助于保护人命和企业资产免受火灾和爆炸风险。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "维护成本降低",
+          "description": "预测技术将准确指出哪些部件即将无法更换，而非浪费的周期性维护。这有助于延长设备的使用寿命，并显著节省年度维护预算。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "生产损失截止日期",
+          "description": "该系统从开采、运输到储存的全过程都能准确监控，帮助企业严格控制每一升燃料。数据透明度有助于彻底消除错误或无法解释的损失。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "优化操作",
+          "description": "技术帮助以最科学的方式安排车队和油罐车的路线。智能车队管理有助于降低运输燃料成本，确保货物始终按时且到达正确的地点。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "预测与分析形势",
+          "description": "所有运营数据实时汇总成易于理解的图表。领导者不再需要猜测，而是能够基于现场实际数据做出准确且及时的执行决策。",
+          "image": "",
+          "imageAlt": ""
+        }
+      ],
+      "cta": "立即预约咨询！"
+    },
+    "why": {
+      "label": "为什么选择我们？",
+      "title": "为什么能源企业信任Winterfrost",
+      "items": [
+        {
+          "number": "1",
+          "title": "多领域知识",
+          "description": "我们基于对钻井平台、管道和仓库运营流程的深入理解构建解决方案。Winterfrost 不提供大规模软件，但提供解决能源行业特定问题的工具。"
+        },
+        {
+          "number": "2",
+          "title": "设备连接简便",
+          "description": "无论你使用的是旧设备还是新技术，我们的系统都能同步连接和收集数据。这有助于您充分利用现有基础设施，而无需投资昂贵的更换。"
+        },
+        {
+          "number": "3",
+          "title": "确保运营安全",
+          "description": "压力、温度和泄漏指示器的预警系统有助于远程预防火灾隐患。我们认为保护您的生命和财产是每一个软件命令行的首要任务。"
+        },
+        {
+          "number": "4",
+          "title": "故障预测技术",
+          "description": "Winterfrost 的解决方案不再等待故障修复，而是利用人工智能及早识别潜在损害。这有助于企业主动维护、延长机器寿命，避免紧急维修费用。"
+        },
+        {
+          "number": "5",
+          "title": "数据安全",
+          "description": "您的运营数据和战略信息通过多层专用加密得到保护。我们确保您的信息基础设施始终安全，免受针对能源行业的网络攻击风险。"
+        },
+        {
+          "number": "6",
+          "title": "全天候24小时技术支持",
+          "description": "石油和天然气行业昼夜不停地工作，我们也是如此。Winterfrost的技术团队随时待命，随时应对各种情况，确保您的制作流程永不中断。"
+        }
+      ]
+    },
+    "cta": {
+      "label": "立即联系！",
+      "title": "准备好优化您的能源基础设施",
+      "description": "不要让突发停工或安全风险扰乱生产流，侵蚀企业利润。让Winterfrost帮助您打造一个智能操作系统，每个参数都可控，每个问题都能提前预测。",
+      "buttonLabel": "深入解决方案咨询",
+      "image": "/images/people/cta/winterfrost/chuyen-vien-nu.png",
+      "imageAlt": "专家顾问"
+    },
+    "cases": null,
+    "services": {
+      "title": "石油和天然气行业的专业解决方案",
+      "intro": "Winterfrost 提供深入的数字解决方案生态系统，优化从开采到分配的油气运营流程。我们专注于技术基础设施、数据管理和预测技术的应用，以确保运营安全和实际利用效率。",
+      "items": [
+        {
+          "title": "SCADA与物联网系统",
+          "description": "现场直接连接测量设备和PLC控制器。收集并数字化压力、温度和流量等规格，发送到中央服务器。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Thiet-lap-mang-luoi-SCADA-va-IoT-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "SCADA 和物联网网络设置 – Winterfrost"
+        },
+        {
+          "title": "维护预测软件",
+          "description": "应用操作数据分析算法以确定组件的磨损状态。系统根据实际机器运行时间提供维护计划，以便在问题发生前更换组件。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phan-mem-du-bao-bao-tri-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "维护预测软件 – Winterfrost"
+        },
+        {
+          "title": "监控平台",
+          "description": "在地理信息系统上数字化运输管道网络。确定整个网络图中压力波动或泄漏的精确位置。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Nen-tang-giam-sat-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "监控平台 – Winterfrost"
+        },
+        {
+          "title": "自动紧急停止系统",
+          "description": "当规范超过允许的安全阈值时，自动断电的编程场景。确保系统在不需人工干预的情况下立即停止工作。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/He-thong-dung-khan-cap-tu-dong-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "自动紧急停止系统 - Winterfrost"
+        },
+        {
+          "title": "交通与燃料管理解决方案",
+          "description": "集成卫星导航和油箱液位传感器，监控车队和油罐车的航线和货物容量。对燃料的进口、出口和库存进行精确控制。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-quan-ly-van-tai-va-nhien-lieu-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "交通与燃料管理解决方案——Winterfrost"
+        },
+        {
+          "title": "汇总和分析大数据",
+          "description": "建立一个集中存储库和处理海量运营数据。提取关于采矿性能和能耗标准的技术报告。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Nen-tang-phan-tich-du-lieu-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "数据分析平台 - Winterfrost"
+        }
+      ],
+      "cta": "探索所有服务"
+    },
+    "process": {
+      "label": "项目实施流程？",
+      "items": [
+        {
+          "number": "01",
+          "tag": "评论",
+          "title": "技术基础设施调查",
+          "description": "直接检查钻井平台或泵站内现有的传感器系统、测量设备和PLC控制器。这是为了识别数据连接性和潜在的技术风险。"
+        },
+        {
+          "number": "02",
+          "tag": "直播设置",
+          "title": "连接流程设计",
+          "description": "绘制一个数据传输图，显示现场设备通过内联网或卫星传输到中央服务器。设计优先考虑现场数据处理，以确保快速响应速度。"
+        },
+        {
+          "number": "03",
+          "tag": "带来解决方案",
+          "title": "构建监控",
+          "description": "编程算法以监测压力、温度、流量并预测机器维护情况。这些工具基于能源业务的实际规格和运营流程构建。"
+        },
+        {
+          "number": "04",
+          "tag": "操作",
+          "title": "检查与测试",
+          "description": "进行测试以评估数据和警报系统的准确性。确保软件与现有机器完全兼容，且不干扰能源生产和运输活动。"
+        },
+        {
+          "number": "05",
+          "tag": "交接",
+          "title": "技术操作培训",
+          "description": "指导工程师和操作员如何阅读和理解图表、处理警报以及提取技术报告。我们专注于帮助人们在现实世界中掌握系统。"
+        },
+        {
+          "number": "06",
+          "tag": "支持",
+          "title": "全天候维护与支持",
+          "description": "始终提供软件健康监测和技术支持。Winterfrost 团队致力于快速处理连接问题，确保数据流和生产不中断。"
+        }
+      ],
+      "cta": "开始构建您的产品！"
+    },
+    "faq": {
+      "label": "常见问题",
+      "title": "所有问题的答案",
+      "intro": "解答关于石油技术解决方案的问题",
+      "items": [
+        {
+          "q": "Winterfrost 的系统是否兼容现有的 SCADA 和 PLC 设备？",
+          "a": "我们设计基于流行的行业协议标准，如OPC UA、Modbus、MQTT。这使得系统能够直接连接并收集企业现有控制器和传感器的数据，而无需更换硬件基础设施。"
+        },
+        {
+          "q": "如何确保数据从海上钻井平台持续传输？",
+          "a": "我们的解决方案采用了边缘计算技术。数据会被处理并临时存储在现场。如果卫星或网络连接中断，系统将在传输恢复后立即将所有数据同步到中心。"
+        },
+        {
+          "q": "软件如何支持燃油损失控制？",
+          "a": "该系统自动对仓库的装卸数据与车辆管道和罐体的实际流量指数进行对账。任何超过允许阈值的量偏差都会被系统立即提醒管理单位，以便检查泄漏或欺诈。"
+        },
+        {
+          "q": "系统是否符合消防安全和环境标准？",
+          "a": "是的。这些软件脚本被严格按照工业安全法规设置。系统持续监测气体浓度、压力和温度，当读数超过危险阈值时，能够触发自动紧急停止程序。"
+        },
+        {
+          "q": "战略运营数据如何防御网络攻击？",
+          "a": "我们采用多层安全模型，包括端到端数据加密、虚拟专用网络建设和多因素认证。系统还记录完整的接入历史和规范变更，确保能源基础设施的绝对透明和安全。"
+        },
+        {
+          "q": "软件的部署是否要求停止采矿活动？",
+          "a": "实施过程分为多个独立阶段。我们会在实际操作的同时进行数据连接和测试。系统的整合经过精心计算，以不影响生产和采矿流的连续性。"
+        }
+      ]
+    }
+  },
+  "du-lich": {
+    "slug": "du-lich",
+    "title": "旅行",
+    "hero": {
+      "title": "旅游业技术解决方案",
+      "description": "如今的旅行者希望从搜索到旅行结束，拥有无缝且个性化的旅程。Winterfrost 构建了专门的平台，帮助管理旅行服务的整个生命周期。我们开发智能预订引擎、灵活的定价算法和全渠道时刻管理系统，帮助企业提高入住率、减少弃客率，并提供专业的客户体验。",
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Linh-vuc-du-lich.jpg",
+      "imageAlt": "旅游业",
+      "primaryLabel": "直接联系",
+      "secondaryLabel": "求教信息"
+    },
+    "overview": {
+      "label": "概述",
+      "title": "旅游运营问题",
+      "paragraphs": [
+        "旅游业企业常常在多个平台上手动管理旅游日程、房间列表和机票，遇到困难。网站和咨询应用之间信息的延迟或不一致很容易导致混淆、空缺、错误报价、声誉丧失和收入损失。",
+        "Winterfrost 提供了一个集中管理系统，将企业的整个业务连接到一个平台。所有关于时刻表、可用性和服务价格的数据都会实时自动同步。这帮助企业顺畅运营，即时响应客户，并全面掌握数据，实现品牌可持续发展。"
+      ],
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Du-Lich-HomeNest-Viet-Nam.jpg",
+      "imageAlt": "交通 - Winterfrost"
+    },
+    "counters": [
+      {
+        "index": "/01",
+        "value": "10+",
+        "label": "多年经验"
+      },
+      {
+        "index": "/02",
+        "value": "250+",
+        "label": "客户"
+      },
+      {
+        "index": "/03",
+        "value": "15+",
+        "label": "服务国家/地区"
+      },
+      {
+        "index": "/04",
+        "value": "98%",
+        "label": "客户满意度"
+      }
+    ],
+    "values": {
+      "title": "旅游和住宿行业的技术解决方案",
+      "intro": "Winterfrost 构建了高效能平台，将观众转化为真实客户，并将首次旅行者转变为忠实客户。",
+      "items": [
+        {
+          "title": "自动优化销售价格",
+          "description": "智能算法根据市场波动自动调整价格，帮助企业避免在旺季亏损利润，并在淡季提升竞争力。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "同步空白日历",
+          "description": "所有平台持续更新房间和旅游状态的系统，有助于彻底消除日程重叠或客人过多、导致声誉不佳的情况。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "直订增长",
+          "description": "构建自身生态系统有助于降低中介机构的佣金成本，同时帮助企业全面掌握访客数据的来源。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "综合运营",
+          "description": "将所有纸质管理转为数字平台，有助于优化导游时间表，并以最准确的方式控制供应商合同。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "自动化客户服务",
+          "description": "人工智能会记住个人偏好，自动发送优惠，从而提高访客回访率，而无需额外营销成本。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "数据预测与分析",
+          "description": "关于消费者趋势的可视化报告帮助企业主基于实际数字而非情绪做出准确的营销投资决策。",
+          "image": "",
+          "imageAlt": ""
+        }
+      ],
+      "cta": "立即预约咨询！"
+    },
+    "why": {
+      "label": "为什么选择我们？",
+      "title": "为什么选择Winterfrost的技术解决方案",
+      "items": [
+        {
+          "number": "1",
+          "title": "旅游运营知识",
+          "description": "我们不仅提供软件，还基于对越南市场旅游和住宿运营流程的深刻理解，提供咨询解决方案。"
+        },
+        {
+          "number": "2",
+          "title": "技术平台同步",
+          "description": "网站、应用或人工智能的集成将帮助企业在单一平台上管理所有活动，完全消除部门与销售渠道之间的差异。"
+        },
+        {
+          "number": "3",
+          "title": "优化利润",
+          "description": "我们重点发展直订渠道，帮助企业减少对中介机构的依赖，并保持每项服务的最高利润率。"
+        },
+        {
+          "number": "4",
+          "title": "24小时支持服务",
+          "description": "专家团队的持续陪伴确保所有技术问题即时处理，确保业务活动和访客体验始终保持持续。"
+        },
+        {
+          "number": "5",
+          "title": "数据安全",
+          "description": "企业完全拥有绝对保密的旅游数据和商业信息来源，为长期的营销和客户服务活动奠定了坚实基础。"
+        },
+        {
+          "number": "6",
+          "title": "业务优化界面",
+          "description": "简约直观的应用使导游或酒店工作人员能够轻松管理日程并即时响应宾客请求。"
+        }
+      ]
+    },
+    "cta": {
+      "label": "立即联系！",
+      "title": "与Winterfrost一起开启旅游业数字化转型之旅",
+      "description": "让我们帮助您掌握直销预订渠道，并用智能技术全面优化运营流程。立即联系我们的专家团队，为您的企业提供专业解决方案咨询。",
+      "buttonLabel": "立即咨询解决方案",
+      "image": "/images/people/cta/winterfrost/chuyen-vien-nam-tre.png",
+      "imageAlt": "专家顾问"
+    },
+    "cases": {
+      "title": "Case Studies",
+      "links": [
+        {
+          "href": "https://winterfrost.tech/case-studies/website-rovena-travel",
+          "text": "交通\n网站设计\n网站 罗维纳旅游\n查看项目"
+        },
+        {
+          "href": "https://winterfrost.tech/case-studies/website-du-lich-leveltrip",
+          "text": "交通\n网站设计\n罗韦纳旅游网站\n查看项目"
+        }
+      ],
+      "images": [
+        {
+          "alt": "罗维纳旅游网站项目",
+          "src": "/images/projects/website-rovena-travel/01-anh-bia-du-an.webp?v=wf-projects-pro-20260726"
+        }
+      ]
+    },
+    "services": {
+      "title": "各旅行细分段的解决方案",
+      "intro": "Winterfrost提供全面的技术能力，支持旅游生态系统中的每一种商业模式。",
+      "items": [
+        {
+          "title": "酒店与度假村",
+          "description": "重点建设直订系统，减少对中介楼层的依赖，并整合内部公用设施，帮助提升宾客体验。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Khach-san-va-khu-nghi-duong-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "酒店与度假村 - Winterfrost"
+        },
+        {
+          "title": "在线旅行社",
+          "description": "开发大数据处理技术以帮助快速综合信息，并建立高负载预订系统以优化旅游换算站的转化率。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Dai-ly-du-lich-truc-tuyen-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "在线旅行社 - Winterfrost"
+        },
+        {
+          "title": "旅游运营商",
+          "description": "提供全包式旅游运营商工具，直接与导游和服务提供商连接，确保时刻表始终准确。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Cong-ty-lu-hanh-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "旅游运营商 - Winterfrost"
+        },
+        {
+          "title": "大规模航空与交通",
+          "description": "构建优化辅助服务收入和忠诚度管理系统的模型，以提升每位访客的平均价值。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Hang-khong-va-van-tai-quy-mo-lon-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "大型航空与运输 - Winterfrost"
+        },
+        {
+          "title": "租车服务",
+          "description": "自动定位和调度技术的应用帮助企业主有效管理车队，准确控制司机的作息时间。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Dich-vu-cho-thue-xe-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "租车服务 - Winterfrost"
+        },
+        {
+          "title": "企业旅游管理",
+          "description": "提供自动化业务费用管理平台，帮助组织严格控制预算并简化文件退款流程。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Quan-tri-du-lich-cho-doanh-nghiep-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "企业旅游管理 - Winterfrost"
+        }
+      ],
+      "cta": "探索所有服务"
+    },
+    "process": {
+      "label": "项目实施流程？",
+      "items": [
+        {
+          "number": "01",
+          "tag": "接待处",
+          "title": "商业模式调查与分析",
+          "description": "一支专家团队会研究企业当前的旅行或住宿运营状况，以制定最适合实际规模的技术方案。"
+        },
+        {
+          "number": "02",
+          "tag": "解决方案",
+          "title": "规划与设计",
+          "description": "在网站和移动应用平台上构建智能预订系统结构和最佳用户界面，以提升访客留存率。"
+        },
+        {
+          "number": "03",
+          "tag": "完成",
+          "title": "系统开发与技术集成",
+          "description": "可编程深入功能，如个性化日程建议或自动根据旅游市场波动优化销售价格的算法。"
+        },
+        {
+          "number": "04",
+          "tag": "检查",
+          "title": "全面的数据同步与测试",
+          "description": "整合现有的国内支付网关和房间管理系统，并在运行前严格测试平台的稳定性和安全性。"
+        },
+        {
+          "number": "05",
+          "tag": "接受",
+          "title": "交接与操作手册",
+          "description": "将系统部署到实际环境中，并直接培训业务人员熟练使用新的管理工具。"
+        },
+        {
+          "number": "06",
+          "tag": "支持",
+          "title": "配套支持与改进",
+          "description": "始终保持技术支持并更新最新技术功能，帮助企业保持领先，优化可持续利润。"
+        }
+      ],
+      "cta": "开始构建您的产品！"
+    },
+    "faq": {
+      "label": "常见问题",
+      "title": "所有问题的答案",
+      "intro": "回答有关旅游技术解决方案的问题",
+      "items": [
+        {
+          "q": "实施一个完整的旅游系统需要多长时间？",
+          "a": "通常，从调查阶段到实际调试的过程需要8到12周，具体取决于企业所需功能的规模和复杂度。"
+        },
+        {
+          "q": "Winterfrost 的解决方案是否连接到现有的管理软件？",
+          "a": "该系统设计高度兼容，可直接连接房间管理软件或流行的国内支付网关，帮助企业始终顺利运行。"
+        },
+        {
+          "q": "该系统如何帮助企业降低中介机构的佣金成本？",
+          "a": "通过建立专业的直订渠道和个性化的访客体验工具，有助于提高客户在自己网站和应用上预订服务的速度，从而减少对第三方的依赖。"
+        },
+        {
+          "q": "不懂技术的员工能轻松使用这个系统吗？",
+          "a": "管理界面由Winterfrost优化，注重简洁和直观，帮助教师和操作人员在短时间内掌握技术并熟练操作。"
+        },
+        {
+          "q": "旅行者的数据和商业信息是如何安全的？",
+          "a": "所有客户个人信息和运营数据均被加密并存储在独立的服务器系统中，确保严格遵守现行数据保护法的规定。"
+        },
+        {
+          "q": "人工智能具体支持旅游业的哪些方面？",
+          "a": "人工智能技术帮助企业准确预测季节性预订趋势，并自动提出针对各旅客偏好的激励方案，帮助优化每位访客的收入。"
+        }
+      ]
+    }
+  },
+  "giao-duc": {
+    "slug": "giao-duc",
+    "title": "教育",
+    "hero": {
+      "title": "教育行业的软件解决方案",
+      "description": "Winterfrost 提供学习管理系统编程解决方案、在线培训平台和支持强化教育运营的应用程序。我们专注于数字化学习材料、自动化学生管理流程以及优化数字平台上的内容传递基础设施。",
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-phan-mem-cho-nganh-giao-duc.jpg",
+      "imageAlt": "教育行业的软件解决方案",
+      "primaryLabel": "直接联系",
+      "secondaryLabel": "求教信息"
+    },
+    "overview": {
+      "label": "概述",
+      "title": "克服教育基础设施障碍",
+      "paragraphs": [
+        "大型培训机构常常面临分散在多个独立平台上的学生数据，导致管理难以集中管理和伪造运营报告。Winterfrost 通过建立统一数据架构，通过中央 API 系统同步模块间实时信息，解决了这一问题。此外，为了解决同时访问考试用户数量增加时的系统拥堵，我们采用了结合微服务架构和云计算平台自动扩展机制的结合，以保持响应速度不足2秒。",
+        "学术信息安全和试卷泄露防范也通过端到端数据加密协议和多级访问去中心化机制得到全面处理。我们还集成了CDN内容分发网络，优化视频讲座流的性能，并为遗留系统进行源代码重构，彻底消除技术债务。最后，编写工作流程自动化业务流程自动化脚本，帮助教育企业大幅降低重复性任务（如安排教学或定期发送学费通知）的人力成本。"
+      ],
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Khac-phuc-rao-can-ha-tang-giao-duc.jpg",
+      "imageAlt": "克服教育基础设施障碍"
+    },
+    "counters": [
+      {
+        "index": "/01",
+        "value": "10+",
+        "label": "多年经验"
+      },
+      {
+        "index": "/02",
+        "value": "250+",
+        "label": "客户"
+      },
+      {
+        "index": "/03",
+        "value": "15+",
+        "label": "服务国家/地区"
+      },
+      {
+        "index": "/04",
+        "value": "98%",
+        "label": "客户满意度"
+      }
+    ],
+    "values": {
+      "title": "数字教育应用的实际优势",
+      "intro": "深入的编程帮助系统稳定运行并优化业务绩效。定制架构允许数据同步、消除源代码错误，并在模块间实现流程自动化。它是控制风险和基于实际处理速度衡量效率的基础。",
+      "items": [
+        {
+          "title": "优化并发访问指标",
+          "description": "确保系统即使执行在线考试或直播等繁重操作的用户数量大幅增加，也能稳定运行。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "知识产权控制",
+          "description": "内置DRM和数字水印技术，防止未经授权复制或传播专有讲座内容。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "标准化学术数据",
+          "description": "遵守国际教育技术标准，如SCORM或xAPI，以确保与其他平台集成时的兼容性。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "审计流程100%自动化",
+          "description": "为许多复杂考试题目编写自动计分算法，帮助学生获得准确且即时的成绩。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "降低长期基础设施成本",
+          "description": "云源代码和配置优化帮助系统比传统打包软件消耗更少的服务器资源。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "深入分析报告",
+          "description": "提供仪表盘，基于实际收集的数据衡量学习效果和学生留存指标。",
+          "image": "",
+          "imageAlt": ""
+        }
+      ],
+      "cta": "立即预约咨询！"
+    },
+    "why": {
+      "label": "为什么选择我们？",
+      "title": "选择Winterfrost技术能力的理由",
+      "items": [
+        {
+          "number": "1",
+          "title": "交付整个项目源代码",
+          "description": "客户可获得完整的源代码和技术规范文件，以全面掌握系统，而非依赖供应商。"
+        },
+        {
+          "number": "2",
+          "title": "现代技术栈与性能",
+          "description": "在教育技术项目中使用节奏快且高度安全的编程语言，如Go、Python、React和Node.js。"
+        },
+        {
+          "number": "3",
+          "title": "专业的CICD流程",
+          "description": "应用持续集成和部署流程，使得能够快速更新新功能而不扰乱系统。"
+        },
+        {
+          "number": "4",
+          "title": "可用性SLA承诺",
+          "description": "通过冗余和负载均衡解决方案，确保系统运行时间至少达到99.9%。"
+        },
+        {
+          "number": "5",
+          "title": "深度多层安全",
+          "description": "建立WAF防火墙系统，加密敏感数据，并定期对软件进行漏洞检查。"
+        },
+        {
+          "number": "6",
+          "title": "高级专家团队",
+          "description": "整个项目由具备处理复杂逻辑问题经验的工程师完成。"
+        }
+      ]
+    },
+    "cta": {
+      "label": "立即联系！",
+      "title": "教育与培训管理基础设施的数字化",
+      "description": "请联系Winterfrost的工程团队，建立集中学习管理系统并自动化运营流程，以优化教育机构的教学表现。",
+      "buttonLabel": "获取技术解决方案建议",
+      "image": "/images/people/cta/winterfrost/chuyen-vien-nam-tre.png",
+      "imageAlt": "专家顾问"
+    },
+    "cases": null,
+    "services": {
+      "title": "教育科技的核心服务",
+      "intro": "我们提供专注于教学和管理流程全面数字化的项目。",
+      "items": [
+        {
+          "title": "定制LMS系统的编程",
+          "description": "建立一个在线运营中心，管理每位学生的完整课程列表、教学材料和学习进度。该系统根据组织结构图和企业实际运营单独设置。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Lap-trinh-he-thong-LMS-tuy-chinh.jpg",
+          "imageAlt": "定制LMS系统的编程"
+        },
+        {
+          "title": "虚拟课堂的发展",
+          "description": "搭建一个实时视频和音频教室环境，传输速度快，没有延迟。它在学习平台内集成了线下教学支持工具，如数字白板和屏幕共享。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phat-trien-Virtual-Classroom.jpg",
+          "imageAlt": "虚拟课堂的发展"
+        },
+        {
+          "title": "构建在线考试系统",
+          "description": "模块编程自动化了考试的组织，从题库的创建到自动评分。该系统集成了监控技术，防止作弊并确保考试结果的客观性。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Xay-dung-he-thong-thi-truc-tuyen.jpg",
+          "imageAlt": "构建在线考试系统"
+        },
+        {
+          "title": "培训视频安全解决方案",
+          "description": "使用加密协议保护您的专有讲座内容。该服务防止用户非法下载或使用屏幕录制软件复制教学数据。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-bao-mat-video-dao-tao.jpg",
+          "imageAlt": "培训视频安全解决方案"
+        },
+        {
+          "title": "教育BI报告系统",
+          "description": "将原始的学生和收入指标转换为可视化分析图表。该系统帮助高管跟踪培训质量、课程完成率，并预测未来的业务表现。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/He-thong-bao-cao-BI-cho-giao-duc.jpg",
+          "imageAlt": "教育BI报告系统"
+        },
+        {
+          "title": "教育移动应用开发",
+          "description": "手机上的编程应用帮助学生随时随地学习和完成作业。应用程序上的所有数据都与计算机上的中央管理系统持续同步。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phat-trien-Mobile-App-giao-duc.jpg",
+          "imageAlt": "教育移动应用开发"
+        }
+      ],
+      "cta": "探索所有服务"
+    },
+    "process": {
+      "label": "项目实施流程？",
+      "items": [
+        {
+          "number": "01",
+          "tag": "分析",
+          "title": "专业测量与技术要求规范",
+          "description": "对实际培训流程进行详细分析，确定并发访问用户的规模，并记录功能规范，以确保系统准确满足业务运营需求。"
+        },
+        {
+          "number": "02",
+          "tag": "建筑",
+          "title": "集中式数据结构与系统设计",
+          "description": "制定微服务架构图并建立数据库，以确保资源的灵活可扩展性，并保持系统中学生信息的统一性。"
+        },
+        {
+          "number": "03",
+          "tag": "接口",
+          "title": "交互式界面编程与体验优化",
+          "description": "UI 用户体验设计侧重于技术导航性能，确保同步显示功能和在网页、iOS 和安卓平台上的稳定运行。"
+        },
+        {
+          "number": "04",
+          "tag": "编程",
+          "title": "模块开发与安全加密层集成",
+          "description": "为学习管理系统模块、在线课堂和考试系统编写源代码，并集成数据加密协议以保护专有教学内容。"
+        },
+        {
+          "number": "05",
+          "tag": "测试",
+          "title": "检查负载限制并检查源代码错误",
+          "description": "运行压力测试场景，评估服务器在峰值访问条件下的运行能力，并进行安全测试以彻底消除技术漏洞。"
+        },
+        {
+          "number": "06",
+          "tag": "操作",
+          "title": "部署云基础设施并交付源代码",
+          "description": "将系统安装到实际环境中，传输所有源代码和操作手册，使企业能够完全掌握技术和数据系统。"
+        }
+      ],
+      "cta": "开始构建您的产品！"
+    },
+    "faq": {
+      "label": "常见问题",
+      "title": "所有问题的答案",
+      "intro": "常见问题解答 关于教育技术系统的常见问题解答",
+      "items": [
+        {
+          "q": "企业在交接后是否拥有源代码的全部所有权？",
+          "a": "是的。Winterfrost 交出了 100% 原始源代码及相关技术规范文件。这确保企业能够完全控制系统，能够主动升级或更换基础设施，而无需依赖任何软件提供商。"
+        },
+        {
+          "q": "当成千上万的学生同时参加在线考试时，系统怎么可能不崩溃？",
+          "a": "我们结合了微服务架构和云计算基础设施上的自动扩展机制。系统会自动检测流量激增，扩展相应服务器资源，确保考试过程中的响应速度和稳定性。"
+        },
+        {
+          "q": "独家讲座视频内容如何防止抄袭？",
+          "a": "Winterfrost 集成了 DRM 视频流加密技术和包含用户身份信息的数字水印技术。该解决方案有效防止未经授权的下载工具，并帮助企业准确追踪录制讲座画面的账户。"
+        },
+        {
+          "q": "系统能否与会计软件或支付网关同步数据？",
+          "a": "是的。我们构建标准API网关，将数据与现有的ERP或CRM企业管理软件整合。系统还支持与银行和电子钱包的直接集成，实现学费收取和财务对账的完全自动化。"
+        },
+        {
+          "q": "来自遗留系统的学生数据能否保证过渡的完整性？",
+          "a": "是的。我们的工程师团队将执行专门的数据转换脚本，将所有个人信息、学业背景和成绩单从旧平台迁移到新系统。该过程经过严格测试，确保不发生数据丢失或差异。"
+        },
+        {
+          "q": "官方的运营后技术支持和维护政策是什么？",
+          "a": "Winterfrost承诺提供直接技术支持，在运营过程中24小时内处理出现的问题。我们还定期进行系统审计和安全补丁，确保软件基础设施始终处于最优和安全的状态。"
+        }
+      ]
+    }
+  },
+  "ke-toan": {
+    "slug": "ke-toan",
+    "title": "会计",
+    "hero": {
+      "title": "企业会计系统解决方案",
+      "description": "Winterfrost 提供深入的会计系统编程解决方案，专注于确保数据完整性和自动化复杂的财务业务流程。我们构建了一套软件基础设施，帮助企业将销售、物流和人力资源模块的所有交易整合到单一账本中，以控制准确的现金流。",
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-he-thong-ke-toan-doanh-nghiep.jpg",
+      "imageAlt": "企业会计系统解决方案",
+      "primaryLabel": "直接联系",
+      "secondaryLabel": "求教信息"
+    },
+    "overview": {
+      "label": "概述",
+      "title": "自动化会计操作",
+      "paragraphs": [
+        "企业面临的最大挑战是财务数据分散在多个Excel文件或独立软件中，导致手工对账既耗时又容易出错。Winterfrost 通过构建一个采用严格交易控制机制的集中治理系统来解决这个问题。我们的解决方案确保每个分录都实时自动交叉核对和同步，消除运营数据与会计数据之间的相位差异。"
+      ],
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Tu-dong-hoa-nghiep-vu-tai-chinh.jpg",
+      "imageAlt": "自动化财务运营"
+    },
+    "counters": [
+      {
+        "index": "/01",
+        "value": "10+",
+        "label": "多年经验"
+      },
+      {
+        "index": "/02",
+        "value": "250+",
+        "label": "客户"
+      },
+      {
+        "index": "/03",
+        "value": "15+",
+        "label": "服务国家/地区"
+      },
+      {
+        "index": "/04",
+        "value": "98%",
+        "label": "客户满意度"
+      }
+    ],
+    "values": {
+      "title": "实施数字会计系统的实际好处",
+      "intro": "集中式会计系统整合数据，消除人工对账，消除报告延迟。该解决方案确保多模块一致性，支持企业基于准确的实际数据做出运营决策。",
+      "items": [
+        {
+          "title": "保证绝对准确",
+          "description": "系统自动执行复杂计算，并在模块间对数据进行对账，以消除人为错误。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "实时报告更新",
+          "description": "管理层可以在交易发生后立即跟踪收入、支出和利润，无需等待到期限结束。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "自动化会计流程",
+          "description": "销售和采购交易根据规定自动转换为会计分录。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "严格控制税务义务",
+          "description": "该系统自动汇总数据，并按照州管理机构规定的格式提交报税表。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "优化债务管理",
+          "description": "自动预警机制帮助企业有效控制应收账款和应付账款，确保现金流的流动性。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "缩短结算时间",
+          "description": "存储数字文档的过程有助于快速准确地搜索和比较记录以便审计。",
+          "image": "",
+          "imageAlt": ""
+        }
+      ],
+      "cta": "立即预约咨询！"
+    },
+    "why": {
+      "label": "为什么选择我们？",
+      "title": "选择Winterfrost进行会计行业数字化转型的理由",
+      "items": [
+        {
+          "number": "1",
+          "title": "深入的金融逻辑编程能力",
+          "description": "一支精通会计准则的工程师团队，将业务流程转化为准确的软件算法。"
+        },
+        {
+          "number": "2",
+          "title": "企业标准安全数据架构",
+          "description": "采用多层数据加密和去中心化方法，保护敏感的金融信息免受任何未经授权的访问。"
+        },
+        {
+          "number": "3",
+          "title": "灵活的系统连接",
+          "description": "通过标准化的API通信门户，轻松同步集成销售平台、仓库管理和电子银行系统。"
+        },
+        {
+          "number": "4",
+          "title": "源代码的全部所有权",
+          "description": "企业会被交付完整的源代码和详细的技术文档，以便他们能够主动管理、升级或维护系统，实现长期维护。"
+        },
+        {
+          "number": "5",
+          "title": "稳定且高性能的操作系统",
+          "description": "该软件经过源码优化，能够每天处理大量文档，同时不降低数据库检索速度。"
+        },
+        {
+          "number": "6",
+          "title": "直接技术支持流程",
+          "description": "我们致力于协助企业处理新出现的问题，并根据会计政策的变化更新新功能。"
+        }
+      ]
+    },
+    "cta": {
+      "label": "立即联系！",
+      "title": "企业财务管理基础设施的标准化",
+      "description": "与Winterfrost的工程团队联系，建立集中会计系统并自动化会计流程，确保运营数据的绝对准确性。",
+      "buttonLabel": "获取系统架构咨询",
+      "image": "/images/people/cta/winterfrost/chuyen-vien-nu.png",
+      "imageAlt": "专家顾问"
+    },
+    "cases": null,
+    "services": {
+      "title": "会计核心编程服务",
+      "intro": "节目类别侧重于财务管理各方面的全面数字化。",
+      "items": [
+        {
+          "title": "通用会计核心编程",
+          "description": "建立集中式账本系统，管理账户组合，并设置自动结转余额规则。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Lap-trinh-loi-ke-toan-tong-hop.jpg",
+          "imageAlt": "通用会计核心编程"
+        },
+        {
+          "title": "直接电子发票集成",
+          "description": "与发票提供商搭建API网关，自动化软件中导出和接收发票数据的流程。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Tich-hop-hoa-don-dien-tu-truc-tiep.jpg",
+          "imageAlt": "直接电子发票集成"
+        },
+        {
+          "title": "构建一个工资和税务管理模块",
+          "description": "根据实际人力资源数据编程薪资计算器，自动分配个人所得税费用。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Xay-dung-module-quan-ly-luong-va-thue.jpg",
+          "imageAlt": "构建一个工资和税务管理模块"
+        },
+        {
+          "title": "固定资产管理系统的开发",
+          "description": "数字化企业资产生命周期的跟踪、计算和资产生命周期管理流程，实现自动化且准确。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phat-trien-he-thong-quan-ly-tai-san-co-dinh.jpg",
+          "imageAlt": "固定资产管理系统的开发"
+        },
+        {
+          "title": "智能金融仪表盘编程",
+          "description": "构建重要财务指标的可视化界面有助于管理层快速掌握现金流变化。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Lap-trinh-Dashboard-tai-chinh-thong-minh.jpg",
+          "imageAlt": "智能金融仪表盘编程"
+        },
+        {
+          "title": "专业会计数据迁移服务",
+          "description": "实施将旧平台数据迁移和清理到新系统的流程，以确保财务指标的连续性。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Dich-vu-di-tru-du-lieu-ke-toan-chuyen-nghiep.jpg",
+          "imageAlt": "专业会计数据迁移服务"
+        }
+      ],
+      "cta": "探索所有服务"
+    },
+    "process": {
+      "label": "项目实施流程？",
+      "items": [
+        {
+          "number": "01",
+          "tag": "调查]",
+          "title": "分析财务业务流并确定技术需求",
+          "description": "工程团队会调查实际的会计方法，以建立算法参数和数据控制规则。"
+        },
+        {
+          "number": "02",
+          "tag": "建筑",
+          "title": "实体图设计与安全架构构建",
+          "description": "数据库架构规划确保平衡并建立高层金融数据加密层。"
+        },
+        {
+          "number": "03",
+          "tag": "编程",
+          "title": "执行功能模块的源代码",
+          "description": "编写深入会计模块的源代码，并设置通往异地操作系统的API网关。"
+        },
+        {
+          "number": "04",
+          "tag": "测试",
+          "title": "公制精度控制与承重测试",
+          "description": "进行题目以核对账目平衡，并彻底审查系统安全漏洞。"
+        },
+        {
+          "number": "05",
+          "tag": "发行",
+          "title": "将系统部署到基础设施并转换数据",
+          "description": "在服务器环境中安装软件，并安全地将之前期间的会计数据加载到新系统中。"
+        },
+        {
+          "number": "06",
+          "tag": "维护保养",
+          "title": "绩效监测与监管更新",
+          "description": "持续监控系统的运行状态，并定期更新、补丁或调整税务政策。"
+        }
+      ],
+      "cta": "开始构建您的产品！"
+    },
+    "faq": {
+      "label": "常见问题",
+      "title": "所有问题的答案",
+      "intro": "关于会计技术的常见问题",
+      "items": [
+        {
+          "q": "当出现技术问题时，如何确保系统不存在数据偏差？",
+          "a": "我们使用数据库事务机制，确保只有在所有处理步骤成功时才记录财务交易，如果出现错误，系统会自动撤销。"
+        },
+        {
+          "q": "旧软件的财务数据能否转移到新系统？",
+          "a": "是的，我们实施了将数据从旧格式标准化和迁移到新平台的流程，同时保持会计历史的完整性。"
+        },
+        {
+          "q": "系统支持自动银行余额对账吗？",
+          "a": "是的，我们编程了自动录入电子账单并与存款簿对账的功能，以即时检测交易现金流的偏差。"
+        },
+        {
+          "q": "客户和供应商数据的安全如何被执行？",
+          "a": "所有标识符均采用AES 256加密，系统仅允许基于参与操作人员的特定角色授权访问。"
+        },
+        {
+          "q": "该软件是否能够按照税务机关的技术标准进行数据呈现？",
+          "a": "是的，报告模块被编程为根据适用税务申报申请的要求，以XML格式或其他数据标准呈现数据。"
+        },
+        {
+          "q": "系统是否支持多成员多货币管理？",
+          "a": "是的，我们的系统架构支持在同一平台上管理多个子公司组合，并自动处理外汇汇率转换操作。"
+        }
+      ]
+    }
+  },
+  "kien-truc-xay-dung": {
+    "slug": "kien-truc-xay-dung",
+    "title": "建筑与施工",
+    "hero": {
+      "title": "建筑与施工软件开发",
+      "description": "大型工程项目需要精确的协调、严格的预算控制以及实时数据访问。依赖手动管理方法或离散报告常常导致资本短缺和项目施工进度延误。",
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Linh-vuc-Xay-dung-HomeNest-Viet-Nam.jpg",
+      "imageAlt": "区域-施工-Winterfrost-越南-越南",
+      "primaryLabel": "直接联系",
+      "secondaryLabel": "求教信息"
+    },
+    "overview": {
+      "label": "概述",
+      "title": "消除建筑行业的障碍",
+      "paragraphs": [
+        "建筑行业经常面临施工现场与管理办公室之间的信息中断。依赖纸质报告或独立软件很容易导致图纸误解、排期冲突和供应链瓶颈，干扰项目进展。",
+        "Winterfrost 通过单一集中化的项目管理系统解决了这些挑战。我们将基于云的现场报告工具与预算可视化系统连接起来，打造一个透明的运营中心。该解决方案帮助各级管理者准确跟踪每个进展里程碑，有效分配任务，并确保施工的每个阶段都符合实际运营需求。"
+      ],
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Kien-truc-va-xay-dung-HomeNest-Viet-Nam.jpg",
+      "imageAlt": "建筑与施工 - Winterfrost"
+    },
+    "counters": [
+      {
+        "index": "/01",
+        "value": "10+",
+        "label": "多年经验"
+      },
+      {
+        "index": "/02",
+        "value": "250+",
+        "label": "客户"
+      },
+      {
+        "index": "/03",
+        "value": "15+",
+        "label": "服务国家/地区"
+      },
+      {
+        "index": "/04",
+        "value": "98%",
+        "label": "客户满意度"
+      }
+    ],
+    "values": {
+      "title": "建筑行业数字化转型的优势",
+      "intro": "Winterfrost协助企业全面优化运营流程，提升品牌在市场中的声誉。",
+      "items": [
+        {
+          "title": "数据连接",
+          "description": "完全消除中央办公室与工地之间的距离，使信息实时流通顺畅。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "财务管理",
+          "description": "密切监控每一种材料和人工成本，有助于企业严格控制现金流，彻底防止项目资本短缺。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "自动化物料管理",
+          "description": "数字化建筑工地的进出口和库存流程，帮助承包商主动采购原材料，最大限度地减少施工过程中的不必要损失。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "确保技术准确性",
+          "description": "云平台上对图纸和规格的集中访问帮助现场团队执行正确的设计，并尽量减少昂贵的偏差。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "优化劳动生产率",
+          "description": "任务分配和视觉进度监控帮助管理者更有效地协调人员和设备，显著缩短项目完成时间。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "风险分析与预测",
+          "description": "合成数据帮助企业及早识别进展风险或资源短缺，主动提供及时且准确的处理计划。",
+          "image": "",
+          "imageAlt": ""
+        }
+      ],
+      "cta": "立即预约咨询！"
+    },
+    "why": {
+      "label": "为什么选择我们？",
+      "title": "为什么选择Winterfrost的建筑技术解决方案",
+      "items": [
+        {
+          "number": "1",
+          "title": "严格的成本控制",
+          "description": "Winterfrost 帮助您停止现场材料和人工的浪费。密切监控每一项费用有助于企业保持利润，避免担心资本损失或意外成本。"
+        },
+        {
+          "number": "2",
+          "title": "容易赢得竞标",
+          "description": "数据管理和报告的专业素养有助于你在大投资者面前留下深刻印象。这证明了现代管理能力，并为接纳更大规模、更高价值项目打开了机会。"
+        },
+        {
+          "number": "3",
+          "title": "远程施工监控",
+          "description": "你不必亲临现场，还能通过电话了解所有项目进展。远程管理节省了领导者专注于寻找合作伙伴和扩大公司的时间。"
+        },
+        {
+          "number": "4",
+          "title": "文件透明度",
+          "description": "所有施工图像和验收记录均经过科学档案保存，有助于与投资者的快速结算。拥有明确的证据有助于企业避免不必要的争执或争执。"
+        },
+        {
+          "number": "5",
+          "title": "确保施工准时",
+          "description": "办公室与现场之间的所有信息均即时传输，帮助项目顺利且迅速地处理问题。项目按计划完成，帮助您维护客户的声誉和信任。"
+        },
+        {
+          "number": "6",
+          "title": "一定要有专家陪同",
+          "description": "Winterfrost 不仅提供工具，还会在需要时支持企业提供技术支持。我们确保系统始终稳定，确保工程师在工地外的工作不会被打断。"
+        }
+      ]
+    },
+    "cta": {
+      "label": "立即联系！",
+      "title": "开始与Winterfrost一起进行智能建筑管理",
+      "description": "让我们帮助您严格控制材料成本，确保每个项目的施工进度。请联系我们的专家团队，获取量身定制的切实解决方案。",
+      "buttonLabel": "立即咨询解决方案",
+      "image": "/images/people/cta/winterfrost/quan-ly-nam.png",
+      "imageAlt": "专家顾问"
+    },
+    "cases": {
+      "title": "Case Studies",
+      "links": [
+        {
+          "href": "https://winterfrost.tech/case-studies/website-virela-interior",
+          "text": "建筑与施工\n电子商务\n网站设计\n维雷拉内部网站\n查看项目"
+        },
+        {
+          "href": "https://winterfrost.tech/case-studies/website-ceranova",
+          "text": "建筑与施工\n电子商务\n网站设计\n网站 Ceranova\n查看项目"
+        },
+        {
+          "href": "https://winterfrost.tech/case-studies/website-chromiva-coatings",
+          "text": "建筑与施工\n电子商务\n网站设计\n网站 Chromiva 涂层\n查看项目"
+        }
+      ],
+      "images": [
+        {
+          "alt": "Chromiva 涂层主页界面——案例研究",
+          "src": "/images/projects/website-chromiva-coatings/01-anh-bia-du-an.webp?v=wf-projects-pro-20260726"
+        }
+      ]
+    },
+    "services": {
+      "title": "全面的建筑项目管理解决方案",
+      "intro": "优化工地管理，严格控制材料成本，确保实际施工进度，帮助建筑企业在运营效率上取得突破。",
+      "items": [
+        {
+          "title": "项目管理系统",
+          "description": "创建一个连接办公室和现场的单一运营中心。所有关于进度、人员和项目变更的信息都会即时更新，确保所有人始终在统一的计划下工作。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/He-thong-quan-tri-cong-trinh-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "大楼管理系统 - Winterfrost"
+        },
+        {
+          "title": "工程师的现场应用",
+          "description": "在手机上开发工具，帮助工程师在施工现场发送报告、拍摄验收照片并更新事故情况。这减少了文书工作，帮助领导者在不亲自到场的情况下掌握实际情况。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Ung-dung-cho-ky-su-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "工程师应用 – Winterfrost"
+        },
+        {
+          "title": "材料与设备控制工具",
+          "description": "实时详细跟踪进出材料和机器位置。这项服务帮助承包商牢固掌握用电规范，消除损失，并在采购阶段更加主动。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Cong-cu-kiem-soat-vat-tu-va-thiet-bi-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "材料与设备控制工具 - Winterfrost"
+        },
+        {
+          "title": "管理图纸和技术数据",
+          "description": "存储并去中心化对最新设计版本的访问。施工团队可以通过移动设备直接查看图纸，确保施工方法正确，避免因维修费用而出错。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Quan-ly-ban-ve-va-du-lieu-ky-thuat-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "技术数据与图纸管理 - Winterfrost"
+        },
+        {
+          "title": "项目现金流监控解决方案",
+          "description": "自动将实际费用与最初预估预算进行更新。这帮助企业主严格控制每项商品的利润，并在财务方面及时调整。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-giam-sat-dong-tien-du-an-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "项目现金流监控解决方案 – Winterfrost"
+        },
+        {
+          "title": "建置中文档自动化系统",
+          "description": "自动收集图片、会议记录和施工数据，快速导出结算记录。这项服务帮助企业缩短交接时间，并迅速从投资者那里回收资金。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/He-thong-tu-dong-hoa-ho-so-hoan-cong-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "成稿文档自动化系统 - Winterfrost"
+        }
+      ],
+      "cta": "探索所有服务"
+    },
+    "process": {
+      "label": "项目实施流程？",
+      "items": [
+        {
+          "number": "01",
+          "tag": "评论",
+          "title": "实地调查",
+          "description": "直接学习如何记录日志、管理仓库，以及团队间沟通，发现导致资金损失和延误的漏洞。"
+        },
+        {
+          "number": "02",
+          "tag": "数据连接",
+          "title": "建立新闻流",
+          "description": "建立一个通信系统，使施工现场的验收影像能立即传送到办公室，确保信息无论距离多远都能保持流畅。"
+        },
+        {
+          "number": "03",
+          "tag": "专业解决方案",
+          "title": "功能开发",
+          "description": "开发现实功能，如机器跟踪图表、进出口物料控制板，以及项目出现资本集中迹象时的预警系统。"
+        },
+        {
+          "number": "04",
+          "tag": "检查",
+          "title": "实际测试",
+          "description": "在网络较弱的环境下或使用现场工程师的旧设备测试系统，并连接监控摄像头，确保数据始终真实。"
+        },
+        {
+          "number": "05",
+          "tag": "接受",
+          "title": "移交和指示",
+          "description": "培训指挥官和工程师如何现场更新报告。我们确保即使是最懂技术的人也能熟练使用。"
+        },
+        {
+          "number": "06",
+          "tag": "伴侣",
+          "title": "项目支持",
+          "description": "从施工开始到档案完成，与企业并肩而立，经历了多个里程碑。我们确保软件始终根据建筑现实的灵活变化运行。"
+        }
+      ],
+      "cta": "开始构建您的产品！"
+    },
+    "faq": {
+      "label": "常见问题",
+      "title": "所有问题的答案",
+      "intro": "解答关于建筑技术解决方案的问题",
+      "items": [
+        {
+          "q": "该系统如何帮助防止工地材料损失？",
+          "a": "该系统允许从仓储到实际使用的材料规范进行密切监控。任何偏差或超出常规的情况都会立即提醒，帮助你及早发现废物或损失的迹象，并立即处理。"
+        },
+        {
+          "q": "不熟练技术的现场工程师能用吗？",
+          "a": "应用界面由Winterfrost设计，极简，注重简洁的点缀和摄影。我们提供现场培训，确保即使是最不情愿的人员也能在仅需15分钟熟悉时间内更新报告并查看图纸。"
+        },
+        {
+          "q": "如果工地网络薄弱或没有互联网，系统如何运作？",
+          "a": "该应用内置了离线工作模式。工程师仍然可以记录日记，拍摄录取照片并正常更新进展。一旦设备重新连接网络，所有数据会自动同步到办公室服务器，不会丢失。"
+        },
+        {
+          "q": "技术文件和项目图纸是否被安全保护？",
+          "a": "图纸和施工图是重要的知识产权，因此Winterfrost采用多层加密技术和严格去中心化的访问。只有持证人员才能查看或编辑数据，让企业对项目安全完全安心。"
+        },
+        {
+          "q": "Winterfrost 的系统是否与现有会计软件集成？",
+          "a": "我们的系统能够灵活连接越南流行的会计或办公管理软件。数据同步帮助会计师无需从头重新录入数据，确保工地与办公室之间的数据始终100%匹配。"
+        },
+        {
+          "q": "系统的实施会打乱当前的施工进度吗？",
+          "a": "Winterfrost的实施过程分为多个阶段，并与项目运营同步进行。我们优先安装核心功能，让企业逐步适应，确保它们不会对施工现场的实际施工造成任何障碍。"
+        }
+      ]
+    }
+  },
+  "ngan-hang": {
+    "slug": "ngan-hang",
+    "title": "银行",
+    "hero": {
+      "title": "银行业数字化转型解决方案",
+      "description": "Winterfrost提供专业的银行技术基础设施建设服务，专注于大规模数据处理，确保最高水平的信息安全。我们设计软件架构，帮助金融机构整合复杂交易流，自动化核心银行业务，并在数字平台上打造无缝的用户体验。",
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-chuyen-doi-so-cho-nganh-ngan-hang.jpg",
+      "imageAlt": "银行业数字化转型解决方案",
+      "primaryLabel": "直接联系",
+      "secondaryLabel": "求教信息"
+    },
+    "overview": {
+      "label": "概述",
+      "title": "优化交易安全",
+      "paragraphs": [
+        "银行业面临的最大挑战是缺乏连接的遗留系统，导致处理缓慢和信息安全风险。Winterfrost 通过建立现代化的数字银行基础设施，采用灵活的微服务架构来解决这一问题。我们的解决方案消除了数据障碍，实现每笔交易的即时同步，并建立了多层保护层，确保资产和客户信息的完整性。"
+      ],
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Toi-uu-hoa-tinh-an-toan-trong-giao-dich.jpg",
+      "imageAlt": "优化交易安全"
+    },
+    "counters": [
+      {
+        "index": "/01",
+        "value": "10+",
+        "label": "多年经验"
+      },
+      {
+        "index": "/02",
+        "value": "250+",
+        "label": "客户"
+      },
+      {
+        "index": "/03",
+        "value": "15+",
+        "label": "服务国家/地区"
+      },
+      {
+        "index": "/04",
+        "value": "98%",
+        "label": "客户满意度"
+      }
+    ],
+    "values": {
+      "title": "实施数字银行系统的实际好处",
+      "intro": "集中式金融系统整合了资金流动，消除了人工错误的风险，并消除了交易延迟。该解决方案确保多模块一致性，支持企业基于准确的实际数据做出管理决策，并严格遵守法律法规。",
+      "items": [
+        {
+          "title": "保证绝对的交易安全",
+          "description": "建立先进的安全协议，帮助防止任何入侵和金融欺诈。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "优化交易处理速度",
+          "description": "并行处理算法帮助以超低延迟每秒执行数百万笔交易。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "自动化业务流程",
+          "description": "尽量减少贷款审批、债务管理和账本会计中的人工干预。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "个性化客户体验",
+          "description": "利用集中数据，提供针对每个用户群体实际需求的金融服务。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "遵守国际金融标准",
+          "description": "该系统被编程以完全符合中央银行的资本安全和风险管理规定。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "增强可追溯性和报告能力",
+          "description": "即时提取财务报表和审计数据，且绝对准确。",
+          "image": "",
+          "imageAlt": ""
+        }
+      ],
+      "cta": "立即预约咨询！"
+    },
+    "why": {
+      "label": "为什么选择我们？",
+      "title": "银行选择Winterfrost的理由",
+      "items": [
+        {
+          "number": "1",
+          "title": "编程 国际标准安全系统",
+          "description": "我们采用AES 256数据加密标准和多因素认证，保护系统免受任何网络攻击。源代码中的每个组件都会定期检查漏洞，以确保最高安全性。"
+        },
+        {
+          "number": "2",
+          "title": "深入了解金融行业的监管和法律",
+          "description": "工程师团队不仅在代码方面表现出色，还精通银行运营规则以及国家银行的信息安全法规。这确保了系统始终符合法律要求。"
+        },
+        {
+          "number": "3",
+          "title": "具有无限可扩展性的系统架构",
+          "description": "我们设计软件时，能够根据实际交易流程灵活升级资源。企业可以轻松增加新的金融服务，而无需改变核心系统结构。"
+        },
+        {
+          "number": "4",
+          "title": "多样化的生态系统集成能力",
+          "description": "我们的系统通过标准化的API网关轻松连接支付网关、电子钱包和身份平台。双方之间的数据流动始终保证顺畅且安全。"
+        },
+        {
+          "number": "5",
+          "title": "严格的性能和安全测试",
+          "description": "在运行前，系统必须在最恶劣的模拟环境中进行渗透测试和负载测试。这从开发阶段就消除了任何技术风险。"
+        },
+        {
+          "number": "6",
+          "title": "交出所有技术掌控",
+          "description": "Winterfrost 提供完整的源代码和详细的技术文档，帮助企业实现长期运营和升级的自主性。我们致力于避免对供应商产生依赖。"
+        }
+      ]
+    },
+    "cta": {
+      "label": "立即联系！",
+      "title": "金融基础设施数字化与安全数字银行",
+      "description": "请联系Winterfrost的工程团队，建立集中银行系统并自动化交易流程，确保金融基础设施的绝对安全。",
+      "buttonLabel": "与我们聊天",
+      "image": "/images/people/cta/winterfrost/quan-ly-nam.png",
+      "imageAlt": "专家顾问"
+    },
+    "cases": null,
+    "services": {
+      "title": "银行业的专业服务",
+      "intro": "编程项目专注于数字化每个流程并优化金融领域的安全。",
+      "items": [
+        {
+          "title": "核心银行系统编程",
+          "description": "建立一个中央运营体系，帮助管理账户、存款、贷款和集中财务会计。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Lap-trinh-he-thong-ngan-hang-loi-Core-Banking-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "核心银行系统编程 – Winterfrost"
+        },
+        {
+          "title": "构建电子身份验证电子身份验证解决方案",
+          "description": "编程面部识别和自动文件认证算法，以缩短开户时间并提升安全性。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Xay-dung-giai-phap-dinh-danh-dien-tu-eKYC.jpg",
+          "imageAlt": "构建电子身份验证电子身份验证解决方案"
+        },
+        {
+          "title": "深入的移动银行应用开发",
+          "description": "在移动设备上编程应用程序，具备直观的界面和完全集成的支付和个人理财管理功能。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phat-trien-ung-dung-Mobile-Banking-chuyen-sau.jpg",
+          "imageAlt": "深入的移动银行应用开发"
+        },
+        {
+          "title": "建立支付网关和支付中介",
+          "description": "建设连接资金转账、账单支付和实时现金流管理的基础设施。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Thiet-lap-cong-thanh-toan-va-trung-gian-thanh-toan.jpg",
+          "imageAlt": "建立支付网关和支付中介"
+        },
+        {
+          "title": "风险管理与反欺诈系统编程",
+          "description": "开发行为分析工具和异常交易信号的预警，以保护客户账户。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Lap-trinh-he-thong-quan-tri-rui-ro-va-chong-gian-lan.jpg",
+          "imageAlt": "风险管理与反欺诈系统编程"
+        },
+        {
+          "title": "构建一个用于分析财务数据的仪表盘",
+          "description": "建立可视化业务指标和风险报告的工具，有助于管理层制定准确的财务策略。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Toi-uu-hoa-tinh-an-toan-trong-giao-dich-1.jpg",
+          "imageAlt": "优化交易安全"
+        }
+      ],
+      "cta": "探索所有服务"
+    },
+    "process": {
+      "label": "项目实施流程？",
+      "items": [
+        {
+          "number": "01",
+          "tag": "分析",
+          "title": "业务流程调查与安全标准的建立",
+          "description": "工程师团队会调查基础设施的当前状态，并确定信息安全的严格技术要求。"
+        },
+        {
+          "number": "02",
+          "tag": "建筑",
+          "title": "实体图设计与网络基础设施规划",
+          "description": "建立集中式数据模型并设计防火墙层，确保数据库的绝对安全。"
+        },
+        {
+          "number": "03",
+          "tag": "编程",
+          "title": "执行金融模块的源代码",
+          "description": "按照最高安全标准编写模块的源代码，并建立标准化的API网关。"
+        },
+        {
+          "number": "04",
+          "tag": "测试",
+          "title": "渗透测试与系统负载测试",
+          "description": "进行安全测试，并具备同时处理数百万笔交易的能力以确保稳定性。"
+        },
+        {
+          "number": "05",
+          "tag": "部署",
+          "title": "云基础设施配置与财务数据转换",
+          "description": "将系统释放到服务器环境，并安全地实现将客户数据从旧系统迁移到新平台的流程。"
+        },
+        {
+          "number": "06",
+          "tag": "维护保养",
+          "title": "运营监控和安全补丁更新",
+          "description": "全天候24小时监控系统状态，并根据金融市场变化进行功能更新。"
+        }
+      ],
+      "cta": "开始构建您的产品！"
+    },
+    "faq": {
+      "label": "常见问题",
+      "title": "所有问题的答案",
+      "intro": "关于数字银行系统工程的常见问题解答",
+      "items": [
+        {
+          "q": "该系统如何确保对大规模网络攻击的绝对安全？",
+          "a": "Winterfrost 实现了多层安全架构，结合了高级应用防火墙和实时异常流量监控机制。所有交易数据和客户信息均采用AES 256标准进行加密。我们还建立了多因素认证系统和严格的访问管理，以防止系统内外的未经授权入侵。"
+        },
+        {
+          "q": "该系统能否与银行长期建立的核心银行基础设施集成？",
+          "a": "是的。我们编写中间API网关，并采用数据集成轴架构，实现现代数字平台与企业遗留核心系统之间的信息平滑同步。该解决方案帮助银行在不完全改变现有数据库基础设施的情况下，提升数字环境中的客户体验。"
+        },
+        {
+          "q": "系统处理并发事务的能力达到了怎样的性能水平？",
+          "a": "得益于云基础设施上的微服务架构和并行处理技术的应用，该系统能够以极低的延迟每秒处理数万笔交易。自动负载均衡机制帮助系统即使在交通高峰时段保持绝对稳定。"
+        },
+        {
+          "q": "财务报表新法律法规的更新是如何进行的？",
+          "a": "我们根据业务规则的参数化模型设计系统。当国家银行的税收政策或报告法规发生变化时，管理团队可以轻松地在管理界面上调整系统配置和报告表格，而无需深度干预软件源代码。"
+        },
+        {
+          "q": "如何防止在线交易中的欺诈和洗钱？",
+          "a": "该系统内置基于实时用户行为分析的欺诈检测引擎。算法将根据活动历史、地理位置和消费模式自动识别并标记异常交易。这有助于银行在交易完成前主动预防金融风险。"
+        },
+        {
+          "q": "将数据从旧系统迁移到新系统的过程中，会不会导致服务中断？",
+          "a": "我们采用分阶段的数据迁移策略，并结合并行的数据同步机制。这一流程确保所有客户信息和交易历史被准确且安全地传输到新系统。数字银行服务在整个基础设施转型过程中持续运行。"
+        }
+      ]
+    }
+  },
+  "nong-nghiep": {
+    "slug": "nong-nghiep",
+    "title": "农业",
+    "hero": {
+      "title": "农业行业的数字化转型",
+      "description": "现代农业需要比传统方法更高的条件。这需要有实际数据来证明。Winterfrost开发按需农业技术平台，旨在提高农业效率。从利用物联网技术的传感器、作物预测到植物健康状态监测能力，我们支持农业企业更智能地成长，减少成本损失，并将优质产品推向市场。",
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Gioi-thieu-linh-vuc-nong-nghiep-HomeNest-Viet-Nam.jpg",
+      "imageAlt": "关于农业 - Winterfrost",
+      "primaryLabel": "直接联系",
+      "secondaryLabel": "求教信息"
+    },
+    "overview": {
+      "label": "概述",
+      "title": "农业管理解决方案",
+      "paragraphs": [
+        "目前，农业部门正面临许多严峻挑战，如气候变化、劳动力短缺以及日益严格的食品安全要求。采用传统的生产管理方法，如簿记、逐个零部件跟踪，并基于感知处理病虫害，常常导致农产品质量不稳定，导致收获后浪费，降低企业在市场中的竞争力。",
+        "Winterfrost通过构建农业管理系统解决了这些问题。我们结合物联网传感器设备的数据、人工智能预测模型，及时解决问题并提出下一步策略。"
+      ],
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Nong-nghiep-HomeNest-Viet-Nam.jpg",
+      "imageAlt": "农业 - Winterfrost"
+    },
+    "counters": [
+      {
+        "index": "/01",
+        "value": "10+",
+        "label": "多年经验"
+      },
+      {
+        "index": "/02",
+        "value": "250+",
+        "label": "客户"
+      },
+      {
+        "index": "/03",
+        "value": "15+",
+        "label": "服务国家/地区"
+      },
+      {
+        "index": "/04",
+        "value": "98%",
+        "label": "客户满意度"
+      }
+    ],
+    "values": {
+      "title": "农业企业解决方案",
+      "intro": "Winterfrost 构建定制数据平台，帮助将传统农业模式转变为智能数字农业模式。",
+      "items": [
+        {
+          "title": "土壤状况监测",
+          "description": "测量设备无需肉眼估算，而是直接将土壤湿度、营养和天气数据发送到企业系统。接下来，它帮助员工准确决定何时浇水或施肥，避免浪费，并帮助植物茁壮成长",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "AI作物健康评估",
+          "description": "利用计算机视觉模型分析裁剪图像，自动检测病理、营养缺乏或害虫侵扰的早期迹象。系统会立即发送警报，帮助企业制定及时的处理计划，最大限度地减少损失。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "自动化灌溉与资源管理",
+          "description": "构建智能灌溉系统，根据实时天气和土壤湿度数据自动安排供水。这种解决方案节省了用水量，并确保作物始终获得足够的水分以供生长。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "生产力预测功能",
+          "description": "使用结合农业历史、天气模式和作物健康状况的数据分析工具，准确预测产量和收获时间。这有助于企业主动寻找产出以增加利润。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "肯定农产品的质量",
+          "description": "从播种、护理到包装的整个流程都存储在系统中，无法修改。这使得农产品更容易通过检验阶段进入超市或出口，同时也赢得了消费者的绝对信任。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "劳动力管理",
+          "description": "你可以为每个团队分配任务，直接在应用中跟踪完成和时间管理的进度。即使你不亲自到场，你也能知道谁在做什么，结果如何，帮助机器始终顺畅运行。",
+          "image": "",
+          "imageAlt": ""
+        }
+      ],
+      "cta": "立即预约咨询！"
+    },
+    "why": {
+      "label": "为什么选择我们？",
+      "title": "为什么Winterfrost是农业企业值得信赖的合作伙伴？",
+      "items": [
+        {
+          "number": "1",
+          "title": "稳定运行",
+          "description": "我们的移动应用允许员工即使在偏远地区，无需手机信号也能记录、更新数据和报告。一旦网络连接恢复，系统会自动同步所有数据到服务器。"
+        },
+        {
+          "number": "2",
+          "title": "具视觉的广域监测",
+          "description": "与其浪费时间进行人工检查，不如通过实际影像监控整个农场的健康状况。该系统会分析树木生长不良的区域，帮助您制定及时的处理方案。"
+        },
+        {
+          "number": "3",
+          "title": "同时管理多个农场",
+          "description": "即使你的企业拥有数百个不同地区的增长区域，你仍然可以在一个平台上管理它们。该系统为每个区域经理、工程师和工作人员提供了详细的去中心化，保持数据的一致性和清晰。"
+        },
+        {
+          "number": "4",
+          "title": "自动报告",
+          "description": "系统无需每次合作伙伴或主管部门检查时手动查找账簿或准备数据，系统会自动将所有运营数据汇总成清晰的报告。企业总是准备在生产中证明他们的专业水平。"
+        },
+        {
+          "number": "5",
+          "title": "连接可用软件",
+          "description": "Winterfrost 的平台可以轻松连接到企业使用的会计系统、仓储管理或农产品交易所。这有助于数据从生产到销售的顺畅流动，无需多次重新录入数据。"
+        },
+        {
+          "number": "6",
+          "title": "绝对安全",
+          "description": "我们理解农业配方、植物品种数据和产量预测是您业务最宝贵的资产。因此，系统配备了最高标准的加密层，确保你的数据不会被泄露或未经授权访问。"
+        }
+      ]
+    },
+    "cta": {
+      "label": "立即联系！",
+      "title": "准备好数字化转型您的农业产业了吗？",
+      "description": "让我们与Winterfrost一起建立集中管理体系，密切监控农场状况，优化运营成本，并基于实际数据提升农产品质量。",
+      "buttonLabel": "立即收到解决方案建议",
+      "image": "/images/people/cta/winterfrost/chuyen-vien-nu.png",
+      "imageAlt": "专家顾问"
+    },
+    "cases": {
+      "title": "Case Studies",
+      "links": [
+        {
+          "href": "https://winterfrost.tech/case-studies/website-flexora-packaging",
+          "text": "农业\n网站设计\n网站 Flexora 包装\n查看项目"
+        },
+        {
+          "href": "https://winterfrost.tech/case-studies/website-polyvera",
+          "text": "零售\n农业\n网站设计\n网站Polyvera\n查看项目"
+        }
+      ],
+      "images": [
+        {
+          "alt": "Flexora包装接口——案例研究",
+          "src": "/images/projects/website-flexora-packaging/01-anh-bia-du-an.webp?v=wf-projects-pro-20260726"
+        },
+        {
+          "alt": "Polyvera 界面——案例研究",
+          "src": "/images/projects/website-polyvera/01-anh-bia-du-an.webp?v=wf-projects-pro-20260726"
+        }
+      ]
+    },
+    "services": {
+      "title": "各农业部门的技术解决方案",
+      "intro": "从本地合作社到跨国农业公司，Winterfrost提供适合各种规模和生产模式的深入软件解决方案。",
+      "items": [
+        {
+          "title": "精准种植与农业",
+          "description": "我们构建田间管理平台，帮助您规划每个区域的详细施肥，密切监测品种，并管理跨多个季节的轮作计划。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Trong-trot-va-canh-tac-chinh-xac.jpg",
+          "imageAlt": "精准种植与农业"
+        },
+        {
+          "title": "牛和家禽养殖",
+          "description": "牛群管理系统、支持监控每个个体健康、自动化喂养计划以确保营养，并密切监控过程以限制疾病。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Chan-nuoi-gia-suc-va-gia-cam-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "牛与家禽养殖 - Winterfrost"
+        },
+        {
+          "title": "水产养殖",
+          "description": "建立水质监测网络和自动供水系统。该软件帮助管理国内和离岸养殖模式的最佳养殖密度，确保海鲜的最佳生长环境。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Chan-nuoi-thuy-hai-san-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "水产养殖 - Winterfrost"
+        },
+        {
+          "title": "农业物资的分发",
+          "description": "为化肥、种子和农药分销商提供仓储管理和需求预测解决方案。该系统有助于优化进口循环，并高效管理向农民运输的流程。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Cung-ung-va-phan-phoi-vat-tu-nong-nghiep-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "农业材料供应与分销 - Winterfrost"
+        },
+        {
+          "title": "质量检验与供应链",
+          "description": "构建收获后产品质量检测平台、持续冷藏温度监测系统，以及协调加工厂到零售点运输的工具，确保产品新鲜。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Kiem-tra-chat-luong-va-chuoi-cung-ung-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "质量检验与供应链 - Winterfrost"
+        },
+        {
+          "title": "资本管理支持",
+          "description": "帮助企业以透明的方式跟踪贷款或农业支持资金的使用情况，确保资金被用于正确的目的且高效。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Ho-tro-quan-ly-nguon-von-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "资本管理支持 - Winterfrost"
+        }
+      ],
+      "cta": "探索所有服务"
+    },
+    "process": {
+      "label": "项目实施流程？",
+      "items": [
+        {
+          "number": "01",
+          "tag": "接待处",
+          "title": "接收需求",
+          "description": "Winterfrost 倾听企业面临的实际问题，提供合适的技术解决方案建议，帮助彻底解决企业的运营问题。"
+        },
+        {
+          "number": "02",
+          "tag": "调查",
+          "title": "基础设施调查与评估",
+          "description": "技术团队直接评估地形、网络基础设施（如WiFi/4G）以及农场设备的连接能力。观察员工的实际工作过程有助于我们制定切实可行的实施方案，消除技术障碍。"
+        },
+        {
+          "number": "03",
+          "tag": "设计",
+          "title": "提出解决方案",
+          "description": "构建软件架构，并根据调查数据推荐兼容的硬件。该计划包括详细的路线图、预算估算以及保护业务信息保密的承诺。"
+        },
+        {
+          "number": "04",
+          "tag": "测试",
+          "title": "系统构建与测试",
+          "description": "实施试点模型以测试设备耐用性和离线数据存储。这是一个重要的阶段，需要优化软件界面，使其对企业来说尽可能简单易用。"
+        },
+        {
+          "number": "05",
+          "tag": "部署",
+          "title": "实施与培训",
+          "description": "测试成功后，将系统安装到整个企业规模。Winterfrost直接为工人提供管理技术培训和现场操作指导，确保工作顺利。"
+        },
+        {
+          "number": "06",
+          "tag": "维护保养",
+          "title": "验收与运营支持",
+          "description": "把整个系统和文档交出来。我们支持远程监控、定期维护，并在2-4小时内承诺反馈和技术故障排查，确保生产不间断。"
+        }
+      ],
+      "cta": "开始构建您的产品！"
+    },
+    "faq": {
+      "label": "常见问题",
+      "title": "所有问题的答案",
+      "intro": "我们总结了最常见的问题，帮助企业在开始数字化转型之旅前有更清晰的视角。",
+      "items": [
+        {
+          "q": "Winterfrost 的系统在没有 4G/WiFi 覆盖的地区能正常工作吗？",
+          "a": "是的。我们的移动应用设计时就考虑了离线模式。员工仍然可以正常录入数据并拍摄报告照片。一旦设备重新连接网络，数据将自动同步到系统，确保信息不会被中断。"
+        },
+        {
+          "q": "不懂技术的农场工人能使用这些软件吗？",
+          "a": "绝对是。Winterfrost 强调极其简洁的界面设计，使用直观的图标和易懂的越南语。此外，我们还在现场设有实时培训流程，确保即使是技术最不熟悉的人也能掌握日常任务。"
+        },
+        {
+          "q": "Winterfrost 的解决方案能否根据每种作物或牲畜的特性进行定制？",
+          "a": "是的。我们不卖一刀切的软件。根据水稻、果树和海鲜等各类作物的生长特性，Winterfrost将根据企业实际生产情况定制预警指标、养护流程和报告表格。"
+        },
+        {
+          "q": "我的配方和产量数据安全吗？",
+          "a": "数据安全是我们的首要任务。所有关于商业机密、农业流程和客户数据的信息都被加密并存储在独立系统中。Winterfrost承诺未经您的书面同意，不会与任何第三方分享业务数据。"
+        },
+        {
+          "q": "实施成本是如何计算的？",
+          "a": "费用取决于农场规模、需安装的传感器数量以及软件功能的复杂程度。Winterfrost会在实地调查后提供详细估价，确保您只投资真正经济可行的功能。"
+        },
+        {
+          "q": "如果设备或软件出现问题，Winterfrost还能支持多久？",
+          "a": "我们承诺在收到请求后24小时内响应并启动技术故障排查流程。如有需要，我们的技术团队将提供远程或现场支持，确保生产不中断。"
+        }
+      ]
+    }
+  },
+  "phan-mem-doanh-nghiep": {
+    "slug": "phan-mem-doanh-nghiep",
+    "title": "企业软件",
+    "hero": {
+      "title": "开发定制企业软件",
+      "description": "Winterfrost 构建智能、强大且易用的企业软件系统，旨在统一您的整个运营流程。从整体ERP系统到定制CRM平台，我们打造坚实的技术基础，满足企业在数字时代实现可持续增长的需求。",
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phat-trien-phan-mem-doanh-nghiep-tuy-chinh.jpg",
+      "imageAlt": "开发定制企业软件",
+      "primaryLabel": "直接联系",
+      "secondaryLabel": "求教信息"
+    },
+    "overview": {
+      "label": "概述",
+      "title": "通过ERP和CRM系统优化运营效率",
+      "paragraphs": [
+        "企业常常难以在大量离散软件上运行，导致数据分散且缺乏同步。手工流程浪费时间、易出错且难以控制人员绩效。此外，预包装软件通常缺乏灵活性，难以根据业务特性定制，或在扩展过程中遇到障碍。",
+        "Winterfrost 提供针对每个企业实际业务流程量身定制的软件解决方案。我们专注于将工作流程整合到单一平台，涵盖ERP资源管理、客户关系管理（CRM）、客户管理、人力资源和供应链管理。该解决方案帮助企业优化资源，掌握集中数据，构建专业且灵活的运营体系。"
+      ],
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Toi-uu-hoa-hieu-suat-van-hanh-bang-he-thong-ERP-va-CRM.jpg",
+      "imageAlt": "通过ERP和CRM系统优化运营绩效"
+    },
+    "counters": [
+      {
+        "index": "/01",
+        "value": "10+",
+        "label": "多年经验"
+      },
+      {
+        "index": "/02",
+        "value": "250+",
+        "label": "客户"
+      },
+      {
+        "index": "/03",
+        "value": "15+",
+        "label": "服务国家/地区"
+      },
+      {
+        "index": "/04",
+        "value": "98%",
+        "label": "客户满意度"
+      }
+    ],
+    "values": {
+      "title": "为什么您的企业需要定制软件？",
+      "intro": "Winterfrost 的解决方案通过连接数据、自动化流程并全面掌握自有技术平台，帮助您更高效地管理公司。",
+      "items": [
+        {
+          "title": "不再有丢失的信息",
+          "description": "从会计、销售到物流的所有信息都集中在一个系统中。你不必再花时间寻找Excel文件或在部门间来回询问，因为所有数据都清晰可见。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "工作更快，少做体力劳动",
+          "description": "软件将自动化数据录入、薪资计算或开立发票等重复性任务。员工将有更多时间专注于寻找客户和提升服务等重要事务。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "立即捕捉公司的状况",
+          "description": "您可以随时通过手机或电脑查看收入、库存或项目进度报告。实时更新的数据帮助你做出准确的商业决策，无需等待员工整理数据。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "遵循你流程的软件",
+          "description": "与常常受限的现成软件不同，Winterfrost的软件是基于你的工作方式构建的。如果你想随着公司增长增加或移除功能或更改流程，这很容易做到。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "更专业的客户服务",
+          "description": "系统清晰地记住每位客户的购买历史、偏好和习惯。这有助于咨询团队更好地理解客户，从而满足正确的需求，让客户长期感受到被关怀和对公司的依恋。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "省钱，永远拥有",
+          "description": "你只需要一次性投资，就能永久拥有软件的源代码。企业将不再需要担心昂贵的月费或服务提供商突然上涨服务价格的风险。",
+          "image": "",
+          "imageAlt": ""
+        }
+      ],
+      "cta": "立即预约咨询！"
+    },
+    "why": {
+      "label": "为什么选择我们？",
+      "title": "Winterfrost 的竞争优势",
+      "items": [
+        {
+          "number": "1",
+          "title": "完全所有权移交",
+          "description": "Winterfrost 承诺在项目完成后，100% 转让源代码和技术文档。企业有完全权利管理和处置升级或系统变更，不受供应商法律或技术界限的约束。"
+        },
+        {
+          "number": "2",
+          "title": "按照正确的流程进行软件开发",
+          "description": "我们不提供可用的功能。该软件基于企业实际调查结果构建，确保功能正确解决运营问题，并与当前工作流程完全兼容。"
+        },
+        {
+          "number": "3",
+          "title": "可扩展的技术基础设施",
+          "description": "通过微服务和云原生架构，系统确保随着用户数量和数据数量的增加，性能得以保持。企业可以在不改变原有核心结构的情况下向系统添加新模块。"
+        },
+        {
+          "number": "4",
+          "title": "在国际市场部署的能力",
+          "description": "Winterfrost的工程团队已为美国、欧洲、新加坡和日本的合作伙伴实施了软件项目。我们根据国际标准对每个项目应用技术标准和质量控制流程。"
+        },
+        {
+          "number": "5",
+          "title": "优化成本和投资效率",
+          "description": "通过在越南集中一支高度专业化的工程师团队，我们以比雇佣本地人员或购买昂贵软件更低的成本，提供高质量的软件解决方案。"
+        },
+        {
+          "number": "6",
+          "title": "提供持续的维护和技术支持服务",
+          "description": "我们定期进行维护，更新安全补丁，并全天候处理技术问题。Winterfrost 确保系统始终稳定且紧跟最新技术。"
+        }
+      ]
+    },
+    "cta": {
+      "label": "立即联系！",
+      "title": "立即标准化业务操作流程！",
+      "description": "准备将手动流程和碎片数据转换为集中管理系统。让Winterfrost帮助您构建定制的ERP/CRM平台，确保绝对的数据同步和永久的源代码所有权。",
+      "buttonLabel": "立即收到解决方案建议",
+      "image": "/images/people/cta/winterfrost/chuyen-vien-nam-tre.png",
+      "imageAlt": "专家顾问"
+    },
+    "cases": null,
+    "services": {
+      "title": "定制企业软件编程服务",
+      "intro": "Winterfrost 实现了集中管理系统的编程和实施，如 ERP、CRM 和人力资源管理。我们专注于业务流程数字化、部门间数据连接，以及提供分析工具，帮助企业准确控制运营。",
+      "items": [
+        {
+          "title": "整体ERP系统开发",
+          "description": "编写一个资源管理解决方案，将会计、采购、物流和销售等模块集成到单一数据库中。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phat-trien-he-thong-ERP-tong-the.jpg",
+          "imageAlt": "整体ERP系统开发"
+        },
+        {
+          "title": "构建一个深入的CRM平台",
+          "description": "开发客户关系管理软件，重点存储交易历史、管理销售漏斗和自动化关怀流程。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Xay-dung-nen-tang-CRM-chuyen-sau.jpg",
+          "imageAlt": "构建一个深入的CRM平台"
+        },
+        {
+          "title": "人力资源与薪资管理软件",
+          "description": "数字化考勤、工资、员工记录管理，并跟踪绩效指标。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phan-mem-quan-tri-nhan-su-va-tien-luong-.jpg",
+          "imageAlt": "人力资源与薪资管理软件"
+        },
+        {
+          "title": "工作流程管理系统",
+          "description": "在线审批工具编程、分配任务并跟踪项目进度，确保运营流程的连续性。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/He-thong-quan-ly-quy-trinh-lam-viec.jpg",
+          "imageAlt": "工作流程管理系统"
+        },
+        {
+          "title": "仓储与供应链管理解决方案",
+          "description": "构建实时库存控制软件，管理供应商组合，优化进出口流程。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-quan-ly-kho-va-chuoi-cung-ung.jpg",
+          "imageAlt": "仓储与供应链管理解决方案"
+        },
+        {
+          "title": "智能报告系统集成",
+          "description": "开发仪表盘以分析数据，帮助提取定期报告，并支持财务和业务指标的控制。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Tich-hop-he-thong-bao-cao-thong-minh.jpg",
+          "imageAlt": "智能报告系统集成"
+        }
+      ],
+      "cta": "探索所有服务"
+    },
+    "process": {
+      "label": "项目实施流程？",
+      "items": [
+        {
+          "number": "01",
+          "tag": "接待处",
+          "title": "需求调查与分析",
+          "description": "专家团队直接与各部门合作，记录实际的操作流程。我们识别管理问题、数据瓶颈，并制定ERP或CRM系统的特定功能需求。"
+        },
+        {
+          "number": "02",
+          "tag": "源代码开发",
+          "title": "功能编程与数据库集成",
+          "description": "根据约定的要求编写模块的源代码。我们通过API网关将软件与企业可用的工具连接起来，确保数据同步并集中存储。"
+        },
+        {
+          "number": "03",
+          "tag": "保证",
+          "title": "质量检查",
+          "description": "进行全面功能测试以检测和处理逻辑错误。系统必须通过负载能力和数据处理速度测试，以确保随着人员数量增加而运行顺畅。"
+        },
+        {
+          "number": "04",
+          "tag": "推进",
+          "title": "基础设施部署与运营",
+          "description": "进行全面功能测试以检测和处理逻辑错误。系统必须通过负载能力和数据处理速度测试，以确保随着人员数量增加而运行顺畅。"
+        },
+        {
+          "number": "05",
+          "tag": "执行",
+          "title": "基础设施部署与运营",
+          "description": "在服务器系统上安装软件并配置安全。我们为各部门员工组织手工培训课程，并伴随监督，直到系统在实际中稳定运行。"
+        },
+        {
+          "number": "06",
+          "tag": "转乘",
+          "title": "源代码切换与例行维护",
+          "description": "将源代码和技术指导文件100%交付给企业。Winterfrost 提供持续维护、补丁更新和技术支持，确保系统始终兼容不断变化的需求。"
+        }
+      ],
+      "cta": "开始构建您的产品！"
+    },
+    "faq": {
+      "label": "常见问题",
+      "title": "所有问题的答案",
+      "intro": "回答关于定制企业软件系统的问题",
+      "items": [
+        {
+          "q": "为什么企业应该选择定制软件而非打包软件？",
+          "a": "打包软件通常有很多冗余功能，但缺乏针对你自身流程的具体功能。定制软件基于实际操作编程，省去中间步骤，易于扩展，且无需每月订阅版税。"
+        },
+        {
+          "q": "新系统能否连接到正在使用的旧软件？",
+          "a": "是的。我们使用API连接协议，将新系统与现有软件（如会计、销售或办公工具）之间的数据同步。这确保了企业的信息流连续且不中断。"
+        },
+        {
+          "q": "完成ERP或CRM系统的编程需要多长时间？",
+          "a": "实施时间取决于模块数量和业务流程的复杂度。通常，Winterfrost 会将项目划分为多个阶段，并在每个模块中交接，以便企业能够尽早将最重要的功能投入运营。"
+        },
+        {
+          "q": "随着人员和数据的增加，软件会响应吗？",
+          "a": "是的。该系统基于微服务架构和云计算基础设施，允许独立增强服务器资源并添加新功能。该软件确保即使业务数据体积大幅增加，处理速度依然稳定。"
+        },
+        {
+          "q": "企业在交付项目后能否拥有源代码？",
+          "a": "是的。Winterfrost 承诺在项目完成后交付 100% 的源代码和技术文档。企业拥有产品的全部所有权，有权自行升级或更换维护单元，无需对我们施加法律障碍。"
+        },
+        {
+          "q": "系统正式投入使用后，Winterfrost 的支持如何？",
+          "a": "我们提供定期维护、安全补丁更新，以及全天候24小时支持，处理技术错误。此外，我们随时准备提供建议并实施新功能升级，确保软件系统始终与您的业务策略兼容。"
+        }
+      ]
+    }
+  },
+  "phan-mem-tien-ich": {
+    "slug": "phan-mem-tien-ich",
+    "title": "实用软件",
+    "hero": {
+      "title": "企业用公用事业软件解决方案",
+      "description": "Winterfrost 专注于编程工具，帮助优化服务器性能、自动化后台任务并保障技术基础设施安全。我们专注于构建高度兼容的插件，以解决您技术系统中的具体运营问题。",
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-phan-mem-tien-ich-cho-doanh-nghiep.jpg",
+      "imageAlt": "企业用公用事业软件解决方案",
+      "primaryLabel": "直接联系",
+      "secondaryLabel": "求教信息"
+    },
+    "overview": {
+      "label": "概述",
+      "title": "利用实用软件优化性能",
+      "paragraphs": [
+        "企业常常面临资源消耗巨大的手动流程或底层流程的不稳定性，这些都会影响运营。Winterfrost 提供了一种解决方案，用于编程自定义工具，用于自动数据处理、基础设施监控和内存优化。我们的解决方案消除系统错误，消除源代码冲突，确保核心应用始终处于最佳运行状态。"
+      ],
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Toi-uu-hieu-suat-voi-phan-mem-tien-ich-HomeNest-Viet-Nam.jpg",
+      "imageAlt": "使用实用软件优化性能 - Winterfrost"
+    },
+    "counters": [
+      {
+        "index": "/01",
+        "value": "10+",
+        "label": "多年经验"
+      },
+      {
+        "index": "/02",
+        "value": "250+",
+        "label": "客户"
+      },
+      {
+        "index": "/03",
+        "value": "15+",
+        "label": "服务国家/地区"
+      },
+      {
+        "index": "/04",
+        "value": "98%",
+        "label": "客户满意度"
+      }
+    ],
+    "values": {
+      "title": "部署实用软件的实际优势",
+      "intro": "集中式的公用事业软件系统有助于整合数据，消除手动操作，消除运营延迟。该解决方案确保多模块一致性，支持企业保持基础设施的准确性能。",
+      "items": [
+        {
+          "title": "加快数据处理速度",
+          "description": "优化处理算法，缩短执行复杂后台任务的时间。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "工作流程自动化",
+          "description": "通过自动编程场景，完全消除重复操作，节省人力。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "改善基础设施稳定性",
+          "description": "持续监控和自动纠正小问题有助于整个技术系统持续运行。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "硬件资源节约",
+          "description": "释放缓存和优化存储容量有助于降低硬件设备投资成本。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "额外的安全层",
+          "description": "建立严格的漏洞扫描和访问管理工具，保护内部数据。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "标准化信息格式",
+          "description": "自动将多个来源的数据转换并清理为统一的技术规范。",
+          "image": "",
+          "imageAlt": ""
+        }
+      ],
+      "cta": "立即预约咨询！"
+    },
+    "why": {
+      "label": "为什么选择我们？",
+      "title": "企业选择Winterfrost公用软件解决方案的原因",
+      "items": [
+        {
+          "number": "1",
+          "title": "工业系统编程",
+          "description": "我们专注于编写干净的源代码和优化后台流程，确保软件能够持续运行，不会与企业核心应用发生冲突。每款设备都设计以在各种负载条件下保持最高水平的技术稳定性。"
+        },
+        {
+          "number": "2",
+          "title": "解决运营瓶颈",
+          "description": "Winterfrost不提供大规模工具，而是深入客户独特的技术基础设施，编程能够准确处理市场上现有软件无法解决的瓶颈的工具。这为企业创造了真实且即时的使用价值。"
+        },
+        {
+          "number": "3",
+          "title": "优化资源和成本",
+          "description": "我们的工具软件设计目的是最大限度地消耗服务器资源，同时实现最大处理性能。这有助于企业延长物理设备的使用寿命，并显著降低每年维护云计算系统的成本。"
+        },
+        {
+          "number": "4",
+          "title": "非侵入式集成架构",
+          "description": "我们采用智能数据连接方法，帮助工具软件与当前系统顺利通信，而无需更改原始代码结构。这种方法确保了技术基础设施的绝对安全，并且不会中断运营服务。"
+        },
+        {
+          "number": "5",
+          "title": "风险与安全控制",
+          "description": "所有附加工具在交接前都会经过严格的负载测试和漏洞扫描。我们致力于保护业务数据的完整性，防止对核心系统的任何干扰或未经授权的访问。"
+        },
+        {
+          "number": "6",
+          "title": "所有权与源代码转移",
+          "description": "Winterfrost 提供完整的源代码和详细的技术文档，完全消除对开发者的依赖。企业可以完全主动地根据自身开发路线图升级、编辑或整合新功能，无需额外支付版税费用。"
+        }
+      ]
+    },
+    "cta": {
+      "label": "立即联系！",
+      "title": "优化企业技术基础设施的性能",
+      "description": "请联系Winterfrost的工程团队，编写专用工具软件并自动化运营，以提升技术系统的稳定性。",
+      "buttonLabel": "立即获取建议",
+      "image": "/images/people/cta/winterfrost/chuyen-vien-nam-tre.png",
+      "imageAlt": "专家顾问"
+    },
+    "cases": null,
+    "services": {
+      "title": "聚焦编程服务以优化运营",
+      "intro": "我们的编程项目专注于解决具体技术问题，使您的系统更智能、更高效地运行。",
+      "items": [
+        {
+          "title": "编程自动化工具",
+          "description": "我们开发软件，执行诸如导出定期报告、发送邮件通知或按计划备份数据等任务。这项服务消除了耗时的人工操作，并最大限度地减少了人为错误。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Lap-trinh-cong-cu-tu-dong-hoa-cac-cong-viec-lap-lai.jpg",
+          "imageAlt": "自动化重复任务的编程工具"
+        },
+        {
+          "title": "建设一个全天候监控系统",
+          "description": "建立工具监控技术基础设施的运行状态，并在出现过载或问题迹象时自动发送警报。这帮助企业始终主动控制系统，防止影响客户的服务中断。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Xay-dung-he-thong-giam-sat-suc-khoe-may-chu-24-7.jpg",
+          "imageAlt": "建立一个全天候24小时的服务器健康监测系统"
+        },
+        {
+          "title": "公用事业开发与数据转换",
+          "description": "创建工具包，以统一格式收集并同步来自多种来源的信息。该服务使企业能够轻松汇总数据进行分析和报告，而无需执行复杂的数据处理流程。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phat-trien-tien-ich-quan-ly-va-chuyen-doi-du-lieu.jpg",
+          "imageAlt": "数据管理与转换工具的发展"
+        },
+        {
+          "title": "安全和访问控制设置",
+          "description": "编程保护子层以及早检测恶意软件，防止未经授权的内部数据区域入侵。我们帮助提升技术基础设施的安全，同时不影响员工的正常工作流程。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Thiet-lap-giai-phap-bao-mat-va-kiem-soat-truy-cap-bo-tro.jpg",
+          "imageAlt": "建立安全解决方案和附加门禁控制"
+        },
+        {
+          "title": "优化性能的编程工具",
+          "description": "构建能够自动识别并释放占用服务器内存的暂停进程或垃圾数据的应用程序。因此，系统运行更加顺畅，企业也节省了不必要的硬件升级费用。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Lap-trinh-cong-cu-toi-uu-hoa-hieu-suat-va-don-dep-tai-nguyen.jpg",
+          "imageAlt": "优化性能和清理资源的编程工具"
+        },
+        {
+          "title": "构建中介网关",
+          "description": "我们创建桥接工具，帮助企业中的新旧软件顺利交换信息。该服务彻底解决了数据孤立的问题，帮助构建了企业范围内无缝的技术系统。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Xay-dung-cac-cong-trung-gian-ket-noi-phan-mem.jpg",
+          "imageAlt": "构建中介端口以连接软件"
+        }
+      ],
+      "cta": "探索所有服务"
+    },
+    "process": {
+      "label": "项目实施流程？",
+      "items": [
+        {
+          "number": "01",
+          "tag": "分析",
+          "title": "基础设施调查与运营瓶颈识别",
+          "description": "工程团队评估当前工程系统的弱点，以确定功能需求。"
+        },
+        {
+          "number": "02",
+          "tag": "设计",
+          "title": "构建逻辑架构和流程",
+          "description": "处理算法和交互界面的设计确保了简洁但高性能。"
+        },
+        {
+          "number": "03",
+          "tag": "编程",
+          "title": "源代码执行与算法优化",
+          "description": "继续基于Clean Code标准编写代码，并集成并行处理机制以提升速度。"
+        },
+        {
+          "number": "04",
+          "tag": "测试",
+          "title": "碰撞控制与稳定性测试",
+          "description": "在模拟环境中进行测试，确保软件不会给主系统造成错误。"
+        },
+        {
+          "number": "05",
+          "tag": "部署",
+          "title": "安装到系统中的操作配置",
+          "description": "将软件发布到实际基础设施，并根据业务特性设置运营参数。"
+        },
+        {
+          "number": "06",
+          "tag": "操作",
+          "title": "性能监控与技术补丁更新",
+          "description": "持续监控软件健康状况，并根据实际数据调整源代码。"
+        }
+      ],
+      "cta": "开始构建您的产品！"
+    },
+    "faq": {
+      "label": "常见问题",
+      "title": "所有问题的答案",
+      "intro": "关于公用事业软件工程的常见问题解答",
+      "items": [
+        {
+          "q": "公用事业软件会减慢企业关键系统的速度吗？",
+          "a": "没有。Winterfrost 优化源代码，使工具独立运行，并最大限度地减少服务器资源消耗。我们设置了低优先级的后台进程，以确保附加软件不会占用核心业务应用的带宽或内存。"
+        },
+        {
+          "q": "这些工具在各种操作系统平台上都能可靠地工作吗？",
+          "a": "是的。我们基于跨平台兼容的语言编程，确保软件在Windows和Linux上都能可靠运行。这些工具还设计成通过行业标准的连接协议与各种现有数据库结构进行平畅通信。"
+        },
+        {
+          "q": "你的人力资源能在不重新编程的情况下更改自动化规则吗？",
+          "a": "是的。我们构建了一个直观的管理界面，允许用户根据实际需求调整参数和操作场景。企业可以主动更改任务执行的时间表或触发自动化流程的条件，而不干扰原始源代码。"
+        },
+        {
+          "q": "当公用事业软件访问核心数据区域时，数据安全是如何被执行的？",
+          "a": "实用软件仅获得完成特定任务所需的最低权限。所有传输的信息流均采用AES 256加密，系统自动存储详细活动日志以跟踪所有数据处理操作，确保信息基础设施的绝对安全。"
+        },
+        {
+          "q": "开发和交付定制工具软件的平均时间是多少？",
+          "a": "通常，从技术检查到实际调试的过程需要4到8周，具体取决于任务的复杂程度。这段时间包括操作瓶颈分析、源代码编程以及模拟环境中严格的冲突测试。"
+        },
+        {
+          "q": "系统未来会扩展或整合新功能吗？",
+          "a": "是的。模块化源代码架构使新功能的添加快速且操作不中断。我们会将所有详细的技术文档交给您的IT团队，以便主动升级或将其整合进现有的技术生态系统。"
+        }
+      ]
+    }
+  },
+  "phat-trien-ung-dung-theo-yeu-cau": {
+    "slug": "phat-trien-ung-dung-theo-yeu-cau",
+    "title": "根据需要开发应用程序",
+    "hero": {
+      "title": "按需移动应用设计与开发",
+      "description": "Winterfrost 在两个 iOS 和 Android 平台上提供定制移动应用开发服务。我们专注于构建稳定的软件架构、优化用户体验的界面，以及与现有数据系统的灵活集成。",
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Thiet-ke-va-phat-trien-ung-dung-di-dong-theo-yeu-cau.jpg",
+      "imageAlt": "按需移动应用设计与开发",
+      "primaryLabel": "直接联系",
+      "secondaryLabel": "求教信息"
+    },
+    "overview": {
+      "label": "概述",
+      "title": "移动应用的总体状态",
+      "paragraphs": [
+        "由于界面复杂、速度缓慢和操作不稳定，许多移动应用的下架率很高。与内部系统如ERP/CRM的连接导致数据碎片化、安全负担增加和每次操作系统更新时的高昂维护成本，降低企业的投资效率。",
+        "Winterfrost 开发 iOS 和 Android 跨平台应用，采用最佳源代码，确保高速和绝对稳定性。该解决方案基于集中式数据架构，便于与现有管理系统实现实际集成和同步。我们建立了多层安全，并致力于主动提供技术支持，确保应用符合最新标准。"
+      ],
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Ung-dung-tuy-chinh-HomeNest-Viet-Nam.jpg",
+      "imageAlt": "自定义应用 - Winterfrost"
+    },
+    "counters": [
+      {
+        "index": "/01",
+        "value": "10+",
+        "label": "多年经验"
+      },
+      {
+        "index": "/02",
+        "value": "250+",
+        "label": "客户"
+      },
+      {
+        "index": "/03",
+        "value": "15+",
+        "label": "服务国家/地区"
+      },
+      {
+        "index": "/04",
+        "value": "98%",
+        "label": "客户满意度"
+      }
+    ],
+    "values": {
+      "title": "为企业使用定制应用的好处",
+      "intro": "拥有自己的移动应用有助于企业标准化运营流程，保障绝对数据安全，创建有效的直接互动渠道，确保与现有管理系统完全同步。",
+      "items": [
+        {
+          "title": "工艺优化",
+          "description": "自动化手动操作并准确定义移动设备上的工作流程，加快数据处理速度，减少实际操作中的错误。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "数据安全",
+          "description": "企业对基础设施拥有全部所有权，并控制信息流。专门设置了多层深入加密，以绝对保护客户数据和商业机密。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "直接与客户连接",
+          "description": "通过推送通知系统保持全天候互动频道。提供个性化服务和直接向手机提供的优惠，可以提高转化率。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "与现有系统同步",
+          "description": "能够直接连接到管理软件，如ERP、CRM或仓库管理系统。这确保数据流畅，不在部门间分散。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "提升品牌知名度",
+          "description": "该应用采用独特的界面和品牌标准功能，有助于确立企业在数字市场中的专业性和地位。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "功能丰富的开发",
+          "description": "根据每个业务阶段的实际需求轻松升级、编辑或添加新功能模块，不受现有平台限制。",
+          "image": "",
+          "imageAlt": ""
+        }
+      ],
+      "cta": "立即预约咨询！"
+    },
+    "why": {
+      "label": "为什么选择我们？",
+      "title": "为什么企业应该信任Winterfrost服务",
+      "items": [
+        {
+          "number": "1",
+          "title": "基于实际表现的咨询",
+          "description": "我们仔细研究商业模式，提出最必要的功能。这种方法帮助企业避免在没有实际运营价值的技术上浪费预算。"
+        },
+        {
+          "number": "2",
+          "title": "跨平台应用",
+          "description": "使用最先进的框架开发能在 iOS 和 Android 上统一运行的应用。这种方法将部署时间缩短了40%，并节省了维护成本。"
+        },
+        {
+          "number": "3",
+          "title": "用户友好的界面设计",
+          "description": "重点是科学且易于理解地安排操作流程。用户可以轻松使用购买、报告和查询等功能，无需经历许多中间步骤。"
+        },
+        {
+          "number": "4",
+          "title": "高负重系统",
+          "description": "建立一个强大的服务器和数据库系统。即使有大量用户同时访问，应用也始终稳定流畅地运行。"
+        },
+        {
+          "number": "5",
+          "title": "多层安全流程",
+          "description": "建立严格的数据加密标准和安全的认证系统。企业的用户信息和业务数据在最高层级受到保护。"
+        },
+        {
+          "number": "6",
+          "title": "完全拥有该应用",
+          "description": "项目完成后，Winterfrost将全部源代码和技术文档交给了他们。企业完全拥有产品，积极升级未来。"
+        }
+      ]
+    },
+    "cta": {
+      "label": "立即联系！",
+      "title": "准备好拥有自己的移动应用了吗？",
+      "description": "让Winterfrost将您的想法实现为稳定、安全、并带来真实业务绩效的技术产品。我们承诺在整个运营和升级过程中交付所有源代码及相关业务。",
+      "buttonLabel": "立即获取建议",
+      "image": "/images/people/cta/winterfrost/nhan-vien-cong-nghe-tre.png",
+      "imageAlt": "专家顾问"
+    },
+    "cases": {
+      "title": "Case Studies",
+      "links": [
+        {
+          "href": "/case-studies/app-nivora-connect",
+          "text": "按需应用开发\n应用设计\n应用 Nivora Connect\n查看项目"
+        },
+        {
+          "href": "https://winterfrost.tech/case-studies/app-grevia-lawn",
+          "text": "按需应用开发\n应用设计\n阿普格雷维亚草坪\n查看项目"
+        }
+      ],
+      "images": [
+        {
+          "alt": "Nivora 界面——案例研究",
+          "src": "/images/projects/nivora-connect/01-cover.webp?v=wf-20260726"
+        },
+        {
+          "alt": "Grevia 草坪界面——案例研究",
+          "src": "/images/projects/app-grevia-lawn/01-anh-bia-du-an.webp?v=wf-grevia-pro-20260726"
+        }
+      ]
+    },
+    "services": {
+      "title": "Winterfrost 的定制应用设计服务",
+      "intro": "Winterfrost 提供全面的移动应用开发服务，从界面设计到系统编程和运行。我们专注于打造稳定、易用且能灵活整合企业现有技术基础设施的技术解决方案。",
+      "items": [
+        {
+          "title": "为企业设计应用程序",
+          "description": "为人力资源管理、流程审批、项目进度跟踪和现场报告开发内部应用。该服务专注于将业务表单和工作流程数字化到移动设备上。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Thiet-ke-ung-dung-cho-doanh-nghiep-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "为企业设计应用 - Winterfrost"
+        },
+        {
+          "title": "销售应用开发",
+          "description": "设计一个包含完整模块的在线购物应用：购物车、产品搜索、支付网关集成和订单跟踪。我们专注于构建简洁的采购流程，以优化成交率。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phat-trien-app-ban-hang-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "销售应用开发 - Winterfrost"
+        },
+        {
+          "title": "按需应用设计",
+          "description": "基于不同的商业理念或初创模式编程应用。Winterfrost 从打造独家功能到构建自己的数据结构，确保与市场上的产品不重复。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Thiet-ke-ung-dung-theo-yeu-cau-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "自定义应用设计 - Winterfrost"
+        },
+        {
+          "title": "UXUI 标准接口设计",
+          "description": "提供用户行为研究、骨架图设计以及完整的应用图形界面。这是一项面向已有编程团队但需要专业且易用设计的企业的服务。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Thiet-ke-giao-dien-chuan-UXUI-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "UXUI 标准接口设计 - Winterfrost"
+        },
+        {
+          "title": "构建后端系统并连接API",
+          "description": "搭建服务器基础设施，构建数据库和技术网关。该服务帮助移动应用直接连接并同步现有管理软件，如ERP、CRM或企业网站。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Xay-dung-he-thong-Backend-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "构建后端系统 - Winterfrost"
+        },
+        {
+          "title": "应用升级与维护",
+          "description": "执行将应用上架至App Store/Google Play的流程，并保持稳定运行。我们负责修复技术漏洞、更新新功能，并升级源代码，使应用兼容最新版本的 iOS 和 Android 操作系统。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Nang-cap-va-bao-tri-ung-dung-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "应用升级与维护 - Winterfrost"
+        }
+      ],
+      "cta": "探索所有服务"
+    },
+    "process": {
+      "label": "项目实施流程？",
+      "items": [
+        {
+          "number": "01",
+          "tag": "接待处",
+          "title": "分析与解",
+          "description": "明确您的业务目标、受众和核心功能列表。技术团队进行业务分析，记录解决方案描述和详细系统架构。"
+        },
+        {
+          "number": "02",
+          "tag": "构思",
+          "title": "UXUI 流程设计与接口",
+          "description": "制作用户流程图和界面图。统一结构后，我们完成所有申请界面的设计。"
+        },
+        {
+          "number": "03",
+          "tag": "发展",
+          "title": "编程和系统集成",
+          "description": "编写应用程序的源代码，搭建服务器基础设施和数据库。API网关旨在将应用连接到企业内部管理系统。"
+        },
+        {
+          "number": "04",
+          "tag": "操作",
+          "title": "检查与测试",
+          "description": "对IOS和Android等多种物理设备进行功能测试、承载性能测试和安全测试。发现任何技术错误都会在发布前进行彻底审查和纠正。"
+        },
+        {
+          "number": "05",
+          "tag": "发行",
+          "title": "发布到App Store和Google Play",
+          "description": "完成技术程序，并将申请上传到国际商店。Winterfrost密切关注苹果和谷歌的审核流程，确保应用按时发布。"
+        },
+        {
+          "number": "06",
+          "tag": "转乘",
+          "title": "切换与支持",
+          "description": "将所有源代码、管理手册和运营数据转移给企业。我们在实际使用期间定期维护和技术处理支持。"
+        }
+      ],
+      "cta": "开始构建您的产品！"
+    },
+    "faq": {
+      "label": "常见问题",
+      "title": "所有问题的答案",
+      "intro": "回答关于定制应用开发服务的问题",
+      "items": [
+        {
+          "q": "开发基于该数据计算的移动应用成本是多少？",
+          "a": "成本由功能数量、用户界面复杂度以及后端基础设施的需求决定。Winterfrost在进行企业调查并与企业达成解决方案文件后，提供详细报价。"
+        },
+        {
+          "q": "从应用开始到上线商店需要多长时间？",
+          "a": "通常，一个项目的持续时间取决于规模，通常在2到6个月之间。该阶段包括以下阶段：业务分析、用户体验/界面设计、源代码编程、系统测试，以及等待App Store和Google Play批准的时间。"
+        },
+        {
+          "q": "切换完成后，企业能否拥有整个源代码？",
+          "a": "是的。项目结束后，Winterfrost交付了所有源代码及相关技术架构文件。企业完全拥有产品，有权主动升级或转移运营。"
+        },
+        {
+          "q": "这个应用能在 iOS 和 Android 操作系统上同步工作吗？",
+          "a": "是的。我们采用最先进的跨平台技术，使应用在两个操作系统上都能稳定且一致地运行。这有助于企业节省开发成本，而不是为每个平台单独编程。"
+        },
+        {
+          "q": "我如何确保应用中业务数据的安全？",
+          "a": "我们采用端到端数据加密标准，并建立多层认证系统。在发布前，该应用会经过严格的安全测试，以检测并解决潜在的技术漏洞。"
+        },
+        {
+          "q": "当 IOS 和 Android 操作系统发布新版本时，Winterfrost 支持更新吗？",
+          "a": "是的。我们定期提供维护服务，检查兼容性并根据谷歌和苹果的变更升级源代码。这确保了你的应用程序始终能在最新设备上稳定运行。"
+        }
+      ]
+    }
+  },
+  "tai-chinh-doanh-nghiep": {
+    "slug": "tai-chinh-doanh-nghiep",
+    "title": "企业融资",
+    "hero": {
+      "title": "企业金融软件开发",
+      "description": "Winterfrost 提供超安全、可扩展且完全合规的企业财务软件解决方案。我们支持金融机构现代化其过时的核心银行系统，构建自动化资产管理平台，提供与现代金融生态系统完美兼容的技术基础设施。",
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Tai-chinh-doanh-nghiep.jpg",
+      "imageAlt": "企业融资",
+      "primaryLabel": "直接联系",
+      "secondaryLabel": "求教信息"
+    },
+    "overview": {
+      "label": "概述",
+      "title": "将旧金融体系转型为新一代数字架构",
+      "paragraphs": [
+        "许多金融机构仍在使用旧的核心银行系统，这些系统难以升级且维护成本极高。缺乏现代API网关使得与第三方应用的集成变得复杂且风险大。此外，处理大量数据同时确保严格合规法规，对于过时系统来说是一个难题。",
+        "Winterfrost 提供全面的金融基础设施现代化解决方案。我们致力于将遗留系统转型为现代微服务架构，构建自动化资产管理平台和智能风险管理系统。我们的解决方案帮助您优化运营绩效，掌握数据，并准备好满足全球金融市场最严格的标准。"
+      ],
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Chuyen-doi-he-thong-tai-chinh-cu-sang-kien-truc-so-the-he-moi.jpg",
+      "imageAlt": "将旧金融体系转变为新一代数字架构"
+    },
+    "counters": [
+      {
+        "index": "/01",
+        "value": "10+",
+        "label": "多年经验"
+      },
+      {
+        "index": "/02",
+        "value": "250+",
+        "label": "客户"
+      },
+      {
+        "index": "/03",
+        "value": "15+",
+        "label": "服务国家/地区"
+      },
+      {
+        "index": "/04",
+        "value": "98%",
+        "label": "客户满意度"
+      }
+    ],
+    "values": {
+      "title": "通过安全的融资提升治理水平",
+      "intro": "下一代金融解决方案帮助企业现代化遗留系统，加强数据安全，构建自动化资产管理流程，实现大规模的最佳业务绩效。",
+      "items": [
+        {
+          "title": "现代化旧基础设施而不中断",
+          "description": "将过时系统转换为新技术平台，同时确保所有交易活动顺畅运行。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "可扩展性优化",
+          "description": "该系统设计可同时处理数百万笔交易和用户，随着业务规模的增长可以轻松升级。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "资产管理自动化",
+          "description": "通过自动化的投资组合和资产管理算法，最大限度地减少人为错误，提升投资表现。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "确保绝对的法律合规",
+          "description": "内置的报告标准和合规控制帮助企业紧跟最新的财务法规。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "企业级数据安全",
+          "description": "采用最严格的安全标准来保护敏感的金融信息，防止外部威胁。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "基于真实数据的决策",
+          "description": "实时分析与报告系统帮助管理层制定准确及时的财务策略。",
+          "image": "",
+          "imageAlt": ""
+        }
+      ],
+      "cta": "立即预约咨询！"
+    },
+    "why": {
+      "label": "为什么选择我们？",
+      "title": "为什么选择Winterfrost的金融假说",
+      "items": [
+        {
+          "number": "1",
+          "title": "大规模系统现代化经验",
+          "description": "我们能够处理复杂的源代码结构，并安全地将旧基础设施转换为新技术。"
+        },
+        {
+          "number": "2",
+          "title": "金融解决方案顾问",
+          "description": "团队不仅精通技术，还对企业财务和资产管理运营有着深厚的了解。"
+        },
+        {
+          "number": "3",
+          "title": "致力于遵守国际标准",
+          "description": "我们的产品始终符合金融行业严格的安全标准和法律法规。"
+        },
+        {
+          "number": "4",
+          "title": "技术的完全掌握",
+          "description": "企业将100%的源代码交付给企业，确保系统升级的独立性和自主权。"
+        },
+        {
+          "number": "5",
+          "title": "生态系统定制解决方案",
+          "description": "我们设计灵活的软件，确保与您现有的合作伙伴平台和金融生态系统完美兼容。"
+        },
+        {
+          "number": "6",
+          "title": "优化总拥有成本",
+          "description": "Winterfrost 的解决方案降低了长期运营成本，并消除了包装供应商的高额版税费用。"
+        }
+      ]
+    },
+    "cta": {
+      "label": "立即联系！",
+      "title": "建立企业财务管理基础设施",
+      "description": "请联系Winterfrost的工程团队，构建实时现金流管理系统，并自动化结算报告流程，优化您的企业治理绩效。",
+      "buttonLabel": "立即联系我们",
+      "image": "/images/people/cta/winterfrost/chuyen-vien-nu.png",
+      "imageAlt": "专家顾问"
+    },
+    "cases": null,
+    "services": {
+      "title": "下一代企业金融服务",
+      "intro": "Winterfrost部署解决方案，现代化核心银行系统，构建资产管理和智能风险管理平台，帮助企业掌握现代金融基础设施，实现大规模安全和高效运营。",
+      "items": [
+        {
+          "title": "现代化核心银行系统",
+          "description": "升级并转换旧有银行基础设施，打造现代、灵活的架构和易于集成的API。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Hien-dai-hoa-he-thong-ngan-hang-loi.jpg",
+          "imageAlt": "现代化核心银行系统"
+        },
+        {
+          "title": "开发资产管理平台",
+          "description": "构建投资组合管理软件、自动化咨询以及个人/企业资产管理。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phat-trien-nen-tang-quan-ly-tai-san.jpg",
+          "imageAlt": "开发资产管理平台"
+        },
+        {
+          "title": "企业风险管理系统",
+          "description": "基于大数据开发金融风险分析、预测和预警工具。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/He-thong-quan-tri-rui-ro-doanh-nghiep.jpg",
+          "imageAlt": "企业风险管理系统"
+        },
+        {
+          "title": "财务管理解决方案",
+          "description": "优化现金流，管理流动性，并为大型企业集中化外汇交易。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-quan-ly-ngan-quy.jpg",
+          "imageAlt": "财务管理解决方案"
+        },
+        {
+          "title": "数字金融交易平台",
+          "description": "这里是一个企业可以在线办理贷款、担保或开立信用证的地方，而非使用传统文件，安全性很高。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Nen-tang-giao-dich-tai-chinh-so.jpg",
+          "imageAlt": "数字金融交易平台"
+        },
+        {
+          "title": "构建自动化报告系统",
+          "description": "根据金融监管机构的标准，自动化数据聚合和报告导出。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Xay-dung-he-thong-bao-cao-tu-dong.jpg",
+          "imageAlt": "构建自动化报告系统"
+        }
+      ],
+      "cta": "探索所有服务"
+    },
+    "process": {
+      "label": "项目实施流程？",
+      "items": [
+        {
+          "number": "01",
+          "tag": "评论",
+          "title": "遗留系统调查与分析",
+          "description": "我们会审查当前系统的整个源代码和数据结构，以识别技术瓶颈。这一步骤有助于塑造转型路线图，使其与企业的具体财务运营完全兼容。"
+        },
+        {
+          "number": "02",
+          "tag": "设计",
+          "title": "建筑设计与安全性",
+          "description": "Winterfrost 基于微服务架构构建技术图纸，使系统易于扩展和维护。数据安全层和API连接协议被严格建立，以确保财务信息从设计阶段起的完整性。"
+        },
+        {
+          "number": "03",
+          "tag": "发展",
+          "title": "编程与数据传输",
+          "description": "工程团队在云原生平台上编写新的源代码。同时，我们使用严格的对账工具将数据从旧系统迁移到新系统，确保不存在平衡丢失或偏差。"
+        },
+        {
+          "number": "04",
+          "tag": "测试",
+          "title": "效能测试与评估",
+          "description": "该系统经过测试，评估其与银行合作伙伴和中介机构的连接能力。我们还进行自动化报告审查，确保所有流程符合国际金融监管和审计标准。"
+        },
+        {
+          "number": "05",
+          "tag": "实际操作",
+          "title": "部署与转型",
+          "description": "我们允许新系统与旧系统并行运行一段时间以验证稳定性。当所有指示器都满意后，Winterfrost 会在不中断现有事务的情况下完成新系统的完全过渡。"
+        },
+        {
+          "number": "06",
+          "tag": "交接",
+          "title": "源代码切换与维护支持",
+          "description": "Winterfrost 将所有源代码和操作手册交给了企业的技术团队。我们全天候维护，并定期更新安全补丁，确保系统始终处于最佳状态。"
+        }
+      ],
+      "cta": "开始构建您的产品！"
+    },
+    "faq": {
+      "label": "常见问题",
+      "title": "所有问题的答案",
+      "intro": "关于企业财务数字解决方案的常见问题",
+      "items": [
+        {
+          "q": "从旧的核心银行系统升级会干扰现有交易吗？",
+          "a": "没有。Winterfrost采用并行部署或分阶段转换的策略。我们设置了中间网关，确保旧系统和新系统之间的数据始终同步，确保所有客户交易在整个升级过程中保持顺畅。"
+        },
+        {
+          "q": "我如何确保迁移到新系统时财务数据不会丢失？",
+          "a": "我们通过多种严格的审计来实施数据迁移流程，包括自动数据对账和迁移演练。从账户余额到交易历史的所有信息在新系统正式投入运行前都会经过100%的完整性验证。"
+        },
+        {
+          "q": "Winterfrost 的系统支持法律合规报告的自动化吗？",
+          "a": "是的。我们内置了监管科技工具，能够根据国际财务报告准则（IFRS）和央行监管等国际标准自动汇总数据并导出报告。这有助于企业节省时间，确保在监管机构面前获得绝对准确性。"
+        },
+        {
+          "q": "微服务架构为企业财务软件带来了哪些好处？",
+          "a": "该架构将系统拆分为独立服务，使得升级或修复功能时不会影响整个系统。这也使企业能够灵活扩展，仅在交易量增加时将资源集中在所需的部分。"
+        },
+        {
+          "q": "企业在交接后有权拥有和编辑源代码吗？",
+          "a": "绝对是。Winterfrost 交付了 100% 的源代码和技术架构文档。企业对产品拥有全部所有权，可以主动维护、升级或根据业务战略定制功能，而无需依赖任何供应商。"
+        },
+        {
+          "q": "Winterfrost 如何保护金融数据免受网络攻击？",
+          "a": "我们构建了多层安全系统，从静态数据加密到交易传输安全。该系统集成入侵检测技术，并通过严格的渗透测试，确保金融基础设施始终具备抵御网络威胁的能力。"
+        }
+      ]
+    }
+  },
+  "thuong-mai-dien-tu": {
+    "slug": "thuong-mai-dien-tu",
+    "title": "电子商务",
+    "hero": {
+      "title": "全面的电子商务解决方案",
+      "description": "Winterfrost 构建高负载电商基础设施，确保处理大量流量且不牺牲运营效率。我们专注于开发定制的无接口Headless Commerce平台、多卖家电子商务平台以及订单履行自动化系统。该解决方案优先打造顺畅的交易环境以最大化转化率，并结合深入的集成安全管理后台流程。",
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-thuong-mai-dien-toan-dien.jpg",
+      "imageAlt": "全面的电子商务解决方案",
+      "primaryLabel": "直接联系",
+      "secondaryLabel": "求教信息"
+    },
+    "overview": {
+      "label": "概述",
+      "title": "电子商务平台的现状",
+      "paragraphs": [
+        "许多企业面临电商系统加载速度缓慢和用户体验复杂，导致购物车弃置率较高。在线销售渠道与仓库和订单管理系统之间的联系缺失，扭曲了实际数据。此外，支付安全风险和网购高峰期载货能力不足的风险，损害了企业的声誉和收入。",
+        "Winterfrost 基于微服务架构开发电子商务系统，确保快速响应时间和承受数千次并发访问的能力。我们直接连接支付网关、发货单元，并实现与企业ERP/CRM管理系统的物理同步。该解决方案侧重于优化采购流程，建立多层安全，并提供深入的数据分析工具，以支持高效的业务运营。"
+      ],
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Thuc-trang-cua-san-thuong-mai-dien-tu.jpg",
+      "imageAlt": "电子商务平台的现状"
+    },
+    "counters": [
+      {
+        "index": "/01",
+        "value": "10+",
+        "label": "多年经验"
+      },
+      {
+        "index": "/02",
+        "value": "250+",
+        "label": "客户"
+      },
+      {
+        "index": "/03",
+        "value": "15+",
+        "label": "服务国家/地区"
+      },
+      {
+        "index": "/04",
+        "value": "98%",
+        "label": "客户满意度"
+      }
+    ],
+    "values": {
+      "title": "应用技术时的实际价值",
+      "intro": "应用Winterfrost技术帮助企业自动化销售流程，优化转化率，集中管理数据，打造可持续且安全的在线运营平台。",
+      "items": [
+        {
+          "title": "自动化操作流程",
+          "description": "系统会自动处理订单、更新仓库状态并协调发货。这消除了人工操作，减少了错误，并优化了人力资源绩效。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "提高转化率",
+          "description": "快速的页面加载速度结合优化的结账流程，有助于最大限度地减少购物车遗弃。任何设备上流畅的用户体验都能推动快速的购买行为。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "准确的数据治理",
+          "description": "所有关于客户、收入和库存的信息都存储在一个平台上。企业可以随时获取实际报告，以做出准确的执行决策。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "良好的膨胀性和承重能力",
+          "description": "现代技术基础设施使系统在购物高峰时段遇到突发交通时也能稳定运行。企业可以轻松升级功能，而不影响业务运营。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "多通道数据同步",
+          "description": "网站、应用和电子商务平台之间的统一数据连接。价格、促销和产品数量的信息同步更新，确保所有接触点的一致性。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "提升贸易安全标准",
+          "description": "数据加密协议和安全证书有助于保护客户的个人信息和账户。确保交易安全有助于建立品牌声誉和消费者信任。",
+          "image": "",
+          "imageAlt": ""
+        }
+      ],
+      "cta": "立即预约咨询！"
+    },
+    "why": {
+      "label": "为什么选择我们？",
+      "title": "为什么企业应该选择Winterfrost？",
+      "items": [
+        {
+          "number": "1",
+          "title": "速度快，升级方便",
+          "description": "我们使用最新技术，使网站加载极快。界面和管理系统分开，使企业能够轻松改变网页界面，而无需担心影响内部数据。"
+        },
+        {
+          "number": "2",
+          "title": "无缝连接可用软件",
+          "description": "系统会自动将数据与仓库管理软件、会计、ERP/CRM和交付单元同步。所有关于订单和库存的信息在所有销售渠道上始终准确无误。"
+        },
+        {
+          "number": "3",
+          "title": "系统稳定，不用担心网页崩溃",
+          "description": "源代码经过优化以承受极端负载。网站依然运行流畅，即使在同时有数千访客的大型促销活动中也没有崩溃或卡顿。"
+        },
+        {
+          "number": "4",
+          "title": "绝对的信息安全",
+          "description": "我们为每笔交易和个人信息设置了多层保护密钥。这有助于完全防止客户数据泄露或网络攻击的风险。"
+        },
+        {
+          "number": "5",
+          "title": "企业完全拥有源代码",
+          "description": "完成后，Winterfrost 交付了完整的产品源代码。企业拥有全部所有权，可以自行升级或更换运营单元，无需强制。"
+        },
+        {
+          "number": "6",
+          "title": "实用且有效的功能咨询",
+          "description": "我们专注于打造那些对销售真正必要的功能。Winterfrost 的解决方案优先帮助客户更快完成订单，并为企业节省管理成本。"
+        }
+      ]
+    },
+    "cta": {
+      "label": "立即联系！",
+      "title": "今天就搭建一个电商平台吧！",
+      "description": "让Winterfrost陪伴你构建一个稳定、高负载且全面集成的销售平台。我们致力于将源代码的全部所有权交出，使企业能够主动可持续地开发并全面掌握业务数据。",
+      "buttonLabel": "立即收到解决方案建议",
+      "image": "/images/people/cta/winterfrost/chuyen-vien-nu.png",
+      "imageAlt": "专家顾问"
+    },
+    "cases": {
+      "title": "Case Studies",
+      "links": [
+        {
+          "href": "https://winterfrost.tech/case-studies/website-virela-interior",
+          "text": "建筑与施工\n电子商务\n网站设计\n维雷拉内部网站\n查看项目"
+        },
+        {
+          "href": "https://winterfrost.tech/case-studies/website-ceranova",
+          "text": "建筑与施工\n电子商务\n网站设计\n网站 Ceranova\n查看项目"
+        },
+        {
+          "href": "https://winterfrost.tech/case-studies/website-mocvan-tea",
+          "text": "零售\n电子商务\n网站设计\nMocvan茶叶网站\n查看项目"
+        }
+      ],
+      "images": [
+        {
+          "alt": "Mocvan 茶叶接口——案例研究",
+          "src": "/images/projects/website-mocvan-tea/01-anh-bia-du-an.webp?v=wf-projects-pro-20260726"
+        }
+      ]
+    },
+    "services": {
+      "title": "Winterfrost 的电子商务服务",
+      "intro": "Winterfrost 提供深入的编程和集成服务，将在线销售漏斗转变为自动化操作系统。我们专注于构建独立的技术基础设施，帮助企业全面掌握数据和交易流程。",
+      "items": [
+        {
+          "title": "开发定制销售平台",
+          "description": "根据企业的独特需求开发销售网站和应用，而不是依赖现有模板。该服务确保系统功能齐全，易于扩展，并在最高层面优化页面加载速度。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phat-trien-nen-tang-ban-hang-tuy-chinh-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "定制销售平台开发 - Winterfrost"
+        },
+        {
+          "title": "建设多卖家商业楼层",
+          "description": "建立多家供应商参与的大型交换模式技术基础设施。该系统包含全系列展位管理模块、自动佣金分配以及每个卖家的服务质量控制。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Xay-dung-san-thuong-mai-da-nguoi-ban-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "构建多卖家交易平台 - Winterfrost"
+        },
+        {
+          "title": "实施无头商务解决方案",
+          "description": "采用现代架构，将显示接口和数据处理设备分开。该解决方案使应用在任何设备上极其快速地运行，提升安全性，使企业能够灵活地更改界面而不影响后台销售系统。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Trien-khai-giai-phap-Headless-Commerce-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "无头商会解决方案实现 - Winterfrost"
+        },
+        {
+          "title": "行政系统与物流的连接",
+          "description": "实现销售渠道与仓库管理、会计和运输单元软件之间的直接数据关联。所有关于库存、订单状态和收入的信息都会同步自动更新，有助于减少人工操作造成的错误。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Ket-noi-he-thong-quan-tri-va-kho-van-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "物流与行政系统连接 - Winterfrost"
+        },
+        {
+          "title": "支付网关集成与交易安全",
+          "description": "建立与银行、电子钱包和支付中介机构的安全技术连接。我们采用严格的数据加密标准，保护客户的财务信息和企业声誉。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Tich-hop-cong-thanh-toan-va-bao-mat-giao-dich-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "支付网关集成与交易安全 - Winterfrost"
+        },
+        {
+          "title": "维护与性能优化",
+          "description": "监控并精细调优源代码，确保网站在购物高峰期始终顺畅运行。该服务包括定期的漏洞检查、新功能更新，并确保系统在高流量时不会被中断。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Bao-tri-va-toi-uu-hieu-suat-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "维护与性能优化 - Winterfrost"
+        }
+      ],
+      "cta": "探索所有服务"
+    },
+    "process": {
+      "label": "项目实施流程？",
+      "items": [
+        {
+          "number": "01",
+          "tag": "需求分析",
+          "title": "测量与解决方案咨询",
+          "description": "我们会对您的销售流程、支付方式和物流模式进行调研。工程团队随后会推荐最适合业务规模的系统架构，如无头架构或微服务。"
+        },
+        {
+          "number": "02",
+          "tag": "设计",
+          "title": "流程设计与UX/UI接口",
+          "description": "制定简明的购买图表和结账流程，以提高成交率。我们设计了一个图形界面，确保品牌美观和用户友好，适用于任何设备。"
+        },
+        {
+          "number": "03",
+          "tag": "完成",
+          "title": "系统编程与API连接",
+          "description": "编写网站/应用的源代码，并构建背后的管理系统。API网关被设置用于直接连接您的运输单元、支付网关和管理软件（ERP/CRM）。"
+        },
+        {
+          "number": "04",
+          "tag": "检查",
+          "title": "检查与测试",
+          "description": "进行功能错误审查，并在极端访问条件下检查系统负载能力。我们还对支付网关进行安全测试，以确保交易数据的绝对安全。"
+        },
+        {
+          "number": "05",
+          "tag": "操作",
+          "title": "产品部署与发布",
+          "description": "配置服务器，安装安全证书，正式让系统投入运行。Winterfrost 支持企业输入初始产品数据，并指导员工掌握管理页面的使用。"
+        },
+        {
+          "number": "06",
+          "tag": "转乘",
+          "title": "切换与支持",
+          "description": "将所有源代码和技术指导文件转移给企业。我们在整个运营过程中定期维护、安全更新和快速技术处理支持。"
+        }
+      ],
+      "cta": "开始构建您的产品！"
+    },
+    "faq": {
+      "label": "常见问题",
+      "title": "所有问题的答案",
+      "intro": "回答关于电子商务系统的问题",
+      "items": [
+        {
+          "q": "基于什么计算来构建电子商务系统的成本？",
+          "a": "成本取决于拍卖、多卖家、负载基础设施需求以及需要集成的第三方系统数量等功能的复杂程度。Winterfrost 在对企业实际需求和规模进行全面调查后，提供详细报价。"
+        },
+        {
+          "q": "该系统能否连接现有的会计和仓储管理软件？",
+          "a": "是的。我们通过专门的API门户连接，直接同步订单、库存和客户信息，与企业使用的ERP、CRM或WMS软件同步。这有助于保持数据的一致性和准确性。"
+        },
+        {
+          "q": "我如何确保网站在流量激增时不会崩溃？",
+          "a": "Winterfrost 采用现代系统架构和具备自动扩展能力的云计算基础设施。我们优化源代码和数据库结构，确保系统始终顺畅运行，即使在高峰期有数千人同时访问。"
+        },
+        {
+          "q": "交接后，企业是否拥有源代码的全部所有权？",
+          "a": "是的。项目完成后，Winterfrost立即交付了所有源代码和技术文档。企业对产品拥有全部所有权，能够主动升级或更换运营单元，无需法律或技术障碍。"
+        },
+        {
+          "q": "系统上的支付交易是如何保障安全的？",
+          "a": "我们采用端到端数据加密标准，并集成了通过国际安全证书的信誉良好的支付网关。该系统配备了多层认证和定期漏洞审查，确保绝对保护客户的财务信息。"
+        },
+        {
+          "q": "Winterfrost 的平台支持SEO和营销效果如何？",
+          "a": "是的。所有源代码均依据最新的谷歌技术标准进行优化，确保快速的页面加载速度和对搜索引擎友好的数据结构。系统还内置用户行为追踪工具，以有效服务营销活动。"
+        }
+      ]
+    }
+  },
+  "van-tai-va-logistics": {
+    "slug": "van-tai-va-logistics",
+    "title": "运输与物流",
+    "hero": {
+      "title": "交通与物流数字化转型解决方案",
+      "description": "Winterfrost提供深入的运输管理系统编程服务，专注于货物流转自动化和运营成本的准确控制。我们设计软件架构，帮助企业整合来自多个运营源的数据，优化供应链绩效。",
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-chuyen-doi-so-van-tai-va-logistics.jpg",
+      "imageAlt": "交通与物流数字化转型解决方案",
+      "primaryLabel": "直接联系",
+      "secondaryLabel": "求教信息"
+    },
+    "overview": {
+      "label": "概述",
+      "title": "优化物流，数字化运输流程",
+      "paragraphs": [
+        "运输行业面临的最大挑战是路线缺乏透明度，以及因人工协调而导致的资源浪费。Winterfrost 通过建立一个集成路线优化算法和实时行程监控机制的集中交通管理系统，解决了这一问题。我们的解决方案确保仓库、车队和调度员之间的数据一致性，以最小化空闲时间并最大化车辆负载。"
+      ],
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Toi-uu-hoa-chuoi-cung-ung-va-so-hoa-quy-trinh-van-tai.jpg",
+      "imageAlt": "优化供应链，数字化运输流程"
+    },
+    "counters": [
+      {
+        "index": "/01",
+        "value": "10+",
+        "label": "多年经验"
+      },
+      {
+        "index": "/02",
+        "value": "250+",
+        "label": "客户"
+      },
+      {
+        "index": "/03",
+        "value": "15+",
+        "label": "服务国家/地区"
+      },
+      {
+        "index": "/04",
+        "value": "98%",
+        "label": "客户满意度"
+      }
+    ],
+    "values": {
+      "title": "实施物流系统的实际好处",
+      "intro": "该系统帮助企业控制提单的整个生命周期及车队性能。",
+      "items": [
+        {
+          "title": "自动化运输计划",
+          "description": "减少安排顺序和乘坐安排的人工工作。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "路线监控准确性",
+          "description": "即时的货物位置和状态更新提升了运营透明度。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "优化燃料成本",
+          "description": "使用最短路线查找算法，避免交通堵塞。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "物流数据透明度",
+          "description": "将仓储和运输信息统一到一个管理仪表盘上。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "提升文档处理效率",
+          "description": "数字化提单和交接记录，加快付款流程。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "确保货物的完整性",
+          "description": "通过内置传感器监控环境参数和储存状况。",
+          "image": "",
+          "imageAlt": ""
+        }
+      ],
+      "cta": "立即预约咨询！"
+    },
+    "why": {
+      "label": "为什么选择我们？",
+      "title": "为什么企业应该选择Winterfrost作为合作伙伴",
+      "items": [
+        {
+          "number": "1",
+          "title": "实时数据处理能力",
+          "description": "编程低延迟系统以确保信息始终准确更新。"
+        },
+        {
+          "number": "2",
+          "title": "可扩展系统架构",
+          "description": "允许在不重构源代码的情况下轻松添加车辆或仓库数量。"
+        },
+        {
+          "number": "3",
+          "title": "灵活的API集成能力",
+          "description": "对现有行程监控设备和企业管理软件的无限连接。"
+        },
+        {
+          "number": "4",
+          "title": "企业运营数据安全",
+          "description": "应用高端数据加密标准，保护客户信息和运输路线。"
+        },
+        {
+          "number": "5",
+          "title": "专业的CICD实施流程",
+          "description": "确保系统不断更新新功能，同时不中断运营。"
+        },
+        {
+          "number": "6",
+          "title": "优化源代码性能",
+          "description": "最小化运行系统所需的硬件资源可以节省基础设施成本。"
+        }
+      ]
+    },
+    "cta": {
+      "label": "立即联系！",
+      "title": "建设智能交通和物流基础设施",
+      "description": "与Winterfrost的工程团队联系，构建集中式运输协调系统，优化供应链，提升企业运营效率。",
+      "buttonLabel": "获取系统架构咨询",
+      "image": "/images/people/cta/winterfrost/quan-ly-nam.png",
+      "imageAlt": "专家顾问"
+    },
+    "cases": null,
+    "services": {
+      "title": "Winterfrost 的物流核心服务",
+      "intro": "编程项目专注于数字化供应链中的每一个接触点。",
+      "items": [
+        {
+          "title": "TMS运输管理系统开发",
+          "description": "构建核心软件，从订单到最终交付全程运行。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phat-trien-he-thong-quan-ly-van-tai-TMS.jpg",
+          "imageAlt": "TMS运输管理系统开发"
+        },
+        {
+          "title": "WMS 仓库管理系统编程",
+          "description": "数字化使用条形码或RFID实现货物储存、库存、进出口的流程。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Lap-trinh-he-thong-quan-ly-kho-WMS.jpg",
+          "imageAlt": "WMS 仓库管理系统编程"
+        },
+        {
+          "title": "构建一个优化路线的解决方案",
+          "description": "算法编程会自动基于多个变量计算最高效的运输方案。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Xay-dung-giai-phap-toi-uu-hoa-lo-trinh.jpg",
+          "imageAlt": "构建一个优化路线的解决方案"
+        },
+        {
+          "title": "开发驱动程序应用程序",
+          "description": "移动应用编程帮助司机电子接收订单、更新状态和签字。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phat-trien-ung-dung-cho-tai-xe.jpg",
+          "imageAlt": "开发驱动程序应用程序"
+        },
+        {
+          "title": "实时跟踪与监控系统",
+          "description": "集成数字地图和卫星数据，全天候管理车辆出行。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/He-thong-theo-doi-va-giam-sat-thoi-gian-thuc.jpg",
+          "imageAlt": "实时跟踪与监控系统"
+        },
+        {
+          "title": "性能分析仪表盘编程",
+          "description": "构建一个工具，用于可视化成本、收入和车队生产力的指标。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Lap-trinh-Dashboard-phan-tich-hieu-suat.jpg",
+          "imageAlt": "性能分析仪表盘编程"
+        }
+      ],
+      "cta": "探索所有服务"
+    },
+    "process": {
+      "label": "项目实施流程？",
+      "items": [
+        {
+          "number": "01",
+          "tag": "调查",
+          "title": "物流基础设施分析与技术需求建立",
+          "description": "工程团队评估现有管理系统，确定巡航监测设备集成需求及提单每日流转需求。我们制定新系统所需的绩效指标。"
+        },
+        {
+          "number": "02",
+          "tag": "设计",
+          "title": "建筑系统架构与数据流规划",
+          "description": "为仓库和运输工具建立关系实体图。我们设计API网关结构和路由优化算法，确保整个供应链的数据一致性。"
+        },
+        {
+          "number": "03",
+          "tag": "编程",
+          "title": "源代码执行与外设连接",
+          "description": "根据敏捷模型实现运输管理和仓储管理模块的编程。连接条码扫描器和巡航传感器的端口可直接将数据收集到中央系统。"
+        },
+        {
+          "number": "04",
+          "tag": "测试",
+          "title": "软件质量控制与负载测试",
+          "description": "进行内置测试，确保仓库与车队之间的数据流始终准确无误。我们进行性能测试，确保系统在高峰时段处理大量提单时保持快速响应。"
+        },
+        {
+          "number": "05",
+          "tag": "部署",
+          "title": "云基础设施安装与运营数据转换",
+          "description": "建立服务器基础设施上的实际运行环境，并实现从遗留系统中提取、转换和加载数据的流程。所有关于车辆、客户和货物历史的信息都已安全传输到新平台。"
+        }
+      ],
+      "cta": "开始构建您的产品！"
+    },
+    "faq": {
+      "label": "常见问题",
+      "title": "所有问题的答案",
+      "intro": "关于物流系统工程的常见问题解答",
+      "items": [
+        {
+          "q": "该系统兼容不同类型的GPS导航设备吗？",
+          "a": "是的，Winterfrost 通过 API 协议设计灵活的数据摄取网关，直接连接市面上大多数类型的行程监控硬件。我们确保外围设备的数据标准化，并同步流向中央系统。"
+        },
+        {
+          "q": "如何确保车辆进入冗余区时数据不会丢失？",
+          "a": "我们采用将数据存储在终端应用本地存储的机制。设备恢复网络连接后，系统会自动同步，确保行程和货物状态完全更新到服务器。"
+        },
+        {
+          "q": "系统能否在高峰时段同时处理数千张提单？",
+          "a": "是的，微服务架构结合消息排队机制，帮助系统并行处理大量事务。这防止了数据拥堵，并确保系统的响应速度始终稳定在2秒以内。"
+        },
+        {
+          "q": "运营成本和客户路线的信息是如何被保护的？",
+          "a": "所有敏感数据均按照AES 256标准进行加密。我们建立了基于角色的访问系统，确保只有持证人员才能访问财务信息和客户数据。"
+        },
+        {
+          "q": "完成并投入运行的平均时间是多少？",
+          "a": "从调查阶段到实际交接的实施过程通常需要12到16周。这段时间包括定制编程、负载测试以及为公司员工提供技术培训。"
+        },
+        {
+          "q": "系统是否支持自动计算通行费和燃油附加费？",
+          "a": "是的，我们会根据实际出行路线和企业的标准收费表编程自动计算引擎。此功能有助于消除费用报告中的偏见，并帮助会计部门更准确地控制现金流。"
+        }
+      ]
+    }
+  },
+  "y-te": {
+    "slug": "y-te",
+    "title": "医疗",
+    "hero": {
+      "title": "医疗和医疗软件开发",
+      "description": "Winterfrost 是一家专注于为美国、欧洲、加拿大、澳大利亚、新加坡和日本等高需求市场的服务提供商、付款方和数字健康团队开发定制医疗应用的公司。 我们帮助合作伙伴降低部署风险，优化开发成本，并确保遵守最严格的健康安全标准。",
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phat-trien-phan-mem-y-te-va-cham-soc-suc-khoe.jpg",
+      "imageAlt": "医疗和医疗软件开发",
+      "primaryLabel": "直接联系",
+      "secondaryLabel": "求教信息"
+    },
+    "overview": {
+      "label": "概述",
+      "title": "卫生部门的总体状况",
+      "paragraphs": [
+        "医疗机构常面临高昂的技术开发成本和复杂的实施流程，这很容易导致运营风险。分散的患者数据管理、缺乏连接以及国际安全标准的障碍使数字化变得困难。此外，人工智能在诊断和治疗中的应用仍然是许多传统医疗企业面临的重大挑战。",
+        "Winterfrost拥有一支高度专业化的软件工程师团队，专注于将人工智能和机器学习整合进医疗基础设施。我们的解决方案帮助国际合作伙伴构建智能健康系统，从医疗记录管理到深入的数据分析工具。我们专注于降低技术风险和优化投资成本，同时保持对全球健康数据安全标准的绝对合规。"
+      ],
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Tinh-hinh-chung-ve-linh-vuc-y-te.jpg",
+      "imageAlt": "卫生领域的总体状况"
+    },
+    "counters": [
+      {
+        "index": "/01",
+        "value": "10+",
+        "label": "多年经验"
+      },
+      {
+        "index": "/02",
+        "value": "250+",
+        "label": "客户"
+      },
+      {
+        "index": "/03",
+        "value": "15+",
+        "label": "服务国家/地区"
+      },
+      {
+        "index": "/04",
+        "value": "98%",
+        "label": "客户满意度"
+      }
+    ],
+    "values": {
+      "title": "数字健康解决方案带来的价值",
+      "intro": "人工智能技术和现代管理系统的应用帮助医疗机构优化治疗效率、绝对的数据安全，并最大限度地降低全球范围内的运营风险。",
+      "items": [
+        {
+          "title": "提高诊断准确性",
+          "description": "人工智能和机器学习算法的应用有助于快速分析医疗数据，帮助医生提供准确的治疗方案，最大限度地减少医疗错误。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "集中式患者记录管理",
+          "description": "数字化系统帮助即时存储和检索医疗记录，确保整个医疗系统的数据一致性。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "优化运营流程",
+          "description": "自动化行政任务、安排预约和管理药品库存，使医疗团队能够专注于专业知识和患者护理。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "扩大医疗服务的可及性",
+          "description": "远程医疗平台有助于消除地理障碍，使患者能够在家中舒适地获得高质量的咨询和治疗。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "提升健康信息安全",
+          "description": "采用高端加密协议保护患者个人和医疗信息，符合严格的行业安全标准。",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "降低护理费用",
+          "description": "优化流程并减少重复检测，可以为医疗提供者和患者节省成本。",
+          "image": "",
+          "imageAlt": ""
+        }
+      ],
+      "cta": "立即预约咨询！"
+    },
+    "why": {
+      "label": "为什么选择我们？",
+      "title": "为什么选择Winterfrost的医疗软件开发？",
+      "items": [
+        {
+          "number": "1",
+          "title": "人工智能与机器学习专家",
+          "description": "Winterfrost的工程师团队在将人工智能融入现代数字健康解决方案方面具备深入能力。"
+        },
+        {
+          "number": "2",
+          "title": "国际市场经验",
+          "description": "我们熟悉在美国、欧洲、新加坡、日本及15个以上国家等主要市场的流程和标准，确保产品达到全球质量标准。"
+        },
+        {
+          "number": "3",
+          "title": "优化开发成本",
+          "description": "利用越南的技术资源，以最具竞争力的价格为合作伙伴提供高质量服务。"
+        },
+        {
+          "number": "4",
+          "title": "安全标准合规",
+          "description": "致力于构建符合HIPAA和GDPR等国际标准的敏感医疗数据保护系统。"
+        },
+        {
+          "number": "5",
+          "title": "最大限度降低部署风险",
+          "description": "有条不紊的技术流程和实践经验帮助Winterfrost预测并迅速处理开发过程中出现的问题。"
+        },
+        {
+          "number": "6",
+          "title": "完全所有权移交",
+          "description": "Winterfrost 提供了完整的源代码和技术文档，使合作伙伴能够积极主动地运行和升级系统。"
+        }
+      ]
+    },
+    "cta": {
+      "label": "立即联系！",
+      "title": "医疗基础设施数字化与智能医院管理",
+      "description": "与Winterfrost的工程团队联系，建立集中管理系统，自动化医疗检查和治疗流程，提升医疗设施的运营效率。",
+      "buttonLabel": "获取数字健康解决方案咨询",
+      "image": "/images/people/cta/winterfrost/nhan-vien-cong-nghe-tre.png",
+      "imageAlt": "专家顾问"
+    },
+    "cases": {
+      "title": "Case Studies",
+      "links": [
+        {
+          "href": "https://winterfrost.tech/case-studies/website-edunora",
+          "text": "健康\n网站设计\n网站 Eedunora\n查看项目"
+        },
+        {
+          "href": "https://winterfrost.tech/case-studies/aeromint-cleanroom",
+          "text": "零售\n健康\n网站设计\nAeromint 洁净室\n查看项目"
+        },
+        {
+          "href": "https://winterfrost.tech/case-studies/website-dentavera",
+          "text": "零售\n健康\n网站设计\n丹塔维拉网站\n查看项目"
+        }
+      ],
+      "images": [
+        {
+          "alt": "Aeromint 无尘室接口——案例研究",
+          "src": "/images/projects/aeromint-cleanroom/01-anh-bia-du-an.webp?v=wf-projects-pro-20260726"
+        },
+        {
+          "alt": "新加坡接口——案例研究",
+          "src": "/images/projects/website-dentavera/01-anh-bia-du-an.webp?v=wf-projects-pro-20260726"
+        }
+      ]
+    },
+    "services": {
+      "title": "全球标准医疗技术解决方案",
+      "intro": "我们部署专业的医疗软件服务，从电子病历到智能数据分析，帮助美国、欧洲和亚洲的医疗机构提升治疗效率并降低运营成本。",
+      "items": [
+        {
+          "title": "医院管理软件开发",
+          "description": "建立一个从患者管理、预约安排到电子病历和医疗支付的整体管理系统。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phat-trien-phan-mem-quan-ly-benh-vien.jpg",
+          "imageAlt": "医院管理软件开发"
+        },
+        {
+          "title": "远程医疗解决方案",
+          "description": "开发一个通过视频通话、聊天和实时在线健康监测连接医生和患者的平台。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-y-te-tu-xa.jpg",
+          "imageAlt": "远程医疗解决方案"
+        },
+        {
+          "title": "将人工智能融入医疗分析",
+          "description": "构建支持诊断影像、分析检测指标和预测疾病趋势的工具，利用人工智能实现。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Tich-hop-AI-trong-phan-tich-du-lieu-y-khoa.jpg",
+          "imageAlt": "将人工智能融入医疗数据分析"
+        },
+        {
+          "title": "个人健康护理应用",
+          "description": "编程移动应用，支持用户监测营养、锻炼和定期用药提醒。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Ung-dung-cham-soc-suc-khoe-ca-nhan.jpg",
+          "imageAlt": "个人健康护理应用"
+        },
+        {
+          "title": "健康保险数据系统",
+          "description": "开发工具帮助付款方管理理赔、分析风险并优化支付流程。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/He-thong-phan-tich-du-lieu-bao-hiem-y-te.jpg",
+          "imageAlt": "健康保险数据分析系统"
+        },
+        {
+          "title": "医疗物联网与可穿戴集成",
+          "description": "将软件连接到心率、血压等测量指标上。收集持续且准确的健康数据。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Tich-hop-thiet-bi-deo-va-IoT-y-te.jpg",
+          "imageAlt": "医疗物联网与可穿戴集成"
+        }
+      ],
+      "cta": "探索所有服务"
+    },
+    "process": {
+      "label": "项目实施流程？",
+      "items": [
+        {
+          "number": "01",
+          "tag": "调查",
+          "title": "了解你的需求",
+          "description": "我们仔细研究您医院或医疗应用的运营情况。同时，Winterfrost制定了强制性安全标准，如美国HIPAA或欧洲GDPR，以确保系统从一开始就合法且安全。"
+        },
+        {
+          "number": "02",
+          "tag": "结构建设",
+          "title": "设计安全数据模式",
+          "description": "我们设计了医生最便捷的方式来传播患者信息，但仍被多层密码学锁住。该界面优化，使医护人员能够快速操作，最大限度地减少数据录入过程中的错误。"
+        },
+        {
+          "number": "03",
+          "tag": "发展",
+          "title": "人工智能编程与集成",
+          "description": "工程团队编写源代码并安装AI功能，以支持诊断影像或健康数据分析。我们将软件连接到医疗测量设备，确保数据持续且准确地更新。"
+        },
+        {
+          "number": "04",
+          "tag": "测试",
+          "title": "安全与准确性测试",
+          "description": "系统经过多轮测试，确保无功能错误且信息不泄露。我们在AI算法正式投入使用前，在密切监督下测试其准确性。"
+        },
+        {
+          "number": "05",
+          "tag": "操作",
+          "title": "系统安装与用户手册",
+          "description": "Winterfrost 支持在服务器和移动设备上安装软件。我们直接培训并指导医生和医务人员如何使用管理工具，确保每个人都能掌握新系统。"
+        },
+        {
+          "number": "06",
+          "tag": "伴侣",
+          "title": "技术支持与定期升级",
+          "description": ""
+        }
+      ],
+      "cta": "开始构建您的产品！"
+    },
+    "faq": {
+      "label": "常见问题",
+      "title": "所有问题的答案",
+      "intro": "查找关于我们行业专用软件开发服务常见问题的答案。",
+      "items": [
+        {
+          "q": "Winterfrost 的软件是否符合国际医疗安全标准？",
+          "a": "是的。我们设计的系统严格遵守如美国的HIPAA、欧洲的GDPR以及本地健康数据保护法规。所有患者信息均经过多层加密和严格控制，确保绝对隐私。"
+        },
+        {
+          "q": "人工智能对医疗应用到底带来了哪些好处？",
+          "a": "人工智能支持诊断图像分析、从历史数据预测疾病风险以及自动化复杂的医疗报告。这有助于医生做出更快、更准确的决策，减轻医疗团队的行政工作负担。"
+        },
+        {
+          "q": "与Winterfrost工程团队合作开展国际医疗项目有哪些优势？",
+          "a": "合作伙伴将获得高质量、深入的人工智能/机器学习技术人才，开发成本远高于美国或欧洲市场。Winterfrost 致力于保持全球标准的产品质量和工作流程。"
+        },
+        {
+          "q": "该系统能否连接到现有的医疗测量设备？",
+          "a": "绝对是。我们拥有将软件与医疗物联网设备、智能可穿戴设备（如心率、血压、血糖）集成的经验，通过安全连接协议收集和分析实时健康数据。"
+        },
+        {
+          "q": "企业在切换后有权拥有整个源代码吗？",
+          "a": "是的。Winterfrost承诺在项目完成后交付100%的源代码和技术文档。企业拥有全部所有权，主动升级和扩展系统，无需依赖技术供应商。"
+        },
+        {
+          "q": "Winterfrost 如何协助系统维护和更新？",
+          "a": "我们提供例行维护、全天候系统性能监控以及及时的技术处理支持。此外，Winterfrost将持续更新安全补丁并优化AI算法，确保软件始终正确且安全运行。"
+        }
+      ]
+    }
+  }
+}

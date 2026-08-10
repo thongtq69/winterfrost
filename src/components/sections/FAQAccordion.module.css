@@ -1,0 +1,319 @@
+.faqSection {
+  z-index: 1;
+  background: url("/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Main-background-page-HomeNest-Viet-Nam.jpg") center / cover no-repeat;
+  width: 100%;
+  padding: 80px 0;
+  position: relative;
+  overflow: visible;
+}
+
+.bgWrapper {
+  z-index: 0;
+  flex: 0 0 auto;
+  width: 79%;
+  height: 736px;
+  position: absolute;
+  bottom: 73px;
+  left: 10.4167%;
+  overflow: visible;
+  pointer-events: none;
+}
+
+.bgRadial {
+  filter: blur(80px);
+  aspect-ratio: 1;
+  border-radius: 50%;
+  position: absolute;
+}
+
+.bgRadial1 {
+  opacity: .6;
+  background: radial-gradient(circle, #ecd8f3 0%, transparent 100%);
+  width: 51%;
+  top: -28px;
+  left: 51%;
+}
+
+.bgRadial2 {
+  opacity: .6;
+  background: radial-gradient(circle, #ecd8f3 0%, transparent 100%);
+  width: 450px;
+  bottom: -7px;
+  left: 173px;
+}
+
+.bgRadial3 {
+  opacity: .7;
+  background: radial-gradient(circle, rgba(208, 208, 255, .5) 0%, transparent 100%);
+  width: 502px;
+  top: 26px;
+  left: 14px;
+}
+
+.container {
+  max-width: 1400px;
+  width: unset;
+  z-index: 2;
+  box-sizing: content-box;
+  margin: auto;
+  padding: 0 40px;
+  position: relative;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 62px;
+}
+
+.leftCol {
+  display: flex;
+  flex-direction: column;
+  flex: .4;
+  gap: 24px;
+  position: sticky;
+  top: 100px;
+}
+
+.label {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.labelIcon {
+  display: flex;
+  width: 16px;
+  height: 16px;
+}
+
+.labelIcon svg {
+  width: 100%;
+  height: 100%;
+  fill: #05080c;
+  stroke: #05080c;
+}
+
+.labelText {
+  color: #05080c;
+  margin: 0;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.2;
+}
+
+.headingWrapper {
+  color: #1a3b91;
+  font-family: Winterfrost, var(--font-Winterfrost), -apple-system, system-ui, "Segoe UI", Roboto, Arial, sans-serif;
+  font-size: 60px;
+  text-align: left;
+}
+
+.faqHeading {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: 500;
+  line-height: normal;
+  letter-spacing: -.02em;
+}
+
+.normalText,
+.highlightText,
+.nextLine {
+  display: inline;
+}
+
+.normalText {
+  color: #0c1e5b;
+  font-size: 1em;
+  font-weight: 600;
+  line-height: 1.1;
+}
+
+.highlightText {
+  display: inline-block;
+  padding: 0 .1em;
+  color: #1a3b91;
+  font-family: var(--font-script, "Great Vibes", sans-serif);
+  font-size: 1.1em;
+  font-weight: 400;
+  line-height: 1em;
+}
+
+.nextLine {
+  display: block;
+  margin-top: -.1em;
+}
+
+.faqDesc {
+  color: rgba(73, 0, 105, .6);
+  max-width: 440px;
+  margin: 0;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+.rightCol {
+  display: flex;
+  flex-direction: column;
+  flex: .6;
+  gap: 16px;
+  width: 100%;
+}
+
+.accordionItem {
+  background: #fff;
+  border: 1px solid rgba(61, 61, 61, .12);
+  border-radius: 12px;
+  width: 100%;
+  transition: border-color .3s, box-shadow .3s;
+  overflow: hidden;
+}
+
+.accordionItem.isOpen {
+  border: none;
+}
+
+.accordionHeader {
+  background: transparent;
+  border: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+  width: 100%;
+  padding: 28px;
+  text-align: left;
+  cursor: pointer;
+  font-family: inherit;
+}
+
+.question {
+  color: #1a3b91;
+  margin: 0;
+  font-family: Winterfrost, var(--font-Winterfrost), -apple-system, system-ui, "Segoe UI", Roboto, Arial, sans-serif;
+  font-size: 22px;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.iconWrapper {
+  color: #fff;
+  background: #1a3b91;
+  border-radius: 50%;
+  flex: 0 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-width: 24px;
+  height: 24px;
+  position: relative;
+  transition: transform .3s ease;
+}
+
+.iconLine {
+  background: currentColor;
+  border-radius: 1px;
+  position: absolute;
+  transition: transform .3s ease;
+}
+
+.lineHorizontal {
+  width: 12px;
+  height: 2px;
+}
+
+.lineVertical {
+  width: 2px;
+  height: 12px;
+}
+
+.isOpen .iconWrapper { transform: rotate(225deg); }
+
+.answerMotion {
+  display: grid;
+  grid-template-rows: 0fr;
+  opacity: 0;
+  visibility: hidden;
+  transition: grid-template-rows .35s ease, opacity .3s ease;
+}
+
+.isOpen .answerMotion {
+  grid-template-rows: 1fr;
+  opacity: 1;
+  visibility: visible;
+}
+
+.answerWrapper {
+  min-height: 0;
+  overflow: hidden;
+}
+
+.answer {
+  color: #121528;
+  margin: 0;
+  padding: 0 28px 28px;
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 1.6;
+}
+.answer a { color: inherit; font-weight: 600; text-decoration: none; }
+
+@media (max-width: 1400px) {
+  .container { gap: 48px; padding: 0 32px; }
+  .headingWrapper { height: auto; font-size: 48px; }
+  .faqDesc { font-size: 17px; }
+  .accordionHeader { padding: 24px; }
+  .question { font-size: 21px; }
+  .answer { padding: 0 24px 24px; font-size: 17px; }
+}
+
+@media (max-width: 1200px) {
+  .faqSection { padding: 56px 0; }
+  .container { gap: 40px; padding: 0 32px; }
+  .headingWrapper { font-size: 42px; }
+  .faqDesc { font-size: 16px; }
+  .accordionHeader { padding: 20px; }
+  .question { font-size: 19px; }
+  .answer { padding: 0 20px 20px; font-size: 16px; }
+  .rightCol { flex: .9; }
+}
+
+@media (max-width: 996px) {
+  .container { padding: 0 24px; }
+  .wrapper { flex-direction: column; gap: 42px; }
+  .leftCol { width: 100%; gap: 12px; position: static; }
+  .rightCol { width: 100%; gap: 12px; }
+  .headingWrapper { font-size: 36px; }
+  .nextLine { display: inline; }
+}
+
+@media (max-width: 768px) {
+  .faqSection { padding: 50px 0; }
+  .container { gap: 32px; padding: 0 20px; }
+  .wrapper { gap: 36px; }
+  .leftCol { gap: 16px; }
+  .headingWrapper { font-size: 32px; }
+  .faqHeading { font-size: 32px; }
+  .faqDesc { font-size: 15px; }
+  .labelText { font-size: 14px; }
+  .rightCol { gap: 10px; }
+  .accordionHeader { padding: 16px; }
+  .question { font-size: 18px; }
+  .answer { padding: 0 16px 16px; font-size: 15px; }
+}
+
+@media (max-width: 576px) {
+  .container { gap: 32px; padding: 0 16px; }
+  .leftCol { gap: 12px; }
+  .rightCol { gap: 8px; }
+  .headingWrapper { font-size: 28px; }
+  .wrapper { gap: 24px; }
+  .faqDesc { font-size: 14px; }
+  .accordionHeader { padding: 12px; }
+  .question { font-size: 17px; }
+  .answer { padding: 0 12px 12px; font-size: 14px; }
+}

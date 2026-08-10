@@ -1,0 +1,279 @@
+.section {
+  z-index: 1;
+  background: url(/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Main-background-page-HomeNest-Viet-Nam.jpg) 50%/cover no-repeat;
+  width: 100%;
+  padding: 80px 0;
+  position: relative;
+}
+
+.bgWrapper {
+  z-index: 0;
+  flex: none;
+  width: 79%;
+  height: 736px;
+  position: absolute;
+  bottom: 73px;
+  left: 10.4167%;
+  overflow: visible;
+  pointer-events: none;
+}
+
+.bgRadial {
+  filter: blur(80px);
+  aspect-ratio: 1;
+  border-radius: 50%;
+  position: absolute;
+}
+
+.bgRadial1 {
+  opacity: 0.6;
+  background: radial-gradient(circle, #ecd8f3 0%, rgba(255, 255, 255, 0) 100%);
+  width: 51%;
+  top: -28px;
+  left: 51%;
+}
+
+.bgRadial2 {
+  opacity: 0.6;
+  background: radial-gradient(circle, #ecd8f3 0%, rgba(255, 255, 255, 0) 100%);
+  width: 450px;
+  bottom: -7px;
+  left: 173px;
+}
+
+.bgRadial3 {
+  opacity: 0.7;
+  background: radial-gradient(circle, rgba(208, 208, 255, 0.5) 0%, rgba(255, 255, 255, 0) 100%);
+  width: 502px;
+  top: 26px;
+  left: 14px;
+}
+
+.container {
+  max-width: 1400px;
+  z-index: 2;
+  box-sizing: content-box;
+  margin: 0 auto;
+  padding: 0 40px;
+  position: relative;
+}
+
+.wrapper {
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 62px;
+  display: flex;
+}
+
+.leftCol {
+  flex-direction: column;
+  flex: 0.4;
+  gap: 24px;
+  display: flex;
+  position: sticky;
+  top: 100px;
+}
+
+.label {
+  color: #05080c;
+  align-items: center;
+  gap: 0.75em;
+  display: inline-flex;
+}
+
+.labelIcon {
+  justify-content: center;
+  align-items: center;
+  width: 1em;
+  height: 1em;
+  display: flex;
+}
+
+.labelIcon svg {
+  fill: currentColor;
+  stroke: currentColor;
+  width: 100%;
+  height: 100%;
+}
+
+.labelText {
+  color: inherit;
+  margin: 0;
+  font-size: 1em;
+  font-weight: 500;
+  line-height: 1.2;
+}
+
+.headingWrapper {
+  font-size: 60px;
+  margin: 0;
+}
+
+.faqHeading {
+  margin: 0;
+  font-size: 1em;
+  line-height: normal;
+}
+
+.normalText {
+  color: #0c1e5b;
+  font-weight: 600;
+  font-size: 1em;
+  line-height: 1.1;
+}
+
+.highlightText {
+  color: #1a3b91;
+  padding: 0 0.1em;
+  font-size: 1.1em;
+  font-weight: 400;
+  line-height: 1em;
+  display: inline-block;
+  font-family: "Great Vibes", sans-serif !important;
+}
+
+.nextLine {
+  margin-top: -0.1em;
+  display: block;
+}
+
+.faqDesc {
+  color: rgba(73, 0, 105, 0.6);
+  margin: 0;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+.rightCol {
+  flex-direction: column;
+  flex: 0.6;
+  gap: 16px;
+  width: 100%;
+  display: flex;
+}
+
+.accordionItem {
+  background-color: #fff;
+  border: 1px solid rgba(61, 61, 61, 0.12);
+  border-radius: 12px;
+  width: 100%;
+  transition: all .3s;
+  overflow: hidden;
+}
+
+.isOpen { border: none; }
+
+.accordionHeader {
+  cursor: pointer;
+  text-align: left;
+  background: transparent;
+  border: none;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+  width: 100%;
+  padding: 28px;
+  display: flex;
+  font-family: inherit;
+}
+
+.question {
+  color: #1a3b91;
+  margin: 0;
+  font-size: 22px;
+  font-weight: 500;
+  line-height: 1.25;
+}
+
+.iconWrapper {
+  color: #fff;
+  background-color: #1a3b91;
+  border-radius: 50%;
+  justify-content: center;
+  align-items: center;
+  min-width: 24px;
+  height: 24px;
+  width: 24px;
+  transition: transform .3s;
+  display: flex;
+  position: relative;
+}
+
+.iconLine {
+  background-color: currentColor;
+  border-radius: 1px;
+  position: absolute;
+}
+
+.lineHorizontal { width: 12px; height: 2px; }
+.lineVertical { width: 2px; height: 12px; }
+
+.iconWrapperOpen { transform: rotate(225deg); }
+
+.answerWrapper {
+  overflow: hidden;
+  transition: height .3s ease, opacity .3s ease;
+}
+
+.answer {
+  color: #121528;
+  padding: 0 28px 28px;
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 1.6;
+  margin: 0;
+}
+
+@media (max-width: 1400px) {
+  .container { padding: 0 32px; }
+  .headingWrapper { font-size: 48px; }
+  .faqDesc { font-size: 17px; }
+  .accordionHeader { padding: 24px; }
+  .question { font-size: 21px; }
+  .answer { padding: 0 24px 24px; font-size: 17px; }
+}
+
+@media (max-width: 1200px) {
+  .section { padding: 56px 0; }
+  .container { padding: 0 32px; }
+  .headingWrapper { font-size: 42px; }
+  .faqDesc { font-size: 16px; }
+  .accordionHeader { padding: 20px; }
+  .question { font-size: 19px; }
+  .answer { padding: 0 20px 20px; font-size: 16px; }
+  .rightCol { flex: 0.9; }
+}
+
+@media (max-width: 996px) {
+  .container { padding: 0 24px; }
+  .leftCol { gap: 12px; position: static; }
+  .wrapper { flex-direction: column; gap: 42px; }
+  .headingWrapper { font-size: 36px; }
+  .rightCol { gap: 12px; }
+}
+
+@media (max-width: 768px) {
+  .section { padding: 50px 0; }
+  .container { padding: 0 20px; }
+  .wrapper { gap: 36px; }
+  .headingWrapper { font-size: 32px; }
+  .leftCol { gap: 16px; }
+  .rightCol { gap: 10px; }
+  .faqDesc { font-size: 15px; }
+  .accordionHeader { padding: 16px; }
+  .question { font-size: 18px; }
+  .answer { padding: 0 16px 16px; font-size: 15px; }
+}
+
+@media (max-width: 576px) {
+  .container { padding: 0 16px; }
+  .faqDesc { font-size: 14px; }
+  .leftCol { gap: 12px; }
+  .rightCol { gap: 8px; }
+  .headingWrapper { font-size: 28px; }
+  .wrapper { gap: 24px; }
+  .accordionHeader { padding: 12px; }
+  .question { font-size: 17px; }
+  .answer { padding: 0 12px 12px; font-size: 14px; }
+}

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="256" viewBox="0 0 1000 256">
+    <defs>
+      <linearGradient id="wordmarkGradient" x1="20" y1="20" x2="236" y2="236" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#B7657B"/>
+        <stop offset="1" stop-color="#1F1A1C"/>
+      </linearGradient>
+    </defs>
+    <g>
+    <defs>
+      <linearGradient id="wordmarkGradient" x1="20" y1="20" x2="236" y2="236" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#B7657B"/>
+        <stop offset="1" stop-color="#1F1A1C"/>
+      </linearGradient>
+    </defs>
+
+    <path d="M128 224c-13-49-36-83-69-101 41-5 64 13 69 54 5-41 28-59 69-54-33 18-56 52-69 101Z" fill="url(#wordmarkGradient)"/>
+    <path d="M128 177c-36-18-51-51-44-98 34 17 49 47 44 89 5-42 20-72 44-89 7 47-8 80-44 98Z" fill="url(#wordmarkGradient)" opacity=".82"/>
+    <path d="M128 154c-28-33-28-70 0-112 28 42 28 79 0 112Z" fill="url(#wordmarkGradient)"/>
+
+  </g>
+    <text x="294" y="148" fill="#B7657B" font-family="Manrope, Arial, Helvetica, sans-serif" font-size="76" font-weight="800" letter-spacing="-2">Veloura Nails</text>
+    <text x="299" y="192" fill="#667085" font-family="Manrope, Arial, Helvetica, sans-serif" font-size="23" font-weight="650" letter-spacing="3.2">DIGITAL EXPERIENCE</text>
+  </svg>

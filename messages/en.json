@@ -1,0 +1,2263 @@
+{
+  "Navigation": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "case_studies": "Case Studies",
+    "industries": "Industries",
+    "technologies": "Technologies",
+    "wiki": "Wiki",
+    "careers": "Careers",
+    "contact": "Contact",
+    "projects": "Projects"
+  },
+  "LanguageSwitcher": {
+    "label": "Select language",
+    "changing": "Switching language"
+  },
+  "ServiceDetail": {
+    "relatedProjects": "Related projects",
+    "featuredProjects": "Typical projects",
+    "services": "Service",
+    "relatedServices": "Related services",
+    "viewMore": "See more"
+  },
+  "Header": {
+    "mainNavigation": "Main navigation",
+    "homeAria": "Winterfrost — Home page",
+    "contact": "Contact",
+    "search": "Search",
+    "searchPlaceholder": "Search...",
+    "closeSearch": "Close search",
+    "openMenu": "Open the menu",
+    "closeMenu": "Close the menu",
+    "toggleServices": "Open or close the service list",
+    "servicesMenu": "Service",
+    "softwareDevelopment": "Software Development",
+    "technologyInfrastructure": "Technology Infrastructure",
+    "bannerAlt": "Professional website design and software solutions - Winterfrost"
+  },
+  "Services": {
+    "websiteDesign": {
+      "title": "Website Design",
+      "description": "High-speed website design, optimized user experience helps increase conversion rate."
+    },
+    "aiDevelopment": {
+      "title": "AI Development",
+      "description": "AI development helps automate processes and optimize business data."
+    },
+    "saasDevelopment": {
+      "title": "SaaS Application Development",
+      "description": "Cloud-native platform design is flexible, easy to expand and serve a large number of users."
+    },
+    "appDesign": {
+      "title": "App Design",
+      "description": "Develop high-performance iOS and Android applications, ensuring smooth and stable operations."
+    },
+    "maintenance": {
+      "title": "Operation and Maintenance",
+      "description": "Operating and maintaining software helps the system operate safely and stably 24/7."
+    },
+    "enterpriseSoftware": {
+      "title": "Enterprise Software Development",
+      "description": "Optimize large-scale operating processes with a centralized, safe and secure management system."
+    },
+    "mvpDevelopment": {
+      "title": "MVP Software Development",
+      "description": "Rapid product development to validate ideas and optimize initial investment budget."
+    },
+    "itServices": {
+      "title": "IT Services",
+      "description": "Providing comprehensive IT solutions, system administration and professional technical support."
+    },
+    "digitalTransformation": {
+      "title": "Digital Transformation Consulting",
+      "description": "Consulting on digital transformation roadmap, process optimization and modern technology application."
+    },
+    "devops": {
+      "title": "DevOps Development",
+      "description": "Optimize the development and operation process to shorten launch time and increase system stability."
+    },
+    "iot": {
+      "title": "IoT Development",
+      "description": "Connecting devices and collecting smart data helps businesses unlock valuable information from reality."
+    },
+    "blockchain": {
+      "title": "Blockchain Development",
+      "description": "Build safe decentralized applications, helping to secure data on the Blockchain platform."
+    }
+  },
+  "Footer": {
+    "menu": "Menu",
+    "services": "Service",
+    "contact": "Contact",
+    "headOffice": "Main office",
+    "address": "Vinhomes Grand Park, District 9, Ho Chi Minh City, Vietnam.",
+    "socialMedia": "Social Network",
+    "privacyPolicy": "Privacy policy",
+    "designedBy": "Designed by Winterfrost",
+    "navigationLabel": "Footer navigation"
+  },
+  "FooterCTA": {
+    "preTitle": "Connect With Us",
+    "headingPre": "Initialization",
+    "headingHighlight": "Projects",
+    "headingMid": "Your",
+    "headingPost": "Today",
+    "formTitle": "Cooperation Contact",
+    "nameLabel": "Full Name*",
+    "namePlaceholder": "Your full name",
+    "emailLabel": "Email*",
+    "phoneLabel": "Phone Number*",
+    "messageLabel": "Message",
+    "messagePlaceholder": "I want to design a website...",
+    "directEmail": "Or send mail directly to:",
+    "copied": "Copied",
+    "submit": "Submit Request",
+    "featureFastResponse": "Quick response within 24h.",
+    "featureExpert": "Work directly with experts.",
+    "featureStrategy": "Clear strategic consulting.",
+    "directContact": "Contact Directly",
+    "consult": "Get Consultation",
+    "imageAlt": "Contact Winterfrost - Vietnam's leading technology solution"
+  },
+  "FloatingButtons": {
+    "chatLabel": "Chat with Winterfrost",
+    "closeChat": "Close the chat bot",
+    "greeting": "Winterfrost welcomes you. I am a virtual assistant of Winterfrost, ready to support information on Website design, App design, AI development and technology services.",
+    "question": "What information do you need from me?",
+    "messagePlaceholder": "Enter message...",
+    "messageLabel": "Enter a message",
+    "emoji": "Emoticons",
+    "send": "Send a message",
+    "closeGreeting": "Close greeting",
+    "preview": "Hello, how can we help you?",
+    "openChat": "Open chat bot",
+    "whatsapp": "Chat on WhatsApp",
+    "zalo": "Contact project consulting via Zalo - Winterfrost",
+    "call": "Call Winterfrost",
+    "backToTop": "Return to top"
+  },
+  "Metadata": {
+    "title": "Winterfrost — Website design, Mobile App, AI-driven",
+    "description": "Winterfrost specializes in developing Websites, Mobile Apps and AI-driven software solutions, accompanying businesses on the journey of digital transformation and operational optimization.",
+    "openGraphDescription": "Winterfrost specializes in developing Website, Mobile App and AI-driven software solutions."
+  },
+  "Team": {
+    "label": "Our team",
+    "headingPre": "Team",
+    "headingHighlight": "develop",
+    "headingPost": "enterprise solutions",
+    "experience": "10+ years of experience",
+    "secureOwnership": "Competitive costs, security of ownership",
+    "locations": "Based in major cities in Vietnam",
+    "process": "Professional process according to international standards",
+    "technology": "Solid technology foundation"
+  },
+  "Home": {
+    "hero": {
+      "title": "Winterfrost",
+      "description": "With more than 10 years of in-depth experience in the fields of website development, mobile applications, enterprise software and artificial intelligence, we help you optimize operating processes. Winterfrost builds a solid technology foundation so your business is ready to breakthrough in the digital era.",
+      "ctaPrimary": {
+        "label": "Get started now",
+        "href": "tel:+84971450454"
+      },
+      "ctaSecondary": {
+        "label": "See service details",
+        "href": "/dich-vu"
+      },
+      "imageMain": "/images/brand/winterfrost/hero/winterfrost-energy-emblem-transparent.png?v=wf-energy-20260727",
+      "imageColumn": "/images/brand/winterfrost/hero/winterfrost-pillar.png",
+      "logo": "/images/brand/winterfrost/winterfrost-wordmark.png",
+      "video": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Video-banner-HomeNest-Viet-Nam.mp4",
+      "detailCtaPrimary": {
+        "label": "Connect now",
+        "href": "tel:+84971450454"
+      },
+      "detailCtaSecondary": {
+        "label": "See service details",
+        "href": "/dich-vu"
+      },
+      "backLabel": "Go back",
+      "prevLabel": "Before",
+      "nextLabel": "Next",
+      "pillars": [
+        {
+          "key": "web",
+          "label": "Website design",
+          "title": "Website design",
+          "desc": "Winterfrost provides website building solutions that work seamlessly on any electronic device. We work from simple business introduction pages to complex online sales systems with a high commitment to data security and easy-to-use administration tools. Our solutions help increase business efficiency and help your organization lead in the digital environment.",
+          "href": "/dich-vu/thiet-ke-website"
+        },
+        {
+          "key": "app",
+          "label": "App Design",
+          "title": "App Design",
+          "desc": "Winterfrost's team of experts has many years of experience in building high-performance and stable mobile applications. We focus on optimizing user experience through interfaces designed specifically for each business. These applications help your unit reach customers effectively on digital platforms while significantly improving internal operating processes.",
+          "href": "/dich-vu/thiet-ke-app"
+        },
+        {
+          "key": "software",
+          "label": "Software design",
+          "title": "Software design",
+          "desc": "Winterfrost builds specialized software solutions to optimize management and operations processes for your business. We focus on modern system architecture with cross-platform connectivity and easy upgrades as your business scales. Our software products always ensure long-term stability and high adaptability to changes in the real business environment.",
+          "href": "/dich-vu/phat-trien-phan-mem-doanh-nghiep"
+        },
+        {
+          "key": "ai",
+          "label": "AI Development",
+          "title": "AI Development",
+          "desc": "Winterfrost supports businesses in applying in-depth artificial intelligence solutions to practical operations. We provide modern tools from automating work processes to intelligent data analysis systems to help your unit optimize overall operational performance. These solutions allow businesses to make more accurate decisions based on real data and reduce management errors.",
+          "href": "/dich-vu/phat-trien-ai"
+        },
+        {
+          "key": "maintenance",
+          "label": "Operation and Maintenance",
+          "title": "Operation and Maintenance",
+          "desc": "Winterfrost provides comprehensive system operation and maintenance solutions to ensure your websites, mobile applications and business software always operate most stably. We perform continuous technical monitoring to maintain optimal processing speed and absolute information security for the entire system. Our services help your platforms stay compatible with the latest technological changes and promptly prevent technical problems to ensure uninterrupted business.",
+          "href": "/dich-vu/van-hanh-va-bao-tri"
+        }
+      ]
+    },
+    "about": {
+      "label": "About Winterfrost",
+      "headline": "Website development unit, mobile app and AI-driven software solutions, accompanying Vietnamese businesses on the digital transformation journey",
+      "paragraphs": [
+        "Winterfrost is a unit specializing in providing comprehensive digital transformation solutions. Our goal is to help businesses optimize operating performance and grow strongly in the digital market.",
+        "We always put ourselves in the customer's position, thereby understanding their needs and providing effective solutions, helping businesses solve operational problems. Winterfrost's difference is the perfect combination of capabilities and understanding of user experience. With us, each product not only operates smoothly but also brings real value to the business.",
+        "Don't let your business fall behind in today's digital era. Winterfrost is committed to providing outstanding service quality and technology, ready to work with businesses to turn operational challenges into effective solutions."
+      ],
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Thi-truong-HomeNest-Viet-Nam-phuc-vu.jpg"
+    },
+    "companyOverview": {
+      "label": "The journey of creation",
+      "headline": [
+        "Construction",
+        "Future",
+        "Business"
+      ],
+      "founder": {
+        "name": "Lê Khải Minh",
+        "role": "CO-Founder",
+        "quote": "Customer success is the only measure of our service quality and reputation.",
+        "image": "/images/people/founder/winterfrost/le-khai-minh.webp"
+      },
+      "vision": {
+        "title": "Vision & Mission",
+        "text": "Become a leading strategic partner, leading businesses to overcome the challenges of the digital era. We are committed to bringing breakthrough technologies to optimize operations, helping customers break through limits with comprehensive software ecosystems, aiming for sustainable and long-term development.",
+        "ctaLabel": "Learn about us",
+        "ctaHref": "/ve-chung-toi"
+      },
+      "values": {
+        "title": "Core values",
+        "items": [
+          "Professional service",
+          "Non-stop creativity",
+          "Flexible operation",
+          "Understand customers",
+          "Dedicated to serving"
+        ]
+      },
+      "stats": [
+        {
+          "label": "Years of experience",
+          "value": "10",
+          "suffix": "+",
+          "desc": "Real combat experience, creating real value."
+        },
+        {
+          "label": "Customers trust",
+          "value": "250",
+          "suffix": "+",
+          "desc": "Trusted partner of hundreds of businesses.",
+          "highlight": true,
+          "avatars": [
+            "/images/people/khach-hang/nguyen-quoc-viet.webp",
+            "/images/people/khach-hang/tran-minh-chau.webp",
+            "/images/people/khach-hang/le-duc-anh.webp",
+            "/images/people/khach-hang/vo-thanh-huong.webp"
+          ],
+          "avatarBadgeText": "250+",
+          "starsImage": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/five-stars-rating.svg",
+          "starsLabel": "Customers trust"
+        },
+        {
+          "label": "Country",
+          "value": "15",
+          "suffix": "+",
+          "desc": "Serving a global network of partners."
+        },
+        {
+          "label": "Satisfaction from customers",
+          "value": "98",
+          "suffix": "%",
+          "desc": "Service quality exceeds all expectations."
+        }
+      ],
+      "copyright": "Copyright © 2026 Winterfrost. All rights reserved."
+    },
+    "servicesSection": {
+      "label": "Service",
+      "headline": [
+        "Solution",
+        "Growth",
+        "Business"
+      ],
+      "ctaLabel": "See all",
+      "ctaHref": "/dich-vu",
+      "tabs": [
+        {
+          "title": "Software Development",
+          "items": [
+            {
+              "num": "01",
+              "title": "Website Design",
+              "desc": "High-speed website design, optimized user experience helps increase conversion rate.",
+              "href": "/dich-vu/thiet-ke-website",
+              "hoverImg": "/images/services/winterfrost/web-application-development.webp"
+            },
+            {
+              "num": "02",
+              "title": "AI Development",
+              "desc": "AI development helps automate processes and optimize business data.",
+              "href": "/dich-vu/phat-trien-ai",
+              "hoverImg": "/images/services/winterfrost/ai-development.webp"
+            },
+            {
+              "num": "03",
+              "title": "SaaS Application Development",
+              "desc": "Cloud-native platform design is flexible, easy to expand and serve a large number of users.",
+              "href": "/dich-vu/phat-trien-ung-dung-saas",
+              "hoverImg": "/images/services/winterfrost/saas-application-development.webp"
+            },
+            {
+              "num": "04",
+              "title": "App Design",
+              "desc": "Develop high-performance IOS and Android applications, ensuring smooth and stable operation.",
+              "href": "/dich-vu/thiet-ke-app",
+              "hoverImg": "/images/services/winterfrost/mobile-app-development.webp"
+            },
+            {
+              "num": "05",
+              "title": "Operation and Maintenance",
+              "desc": "Operating and maintaining software helps the system operate safely and stably 24/7.",
+              "href": "/dich-vu/van-hanh-va-bao-tri",
+              "hoverImg": "/images/services/winterfrost/software-maintenance-and-support.webp"
+            },
+            {
+              "num": "06",
+              "title": "Enterprise Software Development",
+              "desc": "Optimize large-scale operating processes with a centralized, safe and secure management system.",
+              "href": "/dich-vu/phat-trien-phan-mem-doanh-nghiep",
+              "hoverImg": "/images/services/winterfrost/enterprise-software-development.webp"
+            },
+            {
+              "num": "07",
+              "title": "MVP Software Development",
+              "desc": "Rapid product development to validate ideas and optimize initial investment budget.",
+              "href": "/dich-vu/phat-trien-phan-mem-mvp",
+              "hoverImg": "/images/services/winterfrost/mvp-software-development.webp"
+            },
+            {
+              "num": "08",
+              "title": "IT Services",
+              "desc": "Providing comprehensive IT solutions, system administration and professional technical support.",
+              "href": "/dich-vu/dich-vu-it",
+              "hoverImg": "/images/services/winterfrost/custom-software-solutions.webp"
+            },
+            {
+              "num": "09",
+              "title": "Digital Transformation Consulting",
+              "desc": "Consulting on digital transformation roadmap, process optimization and modern technology application.",
+              "href": "/dich-vu/tu-van-chuyen-doi-so",
+              "hoverImg": "/images/services/winterfrost/generative-ai-integration.webp"
+            }
+          ]
+        },
+        {
+          "title": "Technology Infrastructure",
+          "items": [
+            {
+              "num": "01",
+              "title": "DevOps Development",
+              "desc": "Optimize the development and operation process to shorten launch time and increase system stability.",
+              "href": "/dich-vu/phat-trien-devops",
+              "hoverImg": "/images/services/winterfrost/devops-development.webp"
+            },
+            {
+              "num": "02",
+              "title": "IoT Development",
+              "desc": "Connecting devices and collecting smart data helps businesses unlock valuable information from reality.",
+              "href": "/dich-vu/phat-trien-iot",
+              "hoverImg": "/images/services/winterfrost/iot-development.webp"
+            },
+            {
+              "num": "03",
+              "title": "Blockchain Development",
+              "desc": "Build safe decentralized applications, helping to ensure absolute data security on the Blockchain platform.",
+              "href": "/dich-vu/phat-trien-blockchain",
+              "hoverImg": "/images/services/winterfrost/blockchain-development.webp"
+            }
+          ]
+        }
+      ]
+    },
+    "industries": {
+      "label": "Field",
+      "headline": "Field of activity",
+      "items": [
+        {
+          "title": "Corporate finance",
+          "href": "/linh-vuc/tai-chinh-doanh-nghiep"
+        },
+        {
+          "title": "Education",
+          "href": "/linh-vuc/giao-duc"
+        },
+        {
+          "title": "Accounting",
+          "href": "/linh-vuc/ke-toan"
+        },
+        {
+          "title": "Medical",
+          "href": "/linh-vuc/y-te"
+        },
+        {
+          "title": "Enterprise software",
+          "href": "/linh-vuc/phan-mem-doanh-nghiep"
+        },
+        {
+          "title": "Develop applications as required",
+          "href": "/linh-vuc/phat-trien-ung-dung-theo-yeu-cau"
+        },
+        {
+          "title": "Agriculture",
+          "href": "/linh-vuc/nong-nghiep"
+        },
+        {
+          "title": "Architecture & construction",
+          "href": "/linh-vuc/kien-truc-xay-dung"
+        },
+        {
+          "title": "Retail",
+          "href": "/linh-vuc/ban-le"
+        },
+        {
+          "title": "Real estate",
+          "href": "/linh-vuc/bat-dong-san"
+        },
+        {
+          "title": "Supply chain",
+          "href": "/linh-vuc/chuoi-cung-ung"
+        },
+        {
+          "title": "Financial technology",
+          "href": "/linh-vuc/cong-nghe-tai-chinh"
+        },
+        {
+          "title": "Petroleum",
+          "href": "/linh-vuc/dau-khi"
+        },
+        {
+          "title": "Travel",
+          "href": "/linh-vuc/du-lich"
+        },
+        {
+          "title": "Bank",
+          "href": "/linh-vuc/ngan-hang"
+        },
+        {
+          "title": "Electronic commerce",
+          "href": "/linh-vuc/thuong-mai-dien-tu"
+        },
+        {
+          "title": "Transportation and Logistics",
+          "href": "/linh-vuc/van-tai-va-logistics"
+        },
+        {
+          "title": "Utility software",
+          "href": "/linh-vuc/phan-mem-tien-ich"
+        }
+      ]
+    },
+    "ctaBanner": {
+      "label": "Contact now!",
+      "headline": "Start your digital transformation journey with Winterfrost",
+      "description": "Join us in building Website, Mobile App and AI solutions to optimize operating processes, helping your business break through and lead the market.",
+      "ctaLabel": "Receive solution advice immediately",
+      "ctaHref": "tel:+84971450454"
+    },
+    "caseStudiesSection": {
+      "label": "Project",
+      "headline": [
+        "Idea",
+        "Products",
+        "Leading Breakthrough"
+      ],
+      "headlineLeftPrefix": "Idea",
+      "headlineLeftScript": "Products",
+      "headlineRight": "Leading Breakthrough",
+      "headlineMobile": [
+        "Turn Breakthrough Ideas Into",
+        "Products",
+        "Leading"
+      ],
+      "ctaLabel": "View all projects",
+      "ctaHref": "/case-studies",
+      "items": [
+        {
+          "slug": "case-studies",
+          "title": "Case study - Winterfrost",
+          "image": "https://winterfrost.tech/og-image.jpg",
+          "desc": "Explore featured projects and case studies at Winterfrost. Demonstrate the ability to design websites, apps and AI to help businesses optimize and operate effectively."
+        },
+        {
+          "slug": "app-nivora-connect",
+          "title": "Nivora Connect",
+          "image": "/images/projects/nivora-connect/02-messaging.webp?v=wf-gallery-pro-20260726",
+          "desc": "Empower the Vietnamese community in Korea with Nivora Connect, a secure mobile application from Winterfrost, connecting transportation, housing and employment."
+        },
+        {
+          "slug": "website-flexora-packaging",
+          "title": "Flexora Packaging",
+          "image": "/images/projects/website-flexora-packaging/02-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+          "desc": "Explore Flexora Packaging's range of industrial films and plastics, developed by Winterfrost, this SEO optimized site ensures a professional B2B experience."
+        },
+        {
+          "slug": "la-cerise-dalat-villas",
+          "title": "Rovena Travel - Winterfrost Case study",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2025/06/giao-dien-du-an-La-Cerise-Dalat-Villas-Case-Study.jpg",
+          "desc": "Experience luxury with Rovena Travel, a romantic French-style platform developed by Winterfrost with optimized SEO and fast loading speed."
+        },
+        {
+          "slug": "app-grevia-lawn",
+          "title": "Grevia Lawn - Winterfrost case study",
+          "image": "/images/projects/app-grevia-lawn/02-man-hinh-ung-dung.webp?v=wf-gallery-pro-20260726",
+          "desc": "Enhance landscape services with Grevia Lawn, a professional service booking application from Winterfrost, integrating smart scheduling and real-time tracking."
+        },
+        {
+          "slug": "website-polyvera",
+          "title": "Polyvera",
+          "image": "/images/projects/website-polyvera/02-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+          "desc": "Website Polyvera LLC is a manufacturer of HDPE plastic films and packaging, serving a variety of industries with a focus on quality and sustainability."
+        },
+        {
+          "slug": "aeromint-cleanroom",
+          "title": "Aeromint Cleanroom - Winterfrost Vietnamese Case study",
+          "image": "/images/projects/aeromint-cleanroom/02-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+          "desc": "Enhance your business with Aeromint Cleanroom cleanroom equipment and professional SEO solutions from Winterfrost, optimizing market access."
+        },
+        {
+          "slug": "website-loomora-rugs",
+          "title": "Loomora Rugs",
+          "image": "/images/projects/website-loomora-rugs/02-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+          "desc": "Discover the premium handmade wool rugs Loomora Rugs through the sophisticated digital showroom from Winterfrost, SEO standard, fast loading, smooth and luxurious experience."
+        }
+      ]
+    },
+    "whyChooseUs": {
+      "label": "Why do customers choose us?",
+      "headline": [
+        "Why?",
+        "+250 Partners",
+        "Trust Winterfrost?"
+      ],
+      "leftCard": {
+        "title": "Strategic solutions create sustainable value",
+        "intro": "Winterfrost guarantees",
+        "features": [
+          "Outstanding quality",
+          "Handed over on schedule",
+          "Transparent process",
+          "Post-deployment support"
+        ],
+        "ctaLabel": "Contact Now",
+        "ctaHref": "tel:+84971450454",
+        "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/why-choose-us-icon-5.png"
+      },
+      "cardItem1": {
+        "title": "Cost optimization",
+        "desc": "Experience international quality IT services at the most reasonable budget.",
+        "innerCardLabel": "Flexible adjustment according to scale",
+        "chipImage": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/why-choose-us-icon-4.png",
+        "lightningImage": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/why-choose-us-icon-2.png",
+        "bgImage": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/why-choose-us-icon-3.png"
+      },
+      "cardItem2": {
+        "title": "250+ trusted global partners",
+        "starIcon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/why-choose-us-icon-1.svg",
+        "score": "4.9",
+        "scoreTotal": "/5.0",
+        "avatars": [
+          "/images/people/doi-tac/bui-minh-duc.webp",
+          "/images/people/doi-tac/nguyen-thao-vy.webp",
+          "/images/people/doi-tac/tran-khanh-phong.webp",
+          "/images/people/doi-tac/le-kien-an.webp",
+          "/images/people/doi-tac/pham-minh-anh.webp",
+          "/images/people/doi-tac/vo-nhat-nam.webp",
+          "/images/people/doi-tac/dang-hoai-thuong.webp",
+          "/images/people/doi-tac/nguyen-tuan-kiet.webp"
+        ],
+        "centerLogo": "/images/brand/winterfrost/winterfrost-wordmark.png"
+      },
+      "cardItem3": {
+        "title": "Advanced technology",
+        "desc": "Apply the most modern platforms and tools to optimize project performance.",
+        "icons": [
+          {
+            "src": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/react-icon.svg",
+            "alt": "React",
+            "dark": true
+          },
+          {
+            "src": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/slack-icon.svg",
+            "alt": "Slack",
+            "dark": false
+          },
+          {
+            "src": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/xd-icon.svg",
+            "alt": "Xd",
+            "dark": true
+          },
+          {
+            "src": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/zapier-icon.svg",
+            "alt": "Zapier",
+            "dark": true
+          },
+          {
+            "src": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/figma-icon.svg",
+            "alt": "Figma",
+            "dark": false
+          },
+          {
+            "src": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/notion-icon.svg",
+            "alt": "Notion",
+            "dark": true
+          },
+          {
+            "src": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/github-icon.svg",
+            "alt": "Github",
+            "dark": false
+          }
+        ]
+      },
+      "cardItem5": {
+        "title": "24/7",
+        "desc": "Customer support",
+        "userMessage": "I need advice.",
+        "userAvatar": "/images/people/anh-hoi-thoai/tran-hoai-an.webp",
+        "systemMessage": "Winterfrost is ready to support you!",
+        "systemLogo": "/images/brand/winterfrost/winterfrost-symbol-transparent.png",
+        "decoration": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/decoration-pattern.png"
+      },
+      "cardItem4": {
+        "title": "Stable operation & Ready to take the lead",
+        "scriptText": "Future",
+        "bgImage": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/campaign-background.png"
+      }
+    },
+    "testimonials": {
+      "label": "Customer reviews",
+      "headline": [
+        "Word Experience",
+        "Customers"
+      ],
+      "avatar": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/testimonial-avatar-1.jpg",
+      "items": [
+        {
+          "quote": "At first he didn't expect too much but Winterfrost surprised him. The new website looks much more professional and the team to work with is very comfortable and pleasant.",
+          "author": "Nguyễn Quốc Việt",
+          "role": "Director of Verdora Property",
+          "avatar": "/images/people/khach-hang/nguyen-quoc-viet.webp"
+        },
+        {
+          "quote": "Thanks to the solid and professional website built by Winterfrost, reaching customers and operating our online business has become much smoother and more effective.",
+          "author": "Trần Minh Châu",
+          "role": "Manage Loomora Rugs",
+          "avatar": "/images/people/khach-hang/tran-minh-chau.webp"
+        },
+        {
+          "quote": "The MVP app was launched on schedule and worked smoothly from day one. He appreciates that Winterfrost works realistically, keeps the timeline and delivers exactly what was committed.",
+          "author": "Lê Đức Anh",
+          "role": "Founder",
+          "avatar": "/images/people/khach-hang/le-duc-anh.webp"
+        },
+        {
+          "quote": "The Winterfrost team understood the requirements very quickly and got to work immediately, helping to minimize time-consuming back and forth exchanges. This is exactly what he looks for in a development partner.",
+          "author": "Phạm Hải Long",
+          "role": "Co-founder",
+          "avatar": "/images/people/khach-hang/pham-hai-long.webp"
+        },
+        {
+          "quote": "Having worked with many agencies, he believes that Winterfrost's difference is that they prioritize asking about business goals before discussing software features - something he says is very rare.",
+          "author": "Võ Thanh Hương",
+          "role": "CMO",
+          "avatar": "/images/people/khach-hang/vo-thanh-huong.webp"
+        },
+        {
+          "quote": "My company used to spend a lot of time every week on manual reporting processes. Winterfrost helped automate much of this process and delivered results that were better than initially expected.",
+          "author": "Đặng Minh Khoa",
+          "role": "Nivora Connect product manager",
+          "avatar": "/images/people/khach-hang/dang-minh-khoa.webp"
+        }
+      ]
+    },
+    "techStack": {
+      "label": "Technology platform",
+      "headline": [
+        "Application",
+        "Technology",
+        "at Winterfrost"
+      ],
+      "tabs": [
+        "All",
+        "Interface",
+        "System",
+        "Database",
+        "Operation",
+        "Management"
+      ],
+      "items": [
+        {
+          "name": "React / Next.js",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/react-icon.svg",
+          "tab": "Interface"
+        },
+        {
+          "name": "Angular",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/figma-icon.svg",
+          "tab": "Interface"
+        },
+        {
+          "name": "Vue.js",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/figma-icon.svg",
+          "tab": "Interface"
+        },
+        {
+          "name": "Figma",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/figma-icon.svg",
+          "tab": "Interface"
+        },
+        {
+          "name": "Adobe XD",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/xd-icon.svg",
+          "tab": "Interface"
+        },
+        {
+          "name": "Sketch",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/figma-icon.svg",
+          "tab": "Interface"
+        },
+        {
+          "name": "Node.js",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/github-icon.svg",
+          "tab": "System"
+        },
+        {
+          "name": "Laravel",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/github-icon.svg",
+          "tab": "System"
+        },
+        {
+          "name": "WordPress / PHP",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/github-icon.svg",
+          "tab": "System"
+        },
+        {
+          "name": ".NET / ASP.NET",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/github-icon.svg",
+          "tab": "System"
+        },
+        {
+          "name": "Slack",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/slack-icon.svg",
+          "tab": "Management"
+        },
+        {
+          "name": "Notion",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/notion-icon.svg",
+          "tab": "Management"
+        },
+        {
+          "name": "Zapier",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/zapier-icon.svg",
+          "tab": "Operation"
+        },
+        {
+          "name": "GitHub",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/github-icon.svg",
+          "tab": "Operation"
+        }
+      ]
+    },
+    "faq": {
+      "label": "Frequently asked questions",
+      "headline": [
+        "Answers",
+        "Every",
+        "Wonder"
+      ],
+      "items": [
+        {
+          "q": "What core services does Winterfrost provide?",
+          "a": "We specialize in providing digital transformation solutions from website design, apps, specialized software to AI development. In addition, Winterfrost also develops an IoT smart device system and a Blockchain decentralized database with absolute security. With these services, we confidently accompany businesses in each stage of development."
+        },
+        {
+          "q": "What is the biggest difference when collaborating with Winterfrost?",
+          "a": "Winterfrost's core differentiator is the close combination of business thinking and technical capabilities. Instead of simply outsourcing software, we focus on accurately solving business problems to optimize costs and improve conversion rates. To accomplish this, Winterfrost possesses a team of experienced multinational experts capable of handling complex systems. At the same time, we continuously update and apply the latest technologies to ensure the product is always secure, operates stably and easily expands according to business growth."
+        },
+        {
+          "q": "How do I track project progress?",
+          "a": "We value transparency. Customers will be given access to project management tools, participate in regular progress reporting meetings, and experience the product firsthand at each stage of completion."
+        },
+        {
+          "q": "How is the cost for a project calculated?",
+          "a": "Costs are based on project size, complexity, and implementation time. After the initial consultation, Winterfrost will provide a detailed quote. We have diverse cooperation models from packages for projects with clear requirements, or more flexible packages for long-term projects that need flexibility to change."
+        },
+        {
+          "q": "Once completed, who owns the source code and data?",
+          "a": "Are our customers. Immediately after the project is accepted and payment is completed, all intellectual property rights, application copyright and 100% of the source code will be handed over to your business."
+        },
+        {
+          "q": "How does Winterfrost keep my information and business ideas secure?",
+          "a": "Security is a top priority. We always sign an Information Confidentiality Agreement with customers right from the initial consultation stage, before both parties share important data or ideas."
+        },
+        {
+          "q": "After the product launch, will Winterfrost continue to support it?",
+          "a": "Yes. All products developed by Winterfrost come with a free warranty period, usually from 3 to 6 months, to handle arising errors."
+        },
+        {
+          "q": "What if I want to upgrade or add new features later?",
+          "a": "Our system is always built with an open architecture, easy to expand. Customers can sign additional maintenance and operation packages or feature upgrade contracts at preferential prices exclusively for old customers."
+        }
+      ]
+    },
+    "wikiSection": {
+      "label": "Wiki",
+      "ctaLabel": "See all",
+      "ctaHref": "/wiki",
+      "items": [
+        {
+          "slug": "ai-va-machine-learning-trong-y-te",
+          "title": "AI and Machine Learning in Healthcare: Benefits and Practical Applications in 2026",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/07/AI-Va-Machine-Learning-Trong-Y-Te.png",
+          "category": "BUSINESS SOLUTIONS",
+          "categoryBg": "rgba(217, 132, 22, 0.45)",
+          "categoryColor": "#1A3B91",
+          "author": "Phương Ly",
+          "date": "35 mins ago",
+          "views": 2
+        },
+        {
+          "slug": "gemini-3-6-flash-va-google-antigravity-giai-phap-toi-uu-cho-lap-trinh",
+          "title": "Gemini 3.6 Flash and Google Antigravity – Optimal solutions for programming",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/07/Gemini-3.6-Flash-va-Google-Antigravity.jpg",
+          "category": "AI",
+          "categoryBg": "rgba(217, 41, 22, 0.45)",
+          "categoryColor": "#1A3B91",
+          "author": "Hữu Trí",
+          "date": "2 hours ago",
+          "views": 3
+        },
+        {
+          "slug": "cong-nghe-blockchain-trong-y-te-loi-ich-va-ung-dung-thuc-tien",
+          "title": "Blockchain Technology in Healthcare: Benefits and Practical Applications",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/07/Cong-Nghe-Blockchain-Trong-Y-Te.png",
+          "category": "BUSINESS SOLUTIONS",
+          "categoryBg": "rgba(217, 132, 22, 0.45)",
+          "categoryColor": "#1A3B91",
+          "author": "Phương Ly",
+          "date": "1 day ago",
+          "views": 3
+        }
+      ]
+    },
+    "partnersMarquee": {
+      "avatars": [
+        "/images/people/khach-hang/nguyen-quoc-viet.webp",
+        "/images/people/khach-hang/tran-minh-chau.webp",
+        "/images/people/khach-hang/vo-thanh-huong.webp",
+        "/images/people/khach-hang/dang-minh-khoa.webp",
+        "/images/people/khach-hang/pham-hai-long.webp"
+      ],
+      "ratingLabel": "250+ Partners",
+      "logos": [
+        {
+          "src": "/images/projects/website-pixelnova-media/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "PixelNova Media"
+        },
+        {
+          "src": "/images/projects/website-mocvan-tea/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Mocvan Tea"
+        },
+        {
+          "src": "/images/projects/aeromint-cleanroom/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Aeromint"
+        },
+        {
+          "src": "/images/projects/nivora-connect/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Nivora Connect"
+        },
+        {
+          "src": "/images/projects/app-grevia-lawn/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Grevia Lawn"
+        },
+        {
+          "src": "/images/projects/website-loomora-rugs/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Loomora Rugs"
+        },
+        {
+          "src": "/images/projects/website-chromiva-coatings/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Chromiva Coatings"
+        },
+        {
+          "src": "/images/projects/website-verdora-property/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Verdora Property"
+        },
+        {
+          "src": "/images/projects/website-candella-works/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Candella Works"
+        },
+        {
+          "src": "/images/projects/website-flexora-packaging/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Flexora Packaging"
+        },
+        {
+          "src": "/images/projects/website-polyvera/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Polyvera"
+        },
+        {
+          "src": "/images/projects/website-mirava/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Mirava"
+        },
+        {
+          "src": "/images/projects/website-bytevera/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Bytevera"
+        },
+        {
+          "src": "/images/projects/website-motoria-link/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Motoria Link"
+        },
+        {
+          "src": "/images/projects/website-dentavera/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Dentavera"
+        },
+        {
+          "src": "/images/projects/website-lumera-living/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Lumera Living"
+        },
+        {
+          "src": "/images/projects/website-auriva-land/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Auriva Land"
+        },
+        {
+          "src": "/images/projects/website-rovena-mobility/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Rovena Mobility"
+        },
+        {
+          "src": "/images/projects/website-brewvia/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Brewvia"
+        },
+        {
+          "src": "/images/projects/website-arcvera-construction/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Arcvera Construction"
+        },
+        {
+          "src": "/images/projects/website-edunora/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Edunora"
+        },
+        {
+          "src": "/images/projects/website-virela-interior/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Virela Interior"
+        },
+        {
+          "src": "/images/projects/website-ceranova/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Ceranova"
+        },
+        {
+          "src": "/images/projects/website-rovena-travel/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Rovena Travel"
+        },
+        {
+          "src": "/images/projects/website-zenovia-retail/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Zenovia Retail"
+        },
+        {
+          "src": "/images/projects/website-veloura-nails/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Veloura Nails"
+        },
+        {
+          "src": "/images/projects/website-pixelnova-media/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "PixelNova Media"
+        },
+        {
+          "src": "/images/projects/website-mocvan-tea/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Mocvan Tea"
+        },
+        {
+          "src": "/images/projects/aeromint-cleanroom/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Aeromint"
+        },
+        {
+          "src": "/images/projects/nivora-connect/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Nivora Connect"
+        },
+        {
+          "src": "/images/projects/app-grevia-lawn/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Grevia Lawn"
+        },
+        {
+          "src": "/images/projects/website-loomora-rugs/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Loomora Rugs"
+        }
+      ]
+    }
+  },
+  "ServicesPage": {
+    "meta": {
+      "title": "Service",
+      "description": "Winterfrost specializes in designing websites, apps, AI, IoT & Blockchain. Comprehensive technology solutions help businesses digitally transform and optimize operations."
+    },
+    "hero": {
+      "bgText": "WINTERFROST",
+      "title": "Website design, mobile app and AI-driven software solutions",
+      "description": "Winterfrost Vietnam offers a full digital solution system including Web, Mobile, AI and SaaS. We focus on turning your ideas into the most optimal technology products. Each solution is built with high applicability, helping businesses operate effectively. We promise to bring real value to partners through each piece of code.",
+      "marqueeTags": [
+        "Website Design",
+        "App Design",
+        "Enterprise Software Development",
+        "Custom software development",
+        "MVP Software Development",
+        "SaaS Application Development",
+        "Operation and Maintenance",
+        "Software product development",
+        "AI Development",
+        "IT Outsourcing service",
+        "DevOps Development",
+        "AI integration service",
+        "IoT Development",
+        "IT outsourcing services",
+        "Outsourced website design",
+        "Blockchain Development",
+        "Hire programmers in Vietnam",
+        "Offshore Development Services"
+      ],
+      "cubeFaces": {
+        "front": "/images/services/winterfrost/cube-faces/nha-trang-travel-website.png",
+        "right": "/images/services/winterfrost/cube-faces/greenscape-mobile-app.png",
+        "back": "/images/services/winterfrost/cube-faces/nova-paint-website.png",
+        "left": "/images/services/winterfrost/cube-faces/planora-mobile-app.png"
+      },
+      "bgImage": "/images/brand/winterfrost/winterfrost-banner.jpg"
+    },
+    "servicesList": {
+      "label": "Our services",
+      "headlineLight": "Software development and",
+      "headlineDark": "AI automation",
+      "viewLabel": "View services",
+      "description": "Winterfrost provides comprehensive Website, App and AI solutions, helping businesses overcome digital barriers. We are committed to optimizing costs, improving performance and maximizing security, creating a solid foundation for you to lead the market.",
+      "items": [
+        {
+          "slug": "thiet-ke-website",
+          "title": "Website Design",
+          "desc": "A professional website must be a profit-generating tool. At Winterfrost, we build platforms that are high-speed, stable, and optimized for user experience. From interface to features, every detail is fine-tuned to drive conversions, help businesses operate smoothly and affirm their brand position.",
+          "img": "/images/services/winterfrost/web-application-development-v2.png"
+        },
+        {
+          "slug": "phat-trien-ai",
+          "title": "AI Development",
+          "desc": "Winterfrost helps you analyze and process your data through specialized AI and machine learning solutions. From image recognition to predictive analytics, we help businesses automate complex decision processes to create a clear competitive advantage. All models are adjusted to bring real and accurate value to businesses.",
+          "img": "/images/services/winterfrost/ai-development.webp"
+        },
+        {
+          "slug": "phat-trien-ung-dung-saas",
+          "title": "SaaS Application Development",
+          "desc": "Winterfrost specializes in developing SaaS applications on the cloud platform, thoroughly solving security and scalability problems. We optimize the system structure to ensure stable operation, helping businesses save infrastructure costs and create sustainable recurring revenue sources.",
+          "img": "/images/services/winterfrost/saas-application-development.webp"
+        },
+        {
+          "slug": "thiet-ke-app",
+          "title": "App Design",
+          "desc": "Winterfrost specializes in developing high-performance IOS and Android applications, ensuring absolute stability and security. Our solution is flexibly compatible with existing systems, helping businesses connect deeply with customers and grow sustainably.",
+          "img": "/images/services/winterfrost/mobile-app-development.webp"
+        },
+        {
+          "slug": "van-hanh-va-bao-tri",
+          "title": "Operation and Maintenance",
+          "desc": "We understand that a stable system is vital for a business. Winterfrost proactively maintains and updates security to keep your software running the best it can. The technical team is ready to quickly solve all problems so that the unit's working process is not interrupted. You can completely rest assured that you can focus on growing your business because we are here to protect your system every day.",
+          "img": "/images/services/winterfrost/software-maintenance-and-support.webp"
+        },
+        {
+          "slug": "phat-trien-phan-mem-doanh-nghiep",
+          "title": "Enterprise Software Development",
+          "desc": "Winterfrost develops in-depth management systems, thoroughly solving all operational complexities. We customize the software according to each business's unique processes, helping to centralize data and ensure absolute security. This is a solid foundation for you to standardize your organization and optimize sustainable resources.",
+          "img": "/images/services/winterfrost/enterprise-software-development.webp"
+        },
+        {
+          "slug": "phat-trien-phan-mem-mvp",
+          "title": "MVP Software Development",
+          "desc": "Winterfrost helps businesses launch products quickly with a streamlined MVP development process. We focus on core features to validate ideas and gather real-world feedback, helping to optimize budgets and minimize risks before making large investments. This is a smart stepping stone for you to start effectively and safely.",
+          "img": "/images/services/winterfrost/mvp-software-development.webp"
+        },
+        {
+          "slug": "dich-vu-it",
+          "title": "IT Services",
+          "desc": "Winterfrost directly analyzes the current process to replace manual operations with a management software system. Digitalization helps data be stored centrally, minimizing human errors and shortening work processing time. Businesses will capture actual data in real time to make accurate operating decisions, thereby optimizing operating costs and improving personnel performance.",
+          "img": "/images/services/winterfrost/custom-software-solutions.webp"
+        },
+        {
+          "slug": "tu-van-chuyen-doi-so",
+          "title": "Digital Transformation Consulting",
+          "desc": "We set up, operate and maintain the entire server system, internal network and technical equipment for businesses. Winterfrost applies security standards and routine backup procedures to prevent the risk of information loss or unauthorized intrusion. The technical system is maintained and operates continuously to ensure uninterrupted work, while also helping businesses reduce costs of recruiting and managing internal IT staff.",
+          "img": "/images/services/winterfrost/generative-ai-integration.webp"
+        },
+        {
+          "slug": "phat-trien-devops",
+          "title": "DevOps Development",
+          "desc": "Winterfrost improves the software development process with an automated CI/CD solution that reduces product launch time to a minimum. We focus on building a secure cloud infrastructure and 24/7 continuous monitoring system to ensure stability.",
+          "img": "/images/services/winterfrost/devops-development.webp"
+        },
+        {
+          "slug": "phat-trien-iot",
+          "title": "IoT Development",
+          "desc": "Winterfrost links smart devices and collects information to help businesses improve operational processes. We focus on developing secure and flexible IoT solutions that allow you to monitor data in real time. You will have a powerful connected ecosystem to make decisions based on the most accurate data.",
+          "img": "/images/services/winterfrost/iot-development.webp"
+        },
+        {
+          "slug": "phat-trien-blockchain",
+          "title": "Blockchain Development",
+          "desc": "Winterfrost builds a decentralized Blockchain solution that helps ensure absolute data security. We apply Smart Contract to optimize costs and completely eliminate intermediary risks. This is a solid foundation to help you strengthen customer trust and effectively breakthrough in the digital era.",
+          "img": "/images/services/winterfrost/blockchain-development.webp"
+        }
+      ]
+    },
+    "howWeWork": {
+      "label": "Winterfrost workflow",
+      "ctaLabel": "Get route advice now!",
+      "ctaHref": "tel:+84971450454",
+      "steps": [
+        {
+          "num": "01",
+          "badge": "Reception",
+          "title": "Receive and analyze requests",
+          "desc": "We listen to your ideas and analyze your business problems to propose the most optimal solution. This helps us clearly define the scope and goals from the beginning, thereby avoiding unnecessary waste in the project."
+        },
+        {
+          "num": "02",
+          "badge": "Strategize",
+          "title": "Plan and commitment",
+          "desc": "The implementation roadmap is specific with clear milestones immediately after signing the contract. Enterprises will always be proactive in monitoring progress and making timely adjustments to match market trends."
+        },
+        {
+          "num": "03",
+          "badge": "Design",
+          "title": "Design UI/UX interface",
+          "desc": "Focusing on aesthetics and practical user behavior, we design intuitive interfaces and logical flow. The core goal is to provide a smooth experience that increases conversion rates for your products."
+        },
+        {
+          "num": "04",
+          "badge": "Done",
+          "title": "Continuous programming and optimization",
+          "desc": "The team of engineers executes the code, checks errors and quality on each module. This process helps detect errors early and optimize performance immediately, ensuring the final product always achieves the highest stability and perfection."
+        },
+        {
+          "num": "05",
+          "badge": "Handover",
+          "title": "Handover and sustainable support",
+          "desc": "Winterfrost carries out full technology transfer, detailed operating instructions and maintains periodic maintenance services. We are committed to long-term companionship so that your system always operates safely and is ready to expand."
+        }
+      ]
+    },
+    "benefits": {
+      "label": "Why should you choose the service at Winterfrost?",
+      "headline": "Difference value from Winterfrost",
+      "items": [
+        {
+          "num": "1",
+          "title": "Pioneering technology",
+          "desc": "Master AI, Blockchain and IoT to bring the most modern and groundbreaking technology solutions to businesses.",
+          "icon": "rocket"
+        },
+        {
+          "num": "2",
+          "title": "Lean development",
+          "desc": "Applying the MVP model helps launch products quickly, saving maximum time and investment budget.",
+          "icon": "zap"
+        },
+        {
+          "num": "3",
+          "title": "Reliable quality",
+          "desc": "Programming in parallel with the quality testing process ensures the system always operates stably and achieves high perfection.",
+          "icon": "shield"
+        },
+        {
+          "num": "4",
+          "title": "Strategic partner",
+          "desc": "We not only design but also provide long-term solutions, accompanying the growth of businesses.",
+          "icon": "handshake"
+        },
+        {
+          "num": "5",
+          "title": "Flexible expansion",
+          "desc": "Modern software structure, allowing businesses to easily upgrade and expand the system according to each business stage.",
+          "icon": "expand"
+        },
+        {
+          "num": "6",
+          "title": "Absolute security",
+          "desc": "Establishing a multi-layer security system, we are committed to protecting the safety of business data and information.",
+          "icon": "lock"
+        },
+        {
+          "num": "7",
+          "title": "Optimal experience",
+          "desc": "Sophisticated UI/UX design, focusing on actual user behavior to drive the most effective conversion rate.",
+          "icon": "sparkles"
+        },
+        {
+          "num": "8",
+          "title": "Professional working roadmap",
+          "desc": "Clear working processes and detailed progress reports help businesses proactively grasp every project stage.",
+          "icon": "route"
+        },
+        {
+          "num": "9",
+          "title": "Profit value",
+          "desc": "The solutions we offer all have one goal. That is turning technology into a lever to increase business profits.",
+          "icon": "chart"
+        }
+      ]
+    },
+    "ctaBanner": {
+      "badge": "Contact now!",
+      "headline": "Choose the solution that's right for your business",
+      "description": "Let Winterfrost engineers advise on the correct solution based on the actual needs and budget of your business.",
+      "ctaLabel": "Get free consultation",
+      "ctaHref": "tel:+84971450454"
+    },
+    "industries": {
+      "label": "Featured areas",
+      "headlineLight": "Winterfrost provides services",
+      "headlineDark": "according to each specific field",
+      "ctaLabel": "Explore all areas",
+      "items": [
+        {
+          "slug": "thuong-mai-dien-tu",
+          "title": "Electronic commerce",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/05/Linh-vuc-Thuong-mai-dien-tu-HomeNest-Viet-Nam.png"
+        },
+        {
+          "slug": "cong-nghe-tai-chinh",
+          "title": "Financial technology",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/05/Linh-vuc-Cong-nghe-tai-chinh-HomeNest-Viet-Nam.png"
+        },
+        {
+          "slug": "y-te",
+          "title": "Medical",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/05/Linh-vuc-Cham-soc-suc-khoe-HomeNest-Viet-Nam.png"
+        },
+        {
+          "slug": "tai-chinh-doanh-nghiep",
+          "title": "Corporate finance",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/05/Linh-vuc-Tai-chinh-doanh-nghiep-HomeNest-Viet-Nam.png"
+        },
+        {
+          "slug": "phan-mem-doanh-nghiep",
+          "title": "Enterprise software",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/05/Linh-vuc-Phat-trien-phan-mem-doanh-nghiep-HomeNest-Viet-Nam.png"
+        },
+        {
+          "slug": "ban-le",
+          "title": "Retail",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Retail-Industries-Icon.png"
+        },
+        {
+          "slug": "bat-dong-san",
+          "title": "Real estate",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/05/Linh-vuc-Bat-dong-san-HomeNest-Viet-Nam.png"
+        },
+        {
+          "slug": "van-tai-va-logistics",
+          "title": "Transportation and Logistics",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/05/Linh-vuc-Van-tai-va-Logistics-HomeNest-Viet-Nam.png"
+        },
+        {
+          "slug": "giao-duc",
+          "title": "Education",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Education-Industries-Icon.png"
+        }
+      ]
+    },
+    "caseStudies": {
+      "heading": "Typical projects",
+      "viewAllLabel": "See more",
+      "viewAllHref": "/case-studies",
+      "items": [
+        {
+          "slug": "app-nivora-connect",
+          "category": "Develop applications as required",
+          "title": "App Nivora Connect",
+          "tag": "App Design",
+          "cta": "View project",
+          "img": "/images/projects/nivora-connect/01-cover.webp?v=wf-20260726"
+        },
+        {
+          "slug": "app-grevia-lawn",
+          "category": "Develop applications as required",
+          "title": "App Grevia Lawn",
+          "tag": "App Design",
+          "cta": "View project",
+          "img": "/images/projects/app-grevia-lawn/01-anh-bia-du-an.webp?v=wf-grevia-pro-20260726"
+        },
+        {
+          "slug": "website-loomora-rugs",
+          "category": "Retail · E-commerce",
+          "title": "Loomora Rugs website",
+          "tag": "Website design",
+          "cta": "View project",
+          "img": "/images/projects/website-loomora-rugs/01-anh-bia-du-an.webp?v=wf-projects-pro-20260726"
+        }
+      ]
+    },
+    "technology": {
+      "label": "Technology platform",
+      "headline": [
+        "Operational technology",
+        "",
+        "at Winterfrost"
+      ]
+    },
+    "faq": {
+      "label": "Frequently asked questions",
+      "headline": [
+        "Answers",
+        "Every",
+        "Wonder"
+      ],
+      "intro": "Frequently asked questions asked by customers to Winterfrost.",
+      "items": [
+        {
+          "q": "In what areas is Winterfrost strong?",
+          "a": "We are especially good at creating custom software for Web, App, SaaS and applying new technologies such as AI, Blockchain, IoT. All solutions are built to solve practical problems in businesses."
+        },
+        {
+          "q": "How long does the working process at Winterfrost last?",
+          "a": "Implementation time depends on the scale of the project. However, with our lean development model, we can help you launch a major version in 4-8 weeks to test the market early."
+        },
+        {
+          "q": "I already have a system in place, can Winterfrost integrate AI into it?",
+          "a": "Maybe. We specialize in providing AI and GenAI integration services into existing platforms to automate processes, optimize data and improve efficiency without replacing all legacy systems."
+        },
+        {
+          "q": "How can I trust the product quality?",
+          "a": "Winterfrost applies very strict quality control procedures throughout the programming process. Continuous testing on each module helps detect errors early and ensure the system operates most stably upon handover."
+        },
+        {
+          "q": "How are service costs calculated?",
+          "a": "Costs will be calculated transparently based on the scope of work, complexity of features and technology requirements. We always give the best advice to balance your budget and business goals."
+        },
+        {
+          "q": "Does Winterfrost ensure project information security?",
+          "a": "Sure. We always sign a strict confidentiality contract before receiving project information. Intellectual property rights and all source code will belong to the customer upon handover."
+        },
+        {
+          "q": "What is Winterfrost's post-handover support policy?",
+          "a": "We don't just hand over. We provide routine maintenance, security updates, and 24/7 technical support to keep your systems running smoothly and ready for expansion."
+        }
+      ]
+    }
+  },
+  "AutoText": {
+    "k203kjd": "What is Generative AI Chatbot? Instructions for building a generative chatbot",
+    "k12asvl6": "Le Chan",
+    "k1xx73q9": "Generative AI Chatbot is creating a strong wave of digital transformation in Vietnam thanks to its natural communication ability and flexible context understanding through the power of LLM and RAG retrieval technology. Superior to traditional scripted chatbots, this solution helps businesses optimize operating costs, provide 24/7 customer care and personalize the experience. For successful application, organizations need to follow a streamlined 6-step construction process, with special emphasis on preparing clean data. Finally, businesses need to know how to seize opportunities from the domestic AI ecosystem, and at the same time have strategies to deal with barriers of \"AI illusion\", security and cost.",
+    "k12rgkcu": "Website design",
+    "k1o911ts": "App Design",
+    "k1gf4ckt": "Real estate",
+    "k1n7x1v": "Retail",
+    "k1sabsg5": "Medical",
+    "k1stjgu1": "Communication",
+    "kgqsb04": "Travel",
+    "kxf0ssn": "Production",
+    "kez5f5q": "Architecture & construction",
+    "k1bn2dpa": "Electronic commerce",
+    "kt99tt0": "Supply chain",
+    "k1muhyk6": "Mr. Thu",
+    "kaczs7z": "Contact now!",
+    "k6o8ltw": "Leading the digital era with exclusive AI system",
+    "k15gtxg8": "Don't just stop at regular automation. Join Winterfrost to explore the power of data to build unique AI models, helping your business have an absolute competitive advantage in the market.",
+    "k1ilexgi": "Build your AI roadmap now",
+    "klti6ob": "Typical projects Winterfrost has accompanied: website design, mobile app, AI and digital solutions for businesses.",
+    "k1sb2524": "Privacy policy",
+    "k4zdixi": "Customer and user information security policy at Winterfrost.",
+    "k1v9d27x": "Maintain internal records",
+    "kpa4dn0": "Manage customer and partner information.",
+    "k1qwyi5f": "Improve service",
+    "k1hyz6ue": "We may use information to improve our software products and services.",
+    "k128d5uu": "Marketing and communications",
+    "kpswrex": "Periodically, we may send promotional emails about new services, special offers or other information that we think will be of interest to you via the email address you have provided.",
+    "k1tbv4n0": "At the time of providing information",
+    "ki7t7kq": "Whenever you are asked to fill in a form on a website, look for the check box to specify that you do not want your information to be used by anyone for direct marketing purposes.",
+    "ka0te0n": "Change your mind and withdraw permission",
+    "kftdx1s": "If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us.",
+    "k1orq7up": "Home",
+    "k17spkxh": "This Privacy Policy sets out how Winterfrost uses and protects any information you provide when using https://winterfrost.tech website.",
+    "kijmg0x": "Winterfrost is committed to protecting your privacy. When we ask you to provide certain identification information in the course of using this website, you can be completely assured that such information will only be used in accordance with the terms of this privacy statement.",
+    "k1pdblz0": "Winterfrost may change this policy from time to time by updating it on the website. We recommend that you check this page periodically to ensure that you are always aware of and agree to changes. This policy is effective January 1, 2017",
+    "k1uezmpb": "What we do with the information we collect",
+    "kre72kk": "What Information We Collect",
+    "k18r4shf": "We may collect the following information:",
+    "k1uqxj4j": "Contact information includes email address, phone number.",
+    "k1p6qhy5": "Demographic information such as zip codes, interests, and interests.",
+    "k1c3thua": "Other information related to customer surveys and/or promotions.",
+    "k1kcqept": "Security",
+    "kx9c36g": "We are committed to ensuring that your information is secure. To prevent unauthorized access or disclosure, we have put in place appropriate physical, electronic, and managerial procedures to protect and secure any information collected online.",
+    "k1v0bhn5": "How We Use Cookies",
+    "k4siefb": "A cookie is a small file that asks for permission to be stored on your computer's hard drive. When you agree, a file is added and cookies help analyze web traffic or notify you when you visit a particular page. Cookies allow web applications to respond to you as an independent individual. The web application can customize activities according to your needs and preferences by collecting and remembering information.",
+    "k6yd68l": "We use scrolling log cookies to identify the pages that are being used. This helps us analyze data on website traffic and improve the platform to better meet the needs of our customers. We only use this information for statistical analysis purposes, after which the data will be deleted from the system.",
+    "k7v9c9i": "Overall, cookies help us provide you with a better-performing website by keeping track of pages you find useful and pages that don't. Cookies do not give us access to your computer or any information about you at all, except for data you actively share with us.",
+    "k8793xo": "You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser settings to decline cookies if you wish. However, this may prevent you from getting the most out of the site's features.",
+    "kwu2i0i": "Links to other websites",
+    "koxje9j": "Our website may contain links to other websites. However, once you have used these links to leave Winterfrost's website, you should be aware that we do not have any control over that third-party website. Therefore, we cannot be held responsible for the protection of the privacy of any information you provide when visiting these sites, and such sites are not governed by this privacy statement. You should exercise caution and review the privacy policies applicable to the website in question.",
+    "krvy4em": "Controlling Your Personal Information",
+    "kux4jdh": "You can choose to limit the collection or use of your personal information in the following ways:",
+    "ksf6a0o": "We will not sell, distribute, or rent your personal information to third parties unless we have your permission or are required by law. We may use your personal information to send you promotional information about third parties that we think you may find interesting if you tell us you want this to happen.",
+    "kwq3kzy": "If you believe that any information we hold about you is inaccurate or incomplete, please contact us immediately. We will promptly correct any information found to be inaccurate.",
+    "k1dyoc0f": "If you have any questions about this policy, please contact us directly at our office in Vinhomes Grand Park, District 9, Ho Chi Minh City, or via email info@winterfrost.tech to receive company support.",
+    "k17vdoxp": "IT Services",
+    "k1b3y636": "Comprehensive IT solutions, infrastructure management, technical support and system optimization for businesses.",
+    "k1mtovmx": "Winterfrost provides comprehensive IT services from architectural consulting, infrastructure management to monitoring and technical support. The solution is designed according to actual needs, helping businesses maintain a stable, secure and scalable system.",
+    "k1bn7e6b": "Digital Transformation Consulting",
+    "khs9w9p": "Build a clear digital transformation roadmap, optimize processes and choose technology suitable for the business.",
+    "kusz7zb": "The Winterfrost team accompanies businesses in assessing the current status, determining goals and building a feasible digital transformation roadmap. Each offering focuses on operational efficiency, measurability, and speed of deployment.",
+    "k6x4xtf": "View project",
+    "k1j78eha": "Architecture & construction · E-commerce",
+    "k1vtc3vu": "Contact Winterfrost",
+    "k61e2xj": "Contact the Winterfrost team to receive a free consultation on websites, applications, AI and digital transformation solutions.",
+    "k133uj50": "Contact now",
+    "k9jllvg": "Initiating your technology project",
+    "kvohhjo": "We believe that great strides always start with a conversation. Whether you're looking for strategic technology consulting, custom software solutions, or a long-term partner, we're here to help you scale.",
+    "k1aawfk3": "Specializing in providing software solutions specifically designed according to business characteristics.",
+    "k15otzj9": "Access a team of experienced IT experts and engineers.",
+    "k9lwa9q": "Survey and evaluate the feasibility of the project completely free of charge.",
+    "k2d0anu": "Flexible cooperation model, helping businesses control and optimize costs effectively.",
+    "knv4s0z": "Please share your ideas",
+    "k14h1e6": "Last name",
+    "ks5zpb": "Name",
+    "k1tlfzb1": "Email address",
+    "k1tjj3qj": "Phone number",
+    "k1iiv17r": "Message for us",
+    "kmi4i48": "Sending…",
+    "kcox2yy": "Get free consultation now",
+    "k1cdxoog": "Field - Winterfrost",
+    "k1f74w09": "Winterfrost develops specialized technology solutions for each industry — from finance and healthcare to retail, logistics and real estate.",
+    "krtrm1z": "Winterfrost Wallpaper",
+    "kwazxva": "Page not found",
+    "ktnduam": "We couldn't find the page you're looking for. Please check the URL or return to the homepage.",
+    "kc8hd9u": "Technology at Winterfrost",
+    "k435989": "Explore the Back-end, Front-end, App, AI and cloud computing platforms used by Winterfrost to develop digital products.",
+    "kqnlbpy": "What will a Tester's job at Winterfrost do?",
+    "k1rohmxo": "The article provides an authentic and in-depth perspective on the work of a Software Tester through the diary of a working day of Nguyen Quoc Huy and Thuc Quyen at Winterfrost. Going beyond the stereotype of \"just try it and report errors\", the testing process requires careful analysis from reading specification documents, creating scripts, to evaluating performance and interface on diverse technology platforms. In addition to detailing how Testers coordinate seamlessly with Developers and BAs to solve user experience problems, the article also summarizes practical advice for newcomers and introduces attractive career development opportunities at Winterfrost.",
+    "kprfyju": "Huu Tri",
+    "kki27xm": "What is a working day like for a Business Analytics (BA) at Winterfrost?",
+    "k1adyffr": "Find out what BA's role is at Winterfrost. Explore workflows, problem solving, hands-on experience, and advice for newbies.",
+    "k16l7fif": "What does a Flutter Developer's working day look like?",
+    "k1rsvf9n": "Explore a real working day of a Flutter Developer at Winterfrost. Read now to grasp the workflow, how to solve business problems and valuable advice for the IT field.",
+    "k1yoljaj": "Winterfrost Promotion",
+    "k1cvak1s": "Recruitment",
+    "k14xuapl": "Submit your CV to the mail:",
+    "klpmq4w": "Or Zalo:",
+    "k1kfp6qk": "Book a consultation now",
+    "k1vp9tyg": "Contact us now to build a solid technology foundation for your business",
+    "k16w7753": "Book an appointment with a team of engineers to receive in-depth advice on the digitalization roadmap and implementation cost optimization plan.",
+    "k1hrxzg9": "Talk to an → expert",
+    "kbvcrlw": "Other Job Postings",
+    "k5u75qi": "Salary: Negotiable",
+    "kqb7d8z": "Application deadline: 2026-12-31",
+    "klha8fm": "See all",
+    "k4i8u0x": "Winterfrost Recruitment",
+    "kq6zf4": "Explore vacancies and career development opportunities with the Winterfrost team.",
+    "k1nl56ic": "Applying position",
+    "kal4s1w": "All",
+    "k13m88rd": "Personnel administration",
+    "k12uk7e": "Accounting - Auditing",
+    "k1n1xvcw": "Legislation",
+    "k16fiqcy": "Risk management",
+    "k3tzros": "Operation",
+    "k6xye8l": "Office",
+    "k19rs1yz": "Workplace",
+    "kn9ullg": "Can Tho",
+    "k1n80rdt": "Da Nang",
+    "ka01zp1": "Hanoi",
+    "kw9mbk2": "Ho Chi Minh",
+    "krzu36j": "Recruitment type",
+    "k1884i9t": "Form of work",
+    "kpbebgj": "Collaborator",
+    "k1wirnzs": "Staff",
+    "kl09q3d": "Management",
+    "k1evf6io": "practice",
+    "kqchjhv": "Accompanying Winterfrost",
+    "kkaq6io": "in the digital era",
+    "kvi2y1": "We not only provide effective digital transformation solutions but also create a professional environment for you to",
+    "k8eswyb": "Promote talents",
+    "ka8wf5y": "With the network",
+    "k1r2ssz": "The project spans more than 15 countries",
+    "k1nbvjc3": "Becoming a member of Winterfrost means you will have the opportunity to work in a multicultural environment, directly addressing the challenges of",
+    "k17tnhsm": "major technology challenges",
+    "k14t5v81": "We always focus on the development of our employees, because we believe that employees who are comfortable and happy to work will create quality products.",
+    "k1cjcar6": "Winterfrost team",
+    "kw1c4oh": "Position is recruiting",
+    "k1a2nlc5": "Find the right job and join the Winterfrost team today.",
+    "k1ihd60n": "Search for vacancies",
+    "kmqa1yw": "Search",
+    "kys5uyk": "Recruitment pagination",
+    "k1j144uh": "What is the vision and brand positioning of Winterfrost?",
+    "k1wpilfa": "Winterfrost is positioned as a strategic technology partner. Our vision is to create breakthrough digital solutions, perfectly combining core technology (Core Tech) and user experience (UX) to help businesses confidently lead the digital era.",
+    "kzegk5h": "What is Winterfrost's experience and scale of operations?",
+    "kp15d46": "We are proud to have a team of experts with more than 10 years of real combat experience. To date, Winterfrost has successfully deployed technology projects in more than 15 countries globally, including demanding markets such as North America, Europe and Australia.",
+    "k1vcxb0x": "Who are the main customers of Winterfrost?",
+    "k1afe9ss": "We accompany a variety of business sizes: from Startups that need to build MVP products quickly to raise capital, to small and medium-sized businesses that want to digitally transform, and even large corporations that need complex Custom App and SaaS systems.",
+    "kwsnxx1": "Winterfrost specializes in providing outsourcing services or consulting solutions?",
+    "k5xj24l": "We are not just a simple software outsourcing unit. Winterfrost acts as a comprehensive solution consultant: from business problem analysis, system architecture planning, to UI/UX design and final product development.",
+    "ksmht77": "What is the capacity of the staff at Winterfrost?",
+    "k1u33q83": "Our team is a combination of experienced Software Engineers, Data Analysts and creative UX/UI Designers. All of them have a deep understanding of modern technology and always focus on customer business efficiency.",
+    "klc1wsz": "Does Winterfrost apply advanced technologies?",
+    "kwig183": "Sure. Besides Web and App, Winterfrost possesses in-depth capabilities in integrating Artificial Intelligence, developing a secure Blockchain platform and connecting things, helping to automate and maximize the data potential of businesses.",
+    "k16tmvc6": "What numbers demonstrate Winterfrost's service quality?",
+    "k12r6o29": "Winterfrost's service quality is guaranteed by the trust of more than 250+ global partners. In particular, we always maintain a customer satisfaction rate of 98% - the most accurate measure of project dedication and efficiency.",
+    "k1expp0p": "I am abroad, how will cooperation with Winterfrost work?",
+    "k5qgd83": "Geographic distance is not a barrier. With experience working with customers in 15+ countries, we apply flexible Agile/Scrum work processes, transparent progress reporting via online platforms, ensuring projects are always on track no matter where you are.",
+    "k4nipa7": "Become a partner with Winterfrost",
+    "k1ge4yzn": "We not only provide technical solutions but also always accompany the long-term development of the business. Please contact us to build effective technology platforms together.",
+    "kmkrt1c": "Submit a consultation request",
+    "k590n0w": "Frequently asked questions",
+    "k1b3xxv4": "Answers",
+    "k1vqende": "Every",
+    "ke374uu": "Wonder",
+    "k118iq2s": "Wiki & Technology Knowledge - Winterfrost",
+    "k19j2ntm": "Winterfrost's perspective on technology trends and digital transformation solutions.",
+    "k1yntfcy": "Vietnamese",
+    "kp82r5w": "Hindi",
+    "kp1w2q1": "Growth",
+    "k22yt8o": "Your full name",
+    "k11eclox": "Short description of your request",
+    "k1vg3sak": "Quick response within 24h.",
+    "ku3y917": "Work directly with experts.",
+    "k10ckrc5": "Clear strategic consulting.",
+    "k150guhk": "Connect With Us",
+    "k1fs9rd1": "Projects",
+    "k2szj3b": "Today",
+    "kfc9h30": "Cooperation Contact",
+    "k1fasa6m": "Full Name*",
+    "k1ajhsfk": "Or send mail directly to:",
+    "k1d0joof": "Submit Request",
+    "khi11kb": "Book a consultation",
+    "ki2qlvt": "Numbers",
+    "kkwz6m4": "proof",
+    "k1i8v5d7": "for value",
+    "kogs9jp": "Contact Directly",
+    "kdeeq73": "Text message to receive consultation",
+    "k8pzogk": "Markets served by Winterfrost",
+    "k1n3or0": "The project has been implemented",
+    "ktqgo9l": "Capacity",
+    "k1g4wnoo": "Development",
+    "k19tpzs6": "through each project",
+    "k1lglekr": "Creating a Web platform with intuitive UI/UX interface, SEO standards and high performance, helping businesses break through conversion rates on digital platforms.",
+    "k12cqup9": "Reduce operating costs",
+    "kod3xeh": "Increase data processing speed",
+    "k1muqn2i": "Le Khai Minh",
+    "kwmjy7j": "98% of customers are satisfied with the service",
+    "kjku9f7": "Optimize user experience to retain customers and drive growth.",
+    "ku7pug4": "Software Development",
+    "k1ls1862": "Supply",
+    "kv16om7": "Intensive Software Solutions",
+    "kmy0zdv": "with a flexible architecture, thoroughly solving the complex operation problem of the business.",
+    "ki1onzq": "AI Development",
+    "ktbkc4r": "Applying AI/GenAI to",
+    "kz2xig2": "Process Automation",
+    "k12qpx61": "and in-depth data analysis, helping to optimize resources and create a breakthrough competitive advantage.",
+    "k1uo9djv": "Customers trust the service",
+    "kcr38b9": "Intelligent AI Chatbot",
+    "kzx5tqw": "View Featured Projects",
+    "k1y3x3x5": "Vietnamese consultant of Winterfrost",
+    "k7z28pa": "Overview of our projects",
+    "ks6ibqz": "Typical projects and practical implementation solutions",
+    "k1neytx": "Winterfrost we create digital solutions that help companies grow and expand their operations. We meet regularly with our customers to understand their workflows and create software products that are relevant to their actual goals. Each project is implemented through careful research to ensure efficiency for the partners of the business.",
+    "k13obg59": "We specialize in",
+    "k1n8bhcz": "Website Design and Building",
+    "kkxvu4l": "Application on",
+    "k1mk5ou1": "Mobile Phones",
+    "k1jmtle2": "AI development, together with other",
+    "k1btark6": "Specialized Enterprise Management System",
+    "k15r5gk5": "The engineering team at Winterfrost Vietnam uses stable technology platforms to ensure good performance and easy upgrades in the future.",
+    "k1r7xo7l": "Winterfrost focuses on optimizing the user interface and experience to enhance user engagement. We have been successful with many projects in fields such as finance, e-commerce, education, and transportation. The following outstanding projects demonstrate our ability to provide professional services, bring good results and high profits to businesses.",
+    "k106txrn": "Start the project now!",
+    "kyooo0k": "Nivora Connect application, developed by Winterfrost, is an intuitive platform that helps connect the Vietnamese community in Korea with construction services...",
+    "k16k0x93": "Discover how Winterfrost built the Grevia Lawn app with high-performance design, easy scheduling optimization, and professional lawn care management...",
+    "k1myjg7l": "Loomora Rugs website, developed by Winterfrost, is a luxuriously designed premium e-commerce platform that showcases products...",
+    "k1047x2j": "Winterfrost — Contact for consultation",
+    "k1wnbede": "Initialization",
+    "k1vcls4z": "Your",
+    "k1ez7uii": "All projects",
+    "k1teqs7i": "Field",
+    "kkfblio": "Service",
+    "k1xz37hm": "Financial technology",
+    "km8e3yl": "Petroleum",
+    "k7n1aeh": "Education",
+    "k146zzvf": "Accounting",
+    "kn99dql": "Bank",
+    "kwjvfrj": "Agriculture",
+    "k1r7e72y": "Enterprise software",
+    "kue3ppd": "Utility software",
+    "kkzsysz": "Develop applications as required",
+    "klxa8al": "Corporate finance",
+    "kmvvqqv": "Transportation and Logistics",
+    "k1hssxax": "No project found that matches the filter.",
+    "k13m7pwz": "Pagination",
+    "k1a9nm3i": "Prestige ✦ Quality ✦ Efficiency ✦\\u00a0\\u00a0",
+    "k1qeosiv": "Typical projects",
+    "ksk9ofs": "at Winterfrost",
+    "kkkoxh6": "Framework to simulate professional website interface",
+    "k8altmf": "Mobile interface simulation framework",
+    "k1vwdpmt": "Interface",
+    "k9zgnl0": "System",
+    "kb172rl": "Database",
+    "k4oapv9": "What is the difference between custom software development and off-the-shelf software?",
+    "k14dd7b9": "Off-the-shelf software is built for broad market use and requires your business processes to conform to the vendor's product structure. Custom software development services produce a system built around your exact workflows, data models, and business rules, giving you full control, no redundant features, and no forced upgrades on a vendor's timeline.",
+    "key234q": "How do I know if I need custom software or an off-the-shelf solution?",
+    "k1p3be3t": "Off-the-shelf software works well when your processes are standard and you are willing to adapt your workflows to the vendor's product structure. Custom software development is the right choice when your business logic is proprietary, when you need deep integrations with existing systems, when licensing costs at scale exceed development investment, or when off-the-shelf limitations are directly constraining your operational efficiency. We offer a free discovery session to help you evaluate both paths objectively before committing to either.",
+    "k4atur7": "How long does custom software development take?",
+    "kz6u3id": "A focused MVP custom software development typically takes 8–12 weeks. A mid-scale system with 3–5 modules and backend integrations takes 3–6 months. A full custom enterprise software platform can take 6–12 months. Timeline depends on scope, number of integrations, and approval turnaround. We provide a milestone roadmap before development begins.",
+    "k13vs2w2": "Can you modernize or replace our existing legacy software?",
+    "kjlshc7": "Yes. Legacy software modernization is one of our core specializations. We audit your existing system's architecture, data structure, and integration dependencies, then design a phased migration plan that transitions your operations to a modern, cloud-native platform without business disruption. We can rebuild from scratch, re-architect modularly, or extend the existing system with a modern API layer.",
+    "k1auyzrr": "Do you build custom ERP and CRM systems from scratch?",
+    "k1856130": "Yes. We specialize in both custom ERP development and custom CRM development, designed around your specific business processes rather than a generic module configuration. This includes custom data models, workflow rules, user roles, reporting dashboards, and integrations with your existing tools (accounting software, email platforms, payment gateways, etc.).",
+    "k19myud5": "How do you handle requirements that change during development?",
+    "k3murxt": "We use Agile methodology with 2-week sprints. Requirement changes are managed through a structured change request process, assessed for scope impact and timeline before being added to the backlog. This ensures your custom software development project remains on budget and on schedule while accommodating legitimate business changes.",
+    "k1tumuef": "Who owns the source code after the project is complete?",
+    "kycqpjd": "100% of the source code, database schemas, API documentation, and all associated Intellectual Property rights are legally transferred to you upon project completion and final payment. No licensing agreements, no vendor lock-in, no recurring fees for software you paid to build.",
+    "k1hg7jrn": "Can Winterfrost integrate custom software with our existing systems?",
+    "k10577t7": "Yes. API and system integration is a core component of every custom software development engagement. We connect to ERP systems, CRMs, accounting platforms, payment gateways, HR systems, warehouse management systems, and custom-built internal tools, using REST, GraphQL, or direct database connectors depending on the integration requirements.",
+    "k1a5d8ao": "What does the team structure look like for a custom software development project?",
+    "k4m7q9h": "Every custom software development engagement is staffed with a dedicated team: a Solution Architect who owns the technical design, a Project Manager who handles timeline and communication, and 2–5 engineers depending on scope and delivery pace. You have direct access to the team through daily standups, sprint demos, and a shared project management board. No account managers as middlemen, no resource sharing with other projects during your engagement.",
+    "k1jri16q": "What happens after the custom software is launched?",
+    "k122j1j": "We offer structured post-launch support covering bug resolution, performance optimization, security patching, third-party API updates, and ongoing feature development sprints. Many clients retain Winterfrost as their long-term engineering partner — shipping new modules and enhancements on a regular sprint cadence as their business requirements evolve.",
+    "k1xg5dv2": "See more",
+    "kpws91p": "App Nivora Connect",
+    "k1dcbv7y": "App Grevia Lawn",
+    "kwerbek": "Loomora Rugs website",
+    "k1x29vbr": "IoT smart devices, Blockchain decentralized database",
+    "k1egiy28": "What core services does Winterfrost provide?",
+    "k1rckq0y": "We do this by putting ourselves in the problem that the business faces, so that we can better understand and provide the most optimal solution. With the service",
+    "kwn6r9q": "Website Design",
+    "krkgen0": "Mobile App Development",
+    "k9hesyk": "especially",
+    "k1g8oyvq": "AI development",
+    "k1sh1f9v": "We provide all the necessary services to help businesses break through in the market.",
+    "k139zxff": "Discuss the project now!",
+    "kzcodep": "Featured technologies at Winterfrost",
+    "ka4yxh8": "okay",
+    "k132cqyn": "Wake - Winterfrost",
+    "kd0uftu": "Credit - Winterfrost",
+    "krr3l5h": "Mail - Winterfrost",
+    "kko0wf3": "Tuan - Winterfrost",
+    "kvgokvw": "Nguyen Gia Han",
+    "k8oxmu": "The most impressive thing about Winterfrost is its consulting ability. Our team of experts understands our core systems quickly, helping us choose the right technology solution instead of wasting budget on unnecessary features.",
+    "k1fvwsp5": "Tran Bao Ngoc",
+    "k3nzrx4": "The Winterfrost team works very professionally and has sharp thinking. They not only comply with requests but also proactively advise on practical options to optimize our management process. The delivered results were of very good quality and met the company's initial expectations.",
+    "k1c5yk3r": "Le Quang Huy",
+    "k1awcilc": "I appreciate the ability of the technical team here to understand business problems. The implementation coordination process went smoothly and the system always operated stably, giving us complete peace of mind to focus on expanding the market. This is truly a trusted technology partner.",
+    "k13y2u9s": "Pham Thu Ha",
+    "kpd7nob": "The dedication and expertise of the experts at Winterfrost is what impressed me the most. Any problems that arise during operations are handled quickly and thoroughly, helping our work not be interrupted. We are very satisfied with this companionship.",
+    "k19d6hx": "Vo Khanh Linh",
+    "kp401rj": "After cooperating with many units, I find that Winterfrost has a very transparent and clear working process. They provide solid technology foundations and are always ready to help my team get acquainted with the system in the most effective way.",
+    "k4phzb3": "Dang Quoc Bao",
+    "kciwy6n": "Choosing Winterfrost as a long-term technology partner is the right decision for our business. Their team always shows high responsibility from ideation to actual operation. Their professionalism and reputation have helped us solve many administrative difficulties.",
+    "kpukud3": "Optimize multi-device experience",
+    "kicpowe": "Optimize progress, launch quickly",
+    "kqdm92j": "Ready to operate & generate profits immediately",
+    "k1plrymm": "Absolute peace of mind about security",
+    "k6h9whq": "Full application release package",
+    "k1m6uvsv": "Companionship & dedicated technical support",
+    "kfh1ffy": "Featured packages",
+    "kmfqqw6": "Cost",
+    "k2uq1jj": "transparency,",
+    "k4casx3": "Obvious Effect",
+    "k1vtn3su": "Basic App Design Package",
+    "k1vnt99i": "Perfect for businesses and startups that want to quickly enter the market with a stable application, full core functionality, and cost optimization.",
+    "kwd455t": "Basic package",
+    "ki1b5e8": "Advanced Plan",
+    "k1235qp9": "Benefit details",
+    "k1x2qp50": "60 - 120 million VND",
+    "k18aii5j": "200 - 400 million VND",
+    "k1igi150": "/Project",
+    "k7rgneq": "Le Khai Minh - Co-Founder Winterfrost",
+    "k1o3wj43": "Schedule a project exchange",
+    "k1wuexj8": "Share your vision, Winterfrost will help you design the most optimal app development roadmap.",
+    "k1mo0uu2": "Book now!",
+    "k1xm22zn": "Contact Email",
+    "ku4gqm0": "Testimonials from partners",
+    "khc7kyw": "Analysis & Understanding",
+    "kyvesm7": "Receive requests and deeply study your business model and current system. Winterfrost's team of experts will dissect the problem to accurately determine the core goal before starting.",
+    "kdaumj4": "Roadmap Consulting & Solutions",
+    "k1vmim79": "Plan a detailed implementation roadmap and design a specialized system architecture. We choose the most optimal technology to ensure high performance and avoid wasting the business's budget.",
+    "kedxssd": "Programming & Optimization",
+    "k1sc2t0y": "Bring your ideas to life with an intuitive, user-centered interface. Applying the Agile model helps the programming process take place quickly, flexibly adjust and continuously update progress.",
+    "ktcy0rc": "Testing & Handover",
+    "k1vfhmqs": "Conduct rigorous testing procedures to ensure the system operates 100% smoothly. Support bringing applications to platforms and transferring all intellectual property rights.",
+    "kdl3gsn": "Support & Extensions",
+    "kl4xjwo": "Our responsibility doesn't stop at launch. Winterfrost continues to monitor the system 24/7, provide priority technical support and is ready to upgrade and expand features as the business grows in scale.",
+    "k13qbrt0": "Consulting process at Winterfrost",
+    "k197bq4i": "Stage",
+    "k5eymu9": "Get started now!",
+    "k6ilxls": "activeTab === \"All\" || it.tab === activeTab, ); return (",
+    "kpghw63": "At Winterfrost, we don't just build software, we remove technical barriers to keep your business running smoothly.",
+    "k1gq3erc": "From",
+    "k1nxu39c": "App Design",
+    "k14l56d": "to",
+    "kseiklf": "Every line of code is written to optimize costs and create real revenue growth momentum for the business.",
+    "k5wzxs9": "AI and Machine Learning are ushering in a new era for the healthcare industry, where data, artificial intelligence and humans work together to improve the quality of healthcare. From supporting accurate diagnoses, personalizing treatment, real-time patient monitoring to automating hospital operating processes, AI not only helps optimize costs but also improves the experience of both doctors and patients. In the future, when combined with Big Data, IoT, Cloud Computing and Blockchain, AI will become the core foundation of the smart medical ecosystem. For hospitals, clinics and HealthTech businesses, investing in AI today is not only a way to stay ahead of technology trends but also an important strategy to improve competitiveness and promote sustainable digital transformation.",
+    "kr12p6": "The Gemini 3.6 Flash is optimally designed by Google for automated processing loops in software development. When combined with the Google Antigravity platform, the system supports AI multi-factor coordination, automatic error correction, and asynchronous command execution. The model reduces redundant tokens by 17% thanks to a concise inference mechanism, which increases response speed and saves 16.6% in API costs compared to its predecessor. The model's knowledge data is updated to 2026. The operating price is set at $1.50 for 1 million input tokens and $7.50 for 1 million output tokens, supporting optimal operating costs for integrated and automated deployment systems.",
+    "k1xp8ev4": "Blockchain is opening a new stage for the digital transformation of the healthcare industry by solving the core problems of data security, information transparency, connectivity, and optimization of operational processes. When combined with AI, IoT, and cloud computing, Blockchain not only helps protect patient records, improve hospital management and pharmaceutical supply chain efficiency, but also lays the foundation for a smart, patient-centric healthcare ecosystem. For hospitals, clinics, and HealthTech businesses, investing in Blockchain today will be a strategic step to improve competitiveness and be ready for the future of digital healthcare.",
+    "k1j4ixq6": "The right Healthcare CRM not only helps manage patient data effectively, but also enhances the care experience, optimizes operational processes, and increases patient retention. When choosing a CRM system, healthcare facilities should prioritize a solution with flexible integration, security according to international standards, AI application, and easy to scale to meet long-term development needs in the digital transformation journey.",
+    "kd9b7pw": "AI And Machine Learning In Healthcare",
+    "kp7xfdu": "Gemini 3.6 Flash and Google Antigravity",
+    "k1kjv23n": "Blockchain Technology in Healthcare",
+    "kd84uuq": "The article provides an authentic and in-depth perspective on the work of a Software Tester through the diary of a working day of Nguyen Quoc Huy and Thuc Quyen at Winterfrost. Going beyond the stereotype of \"just try it and report errors\", the testing process requires careful analysis from reading specification documents, creating scripts, to evaluating performance and interface on diverse technology platforms.",
+    "k190i701": "Do you want your business to be that successful?",
+    "k1cx2dnb": "Please share your business problem, Winterfrost Vietnam will work with you to build the most effective and suitable technology solution.",
+    "k1g4ov9h": "Receive solution advice immediately",
+    "kf3qzfq": "Other outstanding projects",
+    "kojrvuv": ">UI Design",
+    "k1q3onth": ">)[\\s\\S]*? (",
+    "k1kh6h29": "[^>]*>)[\\s\\S]*? (",
+    "k16j3rir": ")/, `$1<span class=",
+    "k1922o5d": "]*class=",
+    "k1gsfy5u": "> <div className=",
+    "ktcjyul": "> {marqueeImages.map((src, index) => ( <div className=",
+    "k1ix38l3": "draggable={false} />",
+    "k6uxxs4": "( 'button[aria-label=",
+    "kxzazae": "('button[aria-label=",
+    "knvm46j": ", placeWebCards), ); placeWebCards(); resetWebTimer(); } return () => { observer?. disconnect(); window.clearInterval(appTimer); window.clearInterval(webTimer); runningAnimations.forEach((animation) => animation.cancel()); webAnimations.forEach((animation) => animation.cancel()); appDisposers.forEach((dispose) => dispose()); webDisposers.forEach((dispose) => dispose()); }; }, [page.html]); return ( <>",
+    "k9ekgar": "] > section div:empty { display: none; } `}",
+    "k3kylge": "<span aria-hidden=",
+    "k1pir239": ", height: 1, marginBottom: -1 }} />",
+    "k1alpefo": "{uiDesignTarget && createPortal( page.uiMode ===",
+    "k1iijt23": ") : ( <CaseStudyUIDesign images={page.uiImages} mobileImages={[]} tabletImages={page.uiImages} heading=",
+    "k1pronqb": "decentralized",
+    "kht8u6u": "View services",
+    "k1c3oqaa": "Professional Package",
+    "kxuc4hw": "Reasons to choose Winterfrost",
+    "kormafp": "Why should you choose Winterfrost",
+    "k1mgj7g7": "Why should you use the service?",
+    "kuv5yfc": "Why energy businesses",
+    "kz5n6y1": "Reasons for choosing technological capacity",
+    "kh0bhwu": "Reasons why banks should choose the service",
+    "kfwqgpr": "Competitive advantage",
+    "kkjr58n": "Reasons why businesses should choose this solution",
+    "k8ilvh4": "Why should businesses trust?",
+    "k1xfxo49": "Why should you choose financial solutions?",
+    "kd6a8z5": "Why business",
+    "k1mfonax": "Reasons why entrepreneurs should choose",
+    "kykxzo1": "Why choose medical software development?",
+    "k2d6lql": "Our achievements",
+    "k16wbl0j": "BUSINESS SOLUTIONS",
+    "kw7a89b": "Main Back-end technologies",
+    "k1spckpn": "Main Front-end technologies",
+    "k4kas6p": "App design technologies",
+    "kxu0cs1": "AI development technologies",
+    "kbchwyk": "Cloud computing",
+    "k1mi7gdi": "Professional Website Design",
+    "k1jkb9je": "We develop optimal websites from the introduction page to the e-commerce platform. The system ensures extremely fast page loading speed, perfect display on all devices and simple admin integration, helping you optimize user experience and effectively boost online revenue.",
+    "ksk6fsd": "In-depth App Design",
+    "k1oyaqd": "Winterfrost develops smooth mobile applications for both IOS and Android with an intuitive interface. We focus on absolute data security and integrate automatic notification tools, helping businesses connect, interact and take care of customers continuously anytime, anywhere.",
+    "k1tprypx": "Developing AI Artificial Intelligence",
+    "k189awi1": "We integrate AI and large language models (LLM) to automate operations and set up virtual assistants 24/7. This solution helps businesses analyze huge data in a snap, cut personnel costs and make more accurate business decisions.",
+    "kg3a245": "Enterprise Software Development",
+    "k10xs27y": "We design internal management software that closely follows your actual processes, helping to digitize manual operations and synchronize data instantly. The system is easy to expand as the company grows, and comes with a commitment to hand over 100% of the source code so you have full ownership of digital assets.",
+    "k1mxarm7": "Optimize user experience",
+    "klv25p": "We choose the latest Front-end technologies to build interfaces that are intuitive, smooth and perfectly compatible on all customer devices.",
+    "k1iiuego": "Guaranteed response speed",
+    "k1ta1uwn": "Using Microservices architecture helps the system process data instantly and always maintain stability under the pressure of thousands of simultaneous accesses.",
+    "klx4o9e": "Absolute data protection",
+    "k1qp90f8": "Winterfrost relies on the most advanced multi-layer encryption algorithms to prevent network security risks and protect the safety of internal data and user information.",
+    "k1nixe0a": "Upgrade without interruption",
+    "k7wvsis": "Cloud computing application allows the system update and maintenance process to take place underground, completely without interrupting the customer experience.",
+    "k1s2c3nk": "Smart automation",
+    "kvug1uv": "Choose AI integration to automate user behavior analysis, personalized recommendations, and provide 24/7 online support.",
+    "k1a1in7j": "Easy to scale",
+    "k1oqjum4": "Prioritize the use of clean source code and open architecture, making the system always ready to integrate new features as your business grows.",
+    "k5omjqr": "Areas of expertise",
+    "km7o9jz": "by Winterfrost",
+    "k1qg3tyb": "What technical factors determine the choice of technology platform for a project?",
+    "kw50l3v": "Choosing a technology platform depends entirely on the specific technical problems of each project instead of following trends. System architects will evaluate based on the volume of data to be processed, at the same time, real-time latency requirements and compatibility with available infrastructure. An optimal technology platform must strike a balance between software performance, monthly server operating costs and convenience for the business's internal technology team to take over the source code later.",
+    "k6rryfj": "How is the system structure designed to ensure it does not crash when the number of users suddenly increases?",
+    "kbul6iv": "To solve the problem of scaling, business software is often designed using a microservice architecture combined with cloud computing technology. This approach breaks the software into multiple functional areas that operate independently, allowing the system to automatically add server resources to only the features that are being overloaded instead of having to upgrade the entire thing. This technique helps the application always maintain a stable response speed and maximize network infrastructure costs for businesses.",
+    "kpmzgjp": "How can new software connect and synchronize data with the business's old management systems?",
+    "k1vf5ai": "Data synchronization between the new system and the old software is done through building custom application programming interfaces (APIs). This intermediary layer acts as a translation bridge, helping two systems with different technology platforms to securely exchange real-time information. This approach helps businesses make the most of existing databases, without having to re-enter data from scratch and maintain information integrity throughout the digital transformation process.",
+    "k6riibg": "What is the process for integrating AI into active software?",
+    "k1g9y94e": "The AI integration process begins with establishing secure data gateways so that the system can communicate with large LLM language models without disrupting existing workflows. The business's specialized data will then be standardized and put into fine-tuned training so that the AI ​​can correctly understand actual operations. All of this complex algorithmic processing is threaded to run on independent servers, ensuring the main software still operates smoothly while the AI ​​is performing its tasks.",
+    "k1m88gjg": "What encryption and data security standards are in place to combat today's cybersecurity vulnerabilities?",
+    "k1meqh8u": "To protect data integrity, the software architecture applies the most advanced end-to-end encryption algorithms to both data at rest and data in transit over the network. The decentralized system is designed with multiple layers of multi-factor authentication methods to thoroughly prevent unauthorized access from the outside. Before being officially put into operation, all source code must pass automatic vulnerability scanning tools and simulated penetration testing scenarios so that the engineering team can promptly patch errors.",
+    "klvra13": "How can the process of updating new features or fixing software errors not disrupt the user experience?",
+    "k1b0twpv": "We use a continuous integration and deployment process to automate all code testing and release steps. When a new update is available, the system will automatically create a parallel server environment to test features before redirecting user traffic to this version. This technical approach completely eliminates system downtime, allowing software to be upgraded smoothly without the end customer feeling any interruption.",
+    "k111gmkf": "What in-depth technical documents does the source code handover process include to give the business complete autonomy?",
+    "k6y32pk": "A standard delivery process requires absolute transparency about the entire programming structure and project resources. In addition to clean source code files and the original database, businesses will receive a detailed set of technical documents including data flow diagrams, a list of open source libraries used, and server deployment scenarios. This set of documents serves as a core blueprint, helping your technical team immediately understand the system, conduct independent security testing, and freely develop new features.",
+    "k1kstcb": "At Winterfrost, we develop projects",
+    "k1pz3qfp": "Software",
+    "k1pldw2l": "in the latest programming languages. The use of modern technology helps the system operate smoothly, process data quickly, and always be protected from cyber risks.",
+    "k1ijoklm": "Moreover, the new platform makes it very easy to upgrade features or connect to other software as your business grows. In particular, we are committed to handing over 100% of the source code so that you fully own and control your software.",
+    "k1emydos": "Winterfrost software development technology platform",
+    "k1bgkc2f": "With over 10 years of experience, Winterfrost provides comprehensive digital transformation solutions from",
+    "kl71yh1": "AI artificial intelligence development",
+    "kiyjndl": "for both startups and large corporations. Our team owns a diverse technology ecosystem including Front-end, Back-end, AI, and",
+    "k1gpk4u7": "to be ready to receive projects of all sizes.",
+    "kxedjqr": "We especially have strengths and are not afraid of difficulties in solving complex software systems at the most optimal cost. All employees at Winterfrost are professionally trained and have many years of practical experience, ensuring they bring to customers",
+    "k1debwq5": "Quality Products",
+    "kn2bi1l": "high and the most stable operation.",
+    "k1wmn13n": "Winterfrost software development technology",
+    "ku92pgl": "Transform ideas into real products",
+    "kyuj7o2": "Share your operating problem, the Winterfrost team will immediately outline the most suitable technology platform. Build the system quickly, with strict security and commit to owning 100% of the source code.",
+    "k1l2o3xr": "Start your project now!",
+    "k1wskzi5": "Get detailed answers about system architecture, security standards and source code ownership in technology projects at Winterfrost.",
+    "k1u3d0fj": "Programming Technologies and Languages",
+    "kgv7ep8": "Technology Overview",
+    "kpwc550": "Implementation capacity and team at Winterfrost",
+    "kfa6zmu": "Technology Application",
+    "k1uk2m95": "Use of technology",
+    "kszmp7k": "in digital transformation",
+    "k1gg9bmb": "Details",
+    "k1qxs6gf": "See all solutions",
+    "kp80eyx": "The value of technologies",
+    "k87p41u": "Winterfrost Reasons",
+    "krw90zy": "Choose these technologies",
+    "k1ld3fjg": "Phuong Ly",
+    "k1j0qb4m": "Decoding the A – Z user interface design process for beginners",
+    "k1cizpwd": "Standard UX/UI App Design Process At Winterfrost",
+    "k8loyfl": "Instructions for using Figma for App design",
+    "k1ptg80p": "Go Office – Business software developed by Winterfrost",
+    "k1dcocsx": "SOFTWARE ENTERPRISE SOLUTIONS",
+    "kb1erfh": "Sales Software Design: Important Criteria Businesses Need to Know Before Investing",
+    "kj5xl9": "SOFTWARE",
+    "k13hc3z2": "Latest Quote for Software Development on Demand",
+    "kj4eit8": "AI Bias in Healthcare: A Critical Challenge for the Healthcare Industry in the Future",
+    "k1atz6rm": "DEVELOPMENT METHODOLOGY",
+    "k1jjidz8": "10 AI Applications in Healthcare That Are Changing the Healthcare Industry",
+    "k1b8td0v": "Instructions for Hiring a Website Design Suitable for Startups & SMEs",
+    "k1dqqlj5": "Detailed Instructions on How to Develop a Startup From A–Z",
+    "k10hqsu6": "Starting a Fantasy Sports Online Business: Detailed Instructions",
+    "k15o6wb1": "Custom-designed Hospital Software or Off-the-shelf Medical Software? Detailed Comparison",
+    "k3vhvqd": "Logistics App Development Guide: Features, Technology and Common Mistakes",
+    "krmrivb": "Top 10 Best AI Tools in Healthcare to Help Improve the Quality of Patient Care",
+    "k16fb95z": "Top 10 largest software programming companies in Vietnam",
+    "ks4l58t": "Top 10 Leading Web App Development Companies in Vietnam",
+    "k1ws0bhs": "Top 10 Best Programming Languages for Healthcare App Development",
+    "k4wmuvu": "View article",
+    "kc67gjm": "Author",
+    "k14rwwtd": "Year",
+    "ky917o3": "Themes",
+    "k14x8s30": "Table of contents",
+    "kztznp6": "Embark on a journey of success",
+    "kqgup96": "Full Name",
+    "ksppfho": "Name *",
+    "k1nq8so1": "Phone Number *",
+    "kwj0r36": "Choose a service",
+    "krnb7am": "Website Design",
+    "kubo5mo": "SaaS Application Development",
+    "kai3nkk": "Operation and Maintenance",
+    "ki33z4l": "Enterprise Software Development",
+    "kktys71": "MVP Software Development",
+    "krunszd": "DevOps Development",
+    "k7d193k": "IoT Development",
+    "k3iqlkq": "Blockchain Development",
+    "k12ucnla": "Service *",
+    "kfe18yl": "Content",
+    "k16sais": "Leave a Message",
+    "k1ebv5y6": "Submit booking information",
+    "kvax71g": "Related articles",
+    "k1l95tu": "Latest article",
+    "k1kua8cm": "Winterfrost Newsletter",
+    "k17repnp": "Technology",
+    "k8ej68j": "Enterprise Solutions",
+    "k1ayqnhx": "Software",
+    "k1ajkxpr": "Development method",
+    "k1rsbfkg": "Winterfrost's perspective on technology trends and digital transformation solutions",
+    "kilbhsx": "Search articles",
+    "kdw28rv": "One day as a tester at Winterfrost",
+    "k19q2ybs": "What is UI/UX Designer? Essential Equipment to Enter the UI/UX Design Profession",
+    "kqc7u3k": "Flutter vs. React Native and Xamarin: Which framework should you choose for Mobile development?",
+    "k1lwj4fb": "Flutter vs. React Native and Xamarin Which framework should you choose for Mobile development",
+    "k3ddftn": "Top 10 Best Back-End Developer Courses",
+    "klbeetq": "A working day of a Backend Engineer at Winterfrost",
+    "k93zl9u": "Working day of a Backend",
+    "k1kmgnbo": "What is React Native Developer? React Native skills and job description",
+    "k1b0lm3e": "What is React Native Developer?",
+    "k135oz38": "A day in the life of Business Analytics",
+    "k1tyhc25": "A working day of Flutter Developer at Winterfrost",
+    "k1g4w89p": "Software Engineer career path: How to choose the right path for you",
+    "k4rqyyv": "Software Engineer career path",
+    "k11319cu": "The career path of a Software Engineer does not have a fixed formula for everyone. The important thing is not to choose Front-end, Back-end, Mobile, AI or DevOps from the beginning, but to constantly learn, accumulate practical experience and build a problem-solving mindset. As your technical foundation becomes increasingly solid, you will have many opportunities to develop as an expert (Technical Expert), manager (Engineering Manager, CTO) or start a business with your own technology products. In an ever-changing industry like IT, the ability to adapt, the spirit of continuous learning and integrity at work will be the factors that create a competitive advantage and help you build a sustainable career in the long term.",
+    "k1xmbvxq": "Topic: Work life",
+    "k4irkug": "Search categories...",
+    "k1k5r5nv": "Edunora is a training platform designed by Winterfrost with an intuitive, modern and optimal experience on all devices.",
+    "kksv714": "Virela Interior website introduces products, construction capacity and brand imprint with a luxurious, image-rich interface.",
+    "k3eseya": "Ceranova owns a sophisticated e-commerce website, highlighting the beauty of craftsmanship and helping customers shop conveniently.",
+    "k1kmdzy6": "Rovena Travel website was built to inspire travel, present clear tours and optimize the customer's conversion journey.",
+    "k1bwf4ht": "Zenovia Retail website synchronizes brand identity, products and dealer system in a modern retail experience.",
+    "k1s4noo1": "The Veloura Nails website demonstrates a high-class service style with an attractive interface, easy to explore and convenient to schedule.",
+    "k1cb9hoo": "AI Chatbot Development: A Comprehensive Guide From A–Z",
+    "k1ereplz": "AI chatbot is becoming an important tool to help businesses automate customer care, optimize operations and enhance user experience on many different platforms. Thanks to the application of NLP, Machine Learning and Generative AI, modern chatbots can understand context, respond naturally and help businesses increase long-term performance. To deploy effectively, businesses need to choose the right technology and development partners that suit their business goals.",
+    "k1gf4gs4": "What is UI/UX? Important Meaning of UI/UX Design For Website",
+    "kakql3i": "UI and UX are not only aesthetic factors but also the foundation that determines the business performance of websites, applications and digital products. A professional UI design helps create a strong impression, increasing brand recognition, while optimal UX helps users easily find information, take actions and maintain satisfaction throughout the usage process. The harmonious combination of UI and UX not only enhances customer experience but also contributes to improving conversion rates, increasing SEO efficiency, reducing operating costs and creating sustainable competitive advantages for businesses in an increasingly fierce digital environment.",
+    "k1dq1we0": "Guide to Effective CRM Implementation: Notes That Cannot Be Ignored",
+    "kbugchp": "CRM software is not only a customer data management tool but also a strategic platform that helps businesses systematically optimize the entire sales, marketing and customer care process. Effective CRM implementation requires a combination of a clear strategy, the right processes and a people-centric element, rather than just a focus on technology. When choosing the right type of CRM (Cloud, On-Premises or customized) and applying it flexibly according to business characteristics, CRM will help enhance customer experience, increase operational efficiency and create sustainable growth during the digital transformation process.",
+    "k147n5vz": "What is WordPress? Advantages and disadvantages? Why should you use it for web design?",
+    "ktxwzkl": "Master the most popular website building platform on the planet to turn any idea into reality without needing in-depth programming knowledge. This article will help you fully understand the power of WordPress, from optimizing costs, breaking stereotypes about performance, to how to choose the right platform to start your journey to conquer the digital space in the most professional and effective way.",
+    "k1rrrgty": "Developing a Startup MVP: A Detailed Step-by-Step Guide From A–Z",
+    "kitrbp7": "Developing an MVP is not only a way to save costs but also a core strategy to help startups quickly verify ideas, reduce risks and shorten time to market. By focusing on the most important features, gathering feedback from real users, and continuously improving based on data, businesses can build products that meet their needs instead of relying on assumptions. A properly deployed MVP not only helps optimize resources but also creates a solid foundation to expand, attract investors and move towards sustainable product-market fit.",
+    "k18ezrd4": "What is JavaScript? Reasons to use JavaScript when designing websites",
+    "k7f12hi": "JavaScript is not only a popular programming language but also the core foundation that helps modern websites become more interactive, flexible and rich in user experience. From animation effects, real-time data processing to developing complex web applications, JavaScript plays an important role in both interface (UI) and user experience (UX). Despite some performance and security challenges, JavaScript is still an indispensable technology in every professional website design project today.",
+    "k12fdtjm": "Gemini 3.6 Flash and Google Antigravity – Optimal solutions for programming",
+    "k1u13eb4": "Blockchain Technology in Healthcare: Benefits and Practical Applications",
+    "k1m9ww5a": "Blockchain is opening a new stage for the digital transformation of the healthcare industry by solving core problems of data security, information transparency, connectivity and operational process optimization.",
+    "k1qzq9i9": "Top 10+ Best Medical CRM Software for Hospitals and Clinics",
+    "k14ootjv": "A suitable Healthcare CRM not only helps manage patient data effectively but also enhances the care experience, optimizes operational processes and increases patient retention.",
+    "k1yfpd8z": "Operational mechanism of task-oriented Chatbot",
+    "k40oxzy": "This article will help you answer in detail about task-oriented Chatbots from nature, operating mechanism to implementation. Join Winterfrost to discover solutions to automate business processes smoothly.",
+    "k1pep51m": "Benefits of Medical Apps for Patients and Doctors",
+    "k1ab7qqk": "Medical applications not only help patients access healthcare services more quickly and conveniently, but also support doctors and hospitals in optimizing medical examination and treatment processes, managing data and improving treatment quality.",
+    "kz1qnqe": "What is a data-driven retrieval chatbot? Instructions from A-Z",
+    "kifd8im": "To completely overcome the risk of fabricating content from AI, Chatbot based on data retrieval was born as an optimal solution, working by only extracting information from internal documents that have been standardized by the enterprise.",
+    "k1tcf826": "Please enter your full name",
+    "kjgofhv": "Invalid phone number",
+    "k1nsau2n": "Invalid email",
+    "k9bgmqj": "Please describe the need in more detail",
+    "kbbunp7": "Invalid data",
+    "kmbobfi": "Thank you for reaching out. We will respond within 24 hours.",
+    "kn0mxf2": "Home",
+    "k12nasht": "Wiki",
+    "k1p2m6he": "Work life",
+    "kqkbdns": "NEXT",
+    "kbmxiz1": "Case-studies",
+    "kpibxgy": "Work Life",
+    "kbfu78y": "WORK LIFE",
+    "k1efyut2": "View Case Study",
+    "kdoqjbh": "Work-Life",
+    "k9xx36n": "AI",
+    "k18aoloc": "Top List",
+    "k1mxldec": "UIUX Design",
+    "kdc7alm": "Website",
+    "k366dvg": "Mobile App",
+    "k8ljjfj": "Blockchain",
+    "k1j2ddy7": "IoT",
+    "kknjjcr": "Startups",
+    "kggjuyh": "Date",
+    "k15hxgmu": "Author",
+    "k3dw7ft": "Scope of Work",
+    "k1espu3h": "View Live Site",
+    "k76kub1": "Search...",
+    "knpab1o": "From our insights,",
+    "ksq76pj": "industry knowledge.",
+    "ku3gtop": "Back Home",
+    "k1oav76x": "With a 10-year journey of digital transformation, Winterfrost not only provides software, we create technology ecosystems to help businesses optimize operations and gain competitive advantage in the market.",
+    "k11znac9": "Get advice now!",
+    "knmhse9": "Explore the project",
+    "k1ax6bex": "About Winterfrost",
+    "k5k0n8b": "From website design, app design to AI development, every line of code is written to optimize costs and create real revenue growth for businesses.",
+    "kw88vgf": "Making a system complex is easy, but whittling it down to simplicity and efficiency is the real challenge. We choose to do difficult things, so that our customers have the easiest development journey.",
+    "kllt31p": "CO-Founder",
+    "klqmcf2": "Providing in-depth software solutions with flexible architecture, thoroughly solving complex operational problems of businesses.",
+    "k7jg2js": "Apply AI/Generative AI to automate processes, analyze data and create competitive advantage.",
+    "knqtt3g": "Capability imprint",
+    "k1m85w6a": "Years of practical experience in the field of software development and creating comprehensive digital transformation solutions.",
+    "k1tj1dui": "Partners and businesses from startups to large corporations have trusted and chosen to accompany Winterfrost.",
+    "k1jojr1h": "Countries across the globe have had Winterfrost successfully deploy technology solutions.",
+    "kng8c2w": "Percentage of satisfied and engaged customers thanks to outstanding project quality and actual operating performance.",
+    "k1vvm2ar": "About Us",
+    "k1i5wn75": "Winterfrost is a leading B2B technology partner. Specializing in designing websites, apps and AI solutions to help businesses transform digitally, optimize effective operations.",
+    "ktb6idf": "Contact",
+    "k1x9djqy": "Contact us to receive advice and support in designing websites, apps, and developing professional AI for businesses, helping businesses promote development in the digital era.",
+    "k9vo1sg": "Contact - Winterfrost Contact Contact now Initiate your business's technology project We believe that great strides always start with a conversation. Whether you're looking for strategic technology consulting, custom software solutions, or a long-term partner, we're here to help you scale. Specializing in providing software solutions specifically designed according to business characteristics. Access a team of experienced IT experts and engineers. Survey and evaluate the feasibility of the project completely free of charge. Flexible cooperation model, helping businesses control and optimize costs effectively. [email protected] 097 145 04 54 Share your ideas Full name Email Phone number Message us Get free consultation now Connect with us Start Your Project Today Contact for cooperation Full name* Email* Or send email directly to: [email protected] Send request Quick response within 24 hours. Work directly with experts. Clear strategic consulting. Schedule a consultation Schedule a consultation Menu Home Introduction Case Studies Field Wiki Services Software development Website design AI development SaaS application development App design Operation and maintenance Enterprise software development MVP software development Technology infrastructure DevOps development IoT development Blockchain development Contact 097 145 04 54 [email protected] Vinhomes Grand Park Office, District 9, Ho Chi Minh City, Vietnam. WINTERFROST Social Network Winterfrost Winterfrost Winterfrost Tech Winterfrost Media Copyright © 2026 Winterfrost. All rights reserved. Designed by Winterfrost • Privacy Policy",
+    "kr78lw": "Initiate enterprise technology projects",
+    "k1kr5l0v": "[email protected]",
+    "kinbfc7": "Email",
+    "k2kegpr": "Field of activity",
+    "k1fuv99x": "Advanced solutions",
+    "kfx4hz6": "for each field",
+    "k1mys9mj": "Winterfrost brings modern technology solutions, ready to solve business problems in each specific field. We know that every industry has its own way of operating, not simply finding problems and fixing them. Therefore, our team of professional engineers with multi-disciplinary experience will help businesses create smart ecosystems, both optimizing processes and creating competitive advantages in the market.",
+    "k1i5jqro": "We do this by placing ourselves into the problems facing businesses, from which we better understand and provide the most optimal solutions. With website design services, mobile application development, especially AI development, we provide all necessary services to help businesses breakthrough in the market.",
+    "k1pbdg25": "Winterfrost is committed to accompanying businesses, helping you use technology as a lever for sustainable growth.",
+    "k10gx42a": "Consult experts",
+    "kfxv50v": "Software development industry",
+    "k1scefju": "Overview",
+    "k174dzp3": "Accompanying businesses",
+    "k1lnndp7": "But Phat",
+    "k1c75fi7": "with a solid technology foundation",
+    "kaa263x": "Winterfrost evaluates product success not by lines of code but by the actual value it brings to the business. We always do in-depth research on the fields of health, finance or supply chain before implementing a project. This allows us to understand the business's difficult problems to come up with the best solution.",
+    "k1kjtujm": "This efficiency is proven through the ability to optimize operating costs and create a scalable system. Each project of Winterfrost always affirms its stability and absolute security, safe for businesses to breakthrough in the market.",
+    "k1vyse8": "Fintech illustration",
+    "k14p6xhj": "Years of experience",
+    "karkb3d": "Customers",
+    "k1b9o5wl": "Country served",
+    "k16ww9f1": "Customer satisfaction level",
+    "k1nqbd43": "Specific technology",
+    "k6vweih": "for all fields",
+    "k1cngpnc": "Explore all areas",
+    "k190u3jj": "We help you",
+    "kv07fbw": "How?",
+    "kp8rcnm": "We provide technology solutions specifically designed for each industry to solve complex challenges and create breakthrough competitive advantages for customers.",
+    "k1bi40qb": "Custom Website Platform",
+    "k1adl13l": "Design the website in accordance with the business's operating procedures, from the customer information portal to in-depth internal administration tools.",
+    "k9qpcja": "We build completely customized website platforms based on the actual operating processes of the business, from the customer portal interface to the internal administration system. Each feature is designed to solve specific problems for the industry you are operating in.",
+    "k1uaxkz4": "Mobile application",
+    "k14vgtoj": "Develop applications on IOS and Android operating systems, helping bring your services closer to users through an intuitive interface and smooth experience.",
+    "k1sg6edu": "Our mobile development team creates high-performance, intuitive iOS and Android apps that ensure a smooth and consistent experience across all devices. Tight integration with backend systems, push notifications, biometric login.",
+    "k5yeqjz": "Data analysis",
+    "k1arx1v0": "Transform raw data into strategic reports, thereby helping businesses handle problems promptly and make quick business decisions.",
+    "k1n5kcam": "Winterfrost's data analysis system uses BI and Machine Learning technologies to transform raw data into valuable insights, supporting the leadership team in making accurate and quick decisions based on actual data.",
+    "k1nu1jdb": "System integration",
+    "kqceu3j": "Connect the software you are using together so they automatically transfer data to each other. You don't need to manually enter information, making your work more accurate and faster.",
+    "k1wc9ihp": "We integrate ERP, CRM, accounting, warehouse and specialized software to form a single ecosystem, helping businesses eliminate manual data entry, reduce errors and increase operating speed many times.",
+    "k1rgdgzt": "AI technology",
+    "k172v3tg": "Apply artificial intelligence to automate repetitive processes, help optimize human resources and open up new operating capabilities for businesses.",
+    "kd66cn": "Winterfrost's AI is specifically designed for each field: 24/7 customer care chatbot, smart document classification, demand forecasting, fraud detection. Models are trained with real customer data to ensure high accuracy.",
+    "k1xbwtm0": "Cloud computing infrastructure",
+    "k18rosql": "Optimal design and management of Cloud infrastructure, ensuring your system always operates stably, securely and is ready to expand at any time.",
+    "km9zeyn": "We deploy and manage infrastructure on AWS, Azure, Google Cloud with microservices architecture, auto-scaling, cross-region backup and 24/7 monitoring. Guaranteed SLA 99.95% and ready to expand according to business needs.",
+    "kdnv7in": "Project discussion",
+    "k1vrhnys": "Why is Winterfrost trusted by many businesses?",
+    "k1kf9z4n": "Understand the specifics of each industry",
+    "k121lnfk": "We spend time researching in detail how each field operates before building the software. This helps the system properly solve real problems that your business is facing in daily work.",
+    "kynqonl": "Build software as required",
+    "k1395ql6": "Winterfrost designs software based on your specific requirements and unique way of working. The system will work exactly what you need, helping you manage your work more conveniently without having to change your operating habits.",
+    "kmqs3jp": "Use the latest technology",
+    "ka7h146": "Our team of engineers uses the most modern technologies to build the system. This helps your software operate stably, be able to handle large amounts of data and not be outdated for many years to come.",
+    "kd7n6u4": "Deployment speed is fast and stable",
+    "k1oot0a2": "We apply automation processes to shorten product completion time. Every system is thoroughly tested to ensure continuous operation 24/7 and that business information is absolutely confidential.",
+    "kyhmj5c": "Consulting and long-term technical support",
+    "kfk20u": "Winterfrost doesn't just provide the software and then end the contract. We directly advise on appropriate technical solutions and maintain support, fix errors or upgrade the system throughout your use of the product.",
+    "k1dp8t27": "Experience implementing many large projects",
+    "kby0p8j": "With experience implementing projects in 15 countries, we have enough capacity to handle complex technical requirements. Work results are shown through the number of actual customers and satisfaction after receiving the product.",
+    "kqxnord": "Are you ready to optimize your business processes?",
+    "k77k5ny": "Tell us about your field and the difficulties you are facing. Winterfrost's engineering team will respond and advise on the most suitable software solution for your business.",
+    "kvjikad": "Contact for consultation now",
+    "kzzwf4a": "Outstanding project",
+    "k1s5maut": "website-edunora",
+    "k14v21e5": "website-virela-interior",
+    "k1crmlo2": "website-ceranova",
+    "khpdbbt": "Our service process",
+    "k8uw7w4": "Survey",
+    "k1vp38cg": "Receive and analyze needs",
+    "k1df9gly": "We discuss directly to understand the current working process and actual problems being encountered in the business field of the enterprise.",
+    "kio9u57": "Design",
+    "kit8nl1": "Propose solutions and create plans",
+    "k1m4gzu3": "Winterfrost selects suitable technology, provides clear roadmaps and plans with customers to track progress and easily adjust as required.",
+    "krhsvh8": "Construction",
+    "k1h5irsk": "Programming and building systems",
+    "ke8se2f": "The team of engineers writes code, designs interfaces and connects data to create complete software products according to the wishes of the business.",
+    "k1jp5mt0": "Check",
+    "k1h2ll4x": "Test and perfect",
+    "ksabutl": "We test the software many times to check speed, stability and security to ensure the system is error-free before delivering it to customers.",
+    "kz94sqd": "Handover",
+    "kquntut": "Handover and Technical Support",
+    "kgnmokd": "Install software into the business's system, instruct how to use it, and maintain support and error correction throughout the business's use of the product.",
+    "kbalplj": "Build your product!",
+    "k11r79q2": "The technologies we use",
+    "k1ksbplp": "in the fields",
+    "kib6m3g": "Front-end",
+    "kr64kw2": "Back-end",
+    "kzoo20h": "App development technology",
+    "k1qsz2ob": "6 hours ago",
+    "ktvlgkj": "The Gemini 3.6 Flash model is optimally designed by Google for automated processing loops in software development. When combined with the Google Antigravity platform, the system supports multi-agent AI coordination, automatic error correction, and asynchronous command execution.",
+    "ka1oswx": "2 days ago",
+    "kjaed3w": "TOP LIST",
+    "k1c9w7ox": "We compile common questions about the implementation process, security and how Winterfrost builds industry-specific software solutions",
+    "krfdfo9": "How does Winterfrost deal with industry-specific legal regulations or standards?",
+    "k1mp1t48": "We always carefully study the legal framework and required technical standards of each field before programming. For example, for the medical industry, it is the confidentiality of patient information, or for the financial industry, it is the rules on transactions and controls. This ensures that the completed software is fully compliant with applicable industry regulations.",
+    "k18j9um9": "If my business expands or adds branches, will the software be able to handle it?",
+    "k10tl0ma": "Yes. All software built by Winterfrost is designed on a flexible cloud computing infrastructure. When the number of users or data scale increases, the system will automatically adjust and expand to ensure access speed is always fast and stable without having to rebuild from scratch.",
+    "k1ekces6": "Does Winterfrost support staff training to use the new system?",
+    "k1ug4pjj": "We provide an in-depth training package with each project — live instructions, video tutorials, and detailed documentation. The support team is always ready to answer questions in the early stages so that your employees can master and use the system most effectively.",
+    "klly69y": "How to ensure new software does not disrupt current business operations?",
+    "k1tvkwco": "We deploy in stages (pilot → rollout) on the staging environment first, test in parallel with the old system and only switch when all features are stable. Rollback scripts are available and the team is on duty 24/7 during the first week of go-live.",
+    "k1wbbh7m": "On what basis are software development costs for each industry calculated?",
+    "kzl5feb": "Cost depends on feature scope, level of integration with existing systems, industry security/compliance requirements, and number of users. We send detailed quotes by module so businesses can easily control their budget and choose the appropriate implementation roadmap.",
+    "kokeni9": "Does the business fully own the code after the project ends?",
+    "kuveltg": "Yes. When the project is completed and paid in full, we hand over all source code, technical documents, architectural diagrams and intellectual property rights to the business. You can operate, expand or choose another partner in the future without being locked into a supplier.",
+    "kjgvv6k": "Accompanying Winterfrost in the digital era",
+    "kuo57bp": "We not only provide effective digital transformation solutions but also create a professional environment for you to develop your talents. With a project network spanning more than 15 countries, becoming a member of Winterfrost will give you the opportunity to work in a multicultural environment, directly solving major technological challenges.",
+    "k10rnnqf": "Fullstack Developer Intern",
+    "kelt1il": "Developer",
+    "kdmk1f1": "Agreement",
+    "kozhq2s": "City. Ho Chi Minh",
+    "kcqp9je": "Content Marketing",
+    "knizw27": "Marketing",
+    "k6i2lsu": "Accounting Intern",
+    "ki39zmj": "Recruiting DevOps Engineer interns",
+    "k1gwvnpj": "Legal Intern",
+    "k4x5v2o": "Accounting Staff",
+    "k1qe40yc": "Human Resources Intern",
+    "k1r7n2eu": "Administration - Human Resources",
+    "k1tfchh8": "SEO Marketing Specialist",
+    "k1f7ubso": "Java Developer Intern",
+    "k1db3pt4": "Graphic Designer",
+    "k1c9kt7v": "Graphic Design",
+    "kf3wnb": "Mobile Developer Developer",
+    "k1ntbc5w": "Backend Developer (PHP/Laravel)",
+    "k2zjyl": "Backend Developer (Fintech, Banking, Finance)",
+    "k1ocnq32": "Frontend Developer (Banking, Finance)",
+    "k1w6b8so": "ReactJS/NestJS/Typescript Intern",
+    "k4c5p34": "Middle Mobile Developer (Flutter / Swift / React Native)",
+    "k1hf1y79": "AI Engineer intern",
+    "kovba46": "AI Engineer Specialist",
+    "ky9sm80": "E-Commerce - Winterfrost",
+    "k1e8wiar": "Professional eCommerce platform development services at Winterfrost. High load bearing system, integrated payment, logistics synchronization and complete handover of source code.",
+    "k1hzckhy": "The omnichannel solution helps increase conversion rates and optimize customer experience.",
+    "kimeevw": "Financial Technology - Winterfrost",
+    "k1vyqw19": "Secure Fintech software development services at Winterfrost. Specializing in digital banking, Blockchain, algorithmic transactions and handing over source code completely to businesses.",
+    "k16cf0jg": "State-of-the-art financial system with high security and real-time transaction processing.",
+    "k12hfvkj": "Health - Winterfrost",
+    "kx0muwc": "AI/ML integrated medical software development services at Winterfrost. Specializing in EMR and Telemedicine solutions for the international market. HIPAA, GDPR compliant security.",
+    "k13ra51b": "Digitize hospitals and clinics with an online appointment and case management system.",
+    "k13k5f9n": "Corporate Finance - Winterfrost",
+    "kewzjzt": "Next-generation corporate finance software development services at Winterfrost. Modernize Core Banking, automate asset management and hand over 100% of the source code.",
+    "kqri3mr": "Automate accounting, financial reporting, and cash flow analysis for businesses.",
+    "keulbnw": "Enterprise Software - Winterfrost",
+    "k13a185v": "ERP software programming services, customized CRM at Winterfrost. Optimize the operation process, centralize data management and hand over 100% of the source code to the business.",
+    "k1vligmy": "ERP, CRM, and specialized software help optimize the management process.",
+    "k1ewfm8l": "Retail - Winterfrost",
+    "ka5ouzk": "The B2B retail management system from Winterfrost creates Microservices architecture, High Concurrency processing, real-time data synchronization, and Enterprise standard security.",
+    "kugsgex": "Integrated POS, warehouse management, and CRM help retail chains operate efficiently.",
+    "k1m57mnv": "Real Estate - Winterfrost",
+    "k1mxjpoe": "The Winterfrost real estate software solution helps with real-time cart management, commission automation, and CRM security. Increase professional B2B transaction performance.",
+    "k1t9di64": "Listing platform, brokerage CRM and digital showroom for real estate projects.",
+    "km4kfk9": "Transportation and Logistics - Winterfrost",
+    "kpj3am8": "Winterfrost Logistics software solution helps optimize routes, synchronize real-time logistics and centralize fleet management. Increase professional B2B supply chain performance.",
+    "k3wnxc4": "Manage orders, track and optimize multi-channel transportation routes.",
+    "kpmvvhz": "Education - Winterfrost",
+    "k1gpj1fs": "In-depth EdTech education system programming services at Winterfrost. Optimize heavy load infrastructure, DRM security, handover of source code and complete technical documentation.",
+    "kwz2x3v": "LMS, student management and online classes for schools and training centers.",
+    "k1ccvmei": "Travel - Winterfrost",
+    "k175zdfb": "Specialized technology solutions for the tourism industry from Winterfrost.",
+    "k1tkhpzd": "Booking platform, schedule management, and visitor experience optimization.",
+    "kj8ttzv": "Oil & Gas - Winterfrost",
+    "k1byuxtb": "Specialized digital transformation solution for the oil and gas industry from Winterfrost.",
+    "kdzfxtp": "Real-time operational, safety and technical data monitoring.",
+    "kx8w1st": "Accounting - Winterfrost",
+    "kl3c82q": "Corporate accounting system solutions from Winterfrost.",
+    "kaadb9z": "Automate operations, consolidate transactions, and control cash flow.",
+    "k1h5w34r": "Banking - Winterfrost",
+    "kgflvtr": "Specialized digital transformation solution for the banking industry from Winterfrost.",
+    "k12zxsdz": "Secure transaction infrastructure, core banking and digital banking experience.",
+    "k14b8w35": "Agriculture - Winterfrost",
+    "k1t5vvph": "Specialized digital transformation solutions for the agricultural industry from Winterfrost.",
+    "kd3k5wg": "IoT, data analytics, and smart crop monitoring.",
+    "k1gqyq56": "Supply Chain - Winterfrost",
+    "kemqzxs": "Comprehensive supply chain management solution from Winterfrost.",
+    "kvvhas4": "Unify data and optimize the entire logistics system.",
+    "k1qn4i3z": "Utility Software - Winterfrost",
+    "kdv2w8p": "Utility software solutions for businesses from Winterfrost.",
+    "kwcf59i": "Tools for optimizing performance, automating tasks, and securing infrastructure.",
+    "k1c41ir9": "On-Demand App Development - Winterfrost",
+    "k1soozd1": "Customized mobile app design and development from Winterfrost.",
+    "knus9js": "iOS and Android applications are stable and flexible according to their own business.",
+    "k16z7owu": "Architecture & Construction",
+    "k185ucn4": "Architecture & Construction - Winterfrost",
+    "ku2j88j": "Architectural and construction software solutions from Winterfrost.",
+    "kq5pt27": "Real-time project management, budgets, and construction data.",
+    "kg452uu": "Services - Winterfrost",
+    "k1pg2q3h": "Winterfrost specializes in designing websites, apps, AI, IoT & Blockchain. Comprehensive technology solutions help businesses digitally transform and optimize operations.",
+    "khprhi9": "AI Development Services",
+    "k3zzj8v": "AI development services - Winterfrost",
+    "kmuoegk": "AI Development Services at Winterfrost. Machine Learning, LLMs, and process automation solutions help optimize business operations. Watch now!",
+    "k15qrl1d": "Blockchain Development Services",
+    "k1jt5sy7": "Blockchain development service - Winterfrost",
+    "k1hffat9": "Blockchain Development Services at Winterfrost. Smart Contract solutions, dApps and separate networks provide operational transparency and security. Watch now!",
+    "kfm41h2": "DevOps development services",
+    "k1vebojc": "DevOps Development Services - Winterfrost",
+    "k1833i": "DevOps Development Services at Winterfrost. CI/CD automation solutions, code-based infrastructure management (IaC) help optimize Cloud costs and operate stably. Watch now!",
+    "kekirox": "IoT development services",
+    "k171munz": "IoT development services - Winterfrost",
+    "k17havyc": "Comprehensive IoT development services at Winterfrost. Firmware programming solutions, computing at the edge and intelligent data management systems. Watch now!",
+    "kzoz6a4": "Enterprise Software Development Services",
+    "k1qozu1u": "Enterprise software development services - Winterfrost",
+    "kdjhovz": "Enterprise software development services at Winterfrost. ERP solutions, custom CRM, system integrations, and high-level security for scale. Watch now!",
+    "ksb399i": "MVP Software Development Services",
+    "k4rjdt4": "MVP software development service - Winterfrost",
+    "k1ooa3ry": "MVP software development services at Winterfrost. Launch quickly, optimize costs, flexible platform to help verify business ideas. Watch now!",
+    "k1nh4ec3": "Custom Software Solutions",
+    "k1onvqr2": "Custom Software Solutions | Winterfrost",
+    "k1mw2civ": "Bespoke custom software solutions designed and built to meet your specific business challenges.",
+    "krr6vw1": "SaaS Application Development Services",
+    "k5al75r": "SaaS application development service - Winterfrost",
+    "k1spqa1e": "SaaS application development services at Winterfrost. Security service software solutions, multi-user architecture, flexible scalability. Watch now!",
+    "k1qpj5xd": "App Design Services",
+    "kuzwhfz": "App design service - Winterfrost",
+    "kbhtdji": "Professional app design services at Winterfrost. IOS & Android application solution with optimal UI/UX, stable operation. Contact us for advice now!",
+    "kiqii6n": "Website design service",
+    "klkyf75": "Website design service - Winterfrost",
+    "k1udogd2": "Professional website design services at Winterfrost. SEO standard web solution, high security, AI integration and operational optimization for businesses. Watch now!",
+    "k2hxqzb": "Operation and Maintenance Services",
+    "k1i8e8u1": "Operation and maintenance services - Winterfrost",
+    "k2wnr28": "Professional software operation and maintenance services at Winterfrost. Ensure system stability, high security, optimal performance and 24/7 support. Watch now!",
+    "kysacsw": "Website PixelNova Media",
+    "k1aymv4c": "PixelNova Media - Winterfrost Case Study",
+    "k1z2whr": "PixelNova Media's 15 years of experience are built on Winterfrost, a premium product portfolio showcasing leading event advertising solutions.",
+    "kztntfp": "",
+    "kgzs16": "Mocvan Tea website",
+    "k1lgvzy0": "Mocvan Tea - Winterfrost case study",
+    "kpq8xlt": "Discover the essence of Vietnamese tea in France with Mocvan Tea - friendly website, natural images, brand storytelling and modern shopping experience.",
+    "kcz1v1u": "Aeromint Cleanroom",
+    "k1lzebh7": "Aeromint Cleanroom - Winterfrost Vietnamese Case study",
+    "k1vaoswf": "Enhance your business with Aeromint Cleanroom cleanroom equipment and professional SEO solutions from Winterfrost, optimizing market access.",
+    "k1w2b14j": "Nivora Connect - Winterfrost Case Study",
+    "kelqqdj": "Empower the Vietnamese community in Korea with Nivora Connect, a secure mobile application from Winterfrost, connecting transportation, housing and employment.",
+    "k14eb8qo": "Grevia Lawn - Winterfrost case study",
+    "ks4295c": "Enhance landscape services with Grevia Lawn, a professional service booking application from Winterfrost, integrating smart scheduling and real-time tracking.",
+    "k1ywm10q": "Loomora Rugs - Winterfrost Case Study",
+    "k1wvba2m": "Discover the premium handmade wool rugs Loomora Rugs through the sophisticated digital showroom from Winterfrost, SEO standard, fast loading, smooth and luxurious experience.",
+    "konvcjl": "Chromiva Coatings website",
+    "kpivzwz": "Chromiva Coatings - Winterfrost case study",
+    "kxxm7m8": "Optimize your surface solution with Chromiva Coatings, a professional e-commerce platform from Winterfrost with fast loading speeds and luxurious design.",
+    "k193umnw": "Verdora Property website",
+    "k17z3xxm": "Verdora Property - Winterfrost Case Study",
+    "k1hfq1rt": "Improve real estate management efficiency with Kim Cuong Xanh, a professional real estate platform implemented by Winterfrost with integrated SEO and fast loading speed.",
+    "k82n8kw": "Website Candella Works",
+    "k1flelao": "Flexora Packaging website",
+    "kug5z1o": "Flexora Packaging - Winterfrost Case Study",
+    "k1om9bzs": "Explore Flexora Packaging's range of industrial films and plastics, developed by Winterfrost, this SEO optimized site ensures a professional B2B experience.",
+    "k1j8p70s": "Polyvera website",
+    "k9357xu": "Polyvera - Winterfrost Case Study",
+    "k1p0j45x": "Website Polyvera LLC is a manufacturer of HDPE plastic films and packaging, serving a variety of industries with a focus on quality and sustainability.",
+    "k1tppkq0": "Mirava website",
+    "kknofk": "Bytevera website",
+    "kcqnz0v": "Website Motoria Link",
+    "k31j7ui": "Dentavera website",
+    "k1i6z52e": "Dentavera - Winterfrost Case study",
+    "k1gvqqt2": "Discover Dentavera - dental technology platform from Winterfrost, integrating 3D printing, professional SEO, modern interface and outstandingly fast loading speed.",
+    "k1jskzx7": "Lumera Living website",
+    "kpfhg6z": "Lumera Living - Winterfrost Vietnamese case study",
+    "k1q5qkk1": "Discover Lumera Living, the premium B2B platform developed by Winterfrost, featuring a digital showroom, SEO optimization and high-speed performance.",
+    "k1t45btw": "Furniture",
+    "ktqfral": "Auriva Land website",
+    "k1prhhfm": "Rovena Mobility website",
+    "k569lzi": "Brewvia website",
+    "k1t8vsbj": "Arcvera Construction website",
+    "kkah96l": "Vietnam Wiki",
+    "k1sc5kjz": "Wiki - Winterfrost",
+    "k1gmw7t6": "Join Winterfrost to share the latest website, app, and AI design knowledge to help businesses improve business efficiency and develop their brands.",
+    "k1i4jyz3": "Blockchain and IoT: All the important knowledge for Tech Leaders",
+    "kx4qwnd": "Blockchain and IoT: All the important knowledge for Tech Leaders - Winterfrost.tech",
+    "krbr6yw": "The number of connected devices is growing rapidly globally. According to forecasts, by the end of 2024, the total number of connected IoT devices will reach about 18.8 billion, an increase of 13% compared to the previous year. This increase shows the increasingly important role of the Internet of Things [...]",
+    "kx5u0s7": "Work life | Wiki | Winterfrost",
+    "k123stnn": "Browse all articles in Work life.",
+    "k1vdkq88": "Flutter vs. React Native and Xamarin: Which framework should you choose for Mobile development? - Winterfrost.tech",
+    "k66cgt1": "What is Flutter? Mobile app development today is more exciting than ever. Programmers have many technology options to build applications in their own way. However, the big goal of software development has always been to write […]",
+    "k1wj7tz3": "Software Engineer career path: How to choose the right path for you - Winterfrost.tech",
+    "k5wzn6a": "Choosing a career path is just as important as choosing a major, because both shape your future in clear ways. For those pursuing the field of software engineering, you have probably wondered if this path […]",
+    "k1fs2375": "Have you ever wondered: When you click the \"Confirm\" button on a website, what actually happens in that split second? Behind that smooth experience is a huge underground system processing tens of thousands of data streams. Hello, I'm Nguyen Huynh Gia […]",
+    "k7t8s79": "Top 23 Most Reputable Software and Technology Consulting Companies",
+    "k13zjr1v": "Top 23 Most Reputable Software and Technology Consulting Companies %currentyear% - Winterfrost",
+    "khhlrz3": "Today's software development teams face greater pressure than ever: shortened deployment times, ever-increasing security requirements, and rapidly changing AI technology lifecycles. Therefore, many businesses are looking to consulting companies [...]"
+  }
+}

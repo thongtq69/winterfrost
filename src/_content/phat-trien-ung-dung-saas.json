@@ -1,0 +1,439 @@
+{
+  "slug": "phat-trien-ung-dung-saas",
+  "metaTitle": "Dịch vụ phát triển ứng dụng SaaS - Winterfrost",
+  "hero": {
+    "titleLight": "Phát triển ",
+    "titleDark": "Ứng dụng SaaS",
+    "description": "Từ khâu thiết kế đến khi vận hành thực tế, chúng tôi xây dựng các nền tảng SaaS với khả năng mở rộng linh hoạt. Winterfrost sẽ giúp bạn kiến tạo những sản phẩm phần mềm hiện đại, có khả năng phát triển vượt trội cùng lượng người dùng và mang lại nguồn doanh thu bền vững cho doanh nghiệp.",
+    "bgImage": "/images/migrated/homenest-software/wp-content/uploads/2026/03/services-app-bg.jpg",
+    "dashboardImage": "",
+    "phones": {
+      "left": "/images/migrated/homenest-software/wp-content/uploads/2026/04/SaaS-Application-header-left.png",
+      "center": "/images/migrated/homenest-software/wp-content/uploads/2026/04/SaaS-Application-service-center.webp",
+      "right": "/images/migrated/homenest-software/wp-content/uploads/2026/04/SaaS-Application-header-right.png"
+    },
+    "chips": [
+      "/images/migrated/homenest-software/wp-content/uploads/2026/04/SaaS-Application-banner-top-left.jpg",
+      "/images/migrated/homenest-software/wp-content/uploads/2026/04/SaaS-Application-header-bottom-right.jpg",
+      "/images/migrated/homenest-software/wp-content/uploads/2026/04/SaaS-Application-header-bottom-left.jpg",
+      "/images/migrated/homenest-software/wp-content/uploads/2026/04/SaaS-Application-header-top-right.jpg"
+    ]
+  },
+  "solution": {
+    "headlineLight": "Tại sao nên đầu tư phát triển",
+    "headlineDark": " ứng dụng SaaS chuyên nghiệp?",
+    "description": "Một nền tảng SaaS chuẩn chỉnh đóng vai trò là bộ máy tạo doanh thu định kỳ bền vững. Chúng tôi thiết kế hệ thống tối ưu cho khả năng mở rộng, bảo mật và chuyển đổi ngay từ đầu, giúp doanh nghiệp loại bỏ các rào cản trong giai đoạn tăng trưởng.",
+    "ctaLabel": "Bắt đầu dự án của bạn ngay hôm nay",
+    "ctaHref": "tel:+84971450454",
+    "items": [
+      {
+        "title": "Kiến trúc đa người dùng tối ưu",
+        "desc": "Giúp bạn quản lý hàng ngàn khách hàng trên cùng một hệ thống mà vẫn đảm bảo dữ liệu của mỗi người hoàn toàn riêng tư và bảo mật.",
+        "image": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Multi-Tenant-Architecture.webp"
+      },
+      {
+        "title": "Quản lý thanh toán tự động",
+        "desc": "Tích hợp mượt mà các cổng thanh toán quốc tế và hệ thống hoàn toàn tự động quản lý giá, hóa đơn theo mức độ sử dụng, giúp doanh thu tăng và giảm thiểu tỷ lệ khách hàng rời đi.",
+        "image": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Subscription-Billing-Logic.webp"
+      },
+      {
+        "title": "Khả năng mở rộng linh hoạt",
+        "desc": "Cấu trúc Cloud-native cho phép hệ thống tự động điều chỉnh tài nguyên theo thời gian thực. Điều này đảm bảo ứng dụng luôn hoạt động ổn định khi lượng truy cập tăng đột biến và không gây lãng phí chi phí vận hành khi ở mức thấp điểm.",
+        "image": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Cloud-Native-Elasticity.webp"
+      },
+      {
+        "title": "Bảo mật cực tốt",
+        "desc": "Áp dụng quy trình bảo mật ngay từ khâu thiết kế với các tiêu chuẩn nghiêm ngặt. Hệ thống tuân thủ các chứng chỉ quốc tế, giúp doanh nghiệp dễ dàng vượt qua các đợt kiểm tra bảo mật từ đối tác lớn.",
+        "image": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Enterprise-Grade-SaaS-Security.webp"
+      },
+      {
+        "title": "Phân tích chuyên sâu",
+        "desc": "Theo dõi chi tiết các chỉ số và hành vi người dùng thông qua bảng điều khiển trực quan. Những dữ liệu thực tế này là cơ sở quan trọng để doanh nghiệp đưa ra các chiến lược cải tiến tính năng và giữ chân người dùng hiệu quả.",
+        "image": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Multi-Level-Analysis.webp"
+      }
+    ]
+  },
+  "features": {
+    "headlineLight": "Dịch vụ chuyên sâu ",
+    "headlineDark": "cho hành trình phát triển SaaS",
+    "description": "",
+    "ctaLabel": "Cùng xây dựng giải pháp của bạn",
+    "ctaHref": "tel:+84971450454",
+    "items": [
+      {
+        "num": "01",
+        "title": "Kiến trúc đa người dùng tối ưu",
+        "desc": "Thiết kế cấu trúc dữ liệu dùng chung hạ tầng nhưng bảo mật tuyệt đối cho từng khách hàng, giúp tối ưu chi phí vận hành.",
+        "iconPath": "M88.57,35A8,8,0,0,1,103.43,29l8,20A8,8,0,0,1,96.57,55ZM29,103.43l20,8A8,8,0,1,0,55,96.57l-20-8A8,8,0,0,0,29,103.43ZM227,152.57l-20-8A8,8,0,1,0,201,159.43l20,8A8,8,0,0,0,227,152.57ZM159.43,201A8,8,0,0,0,144.57,207l8,20A8,8,0,1,0,167.43,221ZM237.91,18.52a8,8,0,0,0-11.5-.18L174,70.75l-5.38-5.38a32,32,0,0,0-45.28,0L106.14,82.54a4,4,0,0,0,0,5.66l61.7,61.66a4,4,0,0,0,5.66,0l16.74-16.74a32.76,32.76,0,0,0,9.81-22.52,31.82,31.82,0,0,0-9.37-23.17l-5.38-5.37,52.2-52.17A8.22,8.22,0,0,0,237.91,18.52ZM85.64,90.34a8,8,0,0,0-11.49.18,8.22,8.22,0,0,0,.41,11.37L80.67,108,65.34,123.31A31.82,31.82,0,0,0,56,146.47,32.75,32.75,0,0,0,65.77,169l5,4.94L18.49,226.13a8.21,8.21,0,0,0-.61,11.1,8,8,0,0,0,11.72.43L82,185.25l5.37,5.38a32.1,32.1,0,0,0,45.29,0L148,175.31l6.34,6.35a8,8,0,0,0,11.32-11.32Z",
+        "image": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Seamless-API-Ecosystems.webp"
+      },
+      {
+        "num": "02",
+        "title": "Nền tảng đám mây linh hoạt",
+        "desc": "Phát triển ứng dụng trên hạ tầng hiện đại giúp hệ thống tự động mở rộng theo tốc độ tăng trưởng của người dùng.",
+        "iconPath": "M128,40a96,96,0,1,0,96,96A96.11,96.11,0,0,0,128,40Zm45.66,61.66-40,40a8,8,0,0,1-11.32-11.32l40-40a8,8,0,0,1,11.32,11.32ZM96,16a8,8,0,0,1,8-8h48a8,8,0,0,1,0,16H104A8,8,0,0,1,96,16Z",
+        "image": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Real-Time-Performance-Monitoring.webp"
+      },
+      {
+        "num": "03",
+        "title": "Hệ thống thanh toán tự động",
+        "desc": "Tích hợp quy trình quản lý giá và thu phí định kỳ, biến phần mềm thành bộ máy tạo doanh thu tự động bền vững.",
+        "iconPath": "M240,56v64a8,8,0,0,1-13.66,5.66L200,99.31l-58.34,58.35a8,8,0,0,1-11.32,0L96,123.31,29.66,189.66a8,8,0,0,1-11.32-11.32l72-72a8,8,0,0,1,11.32,0L136,140.69,188.69,88,162.34,61.66A8,8,0,0,1,168,48h64A8,8,0,0,1,240,56Z",
+        "image": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Future-Ready-Microservices.webp"
+      }
+    ]
+  },
+  "benefits": {
+    "label": "Lợi thế cạnh tranh cùng Winterfrost",
+    "headlineLight": "Giải pháp bền vững cho",
+    "headlineDark": "lộ trình kinh doanh dài hạn",
+    "items": [
+      {
+        "num": "1",
+        "title": "Đội ngũ chuyên gia SaaS thực thụ",
+        "desc": "Chúng tôi có đội ngũ chuyên nghiệp với nhiều kinh nghiệm trong phát triển phần mềm SaaS từ công ty nhỏ đến những doanh nghiệp lớn."
+      },
+      {
+        "num": "2",
+        "title": "Tối ưu hóa chi phí đầu tư",
+        "desc": "Với mức chi phí tiết kiệm từ 40 đến 60% nhưng vẫn đảm bảo sản phẩm đạt tiêu chuẩn và có chất lượng tốt nhất cho doanh nghiệp."
+      },
+      {
+        "num": "3",
+        "title": "Kinh nghiệm thực chiến đa ngành",
+        "desc": "Chúng tôi sở hữu tri thức sâu từ bất động sản, thương mại điện tử cho đến logistics, giúp định hướng sản phẩm đi đúng lộ trình và tuân thủ quy định ngành ngay từ đầu."
+      },
+      {
+        "num": "4",
+        "title": "Năng lực triển khai toàn diện",
+        "desc": "Làm chủ toàn bộ vòng đời sản phẩm từ giao diện người dùng, hệ thống xử lý đến hạ tầng đám mây và tích hợp các tiện ích SaaS chuyên biệt."
+      },
+      {
+        "num": "5",
+        "title": "Kiến trúc đạt hiệu suất cao",
+        "desc": "Mọi ứng dụng đều được tối ưu để đạt thời gian phản hồi cực thấp và cam kết thời gian hoạt động ổn định tới 99%, sẵn sàng đáp ứng lượng người dùng tăng đột biến."
+      },
+      {
+        "num": "6",
+        "title": "Quy trình kiểm thử chuyên sâu",
+        "desc": "Hệ thống được kiểm tra nghiêm ngặt về tính năng cách ly dữ liệu giữa các khách hàng và bảo mật xâm nhập, đảm bảo nền tảng luôn ổn định và an toàn trong các tình huống thực tế."
+      },
+      {
+        "num": "7",
+        "title": "Phát triển linh hoạt theo chu kỳ",
+        "desc": "Sử dụng quy trình Agile với các chu kỳ 2 tuần giúp bạn liên tục nhận được các bản demo thực tế và điều chỉnh sản phẩm sát nhất với nhu cầu thị trường."
+      },
+      {
+        "num": "8",
+        "title": "Bảo mật dữ liệu tuyệt đối",
+        "desc": "Dữ liệu người dùng được bảo vệ đa lớp qua mã hóa và phân quyền truy cập nghiêm ngặt, đáp ứng các tiêu chuẩn khắt khe nhất của các doanh nghiệp lớn."
+      },
+      {
+        "num": "9",
+        "title": "Hỗ trợ vươn tầm quốc tế",
+        "desc": "Kinh nghiệm triển khai thành công các sản phẩm SaaS tại Mỹ, Anh và Singapore giúp chúng tôi sẵn sàng hỗ trợ bạn mở rộng thị trường với hạ tầng đa ngôn ngữ và thanh toán toàn cầu."
+      }
+    ]
+  },
+  "ctaBanner": {
+    "badge": "Liên hệ ngay!",
+    "headline": "Xây dựng nền tảng SaaS có khả năng mở rộng không giới hạn",
+    "description": "Winterfrost giúp doanh nghiệp hiện thực hóa ý tưởng về một phần mềm dịch vụ ổn định và dễ quản lý trên nền tảng đám mây. Chúng tôi tập trung xây dựng hạ tầng kỹ thuật mạnh mẽ, cho phép doanh nghiệp phục vụ số lượng lớn khách hàng cùng lúc mà vẫn đảm bảo tốc độ truy cập nhanh và hiệu suất tối ưu.",
+    "ctaLabel": "Bắt đầu dự án SaaS ngay",
+    "ctaHref": "/lien-he",
+    "image": "/images/people/cta/winterfrost/chuyen-vien-nu.png"
+  },
+  "counter": {
+    "badgeText": "Thành tựu của chúng tôi",
+    "items": [
+      {
+        "index": "/01",
+        "value": "10+",
+        "desc": "Năm kinh nghiệm"
+      },
+      {
+        "index": "/02",
+        "value": "250+",
+        "desc": "Khách hàng"
+      },
+      {
+        "index": "/03",
+        "value": "15+",
+        "desc": "Quốc gia phục vụ"
+      },
+      {
+        "index": "/04",
+        "value": "98%",
+        "desc": "Sự hài lòng của khách hàng"
+      }
+    ]
+  },
+  "industries": {
+    "label": "Lĩnh vực Winterfrost phục vụ",
+    "headlineLight": "Kiến tạo nền tảng SaaS chuyên biệt",
+    "headlineDark": "cho mọi ngành nghề",
+    "items": [
+      {
+        "slug": "thuong-mai-dien-tu",
+        "title": "Thương mại điện tử",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/eComerce-Industries-Icon.png"
+      },
+      {
+        "slug": "cong-nghe-tai-chinh",
+        "title": "Công nghệ tài chính",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Fintech-Industries-Icon.png"
+      },
+      {
+        "slug": "y-te",
+        "title": "Y tế",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Healthcare-Industries-Icon.png"
+      },
+      {
+        "slug": "tai-chinh-doanh-nghiep",
+        "title": "Tài chính doanh nghiệp",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Expert-Financial-Industries-Icon.png"
+      },
+      {
+        "slug": "phan-mem-doanh-nghiep",
+        "title": "Phần mềm doanh nghiệp",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Business-Industries-Icon.png"
+      },
+      {
+        "slug": "ban-le",
+        "title": "Bán lẻ",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Retail-Industries-Icon.png"
+      },
+      {
+        "slug": "bat-dong-san",
+        "title": "Bất động sản",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Real-Estate-Industries-Icon.png"
+      },
+      {
+        "slug": "van-tai-va-logistics",
+        "title": "Vận tải và Logistics",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Logistics-Industries-Icon.png"
+      },
+      {
+        "slug": "giao-duc",
+        "title": "Giáo dục",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Education-Industries-Icon.png"
+      }
+    ]
+  },
+  "price": {
+    "label": "",
+    "headlineLight": "Gói dịch vụ phát triển SaaS",
+    "headlineDark": "",
+    "description": "Lựa chọn lộ trình phù hợp để khởi tạo và bứt phá quy mô nền tảng SaaS của bạn cùng Winterfrost.",
+    "packages": [
+      {
+        "name": "Cơ bản",
+        "price": "60.000.000",
+        "currency": "VNĐ",
+        "period": "/ dự án",
+        "description": "Giải pháp hoàn hảo cho các doanh nghiệp muốn kiểm chứng ý tưởng và ra mắt ứng dụng SaaS cơ bản một cách nhanh chóng.",
+        "features": [
+          "Xây dựng lõi ứng dụng SaaS tiêu chuẩn.",
+          "Sử dụng khung phần mềm (Framework) SaaS có sẵn.",
+          "Tùy chỉnh các tính năng nghiệp vụ cơ bản.",
+          "Hỗ trợ thiết lập và triển khai trên hạ tầng Cloud.",
+          "Hỗ trợ kỹ thuật ưu tiên qua Email."
+        ],
+        "ctaLabel": "Bắt đầu",
+        "ctaHref": "tel:+84971450454",
+        "highlight": false,
+        "labelText": "Gói Cơ Bản"
+      },
+      {
+        "name": "Nâng cao",
+        "price": "Linh hoạt theo dự án",
+        "currency": "",
+        "period": "",
+        "description": "Lựa chọn tối ưu cho các doanh nghiệp cần một nền tảng SaaS được may đo hoàn toàn theo mô hình kinh doanh riêng biệt.",
+        "features": [
+          "Phát triển giải pháp SaaS độc quyền từ đầu.",
+          "Kiến trúc đa người dùng (Multi-tenancy) chuyên sâu.",
+          "Thiết kế giao diện UI/UX mới hoàn toàn cho thương hiệu.",
+          "Tùy chỉnh tính năng phức tạp và tích hợp hệ thống bên thứ ba.",
+          "Đội ngũ chuyên gia hỗ trợ 24/7 qua điện thoại."
+        ],
+        "ctaLabel": "Bắt đầu",
+        "ctaHref": "tel:+84971450454",
+        "highlight": true,
+        "labelText": "Gói Nâng Cao"
+      }
+    ]
+  },
+  "techStack": {
+    "headlineLight": "Công nghệ vận hành SaaS",
+    "headlineDark": "tại Winterfrost",
+    "filters": [
+      "Tất cả",
+      "Giao diện",
+      "Hệ thống",
+      "Cơ sở dữ liệu",
+      "Vận hành",
+      "Quản lý"
+    ],
+    "items": [
+      {
+        "name": "React / Next.js",
+        "category": ""
+      },
+      {
+        "name": "Angular",
+        "category": ""
+      },
+      {
+        "name": "Vue.js",
+        "category": ""
+      },
+      {
+        "name": "Figma",
+        "category": ""
+      },
+      {
+        "name": "Adobe XD",
+        "category": ""
+      },
+      {
+        "name": "Sketch",
+        "category": ""
+      },
+      {
+        "name": "Node.js",
+        "category": ""
+      },
+      {
+        "name": "Laravel",
+        "category": ""
+      },
+      {
+        "name": "WordPress / PHP",
+        "category": ""
+      },
+      {
+        "name": ".NET / ASP.NET",
+        "category": ""
+      },
+      {
+        "name": "MySQL",
+        "category": ""
+      },
+      {
+        "name": "PostgreSQL",
+        "category": ""
+      },
+      {
+        "name": "MongoDB",
+        "category": ""
+      },
+      {
+        "name": "Redis",
+        "category": ""
+      },
+      {
+        "name": "Docker",
+        "category": ""
+      },
+      {
+        "name": "GitHub",
+        "category": ""
+      },
+      {
+        "name": "GitLab",
+        "category": ""
+      },
+      {
+        "name": "Bitbucket",
+        "category": ""
+      },
+      {
+        "name": "GitHub Actions",
+        "category": ""
+      },
+      {
+        "name": "CI/CD",
+        "category": ""
+      },
+      {
+        "name": "AWS",
+        "category": ""
+      },
+      {
+        "name": "Deploy Server",
+        "category": ""
+      },
+      {
+        "name": "Jira",
+        "category": ""
+      }
+    ]
+  },
+  "comprehensiveServices": {
+    "headlineLight": "Mở rộng hệ sinh thái SaaS",
+    "headlineDark": "với các dịch vụ bổ trợ",
+    "items": [
+      {
+        "slug": "thiet-ke-website",
+        "title": "Thiết kế website chuyên nghiệp",
+        "desc": "Bạn cần một website giới thiệu sản phẩm, cổng thông tin khách hàng hay giao diện web phức tạp đi kèm với ứng dụng SaaS? Đội ngũ của chúng tôi giúp doanh nghiệp của bạn tạo ra những trải nghiệm website hiệu năng cao, tối ưu hóa tỷ lệ chuyển đổi và kết nối mượt mà với hệ thống quản trị SaaS của bạn.",
+        "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Dich-vu-thiet-ke-Website-HomeNest-Viet-Nam.jpg",
+        "href": "/dich-vu/thiet-ke-website"
+      },
+      {
+        "slug": "phat-trien-phan-mem-tuy-chinh",
+        "title": "Dịch vụ phát triển DevOps",
+        "desc": "Đẩy nhanh chu kỳ bàn giao sản phẩm và đảm bảo tính ổn định tuyệt đối cho nền tảng SaaS. Chúng tôi thiết lập hạ tầng đám mây tự động mở rộng, quy trình CI/CD chuyên nghiệp và hệ thống giám sát 24/7, giúp ứng dụng của bạn vận hành mượt mà ngay cả khi lượng người dùng tăng đột biến.",
+        "image": "/images/migrated/homenest-software/wp-content/uploads/2026/04/M7XkcGNNmF9nUkjJM8FXYMH8BA.avif",
+        "href": "/dich-vu/phat-trien-phan-mem-tuy-chinh"
+      },
+      {
+        "slug": "phat-trien-phan-mem-doanh-nghiep",
+        "title": "Phát triển phần mềm doanh nghiệp",
+        "desc": "Sẵn sàng kết nối nền tảng SaaS của bạn với các hệ thống ERP, CRM cấp doanh nghiệp hoặc các hệ thống cũ. Chúng tôi xây dựng các tầng trung gian, quy trình đồng bộ hóa dữ liệu và lớp API doanh nghiệp mạnh mẽ, giúp sản phẩm SaaS của bạn đủ tiêu chuẩn để phục vụ các khách hàng B2B quy mô lớn.",
+        "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Dich-vu-phat-trien-phan-mem-doanh-nghiep-HomeNest-Viet-Nam.jpg",
+        "href": "/dich-vu/phat-trien-phan-mem-doanh-nghiep"
+      }
+    ]
+  },
+  "faq": {
+    "label": "Các câu hỏi thường gặp",
+    "headlineParts": [
+      "Giải Đáp",
+      "Mọi",
+      "Thắc Mắc"
+    ],
+    "description": "Giải đáp mọi thắc mắc về kiến trúc hệ thống, bảo mật và lộ trình bứt phá doanh thu định kỳ cho nền tảng SaaS của bạn.",
+    "items": [
+      {
+        "q": "Kiến trúc đa người dùng có đảm bảo an toàn dữ liệu không?",
+        "a": "Hoàn toàn an toàn. Winterfrost thiết kế các lớp cách ly dữ liệu nghiêm ngặt ở cấp độ cơ sở dữ liệu. Mặc dù nhiều khách hàng sử dụng chung một hạ tầng để tối ưu chi phí, nhưng dữ liệu của mỗi người thuê luôn được mã hóa và tách biệt hoàn toàn, đảm bảo không có sự chồng chéo hay rò rỉ thông tin."
+      },
+      {
+        "q": "Tôi có thực sự sở hữu mã nguồn sau khi dự án kết thúc không?",
+        "a": "Chắc chắn rồi. Winterfrost bàn giao trọn vẹn, tài liệu kiến trúc và toàn bộ quyền sở hữu trí tuệ cho bạn. Chúng tôi xây dựng sản phẩm để bạn làm chủ và tự do phát triển kinh doanh, không có bất kỳ ràng buộc nào về việc giữ chân khách hàng bằng mã nguồn."
+      },
+      {
+        "q": "Hệ thống sẽ xử lý thế nào khi lượng người dùng tăng đột biến?",
+        "a": "Chúng tôi sử dụng kiến trúc điện toán đám mây và cơ chế tự động mở rộng . Hệ thống sẽ tự động tăng cường tài nguyên máy chủ trong vài giây khi lượng truy cập tăng cao và tự động thu nhỏ khi thấp điểm. Điều này giúp ứng dụng của bạn luôn mượt mà mà vẫn tiết kiệm chi phí máy chủ tối đa."
+      },
+      {
+        "q": "Winterfrost có hỗ trợ tích hợp các cổng thanh toán quốc tế không?",
+        "a": "Có. Chúng tôi có kinh nghiệm dày dặn trong việc tích hợp các hệ thống thanh toán và quản lý thuê bao định kỳ. Hệ thống sẽ tự động xử lý việc gia hạn, nâng cấp gói cước và gửi hóa đơn, giúp bạn sở hữu một bộ máy thu tiền tự động hoàn chỉnh."
+      },
+      {
+        "q": "Chi phí vận hành hạ tầng SaaS có đắt không?",
+        "a": "Nhờ kiến trúc đa người dùng và tối ưu hóa đám mây, chi phí trên mỗi người dùng sẽ cực kỳ thấp. Việc dùng chung hạ tầng thông minh giúp bạn tiết kiệm đến 70% chi phí vận hành so với các mô hình phần mềm truyền thống."
+      },
+      {
+        "q": "Tôi có thể tùy chỉnh tính năng riêng cho từng khách hàng lớn không?",
+        "a": "Có. Kiến trúc SaaS mà chúng tôi xây dựng cho phép thiết lập các lớp tính năng linh hoạt. Bạn có thể dễ dàng bật hoặc tắt các tính năng chuyên sâu cho các khách hàng quan trọng mà không làm ảnh hưởng đến lõi hệ thống chung của các người dùng khác."
+      },
+      {
+        "q": "Thời gian để ra mắt một bản chạy thử là bao lâu?",
+        "a": "Với các gói khởi đầu, chúng tôi tập trung vào những tính năng cốt lõi nhất để bạn có thể ra mắt thị trường trong vòng 8 đến 12 tuần. Việc ra mắt sớm giúp bạn sớm có phản hồi từ người dùng thực tế trước khi đầu tư sâu hơn vào các tính năng phức tạp."
+      }
+    ]
+  }
+}

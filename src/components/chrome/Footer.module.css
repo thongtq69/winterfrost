@@ -1,0 +1,169 @@
+.footer {
+  color: #0c1e5b;
+  background-color: #f5f5f5;
+  width: 100%;
+  padding: 64px 0 40px;
+  position: relative;
+}
+
+.container {
+  box-sizing: content-box;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 40px;
+}
+
+.inner { display: flex; flex-direction: column; }
+.topRow { display: flex; justify-content: space-between; align-items: start; gap: 20px; }
+.col { display: flex; flex-direction: column; max-width: 25%; }
+
+.colTitle {
+  color: #1a3b91;
+  opacity: 1;
+  margin: 0 0 8px;
+  font-family: Winterfrost, var(--font-Winterfrost), sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 1.6;
+}
+
+.menuList,
+.infoList,
+.servicesCol { display: flex; flex-direction: column; gap: 8px; }
+.infoList > .colTitle { margin-bottom: 12px; }
+
+.menuLink,
+.infoLink {
+  color: #0c1e5b;
+  padding: 0;
+  font-size: 18px;
+  line-height: 1.5;
+  font-style: normal;
+  text-decoration: none;
+  transition: opacity .2s;
+}
+
+.menuLink:hover,
+.infoLink:hover { opacity: .7; }
+.menuLinkActive { text-underline-offset: 4px; font-weight: 600; text-decoration: underline; }
+
+.accordionSection { display: flex; flex-direction: column; }
+.accordionSection:last-child { margin-bottom: 0; }
+.accordionToggle {
+  color: #0c1e5b;
+  cursor: pointer;
+  text-align: left;
+  background: transparent;
+  border: none;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  width: auto;
+  padding: 0;
+  font-family: inherit;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: normal;
+}
+.accordionTitle { flex: 0 0 auto; }
+.accordionArrow { color: #0c1e5b; width: 12px; height: 12px; transition: transform .2s; }
+.open .accordionArrow { transform: rotate(180deg); }
+.accordionBody { display: grid; grid-template-rows: 0fr; opacity: 0; transition: grid-template-rows .35s ease-out, opacity .35s ease-out; }
+.open .accordionBody { grid-template-rows: 1fr; opacity: 1; }
+.accordionInner { min-height: 0; overflow: hidden; }
+.accordionContent { display: flex; flex-direction: column; gap: 12px; padding: 8px 0 8px 6px; }
+.accordionLink { color: rgba(12, 30, 91, .75); padding: 0; font-size: 18px; text-decoration: none; transition: color .3s; }
+.accordionLink:hover { color: rgba(22, 106, 217, .55); }
+
+.divider { border: 0; border-top: 1px solid rgba(22, 106, 217, .55); width: 100%; margin: 60px 0; }
+.midRow { display: flex; justify-content: space-between; align-items: flex-end; margin-bottom: 30px; }
+.brandWrapper { display: flex; flex-direction: column; flex: 1 1 0%; gap: 24px; }
+.brandBig {
+  color: #1a3b91;
+  letter-spacing: -.01em;
+  margin: 0 0 0 -9px;
+  font-size: min(13.5vw, 210px);
+  font-weight: 800;
+  line-height: .74em;
+  white-space: nowrap;
+}
+
+.companiesRow { display: flex; flex-wrap: wrap; align-items: center; gap: 42px; }
+.companyUnit { display: flex; flex-direction: column; align-items: flex-start; gap: 4px; color: #0c1e5b; text-decoration: none; transition: opacity .2s; }
+.companyUnit:hover { opacity: .8; }
+.companyLogo { display: flex; align-items: center; width: 112px; }
+.companyLogo img { width: 100%; height: auto; }
+.companyName { color: #121528; opacity: .9; font-size: 15px; font-weight: 500; line-height: normal; }
+
+.socialWrapper { display: flex; flex-direction: column; }
+.socialRow { display: flex; gap: 16px; }
+.socialIcon { color: #fff; background-color: #1a3b91; border-radius: 50%; display: flex; justify-content: center; align-items: center; width: 32px; height: 32px; text-decoration: none; transition: transform .2s, opacity .2s; }
+.socialIcon:hover { opacity: .8; transform: translateY(-2px); }
+.socialIcon svg { width: 16px; height: 16px; }
+
+.bottomRow { display: flex; justify-content: space-between; align-items: center; margin-top: 60px; font-family: Winterfrost, var(--font-Winterfrost), sans-serif; }
+.copyright,
+.bottomLinks { color: #5b5b5b; font-size: 16px; font-weight: 500; line-height: 1.6; }
+.copyright { margin: 0; }
+.bottomLinks { display: flex; align-items: center; gap: 12px; }
+.bottomLinks span,
+.bottomLinks a { color: #5b5b5b; text-decoration: none; }
+.dot { font-size: 10px; }
+.privacyLink { color: #5b5b5b; font-weight: 600; text-decoration: none; transition: color .2s; }
+.privacyLink:hover { color: #1a3b91; }
+
+@media (max-width: 1400px) {
+  .colTitle { font-size: 22px; }
+  .menuLink, .infoLink, .accordionToggle, .accordionLink { font-size: 17px; }
+}
+
+@media (max-width: 1200px) {
+  .container { padding: 0 32px; }
+  .colTitle { font-size: 20px; }
+  .menuLink, .infoLink, .accordionToggle, .accordionLink { font-size: 16px; }
+  .copyright, .bottomLinks { font-size: 15px; }
+  .divider { margin: 50px 0; }
+  .midRow { margin-bottom: 45px; }
+  .bottomRow { margin-top: 50px; }
+}
+
+@media (max-width: 996px) {
+  .socialWrapper { padding-bottom: 0; }
+  .container { padding: 0 24px; }
+}
+
+@media (max-width: 850px) {
+  .topRow { grid-template-columns: 1fr 1fr; gap: 24px; display: grid; }
+  .col { max-width: 100%; }
+  .midRow { flex-direction: column; align-items: flex-start; gap: 20px; }
+  .brandBig { font-size: 13.1vw; }
+  .companiesRow { justify-content: center; }
+  .copyright, .bottomLinks { font-size: 13.5px; }
+}
+
+@media (max-width: 768px) {
+  .bottomRow { flex-direction: column; align-items: center; gap: 6px; margin-top: 32px; }
+  .container { padding: 0 20px; }
+  .menuLink, .infoLink, .accordionToggle, .accordionLink { font-size: 15px; }
+  .companiesRow { gap: 10px; }
+  .divider { margin: 36px 0; }
+  .footer { padding: 50px 0 36px; }
+  .copyright, .bottomLinks { font-size: 13px; }
+}
+
+@media (max-width: 480px) {
+  .topRow { grid-template-columns: 1fr 1fr; gap: 24px 8px; }
+  .container { padding: 0 16px; }
+  .colTitle { margin-bottom: 4px; font-size: 16px; }
+  .accordionContent { gap: 6px; }
+  .menuList, .infoList, .servicesCol { gap: 5px; }
+  .menuLink, .infoLink, .accordionToggle, .accordionLink { font-size: 13px; }
+  .footer { padding: 45px 0 30px; }
+  .divider { margin: 32px 0; }
+  .companyLogo { width: 64px; }
+  .companyName { font-size: 9px; }
+  .midRow { margin-bottom: 32px; }
+  .copyright, .bottomLinks { font-size: 10px; }
+  .companiesRow { gap: 10px; }
+  .bottomRow { gap: 6px; margin-top: 32px; }
+}

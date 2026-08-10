@@ -1,0 +1,461 @@
+{
+  "slug": "phat-trien-phan-mem-doanh-nghiep",
+  "metaTitle": "Dịch vụ phát triển phần mềm doanh nghiệp - Winterfrost",
+  "hero": {
+    "titleDark": "doanh nghiệp",
+    "titleLight": "Phát triển phần mềm",
+    "lightFirst": true,
+    "description": "Tối ưu quy trình vận hành phức tạp bằng giải pháp phần mềm sẵn sàng cao High-Availability. Chúng tôi xây dựng nền tảng số ổn định tuyệt đối, dữ liệu nhất quán và bảo mật nghiêm ngặt, sẵn sàng bứt phá mọi giới hạn về quy mô người dùng.",
+    "bgImage": "",
+    "dashboardImage": "",
+    "carousel": {
+      "arcText": "Mở rộng ✦ Bảo mật ✦ Hiệu năng cao ✦",
+      "images": [
+        "/images/migrated/homenest-software/wp-content/uploads/2026/04/Enterprise-Software-Data-banner.jpg",
+        "/images/migrated/homenest-software/wp-content/uploads/2026/04/Enterprise-Software-dashboard-banner.jpg",
+        "/images/migrated/homenest-software/wp-content/uploads/2026/04/Enterprise-Software-process-banner.jpg"
+      ]
+    }
+  },
+  "features": {
+    "headlineLight": "Đồng hành cùng doanh nghiệp",
+    "headlineDark": "giải quyết các bài toán vận hành",
+    "description": "Chúng tôi tập trung vào việc giải quyết các vấn đề quản lý phức tạp, xây dựng nền tảng kỹ thuật vững chắc giúp các doanh nghiệp chuyển đổi số quy trình, đồng bộ dữ liệu và duy trì hiệu suất ổn định trong mọi giai đoạn vận hành.",
+    "ctaLabel": "Tư vấn về dự án của bạn",
+    "ctaHref": "/lien-he",
+    "items": [
+      {
+        "title": "Tích hợp hệ thống toàn diện",
+        "desc": "Hợp nhất ERP, CRM và các nền tảng số thành một hệ sinh thái dữ liệu đồng nhất. Loại bỏ hoàn toàn nhập liệu thủ công và đảm bảo luồng thông tin thông suốt giữa các phòng ban.",
+        "image": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Custom-Enterprise-Software.jpg"
+      },
+      {
+        "title": "Hiện đại hóa hệ thống cũ",
+        "desc": "Nâng cấp phần mềm lỗi thời lên nền tảng công nghệ mới mà không gián đoạn kinh doanh. Tăng tốc độ xử lý, thắt chặt bảo mật và tối ưu hóa chi phí vận hành hạ tầng.",
+        "image": "/images/migrated/homenest-software/wp-content/uploads/2026/04/System-Integration-Services-1.jpg"
+      },
+      {
+        "title": "Quản trị doanh nghiệp thông minh",
+        "desc": "Thiết kế các hệ thống ERP, CRM, HRM chuyên biệt theo đúng quy trình đặc thù của tổ chức. Xây dựng nền tảng quản trị linh hoạt, sẵn sàng bứt phá mọi quy mô doanh nghiệp.",
+        "image": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Legacy-System-Modernization.jpg"
+      },
+      {
+        "title": "Tự động hóa quy trình bằng AI",
+        "desc": "Ứng dụng AI Agents để tự động hóa các nghiệp vụ phức tạp và tác vụ lặp lại. Giúp rút ngắn 70% thời gian xử lý quy trình và tối ưu hóa tối đa nguồn lực nhân sự.",
+        "image": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Enterprise-Web-Platforms.jpg"
+      },
+      {
+        "title": "Phân tích dự báo",
+        "desc": "Biến dữ liệu thô thành tài sản chiến lược với mô hình phân tích dự báo bằng AI. Cung cấp báo cáo trực quan theo thời gian thực, hỗ trợ ban lãnh đạo ra quyết định chính xác 24/7.",
+        "image": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Ongoing-Enterprise-Maintenance-Support.jpg"
+      }
+    ]
+  },
+  "howWeWork": {
+    "label": "Quy trình triển khai dự án",
+    "ctaLabel": "Bắt đầu dự án của bạn ngay hôm nay",
+    "ctaHref": "/lien-he",
+    "steps": [
+      {
+        "num": "01",
+        "badge": "Khảo sát",
+        "title": "Tư vấn và phân tích",
+        "desc": "Chúng tôi sẽ cùng ngồi lại với đội ngũ của bạn để hiểu rõ hơn về quy trình làm việc, những vấn đề hiện tại và các mục tiêu trong tương lai. Từ đó, Winterfrost sẽ đưa ra phương án thiết kế phần mềm tối ưu nhất, nhằm giải quyết chính xác vấn đề kinh doanh của bạn."
+      },
+      {
+        "num": "02",
+        "badge": "Thiết kế",
+        "title": "Lập kế hoạch và thiết kế",
+        "desc": "Nhóm kỹ sư sẽ lên kế hoạch chi tiết cho dòng dữ liệu, giao diện và hệ thống. Chúng tôi sẽ lập kế hoạch triển khai theo các giai đoạn, giúp bạn dễ dàng theo dõi tiến độ và nguồn lực ngay từ đầu."
+      },
+      {
+        "num": "03",
+        "badge": "Phát triển",
+        "title": "Lập trình và tích hợp",
+        "desc": "Chúng tôi sẽ thực hiện việc lập trình theo các tiêu chuẩn công nghệ hiện đại. Winterfrost sẽ liên kết phần mềm mới với các công cụ đã có như ERP, CRM nhằm tạo ra một hệ thống dữ liệu đồng nhất cho doanh nghiệp."
+      },
+      {
+        "num": "04",
+        "badge": "Kiểm thử",
+        "title": "Kiểm tra",
+        "desc": "Hệ thống sẽ được kiểm tra kỹ càng về mặt bảo mật và hiệu suất. Chúng tôi sẽ làm việc cùng với đội ngũ của bạn để tiến hành thử nghiệm với dữ liệu thực tế, đảm bảo rằng tất cả các tính năng phù hợp với quy trình làm việc thực tế."
+      },
+      {
+        "num": "05",
+        "badge": "Vận hành",
+        "title": "Triển khai và bàn giao",
+        "desc": "Winterfrost sẽ hỗ trợ việc lắp đặt hệ thống và tổ chức đào tạo kỹ thuật cho nhân viên. Sau khi bàn giao mã nguồn và tài liệu, chúng tôi sẽ tiếp tục hỗ trợ bạn trong việc vận hành và giải quyết những vấn đề phát sinh trong giai đoạn đầu."
+      }
+    ]
+  },
+  "benefits": {
+    "label": "Tại sao doanh nghiệp tin chọn Winterfrost?",
+    "headlineLight": "Kết nối kỹ thuật chuyên sâu",
+    "headlineDark": "với tư duy quản trị thực tế",
+    "items": [
+      {
+        "num": "1",
+        "title": "Thấu hiểu nghiệp vụ thực tế",
+        "desc": "Trước khi bắt đầu, chúng tôi dành thời gian để tìm hiểu kỹ lưỡng về cách thức hoạt động của doanh nghiệp bạn. Winterfrost tin rằng phần mềm chỉ thực sự có ý nghĩa khi nó giải quyết đúng các vấn đề liên quan đến quy trình và dữ liệu của người sử dụng."
+      },
+      {
+        "num": "2",
+        "title": "Không gây gián đoạn",
+        "desc": "Chúng tôi có kinh nghiệm trong việc nâng cấp các hệ thống cũ lên nền tảng công nghệ hiện đại một cách tỉ mỉ. Điều này giúp doanh nghiệp có được các công cụ mạnh mẽ hơn mà không làm gián đoạn các hoạt động thường ngày."
+      },
+      {
+        "num": "3",
+        "title": "Ưu tiên sự ổn định tuyệt đối",
+        "desc": "Trong môi trường doanh nghiệp, mỗi phút hệ thống không hoạt động đều có thể gây thiệt hại nghiêm trọng. Chúng tôi thiết kế kiến trúc với khả năng sẵn sàng cao, đảm bảo phần mềm hoạt động bền bỉ và ổn định ngay cả trong những thời điểm cao điểm."
+      },
+      {
+        "num": "4",
+        "title": "Đồng nhất dữ liệu toàn hệ thống",
+        "desc": "Winterfrost giúp bạn khắc phục tình trạng dữ liệu không đồng nhất giữa các bộ phận. Tất cả thông tin đều được kết nối và đồng bộ, giúp ban lãnh đạo có cái nhìn chính xác và kịp thời về tình hình công ty."
+      },
+      {
+        "num": "5",
+        "title": "Bảo mật cấp doanh nghiệp",
+        "desc": "Chúng tôi bảo vệ tài sản số của bạn bằng những tiêu chuẩn an toàn nhất, từ việc mã hóa dữ liệu đến việc phân quyền truy cập chi tiết theo vai trò. Mọi lớp bảo mật đều được thiết lập để bảo vệ khỏi các mối nguy từ bên ngoài cũng như bên trong."
+      },
+      {
+        "num": "6",
+        "title": "Khả năng mở rộng linh hoạt",
+        "desc": "Phần mềm của chúng tôi được thiết kế để tăng trưởng cùng với doanh nghiệp. Bạn có thể dễ dàng thêm chức năng mới hoặc tăng số lượng người dùng mà không cần phải thay đổi cấu trúc chính của hệ thống."
+      },
+      {
+        "num": "7",
+        "title": "Quy trình làm việc minh bạch",
+        "desc": "Bạn sẽ luôn biết dự án đang ở đâu trong quá trình triển khai. Chúng tôi duy trì sự liên lạc liên tục, báo cáo tiến độ thực tế và luôn sẵn sàng điều chỉnh giải pháp để đáp ứng tốt nhất nhu cầu của bạn."
+      },
+      {
+        "num": "8",
+        "title": "Cam kết đồng hành dài hạn",
+        "desc": "Winterfrost không chỉ bàn giao và rời đi. Chúng tôi cam kết hỗ trợ kỹ thuật, bảo trì định kỳ và tư vấn nâng cấp , để phần mềm luôn là nền tảng vững chắc cho quá trình phát triển lâu dài của tổ chức."
+      },
+      {
+        "num": "9",
+        "title": "Đội ngũ kỹ sư trách nhiệm",
+        "desc": "Bạn sẽ làm việc với những người thực sự, có hiểu biết về kỹ thuật và tận tâm với sản phẩm. Chúng tôi không chỉ giải quyết các vấn đề kỹ thuật, mà còn chia sẻ những lo lắng của bạn trong suốt quá trình chuyển đổi số."
+      }
+    ]
+  },
+  "ctaBanner": {
+    "badge": "Liên hệ ngay!",
+    "headline": "Chuẩn hóa quy trình vận hành doanh nghiệp ngay!",
+    "description": "Sẵn sàng chuyển đổi các quy trình thủ công và dữ liệu rời rạc sang hệ thống quản trị tập trung. Hãy để Winterfrost giúp bạn xây dựng nền tảng ERP/CRM tùy chỉnh, đảm bảo tính đồng bộ dữ liệu tuyệt đối và quyền sở hữu mã nguồn vĩnh viễn.",
+    "ctaLabel": "Nhận tư vấn giải pháp ngay",
+    "ctaHref": "/lien-he",
+    "image": "/images/people/cta/winterfrost/chuyen-vien-nam-tre.png"
+  },
+  "counter": {
+    "badgeText": "Thành tựu của chúng tôi",
+    "items": [
+      {
+        "index": "/01",
+        "value": "10+",
+        "desc": "Năm kinh nghiệm"
+      },
+      {
+        "index": "/02",
+        "value": "250+",
+        "desc": "Khách hàng"
+      },
+      {
+        "index": "/03",
+        "value": "15+",
+        "desc": "Quốc gia phục vụ"
+      },
+      {
+        "index": "/04",
+        "value": "98%",
+        "desc": "Sự hài lòng của khách hàng"
+      }
+    ]
+  },
+  "industries": {
+    "label": "Các lĩnh vực nổi bật",
+    "headlineLight": "Các lĩnh vực Winterfrost",
+    "headlineDark": "đang triển khai giải pháp phần mềm",
+    "items": [
+      {
+        "slug": "thuong-mai-dien-tu",
+        "title": "Thương mại điện tử",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/eComerce-Industries-Icon.png"
+      },
+      {
+        "slug": "cong-nghe-tai-chinh",
+        "title": "Công nghệ tài chính",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Fintech-Industries-Icon.png"
+      },
+      {
+        "slug": "y-te",
+        "title": "Y tế",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Healthcare-Industries-Icon.png"
+      },
+      {
+        "slug": "tai-chinh-doanh-nghiep",
+        "title": "Tài chính doanh nghiệp",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Expert-Financial-Industries-Icon.png"
+      },
+      {
+        "slug": "phan-mem-doanh-nghiep",
+        "title": "Phần mềm doanh nghiệp",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Business-Industries-Icon.png"
+      },
+      {
+        "slug": "ban-le",
+        "title": "Bán lẻ",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Retail-Industries-Icon.png"
+      },
+      {
+        "slug": "bat-dong-san",
+        "title": "Bất động sản",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Real-Estate-Industries-Icon.png"
+      },
+      {
+        "slug": "van-tai-va-logistics",
+        "title": "Vận tải và Logistics",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Logistics-Industries-Icon.png"
+      },
+      {
+        "slug": "giao-duc",
+        "title": "Giáo dục",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Education-Industries-Icon.png"
+      }
+    ]
+  },
+  "price": {
+    "label": "",
+    "headlineLight": "Chi phí phát triển",
+    "headlineDark": "phần mềm doanh nghiệp",
+    "description": "Winterfrost triển khai theo phạm vi công việc và lộ trình bàn giao cố định, không phát sinh phí theo giờ. Mọi gói dịch vụ đều bao gồm NDA, quản lý dự án riêng, hồ sơ kỹ thuật đầy đủ và quyền sở hữu 100% mã nguồn.",
+    "packages": [
+      {
+        "name": "Gói Cơ Bản",
+        "price": "60.000.000",
+        "currency": "VNĐ",
+        "period": "/ dự án",
+        "description": "Phát triển nhanh các module cốt lõi để hình thành một sản phẩm khả thi (MVP) ổn định, giúp kiểm chứng quy trình nghiệp vụ thực tế.",
+        "features": [
+          "Xây dựng các module nghiệp vụ chính của hệ thống.",
+          "Kiến trúc Backend dạng đơn khối.",
+          "Thiết lập quản lý và phân quyền người dùng tiêu chuẩn.",
+          "Tích hợp các cổng kết nối API cơ bản.",
+          "Cấu hình hạ tầng điện toán đám mây cơ bản."
+        ],
+        "ctaLabel": "Bắt đầu",
+        "ctaHref": "/lien-he",
+        "highlight": false,
+        "labelText": "Gói Cơ Bản"
+      },
+      {
+        "name": "Giải pháp tùy chỉnh",
+        "price": "Linh hoạt theo yêu cầu thực tế",
+        "currency": "",
+        "period": "",
+        "description": "Xây dựng nền tảng phần mềm riêng biệt, tập trung vào việc tự động hóa các quy trình vận hành phức tạp của doanh nghiệp.",
+        "features": [
+          "Tự động hóa các luồng công việc nâng cao.",
+          "Thiết kế riêng kiến trúc Database và Backend theo đặc thù dữ liệu.",
+          "Tích hợp với các hệ thống bên thứ ba phức tạp.",
+          "Đồng bộ hóa dữ liệu theo thời gian thực giữa các nền tảng.",
+          "Xây dựng hệ thống báo cáo và bảng điều khiển phân tích.",
+          "Kiểm định an ninh và tuân thủ các tiêu chuẩn kỹ thuật.",
+          "Đội ngũ hỗ trợ kỹ thuật chuyên trách cho dự án."
+        ],
+        "ctaLabel": "Bắt đầu",
+        "ctaHref": "/lien-he",
+        "highlight": true,
+        "labelText": "Gói Chuyên Nghiệp"
+      },
+      {
+        "name": "Gói Nâng Cao",
+        "price": "120.000.000",
+        "currency": "VNĐ",
+        "period": "/ dự án",
+        "description": "Tăng cường năng lực kỹ thuật của doanh nghiệp bằng cách tích hợp đội ngũ kỹ sư cấp cao của Winterfrost trực tiếp vào quy trình làm việc của bạn.",
+        "features": [
+          "Đội ngũ kỹ sư CNTT cấp cao trực tiếp triển khai.",
+          "Cơ chế làm việc và trao đổi trực tiếp giữa hai bên.",
+          "Bàn giao sản phẩm định kỳ theo phương pháp Agile.",
+          "Khả năng thay đổi quy mô nhân sự linh hoạt theo tiến độ.",
+          "Sở hữu hoàn toàn mã nguồn và quyền sở hữu trí tuệ.",
+          "Kiểm soát tuyệt đối mọi nền tảng công nghệ được sử dụng."
+        ],
+        "ctaLabel": "Bắt đầu",
+        "ctaHref": "/lien-he",
+        "highlight": false,
+        "labelText": "Gói Nâng Cao"
+      }
+    ]
+  },
+  "techStack": {
+    "headlineLight": "Các công nghệ",
+    "headlineDark": "phát triển phần mềm doanh nghiệp",
+    "filters": [
+      "Tất cả",
+      "Giao diện",
+      "Hệ thống",
+      "Cơ sở dữ liệu",
+      "Vận hành",
+      "Quản lý"
+    ],
+    "items": [
+      {
+        "name": "React / Next.js",
+        "category": ""
+      },
+      {
+        "name": "Angular",
+        "category": ""
+      },
+      {
+        "name": "Vue.js",
+        "category": ""
+      },
+      {
+        "name": "Figma",
+        "category": ""
+      },
+      {
+        "name": "Adobe XD",
+        "category": ""
+      },
+      {
+        "name": "Sketch",
+        "category": ""
+      },
+      {
+        "name": "Node.js",
+        "category": ""
+      },
+      {
+        "name": "Laravel",
+        "category": ""
+      },
+      {
+        "name": "WordPress / PHP",
+        "category": ""
+      },
+      {
+        "name": ".NET / ASP.NET",
+        "category": ""
+      },
+      {
+        "name": "MySQL",
+        "category": ""
+      },
+      {
+        "name": "PostgreSQL",
+        "category": ""
+      },
+      {
+        "name": "MongoDB",
+        "category": ""
+      },
+      {
+        "name": "Redis",
+        "category": ""
+      },
+      {
+        "name": "Docker",
+        "category": ""
+      },
+      {
+        "name": "GitHub",
+        "category": ""
+      },
+      {
+        "name": "GitLab",
+        "category": ""
+      },
+      {
+        "name": "Bitbucket",
+        "category": ""
+      },
+      {
+        "name": "GitHub Actions",
+        "category": ""
+      },
+      {
+        "name": "CI/CD",
+        "category": ""
+      },
+      {
+        "name": "AWS",
+        "category": ""
+      },
+      {
+        "name": "Deploy Server",
+        "category": ""
+      },
+      {
+        "name": "Jira",
+        "category": ""
+      }
+    ]
+  },
+  "comprehensiveServices": {
+    "headlineLight": "Nền tảng công nghệ",
+    "headlineDark": "và công cụ thực thi",
+    "items": [
+      {
+        "slug": "phat-trien-ai",
+        "title": "Phát triển AI",
+        "desc": "Lập trình các thuật toán máy học để xử lý dữ liệu lớn, giúp tự động hóa việc phân loại thông tin và đưa ra các dự báo chính xác cho hoạt động kinh doanh.",
+        "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Dich-vu-phat-trien-AI-HomeNest-Viet-Nam.jpg",
+        "href": "/dich-vu/phat-trien-ai"
+      },
+      {
+        "slug": "phat-trien-devops",
+        "title": "Dịch vụ phát triển DevOps",
+        "desc": "Thiết lập hệ thống tự động hóa việc cập nhật phần mềm và quản lý máy chủ trên nền tảng đám mây. Dịch vụ này giúp hệ thống của bạn dễ dàng thay đổi quy mô khi lượng người dùng tăng cao mà vẫn kiểm soát tốt chi phí hạ tầng.",
+        "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Dich-vu-phat-trien-DevOps-HomeNest-Viet-Nam.jpg",
+        "href": "/dich-vu/phat-trien-devops"
+      },
+      {
+        "slug": "van-hanh-va-bao-tri",
+        "title": "Dịch vụ vận hành & bảo trì",
+        "desc": "Cung cấp đội ngũ giám sát hệ thống 24/7, thực hiện cập nhật các bản vá lỗi bảo mật và kiểm tra tính tương thích định kỳ. Chúng tôi cam kết đồng hành để xử lý kịp thời các vấn đề kỹ thuật, giữ cho phần mềm luôn vận hành liên tục và an toàn.",
+        "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Dich-vu-van-hanh-va-bao-tri-HomeNest-Viet-Nam.jpg",
+        "href": "/dich-vu/van-hanh-va-bao-tri"
+      }
+    ]
+  },
+  "faq": {
+    "label": "Các câu hỏi thường gặp",
+    "headlineParts": [
+      "Giải Đáp",
+      "Mọi",
+      "Thắc Mắc"
+    ],
+    "description": "Tổng hợp các câu hỏi về cách chúng tôi tiếp cận hệ thống cũ, cam kết về quyền sở hữu mã nguồn và phương thức tích hợp dữ liệu cho doanh nghiệp.",
+    "items": [
+      {
+        "q": "Winterfrost có thể làm việc trên các hệ thống phần mềm cũ không?",
+        "a": "Có. Chúng tôi thực hiện đánh giá cấu trúc mã nguồn và hạ tầng hiện tại của doanh nghiệp để đưa ra lộ trình nâng cấp hoặc viết thêm các module tích hợp. Mục tiêu là cải thiện hiệu suất hệ thống mà không làm gián đoạn các quy trình vận hành đang diễn ra."
+      },
+      {
+        "q": "Doanh nghiệp có sở hữu hoàn toàn mã nguồn sau khi dự án kết thúc không?",
+        "a": "Doanh nghiệp sẽ sở hữu 100% mã nguồn và quyền sở hữu trí tuệ ngay sau khi dự án được bàn giao và tất toán. Winterfrost cung cấp đầy đủ tài liệu kỹ thuật để đội ngũ của doanh nghiệp có thể chủ động quản lý hoặc phát triển thêm về sau."
+      },
+      {
+        "q": "Làm thế nào để phần mềm mới kết nối được với các công cụ ERP, CRM hiện có?",
+        "a": "Chúng tôi sử dụng các cổng kết nối API hoặc xây dựng các lớp tích hợp dữ liệu trung gian. Kỹ thuật viên sẽ kiểm tra cấu trúc dữ liệu của các nền tảng hiện có để đảm bảo thông tin được đồng bộ chính xác và tự động giữa các hệ thống."
+      },
+      {
+        "q": "Chi phí dự án được tính toán dựa trên cơ sở nào?",
+        "a": "Chi phí được xác định dựa trên phạm vi công việc và các cột mốc bàn giao cụ thể. Chúng tôi không thu phí theo giờ để giúp doanh nghiệp dễ dàng kiểm soát ngân sách và đảm bảo tiến độ hoàn thành dự án đúng cam kết."
+      },
+      {
+        "q": "Winterfrost bảo mật thông tin dự án như thế nào?",
+        "a": "Chúng tôi ký kết thỏa thuận bảo mật NDA ngay từ giai đoạn thảo luận ban đầu. Trong quá trình triển khai, mã nguồn được quản lý trên các máy chủ bảo mật và dữ liệu thực nghiệm được mã hóa để ngăn chặn mọi hành vi truy cập trái phép."
+      },
+      {
+        "q": "Sau khi bàn giao, tôi có được hỗ trợ kỹ thuật không?",
+        "a": "Có. Winterfrost cung cấp các gói bảo trì và hỗ trợ vận hành sau khi dự án đi vào hoạt động thực tế. Chúng tôi chịu trách nhiệm xử lý các lỗi phát sinh, cập nhật bảo mật định kỳ và tư vấn các phương án nâng cấp khi quy mô doanh nghiệp thay đổi."
+      }
+    ]
+  }
+}

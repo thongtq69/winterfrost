@@ -1,0 +1,2263 @@
+{
+  "Navigation": {
+    "home": "Trang chủ",
+    "about": "Về chúng tôi",
+    "services": "Dịch vụ",
+    "case_studies": "Case studies",
+    "industries": "Lĩnh vực",
+    "technologies": "Công nghệ",
+    "wiki": "Wiki",
+    "careers": "Tuyển dụng",
+    "contact": "Liên hệ",
+    "projects": "Dự án"
+  },
+  "LanguageSwitcher": {
+    "label": "Chọn ngôn ngữ",
+    "changing": "Đang chuyển ngôn ngữ"
+  },
+  "ServiceDetail": {
+    "relatedProjects": "Các dự án liên quan",
+    "featuredProjects": "Các dự án tiêu biểu",
+    "services": "Dịch vụ",
+    "relatedServices": "Dịch vụ liên quan",
+    "viewMore": "Xem thêm"
+  },
+  "Header": {
+    "mainNavigation": "Điều hướng chính",
+    "homeAria": "Winterfrost — Trang chủ",
+    "contact": "Liên hệ",
+    "search": "Tìm kiếm",
+    "searchPlaceholder": "Tìm kiếm...",
+    "closeSearch": "Đóng tìm kiếm",
+    "openMenu": "Mở menu",
+    "closeMenu": "Đóng menu",
+    "toggleServices": "Mở hoặc đóng danh sách dịch vụ",
+    "servicesMenu": "Dịch vụ",
+    "softwareDevelopment": "Phát triển phần mềm",
+    "technologyInfrastructure": "Hạ tầng công nghệ",
+    "bannerAlt": "Giải pháp phần mềm và thiết kế website chuyên nghiệp - Winterfrost"
+  },
+  "Services": {
+    "websiteDesign": {
+      "title": "Thiết kế website",
+      "description": "Thiết kế website tốc độ cao, tối ưu trải nghiệm người dùng giúp tăng tỷ lệ chuyển đổi."
+    },
+    "aiDevelopment": {
+      "title": "Phát triển AI",
+      "description": "Phát triển AI giúp tự động hóa quy trình và tối ưu hóa dữ liệu doanh nghiệp."
+    },
+    "saasDevelopment": {
+      "title": "Phát triển ứng dụng SaaS",
+      "description": "Thiết kế nền tảng Cloud-native linh hoạt, dễ dàng mở rộng và phục vụ lượng lớn người dùng."
+    },
+    "appDesign": {
+      "title": "Thiết kế App",
+      "description": "Phát triển ứng dụng iOS và Android hiệu năng cao, đảm bảo vận hành mượt mà và ổn định."
+    },
+    "maintenance": {
+      "title": "Vận hành và bảo trì",
+      "description": "Vận hành và bảo trì phần mềm giúp hệ thống luôn hoạt động an toàn và ổn định 24/7."
+    },
+    "enterpriseSoftware": {
+      "title": "Phát triển phần mềm doanh nghiệp",
+      "description": "Tối ưu quy trình vận hành quy mô lớn bằng hệ thống quản trị tập trung, an toàn và bảo mật."
+    },
+    "mvpDevelopment": {
+      "title": "Phát triển phần mềm MVP",
+      "description": "Phát triển sản phẩm nhanh chóng để kiểm chứng ý tưởng và tối ưu ngân sách đầu tư ban đầu."
+    },
+    "itServices": {
+      "title": "Dịch vụ IT",
+      "description": "Cung cấp giải pháp IT toàn diện, quản trị hệ thống và hỗ trợ kỹ thuật chuyên nghiệp."
+    },
+    "digitalTransformation": {
+      "title": "Tư vấn chuyển đổi số",
+      "description": "Tư vấn lộ trình chuyển đổi số, tối ưu quy trình và ứng dụng công nghệ hiện đại."
+    },
+    "devops": {
+      "title": "Phát triển DevOps",
+      "description": "Tối ưu quy trình phát triển và vận hành nhằm rút ngắn thời gian ra mắt, tăng tính ổn định cho hệ thống."
+    },
+    "iot": {
+      "title": "Phát triển IoT",
+      "description": "Kết nối thiết bị và thu thập dữ liệu thông minh giúp doanh nghiệp khai phá những thông tin giá trị từ thực tế."
+    },
+    "blockchain": {
+      "title": "Phát triển Blockchain",
+      "description": "Xây dựng ứng dụng phi tập trung an toàn, giúp bảo mật dữ liệu trên nền tảng Blockchain."
+    }
+  },
+  "Footer": {
+    "menu": "Menu",
+    "services": "Dịch vụ",
+    "contact": "Liên hệ",
+    "headOffice": "Văn phòng chính",
+    "address": "Vinhomes Grand Park, Quận 9, Thành phố Hồ Chí Minh, Việt Nam.",
+    "socialMedia": "Mạng xã hội",
+    "privacyPolicy": "Chính sách bảo mật",
+    "designedBy": "Thiết kế bởi Winterfrost",
+    "navigationLabel": "Điều hướng chân trang"
+  },
+  "FooterCTA": {
+    "preTitle": "Kết nối với chúng tôi",
+    "headingPre": "Khởi Tạo",
+    "headingHighlight": "Dự Án",
+    "headingMid": "Của Bạn",
+    "headingPost": "Ngay Hôm Nay",
+    "formTitle": "Liên hệ hợp tác",
+    "nameLabel": "Họ và tên*",
+    "namePlaceholder": "Họ và tên của bạn",
+    "emailLabel": "Email*",
+    "phoneLabel": "Số điện thoại*",
+    "messageLabel": "Lời nhắn",
+    "messagePlaceholder": "Tôi muốn thiết kế website...",
+    "directEmail": "Hoặc gửi mail trực tiếp tới:",
+    "copied": "Đã chép",
+    "submit": "Gửi yêu cầu",
+    "featureFastResponse": "Phản hồi nhanh chóng trong 24h.",
+    "featureExpert": "Làm việc trực tiếp với chuyên gia.",
+    "featureStrategy": "Tư vấn chiến lược rõ ràng.",
+    "directContact": "Liên hệ trực tiếp",
+    "consult": "Nhận tư vấn",
+    "imageAlt": "Liên hệ Winterfrost - Giải pháp công nghệ hàng đầu Việt Nam"
+  },
+  "FloatingButtons": {
+    "chatLabel": "Chat với Winterfrost",
+    "closeChat": "Đóng chat bot",
+    "greeting": "Winterfrost kính chào Anh/Chị. Em là trợ lý ảo của Winterfrost, sẵn sàng hỗ trợ thông tin về thiết kế Website, thiết kế App, phát triển AI và các dịch vụ công nghệ.",
+    "question": "Anh/Chị đang cần em hỗ trợ thông tin gì ạ?",
+    "messagePlaceholder": "Nhập tin nhắn...",
+    "messageLabel": "Nhập tin nhắn",
+    "emoji": "Biểu tượng cảm xúc",
+    "send": "Gửi tin nhắn",
+    "closeGreeting": "Đóng lời chào",
+    "preview": "Chào bạn, chúng tôi có thể giúp gì được cho bạn?",
+    "openChat": "Mở chat bot",
+    "whatsapp": "Chat trên WhatsApp",
+    "zalo": "Liên hệ tư vấn dự án qua Zalo - Winterfrost",
+    "call": "Gọi cho Winterfrost",
+    "backToTop": "Quay lại đầu trang"
+  },
+  "Metadata": {
+    "title": "Winterfrost — Thiết kế Website, Mobile App, AI-driven",
+    "description": "Winterfrost chuyên phát triển Website, Mobile App và giải pháp phần mềm AI-driven, đồng hành cùng doanh nghiệp trong hành trình chuyển đổi số và tối ưu vận hành.",
+    "openGraphDescription": "Winterfrost chuyên phát triển Website, Mobile App và giải pháp phần mềm AI-driven."
+  },
+  "Team": {
+    "label": "Đội ngũ của chúng tôi",
+    "headingPre": "Đội ngũ",
+    "headingHighlight": "phát triển",
+    "headingPost": "giải pháp doanh nghiệp",
+    "experience": "10+ năm kinh nghiệm",
+    "secureOwnership": "Chi phí cạnh tranh, bảo mật quyền sở hữu",
+    "locations": "Có trụ sở ở các thành phố lớn tại Việt Nam",
+    "process": "Quy trình chuyên nghiệp theo chuẩn quốc tế",
+    "technology": "Nền tảng công nghệ vững chắc"
+  },
+  "Home": {
+    "hero": {
+      "title": "Winterfrost",
+      "description": "Với kinh nghiệm hơn 10 năm chuyên sâu trong các lĩnh vực phát triển trang web, ứng dụng di động, phần mềm doanh nghiệp và trí tuệ nhân tạo, chúng tôi giúp bạn tối ưu hóa quy trình vận hành. Winterfrost xây dựng nền tảng công nghệ vững chắc để doanh nghiệp của bạn sẵn sàng bứt phá trong kỷ nguyên số.",
+      "ctaPrimary": {
+        "label": "Bắt đầu ngay",
+        "href": "tel:+84971450454"
+      },
+      "ctaSecondary": {
+        "label": "Xem chi tiết dịch vụ",
+        "href": "/dich-vu"
+      },
+      "imageMain": "/images/brand/winterfrost/hero/winterfrost-energy-emblem-transparent.png?v=wf-energy-20260727",
+      "imageColumn": "/images/brand/winterfrost/hero/winterfrost-pillar.png",
+      "logo": "/images/brand/winterfrost/winterfrost-wordmark.png",
+      "video": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Video-banner-HomeNest-Viet-Nam.mp4",
+      "detailCtaPrimary": {
+        "label": "Kết nối ngay",
+        "href": "tel:+84971450454"
+      },
+      "detailCtaSecondary": {
+        "label": "Xem chi tiết dịch vụ",
+        "href": "/dich-vu"
+      },
+      "backLabel": "Quay về",
+      "prevLabel": "Trước",
+      "nextLabel": "Tiếp",
+      "pillars": [
+        {
+          "key": "web",
+          "label": "Thiết kế Website",
+          "title": "Thiết kế Website",
+          "desc": "Winterfrost cung cấp giải pháp xây dựng trang web hoạt động mượt mà trên mọi thiết bị điện tử. Chúng tôi thực hiện từ các trang giới thiệu doanh nghiệp đơn giản đến những hệ thống bán hàng trực tuyến phức tạp với cam kết bảo mật dữ liệu cao và công cụ quản trị dễ sử dụng. Giải pháp của chúng tôi giúp tăng cường hiệu quả kinh doanh và hỗ trợ đơn vị của bạn dẫn đầu trong môi trường số.",
+          "href": "/dich-vu/thiet-ke-website"
+        },
+        {
+          "key": "app",
+          "label": "Thiết kế App",
+          "title": "Thiết kế App",
+          "desc": "Đội ngũ chuyên gia của Winterfrost có nhiều năm kinh nghiệm trong việc xây dựng các ứng dụng di động có hiệu suất cao và hoạt động ổn định. Chúng tôi tập trung vào việc tối ưu hóa trải nghiệm người dùng thông qua những giao diện được thiết kế riêng biệt cho từng doanh nghiệp. Các ứng dụng này giúp đơn vị của bạn tiếp cận khách hàng hiệu quả trên nền tảng số đồng thời cải thiện đáng kể các quy trình vận hành nội bộ.",
+          "href": "/dich-vu/thiet-ke-app"
+        },
+        {
+          "key": "software",
+          "label": "Thiết kế phần mềm",
+          "title": "Thiết kế phần mềm",
+          "desc": "Winterfrost xây dựng các giải pháp phần mềm chuyên dụng nhằm tối ưu hóa quy trình quản lý và vận hành cho doanh nghiệp của bạn. Chúng tôi tập trung vào kiến trúc hệ thống hiện đại có khả năng kết nối đa nền tảng và dễ dàng nâng cấp khi quy mô kinh doanh của bạn tăng trưởng. Các sản phẩm phần mềm của chúng tôi luôn đảm bảo tính ổn định lâu dài và khả năng thích ứng cao với những thay đổi trong môi trường kinh doanh thực tế.",
+          "href": "/dich-vu/phat-trien-phan-mem-doanh-nghiep"
+        },
+        {
+          "key": "ai",
+          "label": "Phát triển AI",
+          "title": "Phát triển AI",
+          "desc": "Winterfrost hỗ trợ các doanh nghiệp ứng dụng những giải pháp trí tuệ nhân tạo chuyên sâu vào hoạt động thực tế. Chúng tôi cung cấp các công cụ hiện đại từ việc tự động hóa các quy trình làm việc đến hệ thống phân tích dữ liệu thông minh nhằm giúp đơn vị của bạn tối ưu hóa toàn bộ hiệu suất vận hành. Những giải pháp này cho phép doanh nghiệp đưa ra các quyết định chính xác hơn dựa trên dữ liệu thực tế và giảm thiểu các sai sót trong quản lý.",
+          "href": "/dich-vu/phat-trien-ai"
+        },
+        {
+          "key": "maintenance",
+          "label": "Vận hành và bảo trì",
+          "title": "Vận hành và bảo trì",
+          "desc": "Winterfrost cung cấp giải pháp vận hành và bảo trì hệ thống toàn diện nhằm đảm bảo các trang web, ứng dụng di động cùng phần mềm doanh nghiệp của bạn luôn hoạt động ổn định nhất. Chúng tôi thực hiện giám sát kỹ thuật liên tục để duy trì tốc độ xử lý tối ưu và bảo mật thông tin tuyệt đối cho toàn bộ hệ thống. Dịch vụ của chúng tôi giúp các nền tảng của bạn luôn tương thích với những thay đổi công nghệ mới nhất và ngăn chặn kịp thời các sự cố kỹ thuật để đảm bảo kinh doanh không bị gián đoạn.",
+          "href": "/dich-vu/van-hanh-va-bao-tri"
+        }
+      ]
+    },
+    "about": {
+      "label": "Về Winterfrost",
+      "headline": "Đơn vị phát triển website, mobile app và giải pháp phần mềm AI-driven, đồng hành cùng doanh nghiệp Việt trong hành trình chuyển đổi số",
+      "paragraphs": [
+        "Winterfrost là đơn vị chuyên cung cấp các giải pháp chuyển đổi số toàn diện. Mục tiêu của chúng tôi là giúp doanh nghiệp tối ưu hiệu suất vận hành và tăng trưởng mạnh mẽ trên thị trường số.",
+        "Chúng tôi luôn đặt bản thân vào vị trí khách hàng, từ đó thấu hiểu nhu cầu và đưa ra các giải pháp hiệu quả, giúp doanh nghiệp giải quyết các bài toán vận hành. Điểm khác biệt của Winterfrost là sự kết hợp hoàn hảo giữa năng lực và sự am hiểu về trải nghiệm của người dùng. Với chúng tôi, mỗi sản phẩm không chỉ vận hành trơn tru mà còn đem lại giá trị thực tế cho doanh nghiệp.",
+        "Đừng để doanh nghiệp tụt hậu trong kỷ nguyên số hiện nay. Winterfrost cam kết mang đến chất lượng dịch vụ và công nghệ vượt trội, sẵn sàng cùng doanh nghiệp biến thách thức vận hành thành giải pháp hiệu quả."
+      ],
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Thi-truong-HomeNest-Viet-Nam-phuc-vu.jpg"
+    },
+    "companyOverview": {
+      "label": "Hành trình kiến tạo",
+      "headline": [
+        "Kiến Tạo",
+        "Tương Lai",
+        "Doanh Nghiệp"
+      ],
+      "founder": {
+        "name": "Lê Khải Minh",
+        "role": "CO-Founder",
+        "quote": "Thành công của khách hàng chính là thước đo duy nhất cho chất lượng dịch vụ và uy tín của chúng tôi.",
+        "image": "/images/people/founder/winterfrost/le-khai-minh.webp"
+      },
+      "vision": {
+        "title": "Tầm nhìn & Sứ mệnh",
+        "text": "Trở thành đối tác chiến lược hàng đầu, dẫn dắt các doanh nghiệp vượt qua thách thức của kỷ nguyên số. Chúng tôi cam kết mang đến những công nghệ đột phá nhằm tối ưu hóa vận hành, giúp khách hàng bứt phá giới hạn bằng các hệ sinh thái phần mềm toàn diện, hướng tới sự phát triển bền vững và lâu dài.",
+        "ctaLabel": "Tìm hiểu về chúng tôi",
+        "ctaHref": "/ve-chung-toi"
+      },
+      "values": {
+        "title": "Giá trị cốt lõi",
+        "items": [
+          "Dịch vụ chuyên nghiệp",
+          "Sáng tạo không ngừng",
+          "Vận hành linh hoạt",
+          "Thấu hiểu khách hàng",
+          "Tận tâm phục vụ"
+        ]
+      },
+      "stats": [
+        {
+          "label": "Năm kinh nghiệm",
+          "value": "10",
+          "suffix": "+",
+          "desc": "Kinh nghiệm thực chiến, kiến tạo giá trị thực."
+        },
+        {
+          "label": "Khách hàng tin tưởng",
+          "value": "250",
+          "suffix": "+",
+          "desc": "Đối tác tin cậy của hàng trăm doanh nghiệp.",
+          "highlight": true,
+          "avatars": [
+            "/images/people/khach-hang/nguyen-quoc-viet.webp",
+            "/images/people/khach-hang/tran-minh-chau.webp",
+            "/images/people/khach-hang/le-duc-anh.webp",
+            "/images/people/khach-hang/vo-thanh-huong.webp"
+          ],
+          "avatarBadgeText": "250+",
+          "starsImage": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/five-stars-rating.svg",
+          "starsLabel": "Khách hàng tin tưởng"
+        },
+        {
+          "label": "Quốc gia",
+          "value": "15",
+          "suffix": "+",
+          "desc": "Phục vụ mạng lưới đối tác trên toàn cầu."
+        },
+        {
+          "label": "Hài lòng từ khách hàng",
+          "value": "98",
+          "suffix": "%",
+          "desc": "Chất lượng dịch vụ vượt trên mọi kỳ vọng."
+        }
+      ],
+      "copyright": "Copyright © 2026 Winterfrost. All rights reserved."
+    },
+    "servicesSection": {
+      "label": "Dịch vụ",
+      "headline": [
+        "Giải Pháp",
+        "Tăng Trưởng",
+        "Doanh Nghiệp"
+      ],
+      "ctaLabel": "Xem tất cả",
+      "ctaHref": "/dich-vu",
+      "tabs": [
+        {
+          "title": "Phát triển phần mềm",
+          "items": [
+            {
+              "num": "01",
+              "title": "Thiết kế website",
+              "desc": "Thiết kế website tốc độ cao, tối ưu trải nghiệm người dùng giúp tăng tỷ lệ chuyển đổi.",
+              "href": "/dich-vu/thiet-ke-website",
+              "hoverImg": "/images/services/winterfrost/web-application-development.webp"
+            },
+            {
+              "num": "02",
+              "title": "Phát triển AI",
+              "desc": "Phát triển AI giúp tự động hóa quy trình và tối ưu hóa dữ liệu doanh nghiệp.",
+              "href": "/dich-vu/phat-trien-ai",
+              "hoverImg": "/images/services/winterfrost/ai-development.webp"
+            },
+            {
+              "num": "03",
+              "title": "Phát triển ứng dụng SaaS",
+              "desc": "Thiết kế nền tảng Cloud-native linh hoạt, dễ dàng mở rộng và phục vụ lượng lớn người dùng.",
+              "href": "/dich-vu/phat-trien-ung-dung-saas",
+              "hoverImg": "/images/services/winterfrost/saas-application-development.webp"
+            },
+            {
+              "num": "04",
+              "title": "Thiết kế App",
+              "desc": "Phát triển ứng dụng IOS và Android hiệu năng cao, đảm bảo vận hành mượt mà và ổn định.",
+              "href": "/dich-vu/thiet-ke-app",
+              "hoverImg": "/images/services/winterfrost/mobile-app-development.webp"
+            },
+            {
+              "num": "05",
+              "title": "Vận hành và bảo trì",
+              "desc": "Vận hành và bảo trì phần mềm giúp hệ thống luôn vận hành an toàn và ổn định 24/7.",
+              "href": "/dich-vu/van-hanh-va-bao-tri",
+              "hoverImg": "/images/services/winterfrost/software-maintenance-and-support.webp"
+            },
+            {
+              "num": "06",
+              "title": "Phát triển phần mềm doanh nghiệp",
+              "desc": "Tối ưu quy trình vận hành quy mô lớn bằng hệ thống quản trị tập trung, an toàn và bảo mật.",
+              "href": "/dich-vu/phat-trien-phan-mem-doanh-nghiep",
+              "hoverImg": "/images/services/winterfrost/enterprise-software-development.webp"
+            },
+            {
+              "num": "07",
+              "title": "Phát triển phần mềm MVP",
+              "desc": "Phát triển sản phẩm nhanh chóng để kiểm chứng ý tưởng và tối ưu ngân sách đầu tư ban đầu.",
+              "href": "/dich-vu/phat-trien-phan-mem-mvp",
+              "hoverImg": "/images/services/winterfrost/mvp-software-development.webp"
+            },
+            {
+              "num": "08",
+              "title": "Dịch vụ IT",
+              "desc": "Cung cấp giải pháp IT toàn diện, quản trị hệ thống và hỗ trợ kỹ thuật chuyên nghiệp.",
+              "href": "/dich-vu/dich-vu-it",
+              "hoverImg": "/images/services/winterfrost/custom-software-solutions.webp"
+            },
+            {
+              "num": "09",
+              "title": "Tư vấn chuyển đổi số",
+              "desc": "Tư vấn lộ trình chuyển đổi số, tối ưu quy trình và ứng dụng công nghệ hiện đại.",
+              "href": "/dich-vu/tu-van-chuyen-doi-so",
+              "hoverImg": "/images/services/winterfrost/generative-ai-integration.webp"
+            }
+          ]
+        },
+        {
+          "title": "Hạ tầng công nghệ",
+          "items": [
+            {
+              "num": "01",
+              "title": "Phát triển DevOps",
+              "desc": "Tối ưu quy trình phát triển và vận hành nhằm rút ngắn thời gian ra mắt, tăng tính ổn định cho hệ thống.",
+              "href": "/dich-vu/phat-trien-devops",
+              "hoverImg": "/images/services/winterfrost/devops-development.webp"
+            },
+            {
+              "num": "02",
+              "title": "Phát triển IoT",
+              "desc": "Kết nối thiết bị và thu thập dữ liệu thông minh giúp doanh nghiệp khai phá những thông tin giá trị từ thực tế.",
+              "href": "/dich-vu/phat-trien-iot",
+              "hoverImg": "/images/services/winterfrost/iot-development.webp"
+            },
+            {
+              "num": "03",
+              "title": "Phát triển Blockchain",
+              "desc": "Xây dựng ứng dụng phi tập trung an toàn, giúp bảo mật dữ liệu tuyệt đối trên nền tảng Blockchain.",
+              "href": "/dich-vu/phat-trien-blockchain",
+              "hoverImg": "/images/services/winterfrost/blockchain-development.webp"
+            }
+          ]
+        }
+      ]
+    },
+    "industries": {
+      "label": "Lĩnh vực",
+      "headline": "Lĩnh vực hoạt động",
+      "items": [
+        {
+          "title": "Tài chính doanh nghiệp",
+          "href": "/linh-vuc/tai-chinh-doanh-nghiep"
+        },
+        {
+          "title": "Giáo dục",
+          "href": "/linh-vuc/giao-duc"
+        },
+        {
+          "title": "Kế toán",
+          "href": "/linh-vuc/ke-toan"
+        },
+        {
+          "title": "Y tế",
+          "href": "/linh-vuc/y-te"
+        },
+        {
+          "title": "Phần mềm doanh nghiệp",
+          "href": "/linh-vuc/phan-mem-doanh-nghiep"
+        },
+        {
+          "title": "Phát triển ứng dụng theo yêu cầu",
+          "href": "/linh-vuc/phat-trien-ung-dung-theo-yeu-cau"
+        },
+        {
+          "title": "Nông nghiệp",
+          "href": "/linh-vuc/nong-nghiep"
+        },
+        {
+          "title": "Kiến trúc & xây dựng",
+          "href": "/linh-vuc/kien-truc-xay-dung"
+        },
+        {
+          "title": "Bán lẻ",
+          "href": "/linh-vuc/ban-le"
+        },
+        {
+          "title": "Bất động sản",
+          "href": "/linh-vuc/bat-dong-san"
+        },
+        {
+          "title": "Chuỗi cung ứng",
+          "href": "/linh-vuc/chuoi-cung-ung"
+        },
+        {
+          "title": "Công nghệ tài chính",
+          "href": "/linh-vuc/cong-nghe-tai-chinh"
+        },
+        {
+          "title": "Dầu khí",
+          "href": "/linh-vuc/dau-khi"
+        },
+        {
+          "title": "Du lịch",
+          "href": "/linh-vuc/du-lich"
+        },
+        {
+          "title": "Ngân hàng",
+          "href": "/linh-vuc/ngan-hang"
+        },
+        {
+          "title": "Thương mại điện tử",
+          "href": "/linh-vuc/thuong-mai-dien-tu"
+        },
+        {
+          "title": "Vận tải và Logistics",
+          "href": "/linh-vuc/van-tai-va-logistics"
+        },
+        {
+          "title": "Phần mềm tiện ích",
+          "href": "/linh-vuc/phan-mem-tien-ich"
+        }
+      ]
+    },
+    "ctaBanner": {
+      "label": "Liên hệ ngay!",
+      "headline": "Bắt đầu hành trình chuyển đổi số cùng Winterfrost",
+      "description": "Hãy cùng chúng tôi xây dựng các giải pháp Website, Mobile App và AI để tối ưu hóa quy trình vận hành, giúp doanh nghiệp của bạn bứt phá và dẫn đầu thị trường.",
+      "ctaLabel": "Nhận tư vấn giải pháp ngay",
+      "ctaHref": "tel:+84971450454"
+    },
+    "caseStudiesSection": {
+      "label": "Dự án",
+      "headline": [
+        "Ý Tưởng",
+        "Sản Phẩm",
+        "Đột Phá Dẫn Đầu"
+      ],
+      "headlineLeftPrefix": "Ý Tưởng",
+      "headlineLeftScript": "Sản Phẩm",
+      "headlineRight": "Đột Phá Dẫn Đầu",
+      "headlineMobile": [
+        "Biến Ý Tưởng Đột Phá Thành",
+        "Sản Phẩm",
+        "Dẫn Đầu"
+      ],
+      "ctaLabel": "Xem tất cả dự án",
+      "ctaHref": "/case-studies",
+      "items": [
+        {
+          "slug": "case-studies",
+          "title": "Case study - Winterfrost",
+          "image": "https://winterfrost.tech/og-image.jpg",
+          "desc": "Khám phá các dự án tiêu biểu và case studies tại Winterfrost. Minh chứng năng lực thiết kế website, app và AI giúp doanh nghiệp tối ưu vận hành hiệu quả."
+        },
+        {
+          "slug": "app-nivora-connect",
+          "title": "Nivora Connect",
+          "image": "/images/projects/nivora-connect/02-messaging.webp?v=wf-gallery-pro-20260726",
+          "desc": "Trao quyền cho cộng đồng người Việt tại Hàn Quốc với Nivora Connect, ứng dụng di động an toàn từ Winterfrost, kết nối di chuyển, nhà ở và việc làm."
+        },
+        {
+          "slug": "website-flexora-packaging",
+          "title": "Flexora Packaging",
+          "image": "/images/projects/website-flexora-packaging/02-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+          "desc": "Khám phá các loại màng và nhựa công nghiệp của Flexora Packaging, được phát triển bởi Winterfrost, trang tối ưu hóa SEO này đảm bảo trải nghiệm B2B chuyên nghiệp."
+        },
+        {
+          "slug": "la-cerise-dalat-villas",
+          "title": "Rovena Travel - Winterfrost Case study",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2025/06/giao-dien-du-an-La-Cerise-Dalat-Villas-Case-Study.jpg",
+          "desc": "Trải nghiệm sự sang trọng cùng Rovena Travel nền tảng mang phong cách Pháp lãng mạn do Winterfrost phát triển với SEO tối ưu và tốc độ tải nhanh."
+        },
+        {
+          "slug": "app-grevia-lawn",
+          "title": "Grevia Lawn - Winterfrost case study",
+          "image": "/images/projects/app-grevia-lawn/02-man-hinh-ung-dung.webp?v=wf-gallery-pro-20260726",
+          "desc": "Nâng tầm dịch vụ cảnh quan với Grevia Lawn, ứng dụng đặt dịch vụ chuyên nghiệp từ Winterfrost, tích hợp đặt lịch thông minh, theo dõi thời gian thực."
+        },
+        {
+          "slug": "website-polyvera",
+          "title": "Polyvera",
+          "image": "/images/projects/website-polyvera/02-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+          "desc": "Công ty TNHH Website Polyvera là nhà sản xuất màng nhựa HDPE và bao bì, phục vụ nhiều ngành công nghiệp với trọng tâm là chất lượng và tính bền vững."
+        },
+        {
+          "slug": "aeromint-cleanroom",
+          "title": "Aeromint Cleanroom - Winterfrost Việt  Case study",
+          "image": "/images/projects/aeromint-cleanroom/02-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+          "desc": "Nâng tầm doanh nghiệp với thiết bị phòng sạch Aeromint Cleanroom và giải pháp SEO chuyên nghiệp từ Winterfrost, tối ưu khả năng tiếp cận thị trường."
+        },
+        {
+          "slug": "website-loomora-rugs",
+          "title": "Loomora Rugs",
+          "image": "/images/projects/website-loomora-rugs/02-man-hinh-website.webp?v=wf-gallery-pro-20260726",
+          "desc": "Khám phá thảm len thủ công cao cấp Loomora Rugs qua showroom số tinh tế từ Winterfrost, chuẩn SEO, tải nhanh, trải nghiệm mượt mà và sang trọng."
+        }
+      ]
+    },
+    "whyChooseUs": {
+      "label": "Vì sao khách hàng chọn chúng tôi?",
+      "headline": [
+        "Tại sao",
+        "+250 Đối Tác",
+        "tin tưởng Winterfrost?"
+      ],
+      "leftCard": {
+        "title": "Giải pháp chiến lược tạo nên giá trị bền vững",
+        "intro": "Winterfrost đảm bảo",
+        "features": [
+          "Chất lượng vượt trội",
+          "Bàn giao đúng tiến độ",
+          "Quy trình minh bạch",
+          "Hỗ trợ sau triển khai"
+        ],
+        "ctaLabel": "Liên Hệ Ngay",
+        "ctaHref": "tel:+84971450454",
+        "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/why-choose-us-icon-5.png"
+      },
+      "cardItem1": {
+        "title": "Tối ưu chi phí",
+        "desc": "Trải nghiệm dịch vụ IT chất lượng quốc tế với mức ngân sách hợp lý nhất.",
+        "innerCardLabel": "Linh hoạt điều chỉnh theo quy mô",
+        "chipImage": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/why-choose-us-icon-4.png",
+        "lightningImage": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/why-choose-us-icon-2.png",
+        "bgImage": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/why-choose-us-icon-3.png"
+      },
+      "cardItem2": {
+        "title": "250+ Đối tác toàn cầu tin chọn",
+        "starIcon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/why-choose-us-icon-1.svg",
+        "score": "4.9",
+        "scoreTotal": "/5.0",
+        "avatars": [
+          "/images/people/doi-tac/bui-minh-duc.webp",
+          "/images/people/doi-tac/nguyen-thao-vy.webp",
+          "/images/people/doi-tac/tran-khanh-phong.webp",
+          "/images/people/doi-tac/le-kien-an.webp",
+          "/images/people/doi-tac/pham-minh-anh.webp",
+          "/images/people/doi-tac/vo-nhat-nam.webp",
+          "/images/people/doi-tac/dang-hoai-thuong.webp",
+          "/images/people/doi-tac/nguyen-tuan-kiet.webp"
+        ],
+        "centerLogo": "/images/brand/winterfrost/winterfrost-wordmark.png"
+      },
+      "cardItem3": {
+        "title": "Công nghệ tiên tiến",
+        "desc": "Ứng dụng các nền tảng và công cụ hiện đại nhất để tối ưu hiệu suất dự án.",
+        "icons": [
+          {
+            "src": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/react-icon.svg",
+            "alt": "React",
+            "dark": true
+          },
+          {
+            "src": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/slack-icon.svg",
+            "alt": "Slack",
+            "dark": false
+          },
+          {
+            "src": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/xd-icon.svg",
+            "alt": "Xd",
+            "dark": true
+          },
+          {
+            "src": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/zapier-icon.svg",
+            "alt": "Zapier",
+            "dark": true
+          },
+          {
+            "src": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/figma-icon.svg",
+            "alt": "Figma",
+            "dark": false
+          },
+          {
+            "src": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/notion-icon.svg",
+            "alt": "Notion",
+            "dark": true
+          },
+          {
+            "src": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/github-icon.svg",
+            "alt": "Github",
+            "dark": false
+          }
+        ]
+      },
+      "cardItem5": {
+        "title": "24/7",
+        "desc": "Hỗ trợ khách hàng",
+        "userMessage": "Tôi cần tư vấn.",
+        "userAvatar": "/images/people/anh-hoi-thoai/tran-hoai-an.webp",
+        "systemMessage": "Winterfrost sẵn sàng hỗ trợ bạn!",
+        "systemLogo": "/images/brand/winterfrost/winterfrost-symbol-transparent.png",
+        "decoration": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/decoration-pattern.png"
+      },
+      "cardItem4": {
+        "title": "Vận hành ổn định & Sẵn sàng đón đầu",
+        "scriptText": "Tương lai",
+        "bgImage": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/campaign-background.png"
+      }
+    },
+    "testimonials": {
+      "label": "Nhận xét của khách hàng",
+      "headline": [
+        "Trải Nghiệm Từ",
+        "Khách Hàng"
+      ],
+      "avatar": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/testimonial-avatar-1.jpg",
+      "items": [
+        {
+          "quote": "Ban đầu anh không kỳ vọng quá nhiều nhưng Winterfrost đã làm anh bất ngờ. Website mới trông chuyên nghiệp hơn rất nhiều và đội ngũ làm việc cùng rất thoải mái, dễ chịu.",
+          "author": "Nguyễn Quốc Việt",
+          "role": "Giám đốc Verdora Property",
+          "avatar": "/images/people/khach-hang/nguyen-quoc-viet.webp"
+        },
+        {
+          "quote": "Nhờ website vững chắc và chuyên nghiệp do Winterfrost xây dựng, việc tiếp cận khách hàng và vận hành công việc kinh doanh online của chúng tôi đã trở nên trơn tru và hiệu quả hơn rất nhiều.",
+          "author": "Trần Minh Châu",
+          "role": "Quản lý Loomora Rugs",
+          "avatar": "/images/people/khach-hang/tran-minh-chau.webp"
+        },
+        {
+          "quote": "Ứng dụng MVP đã được ra mắt đúng tiến độ và hoạt động mượt mà ngay từ ngày đầu. Anh đánh giá cao việc Winterfrost làm việc thực tế, giữ đúng timeline và giao đúng những gì đã cam kết.",
+          "author": "Lê Đức Anh",
+          "role": "Founder",
+          "avatar": "/images/people/khach-hang/le-duc-anh.webp"
+        },
+        {
+          "quote": "Đội ngũ Winterfrost thấu hiểu yêu cầu rất nhanh chóng và bắt tay ngay vào công việc, giúp giảm thiểu tối đa các trao đổi qua lại mất thời gian. Đây chính là điều anh tìm kiếm ở một đối tác phát triển.",
+          "author": "Phạm Hải Long",
+          "role": "Co-founder",
+          "avatar": "/images/people/khach-hang/pham-hai-long.webp"
+        },
+        {
+          "quote": "Từng làm việc với nhiều agency, anh nhận định điểm khác biệt của Winterfrost là họ ưu tiên hỏi về mục tiêu kinh doanh trước khi bàn về các tính năng phần mềm - điều mà theo anh là rất hiếm thấy.",
+          "author": "Võ Thanh Hương",
+          "role": "CMO",
+          "avatar": "/images/people/khach-hang/vo-thanh-huong.webp"
+        },
+        {
+          "quote": "Công ty tôi từng tốn rất nhiều thời gian mỗi tuần cho quy trình báo cáo thủ công. Winterfrost đã giúp tự động hóa phần lớn quy trình này và mang lại kết quả tốt hơn cả mong đợi ban đầu.",
+          "author": "Đặng Minh Khoa",
+          "role": "Quản lý sản phẩm Nivora Connect",
+          "avatar": "/images/people/khach-hang/dang-minh-khoa.webp"
+        }
+      ]
+    },
+    "techStack": {
+      "label": "Nền tảng công nghệ",
+      "headline": [
+        "Ứng Dụng",
+        "Công Nghệ",
+        "tại Winterfrost"
+      ],
+      "tabs": [
+        "Tất cả",
+        "Giao diện",
+        "Hệ thống",
+        "Cơ sở dữ liệu",
+        "Vận hành",
+        "Quản lý"
+      ],
+      "items": [
+        {
+          "name": "React / Next.js",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/react-icon.svg",
+          "tab": "Giao diện"
+        },
+        {
+          "name": "Angular",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/figma-icon.svg",
+          "tab": "Giao diện"
+        },
+        {
+          "name": "Vue.js",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/figma-icon.svg",
+          "tab": "Giao diện"
+        },
+        {
+          "name": "Figma",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/figma-icon.svg",
+          "tab": "Giao diện"
+        },
+        {
+          "name": "Adobe XD",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/xd-icon.svg",
+          "tab": "Giao diện"
+        },
+        {
+          "name": "Sketch",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/figma-icon.svg",
+          "tab": "Giao diện"
+        },
+        {
+          "name": "Node.js",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/github-icon.svg",
+          "tab": "Hệ thống"
+        },
+        {
+          "name": "Laravel",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/github-icon.svg",
+          "tab": "Hệ thống"
+        },
+        {
+          "name": "WordPress / PHP",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/github-icon.svg",
+          "tab": "Hệ thống"
+        },
+        {
+          "name": ".NET / ASP.NET",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/github-icon.svg",
+          "tab": "Hệ thống"
+        },
+        {
+          "name": "Slack",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/slack-icon.svg",
+          "tab": "Quản lý"
+        },
+        {
+          "name": "Notion",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/notion-icon.svg",
+          "tab": "Quản lý"
+        },
+        {
+          "name": "Zapier",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/zapier-icon.svg",
+          "tab": "Vận hành"
+        },
+        {
+          "name": "GitHub",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/github-icon.svg",
+          "tab": "Vận hành"
+        }
+      ]
+    },
+    "faq": {
+      "label": "Các câu hỏi thường gặp",
+      "headline": [
+        "Giải Đáp",
+        "Mọi",
+        "Thắc Mắc"
+      ],
+      "items": [
+        {
+          "q": "Winterfrost cung cấp những dịch vụ cốt lõi nào?",
+          "a": "Chúng tôi chuyên cung cấp các giải pháp chuyển đổi số từ thiết kế website, app, phần mềm chuyên biệt cho đến phát triển AI. Ngoài ra, Winterfrost còn phát triển hệ thống thiết bị thông minh IoT, cơ sở dữ liệu phi tập trung Blockchain với độ bảo mật tuyệt đối. Với những dịch vụ này, chúng tôi tự tin đồng hành cùng doanh nghiệp trong từng giai đoạn phát triển."
+        },
+        {
+          "q": "Điểm khác biệt lớn nhất khi hợp tác với Winterfrost là gì?",
+          "a": "Điểm khác biệt cốt lõi của Winterfrost là sự kết hợp chặt chẽ giữa tư duy kinh doanh và năng lực kỹ thuật. Thay vì chỉ gia công phần mềm đơn thuần, chúng tôi tập trung giải quyết chính xác bài toán của doanh nghiệp nhằm tối ưu chi phí và nâng cao tỷ lệ chuyển đổi. Để thực hiện điều này, Winterfrost sở hữu đội ngũ chuyên gia đa quốc gia giàu kinh nghiệm, đủ khả năng xử lý các hệ thống phức tạp. Đồng thời, chúng tôi liên tục cập nhật và ứng dụng các công nghệ mới nhất để đảm bảo sản phẩm luôn bảo mật, hoạt động ổn định và dễ dàng mở rộng theo đà tăng trưởng của doanh nghiệp."
+        },
+        {
+          "q": "Làm sao để tôi theo dõi được tiến độ của dự án?",
+          "a": "Chúng tôi đề cao tính minh bạch. Khách hàng sẽ được cấp quyền truy cập vào các công cụ quản lý dự án, tham gia các buổi họp báo cáo tiến độ định kỳ và được trải nghiệm trực tiếp sản phẩm ở từng giai đoạn hoàn thiện."
+        },
+        {
+          "q": "Chi phí cho một dự án được tính toán như thế nào?",
+          "a": "Chi phí được dựa trên quy mô, độ phức tạp của tính năng và thời gian triển khai dự án. Sau buổi tư vấn đầu tiên, Winterfrost sẽ cung cấp một bản báo giá chi tiết. Chúng tôi có các mô hình hợp tác đa dạng từ các gói cho dự án có yêu cầu rõ ràng, hoặc các gói linh hoạt hơn cho các dự án dài hạn cần linh hoạt thay đổi."
+        },
+        {
+          "q": "Sau khi hoàn thành, ai là người sở hữu mã nguồn và dữ liệu?",
+          "a": "Là các khách hàng của chúng tôi. Ngay sau khi dự án được nghiệm thu và hoàn tất thanh toán, toàn quyền sở hữu trí tuệ, bản quyền ứng dụng và 100% mã nguồn sẽ được bàn giao lại cho doanh nghiệp của bạn."
+        },
+        {
+          "q": "Winterfrost bảo mật thông tin và ý tưởng kinh doanh của tôi bằng cách nào?",
+          "a": "Bảo mật là ưu tiên hàng đầu. Chúng tôi luôn ký kết Thỏa thuận bảo mật thông tin với khách hàng ngay từ giai đoạn tư vấn ban đầu, trước cả khi hai bên chia sẻ những dữ liệu hay ý tưởng quan trọng."
+        },
+        {
+          "q": "Sau khi sản phẩm ra mắt, Winterfrost có tiếp tục hỗ trợ không?",
+          "a": "Có. Mọi sản phẩm do Winterfrost phát triển đều đi kèm với một thời gian bảo hành miễn phí, thường từ 3 đến 6 tháng để xử lý các lỗi phát sinh."
+        },
+        {
+          "q": "Nếu sau này tôi muốn nâng cấp hoặc thêm tính năng mới thì sao?",
+          "a": "Hệ thống của chúng tôi luôn được xây dựng với kiến trúc mở, dễ dàng mở rộng. Khách hàng có thể ký thêm các gói bảo trì và vận hành hoặc các hợp đồng nâng cấp tính năng với mức chi phí ưu đãi dành riêng cho khách hàng cũ."
+        }
+      ]
+    },
+    "wikiSection": {
+      "label": "Wiki",
+      "ctaLabel": "Xem tất cả",
+      "ctaHref": "/wiki",
+      "items": [
+        {
+          "slug": "ai-va-machine-learning-trong-y-te",
+          "title": "AI Và Machine Learning Trong Y Tế: Lợi Ích Và Ứng Dụng Thực Tiễn Năm 2026",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/07/AI-Va-Machine-Learning-Trong-Y-Te.png",
+          "category": "GIẢI PHÁP DOANH NGHIỆP",
+          "categoryBg": "rgba(217, 132, 22, 0.45)",
+          "categoryColor": "#1A3B91",
+          "author": "Phương Ly",
+          "date": "35 mins ago",
+          "views": 2
+        },
+        {
+          "slug": "gemini-3-6-flash-va-google-antigravity-giai-phap-toi-uu-cho-lap-trinh",
+          "title": "Gemini 3.6 Flash và Google Antigravity – Giải pháp tối ưu cho lập trình",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/07/Gemini-3.6-Flash-va-Google-Antigravity.jpg",
+          "category": "AI",
+          "categoryBg": "rgba(217, 41, 22, 0.45)",
+          "categoryColor": "#1A3B91",
+          "author": "Hữu Trí",
+          "date": "2 hours ago",
+          "views": 3
+        },
+        {
+          "slug": "cong-nghe-blockchain-trong-y-te-loi-ich-va-ung-dung-thuc-tien",
+          "title": "Công Nghệ Blockchain Trong Y Tế: Lợi Ích Và Ứng Dụng Thực Tiễn",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/07/Cong-Nghe-Blockchain-Trong-Y-Te.png",
+          "category": "GIẢI PHÁP DOANH NGHIỆP",
+          "categoryBg": "rgba(217, 132, 22, 0.45)",
+          "categoryColor": "#1A3B91",
+          "author": "Phương Ly",
+          "date": "1 day ago",
+          "views": 3
+        }
+      ]
+    },
+    "partnersMarquee": {
+      "avatars": [
+        "/images/people/khach-hang/nguyen-quoc-viet.webp",
+        "/images/people/khach-hang/tran-minh-chau.webp",
+        "/images/people/khach-hang/vo-thanh-huong.webp",
+        "/images/people/khach-hang/dang-minh-khoa.webp",
+        "/images/people/khach-hang/pham-hai-long.webp"
+      ],
+      "ratingLabel": "250+ Đối tác",
+      "logos": [
+        {
+          "src": "/images/projects/website-pixelnova-media/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "PixelNova Media"
+        },
+        {
+          "src": "/images/projects/website-mocvan-tea/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Mocvan Tea"
+        },
+        {
+          "src": "/images/projects/aeromint-cleanroom/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Aeromint"
+        },
+        {
+          "src": "/images/projects/nivora-connect/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Nivora Connect"
+        },
+        {
+          "src": "/images/projects/app-grevia-lawn/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Grevia Lawn"
+        },
+        {
+          "src": "/images/projects/website-loomora-rugs/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Loomora Rugs"
+        },
+        {
+          "src": "/images/projects/website-chromiva-coatings/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Chromiva Coatings"
+        },
+        {
+          "src": "/images/projects/website-verdora-property/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Verdora Property"
+        },
+        {
+          "src": "/images/projects/website-candella-works/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Candella Works"
+        },
+        {
+          "src": "/images/projects/website-flexora-packaging/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Flexora Packaging"
+        },
+        {
+          "src": "/images/projects/website-polyvera/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Polyvera"
+        },
+        {
+          "src": "/images/projects/website-mirava/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Mirava"
+        },
+        {
+          "src": "/images/projects/website-bytevera/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Bytevera"
+        },
+        {
+          "src": "/images/projects/website-motoria-link/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Motoria Link"
+        },
+        {
+          "src": "/images/projects/website-dentavera/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Dentavera"
+        },
+        {
+          "src": "/images/projects/website-lumera-living/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Lumera Living"
+        },
+        {
+          "src": "/images/projects/website-auriva-land/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Auriva Land"
+        },
+        {
+          "src": "/images/projects/website-rovena-mobility/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Rovena Mobility"
+        },
+        {
+          "src": "/images/projects/website-brewvia/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Brewvia"
+        },
+        {
+          "src": "/images/projects/website-arcvera-construction/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Arcvera Construction"
+        },
+        {
+          "src": "/images/projects/website-edunora/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Edunora"
+        },
+        {
+          "src": "/images/projects/website-virela-interior/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Virela Interior"
+        },
+        {
+          "src": "/images/projects/website-ceranova/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Ceranova"
+        },
+        {
+          "src": "/images/projects/website-rovena-travel/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Rovena Travel"
+        },
+        {
+          "src": "/images/projects/website-zenovia-retail/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Zenovia Retail"
+        },
+        {
+          "src": "/images/projects/website-veloura-nails/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Veloura Nails"
+        },
+        {
+          "src": "/images/projects/website-pixelnova-media/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "PixelNova Media"
+        },
+        {
+          "src": "/images/projects/website-mocvan-tea/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Mocvan Tea"
+        },
+        {
+          "src": "/images/projects/aeromint-cleanroom/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Aeromint"
+        },
+        {
+          "src": "/images/projects/nivora-connect/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Nivora Connect"
+        },
+        {
+          "src": "/images/projects/app-grevia-lawn/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Grevia Lawn"
+        },
+        {
+          "src": "/images/projects/website-loomora-rugs/brand/wordmark.png?v=wf-projects-pro-20260726",
+          "alt": "Loomora Rugs"
+        }
+      ]
+    }
+  },
+  "ServicesPage": {
+    "meta": {
+      "title": "Dịch vụ",
+      "description": "Winterfrost chuyên thiết kế website, app, AI, IoT & Blockchain. Giải pháp công nghệ toàn diện giúp doanh nghiệp chuyển đổi số và tối ưu vận hành."
+    },
+    "hero": {
+      "bgText": "WINTERFROST",
+      "title": "Thiết kế website, mobile app và giải pháp phần mềm AI-driven",
+      "description": "Winterfrost Việt Nam mang đến hệ thống giải pháp số đầy đủ bao gồm Web, Mobile, AI và SaaS. Chúng tôi chú trọng biến những ý tưởng của bạn thành những sản phẩm công nghệ tối ưu nhất. Mỗi giải pháp đều được xây dựng với tính ứng dụng cao, giúp doanh nghiệp hoạt động hiệu quả. Chúng tôi hứa hẹn sẽ đem lại giá trị thực sự cho đối tác qua từng đoạn mã.",
+      "marqueeTags": [
+        "Thiết kế website",
+        "Thiết kế App",
+        "Phát triển phần mềm doanh nghiệp",
+        "Phát triển phần mềm tùy chỉnh",
+        "Phát triển phần mềm MVP",
+        "Phát triển ứng dụng SaaS",
+        "Vận hành và bảo trì",
+        "Phát triển sản phẩm phần mềm",
+        "Phát triển AI",
+        "Dịch vụ IT Outsourcing",
+        "Phát triển DevOps",
+        "Dịch vụ tích hợp AI",
+        "Phát triển IoT",
+        "Dịch vụ thuê ngoài IT",
+        "Thiết kế website thuê ngoài",
+        "Phát triển Blockchain",
+        "Thuê lập trình viên tại Việt Nam",
+        "Dịch vụ Offshore Development"
+      ],
+      "cubeFaces": {
+        "front": "/images/services/winterfrost/cube-faces/nha-trang-travel-website.png",
+        "right": "/images/services/winterfrost/cube-faces/greenscape-mobile-app.png",
+        "back": "/images/services/winterfrost/cube-faces/nova-paint-website.png",
+        "left": "/images/services/winterfrost/cube-faces/planora-mobile-app.png"
+      },
+      "bgImage": "/images/brand/winterfrost/winterfrost-banner.jpg"
+    },
+    "servicesList": {
+      "label": "Các dịch vụ của chúng tôi",
+      "headlineLight": "Phát triển phần mềm và",
+      "headlineDark": "tự động hóa AI",
+      "viewLabel": "Xem dịch vụ",
+      "description": "Winterfrost cung cấp giải pháp Website, App và AI toàn diện, giúp doanh nghiệp vượt qua rào cản số hóa. Chúng tôi cam kết tối ưu chi phí, nâng cao hiệu suất và bảo mật tối đa, tạo nền tảng vững chắc để bạn dẫn đầu thị trường.",
+      "items": [
+        {
+          "slug": "thiet-ke-website",
+          "title": "Thiết kế website",
+          "desc": "Website chuyên nghiệp phải là công cụ tạo ra lợi nhuận. Tại Winterfrost, chúng tôi xây dựng những nền tảng tốc độ cao, ổn định và tối ưu trải nghiệm người dùng. Từ giao diện đến tính năng, mọi chi tiết đều được tinh chỉnh để thúc đẩy chuyển đổi, giúp doanh nghiệp vận hành trơn tru và khẳng định vị thế thương hiệu.",
+          "img": "/images/services/winterfrost/web-application-development-v2.png"
+        },
+        {
+          "slug": "phat-trien-ai",
+          "title": "Phát triển AI",
+          "desc": "Winterfrost giúp bạn phân tích và xử lý dữ liệu của mình thông qua các giải pháp trí tuệ nhân tạo AI và machine learning chuyên biệt. Từ nhận diện hình ảnh đến phân tích dự đoán, chúng tôi hỗ trợ các doanh nghiệp tự động hóa các quy trình quyết định phức tạp nhằm tạo ra lợi thế cạnh tranh rõ ràng. Tất cả các mô hình đều được điều chỉnh để đem lại giá trị thực sự và chính xác nhất cho doanh nghiệp.",
+          "img": "/images/services/winterfrost/ai-development.webp"
+        },
+        {
+          "slug": "phat-trien-ung-dung-saas",
+          "title": "Phát triển ứng dụng SaaS",
+          "desc": "Winterfrost chuyên phát triển ứng dụng SaaS trên nền tảng đám mây, giải quyết triệt để bài toán bảo mật và khả năng mở rộng. Chúng tôi tối ưu hóa cấu trúc hệ thống để đảm bảo vận hành ổn định, giúp doanh nghiệp tiết kiệm chi phí hạ tầng và tạo nguồn doanh thu định kỳ bền vững.",
+          "img": "/images/services/winterfrost/saas-application-development.webp"
+        },
+        {
+          "slug": "thiet-ke-app",
+          "title": "Thiết kế App",
+          "desc": "Winterfrost chuyên phát triển ứng dụng IOS và Android hiệu suất cao, đảm bảo tính ổn định và bảo mật tuyệt đối. Giải pháp của chúng tôi tương thích linh hoạt với hệ thống sẵn có, giúp doanh nghiệp kết nối sâu sắc với khách hàng và tăng trưởng bền vững.",
+          "img": "/images/services/winterfrost/mobile-app-development.webp"
+        },
+        {
+          "slug": "van-hanh-va-bao-tri",
+          "title": "Vận hành và bảo trì",
+          "desc": "Chúng tôi hiểu rằng một hệ thống ổn định là yếu tố sống còn đối với một doanh nghiệp. Winterfrost chủ động bảo trì và cập nhật bảo mật để phần mềm của bạn luôn hoạt động tốt nhất có thể. Đội ngũ kỹ thuật sẵn sàng giải quyết nhanh chóng mọi vấn đề để quá trình làm việc của đơn vị không bị gián đoạn. Bạn có thể hoàn toàn yên tâm tập trung phát triển kinh doanh vì chúng tôi ở đây để bảo vệ hệ thống mỗi ngày.",
+          "img": "/images/services/winterfrost/software-maintenance-and-support.webp"
+        },
+        {
+          "slug": "phat-trien-phan-mem-doanh-nghiep",
+          "title": "Phát triển phần mềm doanh nghiệp",
+          "desc": "Winterfrost phát triển các hệ thống quản lý chuyên sâu, giải quyết triệt để mọi phức tạp trong vận hành. Chúng tôi tùy biến phần mềm theo quy trình riêng biệt của từng doanh nghiệp, giúp số hóa dữ liệu tập trung và bảo mật tuyệt đối. Đây là nền tảng vững chắc để bạn chuẩn hóa tổ chức và tối ưu hóa nguồn lực bền vững.",
+          "img": "/images/services/winterfrost/enterprise-software-development.webp"
+        },
+        {
+          "slug": "phat-trien-phan-mem-mvp",
+          "title": "Phát triển phần mềm MVP",
+          "desc": "Winterfrost giúp doanh nghiệp ra mắt sản phẩm nhanh chóng với quy trình phát triển MVP tinh gọn. Chúng tôi tập trung vào các tính năng cốt lõi để xác thực ý tưởng và thu thập phản hồi thực tế, giúp tối ưu ngân sách và giảm thiểu rủi ro trước khi đầu tư lớn. Đây là bước đệm thông minh để bạn khởi đầu hiệu quả và an toàn.",
+          "img": "/images/services/winterfrost/mvp-software-development.webp"
+        },
+        {
+          "slug": "dich-vu-it",
+          "title": "Dịch vụ IT",
+          "desc": "Winterfrost trực tiếp phân tích quy trình hiện tại để thay thế các thao tác thủ công bằng hệ thống phần mềm quản lý. Việc số hóa giúp dữ liệu được lưu trữ tập trung, giảm thiểu sai sót do con người và rút ngắn thời gian xử lý công việc. Doanh nghiệp sẽ nắm bắt được số liệu thực tế theo thời gian thực để đưa ra các quyết định điều hành chính xác, từ đó tối ưu hóa chi phí vận hành và nâng cao hiệu suất làm việc của nhân sự.",
+          "img": "/images/services/winterfrost/custom-software-solutions.webp"
+        },
+        {
+          "slug": "tu-van-chuyen-doi-so",
+          "title": "Tư vấn chuyển đổi số",
+          "desc": "Chúng tôi thực hiện thiết lập, vận hành và bảo trì toàn bộ hệ thống máy chủ, mạng nội bộ và các thiết bị kỹ thuật cho doanh nghiệp. Winterfrost áp dụng các tiêu chuẩn bảo mật và quy trình sao lưu định kỳ để ngăn chặn rủi ro mất mát thông tin hoặc xâm nhập trái phép. Hệ thống kỹ thuật được duy trì hoạt động liên tục giúp công việc không bị gián đoạn, đồng thời giúp doanh nghiệp giảm bớt chi phí tuyển dụng và quản lý đội ngũ nhân sự IT nội bộ.",
+          "img": "/images/services/winterfrost/generative-ai-integration.webp"
+        },
+        {
+          "slug": "phat-trien-devops",
+          "title": "Phát triển DevOps",
+          "desc": "Winterfrost cải thiện quy trình phát triển phần mềm nhờ vào giải pháp CI/CD tự động, giúp giảm thiểu thời gian giới thiệu sản phẩm xuống mức tối thiểu. Chúng tôi chú trọng vào việc xây dựng một hạ tầng đám mây an toàn và hệ thống giám sát liên tục 24/7 để đảm bảo ổn định.",
+          "img": "/images/services/winterfrost/devops-development.webp"
+        },
+        {
+          "slug": "phat-trien-iot",
+          "title": "Phát triển IoT",
+          "desc": "Winterfrost liên kết các thiết bị thông minh và thu thập thông tin giúp các doanh nghiệp cải thiện quy trình hoạt động. Chúng tôi chú trọng vào việc phát triển những giải pháp IoT an toàn và linh hoạt, cho phép bạn theo dõi dữ liệu theo thời gian thực. Bạn sẽ có một hệ sinh thái kết nối mạnh mẽ để đưa ra những quyết định dựa trên dữ liệu chính xác nhất.",
+          "img": "/images/services/winterfrost/iot-development.webp"
+        },
+        {
+          "slug": "phat-trien-blockchain",
+          "title": "Phát triển Blockchain",
+          "desc": "Winterfrost xây dựng giải pháp Blockchain phi tập trung giúp bảo mật dữ liệu tuyệt đối. Chúng tôi ứng dụng Smart Contract để tối ưu chi phí và loại bỏ hoàn toàn rủi ro trung gian. Đây là nền tảng vững chắc giúp bạn củng cố niềm tin khách hàng và bứt phá hiệu quả trong kỷ nguyên số.",
+          "img": "/images/services/winterfrost/blockchain-development.webp"
+        }
+      ]
+    },
+    "howWeWork": {
+      "label": "Quy trình làm việc của Winterfrost",
+      "ctaLabel": "Nhận tư vấn lộ trình ngay!",
+      "ctaHref": "tel:+84971450454",
+      "steps": [
+        {
+          "num": "01",
+          "badge": "Tiếp nhận",
+          "title": "Tiếp nhận và phân tích yêu cầu",
+          "desc": "Chúng tôi lắng nghe ý tưởng và phân tích bài toán kinh doanh của bạn để đề xuất giải pháp tối ưu nhất. Việc này giúp chúng tôi xác định rõ phạm vi và mục tiêu ngay từ đầu, từ đó dự án tránh được các lãng phí không đáng có."
+        },
+        {
+          "num": "02",
+          "badge": "Lên chiến lược",
+          "title": "Kế hoạch và cam kết",
+          "desc": "Lộ trình triển khai được cụ thể với các cột mốc thời gian rõ ràng ngay sau khi ký kết hợp đồng. Doanh nghiệp sẽ luôn chủ động trong việc giám sát tiến độ và điều chỉnh kịp thời để phù hợp với xu hướng thị trường."
+        },
+        {
+          "num": "03",
+          "badge": "Thiết kế",
+          "title": "Thiết kế giao diện UI/UX",
+          "desc": "Tập trung vào tính thẩm mỹ và hành vi người dùng thực tế, chúng tôi thiết kế những giao diện trực quan và phân luồng logic. Mục tiêu cốt lõi là mang lại trải nghiệm mượt mà, giúp tăng tỉ lệ chuyển đổi cho sản phẩm của bạn."
+        },
+        {
+          "num": "04",
+          "badge": "Thực hiện",
+          "title": "Lập trình và tối ưu liên tục",
+          "desc": "Đội ngũ kỹ sư thực hiện code đến đâu, kiểm tra lỗi và chất lượng đến đó trên từng module. Quy trình này giúp phát hiện lỗi sớm và tối ưu hiệu suất ngay lập tức, đảm bảo sản phẩm cuối cùng luôn đạt độ ổn định và hoàn thiện cao nhất."
+        },
+        {
+          "num": "05",
+          "badge": "Bàn giao",
+          "title": "Bàn giao và hỗ trợ bền vững",
+          "desc": "Winterfrost thực hiện chuyển giao công nghệ đầy đủ, hướng dẫn vận hành chi tiết và duy trì dịch vụ bảo trì định kỳ. Chúng tôi cam kết đồng hành dài lâu để hệ thống của bạn luôn vận hành an toàn và sẵn sàng mở rộng."
+        }
+      ]
+    },
+    "benefits": {
+      "label": "Vì sao nên chọn dịch vụ tại Winterfrost?",
+      "headline": "Giá trị khác biệt từ Winterfrost",
+      "items": [
+        {
+          "num": "1",
+          "title": "Công nghệ tiên phong",
+          "desc": "Làm chủ AI, Blockchain và IoT để mang lại các giải pháp công nghệ hiện đại và đột phá nhất cho doanh nghiệp.",
+          "icon": "rocket"
+        },
+        {
+          "num": "2",
+          "title": "Phát triển tinh gọn",
+          "desc": "Ứng dụng mô hình MVP giúp ra mắt sản phẩm nhanh chóng, tiết kiệm tối đa thời gian và ngân sách đầu tư.",
+          "icon": "zap"
+        },
+        {
+          "num": "3",
+          "title": "Chất lượng tin cậy",
+          "desc": "Lập trình song song với quy trình kiểm tra chất lượng, đảm bảo hệ thống luôn vận hành ổn định và đạt độ hoàn thiện cao.",
+          "icon": "shield"
+        },
+        {
+          "num": "4",
+          "title": "Đối tác chiến lược",
+          "desc": "Chúng tôi không chỉ thiết kế mà còn cung cấp giải pháp dài hạn, đồng hành cùng sự tăng trưởng của doanh nghiệp.",
+          "icon": "handshake"
+        },
+        {
+          "num": "5",
+          "title": "Mở rộng linh hoạt",
+          "desc": "Cấu trúc phần mềm hiện đại, cho phép doanh nghiệp dễ dàng nâng cấp và mở rộng hệ thống theo từng giai đoạn kinh doanh.",
+          "icon": "expand"
+        },
+        {
+          "num": "6",
+          "title": "Bảo mật tuyệt đối",
+          "desc": "Thiết lập hệ thống bảo mật đa tầng, chúng tôi cam kết bảo vệ an toàn dữ liệu và thông tin của doanh nghiệp.",
+          "icon": "lock"
+        },
+        {
+          "num": "7",
+          "title": "Trải nghiệm tối ưu",
+          "desc": "Thiết kế UI/UX tinh tế, tập trung vào hành vi người dùng thực tế để thúc đẩy tỷ lệ chuyển đổi hiệu quả nhất.",
+          "icon": "sparkles"
+        },
+        {
+          "num": "8",
+          "title": "Lộ trình làm việc chuyên nghiệp",
+          "desc": "Quy trình làm việc rõ ràng, báo cáo tiến độ chi tiết giúp doanh nghiệp luôn chủ động nắm bắt mọi giai đoạn dự án.",
+          "icon": "route"
+        },
+        {
+          "num": "9",
+          "title": "Giá trị lợi nhuận",
+          "desc": "Các giải pháp mà chúng tôi đưa ra đều mang một mục tiêu. Đó là biến công nghệ thành một đòn bẩy để gia tăng lợi nhuận của doanh nghiệp.",
+          "icon": "chart"
+        }
+      ]
+    },
+    "ctaBanner": {
+      "badge": "Liên hệ ngay!",
+      "headline": "Lựa chọn giải pháp phù hợp với doanh nghiệp của bạn",
+      "description": "Hãy để các kỹ sư của Winterfrost tư vấn giải pháp chính xác dựa trên nhu cầu thực tế và ngân sách của doanh nghiệp.",
+      "ctaLabel": "Nhận tư vấn miễn phí",
+      "ctaHref": "tel:+84971450454"
+    },
+    "industries": {
+      "label": "Các lĩnh vực nổi bật",
+      "headlineLight": "Winterfrost cung cấp dịch vụ",
+      "headlineDark": "theo từng lĩnh vực đặc thù",
+      "ctaLabel": "Khám phá tất cả các lĩnh vực",
+      "items": [
+        {
+          "slug": "thuong-mai-dien-tu",
+          "title": "Thương mại điện tử",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/05/Linh-vuc-Thuong-mai-dien-tu-HomeNest-Viet-Nam.png"
+        },
+        {
+          "slug": "cong-nghe-tai-chinh",
+          "title": "Công nghệ tài chính",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/05/Linh-vuc-Cong-nghe-tai-chinh-HomeNest-Viet-Nam.png"
+        },
+        {
+          "slug": "y-te",
+          "title": "Y tế",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/05/Linh-vuc-Cham-soc-suc-khoe-HomeNest-Viet-Nam.png"
+        },
+        {
+          "slug": "tai-chinh-doanh-nghiep",
+          "title": "Tài chính doanh nghiệp",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/05/Linh-vuc-Tai-chinh-doanh-nghiep-HomeNest-Viet-Nam.png"
+        },
+        {
+          "slug": "phan-mem-doanh-nghiep",
+          "title": "Phần mềm doanh nghiệp",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/05/Linh-vuc-Phat-trien-phan-mem-doanh-nghiep-HomeNest-Viet-Nam.png"
+        },
+        {
+          "slug": "ban-le",
+          "title": "Bán lẻ",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Retail-Industries-Icon.png"
+        },
+        {
+          "slug": "bat-dong-san",
+          "title": "Bất động sản",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/05/Linh-vuc-Bat-dong-san-HomeNest-Viet-Nam.png"
+        },
+        {
+          "slug": "van-tai-va-logistics",
+          "title": "Vận tải và Logistics",
+          "icon": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/05/Linh-vuc-Van-tai-va-Logistics-HomeNest-Viet-Nam.png"
+        },
+        {
+          "slug": "giao-duc",
+          "title": "Giáo dục",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Education-Industries-Icon.png"
+        }
+      ]
+    },
+    "caseStudies": {
+      "heading": "Các dự án tiêu biểu",
+      "viewAllLabel": "Xem thêm",
+      "viewAllHref": "/case-studies",
+      "items": [
+        {
+          "slug": "app-nivora-connect",
+          "category": "Phát triển ứng dụng theo yêu cầu",
+          "title": "App Nivora Connect",
+          "tag": "Thiết kế App",
+          "cta": "Xem dự án",
+          "img": "/images/projects/nivora-connect/01-cover.webp?v=wf-20260726"
+        },
+        {
+          "slug": "app-grevia-lawn",
+          "category": "Phát triển ứng dụng theo yêu cầu",
+          "title": "App Grevia Lawn",
+          "tag": "Thiết kế App",
+          "cta": "Xem dự án",
+          "img": "/images/projects/app-grevia-lawn/01-anh-bia-du-an.webp?v=wf-grevia-pro-20260726"
+        },
+        {
+          "slug": "website-loomora-rugs",
+          "category": "Bán lẻ · Thương mại điện tử",
+          "title": "Website Loomora Rugs",
+          "tag": "Thiết kế Website",
+          "cta": "Xem dự án",
+          "img": "/images/projects/website-loomora-rugs/01-anh-bia-du-an.webp?v=wf-projects-pro-20260726"
+        }
+      ]
+    },
+    "technology": {
+      "label": "Nền tảng công nghệ",
+      "headline": [
+        "Công nghệ vận hành",
+        "",
+        "tại Winterfrost"
+      ]
+    },
+    "faq": {
+      "label": "Các câu hỏi thường gặp",
+      "headline": [
+        "Giải Đáp",
+        "Mọi",
+        "Thắc Mắc"
+      ],
+      "intro": "Những câu hỏi thường gặp được khách hàng đặt cho Winterfrost.",
+      "items": [
+        {
+          "q": "Winterfrost mạnh ở lĩnh vực nào?",
+          "a": "Chúng tôi đặc biệt giỏi trong việc tạo ra phần mềm tùy chỉnh cho Web, App, SaaS và ứng dụng những công nghệ mới như AI, Blockchain, IoT. Tất cả giải pháp được xây dựng để giải quyết các vấn đề thực tiễn trong doanh nghiệp."
+        },
+        {
+          "q": "Quá trình làm việc tại Winterfrost kéo dài bao lâu?",
+          "a": "Thời gian thực hiện phụ thuộc vào quy mô của dự án. Tuy nhiên, với mô hình phát triển gọn nhẹ, chúng tôi có thể giúp bạn ra mắt phiên bản chính trong 4-8 tuần để kiểm tra thị trường sớm."
+        },
+        {
+          "q": "Tôi đã có hệ thống sẵn, Winterfrost có thể tích hợp AI vào không?",
+          "a": "Có thể chứ. Chúng tôi chuyên cung cấp dịch vụ lắp ghép AI và GenAI vào các nền tảng hiện tại để tự động hóa quy trình, tối ưu hóa dữ liệu và nâng cao hiệu quả mà không cần thay thế hết hệ thống cũ."
+        },
+        {
+          "q": "Làm thế nào tôi có thể tin tưởng vào chất lượng sản phẩm?",
+          "a": "Winterfrost áp dụng quy trình kiểm soát chất lượng rất chặt chẽ trong suốt quá trình lập trình. Việc kiểm tra liên tục trên mỗi module giúp phát hiện lỗi sớm và đảm bảo hệ thống hoạt động ổn định nhất khi bàn giao."
+        },
+        {
+          "q": "Chi phí dịch vụ được tính toán ra sao?",
+          "a": "Chi phí sẽ được tính minh bạch dựa trên phạm vi công việc, độ phức tạp của tính năng và yêu cầu về công nghệ. Chúng tôi luôn đưa ra lời khuyên tốt nhất để cân bằng giữa ngân sách và các mục tiêu kinh doanh của bạn."
+        },
+        {
+          "q": "Winterfrost có đảm bảo bảo mật thông tin dự án không?",
+          "a": "Chắc chắn rồi. Chúng tôi luôn ký hợp đồng bảo mật nghiêm ngặt trước khi nhận thông tin dự án. Quyền sở hữu trí tuệ và toàn bộ mã nguồn sẽ thuộc về khách hàng khi bàn giao."
+        },
+        {
+          "q": "Chính sách hỗ trợ sau bàn giao của Winterfrost như thế nào?",
+          "a": "Chúng tôi không chỉ bàn giao rồi thôi. Chúng tôi cung cấp dịch vụ bảo trì định kỳ, cập nhật bảo mật và hỗ trợ kỹ thuật 24/7 để đảm bảo hệ thống của bạn luôn hoạt động trơn tru và sẵn sàng mở rộng."
+        }
+      ]
+    }
+  },
+  "AutoText": {
+    "k203kjd": "Generative AI Chatbot là gì? Hướng dẫn xây dựng chatbot tạo sinh",
+    "k12asvl6": "Lê Chân",
+    "k1xx73q9": "Generative AI Chatbot đang tạo nên làn sóng chuyển đổi số mạnh mẽ tại Việt Nam nhờ khả năng giao tiếp tự nhiên và thấu hiểu ngữ cảnh linh hoạt thông qua sức mạnh của LLM cùng công nghệ truy xuất RAG. Vượt trội hơn các chatbot kịch bản truyền thống, giải pháp này giúp doanh nghiệp tối ưu chi phí vận hành, chăm sóc khách hàng 24/7 và cá nhân hóa trải nghiệm. Để ứng dụng thành công, tổ chức cần tuân thủ quy trình xây dựng 6 bước tinh gọn, trong đó đặc biệt chú trọng khâu chuẩn bị dữ liệu sạch. Cuối cùng, doanh nghiệp cần biết nắm bắt cơ hội từ hệ sinh thái AI nội địa, đồng thời có chiến lược đối phó với các rào cản về “ảo giác AI”, bảo mật và chi phí.",
+    "k12rgkcu": "Thiết kế Website",
+    "k1o911ts": "Thiết kế App",
+    "k1gf4ckt": "Bất động sản",
+    "k1n7x1v": "Bán lẻ",
+    "k1sabsg5": "Y tế",
+    "k1stjgu1": "Truyền thông",
+    "kgqsb04": "Du lịch",
+    "kxf0ssn": "Sản xuất",
+    "kez5f5q": "Kiến trúc & xây dựng",
+    "k1bn2dpa": "Thương mại điện tử",
+    "kt99tt0": "Chuỗi cung ứng",
+    "k1muhyk6": "Anh Thư",
+    "kaczs7z": "Liên hệ ngay!",
+    "k6o8ltw": "Dẫn đầu kỷ nguyên số với hệ thống AI độc quyền",
+    "k15gtxg8": "Đừng chỉ dừng lại ở tự động hóa thông thường. Hãy cùng Winterfrost khai phá sức mạnh dữ liệu để xây dựng những mô hình AI riêng biệt, giúp doanh nghiệp của bạn sở hữu lợi thế cạnh tranh tuyệt đối trên thị trường.",
+    "k1ilexgi": "Xây dựng lộ trình AI ngay",
+    "klti6ob": "Các dự án tiêu biểu Winterfrost đã đồng hành: thiết kế website, mobile app, AI và giải pháp số cho doanh nghiệp.",
+    "k1sb2524": "Chính sách bảo mật",
+    "k4zdixi": "Chính sách bảo mật thông tin khách hàng và người dùng tại Winterfrost.",
+    "k1v9d27x": "Lưu trữ hồ sơ nội bộ",
+    "kpa4dn0": "Quản lý thông tin khách hàng và đối tác.",
+    "k1qwyi5f": "Cải thiện dịch vụ",
+    "k1hyz6ue": "Chúng tôi có thể sử dụng thông tin để cải thiện các sản phẩm và dịch vụ phần mềm của mình.",
+    "k128d5uu": "Tiếp thị và truyền thông",
+    "kpswrex": "Định kỳ, chúng tôi có thể gửi email quảng cáo về các dịch vụ mới, các ưu đãi đặc biệt hoặc các thông tin khác mà chúng tôi cho rằng bạn sẽ quan tâm thông qua địa chỉ email bạn đã cung cấp.",
+    "k1tbv4n0": "Tại thời điểm cung cấp thông tin",
+    "ki7t7kq": "Bất cứ khi nào bạn được yêu cầu điền vào một biểu mẫu trên trang web, hãy tìm ô chọn để chỉ định rằng bạn không muốn thông tin của mình được bất kỳ ai sử dụng cho mục đích tiếp thị trực tiếp.",
+    "ka0te0n": "Thay đổi quyết định và rút lại sự cho phép",
+    "kftdx1s": "Nếu trước đây bạn đã đồng ý cho chúng tôi sử dụng thông tin cá nhân cho mục đích tiếp thị trực tiếp, bạn có thể thay đổi quyết định bất cứ lúc nào bằng cách viết thư hoặc gửi email cho chúng tôi.",
+    "k1orq7up": "Trang chủ",
+    "k17spkxh": "Chính sách bảo mật này quy định cách thức Winterfrost sử dụng và bảo vệ bất kỳ thông tin nào bạn cung cấp khi sử dụng trang web https://winterfrost.tech",
+    "kijmg0x": "Winterfrost cam kết bảo vệ quyền riêng tư của bạn. Khi chúng tôi yêu cầu bạn cung cấp một số thông tin nhất định để nhận diện trong quá trình sử dụng trang web này, bạn có thể hoàn toàn yên tâm rằng thông tin đó sẽ chỉ được sử dụng theo đúng các điều khoản trong tuyên bố bảo mật này.",
+    "k1pdblz0": "Winterfrost có thể thay đổi chính sách này tùy theo từng thời điểm bằng cách cập nhật trên trang web. Bạn nên kiểm tra trang này định kỳ để đảm bảo luôn nắm bắt và đồng ý với các thay đổi. Chính sách này có hiệu lực từ ngày 1 tháng 1 năm 2017",
+    "k1uezmpb": "Chúng tôi làm gì với thông tin thu thập được",
+    "kre72kk": "Những thông tin chúng tôi thu thập",
+    "k18r4shf": "Chúng tôi có thể thu thập các thông tin sau:",
+    "k1uqxj4j": "Thông tin liên hệ bao gồm địa chỉ email, số điện thoại.",
+    "k1p6qhy5": "Thông tin nhân khẩu học như mã bưu điện, sở thích và mối quan tâm.",
+    "k1c3thua": "Các thông tin khác có liên quan đến khảo sát khách hàng và/hoặc các chương trình ưu đãi.",
+    "k1kcqept": "Bảo mật",
+    "kx9c36g": "Chúng tôi cam kết đảm bảo rằng thông tin của bạn được an toàn. Để ngăn chặn các hành vi truy cập hoặc tiết lộ trái phép, chúng tôi đã áp dụng các quy trình quản lý, điện tử và vật lý phù hợp để bảo vệ và bảo mật mọi thông tin thu thập trực tuyến.",
+    "k1v0bhn5": "Cách chúng tôi sử dụng Cookie",
+    "k4siefb": "Cookie là một tệp nhỏ yêu cầu quyền được lưu trữ trên ổ cứng máy tính của bạn. Khi bạn đồng ý, tệp sẽ được thêm vào và cookie giúp phân tích lưu lượng truy cập web hoặc thông báo cho bạn biết khi bạn truy cập một trang cụ thể. Cookie cho phép các ứng dụng web phản hồi bạn với tư cách là một cá nhân độc lập. Ứng dụng web có thể tùy chỉnh các hoạt động theo nhu cầu, sở thích của bạn bằng cách thu thập và ghi nhớ thông tin.",
+    "k6yd68l": "Chúng tôi sử dụng cookie nhật ký lưu lượn để xác định các trang đang được sử dụng. Điều này giúp chúng tôi phân tích dữ liệu về lưu lượng trang web và cải thiện nền tảng nhằm đáp ứng tốt hơn nhu cầu của khách hàng. Chúng tôi chỉ sử dụng thông tin này cho mục đích phân tích thống kê, sau đó dữ liệu sẽ được xóa khỏi hệ thống.",
+    "k7v9c9i": "Nhìn chung, cookie giúp chúng tôi cung cấp cho bạn một trang web hoạt động tốt hơn bằng cách theo dõi các trang bạn thấy hữu ích và các trang thì không. Cookie hoàn toàn không cấp cho chúng tôi quyền truy cập vào máy tính của bạn hoặc bất kỳ thông tin nào về bạn, ngoại trừ dữ liệu bạn chủ động chia sẻ với chúng tôi.",
+    "k8793xo": "Bạn có thể chọn chấp nhận hoặc từ chối cookie. Hầu hết các trình duyệt web tự động chấp nhận cookie, nhưng bạn thường có thể sửa đổi cài đặt trình duyệt của mình để từ chối cookie nếu muốn. Tuy nhiên, điều này có thể ngăn bạn tận dụng tối đa các tính năng của trang web.",
+    "kwu2i0i": "Liên kết đến các trang web khác",
+    "koxje9j": "Trang web của chúng tôi có thể chứa các liên kết dẫn đến các trang web khác. Tuy nhiên, một khi bạn đã sử dụng các liên kết này để rời khỏi trang web của Winterfrost, bạn cần lưu ý rằng chúng tôi không có bất kỳ quyền kiểm soát nào đối với trang web của bên thứ ba đó. Do đó, chúng tôi không thể chịu trách nhiệm về việc bảo vệ quyền riêng tư đối với bất kỳ thông tin nào bạn cung cấp khi truy cập các trang này, và các trang đó cũng không chịu sự chi phối của tuyên bố bảo mật này. Bạn nên thận trọng và xem xét các chính sách bảo mật áp dụng cho trang web được đề cập.",
+    "krvy4em": "Kiểm soát thông tin cá nhân của bạn",
+    "kux4jdh": "Bạn có thể chọn hạn chế việc thu thập hoặc sử dụng thông tin cá nhân của mình theo các cách sau:",
+    "ksf6a0o": "Chúng tôi sẽ không bán, phân phối hoặc cho thuê thông tin cá nhân của bạn cho bên thứ ba trừ khi chúng tôi có sự cho phép của bạn hoặc bị pháp luật yêu cầu. Chúng tôi có thể sử dụng thông tin cá nhân của bạn để gửi cho bạn thông tin quảng cáo về các bên thứ ba mà chúng tôi nghĩ rằng bạn có thể thấy thú vị nếu bạn cho chúng tôi biết bạn muốn điều này xảy ra.",
+    "kwq3kzy": "Nếu bạn cho rằng bất kỳ thông tin nào chúng tôi đang lưu giữ về bạn là không chính xác hoặc không đầy đủ, vui lòng liên hệ ngay với chúng tôi. Chúng tôi sẽ nhanh chóng sửa chữa bất kỳ thông tin nào được phát hiện là chưa chính xác.",
+    "k1dyoc0f": "Nếu bạn có bất kỳ câu hỏi nào về chính sách này, vui lòng liên hệ trực tiếp tại văn phòng của chúng tôi ở Vinhomes Grand Park, Quận 9, Thành phố Hồ Chí Minh, hoặc qua email info@winterfrost.tech để nhận được sự hỗ trợ của công ty.",
+    "k17vdoxp": "Dịch vụ IT",
+    "k1b3y636": "Giải pháp IT toàn diện, quản trị hạ tầng, hỗ trợ kỹ thuật và tối ưu hệ thống cho doanh nghiệp.",
+    "k1mtovmx": "Winterfrost cung cấp dịch vụ IT toàn diện từ tư vấn kiến trúc, quản trị hạ tầng đến giám sát và hỗ trợ kỹ thuật. Giải pháp được thiết kế theo nhu cầu thực tế, giúp doanh nghiệp duy trì hệ thống ổn định, bảo mật và sẵn sàng mở rộng.",
+    "k1bn7e6b": "Tư vấn chuyển đổi số",
+    "khs9w9p": "Xây dựng lộ trình chuyển đổi số rõ ràng, tối ưu quy trình và lựa chọn công nghệ phù hợp với doanh nghiệp.",
+    "kusz7zb": "Đội ngũ Winterfrost đồng hành cùng doanh nghiệp trong việc đánh giá hiện trạng, xác định mục tiêu và xây dựng lộ trình chuyển đổi số khả thi. Mỗi đề xuất tập trung vào hiệu quả vận hành, khả năng đo lường và tốc độ triển khai.",
+    "k6x4xtf": "Xem dự án",
+    "k1j78eha": "Kiến trúc & xây dựng · Thương mại điện tử",
+    "k1vtc3vu": "Liên hệ Winterfrost",
+    "k61e2xj": "Liên hệ đội ngũ Winterfrost để nhận tư vấn miễn phí về website, ứng dụng, AI và giải pháp chuyển đổi số.",
+    "k133uj50": "Liên hệ ngay",
+    "k9jllvg": "Khởi tạo dự án công nghệ của doanh nghiệp",
+    "kvohhjo": "Chúng tôi tin rằng những bước tiến lớn luôn bắt đầu từ một cuộc trò chuyện. Dù bạn đang tìm kiếm sự tư vấn chiến lược công nghệ, giải pháp phần mềm tùy chỉnh, hay một đối tác đồng hành dài hạn, chúng tôi luôn sẵn sàng hỗ trợ bạn mở rộng quy mô.",
+    "k1aawfk3": "Chuyên cung cấp các giải pháp phần mềm được thiết kế riêng theo đặc thù doanh nghiệp.",
+    "k15otzj9": "Tiếp cận đội ngũ chuyên gia và kỹ sư CNTT giàu kinh nghiệm.",
+    "k9lwa9q": "Khảo sát, đánh giá tính khả thi của dự án hoàn toàn miễn phí.",
+    "k2d0anu": "Mô hình hợp tác linh hoạt, giúp doanh nghiệp kiểm soát và tối ưu chi phí hiệu quả.",
+    "knv4s0z": "Hãy chia sẻ ý tưởng của bạn",
+    "k14h1e6": "Họ",
+    "ks5zpb": "Tên",
+    "k1tlfzb1": "Địa chỉ email",
+    "k1tjj3qj": "Số điện thoại",
+    "k1iiv17r": "Lời nhắn cho chúng tôi",
+    "kmi4i48": "Đang gửi…",
+    "kcox2yy": "Nhận tư vấn miễn phí ngay",
+    "k1cdxoog": "Lĩnh vực - Winterfrost",
+    "k1f74w09": "Winterfrost phát triển giải pháp công nghệ chuyên biệt cho từng ngành — từ tài chính, y tế đến bán lẻ, logistics và bất động sản.",
+    "krtrm1z": "Hình nền Winterfrost",
+    "kwazxva": "Không tìm thấy trang",
+    "ktnduam": "Chúng tôi không tìm thấy trang bạn đang tìm kiếm. Vui lòng kiểm tra URL hoặc quay lại trang chủ.",
+    "kc8hd9u": "Công nghệ tại Winterfrost",
+    "k435989": "Khám phá nền tảng Back-end, Front-end, App, AI và điện toán đám mây được Winterfrost sử dụng để phát triển các sản phẩm số.",
+    "kqnlbpy": "Công việc của Tester tại Winterfrost sẽ làm những gì?",
+    "k1rohmxo": "Bài viết mang đến góc nhìn chân thực và chuyên sâu về công việc của một Software Tester thông qua nhật ký một ngày làm việc của Nguyễn Quốc Huy và Thục Quyên tại Winterfrost. Vượt ra khỏi định kiến “chỉ dùng thử rồi báo lỗi”, quy trình kiểm thử đòi hỏi sự phân tích kỹ lưỡng từ khâu đọc tài liệu đặc tả, lên kịch bản, đến việc đánh giá hiệu năng và giao diện trên các nền tảng công nghệ đa dạng. Bên cạnh việc phác họa chi tiết cách Tester phối hợp nhịp nhàng cùng Developer và BA để giải quyết bài toán trải nghiệm người dùng, bài viết còn đúc kết những lời khuyên thực tế cho người mới vào nghề và giới thiệu các cơ hội phát triển sự nghiệp hấp dẫn tại Winterfrost.",
+    "kprfyju": "Hữu Trí",
+    "kki27xm": "Một ngày làm việc của Business Analytics (BA) tại Winterfrost sẽ như thế nào?",
+    "k1adyffr": "Tìm hiểu xem vai trò của BA tại Winterfrost. Khám phá quy trình làm việc, cách giải quyết vấn đề, kinh nghiệm thực chiến và lời khuyên cho người mới.",
+    "k16l7fif": "Một ngày làm việc của Flutter Developer sẽ như thế nào?",
+    "k1rsvf9n": "Khám phá một ngày làm việc thực tế của Flutter Developer tại Winterfrost. Đọc ngay để nắm bắt quy trình làm việc, cách giải quyết bài toán kinh doanh và những lời khuyên đắt giá cho lĩnh vực IT.",
+    "k1yoljaj": "Khuyến mãi Winterfrost",
+    "k1cvak1s": "Tuyển dụng",
+    "k14xuapl": "Nộp CV về mail:",
+    "klpmq4w": "Hoặc Zalo:",
+    "k1kfp6qk": "Đặt lịch tư vấn ngay",
+    "k1vp9tyg": "Liên hệ ngay để xây dựng nền tảng công nghệ vững chắc cho doanh nghiệp của bạn",
+    "k16w7753": "Đặt lịch trao đổi cùng đội ngũ kỹ sư để nhận tư vấn chuyên sâu về lộ trình số hóa và phương án tối ưu chi phí triển khai.",
+    "k1hrxzg9": "Trò chuyện với chuyên gia →",
+    "kbvcrlw": "Tin tuyển dụng khác",
+    "k5u75qi": "Mức lương: Thỏa thuận",
+    "kqb7d8z": "Hạn nộp hồ sơ: 2026-12-31",
+    "klha8fm": "Xem tất cả",
+    "k4i8u0x": "Tuyển dụng Winterfrost",
+    "kq6zf4": "Khám phá các vị trí tuyển dụng và cơ hội phát triển sự nghiệp cùng đội ngũ Winterfrost.",
+    "k1nl56ic": "Vị trí ứng tuyển",
+    "kal4s1w": "Tất cả",
+    "k13m88rd": "Hành chánh nhân sự",
+    "k12uk7e": "Kế toán - Kiểm toán",
+    "k1n1xvcw": "Pháp chế",
+    "k16fiqcy": "Quản trị rủi ro",
+    "k3tzros": "Vận hành",
+    "k6xye8l": "Văn phòng",
+    "k19rs1yz": "Nơi làm việc",
+    "kn9ullg": "Cần Thơ",
+    "k1n80rdt": "Đà Nẵng",
+    "ka01zp1": "Hà Nội",
+    "kw9mbk2": "Hồ Chí Minh",
+    "krzu36j": "Loại tuyển dụng",
+    "k1884i9t": "Hình thức làm việc",
+    "kpbebgj": "Cộng tác viên",
+    "k1wirnzs": "Nhân viên",
+    "kl09q3d": "Quản lý",
+    "k1evf6io": "thực tập",
+    "kqchjhv": "Đồng hành cùng Winterfrost",
+    "kkaq6io": "trong kỷ nguyên số",
+    "kvi2y1": "Chúng tôi không chỉ cung cấp những giải pháp chuyển đổi số hiệu quả mà còn tạo ra một môi trường chuyên nghiệp để các bạn được",
+    "k8eswyb": "phát huy tài năng",
+    "ka8wf5y": "Với mạng lưới",
+    "k1r2ssz": "dự án trải dài ở hơn 15 quốc gia",
+    "k1nbvjc3": "trở thành một thành viên của Winterfrost là bạn sẽ có cơ hội làm việc trong một môi trường đa văn hóa, trực tiếp giải quyết những",
+    "k17tnhsm": "thách thức công nghệ lớn",
+    "k14t5v81": "Chúng tôi luôn chú trọng vào sự phát triển của nhân viên, vì tin rằng nhân viên thoải mái, vui vẻ làm việc sẽ tạo ra được những sản phẩm chất lượng.",
+    "k1cjcar6": "Đội ngũ Winterfrost",
+    "kw1c4oh": "Vị trí đang tuyển dụng",
+    "k1a2nlc5": "Tìm kiếm công việc phù hợp và gia nhập đội ngũ Winterfrost ngay hôm nay.",
+    "k1ihd60n": "Tìm kiếm vị trí tuyển dụng",
+    "kmqa1yw": "Tìm kiếm",
+    "kys5uyk": "Phân trang tuyển dụng",
+    "k1j144uh": "Tầm nhìn và định vị thương hiệu của Winterfrost là gì?",
+    "k1wpilfa": "Winterfrost định vị là đối tác công nghệ chiến lược. Tầm nhìn của chúng tôi là kiến tạo các giải pháp số đột phá, kết hợp hoàn hảo giữa công nghệ lõi (Core Tech) và trải nghiệm người dùng (UX) để giúp doanh nghiệp tự tin dẫn đầu kỷ nguyên số.",
+    "kzegk5h": "Bề dày kinh nghiệm và quy mô hoạt động của Winterfrost ra sao?",
+    "kp15d46": "Chúng tôi tự hào sở hữu đội ngũ chuyên gia với hơn 10 năm kinh nghiệm thực chiến. Tính đến nay, Winterfrost đã triển khai thành công các dự án công nghệ tại hơn 15 quốc gia trên toàn cầu, bao gồm các thị trường khó tính như Bắc Mỹ, Châu Âu và Châu Úc.",
+    "k1vcxb0x": "Đối tượng khách hàng chủ yếu của Winterfrost là những ai?",
+    "k1afe9ss": "Chúng tôi đồng hành cùng đa dạng quy mô doanh nghiệp: từ các Startup cần xây dựng sản phẩm MVP nhanh chóng để gọi vốn, đến các doanh nghiệp vừa và nhỏ muốn chuyển đổi số, và cả những Tập đoàn lớn cần các hệ thống Custom App, SaaS phức tạp.",
+    "kwsnxx1": "Winterfrost chuyên cung cấp dịch vụ gia công hay tư vấn giải pháp?",
+    "k5xj24l": "Chúng tôi không chỉ là đơn vị gia công phần mềm đơn thuần. Winterfrost đóng vai trò là nhà tư vấn giải pháp toàn diện: từ khâu phân tích bài toán kinh doanh, hoạch định kiến trúc hệ thống, cho đến thiết kế UI/UX và phát triển sản phẩm cuối cùng.",
+    "ksmht77": "Năng lực của đội ngũ nhân sự tại Winterfrost như thế nào?",
+    "k1u33q83": "Đội ngũ của chúng tôi là sự kết hợp giữa các Kỹ sư phần mềm giàu kinh nghiệm, Chuyên gia phân tích dữ liệu và các Nhà thiết kế UX/UI sáng tạo. Tất cả đều am hiểu sâu sắc về công nghệ hiện đại và luôn lấy hiệu quả kinh doanh của khách hàng làm trung tâm.",
+    "klc1wsz": "Winterfrost có ứng dụng các công nghệ tiên tiến không?",
+    "kwig183": "Chắc chắn. Bên cạnh Web và App, Winterfrost sở hữu năng lực chuyên sâu trong việc tích hợp Trí tuệ nhân tạo, phát triển nền tảng Blockchain bảo mật và kết nối vạn vật, giúp tự động hóa và khai phá tối đa tiềm năng dữ liệu của doanh nghiệp.",
+    "k16tmvc6": "Những con số minh chứng cho chất lượng dịch vụ của Winterfrost?",
+    "k12r6o29": "Chất lượng dịch vụ của Winterfrost được bảo chứng bằng sự tin tưởng của hơn 250+ đối tác toàn cầu. Đặc biệt, chúng tôi luôn duy trì tỷ lệ hài lòng của khách hàng ở mức 98% – thước đo chính xác nhất cho sự tận tâm và hiệu quả dự án.",
+    "k1expp0p": "Tôi ở nước ngoài thì việc hợp tác với Winterfrost sẽ diễn ra như thế nào?",
+    "k5qgd83": "Khoảng cách địa lý không phải là rào cản. Với kinh nghiệm làm việc với khách hàng tại 15+ quốc gia, chúng tôi áp dụng quy trình làm việc Agile/Scrum linh hoạt, báo cáo tiến độ minh bạch qua các nền tảng trực tuyến, đảm bảo dự án luôn đi đúng hướng dù bạn ở bất kỳ đâu.",
+    "k4nipa7": "Hãy trở thành đối tác cùng Winterfrost",
+    "k1ge4yzn": "Chúng tôi không chỉ cung cấp giải pháp kỹ thuật mà còn luôn đồng hành cùng sự phát triển lâu dài của doanh nghiệp. Hãy liên hệ để cùng nhau xây dựng những nền tảng công nghệ hiệu quả.",
+    "kmkrt1c": "Gửi yêu cầu tư vấn",
+    "k590n0w": "Các câu hỏi thường gặp",
+    "k1b3xxv4": "Giải Đáp",
+    "k1vqende": "Mọi",
+    "ke374uu": "Thắc Mắc",
+    "k118iq2s": "Wiki & Kiến thức công nghệ - Winterfrost",
+    "k19j2ntm": "Góc nhìn của Winterfrost về những xu hướng công nghệ và giải pháp chuyển đổi số.",
+    "k1yntfcy": "Tiếng Việt",
+    "kp82r5w": "हिन्दी",
+    "kp1w2q1": "Tăng Trưởng",
+    "k22yt8o": "Họ và tên của bạn",
+    "k11eclox": "Mô tả ngắn về yêu cầu của bạn",
+    "k1vg3sak": "Phản hồi nhanh chóng trong 24h.",
+    "ku3y917": "Làm việc trực tiếp với chuyên gia.",
+    "k10ckrc5": "Tư vấn chiến lược rõ ràng.",
+    "k150guhk": "Kết nối với chúng tôi",
+    "k1fs9rd1": "Dự Án",
+    "k2szj3b": "Ngay Hôm Nay",
+    "kfc9h30": "Liên hệ hợp tác",
+    "k1fasa6m": "Họ và tên*",
+    "k1ajhsfk": "Hoặc gửi mail trực tiếp tới:",
+    "k1d0joof": "Gửi yêu cầu",
+    "khi11kb": "Đặt lịch tư vấn",
+    "ki2qlvt": "Những con số",
+    "kkwz6m4": "minh chứng",
+    "k1i8v5d7": "cho giá trị",
+    "kogs9jp": "Liên hệ trực tiếp",
+    "kdeeq73": "Nhắn tin nhận tư vấn",
+    "k8pzogk": "Thị trường Winterfrost phục vụ",
+    "k1n3or0": "Dự án đã triển khai",
+    "ktqgo9l": "Năng lực",
+    "k1g4wnoo": "Phát Triển",
+    "k19tpzs6": "qua từng dự án",
+    "k1lglekr": "Kiến tạo nền tảng Web với giao diện UI/UX trực quan, chuẩn SEO và hiệu năng cao, giúp doanh nghiệp bứt phá tỷ lệ chuyển đổi trên nền tảng số.",
+    "k12cqup9": "Giảm chi phí vận hành",
+    "kod3xeh": "Tăng tốc độ xử lý dữ liệu",
+    "k1muqn2i": "Lê Khải Minh",
+    "kwmjy7j": "98% khách hàng hài lòng về dịch vụ",
+    "kjku9f7": "Tối ưu trải nghiệm người dùng để giữ chân khách hàng và thúc đẩy tăng trưởng.",
+    "ku7pug4": "Phát triển Phần mềm",
+    "k1ls1862": "Cung cấp",
+    "kv16om7": "giải pháp phần mềm chuyên sâu",
+    "kmy0zdv": "với kiến trúc linh hoạt, giải quyết triệt để bài toán vận hành phức tạp của doanh nghiệp.",
+    "ki1onzq": "Phát triển AI",
+    "ktbkc4r": "Ứng dụng AI/GenAI để",
+    "kz2xig2": "tự động hóa quy trình",
+    "k12qpx61": "và phân tích dữ liệu chuyên sâu, giúp tối ưu nguồn lực và tạo lợi thế cạnh tranh đột phá.",
+    "k1uo9djv": "Khách hàng tin tưởng dịch vụ",
+    "kcr38b9": "AI Chatbot thông minh",
+    "kzx5tqw": "Xem dự án nổi bật",
+    "k1y3x3x5": "Chuyên viên tư vấn người Việt của Winterfrost",
+    "k7z28pa": "Tổng quan về các dự án của chúng tôi",
+    "ks6ibqz": "Dự án tiêu biểu và giải pháp triển khai thực tế",
+    "k1neytx": "Winterfrost chúng tôi tạo ra các giải pháp số giúp cho các công ty phát triển và mở rộng hoạt động. Chúng tôi thường xuyên gặp gỡ với khách hàng để nắm rõ về quy trình làm việc của họ và tạo ra những sản phẩm phần mềm phù hợp với các mục tiêu thực tế. Mỗi dự án được thực hiện thông qua việc nghiên cứu cẩn thận để đảm bảo hiệu quả cho đối tác của doanh nghiệp.",
+    "k13obg59": "Chúng tôi chuyên",
+    "k1n8bhcz": "thiết kế và xây dựng website",
+    "kkxvu4l": "ứng dụng trên",
+    "k1mk5ou1": "điện thoại di động",
+    "k1jmtle2": "phát triển AI, cùng với các",
+    "k1btark6": "hệ thống quản lý doanh nghiệp chuyên biệt",
+    "k15r5gk5": "Đội ngũ kỹ sư tại Winterfrost Việt Nam sử dụng các nền tảng công nghệ ổn định để đảm bảo hiệu suất tốt và dễ dàng nâng cấp trong tương lai.",
+    "k1r7xo7l": "Winterfrost chú trọng đến việc tối ưu hóa giao diện và trải nghiệm người dùng nhằm nâng cao sự tương tác của người dùng. Chúng tôi đã thành công với nhiều dự án trong các lĩnh vực như tài chính, thương mại điện tử, giáo dục và vận tải. Những dự án nổi bật dưới đây thể hiện khả năng của chúng tôi trong việc cung cấp những dịch vụ chuyên nghiệp, đem đến những kết quả tốt và lợi nhuận cao cho doanh nghiệp.",
+    "k106txrn": "Bắt đầu dự án ngay!",
+    "kyooo0k": "Ứng dụng Nivora Connect, được phát triển bởi Winterfrost, là một nền tảng trực quan giúp kết nối cộng đồng người Việt tại Hàn Quốc với các dịch vụ thi...",
+    "k16k0x93": "Khám phá cách Winterfrost xây dựng ứng dụng Grevia Lawn với thiết kế hiệu suất cao, tối ưu đặt lịch dễ dàng và quản lý chăm sóc sân vườn chuyên...",
+    "k1myjg7l": "Website Loomora Rugs, được phát triển bởi Winterfrost, là một nền tảng thương mại điện tử cao cấp được thiết kế sang trọng, giúp trưng bày các sản ...",
+    "k1047x2j": "Winterfrost — Liên hệ tư vấn",
+    "k1wnbede": "Khởi Tạo",
+    "k1vcls4z": "Của Bạn",
+    "k1ez7uii": "Tất cả dự án",
+    "k1teqs7i": "Lĩnh vực",
+    "kkfblio": "Dịch vụ",
+    "k1xz37hm": "Công nghệ tài chính",
+    "km8e3yl": "Dầu khí",
+    "k7n1aeh": "Giáo dục",
+    "k146zzvf": "Kế toán",
+    "kn99dql": "Ngân hàng",
+    "kwjvfrj": "Nông nghiệp",
+    "k1r7e72y": "Phần mềm doanh nghiệp",
+    "kue3ppd": "Phần mềm tiện ích",
+    "kkzsysz": "Phát triển ứng dụng theo yêu cầu",
+    "klxa8al": "Tài chính doanh nghiệp",
+    "kmvvqqv": "Vận tải và Logistics",
+    "k1hssxax": "Không tìm thấy dự án phù hợp với bộ lọc.",
+    "k13m7pwz": "Phân trang",
+    "k1a9nm3i": "Uy tín ✦ Chất lượng ✦ Hiệu quả ✦\\u00a0\\u00a0",
+    "k1qeosiv": "Các dự án tiêu biểu",
+    "ksk9ofs": "tại Winterfrost",
+    "kkkoxh6": "Khung mô phỏng giao diện website chuyên nghiệp",
+    "k8altmf": "Khung mô phỏng giao diện mobile",
+    "k1vwdpmt": "Giao diện",
+    "k9zgnl0": "Hệ thống",
+    "kb172rl": "Cơ sở dữ liệu",
+    "k4oapv9": "What is the difference between custom software development and off-the-shelf software?",
+    "k14dd7b9": "Off-the-shelf software is built for broad market use and requires your business processes to conform to the vendor's product structure. Custom software development services produce a system built around your exact workflows, data models, and business rules, giving you full control, no redundant features, and no forced upgrades on a vendor's timeline.",
+    "key234q": "How do I know if I need custom software or an off-the-shelf solution?",
+    "k1p3be3t": "Off-the-shelf software works well when your processes are standard and you are willing to adapt your workflows to the vendor's product structure. Custom software development is the right choice when your business logic is proprietary, when you need deep integrations with existing systems, when licensing costs at scale exceed development investment, or when off-the-shelf limitations are directly constraining your operational efficiency. We offer a free discovery session to help you evaluate both paths objectively before committing to either.",
+    "k4atur7": "How long does custom software development take?",
+    "kz6u3id": "A focused MVP custom software development typically takes 8–12 weeks. A mid-scale system with 3–5 modules and backend integrations takes 3–6 months. A full custom enterprise software platform can take 6–12 months. Timeline depends on scope, number of integrations, and approval turnaround. We provide a milestone roadmap before development begins.",
+    "k13vs2w2": "Can you modernize or replace our existing legacy software?",
+    "kjlshc7": "Yes. Legacy software modernization is one of our core specializations. We audit your existing system's architecture, data structure, and integration dependencies, then design a phased migration plan that transitions your operations to a modern, cloud-native platform without business disruption. We can rebuild from scratch, re-architect modularly, or extend the existing system with a modern API layer.",
+    "k1auyzrr": "Do you build custom ERP and CRM systems from scratch?",
+    "k1856130": "Yes. We specialize in both custom ERP development and custom CRM development, designed around your specific business processes rather than a generic module configuration. This includes custom data models, workflow rules, user roles, reporting dashboards, and integrations with your existing tools (accounting software, email platforms, payment gateways, etc.).",
+    "k19myud5": "How do you handle requirements that change during development?",
+    "k3murxt": "We use Agile methodology with 2-week sprints. Requirement changes are managed through a structured change request process, assessed for scope impact and timeline before being added to the backlog. This ensures your custom software development project remains on budget and on schedule while accommodating legitimate business changes.",
+    "k1tumuef": "Who owns the source code after the project is complete?",
+    "kycqpjd": "100% of the source code, database schemas, API documentation, and all associated Intellectual Property rights are legally transferred to you upon project completion and final payment. No licensing agreements, no vendor lock-in, no recurring fees for software you paid to build.",
+    "k1hg7jrn": "Can Winterfrost integrate custom software with our existing systems?",
+    "k10577t7": "Yes. API and system integration is a core component of every custom software development engagement. We connect to ERP systems, CRMs, accounting platforms, payment gateways, HR systems, warehouse management systems, and custom-built internal tools, using REST, GraphQL, or direct database connectors depending on the integration requirements.",
+    "k1a5d8ao": "What does the team structure look like for a custom software development project?",
+    "k4m7q9h": "Every custom software development engagement is staffed with a dedicated team: a Solution Architect who owns the technical design, a Project Manager who handles timeline and communication, and 2–5 engineers depending on scope and delivery pace. You have direct access to the team through daily standups, sprint demos, and a shared project management board. No account managers as middlemen, no resource sharing with other projects during your engagement.",
+    "k1jri16q": "What happens after the custom software is launched?",
+    "k122j1j": "We offer structured post-launch support covering bug resolution, performance optimization, security patching, third-party API updates, and ongoing feature development sprints. Many clients retain Winterfrost as their long-term engineering partner — shipping new modules and enhancements on a regular sprint cadence as their business requirements evolve.",
+    "k1xg5dv2": "Xem thêm",
+    "kpws91p": "App Nivora Connect",
+    "k1dcbv7y": "App Grevia Lawn",
+    "kwerbek": "Website Loomora Rugs",
+    "k1x29vbr": "thiết bị thông minh IoT, cơ sở dữ liệu phi tập trung Blockchain",
+    "k1egiy28": "Winterfrost cung cấp những dịch vụ cốt lõi nào?",
+    "k1rckq0y": "Chúng tôi thực hiện điều này bằng việc đặt bản thân vào vấn đề mà doanh nghiệp đối mặt, từ đó chúng tôi hiểu rõ hơn và đưa ra giải pháp tối ưu nhất. Với dịch vụ",
+    "kwn6r9q": "thiết kế website",
+    "krkgen0": "phát triển ứng dụng di động",
+    "k9hesyk": "đặc biệt là",
+    "k1g8oyvq": "phát triển AI",
+    "k1sh1f9v": "chúng tôi cung cấp mọi dịch vụ cần thiết để giúp doanh nghiệp bứt phá trên thị trường.",
+    "k139zxff": "Thảo luận dự án ngay!",
+    "kzcodep": "Những công nghệ nổi bật tại Winterfrost",
+    "ka4yxh8": " được",
+    "k132cqyn": "Thức - Winterfrost",
+    "kd0uftu": "Tín - Winterfrost",
+    "krr3l5h": "Thư - Winterfrost",
+    "kko0wf3": "Tuấn - Winterfrost",
+    "kvgokvw": "Nguyễn Gia Hân",
+    "k8oxmu": "Điều ấn tượng nhất ở Winterfrost là khả năng tư vấn. Đội ngũ chuyên gia thấu hiểu hệ thống cốt lõi của chúng tôi rất nhanh, giúp chúng tôi chọn đúng giải pháp công nghệ thay vì lãng phí ngân sách vào những tính năng không cần thiết.",
+    "k1fvwsp5": "Trần Bảo Ngọc",
+    "k3nzrx4": "Đội ngũ Winterfrost làm việc rất chuyên nghiệp và có tư duy nhạy bén. Họ không chỉ thực hiện theo yêu cầu mà còn chủ động tư vấn những phương án thực tế để tối ưu quy trình quản lý cho chúng tôi. Kết quả bàn giao đạt chất lượng rất tốt và đáp ứng đúng mong đợi ban đầu của công ty.",
+    "k1c5yk3r": "Lê Quang Huy",
+    "k1awcilc": "Tôi đánh giá cao khả năng thấu hiểu bài toán kinh doanh của đội ngũ kỹ thuật tại đây. Quá trình phối hợp triển khai diễn ra suôn sẻ và hệ thống luôn hoạt động ổn định, giúp chúng tôi hoàn toàn yên tâm tập trung vào việc mở rộng thị trường. Đây thực sự là một đối tác công nghệ đáng tin cậy.",
+    "k13y2u9s": "Phạm Thu Hà",
+    "kpd7nob": "Sự tận tâm và trình độ chuyên môn của các chuyên gia tại Winterfrost là điều khiến tôi ấn tượng nhất. Mọi vấn đề phát sinh trong quá trình vận hành đều được các bạn xử lý nhanh chóng và triệt để, giúp công việc của chúng tôi không bị gián đoạn. Chúng tôi rất hài lòng với sự đồng hành này.",
+    "k19d6hx": "Võ Khánh Linh",
+    "kp401rj": "Sau khi hợp tác với nhiều đơn vị, tôi nhận thấy Winterfrost có quy trình làm việc rất minh bạch và rõ ràng. Họ cung cấp những nền tảng công nghệ vững chắc và luôn sẵn sàng hỗ trợ đội ngũ của tôi làm quen với hệ thống một cách hiệu quả nhất.",
+    "k4phzb3": "Đặng Quốc Bảo",
+    "kciwy6n": "Lựa chọn Winterfrost làm đối tác công nghệ dài hạn là một quyết định đúng đắn của doanh nghiệp chúng tôi. Đội ngũ của họ luôn thể hiện trách nhiệm cao từ khâu lên ý tưởng đến khi vận hành thực tế. Sự chuyên nghiệp và uy tín của họ đã giúp chúng tôi giải quyết được nhiều khó khăn trong quản trị.",
+    "kpukud3": "Tối ưu trải nghiệm đa thiết bị",
+    "kicpowe": "Tối ưu tiến độ, ra mắt thần tốc",
+    "kqdm92j": "Sẵn sàng vận hành & sinh lời ngay",
+    "k1plrymm": "An tâm tuyệt đối về bảo mật",
+    "k6h9whq": "Bao trọn gói phát hành ứng dụng",
+    "k1m6uvsv": "Đồng hành & hỗ trợ kỹ thuật tận tâm",
+    "kfh1ffy": "Gói dịch vụ nổi bật",
+    "kmfqqw6": "Chi phí",
+    "k2uq1jj": "minh bạch,",
+    "k4casx3": "hiệu quả rõ ràng",
+    "k1vtn3su": "Gói thiết kế App cơ bản",
+    "k1vnt99i": "Hoàn hảo cho các doanh nghiệp, startup muốn nhanh chóng thâm nhập thị trường với một ứng dụng ổn định, đầy đủ chức năng cốt lõi và tối ưu hóa chi phí.",
+    "kwd455t": "Gói cơ bản",
+    "ki1b5e8": "Gói nâng cao",
+    "k1235qp9": "Chi tiết quyền lợi",
+    "k1x2qp50": "60 - 120 triệu VNĐ",
+    "k18aii5j": "200 - 400 triệu VNĐ",
+    "k1igi150": "/Dự án",
+    "k7rgneq": "Lê Khải Minh - Co-Founder Winterfrost",
+    "k1o3wj43": "Đặt lịch trao đổi dự án",
+    "k1wuexj8": "Hãy chia sẻ tầm nhìn của bạn, Winterfrost sẽ giúp bạn thiết kế lộ trình phát triển ứng dụng tối ưu nhất.",
+    "k1mo0uu2": "Đặt lịch ngay!",
+    "k1xm22zn": "Email liên hệ",
+    "ku4gqm0": "Minh chứng từ đối tác",
+    "khc7kyw": "Phân Tích & Thấu hiểu",
+    "kyvesm7": "Tiếp nhận yêu cầu và nghiên cứu sâu mô hình kinh doanh cũng như hệ thống hiện tại của bạn. Đội ngũ chuyên gia của Winterfrost sẽ bóc tách vấn đề để xác định chính xác mục tiêu cốt lõi trước khi bắt đầu.",
+    "kdaumj4": "Tư vấn lộ trình & Giải pháp",
+    "k1vmim79": "Hoạch định lộ trình triển khai chi tiết và thiết kế kiến trúc hệ thống chuyên biệt. Chúng tôi lựa chọn công nghệ tối ưu nhất để đảm bảo hiệu suất cao và tránh lãng phí ngân sách của doanh nghiệp.",
+    "kedxssd": "Lập trình & Tối ưu",
+    "k1sc2t0y": "Hiện thực hóa ý tưởng với giao diện trực quan, lấy người dùng làm trung tâm. Ứng dụng mô hình Agile giúp quá trình lập trình diễn ra nhanh chóng, linh hoạt điều chỉnh và cập nhật tiến độ liên tục.",
+    "ktcy0rc": "Kiểm thử & Bàn giao",
+    "k1vfhmqs": "Tiến hành các quy trình kiểm thử khắt khe để đảm bảo hệ thống vận hành trơn tru 100%. Hỗ trợ đưa ứng dụng lên các nền tảng và chuyển giao toàn bộ quyền sở hữu trí tuệ.",
+    "kdl3gsn": "Hỗ trợ & Mở rộng",
+    "kl4xjwo": "Trách nhiệm của chúng tôi không dừng lại lúc ra mắt. Winterfrost tiếp tục giám sát hệ thống 24/7, cung cấp hỗ trợ kỹ thuật ưu tiên và sẵn sàng nâng cấp, mở rộng tính năng khi doanh nghiệp tăng trưởng quy mô.",
+    "k13qbrt0": "Quy trình tư vấn tại Winterfrost",
+    "k197bq4i": "Giai đoạn",
+    "k5eymu9": "Bắt đầu ngay!",
+    "k6ilxls": "activeTab === \"Tất cả\" || it.tab === activeTab, ); return (",
+    "kpghw63": "Tại Winterfrost, chúng tôi không chỉ xây dựng phần mềm, chúng tôi tháo gỡ những rào cản kỹ thuật để doanh nghiệp bạn vận hành trơn tru.",
+    "k1gq3erc": "Từ",
+    "k1nxu39c": "thiết kế app",
+    "k14l56d": "đến",
+    "kseiklf": "mọi dòng code đều được viết ra để tối ưu hóa chi phí và tạo đà tăng trưởng doanh thu thực tế cho doanh nghiệp.",
+    "k5wzxs9": "AI và Machine Learning đang mở ra một kỷ nguyên mới cho ngành y tế, nơi dữ liệu, trí tuệ nhân tạo và con người cùng phối hợp để nâng cao chất lượng chăm sóc sức khỏe. Từ hỗ trợ chẩn đoán chính xác, cá nhân hóa điều trị, theo dõi bệnh nhân theo thời gian thực đến tự động hóa quy trình vận hành bệnh viện, AI không chỉ giúp tối ưu chi phí mà còn cải thiện trải nghiệm của cả bác sĩ và người bệnh. Trong tương lai, khi kết hợp với Big Data, IoT, Cloud Computing và Blockchain, AI sẽ trở thành nền tảng cốt lõi của hệ sinh thái y tế thông minh. Đối với các bệnh viện, phòng khám và doanh nghiệp HealthTech, đầu tư vào AI ngay từ hôm nay không chỉ là đón đầu xu hướng công nghệ mà còn là chiến lược quan trọng để nâng cao năng lực cạnh tranh và thúc đẩy chuyển đổi số bền vững.",
+    "kr12p6": "Mô hình Gemini 3.6 Flash được Google thiết kế tối ưu cho các vòng lặp xử lý tự động trong phát triển phần mềm. Khi kết hợp với nền tảng Google Antigravity, hệ thống hỗ trợ điều phối đa nhân tố AI, tự động sửa lỗi và thực thi lệnh không đồng bộ. Mô hình giảm 17% lượng token đầu ra thừa nhờ cơ chế suy luận ngắn gọn, giúp tăng tốc độ phản hồi và tiết kiệm 16.6% chi phí API so với phiên bản tiền nhiệm. Dữ liệu tri thức của mô hình được cập nhật đến năm 2026. Mức giá vận hành được ấn định là 1.50 USD cho 1 triệu token đầu vào và 7.50 USD cho 1 triệu token đầu ra, hỗ trợ tối ưu chi phí vận hành cho các hệ thống tích hợp và triển khai tự động.",
+    "k1xp8ev4": "Blockchain đang mở ra một giai đoạn mới cho quá trình chuyển đổi số ngành y tế bằng cách giải quyết những bài toán cốt lõi về bảo mật dữ liệu, minh bạch thông tin, khả năng kết nối và tối ưu quy trình vận hành. Khi được kết hợp với AI, IoT và điện toán đám mây, Blockchain không chỉ giúp bảo vệ hồ sơ bệnh nhân, nâng cao hiệu quả quản lý bệnh viện và chuỗi cung ứng dược phẩm mà còn tạo nền tảng cho một hệ sinh thái chăm sóc sức khỏe thông minh, lấy bệnh nhân làm trung tâm. Đối với các bệnh viện, phòng khám và doanh nghiệp HealthTech, đầu tư vào Blockchain ngay từ hôm nay sẽ là bước đi chiến lược để nâng cao năng lực cạnh tranh và sẵn sàng cho tương lai của y tế số.",
+    "k1j4ixq6": "Một Healthcare CRM phù hợp không chỉ giúp quản lý dữ liệu bệnh nhân hiệu quả mà còn nâng cao trải nghiệm chăm sóc, tối ưu quy trình vận hành và tăng khả năng giữ chân bệnh nhân. Khi lựa chọn hệ thống CRM, các cơ sở y tế nên ưu tiên giải pháp có khả năng tích hợp linh hoạt, bảo mật theo tiêu chuẩn quốc tế, ứng dụng AI và dễ dàng mở rộng để đáp ứng nhu cầu phát triển lâu dài trong hành trình chuyển đổi số.",
+    "kd9b7pw": "AI Và Machine Learning Trong Y Tế",
+    "kp7xfdu": "Gemini 3.6 Flash và Google Antigravity",
+    "k1kjv23n": "Công Nghệ Blockchain Trong Y Tế",
+    "kd84uuq": "Bài viết mang đến góc nhìn chân thực và chuyên sâu về công việc của một Software Tester thông qua nhật ký một ngày làm việc của Nguyễn Quốc Huy và Thục Quyên tại Winterfrost. Vượt ra khỏi định kiến “chỉ dùng thử rồi báo lỗi”, quy trình kiểm thử đòi hỏi sự phân tích kỹ lưỡng từ khâu đọc tài liệu đặc tả, lên kịch bản, đến việc đánh giá hiệu năng và giao diện trên các nền tảng công nghệ đa dạng.",
+    "k190i701": "Bạn muốn doanh nghiệp thành công như vậy?",
+    "k1cx2dnb": "Hãy chia sẻ bài toán kinh doanh của bạn, Winterfrost Việt Nam sẽ cùng bạn xây dựng giải pháp công nghệ hiệu quả và phù hợp nhất.",
+    "k1g4ov9h": "Nhận tư vấn giải pháp ngay",
+    "kf3qzfq": "Các dự án nổi bật khác",
+    "kojrvuv": ">UI Design",
+    "k1q3onth": ">)[\\s\\S]*?(",
+    "k1kh6h29": "[^>]*>)[\\s\\S]*?(",
+    "k16j3rir": ")/, `$1<span class=",
+    "k1922o5d": "]*class=",
+    "k1gsfy5u": "> <div className=",
+    "ktcjyul": "> {marqueeImages.map((src, index) => ( <div className=",
+    "k1ix38l3": "draggable={false} />",
+    "k6uxxs4": "( 'button[aria-label=",
+    "kxzazae": "('button[aria-label=",
+    "knvm46j": ", placeWebCards), ); placeWebCards(); resetWebTimer(); } return () => { observer?.disconnect(); window.clearInterval(appTimer); window.clearInterval(webTimer); runningAnimations.forEach((animation) => animation.cancel()); webAnimations.forEach((animation) => animation.cancel()); appDisposers.forEach((dispose) => dispose()); webDisposers.forEach((dispose) => dispose()); }; }, [page.html]); return ( <>",
+    "k9ekgar": "] > section div:empty { display: none; } `}",
+    "k3kylge": "<span aria-hidden=",
+    "k1pir239": ", height: 1, marginBottom: -1 }} />",
+    "k1alpefo": "{uiDesignTarget && createPortal( page.uiMode ===",
+    "k1iijt23": ") : ( <CaseStudyUIDesign images={page.uiImages} mobileImages={[]} tabletImages={page.uiImages} heading=",
+    "k1pronqb": "phi tập trung",
+    "kht8u6u": "Xem dịch vụ",
+    "k1c3oqaa": "Gói Chuyên Nghiệp",
+    "kxuc4hw": "Lý do chọn Winterfrost",
+    "kormafp": "Vì sao nên chọn Winterfrost",
+    "k1mgj7g7": "Vì sao nên sử dụng dịch vụ",
+    "kuv5yfc": "Tại sao các doanh nghiệp năng lượng",
+    "kz5n6y1": "Lý do chọn năng lực công nghệ",
+    "kh0bhwu": "Lý do ngân hàng nên chọn dịch vụ",
+    "kfwqgpr": "Lợi thế cạnh tranh",
+    "kkjr58n": "Lý do doanh nghiệp nên chọn giải pháp",
+    "k8ilvh4": "Vì sao doanh nghiệp nên tin tưởng",
+    "k1xfxo49": "Vì sao nên chọn giả pháp tài chính",
+    "kd6a8z5": "Tại sao doanh nghiệp",
+    "k1mfonax": "Lý do doanh nghệ nên chọn",
+    "kykxzo1": "Tại sao chọn phát triển phần mềm y tế",
+    "k2d6lql": "Thành tựu của chúng tôi",
+    "k16wbl0j": "GIẢI PHÁP DOANH NGHIỆP",
+    "kw7a89b": "Các công nghệ Back-end chính",
+    "k1spckpn": "Các công nghệ Front-end chính",
+    "k4kas6p": "Các công nghệ thiết kế App",
+    "kxu0cs1": "Các công nghệ phát triển AI",
+    "kbchwyk": "Điện toán đám mây",
+    "k1mi7gdi": "Thiết Kế Website Chuyên Nghiệp",
+    "k1jkb9je": "Chúng tôi phát triển website tối ưu từ trang giới thiệu đến nền tảng thương mại điện tử. Hệ thống đảm bảo tốc độ tải trang cực nhanh, hiển thị hoàn hảo trên mọi thiết bị và tích hợp trình quản trị đơn giản, giúp bạn tối ưu trải nghiệm người dùng và thúc đẩy doanh thu trực tuyến hiệu quả.",
+    "ksk6fsd": "Thiết Kế App Chuyên Sâu",
+    "k1oyaqd": "Winterfrost lập trình ứng dụng di động mượt mà cho cả IOS và Android với giao diện trực quan. Chúng tôi chú trọng bảo mật dữ liệu tuyệt đối và tích hợp các công cụ thông báo tự động, giúp doanh nghiệp kết nối, tương tác và chăm sóc khách hàng liên tục mọi lúc, mọi nơi.",
+    "k1tprypx": "Phát Triển Trí Tuệ Nhân Tạo AI",
+    "k189awi1": "Chúng tôi tích hợp AI và các mô hình ngôn ngữ lớn (LLM) để tự động hóa quy trình vận hành và thiết lập trợ lý ảo 24/7. Giải pháp này giúp doanh nghiệp phân tích dữ liệu khổng lồ trong tích tắc, cắt giảm chi phí nhân sự và đưa ra các quyết định kinh doanh chính xác hơn.",
+    "kg3a245": "Phát Triển Phần Mềm Doanh Nghiệp",
+    "k10xs27y": "Chúng tôi thiết kế phần mềm quản trị nội bộ bám sát quy trình thực tế của bạn, giúp số hóa thao tác thủ công và đồng bộ dữ liệu tức thời. Hệ thống dễ dàng mở rộng khi công ty phát triển, đi kèm cam kết bàn giao 100% mã nguồn để bạn có toàn quyền sở hữu tài sản số.",
+    "k1mxarm7": "Tối ưu trải nghiệm người dùng",
+    "klv25p": "Chúng tôi chọn các công nghệ Front-end mới nhất để xây dựng giao diện trực quan, mượt mà và tương thích hoàn hảo trên mọi thiết bị của khách hàng.",
+    "k1iiuego": "Đảm bảo tốc độ phản hồi",
+    "k1ta1uwn": "Sử dụng kiến trúc Microservices giúp hệ thống xử lý dữ liệu tức thì và luôn giữ được sự ổn định dưới áp lực của hàng ngàn lượt truy cập cùng lúc.",
+    "klx4o9e": "Bảo vệ dữ liệu tuyệt đối",
+    "k1qp90f8": "Winterfrost tin dùng các thuật toán mã hóa đa lớp tiên tiến nhất để ngăn chặn rủi ro an ninh mạng, bảo vệ an toàn cho dữ liệu nội bộ và thông tin người dùng.",
+    "k1nixe0a": "Nâng cấp không gián đoạn",
+    "k7wvsis": "Ứng dụng điện toán đám mây Cloud để quá trình cập nhật và bảo trì hệ thống diễn ra ngầm, hoàn toàn không làm gián đoạn trải nghiệm của khách hàng.",
+    "k1s2c3nk": "Tự động hóa thông minh",
+    "kvug1uv": "Lựa chọn tích hợp AI nhằm tự động hóa việc phân tích hành vi người dùng, gợi ý cá nhân hóa và cung cấp hỗ trợ trực tuyến 24/7.",
+    "k1a1in7j": "Dễ dàng mở rộng quy mô",
+    "k1oqjum4": "Ưu tiên sử dụng nền tảng mã nguồn sạch và kiến trúc mở, giúp hệ thống luôn sẵn sàng tích hợp thêm các tính năng mới khi doanh nghiệp của bạn phát triển.",
+    "k5omjqr": "Các lĩnh vực chuyên môn",
+    "km7o9jz": "của Winterfrost",
+    "k1qg3tyb": "Những yếu tố kỹ thuật nào quyết định việc lựa chọn nền tảng công nghệ cho một dự án?",
+    "kw50l3v": "Việc chọn nền tảng công nghệ phụ thuộc hoàn toàn vào đặc thù bài toán kỹ thuật của từng dự án thay vì chạy theo xu hướng. Các kiến trúc sư hệ thống sẽ đánh giá dựa trên khối lượng dữ liệu cần xử lý, đồng thời, yêu cầu về độ trễ thời gian thực và khả năng tương thích với các cơ sở hạ tầng có sẵn. Một nền tảng công nghệ tối ưu phải giải quyết được sự cân bằng giữa hiệu năng phần mềm, chi phí vận hành máy chủ hàng tháng và sự thuận tiện cho đội ngũ công nghệ nội bộ của doanh nghiệp tiếp quản mã nguồn về sau.",
+    "k6rryfj": "Cấu trúc hệ thống được thiết kế như thế nào để đảm bảo không bị sập khi lượng người dùng tăng đột biến?",
+    "kbul6iv": "Để giải quyết bài toán mở rộng quy mô, các phần mềm doanh nghiệp thường được chúng tôi thiết kế theo kiến trúc vi dịch vụ kết hợp với công nghệ điện toán đám mây. Cách tiếp cận này chia nhỏ phần mềm thành nhiều vùng chức năng hoạt động độc lập, cho phép hệ thống tự động bổ sung tài nguyên máy chủ chỉ cho những tính năng đang bị quá tải thay vì phải nâng cấp toàn bộ. Kỹ thuật này giúp ứng dụng luôn duy trì tốc độ phản hồi ổn định và tiết kiệm tối đa chi phí hạ tầng mạng cho doanh nghiệp.",
+    "kpmzgjp": "Làm thế nào để phần mềm mới có thể kết nối và đồng bộ dữ liệu với các hệ thống quản lý cũ của doanh nghiệp?",
+    "k1vf5ai": "Việc đồng bộ dữ liệu giữa hệ thống mới và phần mềm cũ được thực hiện thông qua việc xây dựng các giao diện lập trình ứng dụng (API) tùy chỉnh. Lớp trung gian này hoạt động như một cầu nối dịch thuật, giúp hai hệ thống có nền tảng công nghệ khác nhau có thể trao đổi thông tin theo thời gian thực một cách an toàn. Cách làm này giúp doanh nghiệp tận dụng tối đa cơ sở dữ liệu hiện có, không phải nhập liệu lại từ đầu và duy trì tính toàn vẹn của thông tin xuyên suốt quá trình chuyển đổi số.",
+    "k6riibg": "Việc tích hợp trí tuệ nhân tạo AI vào các phần mềm đang hoạt động được thực hiện theo quy trình nào?",
+    "k1g9y94e": "Quá trình tích hợp AI bắt đầu bằng việc thiết lập các cổng kết nối dữ liệu an toàn để hệ thống có thể giao tiếp với các mô hình ngôn ngữ lớn LLM mà không làm gián đoạn luồng công việc hiện tại. Dữ liệu chuyên ngành của doanh nghiệp sau đó sẽ được chuẩn hóa và đưa vào huấn luyện tinh chỉnh để AI hiểu đúng nghiệp vụ thực tế. Toàn bộ quá trình xử lý thuật toán phức tạp này được phân luồng chạy trên các máy chủ độc lập, đảm bảo phần mềm chính vẫn hoạt động mượt mà khi AI đang thực thi nhiệm vụ.",
+    "k1m88gjg": "Tiêu chuẩn mã hóa và bảo mật dữ liệu nào được áp dụng để chống lại các lỗ hổng an ninh mạng hiện nay?",
+    "k1meqh8u": "Để bảo vệ toàn vẹn dữ liệu, cấu trúc phần mềm áp dụng các thuật toán mã hóa đầu cuối tiên tiến nhất cho cả dữ liệu lưu trữ tĩnh và dữ liệu đang truyền tải qua mạng. Hệ thống phân quyền được thiết kế nhiều lớp với các phương thức xác thực đa yếu tố nhằm ngăn chặn triệt để các truy cập trái phép từ bên ngoài. Trước khi đưa vào vận hành chính thức, toàn bộ mã nguồn đều phải vượt qua các công cụ quét lỗ hổng tự động và các kịch bản kiểm tra thâm nhập giả lập để đội ngũ kỹ sư vá lỗi kịp thời.",
+    "klvra13": "Làm sao để quá trình cập nhật tính năng mới hoặc sửa lỗi phần mềm không làm gián đoạn trải nghiệm của người dùng?",
+    "k1b0twpv": "Chúng tôi áp dụng quy trình tích hợp và triển khai liên tục để tự động hóa toàn bộ các bước kiểm thử và phát hành mã nguồn. Khi có bản cập nhật mới, hệ thống sẽ tự động tạo ra một môi trường máy chủ song song để chạy thử nghiệm các tính năng trước khi chuyển hướng lưu lượng người dùng sang phiên bản này. Phương pháp kỹ thuật này loại bỏ hoàn toàn thời gian chết của hệ thống, giúp phần mềm luôn được nâng cấp mượt mà mà khách hàng cuối không hề cảm nhận được sự gián đoạn.",
+    "k111gmkf": "Quy trình bàn giao mã nguồn bao gồm những tài liệu kỹ thuật chuyên sâu nào để doanh nghiệp tự chủ hoàn toàn?",
+    "k6y32pk": "Quy trình bàn giao tiêu chuẩn đòi hỏi sự minh bạch tuyệt đối về toàn bộ cấu trúc lập trình và tài nguyên dự án. Ngoài các tệp mã nguồn sạch và cơ sở dữ liệu gốc, doanh nghiệp sẽ nhận được bộ tài liệu kỹ thuật chi tiết bao gồm sơ đồ luồng dữ liệu, danh sách các thư viện mã nguồn mở đã sử dụng và kịch bản triển khai máy chủ. Bộ tài liệu này đóng vai trò như một bản thiết kế cốt lõi, giúp đội ngũ kỹ thuật của bạn ngay lập tức hiểu rõ hệ thống, tiến hành kiểm tra bảo mật độc lập và tự do phát triển thêm tính năng mới.",
+    "k1kstcb": "Tại Winterfrost, chúng tôi phát triển các dự án",
+    "k1pz3qfp": "phần mềm",
+    "k1pldw2l": "bằng những ngôn ngữ lập trình mới nhất. Việc sử dụng công nghệ hiện đại giúp hệ thống hoạt động mượt mà, xử lý dữ liệu nhanh và luôn được bảo vệ an toàn trước các rủi ro mạng.",
+    "k1ijoklm": "Hơn nữa, nền tảng mới giúp bạn rất dễ dàng nâng cấp tính năng hoặc kết nối với các phần mềm khác khi doanh nghiệp lớn mạnh. Đặc biệt, chúng tôi cam kết bàn giao 100% mã nguồn để bạn hoàn toàn sở hữu và kiểm soát phần mềm của mình.",
+    "k1emydos": "Nền tảng công nghệ phát triển phần mềm Winterfrost",
+    "k1bgkc2f": "Với hơn 10 năm kinh nghiệm, Winterfrost chúng tôi cung cấp các giải pháp chuyển đổi số toàn diện từ",
+    "kl71yh1": "phát triển trí tuệ nhân tạo AI",
+    "kiyjndl": "cho cả startup và các tập đoàn lớn. Đội ngũ chúng tôi làm chủ hệ sinh thái công nghệ đa dạng bao gồm Front-end, Back-end, AI và",
+    "k1gpk4u7": "để sẵn sàng tiếp nhận mọi quy mô dự án.",
+    "kxedjqr": "Chúng tôi đặc biệt có thế mạnh và không ngại khó khăn trong việc giải quyết các hệ thống phần mềm phức tạp với chi phí tối ưu nhất. Tất cả nhân viên tại Winterfrost đều được đào tạo bài bản và có nhiều năm kinh nghiệm thực chiến, đảm bảo mang đến cho khách hàng",
+    "k1debwq5": "những sản phẩm chất lượng",
+    "kn2bi1l": "cao và vận hành ổn định nhất.",
+    "k1wmn13n": "Công nghệ phát triển phần mềm Winterfrost",
+    "ku92pgl": "Chuyển hóa ý tưởng thành sản phẩm thực tế",
+    "kyuj7o2": "Chia sẻ bài toán vận hành của bạn, đội ngũ Winterfrost sẽ phác thảo ngay nền tảng công nghệ phù hợp nhất. Xây dựng hệ thống nhanh chóng, bảo mật chặt chẽ và cam kết bạn sẽ sở hữu 100% mã nguồn.",
+    "k1l2o3xr": "Bắt đầu dự án của bạn ngay!",
+    "k1wskzi5": "Giải đáp chi tiết về kiến trúc hệ thống, tiêu chuẩn bảo mật và quyền sở hữu mã nguồn trong các dự án công nghệ tại Winterfrost.",
+    "k1u3d0fj": "Công nghệ và Ngôn ngữ lập trình",
+    "kgv7ep8": "Tổng quan công nghệ",
+    "kpwc550": "Năng lực triển khai và đội ngũ tại Winterfrost",
+    "kfa6zmu": "Ứng dụng công nghệ",
+    "k1uk2m95": "Sử dụng công nghệ",
+    "kszmp7k": "trong chuyển đổi số",
+    "k1gg9bmb": "Chi tiết",
+    "k1qxs6gf": "Xem tất cả giải pháp",
+    "kp80eyx": "Giá trị của các công nghệ",
+    "k87p41u": "Lý do Winterfrost",
+    "krw90zy": "chọn những công nghệ này",
+    "k1ld3fjg": "Phương Ly",
+    "k1j0qb4m": "Giải mã từ A – Z quy trình thiết kế giao diện người dùng cho người mới bắt đầu",
+    "k1cizpwd": "Quy Trình Thiết Kế App Chuẩn UX/UI Tại Winterfrost",
+    "k8loyfl": "Hướng dẫn sử dụng Figma cho thiết kế App",
+    "k1ptg80p": "Go Office – Phần mềm doanh nghiệp phát triển bởi Winterfrost",
+    "k1dcocsx": "GIẢI PHÁP DOANH NGHIỆP PHẦN MỀM",
+    "kb1erfh": "Thiết Kế Phần Mềm Bán Hàng: Những Tiêu Chí Quan Trọng Doanh Nghiệp Cần Biết Trước Khi Đầu Tư",
+    "kj5xl9": "PHẦN MỀM",
+    "k13hc3z2": "Báo Giá Phát Triển Phần Mềm Theo Yêu Cầu Mới Nhất",
+    "kj4eit8": "AI Bias Trong Healthcare: Thách Thức Quan Trọng Của Ngành Y Tế Trong Tương Lai",
+    "k1atz6rm": "PHƯƠNG PHÁP PHÁT TRIỂN",
+    "k1jjidz8": "10 Ứng Dụng AI Trong Y Tế Đang Thay Đổi Ngành Chăm Sóc Sức Khỏe",
+    "k1b8td0v": "Hướng Dẫn Thuê Thiết Kế Website Phù Hợp Cho Startup & SMEs",
+    "k1dqqlj5": "Hướng Dẫn Chi Tiết Cách Developer Cho Startup Từ A–Z",
+    "k10hqsu6": "Khởi Nghiệp Kinh Doanh Fantasy Sports Online: Hướng Dẫn Chi Tiết",
+    "k15o6wb1": "Phần Mềm Bệnh Viện Thiết Kế Riêng Hay Phần Mềm Y Tế Có Sẵn? So Sánh Chi Tiết",
+    "k3vhvqd": "Hướng Dẫn Phát Triển App Logistics: Tính Năng, Công Nghệ Và Những Sai Lầm Thường Gặp",
+    "krmrivb": "Top 10 Công Cụ AI Tốt Nhất Trong Healthcare Giúp Nâng Cao Chất Lượng Chăm Sóc Bệnh Nhân",
+    "k16fb95z": "Top 10 công ty lập trình phần mềm lớn nhất Việt Nam",
+    "ks4l58t": "Top 10 Công Ty Phát Triển Web App Hàng Đầu Việt Nam",
+    "k1ws0bhs": "Top 10 Ngôn Ngữ Lập Trình Tốt Nhất Để Phát Triển App Chăm Sóc Sức Khỏe",
+    "k4wmuvu": "Xem bài viết",
+    "kc67gjm": "Tác giả",
+    "k14rwwtd": "Năm",
+    "ky917o3": "Chủ đề",
+    "k14x8s30": "Mục lục",
+    "kztznp6": "Bước vào hành trình thành công",
+    "kqgup96": "Họ Tên",
+    "ksppfho": "Họ Tên *",
+    "k1nq8so1": "Số điện thoại *",
+    "kwj0r36": "Chọn dịch vụ",
+    "krnb7am": "Thiết kế website",
+    "kubo5mo": "Phát triển ứng dụng SaaS",
+    "kai3nkk": "Vận hành và bảo trì",
+    "ki33z4l": "Phát triển phần mềm doanh nghiệp",
+    "kktys71": "Phát triển phần mềm MVP",
+    "krunszd": "Phát triển DevOps",
+    "k7d193k": "Phát triển IoT",
+    "k3iqlkq": "Phát triển Blockchain",
+    "k12ucnla": "Dịch vụ *",
+    "kfe18yl": "Nội dung",
+    "k16sais": "Hãy để lại lời nhắn",
+    "k1ebv5y6": "Gửi thông tin đặt lịch",
+    "kvax71g": "Bài viết liên quan",
+    "k1l95tu": "Bài viết mới nhất",
+    "k1kua8cm": "Bản tin Winterfrost",
+    "k17repnp": "Công nghệ",
+    "k8ej68j": "Giải pháp Doanh nghiệp",
+    "k1ayqnhx": "Phần mềm",
+    "k1ajkxpr": "Phương pháp phát triển",
+    "k1rsbfkg": "Góc nhìn của Winterfrost về những xu hướng công nghệ và giải pháp chuyển đổi số",
+    "kilbhsx": "Tìm kiếm bài viết",
+    "kdw28rv": "Một ngày là tester tại Winterfrost",
+    "k19q2ybs": "UI/UX Designer Là Gì? Hành Trang Cần Có Để Bước Vào Nghề Thiết Kế UI/UX",
+    "kqc7u3k": "Flutter so với React Native và Xamarin: Nên chọn framework nào cho phát triển Mobile?",
+    "k1lwj4fb": "Flutter so với React Native và Xamarin Nên chọn framework nào cho phát triển Mobile",
+    "k3ddftn": "Top 10 Khóa Học Back-End Developer Tốt Nhất",
+    "klbeetq": "Một ngày làm việc của một Backend Engineer tại Winterfrost",
+    "k93zl9u": "Ngày làm việc của một Backend",
+    "k1kmgnbo": "React Native Developer là gì? Kỹ năng và mô tả công việc React Native",
+    "k1b0lm3e": "React Native Developer là gì",
+    "k135oz38": "Một ngày làm việc của Business Analytics",
+    "k1tyhc25": "Một ngày làm việc của Flutter Developer tại Winterfrost",
+    "k1g4w89p": "Lộ trình nghề nghiệp Software Engineer: Cách chọn hướng đi phù hợp với bạn",
+    "k4rqyyv": "Lộ trình nghề nghiệp Software Engineer",
+    "k11319cu": "Lộ trình sự nghiệp của một Software Engineer không có một công thức cố định cho tất cả mọi người. Điều quan trọng không phải là lựa chọn Front-end, Back-end, Mobile, AI hay DevOps ngay từ đầu, mà là không ngừng học hỏi, tích lũy kinh nghiệm thực tế và xây dựng tư duy giải quyết vấn đề. Khi nền tảng kỹ thuật ngày càng vững chắc, bạn sẽ có nhiều cơ hội phát triển theo hướng chuyên gia (Technical Expert), quản lý (Engineering Manager, CTO) hoặc khởi nghiệp với chính những sản phẩm công nghệ của mình. Trong một ngành luôn thay đổi như CNTT, khả năng thích nghi, tinh thần học tập liên tục và sự chính trực trong công việc sẽ là những yếu tố tạo nên lợi thế cạnh tranh và giúp bạn xây dựng một sự nghiệp bền vững trong dài hạn.",
+    "k1xmbvxq": "Chủ đề: Work life",
+    "k4irkug": "Tìm kiếm danh mục...",
+    "k1k5r5nv": "Edunora là nền tảng đào tạo được Winterfrost thiết kế với trải nghiệm trực quan, hiện đại và tối ưu trên mọi thiết bị.",
+    "kksv714": "Website Virela Interior giới thiệu sản phẩm, năng lực thi công và dấu ấn thương hiệu bằng một giao diện sang trọng, giàu hình ảnh.",
+    "k3eseya": "Ceranova sở hữu website thương mại điện tử tinh tế, làm nổi bật vẻ đẹp thủ công và giúp khách hàng mua sắm thuận tiện.",
+    "k1kmdzy6": "Website Rovena Travel được xây dựng để truyền cảm hứng du lịch, trình bày tour rõ ràng và tối ưu hành trình chuyển đổi của khách hàng.",
+    "k1bwf4ht": "Website Zenovia Retail đồng bộ nhận diện thương hiệu, sản phẩm và hệ thống đại lý trong một trải nghiệm bán lẻ hiện đại.",
+    "k1s4noo1": "Website Veloura Nails thể hiện phong cách dịch vụ cao cấp với giao diện cuốn hút, dễ khám phá và thuận tiện đặt lịch.",
+    "k1cb9hoo": "Phát Triển AI Chatbot: Hướng Dẫn Toàn Diện Từ A–Z",
+    "k1ereplz": "AI chatbot đang trở thành công cụ quan trọng giúp doanh nghiệp tự động hóa chăm sóc khách hàng, tối ưu vận hành và nâng cao trải nghiệm người dùng trên nhiều nền tảng khác nhau. Nhờ ứng dụng NLP, Machine Learning và Generative AI, chatbot hiện đại có thể hiểu ngữ cảnh, phản hồi tự nhiên và hỗ trợ doanh nghiệp tăng hiệu suất hoạt động trong dài hạn. Để triển khai hiệu quả, doanh nghiệp cần lựa chọn đúng công nghệ và đối tác phát triển phù hợp với mục tiêu kinh doanh của mình.",
+    "k1gf4gs4": "UI/UX Là Gì? Ý Nghĩa Quan Trọng của Thiết Kế UI/UX Đối Với Website",
+    "kakql3i": "UI và UX không chỉ là yếu tố thẩm mỹ mà còn là nền tảng quyết định hiệu quả kinh doanh của website, ứng dụng và sản phẩm số. Một thiết kế UI chuyên nghiệp giúp tạo ấn tượng mạnh mẽ, tăng khả năng nhận diện thương hiệu, trong khi UX tối ưu giúp người dùng dễ dàng tìm kiếm thông tin, thực hiện hành động và duy trì sự hài lòng trong suốt quá trình sử dụng. Sự kết hợp hài hòa giữa UI và UX không chỉ nâng cao trải nghiệm khách hàng mà còn góp phần cải thiện tỷ lệ chuyển đổi, tăng hiệu quả SEO, giảm chi phí vận hành và tạo lợi thế cạnh tranh bền vững cho doanh nghiệp trong môi trường số ngày càng khốc liệt.",
+    "k1dq1we0": "Cẩm Nang Triển Khai CRM Hiệu Quả: Những Lưu Ý Không Thể Bỏ Qua",
+    "kbugchp": "Phần mềm CRM không chỉ là công cụ quản lý dữ liệu khách hàng mà còn là nền tảng chiến lược giúp doanh nghiệp tối ưu toàn bộ quy trình bán hàng, marketing và chăm sóc khách hàng một cách hệ thống. Việc triển khai CRM hiệu quả đòi hỏi sự kết hợp giữa chiến lược rõ ràng, quy trình phù hợp và yếu tố con người làm trung tâm, thay vì chỉ tập trung vào công nghệ. Khi lựa chọn đúng loại CRM (Cloud, On-Premises hay tùy chỉnh) và áp dụng linh hoạt theo đặc thù doanh nghiệp, CRM sẽ giúp nâng cao trải nghiệm khách hàng, tăng hiệu suất vận hành và tạo đà tăng trưởng bền vững trong quá trình chuyển đổi số.",
+    "k147n5vz": "WordPress là gì? Ưu, nhược điểm? Tại sao nên dùng để thiết kế web?",
+    "ktxwzkl": "Làm chủ ngay nền tảng xây dựng website phổ biến nhất hành tinh để biến mọi ý tưởng thành hiện thực mà không cần kiến thức lập trình chuyên sâu. Bài viết này sẽ giúp bạn thấu hiểu toàn diện sức mạnh của WordPress, từ việc tối ưu chi phí, đập tan những định kiến về hiệu suất, cho đến cách chọn lựa đúng nền tảng để bắt đầu hành trình chinh phục không gian số một cách chuyên nghiệp và hiệu quả nhất.",
+    "k1rrrgty": "Phát Triển MVP Cho Startup: Hướng Dẫn Chi Tiết Từng Bước Từ A–Z",
+    "kitrbp7": "Phát triển MVP không chỉ là cách tiết kiệm chi phí mà còn là chiến lược cốt lõi giúp startup kiểm chứng ý tưởng nhanh, giảm rủi ro và rút ngắn thời gian ra thị trường. Bằng cách tập trung vào những tính năng quan trọng nhất, thu thập phản hồi từ người dùng thực và liên tục cải tiến theo dữ liệu, doanh nghiệp có thể xây dựng sản phẩm đúng nhu cầu thay vì dựa trên giả định. Một MVP được triển khai đúng cách không chỉ giúp tối ưu nguồn lực mà còn tạo nền tảng vững chắc để mở rộng, thu hút nhà đầu tư và tiến tới product–market fit bền vững.",
+    "k18ezrd4": "JavaScript là gì? Lý do nên dùng JavaScript khi thiết kế website",
+    "k7f12hi": "JavaScript không chỉ là ngôn ngữ lập trình phổ biến mà còn là nền tảng cốt lõi giúp website hiện đại trở nên tương tác, linh hoạt và giàu trải nghiệm người dùng hơn. Từ hiệu ứng động, xử lý dữ liệu thời gian thực đến phát triển các web app phức tạp, JavaScript đóng vai trò quan trọng trong cả giao diện (UI) lẫn trải nghiệm người dùng (UX). Dù tồn tại một số thách thức về hiệu suất và bảo mật, JavaScript vẫn là công nghệ không thể thiếu trong mọi dự án thiết kế website chuyên nghiệp hiện nay.",
+    "k12fdtjm": "Gemini 3.6 Flash và Google Antigravity – Giải pháp tối ưu cho lập trình",
+    "k1u13eb4": "Công Nghệ Blockchain Trong Y Tế: Lợi Ích Và Ứng Dụng Thực Tiễn",
+    "k1m9ww5a": "Blockchain đang mở ra một giai đoạn mới cho quá trình chuyển đổi số ngành y tế bằng cách giải quyết những bài toán cốt lõi về bảo mật dữ liệu, minh bạch thông tin, khả năng kết nối và tối ưu quy trình vận hành.",
+    "k1qzq9i9": "Top 10+ Phần Mềm CRM Y Tế Tốt Nhất Cho Bệnh Viện Và Phòng Khám",
+    "k14ootjv": "Một Healthcare CRM phù hợp không chỉ giúp quản lý dữ liệu bệnh nhân hiệu quả mà còn nâng cao trải nghiệm chăm sóc, tối ưu quy trình vận hành và tăng khả năng giữ chân bệnh nhân.",
+    "k1yfpd8z": "Cơ chế hoạt động của Chatbot định hướng tác vụ",
+    "k40oxzy": "Bài viết này sẽ giúp bạn giải đáp chi tiết về Chatbot định hướng tác vụ từ bản chất, cơ chế hoạt động đến cách triển khai. Cùng Winterfrost khám phá giải pháp tự động hóa quy trình kinh doanh trơn tru.",
+    "k1pep51m": "Lợi Ích Của App Y Tế Đối Với Bệnh Nhân Và Bác Sĩ",
+    "k1ab7qqk": "Ứng dụng y tế không chỉ giúp bệnh nhân tiếp cận dịch vụ chăm sóc sức khỏe nhanh chóng và thuận tiện hơn mà còn hỗ trợ bác sĩ, bệnh viện tối ưu quy trình khám chữa bệnh, quản lý dữ liệu và nâng cao chất lượng điều trị.",
+    "kz1qnqe": "Chatbot truy xuất dựa trên dữ liệu là gì? Hướng dẫn từ A-Z",
+    "kifd8im": "Để khắc phục hoàn toàn rủi ro bịa đặt nội dung từ AI, Chatbot dựa trên truy xuất dữ liệu ra đời như một giải pháp tối ưu, hoạt động bằng cách chỉ trích xuất thông tin từ nguồn tài liệu nội bộ đã được doanh nghiệp chuẩn hóa.",
+    "k1tcf826": "Vui lòng nhập họ tên",
+    "kjgofhv": "Số điện thoại không hợp lệ",
+    "k1nsau2n": "Email không hợp lệ",
+    "k9bgmqj": "Vui lòng mô tả nhu cầu chi tiết hơn",
+    "kbbunp7": "Dữ liệu không hợp lệ",
+    "kmbobfi": "Cảm ơn bạn đã liên hệ. Chúng tôi sẽ phản hồi trong vòng 24 giờ.",
+    "kn0mxf2": "Home",
+    "k12nasht": "Wiki",
+    "k1p2m6he": "Work life",
+    "kqkbdns": "NEXT",
+    "kbmxiz1": "Case-studies",
+    "kpibxgy": "Work Life",
+    "kbfu78y": "WORK LIFE",
+    "k1efyut2": "Xem Case Study",
+    "kdoqjbh": "Work-Life",
+    "k9xx36n": "AI",
+    "k18aoloc": "Top List",
+    "k1mxldec": "UIUX Design",
+    "kdc7alm": "Website",
+    "k366dvg": "Mobile App",
+    "k8ljjfj": "Blockchain",
+    "k1j2ddy7": "IoT",
+    "kknjjcr": "Startups",
+    "kggjuyh": "Date",
+    "k15hxgmu": "Author",
+    "k3dw7ft": "Scope of Work",
+    "k1espu3h": "View Live Site",
+    "k76kub1": "Search...",
+    "knpab1o": "From our insights,",
+    "ksq76pj": "industry knowledge.",
+    "ku3gtop": "Back Home",
+    "k1oav76x": "Với hành trình 10 năm chuyển đổi số, Winterfrost không chỉ cung cấp phần mềm, chúng tôi kiến tạo các hệ sinh thái công nghệ giúp doanh nghiệp tối ưu vận hành và bứt phá lợi thế cạnh tranh trên thị trường.",
+    "k11znac9": "Nhận tư vấn ngay !",
+    "knmhse9": "Khám phá dự án",
+    "k1ax6bex": "Về Winterfrost",
+    "k5k0n8b": "Từ thiết kế website, thiết kế app đến phát triển AI, mọi dòng code đều được viết ra để tối ưu hóa chi phí và tạo đà tăng trưởng doanh thu thực tế cho doanh nghiệp.",
+    "kw88vgf": "Làm cho một hệ thống trở nên phức tạp thì rất dễ, nhưng gọt giũa nó đến mức đơn giản và hiệu quả mới là thách thức thực sự. Chúng tôi chọn làm những việc khó, để khách hàng của mình có một hành trình phát triển dễ dàng nhất.",
+    "kllt31p": "CO-Founder",
+    "klqmcf2": "Cung cấp giải pháp phần mềm chuyên sâu với kiến trúc linh hoạt, giải quyết triệt để bài toán vận hành phức tạp của doanh nghiệp.",
+    "k7jg2js": "Ứng dụng AI/Generative AI để tự động hóa quy trình, phân tích dữ liệu và tạo lợi thế cạnh tranh.",
+    "knqtt3g": "Dấu ấn năng lực",
+    "k1m85w6a": "Năm kinh nghiệm thực chiến trong lĩnh vực phát triển phần mềm và kiến tạo giải pháp chuyển đổi số toàn diện.",
+    "k1tj1dui": "Đối tác và doanh nghiệp từ startup đến tập đoàn lớn đã tin tưởng lựa chọn đồng hành cùng Winterfrost.",
+    "k1jojr1h": "Quốc gia trên toàn cầu đã được Winterfrost triển khai thành công các giải pháp công nghệ.",
+    "kng8c2w": "Tỷ lệ khách hàng hài lòng, gắn bó nhờ chất lượng dự án vượt trội và hiệu suất vận hành thực tế.",
+    "k1vvm2ar": "Về chúng tôi",
+    "k1i5wn75": "Winterfrost là đối tác công nghệ B2B hàng đầu. Chuyên thiết kế website, app và giải pháp AI giúp doanh nghiệp chuyển đổi số, tối ưu vận hành hiệu quả.",
+    "ktb6idf": "Liên hệ",
+    "k1x9djqy": "Liên hệ nhận tư vấn, hỗ trợ thiết kế website, app, phát triển AI chuyên nghiệp cho doanh nghiệp, giúp doanh nghiệp thúc đẩy phát triển trong kỉ nguyên số.",
+    "k9vo1sg": "Liên hệ - Winterfrost Liên hệ Liên hệ ngay Khởi tạo dự án công nghệ của doanh nghiệp Chúng tôi tin rằng những bước tiến lớn luôn bắt đầu từ một cuộc trò chuyện. Dù bạn đang tìm kiếm sự tư vấn chiến lược công nghệ, giải pháp phần mềm tùy chỉnh, hay một đối tác đồng hành dài hạn, chúng tôi luôn sẵn sàng hỗ trợ bạn mở rộng quy mô. Chuyên cung cấp các giải pháp phần mềm được thiết kế riêng theo đặc thù doanh nghiệp. Tiếp cận đội ngũ chuyên gia và kỹ sư CNTT giàu kinh nghiệm. Khảo sát, đánh giá tính khả thi của dự án hoàn toàn miễn phí. Mô hình hợp tác linh hoạt, giúp doanh nghiệp kiểm soát và tối ưu chi phí hiệu quả. [email protected] 097 145 04 54 Hãy chia sẻ ý tưởng của bạn Họ Tên Email Số điện thoại Lời nhắn cho chúng tôi Nhận tư vấn miễn phí ngay Kết nối với chúng tôi Khởi Tạo Dự Án Của Bạn Ngay Hôm Nay Liên hệ hợp tác Họ và tên* Email* Hoặc gửi mail trực tiếp tới: [email protected] Gửi yêu cầu Phản hồi nhanh chóng trong 24h. Làm việc trực tiếp với chuyên gia. Tư vấn chiến lược rõ ràng. Đặt lịch tư vấn Đặt lịch tư vấn Menu Trang chủ Giới thiệu Case Studies Lĩnh vực Wiki Dịch vụ Phát triển phần mềm Thiết kế website Phát triển AI Phát triển ứng dụng SaaS Thiết kế App Vận hành và bảo trì Phát triển phần mềm doanh nghiệp Phát triển phần mềm MVP Hạ tầng công nghệ Phát triển DevOps Phát triển IoT Phát triển Blockchain Liên hệ 097 145 04 54 [email protected] Văn phòng Vinhomes Grand Park, Quận 9, Thành phố Hồ Chí Minh, Việt Nam. WINTERFROST Mạng xã hội Winterfrost Winterfrost Winterfrost Tech Winterfrost Media Copyright © 2026 Winterfrost. All rights reserved. Designed by Winterfrost • Privacy Policy",
+    "kr78lw": "Khởi tạo dự án công nghệ của doanh nghiệp ",
+    "k1kr5l0v": "[email protected]",
+    "kinbfc7": "Email",
+    "k2kegpr": "Lĩnh vực hoạt động",
+    "k1fuv99x": "Giải pháp tiên tiến",
+    "kfx4hz6": "cho từng lĩnh vực",
+    "k1mys9mj": "Winterfrost mang đến các giải pháp công nghệ hiện đại, sẵn sàng giải quyết các bài toán kinh doanh theo từng lĩnh vực đặc thù. Chúng tôi biết rằng mỗi ngành nghề đều có cách vận hành riêng, không chỉ đơn thuần tìm ra vấn đề và khắc phục. Do đó, đội ngũ kỹ sư chuyên nghiệp của chúng tôi với kinh nghiệm đa lĩnh vực sẽ giúp doanh nghiệp tạo ra hệ sinh thái thông minh, vừa tối ưu hóa quy trình vừa tạo ra lợi thế cạnh tranh trên thị trường.",
+    "k1i5jqro": "Chúng tôi thực hiện điều này bằng việc đặt bản thân vào vấn đề mà doanh nghiệp đối mặt, từ đó chúng tôi hiểu rõ hơn và đưa ra giải pháp tối ưu nhất. Với dịch vụ thiết kế website, phát triển ứng dụng di động, đặc biệt là phát triển AI, chúng tôi cung cấp mọi dịch vụ cần thiết để giúp doanh nghiệp bứt phá trên thị trường.",
+    "k1pbdg25": "Winterfrost cam kết đồng hành cùng doanh nghiệp, giúp bạn sử dụng công nghệ như đòn bẩy cho sự tăng trưởng bền vững.",
+    "k10gx42a": "Tham khảo ý kiến chuyên gia",
+    "kfxv50v": "Ngành phát triển phần mềm",
+    "k1scefju": "Tổng quan",
+    "k174dzp3": "Đồng hành cùng doanh nghiệp",
+    "k1lnndp7": "Bứt Phá",
+    "k1c75fi7": "bằng nền tảng công nghệ vững chắc",
+    "kaa263x": "Winterfrost đánh giá sự thành công của sản phẩm không phải là những dòng code mà là giá trị thực tế mang lại cho doanh nghiệp. Chúng tôi luôn nghiên cứu chuyên sâu về lĩnh vực sức khỏe, tài chính hay chuỗi cung ứng trước khi thực hiện dự án. Điều này cho phép chúng tôi hiểu được bài toán khó khăn của doanh nghiệp để đưa ra giải pháp tốt nhất.",
+    "k1kjtujm": "Sự hiệu quả này được chứng minh qua khả năng tối ưu chi phí vận hành, tạo ra hệ thống có khả năng mở rộng. Mỗi dự án của Winterfrost luôn khẳng định về độ ổn định và tính bảo mật tuyệt đối, an toàn cho doanh nghiệp bứt phá trên thị trường.",
+    "k1vyse8": "Fintech illustration",
+    "k14p6xhj": "Năm kinh nghiệm",
+    "karkb3d": "Khách hàng",
+    "k1b9o5wl": "Quốc gia phục vụ",
+    "k16ww9f1": "Mức độ hài lòng của khách hàng",
+    "k1nqbd43": "Công nghệ đặc thù",
+    "k6vweih": "cho mọi lĩnh vực",
+    "k1cngpnc": "Khám phá tất cả các lĩnh vực",
+    "k190u3jj": "Chúng tôi giúp bạn",
+    "kv07fbw": "như thế nào?",
+    "kp8rcnm": "Chúng tôi cung cấp giải pháp công nghệ được thiết kế chuyên biệt cho từng lĩnh vực để giải quyết các thách thức phức tạp và tạo ra lợi thế cạnh tranh bứt phá cho khách hàng.",
+    "k1bi40qb": "Nền tảng Website tùy chỉnh",
+    "k1adl13l": "Thiết kế website theo đúng quy trình vận hành của doanh nghiệp, từ cổng thông tin khách hàng đến các công cụ quản trị nội bộ chuyên sâu.",
+    "k9qpcja": "Chúng tôi xây dựng các nền tảng website tùy chỉnh hoàn toàn dựa trên quy trình vận hành thực tế của doanh nghiệp, từ giao diện cổng thông tin khách hàng đến hệ thống quản trị nội bộ. Mỗi tính năng đều được thiết kế để giải quyết bài toán cụ thể của ngành nghề bạn đang hoạt động.",
+    "k1uaxkz4": "Ứng dụng di động",
+    "k14vgtoj": "Phát triển ứng dụng trên các hệ điều hành IOS và Android, giúp đưa dịch vụ của bạn đến gần hơn với người dùng thông qua giao diện trực quan và trải nghiệm mượt mà.",
+    "k1sg6edu": "Đội ngũ phát triển di động của chúng tôi tạo ra các ứng dụng iOS và Android có hiệu năng cao, giao diện trực quan, đảm bảo trải nghiệm mượt mà và thống nhất trên mọi thiết bị. Tích hợp chặt chẽ với hệ thống backend, push notifications, đăng nhập sinh trắc học.",
+    "k5yeqjz": "Phân tích dữ liệu",
+    "k1arx1v0": "Chuyển hóa dữ liệu thô thành các báo cáo chiến lược, từ đó giúp cho doanh nghiệp xử lý vấn đề kịp thời và đưa ra những quyết định kinh doanh nhanh chóng.",
+    "k1n5kcam": "Hệ thống phân tích dữ liệu của Winterfrost sử dụng các công nghệ BI và Machine Learning để chuyển dữ liệu thô thành insight có giá trị, hỗ trợ đội ngũ lãnh đạo ra quyết định chính xác và nhanh chóng dựa trên dữ liệu thực tế.",
+    "k1nu1jdb": "Tích hợp hệ thống",
+    "kqceu3j": "Kết nối các phần mềm bạn đang dùng lại với nhau để chúng tự động chuyển dữ liệu cho nhau. Bạn không cần phải nhập tay thông tin, giúp công việc chính xác và nhanh hơn.",
+    "k1wc9ihp": "Chúng tôi tích hợp ERP, CRM, kế toán, kho và các phần mềm chuyên ngành để tạo thành một hệ sinh thái duy nhất, giúp doanh nghiệp loại bỏ thao tác nhập liệu thủ công, giảm sai sót và tăng tốc độ vận hành lên nhiều lần.",
+    "k1rgdgzt": "Công nghệ AI",
+    "k172v3tg": "Ứng dụng trí tuệ nhân tạo để tự động hóa các quy trình lặp đi lặp lại, giúp tối ưu nhân sự và mở ra những năng lực vận hành mới cho doanh nghiệp.",
+    "kd66cn": "AI của Winterfrost được thiết kế chuyên biệt cho từng lĩnh vực: chatbot chăm sóc khách hàng 24/7, phân loại tài liệu thông minh, dự báo nhu cầu, phát hiện gian lận. Các mô hình được huấn luyện với dữ liệu thực tế của khách hàng để đảm bảo độ chính xác cao.",
+    "k1xbwtm0": "Hạ tầng điện toán đám mây",
+    "k18rosql": "Thiết kế và quản trị hạ tầng Cloud một cách tối ưu, đảm bảo hệ thống của bạn luôn vận hành ổn định, bảo mật và sẵn sàng mở rộng bất cứ lúc nào.",
+    "km9zeyn": "Chúng tôi triển khai và quản trị hạ tầng trên AWS, Azure, Google Cloud với kiến trúc microservices, auto-scaling, sao lưu liên vùng và giám sát 24/7. Đảm bảo SLA 99.95% và sẵn sàng mở rộng theo nhu cầu kinh doanh.",
+    "kdnv7in": "Thảo luận dự án",
+    "k1vrhnys": "Vì sao Winterfrost được nhiều doanh nghiệp tin tưởng?",
+    "k1kf9z4n": "Am hiểu đặc thù từng ngành nghề",
+    "k121lnfk": "Chúng tôi dành thời gian nghiên cứu chi tiết về cách vận hành của từng lĩnh vực trước khi xây dựng phần mềm. Việc này giúp hệ thống giải quyết đúng các vấn đề thực tế mà doanh nghiệp bạn đang gặp phải trong công việc hàng ngày.",
+    "kynqonl": "Xây dựng phần mềm theo yêu cầu",
+    "k1395ql6": "Winterfrost thiết kế phần mềm dựa trên những yêu cầu cụ thể và cách làm việc riêng của bạn. Hệ thống sẽ hoạt động chính xác theo những gì bạn cần, giúp bạn quản lý công việc thuận tiện hơn mà không phải thay đổi thói quen vận hành.",
+    "kmqs3jp": "Sử dụng công nghệ mới nhất",
+    "ka7h146": "Đội ngũ kỹ sư của chúng tôi sử dụng các công nghệ hiện đại nhất để xây dựng hệ thống. Điều này giúp phần mềm của bạn hoạt động ổn định, có khả năng xử lý lượng dữ liệu lớn và không bị lỗi thời trong nhiều năm tới.",
+    "kd7n6u4": "Tốc độ triển khai nhanh và ổn định",
+    "k1oot0a2": "Chúng tôi áp dụng quy trình tự động hóa để rút ngắn thời gian hoàn thành sản phẩm. Mọi hệ thống đều được kiểm tra kỹ lưỡng để đảm bảo luôn hoạt động liên tục 24/7 và thông tin của doanh nghiệp được bảo mật tuyệt đối.",
+    "kyhmj5c": "Tư vấn và hỗ trợ kỹ thuật lâu dài",
+    "kfk20u": "Winterfrost không chỉ cung cấp phần mềm rồi kết thúc hợp đồng. Chúng tôi trực tiếp tư vấn các giải pháp kỹ thuật phù hợp và duy trì việc hỗ trợ, sửa lỗi hoặc nâng cấp hệ thống trong suốt quá trình bạn sử dụng sản phẩm.",
+    "k1dp8t27": "Kinh nghiệm thực hiện nhiều dự án lớn",
+    "kby0p8j": "Với kinh nghiệm triển khai dự án tại 15 quốc gia, chúng tôi có đủ năng lực để xử lý các yêu cầu kỹ thuật phức tạp. Kết quả công việc được thể hiện qua số lượng khách hàng thực tế và sự hài lòng sau khi nhận sản phẩm.",
+    "kqxnord": "Bạn đã sẵn sàng để tối ưu hóa quy trình kinh doanh?",
+    "k77k5ny": "Hãy cho chúng tôi biết về lĩnh vực và những khó khăn bạn đang gặp phải. Đội ngũ kỹ sư của Winterfrost sẽ phản hồi và tư vấn giải pháp phần mềm phù hợp nhất cho doanh nghiệp của bạn.",
+    "kvjikad": "Liên hệ tư vấn ngay",
+    "kzzwf4a": "Dự án nổi bật",
+    "k1s5maut": "website-edunora",
+    "k14v21e5": "website-virela-interior",
+    "k1crmlo2": "website-ceranova",
+    "khpdbbt": "Quy trình phục vụ của chúng tôi",
+    "k8uw7w4": "Khảo sát",
+    "k1vp38cg": "Tiếp nhận và phân tích nhu cầu",
+    "k1df9gly": "Chúng tôi trao đổi trực tiếp để hiểu rõ quy trình làm việc hiện tại và những vấn đề thực tế đang gặp phải trong lĩnh vực kinh doanh của doanh nghiệp.",
+    "kio9u57": "Thiết kế",
+    "kit8nl1": "Đề xuất giải pháp và lập kế hoạch",
+    "k1m4gzu3": "Winterfrost lựa chọn công nghệ phù hợp, đưa ra lộ trình và kế hoạch rõ ràng với khách hàng để theo dõi tiến độ và dễ điều chỉnh theo yêu cầu.",
+    "krhsvh8": "Thi công",
+    "k1h5irsk": "Lập trình và xây dựng hệ thống",
+    "ke8se2f": "Đội ngũ kỹ sư thực hiện việc viết code, thiết kế giao diện và kết nối các dữ liệu để tạo ra sản phẩm phần mềm hoàn chỉnh theo ý muốn của doanh nghiệp.",
+    "k1jp5mt0": "Kiểm tra",
+    "k1h2ll4x": "Kiểm thử và hoàn thiện",
+    "ksabutl": "Chúng tôi chạy thử phần mềm nhiều lần để kiểm tra tốc độ, độ ổn định và tính bảo mật nhằm đảm bảo hệ thống không có lỗi trước khi giao cho khách hàng.",
+    "kz94sqd": "Bàn giao",
+    "kquntut": "Bàn giao và Hỗ trợ kỹ thuật",
+    "kgnmokd": "Cài đặt phần mềm vào hệ thống của doanh nghiệp, hướng dẫn cách sử dụng và duy trì hỗ trợ, sửa lỗi trong suốt quá trình doanh nghiệp dùng sản phẩm.",
+    "kbalplj": "Xây dựng sản phẩm của bạn!",
+    "k11r79q2": "Những công nghệ chúng tôi sử dụng",
+    "k1ksbplp": "trong các lĩnh vực",
+    "kib6m3g": "Front-end",
+    "kr64kw2": "Back-end",
+    "kzoo20h": "Công nghệ phát triển App",
+    "k1qsz2ob": "6 hours ago",
+    "ktvlgkj": "Mô hình Gemini 3.6 Flash được Google thiết kế tối ưu cho các vòng lặp xử lý tự động trong phát triển phần mềm. Khi kết hợp với nền tảng Google Antigravity, hệ thống hỗ trợ điều phối đa nhân tố AI, tự động sửa lỗi và thực thi lệnh không đồng bộ.",
+    "ka1oswx": "2 days ago",
+    "kjaed3w": "TOP LIST",
+    "k1c9w7ox": "Chúng tôi tổng hợp những câu hỏi phổ biến về quy trình triển khai, tính bảo mật và cách Winterfrost xây dựng các giải pháp phần mềm chuyên biệt cho từng ngành nghề",
+    "krfdfo9": "Winterfrost xử lý thế nào với các quy định pháp lý hoặc tiêu chuẩn riêng của từng ngành?",
+    "k1mp1t48": "Chúng tôi luôn tìm hiểu kỹ các khung pháp lý và tiêu chuẩn kỹ thuật bắt buộc của từng lĩnh vực trước khi lập trình. Ví dụ, với ngành y tế là tính bảo mật thông tin bệnh nhân, hay với ngành tài chính là các quy tắc về giao dịch và đối soát. Việc này đảm bảo phần mềm sau khi hoàn thành hoàn toàn tuân thủ các quy định hiện hành của ngành đó.",
+    "k18j9um9": "Nếu doanh nghiệp của tôi mở rộng quy mô hoặc thêm chi nhánh, phần mềm có đáp ứng được không?",
+    "k10tl0ma": "Có. Tất cả phần mềm do Winterfrost xây dựng đều được thiết kế trên hạ tầng điện toán đám mây linh hoạt. Khi số lượng người dùng hoặc quy mô dữ liệu tăng lên, hệ thống sẽ tự động điều chỉnh và mở rộng để đảm bảo tốc độ truy cập luôn nhanh và ổn định mà không cần phải xây dựng lại từ đầu.",
+    "k1ekces6": "Winterfrost có hỗ trợ đào tạo nhân viên sử dụng hệ thống mới không?",
+    "k1ug4pjj": "Chúng tôi cung cấp gói đào tạo chuyên sâu kèm theo từng dự án — hướng dẫn trực tiếp, video tutorial và tài liệu chi tiết. Đội ngũ hỗ trợ luôn sẵn sàng giải đáp trong giai đoạn đầu để nhân viên của bạn nắm vững và sử dụng hệ thống hiệu quả nhất.",
+    "klly69y": "Làm thế nào để đảm bảo phần mềm mới không gây gián đoạn hoạt động kinh doanh hiện tại?",
+    "k1tvkwco": "Chúng tôi triển khai theo từng giai đoạn (pilot → rollout) trên môi trường staging trước, kiểm thử song song với hệ thống cũ và chỉ chuyển đổi khi mọi tính năng đã ổn định. Có sẵn kịch bản rollback và đội ngũ trực 24/7 trong tuần đầu go-live.",
+    "k1wbbh7m": "Chi phí phát triển phần mềm cho từng ngành nghề được tính toán dựa trên cơ sở nào?",
+    "kzl5feb": "Chi phí phụ thuộc vào phạm vi tính năng, mức độ tích hợp với các hệ thống có sẵn, yêu cầu bảo mật/tuân thủ của ngành và số lượng người dùng. Chúng tôi gửi báo giá chi tiết theo module để doanh nghiệp dễ dàng kiểm soát ngân sách và chọn lộ trình triển khai phù hợp.",
+    "kokeni9": "Doanh nghiệp có được sở hữu hoàn toàn mã code sau khi kết thúc dự án không?",
+    "kuveltg": "Có. Khi dự án hoàn tất và thanh toán đầy đủ, chúng tôi bàn giao toàn bộ mã nguồn, tài liệu kỹ thuật, sơ đồ kiến trúc và quyền sở hữu trí tuệ cho doanh nghiệp. Bạn có thể tự vận hành, mở rộng hoặc lựa chọn đối tác khác trong tương lai mà không bị khóa nhà cung cấp.",
+    "kjgvv6k": "Đồng hành cùng Winterfrost trong kỷ nguyên số",
+    "kuo57bp": "Chúng tôi không chỉ cung cấp những giải pháp chuyển đổi số hiệu quả mà còn tạo ra một môi trường chuyên nghiệp để các bạn được phát huy tài năng. Với mạng lưới dự án trải dài ở hơn 15 quốc gia, trở thành một thành viên của Winterfrost là bạn sẽ có cơ hội làm việc trong một môi trường đa văn hóa, trực tiếp giải quyết những thách thức công nghệ lớn.",
+    "k10rnnqf": "Thực tập sinh Fullstack Developer",
+    "kelt1il": "Developer",
+    "kdmk1f1": "Thỏa thuận",
+    "kozhq2s": "Tp. Hồ Chí Minh",
+    "kcqp9je": "Content Marketing",
+    "knizw27": "Marketing",
+    "k6i2lsu": "Thực tập sinh Kế toán",
+    "ki39zmj": "Tuyển dụng thực tập sinh DevOps Engineer",
+    "k1gwvnpj": "Thực tập sinh Pháp chế",
+    "k4x5v2o": "Nhân viên Kế toán",
+    "k1qe40yc": "Thực tập sinh Nhân sự",
+    "k1r7n2eu": "Hành chánh - Nhân sự",
+    "k1tfchh8": "Chuyên Viên SEO Marketing",
+    "k1f7ubso": "Thực tập sinh Java Developer",
+    "k1db3pt4": "Graphic Designer",
+    "k1c9kt7v": "Graphic Design",
+    "kf3wnb": "Mobile Developer Developer",
+    "k1ntbc5w": "Backend Developer (PHP/Laravel)",
+    "k2zjyl": "Backend Developer (Fintech, Banking, Finance)",
+    "k1ocnq32": "Frontend Developer (Banking, Finance)",
+    "k1w6b8so": "Thực Tập Sinh ReactJS/NestJS/Typescript",
+    "k4c5p34": "Middle Mobile Developer (Flutter / Swift / React Native)",
+    "k1hf1y79": "Thực tập sinh AI Engineer",
+    "kovba46": "Chuyên Viên AI Engineer",
+    "ky9sm80": "Thương mại điện tử - Winterfrost",
+    "k1e8wiar": "Dịch vụ phát triển sàn Thương mại điện tử chuyên nghiệp tại Winterfrost. Hệ thống chịu tải cao, tích hợp thanh toán, đồng bộ kho vận và bàn giao mã nguồn hoàn toàn.",
+    "k1hzckhy": "Giải pháp đa kênh giúp gia tăng tỷ lệ chuyển đổi và tối ưu trải nghiệm khách hàng.",
+    "kimeevw": "Công nghệ tài chính - Winterfrost",
+    "k1vyqw19": "Dịch vụ phát triển phần mềm Fintech bảo mật tại Winterfrost. Chuyên về ngân hàng số, Blockchain, giao dịch thuật toán và bàn giao mã nguồn hoàn toàn cho doanh nghiệp.",
+    "k16cf0jg": "Hệ thống tài chính hiện đại với bảo mật cao và xử lý giao dịch thời gian thực.",
+    "k12hfvkj": "Y tế - Winterfrost",
+    "kx0muwc": "Dịch vụ phát triển phần mềm y tế tích hợp AI/ML tại Winterfrost. Chuyên giải pháp EMR, Telemedicine cho thị trường quốc tế. Bảo mật chuẩn HIPAA, GDPR.",
+    "k13ra51b": "Số hóa bệnh viện, phòng khám với hệ thống quản lý hồ sơ và đặt lịch trực tuyến.",
+    "k13k5f9n": "Tài chính doanh nghiệp - Winterfrost",
+    "kewzjzt": "Dịch vụ phát triển phần mềm tài chính doanh nghiệp thế hệ mới tại Winterfrost. Hiện đại hóa Core Banking, quản lý tài sản tự động và bàn giao 100% mã nguồn.",
+    "kqri3mr": "Tự động hóa kế toán, báo cáo tài chính và phân tích dòng tiền cho doanh nghiệp.",
+    "keulbnw": "Phần mềm doanh nghiệp - Winterfrost",
+    "k13a185v": "Dịch vụ lập trình phần mềm ERP, CRM tùy chỉnh tại Winterfrost. Tối ưu quy trình vận hành, quản trị dữ liệu tập trung và bàn giao 100% mã nguồn cho doanh nghiệp.",
+    "k1vligmy": "ERP, CRM và các phần mềm chuyên biệt giúp tối ưu quy trình quản trị.",
+    "k1ewfm8l": "Bán lẻ - Winterfrost",
+    "ka5ouzk": "Hệ thống quản trị bán lẻ B2B từ Winterfrost tạo kiến trúc Microservices, xử lý High Concurrency, đồng bộ dữ liệu thời gian thực và bảo mật tiêu chuẩn Enterprise.",
+    "kugsgex": "POS, quản lý kho và CRM tích hợp giúp chuỗi bán lẻ vận hành hiệu quả.",
+    "k1m57mnv": "Bất động sản - Winterfrost",
+    "k1mxjpoe": "Giải pháp phần mềm bất động sản Winterfrost giúp quản lý giỏ hàng thời gian thực, tự động hóa hoa hồng và bảo mật CRM. Tăng hiệu suất giao dịch B2B chuyên nghiệp.",
+    "k1t9di64": "Nền tảng listing, CRM môi giới và showroom số cho dự án bất động sản.",
+    "km4kfk9": "Vận tải và Logistics - Winterfrost",
+    "kpj3am8": "Giải pháp phần mềm Logistics Winterfrost giúp tối ưu lộ trình, đồng bộ kho vận thời gian thực và quản trị đội xe tập trung. Tăng hiệu suất chuỗi cung ứng B2B chuyên nghiệp.",
+    "k3wnxc4": "Quản lý đơn hàng, tracking và tối ưu tuyến đường giao vận đa kênh.",
+    "kpmvvhz": "Giáo dục - Winterfrost",
+    "k1gpj1fs": "Dịch vụ lập trình hệ thống giáo dục EdTech chuyên sâu tại Winterfrost. Tối ưu hạ tầng chịu tải lớn, bảo mật DRM, bàn giao mã nguồn và tài liệu kỹ thuật đầy đủ.",
+    "kwz2x3v": "LMS, quản lý học viên và lớp học online cho trường, trung tâm đào tạo.",
+    "k1ccvmei": "Du lịch - Winterfrost",
+    "k175zdfb": "Giải pháp công nghệ chuyên biệt cho ngành du lịch từ Winterfrost.",
+    "k1tkhpzd": "Nền tảng đặt chỗ, quản lý lịch trình và tối ưu trải nghiệm du khách.",
+    "kj8ttzv": "Dầu khí - Winterfrost",
+    "k1byuxtb": "Giải pháp chuyển đổi số chuyên biệt cho ngành dầu khí từ Winterfrost.",
+    "kdzfxtp": "Giám sát vận hành, an toàn và dữ liệu kỹ thuật theo thời gian thực.",
+    "kx8w1st": "Kế toán - Winterfrost",
+    "kl3c82q": "Giải pháp hệ thống kế toán doanh nghiệp từ Winterfrost.",
+    "kaadb9z": "Tự động hóa nghiệp vụ, hợp nhất giao dịch và kiểm soát dòng tiền.",
+    "k1h5w34r": "Ngân hàng - Winterfrost",
+    "kgflvtr": "Giải pháp chuyển đổi số chuyên biệt cho ngành ngân hàng từ Winterfrost.",
+    "k12zxsdz": "Hạ tầng giao dịch bảo mật, core banking và trải nghiệm ngân hàng số.",
+    "k14b8w35": "Nông nghiệp - Winterfrost",
+    "k1t5vvph": "Giải pháp chuyển đổi số chuyên biệt cho ngành nông nghiệp từ Winterfrost.",
+    "kd3k5wg": "IoT, phân tích dữ liệu và giám sát mùa vụ thông minh.",
+    "k1gqyq56": "Chuỗi cung ứng - Winterfrost",
+    "kemqzxs": "Giải pháp quản lý chuỗi cung ứng toàn diện từ Winterfrost.",
+    "kvvhas4": "Hợp nhất dữ liệu và tối ưu hóa toàn bộ hệ thống logistics.",
+    "k1qn4i3z": "Phần mềm tiện ích - Winterfrost",
+    "kdv2w8p": "Giải pháp phần mềm tiện ích dành cho doanh nghiệp từ Winterfrost.",
+    "kwcf59i": "Công cụ tối ưu hiệu suất, tự động hóa tác vụ và bảo mật hạ tầng.",
+    "k1c41ir9": "Phát triển ứng dụng theo yêu cầu - Winterfrost",
+    "k1soozd1": "Thiết kế và phát triển ứng dụng di động theo yêu cầu từ Winterfrost.",
+    "knus9js": "Ứng dụng iOS và Android ổn định, linh hoạt theo nghiệp vụ riêng.",
+    "k16z7owu": "Kiến trúc & Xây dựng",
+    "k185ucn4": "Kiến trúc & Xây dựng - Winterfrost",
+    "ku2j88j": "Giải pháp phần mềm kiến trúc và xây dựng từ Winterfrost.",
+    "kq5pt27": "Quản trị dự án, ngân sách và dữ liệu thi công theo thời gian thực.",
+    "kg452uu": "Dịch vụ - Winterfrost",
+    "k1pg2q3h": "Winterfrost chuyên thiết kế website, app, AI, IoT & Blockchain. Giải pháp công nghệ toàn diện giúp doanh nghiệp chuyển đổi số và tối ưu vận hành.",
+    "khprhi9": "Dịch vụ phát triển AI",
+    "k3zzj8v": "Dịch vụ phát triển AI - Winterfrost",
+    "kmuoegk": "Dịch vụ phát triển AI tại Winterfrost. Giải pháp Machine Learning, LLMs và tự động hóa quy trình giúp tối ưu vận hành doanh nghiệp. Xem ngay!",
+    "k15qrl1d": "Dịch vụ phát triển Blockchain",
+    "k1jt5sy7": "Dịch vụ phát triển Blockchain - Winterfrost",
+    "k1hffat9": "Dịch vụ phát triển Blockchain tại Winterfrost. Giải pháp Smart Contract, dApp và mạng lưới riêng biệt giúp minh bạch hóa và bảo mật vận hành. Xem ngay!",
+    "kfm41h2": "Dịch vụ phát triển DevOps",
+    "k1vebojc": "Dịch vụ phát triển DevOps - Winterfrost",
+    "k1833i": "Dịch vụ phát triển DevOps tại Winterfrost. Giải pháp tự động hóa CI/CD, quản trị hạ tầng bằng mã (IaC) giúp tối ưu chi phí Cloud và vận hành ổn định. Xem ngay!",
+    "kekirox": "Dịch vụ phát triển IoT",
+    "k171munz": "Dịch vụ phát triển IoT - Winterfrost",
+    "k17havyc": "Dịch vụ phát triển IoT toàn diện tại Winterfrost. Giải pháp lập trình firmware, tính toán tại biên và hệ thống quản lý dữ liệu thông minh. Xem ngay!",
+    "kzoz6a4": "Dịch vụ phát triển phần mềm doanh nghiệp",
+    "k1qozu1u": "Dịch vụ phát triển phần mềm doanh nghiệp - Winterfrost",
+    "kdjhovz": "Dịch vụ phát triển phần mềm doanh nghiệp tại Winterfrost. Giải pháp ERP, CRM tùy chỉnh, tích hợp hệ thống và bảo mật cấp cao cho quy mô lớn. Xem ngay!",
+    "ksb399i": "Dịch vụ phát triển phần mềm MVP",
+    "k4rjdt4": "Dịch vụ phát triển phần mềm MVP - Winterfrost",
+    "k1ooa3ry": "Dịch vụ phát triển phần mềm MVP tại Winterfrost. Ra mắt nhanh chóng, tối ưu chi phí, nền tảng linh hoạt giúp kiểm chứng ý tưởng kinh doanh. Xem ngay!",
+    "k1nh4ec3": "Custom Software Solutions",
+    "k1onvqr2": "Custom Software Solutions | Winterfrost",
+    "k1mw2civ": "Bespoke custom software solutions designed and built to meet your specific business challenges.",
+    "krr6vw1": "Dịch vụ phát triển ứng dụng SaaS",
+    "k5al75r": "Dịch vụ phát triển ứng dụng SaaS - Winterfrost",
+    "k1spqa1e": "Dịch vụ phát triển ứng dụng SaaS tại Winterfrost. Giải pháp phần mềm dịch vụ bảo mật, kiến trúc đa người dùng, khả năng mở rộng linh hoạt. Xem ngay!",
+    "k1qpj5xd": "Dịch vụ thiết kế App",
+    "kuzwhfz": "Dịch vụ thiết kế App - Winterfrost",
+    "kbhtdji": "Dịch vụ thiết kế app chuyên nghiệp tại Winterfrost. Giải pháp ứng dụng IOS & Android với UI/UX tối ưu, vận hành ổn định. Liên hệ nhận tư vấn ngay!",
+    "kiqii6n": "Dịch vụ thiết kế website",
+    "klkyf75": "Dịch vụ thiết kế website - Winterfrost",
+    "k1udogd2": "Dịch vụ thiết kế website chuyên nghiệp tại Winterfrost. Giải pháp web chuẩn SEO, bảo mật cao, tích hợp AI và tối ưu vận hành cho doanh nghiệp. Xem ngay!",
+    "k2hxqzb": "Dịch vụ vận hành và bảo trì",
+    "k1i8e8u1": "Dịch vụ vận hành và bảo trì - Winterfrost",
+    "k2wnr28": "Dịch vụ vận hành và bảo trì phần mềm chuyên nghiệp tại Winterfrost. Đảm bảo hệ thống ổn định, bảo mật cao, tối ưu hiệu suất và hỗ trợ 24/7. Xem ngay!",
+    "kysacsw": "Website PixelNova Media",
+    "k1aymv4c": "PixelNova Media - Winterfrost Case Study",
+    "k1z2whr": "Trải nghiệm bề dày 15 năm của PixelNova Media được xây dựng bởi Winterfrost, danh mục sản phẩm cao cấp giới thiệu các giải pháp quảng cáo sự kiện hàng đầu.",
+    "kztntfp": "",
+    "kgzs16": "Website Mocvan Tea",
+    "k1lgvzy0": "Mocvan Tea - Winterfrost case study",
+    "kpq8xlt": "Khám phá tinh hoa trà Việt tại Pháp cùng Mocvan Tea – website thân thiện, hình ảnh tự nhiên, kể chuyện thương hiệu và trải nghiệm mua sắm hiện đại.",
+    "kcz1v1u": "Aeromint Cleanroom",
+    "k1lzebh7": "Aeromint Cleanroom - Winterfrost Việt  Case study",
+    "k1vaoswf": "Nâng tầm doanh nghiệp với thiết bị phòng sạch Aeromint Cleanroom và giải pháp SEO chuyên nghiệp từ Winterfrost, tối ưu khả năng tiếp cận thị trường.",
+    "k1w2b14j": "Nivora Connect - Winterfrost Case Study",
+    "kelqqdj": "Trao quyền cho cộng đồng người Việt tại Hàn Quốc với Nivora Connect, ứng dụng di động an toàn từ Winterfrost, kết nối di chuyển, nhà ở và việc làm.",
+    "k14eb8qo": "Grevia Lawn - Winterfrost case study",
+    "ks4295c": "Nâng tầm dịch vụ cảnh quan với Grevia Lawn, ứng dụng đặt dịch vụ chuyên nghiệp từ Winterfrost, tích hợp đặt lịch thông minh, theo dõi thời gian thực.",
+    "k1ywm10q": "Loomora Rugs - Winterfrost Case Study",
+    "k1wvba2m": "Khám phá thảm len thủ công cao cấp Loomora Rugs qua showroom số tinh tế từ Winterfrost, chuẩn SEO, tải nhanh, trải nghiệm mượt mà và sang trọng.",
+    "konvcjl": "Website Chromiva Coatings",
+    "kpivzwz": "Chromiva Coatings - Winterfrost case study",
+    "kxxm7m8": "Tối ưu giải pháp bề mặt cùng Chromiva Coatings, nền tảng thương mại điện tử chuyên nghiệp từ Winterfrost với tốc độ tải nhanh và thiết kế sang trọng.",
+    "k193umnw": "Website Verdora Property",
+    "k17z3xxm": "Verdora Property - Winterfrost Case Study",
+    "k1hfq1rt": "Nâng cao hiệu quả quản lý bất động sản với Kim Cường Xanh, nền tảng bất động sản chuyên nghiệp thực hiện bởi Winterfrost tích hợp SEO và tốc độ tải nhanh.",
+    "k82n8kw": "Website Candella Works",
+    "k1flelao": "Website Flexora Packaging",
+    "kug5z1o": "Flexora Packaging - Winterfrost Case Study",
+    "k1om9bzs": "Khám phá các loại màng và nhựa công nghiệp của Flexora Packaging, được phát triển bởi Winterfrost, trang tối ưu hóa SEO này đảm bảo trải nghiệm B2B chuyên nghiệp.",
+    "k1j8p70s": "Website Polyvera",
+    "k9357xu": "Polyvera - Winterfrost Case Study",
+    "k1p0j45x": "Công ty TNHH Website Polyvera là nhà sản xuất màng nhựa HDPE và bao bì, phục vụ nhiều ngành công nghiệp với trọng tâm là chất lượng và tính bền vững.",
+    "k1tppkq0": "Website Mirava",
+    "kknofk": "Website Bytevera",
+    "kcqnz0v": "Website Motoria Link",
+    "k31j7ui": "Website Dentavera",
+    "k1i6z52e": "Dentavera - Winterfrost Case study",
+    "k1gvqqt2": "Khám phá Dentavera – nền tảng công nghệ nha khoa từ Winterfrost, tích hợp in 3D, SEO chuyên nghiệp, giao diện hiện đại và tốc độ tải nhanh vượt trội.",
+    "k1jskzx7": "Website Lumera Living",
+    "kpfhg6z": "Lumera Living - Winterfrost Việt case study",
+    "k1q5qkk1": "Khám phá Lumera Living, nền tảng B2B cao cấp do Winterfrost phát triển, nổi bật với showroom số, tối ưu SEO và hiệu suất tốc độ cao.",
+    "k1t45btw": "Nội thất",
+    "ktqfral": "Website Auriva Land",
+    "k1prhhfm": "Website Rovena Mobility",
+    "k569lzi": "Website Brewvia",
+    "k1t8vsbj": "Website Arcvera Construction",
+    "kkah96l": "Wiki Việt Nam",
+    "k1sc5kjz": "Wiki - Winterfrost",
+    "k1gmw7t6": "Cùng Winterfrost chia sẻ kiến thức thiết kế website, app, và AI mới nhất giúp doanh nghiệp nâng cao hiệu quả kinh doanh và phát triển thương hiệu.",
+    "k1i4jyz3": "Blockchain và IoT: Toàn bộ kiến thức quan trọng dành cho Tech Leaders",
+    "kx4qwnd": "Blockchain và IoT: Toàn bộ kiến thức quan trọng dành cho Tech Leaders - Winterfrost.tech",
+    "krbr6yw": "Số lượng thiết bị kết nối đang tăng trưởng nhanh chóng trên toàn cầu. Theo dự báo, đến cuối năm 2024, tổng số thiết bị IoT kết nối sẽ đạt khoảng 18,8 tỷ, tăng 13% so với năm trước. Sự gia tăng này cho thấy vai trò ngày càng quan trọng của Internet of Things [&hellip;]\n",
+    "kx5u0s7": "Work life | Wiki | Winterfrost",
+    "k123stnn": "Browse all articles in Work life.",
+    "k1vdkq88": "Flutter so với React Native và Xamarin: Nên chọn framework nào cho phát triển Mobile? - Winterfrost.tech",
+    "k66cgt1": "Flutter là gì? Phát triển ứng dụng di động ngày nay trở nên thú vị hơn bao giờ hết. Các lập trình viên có rất nhiều lựa chọn công nghệ để xây dựng ứng dụng theo cách riêng của mình. Tuy nhiên, mục tiêu lớn của ngành phát triển phần mềm vẫn luôn là viết [&hellip;]\n",
+    "k1wj7tz3": "Lộ trình nghề nghiệp Software Engineer: Cách chọn hướng đi phù hợp với bạn - Winterfrost.tech",
+    "k5wzn6a": "Việc lựa chọn con đường sự nghiệp cũng quan trọng không kém việc chọn ngành học, bởi cả hai đều định hình tương lai của bạn theo những cách rất rõ ràng. Đối với những ai theo đuổi lĩnh vực kỹ sư phần mềm, chắc hẳn bạn đã từng tự hỏi liệu con đường này [&hellip;]\n",
+    "k1fs2375": "Bạn có bao giờ thắc mắc: Khi bấm nút &#8220;Xác nhận&#8221; trên một website nào đó, điều gì thực sự xảy ra trong tích tắc đó? Đằng sau trải nghiệm mượt mà ấy là cả một hệ thống ngầm khổng lồ đang xử lý hàng vạn luồng dữ liệu. Xin chào, mình là Nguyễn Huỳnh Gia [&hellip;]\n",
+    "k7t8s79": "Top 23 Công Ty Tư Vấn Công Nghệ Và Phần Mềm Uy Tín Nhất",
+    "k13zjr1v": "Top 23 Công Ty Tư Vấn Công Nghệ Và Phần Mềm Uy Tín Nhất %currentyear% - Winterfrost",
+    "khhlrz3": "Các đội phát triển phần mềm ngày nay phải đối mặt với áp lực lớn hơn bao giờ hết: thời gian triển khai bị rút ngắn, yêu cầu bảo mật ngày càng cao và vòng đời công nghệ AI thay đổi nhanh chóng. Vì vậy, nhiều doanh nghiệp đang tìm đến các công ty tư [&hellip;]\n"
+  }
+}

@@ -1,0 +1,318 @@
+.page {
+  min-height: 100vh;
+  padding: 120px 0 100px;
+  background: #f8f8fc;
+}
+
+.container {
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 40px;
+}
+
+.breadcrumb {
+  display: flex;
+  height: 20.5px;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 48px;
+  color: #828282;
+  font-size: 15px;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.breadcrumb a {
+  color: #828282;
+  transition: color 0.2s;
+}
+
+.breadcrumb a:hover {
+  color: #0c1e5b;
+}
+
+.breadcrumb > span {
+  color: #c4c4c4;
+}
+
+.breadcrumb strong {
+  color: #0c1e5b;
+  font-weight: 600;
+}
+
+.articleColumn {
+  width: 100%;
+  padding-left: 24px;
+  border-left: 1px solid rgba(208, 208, 255, 0.5);
+}
+
+.headerSlot {
+  width: 100%;
+  margin-bottom: 80px;
+}
+
+.headerSlot > * {
+  height: 100%;
+}
+
+.wpContent {
+  position: relative;
+  z-index: 2;
+  width: 100%;
+  overflow: visible;
+}
+
+.wpContent img {
+  display: block;
+  width: auto;
+  max-width: 1000px;
+  height: unset !important;
+  max-height: 90vh;
+  margin: 32px auto;
+  border-radius: 12px;
+  object-fit: contain;
+}
+
+.wpContent h2 {
+  max-width: 680px;
+  margin: 40px auto 16px;
+  color: #121528;
+  font-size: 22px;
+  font-weight: 500;
+  line-height: 1.4;
+}
+
+.wpContent h3 {
+  max-width: 680px;
+  margin: 32px auto 12px;
+  color: #121528;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.4;
+}
+
+.wpContent p {
+  max-width: 680px;
+  margin: 0 auto 20px;
+  color: #121528;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.78;
+}
+
+.wpContent ul {
+  max-width: 680px;
+  margin: 0 auto 20px;
+  padding-left: 22px;
+  list-style: outside;
+}
+
+.wpContent ol {
+  max-width: 680px;
+  margin: 0 auto 20px;
+  padding-left: 22px;
+  list-style: decimal;
+}
+
+.wpContent li {
+  margin-bottom: 6px;
+  color: #121528;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.78;
+}
+
+.wpContent a {
+  color: #1a3b91;
+  text-decoration: underline;
+}
+
+.wpContent blockquote {
+  max-width: 680px;
+  margin: 24px auto;
+  border-left: 3px solid #1a3b91;
+  padding: 12px 20px;
+  color: #444;
+  font-style: italic;
+}
+
+.wpContent table {
+  width: 100%;
+  max-width: 680px;
+  margin: 32px auto;
+  border-collapse: collapse;
+  color: #121528;
+  font-size: 15px;
+  line-height: 1.6;
+}
+
+.wpContent th,
+.wpContent td {
+  padding: 12px 16px;
+  border-bottom: 1px solid #eee;
+  text-align: left;
+  vertical-align: top;
+}
+
+.wpContentMatched h2 + p:has(i b) {
+  min-height: 160px;
+}
+
+.brandMockup {
+  display: flex;
+  width: 819px;
+  max-width: 100%;
+  height: 810px;
+  justify-content: center;
+  margin: 32px auto 0;
+}
+
+.brandMockupCanvas {
+  position: relative;
+  overflow: hidden;
+  width: 648px;
+  height: 810px;
+  border-radius: 12px;
+}
+
+.wpContent .brandMockupBackground {
+  position: absolute;
+  inset: 0;
+  display: block;
+  width: 100% !important;
+  max-width: none;
+  height: 100% !important;
+  max-height: none;
+  margin: 0;
+  border-radius: 0;
+  object-fit: cover;
+}
+
+.brandBadge {
+  position: absolute;
+  z-index: 2;
+  top: 3.15%;
+  left: 31.45%;
+  display: flex;
+  overflow: hidden;
+  width: 37%;
+  height: 9.65%;
+  align-items: center;
+  justify-content: center;
+  border-radius: 34px;
+  background: #fff;
+}
+
+.wpContent .brandBadgeLogo {
+  display: block;
+  width: 260px !important;
+  max-width: none;
+  height: 64px !important;
+  max-height: none;
+  margin: 0;
+  border-radius: 0;
+  object-fit: contain;
+}
+
+.laptopScreen {
+  position: absolute;
+  z-index: 2;
+  top: 38.05%;
+  left: 17.75%;
+  overflow: hidden;
+  width: 64.75%;
+  height: 31.65%;
+  background: #fff;
+  clip-path: polygon(0.35% 0, 99.65% 0, 100% 100%, 0 100%);
+}
+
+.wpContent .laptopScreen img {
+  display: block;
+  width: 100% !important;
+  max-width: none;
+  height: 100% !important;
+  max-height: none;
+  margin: 0;
+  border-radius: 0;
+  object-fit: cover;
+  object-position: center top;
+}
+
+.projectMedia {
+  position: relative;
+  overflow: hidden;
+  width: min(100%, var(--project-media-width));
+  aspect-ratio: var(--project-media-ratio);
+  margin: 32px auto 0;
+  border-radius: 12px;
+}
+
+.wpContent .projectMedia img {
+  position: absolute;
+  inset: 0;
+  display: block;
+  width: 100% !important;
+  max-width: none;
+  height: 100% !important;
+  max-height: none;
+  margin: 0;
+  border-radius: 0;
+  object-fit: cover;
+  object-position: center top;
+}
+
+.articleSpacer {
+  height: 50px;
+}
+
+.articleSpacerMatched {
+  height: 30px;
+}
+
+.uiHeading {
+  height: 32.5px;
+  margin-top: 50px;
+  margin-bottom: 48px;
+}
+
+.uiHeading span {
+  display: block;
+  color: #1a3b91;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: normal;
+}
+
+@media (max-width: 768px) {
+  .page { padding: 120px 0 100px; }
+  .container { padding: 0 24px; }
+  .breadcrumb {
+    height: auto;
+    overflow-x: auto;
+    padding-bottom: 8px;
+    scrollbar-width: none;
+  }
+  .breadcrumb::-webkit-scrollbar { display: none; }
+  .articleColumn { padding-left: 24px; }
+  .headerSlot { height: auto !important; margin-bottom: 50px; }
+  .wpContent { display: flow-root; height: auto !important; }
+  .wpContentMatched h2 + p:has(i b) { min-height: 0; }
+  .articleSpacerMatched { height: 50px; margin-top: 0; }
+  .wpContent h2 { font-size: 20px; }
+  .wpContent h3 { font-size: 18px; }
+  .wpContent p { font-size: 15px; }
+  .wpContent img { max-width: 100%; }
+  .wpContentMatched .brandMockup + h2 + p { letter-spacing: -0.04px; }
+  .wpContentMatched > div > p:last-child { margin-bottom: 10px; }
+  .brandMockup {
+    width: 100%;
+    height: auto;
+  }
+  .brandMockupCanvas {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 4 / 5;
+  }
+}

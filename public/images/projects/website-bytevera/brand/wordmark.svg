@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="256" viewBox="0 0 1000 256">
+    <defs>
+      <linearGradient id="wordmarkGradient" x1="20" y1="20" x2="236" y2="236" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#111827"/>
+        <stop offset="1" stop-color="#2176FF"/>
+      </linearGradient>
+    </defs>
+    <g>
+    <defs>
+      <linearGradient id="wordmarkGradient" x1="20" y1="20" x2="236" y2="236" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#111827"/>
+        <stop offset="1" stop-color="#2176FF"/>
+      </linearGradient>
+    </defs>
+
+    <path d="M46 35h87c40 0 65 20 65 52 0 17-8 31-23 40 20 9 31 26 31 46 0 31-25 48-70 48H46V35Zm43 35v42h39c18 0 28-7 28-21 0-14-10-21-28-21H89Zm0 76v40h44c19 0 29-7 29-20 0-14-10-20-29-20H89Z" fill="url(#wordmarkGradient)"/>
+    <path d="m203 37-24 47h23l-19 48 48-65h-25l20-30h-23Z" fill="url(#wordmarkGradient)"/>
+
+  </g>
+    <text x="294" y="148" fill="#111827" font-family="Manrope, Arial, Helvetica, sans-serif" font-size="76" font-weight="800" letter-spacing="-2">Bytevera</text>
+    <text x="299" y="192" fill="#667085" font-family="Manrope, Arial, Helvetica, sans-serif" font-size="23" font-weight="650" letter-spacing="3.2">DIGITAL EXPERIENCE</text>
+  </svg>

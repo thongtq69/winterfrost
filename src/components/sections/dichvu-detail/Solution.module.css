@@ -1,0 +1,608 @@
+/* ===== Image variant (3v + 2h) ===== */
+.imageVariant.section {
+  background-color: rgb(255, 255, 255);
+  border-top: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 80px;
+  width: 100%;
+  padding: 80px 60px;
+  position: relative;
+  overflow: clip;
+}
+
+.bgGradients {
+  z-index: 0;
+  flex: 0 0 auto;
+  width: 83%;
+  height: 649px;
+  position: absolute;
+  bottom: 64px;
+  left: 99px;
+  overflow: hidden;
+  transform: scale(1.2);
+  pointer-events: none;
+}
+
+.bgRadial {
+  aspect-ratio: 1 / 1;
+  position: absolute;
+  flex: 0 0 auto;
+}
+
+.bgRadial1 {
+  opacity: 0.6;
+  background: radial-gradient(50% 50%, rgb(236, 216, 243) 49.5724%, rgba(0, 0, 0, 0) 100%);
+  width: 51%;
+  height: 513px;
+  top: -28px;
+  left: 51%;
+  transform: translate(-50%);
+}
+
+.bgRadial2 {
+  opacity: 0.6;
+  background: radial-gradient(50% 50%, rgb(236, 216, 243) 49.5724%, rgba(0, 0, 0, 0) 100%);
+  width: 397px;
+  height: 61%;
+  bottom: -7px;
+  left: 173px;
+}
+
+.bgRadial3 {
+  opacity: 0.7;
+  background: radial-gradient(50% 50%, rgba(208, 208, 255, 0.5) 49.0428%, rgba(0, 0, 0, 0) 100%);
+  width: 443px;
+  height: 68%;
+  top: 26px;
+  left: 14px;
+}
+
+.bgRadial4 {
+  opacity: 0.7;
+  background: radial-gradient(50% 50%, rgba(208, 208, 255, 0.5) 49.0428%, rgba(0, 0, 0, 0) 100%);
+  width: 443px;
+  height: 68%;
+  top: 265px;
+  left: 440px;
+}
+
+.imageVariant .header {
+  z-index: 2;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-end;
+  gap: 40px;
+  width: 100%;
+  max-width: 1400px;
+  position: relative;
+}
+
+.imageVariant .headingWrapper {
+  flex: 0 0 auto;
+}
+
+.imageVariant .heading {
+  letter-spacing: -0.02em;
+  margin: 0;
+  font-size: 48px;
+  font-weight: 600;
+  line-height: 1.2;
+}
+
+.imageVariant .light {
+  color: rgba(22, 106, 217, 0.55);
+}
+
+.imageVariant .dark {
+  color: rgb(12, 30, 91);
+}
+
+.imageVariant .descriptionWrapper {
+  flex: 0 0 auto;
+  max-width: 490px;
+  padding-top: 8px;
+}
+
+.imageVariant .description {
+  color: rgb(73, 0, 105);
+  opacity: 0.6;
+  margin: 0;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+.container {
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  width: 100%;
+  max-width: 1400px;
+  position: relative;
+}
+
+.row1,
+.row2 {
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+  width: 100%;
+}
+
+.card {
+  background-color: rgba(255, 255, 255, 0.6);
+  border: 2px solid rgb(255, 255, 255);
+  border-radius: 20px;
+  flex: 1 1 0;
+  padding: 32px;
+  display: flex;
+  position: relative;
+  overflow: hidden;
+}
+
+.cardVertical {
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.cardHorizontal {
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.cardContent {
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+}
+
+.cardHorizontal .cardContent {
+  max-width: 50%;
+}
+
+.cardTitle {
+  color: rgb(12, 30, 91);
+  letter-spacing: -0.01em;
+  margin: 0;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.cardDesc {
+  color: rgb(12, 30, 91);
+  opacity: 0.8;
+  margin: 0;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.cardDescLink {
+  color: inherit;
+  font-weight: 600;
+  text-decoration: none;
+  transition: opacity 0.2s;
+}
+
+.cardDescLink:hover {
+  opacity: 1;
+  text-decoration: underline;
+}
+
+.cardImageWrapper {
+  z-index: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.cardVertical .cardImageWrapper {
+  align-self: center;
+  width: 100%;
+  max-width: 280px;
+  margin-top: auto;
+}
+
+.cardHorizontal .cardImageWrapper {
+  flex: 1 1 0%;
+  justify-content: flex-end;
+  height: 100%;
+}
+
+.cardImage {
+  object-fit: contain;
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+.ctaWrapperImage {
+  z-index: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.ctaButtonImage {
+  background: linear-gradient(121deg, rgb(2, 27, 123) 0%, rgb(22, 112, 222) 29%, rgb(25, 52, 147) 100%);
+  color: #fff;
+  border-radius: 999px;
+  gap: 0.5em;
+  margin-top: 40px;
+  padding: 0.75em 1em;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: normal;
+  display: inline-flex;
+  align-items: center;
+  text-decoration: none;
+  transition: 0.3s;
+  box-shadow: rgba(255, 255, 255, 0.4) 0 2px 4px inset,
+    rgba(123, 139, 209, 0.33) 0 0.74px 0.74px -0.75px,
+    rgba(123, 139, 209, 0.32) 0 2.01px 2.01px -1.5px,
+    rgba(123, 139, 209, 0.3) 0 4.43px 4.43px -2.25px,
+    rgba(123, 139, 209, 0.25) 0 9.83px 9.83px -3px,
+    rgba(123, 139, 209, 0.11) 0 25px 25px -3.75px,
+    rgb(77, 110, 209) 0 0 0 1px;
+}
+
+.ctaButtonImage:hover {
+  filter: brightness(1.1);
+}
+
+@media (max-width: 1200px) {
+  .imageVariant.section { gap: 70px; padding: 80px 40px; }
+  .imageVariant .heading { font-size: 38px; }
+  .imageVariant .description { font-size: 16px; }
+  .card { padding: 24px; }
+  .cardTitle { font-size: 20px; }
+  .cardDesc { font-size: 14px; }
+  .cardVertical .cardImageWrapper { max-width: 200px; }
+  .cardVertical { height: 320px; }
+}
+
+@media (max-width: 870px) {
+  .imageVariant.section { gap: 60px; padding: 60px 30px; }
+  .imageVariant .header { flex-direction: column; align-items: flex-start; gap: 16px; }
+  .imageVariant .descriptionWrapper { max-width: 100%; }
+  .row1, .row2 { flex-direction: column; }
+  .cardVertical, .cardHorizontal { flex-direction: column; flex: 0 0 auto; height: auto; }
+  .cardHorizontal .cardContent { max-width: 100%; }
+  .cardHorizontal .cardImageWrapper { width: 100%; justify-content: center; }
+  .bgGradients { width: 200%; height: 1379px; bottom: 204px; left: -195px; }
+  .bgRadial1 { height: 399px; }
+  .bgRadial2 { width: 843px; }
+  .bgRadial3 { width: 941px; }
+  .bgRadial4 { width: 940px; }
+}
+
+@media (max-width: 768px) {
+  .imageVariant.section { gap: 40px; padding: 50px 20px; }
+  .imageVariant .heading { font-size: 32px; }
+  .imageVariant .description { font-size: 14px; }
+}
+
+@media (max-width: 480px) {
+  .imageVariant.section { gap: 30px; padding: 40px 16px; }
+  .imageVariant .heading { font-size: 26px; }
+}
+
+/* ===== Legacy icon-card variant (devops/iot/blockchain pages) ===== */
+.section {
+  z-index: 1;
+  background-color: #fff;
+  border-top: 1px solid #dedede;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  padding: 64px 40px;
+  display: flex;
+  position: relative;
+}
+
+.outerContainer {
+  background: linear-gradient(rgba(255, 255, 255, 0) 0%, rgba(250, 250, 250, 0.1) 100%);
+  border: none;
+  border-radius: 20px;
+  flex-flow: column;
+  flex: none;
+  place-content: center;
+  align-items: center;
+  gap: 60px;
+  width: 100%;
+  max-width: 1400px;
+  padding: 60px;
+  display: flex;
+  position: relative;
+  overflow: visible;
+  box-shadow: 0 2px 8px rgba(170, 143, 228, 0.2);
+}
+
+.backgroundGradients {
+  z-index: 1;
+  flex: none;
+  width: 83%;
+  height: 624px;
+  position: absolute;
+  top: calc(49.9332% - 312px);
+  left: 8.33333%;
+  overflow: hidden;
+  transform: scale(1.2);
+  pointer-events: none;
+}
+
+.bgRadialLegacy {
+  aspect-ratio: 1;
+  opacity: 0.6;
+  z-index: 0;
+  flex: none;
+  position: absolute;
+  overflow: hidden;
+}
+
+.bgRadial2Top {
+  background: radial-gradient(50% 50%, #ecd8f3 49.57%, rgba(255, 255, 255, 0) 100%);
+  width: 51%;
+  height: 444px;
+  top: -28px;
+  left: 51%;
+  transform: translate(-50%);
+}
+
+.bgRadial2Bottom {
+  background: radial-gradient(50% 50%, #ecd8f3 49.57%, rgba(255, 255, 255, 0) 100%);
+  width: 381px;
+  height: 61%;
+  bottom: -7px;
+  left: 173px;
+}
+
+.bgRadial1Top {
+  opacity: 0.7;
+  background: radial-gradient(50% 50%, rgba(208, 208, 255, 0.5) 49.04%, rgba(255, 255, 255, 0) 100%);
+  width: 426px;
+  height: 68%;
+  top: 26px;
+  left: 14px;
+}
+
+.bgRadial1Bottom {
+  opacity: 0.7;
+  background: radial-gradient(50% 50%, rgba(208, 208, 255, 0.5) 49.04%, rgba(255, 255, 255, 0) 100%);
+  width: 425px;
+  height: 68%;
+  top: 265px;
+  left: 440px;
+}
+
+.headerRow {
+  z-index: 2;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  gap: 40px;
+  width: 100%;
+  display: flex;
+}
+
+.headingWrapperLegacy {
+  flex-direction: column;
+  flex: 1;
+  align-items: flex-start;
+  gap: 16px;
+  display: flex;
+}
+
+.descriptionWrapperLegacy {
+  text-align: left;
+  flex-direction: column;
+  flex: 1;
+  align-items: flex-start;
+  gap: 24px;
+  display: flex;
+}
+
+.label {
+  color: #1a3b91;
+  font-size: 18px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.labelDot {
+  width: 8px;
+  height: 8px;
+  border-radius: 100%;
+  background-color: rgba(22, 106, 217, 0.55);
+  flex-shrink: 0;
+}
+
+.ctaWrapper {
+  z-index: 5;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  width: 100%;
+  height: 86px;
+  position: relative;
+}
+
+.ctaButton {
+  background: linear-gradient(121deg, rgb(2, 27, 123) 0%, rgb(22, 112, 222) 29%, rgb(25, 52, 147) 100%);
+  color: #fff;
+  border-radius: 999px;
+  padding: 12px 16px;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: normal;
+  display: inline-flex;
+  align-items: center;
+  text-decoration: none;
+  transition: background-color 0.2s;
+  box-shadow:
+    inset 0 2px 4px rgba(255, 255, 255, 0.4),
+    0 0.74px 0.74px -0.75px rgba(123, 139, 209, 0.33),
+    0 2.01px 2.01px -1.5px rgba(123, 139, 209, 0.32),
+    0 4.43px 4.43px -2.25px rgba(123, 139, 209, 0.3),
+    0 9.83px 9.83px -3px rgba(123, 139, 209, 0.25),
+    0 25px 25px -3.75px rgba(123, 139, 209, 0.11),
+    0 0 0 1px rgb(77, 110, 209);
+}
+
+.ctaButton:hover {
+  background-color: rgb(18, 90, 184);
+}
+
+.headingLegacy {
+  letter-spacing: -0.02em;
+  margin: 0;
+  font-size: 48px;
+  font-weight: 500;
+  line-height: 1.2;
+  flex-direction: column;
+  gap: 0;
+  display: flex;
+}
+
+.lightLegacy { color: rgba(22, 106, 217, 0.55); }
+.darkLegacy { color: #1a3b91; }
+
+.descriptionLegacy {
+  color: #490069;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.5;
+  margin: 0;
+}
+
+.cardListLegacy {
+  z-index: 2;
+  grid-template-columns: repeat(3, 1fr);
+  align-items: stretch;
+  gap: 24px;
+  width: 100%;
+  display: grid;
+}
+
+.cardLegacy {
+  -webkit-backdrop-filter: blur(5px);
+  backdrop-filter: blur(5px);
+  background-color: rgba(255, 255, 255, 0.6);
+  border: none;
+  border-radius: 16px;
+  flex-direction: column;
+  gap: 24px;
+  width: 100%;
+  height: 100%;
+  min-height: 0;
+  padding: 24px;
+  display: flex;
+  position: relative;
+  overflow: hidden;
+}
+
+.iconWrapper {
+  background-color: #fff;
+  border: none;
+  border-radius: 6px;
+  justify-content: center;
+  align-items: center;
+  width: min-content;
+  padding: 11px;
+  display: flex;
+  position: relative;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.06);
+}
+
+.icon {
+  color: #490069;
+  width: 26px;
+  height: 26px;
+}
+
+.icon path {
+  stroke-dasharray: var(--path-length, 100);
+  animation: drawLoop 5s ease-in-out infinite;
+}
+
+@keyframes drawLoop {
+  0%, 100% { stroke-dashoffset: var(--path-length, 100); }
+  50% { stroke-dashoffset: 0; }
+}
+
+.cardContentLegacy {
+  flex-direction: column;
+  gap: 12px;
+  width: 100%;
+  display: flex;
+}
+
+.cardTitleLegacy {
+  color: #0c1e5b;
+  font-size: 22px;
+  font-weight: 500;
+  line-height: normal;
+  margin: 0;
+}
+
+.cardDescLegacy {
+  color: #0c1e5b;
+  opacity: 0.6;
+  font-size: 14px;
+  line-height: 1.5;
+  margin: 0;
+}
+
+.toggleBtn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-self: center;
+  width: 28px;
+  height: 28px;
+  margin-top: 12px;
+  padding: 4px;
+  color: rgb(22, 106, 217);
+  background: transparent;
+  border: 0;
+  cursor: pointer;
+  transition: transform 0.25s ease;
+}
+
+.toggleBtn:hover { transform: translateY(3px); }
+
+@media (max-width: 1200px) {
+  .headingLegacy { font-size: 38px; }
+  .descriptionLegacy { font-size: 16px; }
+  .outerContainer { gap: 40px; padding: 40px; }
+  .cardListLegacy { grid-template-columns: repeat(2, 1fr); }
+  .cardTitleLegacy { font-size: 20px; }
+  .cardDescLegacy { font-size: 13px; }
+}
+
+@media (max-width: 768px) {
+  .headingLegacy { font-size: 32px; }
+  .descriptionLegacy { font-size: 14px; }
+  .section:not(.imageVariant) { padding: 42px 16px; }
+  .outerContainer { box-shadow: none; border-radius: 0; gap: 30px; padding: 30px 20px; border: none; }
+  .headerRow { flex-direction: column; align-items: flex-start; gap: 24px; }
+  .headingWrapperLegacy, .descriptionWrapperLegacy { text-align: left; align-items: flex-start; width: 100%; }
+  .cardListLegacy { grid-template-columns: 1fr; }
+  .cardTitleLegacy { font-size: 18px; }
+  .cardDescLegacy { font-size: 12px; }
+  .label { font-size: 16px; }
+  .ctaButton { font-size: 14px; padding: 10px 20px; }
+}

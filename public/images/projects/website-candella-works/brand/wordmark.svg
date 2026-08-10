@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="256" viewBox="0 0 1000 256">
+    <defs>
+      <linearGradient id="wordmarkGradient" x1="20" y1="20" x2="236" y2="236" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#E9508C"/>
+        <stop offset="1" stop-color="#6B4DD6"/>
+      </linearGradient>
+    </defs>
+    <g>
+    <defs>
+      <linearGradient id="wordmarkGradient" x1="20" y1="20" x2="236" y2="236" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#E9508C"/>
+        <stop offset="1" stop-color="#6B4DD6"/>
+      </linearGradient>
+    </defs>
+
+    <path d="M192 73c-18-22-40-33-66-33-49 0-86 38-86 88s37 88 86 88c28 0 53-12 70-35l-31-26c-10 13-22 20-38 20-25 0-43-19-43-47 0-27 18-47 43-47 15 0 27 6 36 18l29-26Z" fill="url(#wordmarkGradient)"/>
+    <path d="m198 33 8 21 22 8-22 8-8 22-8-22-22-8 22-8 8-21ZM215 122l6 15 15 6-15 6-6 16-6-16-16-6 16-6 6-15Z" fill="url(#wordmarkGradient)"/>
+
+  </g>
+    <text x="294" y="148" fill="#E9508C" font-family="Manrope, Arial, Helvetica, sans-serif" font-size="76" font-weight="800" letter-spacing="-2">Candella Works</text>
+    <text x="299" y="192" fill="#667085" font-family="Manrope, Arial, Helvetica, sans-serif" font-size="23" font-weight="650" letter-spacing="3.2">DIGITAL EXPERIENCE</text>
+  </svg>

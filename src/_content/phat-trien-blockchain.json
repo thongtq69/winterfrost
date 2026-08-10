@@ -1,0 +1,485 @@
+{
+  "slug": "phat-trien-blockchain",
+  "metaTitle": "Dịch vụ phát triển Blockchain - Winterfrost",
+  "hero": {
+    "titleDark": "Dịch vụ phát triển ",
+    "titleLight": "Blockchain",
+    "description": "Winterfrost mang đến dịch vụ phát triển Blockchain toàn diện, bao gồm việc thiết kế kiến trúc mạng, lập trình hợp đồng thông minh Smart Contract, phát triển internet thế hệ mới Web3 cho đến việc thực hiện các ứng dụng phi tập trung DApp trên nhiều nền tảng khác nhau.",
+    "bgImage": "/images/migrated/homenest-software/wp-content/uploads/2026/03/Web-app-development.jpg",
+    "dashboardImage": "/images/services/winterfrost/web-application-development.webp"
+  },
+  "solution": {
+    "headlineLight": "Ưu thế nổi bật của ",
+    "headlineDark": "công nghệ Blockchain",
+    "description": "Bằng cách sử dụng sổ cái phân tán và hợp đồng thông minh, Winterfrost tạo ra một hệ thống hoạt động rõ ràng và an toàn, giúp công ty của bạn loại bỏ những bên trung gian và hoàn toàn kiểm soát tài sản.",
+    "ctaLabel": "Chia sẻ nhu cầu của bạn",
+    "ctaHref": "/lien-he",
+    "items": [
+      {
+        "title": "Tính minh bạch và không thay đổi",
+        "desc": "Tất cả các giao dịch được lưu lại trên một sổ cái phân tán, không thể bị sửa đổi hoặc giả mạo, đảm bảo rằng dữ liệu luôn chính xác."
+      },
+      {
+        "title": "Loại bỏ bên trung gian",
+        "desc": "Hệ thống hoạt động dựa trên giao thức ngang hàng, giúp giảm chi phí giao dịch và không cần phải phụ thuộc vào các tổ chức lớn."
+      },
+      {
+        "title": "Bảo mật bằng mã hóa",
+        "desc": "Sử dụng các phương pháp mã hóa hiện đại để bảo vệ tài sản số và thông tin cá nhân, ngăn cản mọi nỗ lực xâm nhập từ bên ngoài."
+      },
+      {
+        "title": "Tự động hóa thông qua hợp đồng thông minh",
+        "desc": "Tự động thực hiện các thỏa thuận kinh doanh khi các điều kiện được đáp ứng, giúp giảm thiểu sai sót do con người và cải thiện tốc độ xử lý."
+      },
+      {
+        "title": "Tính khả dụng cao",
+        "desc": "Mạng lưới phân tán làm cho hệ thống không có điểm yếu, đảm bảo luôn hoạt động liên tục 24/7."
+      },
+      {
+        "title": "Quyền sở hữu thực sự",
+        "desc": "Người dùng hoàn toàn có quyền kiểm soát tài sản và thông tin cá nhân qua chữ ký số, không ai có quyền can thiệp trái phép."
+      }
+    ]
+  },
+  "features": {
+    "headlineLight": "Hệ sinh thái giải pháp Blockchain và ",
+    "headlineDark": "hạ tầng phi tập trung",
+    "description": "Winterfrost cung cấp một hệ sinh thái giải pháp Web3 toàn diện, từ việc lập trình hợp đồng thông minh bảo mật đến xây dựng các ứng dụng không tập trung và hệ thống Blockchain chuyên dụng, phù hợp với mọi quy mô hoạt động của công ty.",
+    "ctaLabel": "Thảo luận về dự án của bạn",
+    "ctaHref": "/lien-he",
+    "items": [
+      {
+        "title": "Phát triển Smart Contract",
+        "desc": "Lập trình các hợp đồng tự thực thi trên các mạng như Ethereum hoặc Solana. Thực hiện kiểm tra mã nguồn để giảm thiểu chi phí gas và đảm bảo ngăn chặn hoàn toàn các vấn đề về bảo mật.",
+        "image": "/images/services/winterfrost/enterprise-software-development.webp"
+      },
+      {
+        "title": "Ứng dụng phi tập trung DApp",
+        "desc": "Xây dựng ứng dụng Web3 đầy đủ, kết nối liền mạch giữa giao diện người dùng và cơ sở hạ tầng Blockchain thông qua các thư viện chuyên dụng và ví điện tử.",
+        "image": "/images/services/winterfrost/ai-development.webp"
+      },
+      {
+        "title": "Giải pháp DeFi & NFT",
+        "desc": "Triển khai các giao thức tài chính phi tập trung và một hệ sinh thái NFT Marketplace theo tiêu chuẩn của ngành công nghiệp token.",
+        "image": "/images/services/winterfrost/devops-development.webp"
+      },
+      {
+        "title": "Ví và Cổng thanh toán Crypto",
+        "desc": "Tích hợp ví không cần lưu ký và cổng thanh toán cho tài sản số đa chuỗi. Sử dụng cơ chế chữ ký nhiều bên để bảo vệ an toàn tối đa cho khóa cá nhân.",
+        "image": "/images/services/winterfrost/saas-application-development.webp"
+      },
+      {
+        "title": "Blockchain doanh nghiệp",
+        "desc": "Thiết kế một mạng lưới nội bộ cho việc quản lý chuỗi cung ứng và tài chính. Đảm bảo dữ liệu minh bạch nhưng vẫn kiểm soát chặt chẽ quyền truy cập nội bộ.",
+        "image": "/images/services/winterfrost/custom-software-solutions.webp"
+      }
+    ]
+  },
+  "howWeWork": {
+    "label": "Quy trình thực hiện Blockchain của Winterfrost",
+    "ctaLabel": "Bắt đầu xây dựng sản phẩm của bạn!",
+    "ctaHref": "/lien-he",
+    "steps": [
+      {
+        "num": "01",
+        "badge": "Chiến lược",
+        "title": "Tư vấn và phân tích",
+        "desc": "Khảo sát nhu cầu thực tế để chọn mạng lưới phù hợp nhất. Từ đó, tư vấn cách thiết kế mô hình kinh tế token và cấu trúc dữ liệu để bảo đảm tính khả thi của dự án."
+      },
+      {
+        "num": "02",
+        "badge": "Kiến trúc",
+        "title": "Thiết kế và lập trình",
+        "desc": "Xây dựng cấu trúc của hệ thống và lập trình hợp đồng thông minh. Phát triển giao diện ứng dụng DApp và tích hợp các thư viện kết nối ví điện tử phù hợp."
+      },
+      {
+        "num": "03",
+        "badge": "Bảo mật",
+        "title": "Kiểm duyệt và Audit",
+        "desc": "Tiến hành kiểm toán bảo mật mã nguồn một cách chặt chẽ. Bước này giúp phát hiện lỗi logic, ngăn chặn lỗ hổng và tối ưu hóa chi phí giao dịch trước khi đi vào hoạt động chính thức."
+      },
+      {
+        "num": "04",
+        "badge": "Triển khai",
+        "title": "Phát hành Mainnet",
+        "desc": "Đưa hệ thống lên mạng thực tế. Thiết lập các cổng kết nối dữ liệu và cấu hình hạ tầng nút biên để bảo đảm mạng hoạt động ổn định và mượt mà."
+      },
+      {
+        "num": "05",
+        "badge": "Vận hành",
+        "title": "Tối ưu và nâng cấp",
+        "desc": "Theo dõi hiệu suất giao dịch và hỗ trợ kỹ thuật liên tục. Triển khai các bản nâng cấp tính năng thông qua cơ chế proxy giúp hệ thống có thể mở rộng mà không bị gián đoạn."
+      }
+    ]
+  },
+  "benefits": {
+    "label": "Vì sao nên chọn dịch vụ Blockchain của Winterfrost?",
+    "headlineLight": "Khẳng định vị thế dẫn đầu",
+    "headlineDark": "với giải pháp Blockchain thực chiến",
+    "items": [
+      {
+        "num": "1",
+        "title": "Am hiểu hệ sinh thái đa chuỗi",
+        "desc": "Chúng tôi nắm vững công nghệ trên tất cả mạng lưới tương thích với EVM và các chuỗi hiệu suất cao như Solana, đảm bảo lựa chọn hạ tầng tốt nhất cho từng dự án."
+      },
+      {
+        "num": "2",
+        "title": "Bảo mật chuẩn mật mã học",
+        "desc": "Tất cả các hợp đồng thông minh đều trải qua quy trình kiểm tra nhiều lớp để loại bỏ hoàn toàn các lỗi logic cũng như các điểm yếu bảo mật phổ biến, nhằm bảo vệ an toàn tài sản và dữ liệu của người dùng."
+      },
+      {
+        "num": "3",
+        "title": "Tối ưu hóa phí giao dịch",
+        "desc": "Chúng tôi sử dụng kỹ thuật viết mã nguồn đơn giản và cấu trúc dữ liệu hiệu quả, giúp tiết kiệm chi phí hoạt động cho cả công ty và người dùng cuối trên mạng lưới."
+      },
+      {
+        "num": "4",
+        "title": "Tư vấn thiết kế kinh tế Token",
+        "desc": "Ngoài việc lập trình, chúng tôi còn hỗ trợ trong việc thiết kế mô hình tài chính, cơ chế lạm phát và phân bổ token bền vững, đảm bảo sự ổn định giá trị cho hệ sinh thái dự án."
+      },
+      {
+        "num": "5",
+        "title": "Tích hợp Web2 sang Web3 liền mạch",
+        "desc": "Chúng tôi có khả năng kết nối hạ tầng truyền thống với Blockchain thông qua các API và Oracle chuyên dụng, giúp người dùng dễ dàng chuyển đổi trải nghiệm mà không cần phải hiểu biết nhiều về kỹ thuật."
+      },
+      {
+        "num": "6",
+        "title": "Khả năng mở rộng với giải pháp Layer 2",
+        "desc": "Chúng tôi triển khai các giải pháp mở rộng quy mô để hệ thống có tốc độ giao dịch rất nhanh với chi phí thấp, nhưng vẫn giữ được tính bảo mật từ mạng lưới chính."
+      },
+      {
+        "num": "7",
+        "title": "Bàn giao 100% mã nguồn và quyền sở hữu",
+        "desc": "Winterfrost cam kết sẽ trao trả toàn bộ mã nguồn của hợp đồng thông minh và ứng dụng. Doanh nghiệp hoàn toàn sở hữu tài sản trí tuệ và có quyền kiểm soát toàn bộ hệ thống mà không bị phụ thuộc vào đối tác."
+      },
+      {
+        "num": "8",
+        "title": "Thiết kế cơ chế nâng cấp linh hoạt",
+        "desc": "Chúng tôi sử dụng kiến trúc Proxy để hệ thống có thể cập nhật các tính năng mới hoặc sửa lỗi mà không cần thay đổi địa chỉ hợp đồng cũ, đảm bảo tính liên tục và linh hoạt trong hoạt động."
+      },
+      {
+        "num": "9",
+        "title": "Đội ngũ kỹ sư Web3 thực chiến",
+        "desc": "Chúng tôi làm việc trực tiếp với các chuyên gia có kinh nghiệm trong việc thực hiện các dự án thực tế trên Mainnet, đảm bảo mọi rủi ro kỹ thuật được xác định và giải quyết triệt để ngay từ giai đoạn thiết kế."
+      }
+    ]
+  },
+  "ctaBanner": {
+    "badge": "Liên hệ ngay!",
+    "headline": "Xây dựng hệ thống công nghệ blockchain minh bạch và bảo mật",
+    "description": "Nếu bạn cần một nền tảng quản lý giao dịch an toàn tuyệt đối mà không cần qua trung gian, hãy để Winterfrost hỗ trợ. Chúng tôi cung cấp dịch vụ lập trình chuyên sâu, đáp ứng đầy đủ các tiêu chuẩn kỹ thuật hiện đại và có khả năng mở rộng linh hoạt theo quy mô dự án.",
+    "ctaLabel": "Nhận tư vấn blockchain",
+    "ctaHref": "/lien-he",
+    "image": "/images/people/cta/winterfrost/quan-ly-nam.png"
+  },
+  "counter": {
+    "badgeText": "Thành tựu của chúng tôi",
+    "items": [
+      {
+        "index": "/01",
+        "value": "10+",
+        "desc": "Năm kinh nghiệm"
+      },
+      {
+        "index": "/02",
+        "value": "250+",
+        "desc": "Khách hàng"
+      },
+      {
+        "index": "/03",
+        "value": "15+",
+        "desc": "Quốc gia phục vụ"
+      },
+      {
+        "index": "/04",
+        "value": "98%",
+        "desc": "Sự hài lòng của khách hàng"
+      }
+    ]
+  },
+  "industries": {
+    "label": "Lĩnh vực phục vụ",
+    "headlineLight": "Phi tập trung hóa ",
+    "headlineDark": "các ngành cốt lõi",
+    "items": [
+      {
+        "slug": "thuong-mai-dien-tu",
+        "title": "Thương mại điện tử",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/eComerce-Industries-Icon.png"
+      },
+      {
+        "slug": "cong-nghe-tai-chinh",
+        "title": "Công nghệ tài chính",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Fintech-Industries-Icon.png"
+      },
+      {
+        "slug": "y-te",
+        "title": "Y tế",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Healthcare-Industries-Icon.png"
+      },
+      {
+        "slug": "tai-chinh-doanh-nghiep",
+        "title": "Tài chính doanh nghiệp",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Expert-Financial-Industries-Icon.png"
+      },
+      {
+        "slug": "phan-mem-doanh-nghiep",
+        "title": "Phần mềm doanh nghiệp",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Business-Industries-Icon.png"
+      },
+      {
+        "slug": "ban-le",
+        "title": "Bán lẻ",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Retail-Industries-Icon.png"
+      },
+      {
+        "slug": "bat-dong-san",
+        "title": "Bất động sản",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Real-Estate-Industries-Icon.png"
+      },
+      {
+        "slug": "van-tai-va-logistics",
+        "title": "Vận tải và Logistics",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Logistics-Industries-Icon.png"
+      },
+      {
+        "slug": "giao-duc",
+        "title": "Giáo dục",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Education-Industries-Icon.png"
+      }
+    ]
+  },
+  "price": {
+    "label": "Bảng giá",
+    "headlineLight": "Các gói dịch vụ ",
+    "headlineDark": "phát triển Blockchain",
+    "description": "Đưa sức mạnh công nghệ sổ cái phân tán vào doanh nghiệp với hạ tầng bảo mật và khả năng mở rộng tối ưu.",
+    "packages": [
+      {
+        "name": "Gói Cơ Bản",
+        "price": "60.000.000",
+        "currency": "VNĐ",
+        "period": "/ dự án",
+        "description": "Lựa chọn hoàn hảo cho các startup muốn xác thực ý tưởng thông qua bản thử nghiệm hoặc phát hành token tùy chỉnh.",
+        "features": [
+          "Phát triển hợp đồng thông minh",
+          "Khởi tạo token tùy chỉnh theo chuẩn ERC20/BEP20",
+          "Triển khai và kiểm thử nghiêm ngặt trên mạng thử nghiệm",
+          "Đánh giá mã nguồn tiêu chuẩn",
+          "Hỗ trợ kỹ thuật 01 tháng sau khi phát hành"
+        ],
+        "ctaLabel": "Bắt đầu",
+        "ctaHref": "/lien-he",
+        "highlight": false
+      },
+      {
+        "name": "DApp Hoàn Chỉnh",
+        "price": "Báo giá linh hoạt theo quy mô",
+        "currency": "",
+        "period": "",
+        "description": "Giải pháp tối ưu cho các doanh nghiệp đổi mới sáng tạo cần xây dựng ứng dụng phi tập trung DApp hoàn chỉnh với logic nghiệp vụ phức tạp.",
+        "features": [
+          "Thiết kế toàn diện kiến trúc DApp và giao diện UI/UX Web3",
+          "Lập trình logic Smart Contract nâng cao",
+          "Tích hợp ví Web3 chuyên dụng",
+          "Kiểm toán bảo mật toàn diện",
+          "Triển khai chính thức lên mạng chính",
+          "Quản lý dự án riêng biệt và kế hoạch bảo trì liên tục"
+        ],
+        "ctaLabel": "Bắt đầu",
+        "ctaHref": "/lien-he",
+        "highlight": true
+      },
+      {
+        "name": "Gói Nâng Cao",
+        "price": "120.000.000",
+        "currency": "VNĐ",
+        "period": "/ dự án",
+        "description": "Hệ thống Blockchain riêng tư hoặc phân quyền, được thiết kế riêng cho các tập đoàn yêu cầu bảo mật tuyệt đối và vận hành quy mô lớn.",
+        "features": [
+          "Thiết lập mạng lưới riêng tư hoặc liên minh",
+          "Tích hợp trực tiếp với các hệ thống quản trị hiện có",
+          "Khả năng tương tác và luân chuyển tài sản liên chuỗi",
+          "Tuân thủ các quy định pháp lý và bảo mật dữ liệu nghiêm ngặt",
+          "Đội ngũ DevOps và quản trị nút mạng chuyên trách",
+          "Cam kết chất lượng dịch vụ chuẩn doanh nghiệp"
+        ],
+        "ctaLabel": "Bắt đầu",
+        "ctaHref": "/lien-he",
+        "highlight": false
+      }
+    ]
+  },
+  "techStack": {
+    "headlineLight": "Các công nghệ được ",
+    "headlineDark": "Winterfrost sử dụng",
+    "filters": [
+      "Tất cả",
+      "Giao diện",
+      "Hệ thống",
+      "Cơ sở dữ liệu",
+      "Vận hành",
+      "Quản lý"
+    ],
+    "items": [
+      {
+        "name": "React / Next.js",
+        "category": "Giao diện"
+      },
+      {
+        "name": "Angular",
+        "category": "Giao diện"
+      },
+      {
+        "name": "Vue.js",
+        "category": "Giao diện"
+      },
+      {
+        "name": "Figma",
+        "category": "Giao diện"
+      },
+      {
+        "name": "Adobe XD",
+        "category": "Giao diện"
+      },
+      {
+        "name": "Sketch",
+        "category": "Giao diện"
+      },
+      {
+        "name": "Node.js",
+        "category": "Hệ thống"
+      },
+      {
+        "name": "Laravel",
+        "category": "Hệ thống"
+      },
+      {
+        "name": "WordPress / PHP",
+        "category": "Hệ thống"
+      },
+      {
+        "name": ".NET / ASP.NET",
+        "category": "Hệ thống"
+      },
+      {
+        "name": "MySQL",
+        "category": "Cơ sở dữ liệu"
+      },
+      {
+        "name": "PostgreSQL",
+        "category": "Cơ sở dữ liệu"
+      },
+      {
+        "name": "MongoDB",
+        "category": "Cơ sở dữ liệu"
+      },
+      {
+        "name": "Redis",
+        "category": "Cơ sở dữ liệu"
+      },
+      {
+        "name": "Docker",
+        "category": "Vận hành"
+      },
+      {
+        "name": "GitHub",
+        "category": "Vận hành"
+      },
+      {
+        "name": "GitLab",
+        "category": "Vận hành"
+      },
+      {
+        "name": "Bitbucket",
+        "category": "Vận hành"
+      },
+      {
+        "name": "GitHub Actions",
+        "category": "Vận hành"
+      },
+      {
+        "name": "CI/CD",
+        "category": "Vận hành"
+      },
+      {
+        "name": "AWS",
+        "category": "Vận hành"
+      },
+      {
+        "name": "Deploy Server",
+        "category": "Vận hành"
+      },
+      {
+        "name": "Jira",
+        "category": "Quản lý"
+      }
+    ]
+  },
+  "comprehensiveServices": {
+    "headlineLight": "Tăng tốc lộ trình chuyển ",
+    "headlineDark": "đổi số của bạn",
+    "items": [
+      {
+        "slug": "thiet-ke-website",
+        "title": "Dịch vụ thiết kế website",
+        "desc": "Một backend Blockchain mạnh mẽ luôn cần một giao diện người dùng hoàn hảo và trực quan. Chúng tôi chuyên xây dựng các bảng điều khiển bảo mật có độ phản hồi cao, giúp biến các tương tác Web3 phức tạp trở nên đơn giản và dễ tiếp cận đối với người dùng cuối.",
+        "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Dich-vu-thiet-ke-Website-HomeNest-Viet-Nam.jpg",
+        "href": "/dich-vu/thiet-ke-website"
+      },
+      {
+        "slug": "phat-trien-iot",
+        "title": "Phát triển IoT",
+        "desc": "Kết nối thế giới vật lý vào sổ cái kỹ thuật số thông qua hệ thống cảm biến và thiết bị thông minh. Chúng tôi xây dựng giải pháp IoT tích hợp Blockchain để tự động hóa việc thu thập dữ liệu, đảm bảo tính minh bạch tuyệt đối từ khâu sản xuất đến tay người tiêu dùng và loại bỏ hoàn toàn các rủi ro giả mạo thông tin.",
+        "image": "/images/migrated/homenest-software/wp-content/uploads/2026/04/M7XkcGNNmF9nUkjJM8FXYMH8BA.avif",
+        "href": "/dich-vu/phat-trien-iot"
+      },
+      {
+        "slug": "phat-trien-phan-mem-doanh-nghiep",
+        "title": "Phát triển phần mềm doanh nghiệp",
+        "desc": "Triển khai Blockchain ở quy mô tập đoàn đòi hỏi sự tuân thủ nghiêm ngặt về quản trị, khả năng mở rộng cực lớn và độ tin cậy 24/7. Đội ngũ kỹ sư của chúng tôi đảm bảo mọi triển khai đều đáp ứng các tiêu chuẩn IT toàn cầu và các quy định khắt khe nhất về tuân thủ.",
+        "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Dich-vu-phat-trien-phan-mem-doanh-nghiep-HomeNest-Viet-Nam.jpg",
+        "href": "/dich-vu/phat-trien-phan-mem-doanh-nghiep"
+      }
+    ]
+  },
+  "faq": {
+    "label": "Các câu hỏi thường gặp",
+    "headlineParts": [
+      "Giải Đáp",
+      "Mọi",
+      "Thắc Mắc"
+    ],
+    "description": "Tổng hợp thông tin về công nghệ sổ cái phân tán, quy trình kiểm toán bảo mật và lộ trình triển khai Web3 cho doanh nghiệp.",
+    "items": [
+      {
+        "q": "Winterfrost có hỗ trợ chọn mạng lưới Blockchain phù hợp không?",
+        "a": "Có. Tùy vào mục tiêu dự án, chúng tôi sẽ tư vấn mạng lưới tối ưu: Ethereum/Polygon (ưu tiên tính bảo mật và hệ sinh thái lớn), Solana/BNB Chain (ưu tiên tốc độ giao dịch nhanh và chi phí thấp), hoặc Hyperledger Fabric cho doanh nghiệp cần mạng lưới nội bộ có tính phân quyền cao."
+      },
+      {
+        "q": "Hợp đồng thông minh (Smart Contract) có an toàn không?",
+        "a": "Blockchain có tính bất biến nên chúng tôi áp dụng quy trình Audit cực kỳ khắt khe: kiểm tra lỗi logic và lỗ hổng phổ biến, chạy mô phỏng trên mạng thử nghiệm trước khi phát hành, và đảm bảo mã nguồn tối ưu nhất để tránh thất thoát tài sản."
+      },
+      {
+        "q": "Làm thế nào để tối ưu chi phí giao dịch trên Blockchain?",
+        "a": "Có. Đội ngũ kỹ sư của chúng tôi tối ưu hóa mã nguồn để thực hiện các giao dịch với ít tài nguyên nhất. Ngoài ra, chúng tôi có thể triển khai các giải pháp Layer 2 để giúp doanh nghiệp đạt được chi phí giao dịch gần như bằng 0 mà vẫn đảm bảo tính bảo mật."
+      },
+      {
+        "q": "Làm thế nào để sửa lỗi hoặc nâng cấp hệ thống sau khi đã triển khai?",
+        "a": "Chúng tôi thường sử dụng kiến trúc Upgradable Contracts. Kỹ thuật này cho phép cập nhật logic phần mềm hoặc vá lỗi mà không làm thay đổi địa chỉ hợp đồng và dữ liệu cũ của khách hàng, đảm bảo hệ thống luôn linh hoạt sau triển khai."
+      },
+      {
+        "q": "Blockchain có thể kết nối với dữ liệu thực tế không?",
+        "a": "Có. Chúng tôi sử dụng các giải pháp Oracle để đưa dữ liệu ngoại vi vào trong Blockchain một cách minh bạch và chính xác, giúp Smart Contract có thể thực thi dựa trên các sự kiện thực tế."
+      },
+      {
+        "q": "Doanh nghiệp có được sở hữu hoàn toàn mã nguồn không?",
+        "a": "Có. Winterfrost cam kết bàn giao 100% mã nguồn hợp đồng thông minh, ứng dụng DApp và các tài liệu kỹ thuật liên quan. Doanh nghiệp hoàn toàn sở hữu tài sản trí tuệ và có toàn quyền kiểm soát hệ thống."
+      },
+      {
+        "q": "Triển khai Blockchain có vi phạm quy định pháp lý tại Việt Nam không?",
+        "a": "Chúng tôi tập trung ứng dụng Blockchain để tối ưu hóa vận hành, quản trị dữ liệu và truy xuất nguồn gốc—những mảng được khuyến khích trong chuyển đổi số. Với dự án tài sản số, chúng tôi sẽ tư vấn giải pháp tuân thủ các quy chuẩn kỹ thuật và pháp lý hiện hành."
+      }
+    ]
+  }
+}

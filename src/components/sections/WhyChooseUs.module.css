@@ -1,0 +1,726 @@
+/* WhyChooseUs bento — match WhyChooseUsSection-module on winterfrost.tech */
+
+.section {
+  color: #05080C;
+  width: 100%;
+  padding: 60px 0;
+}
+.container {
+  box-sizing: content-box;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 40px;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  margin-bottom: 50px;
+}
+
+/* Eyebrow — Label primitive */
+.eyebrow {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.75em;
+  color: #05080C;
+  font-family: var(--font-manrope, Manrope, sans-serif);
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.2;
+}
+.eyebrowIcon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1em;
+  height: 1em;
+  color: currentColor;
+}
+.eyebrowIcon svg { fill: currentcolor; width: 100%; height: 100%; }
+.eyebrowText {
+  margin: 0;
+  color: inherit;
+  font-size: 1em;
+  font-weight: 500;
+  line-height: 1.2;
+}
+.headingText {
+  text-align: center;
+  width: 100%;
+  font-family: Winterfrost, var(--font-Winterfrost), sans-serif;
+  font-size: 60px;
+  line-height: normal;
+}
+.heading {
+  margin: 0;
+  font-family: inherit;
+  font-size: 1em;
+  font-weight: 500;
+  line-height: inherit;
+  letter-spacing: -.02em;
+  white-space: nowrap;
+}
+.headingNormal { color: #0c1e5b; font-size: 1em; font-weight: 600; line-height: 1.1; }
+.headingHighlight {
+  color: #1a3b91;
+  display: inline-block;
+  padding: 0 0.1em;
+  font-family: "Great Vibes", var(--font-script), sans-serif;
+  font-size: 1.1em;
+  font-weight: 400;
+  line-height: 1;
+}
+
+/* Bento layout */
+.bento {
+  display: flex;
+  gap: 12px;
+  width: 100%;
+}
+
+/* Left blue card */
+.itemRight {
+  flex: 1 1 0%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background: linear-gradient(121deg, #021B7B 0%, #1670DE 29%, #193B9A 94.34%, #193493 100%);
+  color: #fff;
+  border-radius: 16px;
+  padding: 20px;
+  position: relative;
+  overflow: hidden;
+}
+.blurTop {
+  position: absolute;
+  top: -40px;
+  right: -40px;
+  width: 350px;
+  height: 80px;
+  background: rgb(170, 169, 173);
+  border-radius: 50%;
+  filter: blur(100px);
+  opacity: 0.6;
+  pointer-events: none;
+}
+.blurBottom {
+  position: absolute;
+  bottom: -40px;
+  left: -40px;
+  width: 90px;
+  height: 200px;
+  background: rgb(170, 169, 173);
+  filter: blur(100px);
+  opacity: 0.6;
+  pointer-events: none;
+}
+.chainVisual {
+  position: absolute;
+  bottom: -200px;
+  right: -130px;
+  width: 450px;
+  height: 530px;
+  opacity: 0.6;
+  z-index: 0;
+  pointer-events: none;
+}
+.chainVisual img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+.rightContent {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+.rightTitle {
+  margin: 0;
+  font-family: Winterfrost, var(--font-Winterfrost), sans-serif;
+  font-size: 22px;
+  font-weight: 500;
+  line-height: normal;
+}
+.rightTitle.cardTitle { color: #fff; }
+.featureList {
+  list-style: none;
+  margin: 20px 0 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.listItem {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.listItem p {
+  margin: 0;
+  color: #F5F5F5;
+}
+.listItem > p {
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 1.6;
+}
+.dotIcon {
+  display: block;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #F5F5F5;
+  flex-shrink: 0;
+}
+/* Label primitive (white-text variant) for chips inside the blue card */
+.label {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.75em;
+  color: #fff;
+  font-family: var(--font-manrope, Manrope, sans-serif);
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.2;
+}
+.labelIcon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1em;
+  height: 1em;
+  color: currentColor;
+}
+.labelIcon svg { width: 100%; height: 100%; }
+.labelText {
+  margin: 0;
+  color: inherit;
+  font-size: 17px;
+  font-weight: 500;
+  line-height: 1.2;
+}
+.listItem .labelText { line-height: 1.2; }
+
+.copyright {
+  position: relative;
+  z-index: 1;
+  margin: 0;
+  font-size: 14px;
+  color: #fff;
+}
+.copyright p { margin: 0; color: #fff; }
+
+/* Right area */
+.contentLeft {
+  flex: 2 1 0%;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.bentoListOne {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}
+.bentoListTwo {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 12px;
+}
+
+/* All cards default styles */
+.cardItem1, .cardItem2, .cardItem3, .cardItem4, .cardItem5 {
+  border-radius: 16px;
+  width: 100%;
+  height: 100%;
+  padding: 20px;
+  position: relative;
+  overflow: hidden;
+}
+.cardItem3, .cardItem5 {
+  border: 1px solid rgba(0, 0, 0, 0.2);
+}
+.cardTitle {
+  margin: 0;
+  color: #121528;
+  font-family: Winterfrost, var(--font-Winterfrost), sans-serif;
+  font-size: 22px;
+  font-weight: 500;
+  line-height: normal;
+}
+.cardDesc {
+  margin: 0;
+  color: #121528;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 1.3em;
+}
+.contentWrapper {
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.textContent {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+/* Card 1 — Tối ưu chi phí */
+.cardItem1 {
+  background-color: #F5F5F5;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.vectorBackground {
+  pointer-events: none;
+  mix-blend-mode: luminosity;
+  width: 100%;
+  height: auto;
+  position: absolute;
+  bottom: -50px;
+  left: 50%;
+  transform: translate(-50%);
+  overflow: hidden;
+}
+.vectorBackground img {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+.innerBlueCard {
+  background: linear-gradient(121deg, #021B7B 0%, #1670DE 29%, #193493 100%);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 120px;
+  width: 100%;
+  height: min-content;
+  padding: 20px;
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3), inset 0 3px 3px rgba(255, 255, 255, 0.2);
+}
+.chipIconWrap {
+  aspect-ratio: 1.46667 / 1;
+  z-index: 1;
+  width: 44px;
+  position: relative;
+}
+.chipIconWrap img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+.cardBottom {
+  z-index: 1;
+  display: flex;
+  justify-content: flex-end;
+}
+.innerChip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.75em;
+  color: #fff;
+  font-family: var(--font-manrope, Manrope, sans-serif);
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.2;
+}
+.innerChipIcon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1em;
+  height: 1em;
+  color: currentColor;
+}
+.lightningBolt {
+  position: absolute;
+  top: 30px;
+  left: 50%;
+  width: 133px;
+  height: 133px;
+  transform: translate(-50%) rotate(25deg);
+  filter: grayscale(1) invert(1);
+  -webkit-mask: linear-gradient(10deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0.86) 31%, rgba(0,0,0,0.96) 65%, #000 100%);
+          mask: linear-gradient(10deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0.86) 31%, rgba(0,0,0,0.96) 65%, #000 100%);
+  pointer-events: none;
+}
+.lightningBolt img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* Card 2 — 250+ Đối tác */
+.cardItem2 {
+  background-color: #F5F5F5;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  min-height: 400px;
+}
+.cardItem2 .cardTitle {
+  font-size: 16px;
+}
+.cardTwoContent {
+  z-index: 5;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+  line-height: normal;
+}
+.cardTwoLeft {
+  display: block;
+}
+.starIcon {
+  display: inline;
+  width: 108px;
+  height: auto;
+  margin-bottom: 8px;
+}
+.c2Title {
+  margin: 0;
+  color: #121528;
+  font-family: var(--font-manrope, Manrope, sans-serif);
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.6;
+}
+.ratingScore {
+  display: flex;
+  align-items: baseline;
+  gap: 2px;
+}
+.scoreNumber {
+  color: #05080C;
+  font-size: 28px;
+  font-weight: 500;
+  line-height: normal;
+}
+.scoreTotal {
+  color: #5B5B5B;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: normal;
+}
+.decorationWrap {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: visible;
+}
+.circlesContainer {
+  position: absolute;
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.circleLine {
+  position: absolute;
+  border: 1px solid rgba(5, 8, 12, 0.06);
+  border-radius: 50%;
+  flex: 0 0 auto;
+}
+.brandLogoCenter {
+  z-index: 10;
+  position: absolute;
+  bottom: 35px;
+  width: 120px;
+  height: auto;
+}
+.brandLogoCenter img {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  display: block;
+}
+.avatarList {
+  position: absolute;
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 1px;
+  height: 1px;
+  animation: spin 60s linear infinite;
+}
+.avatarItem {
+  --start-angle: 0deg;
+  position: absolute;
+  transform: rotate(var(--start-angle)) translateY(-200px);
+}
+.imgCounterSpin {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transform: rotate(calc(-1 * var(--start-angle)));
+}
+.imgCounterSpin img {
+  width: 55px;
+  height: 55px;
+  max-width: none;
+  border-radius: 50%;
+  border: 2px solid #fff;
+  object-fit: cover;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.10);
+  animation: spinReverse 60s linear infinite;
+}
+.cardItem2:hover .avatarList,
+.cardItem2:hover .avatarItem img {
+  animation-play-state: paused;
+}
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+@keyframes spinReverse {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(-360deg); }
+}
+
+/* Card 3 — Công nghệ tiên tiến */
+.cardItem3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.iconGrid {
+  --gap: 24px;
+  --column: 4;
+  display: flex;
+  flex-flow: row wrap;
+  gap: 0 var(--gap);
+  margin-top: auto;
+}
+.iconWrap {
+  width: calc((100% - var(--gap) * (var(--column) - 1)) / var(--column));
+  background: rgb(218, 218, 219);
+  border: 1px solid #EEEEEE;
+  border-radius: 50%;
+  display: flex;
+  container-type: inline-size;
+}
+.iconWrap:first-child {
+  margin-left: calc(((100% - var(--gap) * (var(--column) - 1)) / var(--column)) - var(--gap) / 2);
+}
+.iconWrap.dark {
+  background: #1A1B23;
+  border-color: #1A1B23;
+}
+.iconWrap img {
+  width: 100%;
+  height: 100cqw;
+  padding: 20%;
+  box-sizing: border-box;
+  object-fit: contain;
+}
+
+/* Card 5 — 24/7 */
+.cardItem5 {
+  background-color: #fff;
+  min-height: 300px;
+}
+.cardContent {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 10px;
+  height: 100%;
+}
+.titleLarge {
+  margin: 0;
+  color: #05080C;
+  letter-spacing: -0.04em;
+  font-family: var(--font-Winterfrost, Manrope, sans-serif);
+  font-size: 28px;
+  font-weight: 500;
+  line-height: 1;
+}
+.messageList {
+  z-index: 2;
+  margin-top: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.messageWrap {
+  z-index: 2;
+  display: flex;
+  align-items: flex-end;
+  gap: 8px;
+}
+.messageWrap.reverse {
+  justify-content: flex-end;
+}
+.avatarUser {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.avatarUser img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.bubbleUser, .bubbleSystem {
+  background-color: #05080C;
+  max-width: 100%;
+  padding: 0.6em 1em;
+  font-size: 14px;
+}
+.bubbleUser {
+  border-radius: 20px 20px 20px 4px;
+}
+.bubbleSystem {
+  border-radius: 20px 20px 4px 20px;
+}
+.bubbleUser p, .bubbleSystem p {
+  margin: 0;
+  color: #fff;
+  font-size: 1em;
+  font-weight: 500;
+  line-height: 1.3em;
+}
+.iconSystemWrap {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background-color: #05080C;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.iconSystem {
+  width: 20px;
+  height: 20px;
+}
+.iconSystem img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+.handVector {
+  position: absolute;
+  bottom: -55px;
+  right: -30px;
+  width: 190px;
+  height: 280px;
+  opacity: 0.5;
+  z-index: 1;
+  pointer-events: none;
+  user-select: none;
+}
+.handVector img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+/* Card 4 — Vận hành ổn định */
+.cardItem4 {
+  text-align: center;
+  color: #fff;
+  background: url("/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Tru-So-HomeNestVietNam.jpg") 50% center / cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cardItem4 .textContent {
+  gap: 0;
+  font-size: 18px;
+}
+.overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, rgba(84, 84, 84, 0.1) 0%, rgb(12, 30, 91) 100%);
+  pointer-events: none;
+}
+.cardImageContent, .card4Content {
+  z-index: 1;
+  text-align: center;
+  color: #fff;
+  width: 100%;
+  position: relative;
+}
+.card4Title {
+  margin: 0;
+  color: #fff;
+  font-size: 1em;
+  font-weight: 600;
+  line-height: 1.3;
+}
+.scriptFont {
+  margin: 0;
+  color: #fff;
+  font-family: "Great Vibes", "Pinyon Script", cursive;
+  font-size: 2em;
+  line-height: 1.1;
+}
+
+/* Responsive */
+@media (max-width: 1400px) {
+  .header { gap: 12px; }
+  .headingText { font-size: 48px; }
+  .cardItem1, .cardItem2, .cardItem3, .cardItem4, .cardItem5, .itemRight { padding: 20px; }
+  .cardTitle { font-size: 22px; }
+  .cardDesc { font-size: 15px; }
+  .listItem p { font-size: 17px; }
+  .label { font-size: 17px; }
+  .contentWrapper { gap: 20px; }
+}
+@media (max-width: 1200px) {
+  .container { padding: 0 32px; }
+  .headingText { font-size: 42px; }
+  .heading { white-space: normal; }
+  .bento { grid-template-columns: 1fr; gap: 20px 0; }
+  .copyright { margin-top: 20px; }
+  .cardItem1, .cardItem2, .cardItem3, .cardItem4, .cardItem5, .itemRight { padding: 16px; }
+}
+@media (max-width: 996px) {
+  .container { padding: 0 24px; }
+  .bento { flex-direction: column; }
+}
+@media (max-width: 768px) {
+  .section { min-height: 2204px; padding: 50px 0; }
+  .container { padding: 0 20px; }
+  .headingText { font-size: 32px; }
+  .cardItem1, .cardItem2, .cardItem3, .cardItem4, .cardItem5, .itemRight {
+    gap: 40px;
+    padding: 16px;
+  }
+}
+@media (max-width: 620px) {
+  .bentoListOne, .bentoListTwo { grid-template-columns: 1fr; }
+}
+@media (max-width: 576px) {
+  .container { padding: 0 16px; }
+  .headingText { font-size: 28px; }
+  .featureList { gap: 8px; }
+  .listItem p { font-size: 14px; }
+  .label { font-size: 14px; }
+}

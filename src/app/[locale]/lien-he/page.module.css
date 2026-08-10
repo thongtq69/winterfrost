@@ -1,0 +1,55 @@
+.contactSection { min-height: 940.58px; padding: 160px 0 80px; color: #121528; background: #fff; }
+.container { width: 1480px; max-width: 100%; margin: 0 auto; padding: 0 40px; }
+.pageGrid { width: 100%; display: grid; grid-template-columns: 718px 622px; justify-content: space-between; }
+.infoCol { min-height: 700.58px; padding: 48px; display: flex; flex-direction: column; border-radius: 0; background: #f4f7fc; }
+.badge { height: 23px; display: flex; align-items: center; gap: 10px; color: #666; font-size: 17px; font-weight: 500; }
+.badge span { width: 8px; height: 8px; border-radius: 50%; background: #5a9de7; }
+.infoCol h1 { margin: 24px 0 0; color: #1a3b91; font-family: Winterfrost, sans-serif; font-size: 40px; font-weight: 600; line-height: 44px; }
+.description { margin: 24px 0 0; font-size: 18px; line-height: 28.8px; }
+.bulletList { margin: 24px 0 0; padding: 0; display: flex; flex-direction: column; gap: 16px; list-style: none; font-size: 18px; }
+.bulletList li { display: flex; align-items: flex-start; gap: 12.6px; line-height: 27px; }
+.bulletList svg { width: 22px; height: 22px; flex: 0 0 22px; margin-top: 1px; color: #5b96dc; stroke-width: 2; }
+.divider { height: 2px; margin-top: 40px; background: #e0e3e9; }
+.contactDetails { margin-top: 32px; display: flex; align-items: center; justify-content: space-between; }
+.contactDetails a { display: inline-flex; align-items: center; gap: 10px; color: #1a3b91; font-size: 16px; font-weight: 600; line-height: 22px; text-decoration: none; }
+.contactDetails svg { width: 20px; height: 20px; color: #68a0e2; stroke-width: 1.8; }
+.formCol { min-height: 700.58px; padding: 20px 0; }
+.formCol > img { display: block; width: 140.65px; height: 40px; object-fit: contain; object-position: left center; }
+.formCol h2 { margin: 29px 0 32px; color: #1a3b91; font-family: Winterfrost, sans-serif; font-size: 24px; font-weight: 500; line-height: 28.8px; }
+.formCol form { position: relative; }
+.formRow { height: 76.6px; display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; }
+.formRow + .formRow { margin-top: 24px; }
+.fieldGroup { display: flex; flex-direction: column; gap: 8px; }
+.fieldGroup label { color: #666; font-size: 14px; line-height: 19px; }
+.fieldGroup input, .fieldGroup textarea { width: 100%; border: 1px solid #dce1ea; border-radius: 6px; color: #121528; background: transparent; font: 16px Manrope, sans-serif; outline: none; transition: border-color .2s ease, box-shadow .2s ease; }
+.fieldGroup input { height: 49.6px; padding: 12.8px 16px; }
+.fieldGroup textarea { height: 140px; padding: 12.8px 16px; resize: none; }
+.formRow + .fieldGroup { height: 167px; margin-top: 24px; }
+.fieldGroup input:focus, .fieldGroup textarea:focus { border-color: #267ce2; box-shadow: 0 0 0 3px rgba(38,124,226,.1); }
+.submitBtn { width: 100%; height: 57px; margin-top: 34px; display: inline-flex; align-items: center; justify-content: center; gap: 9px; border: 0; border-radius: 100px; color: #fff; background: linear-gradient(121deg, #021b7b 0%, #1670de 29%, #193493 100%); font: 600 17px Manrope, sans-serif; cursor: pointer; box-shadow: 0 10px 24px rgba(19,67,177,.2); }
+.submitBtn svg { width: 18px; height: 18px; }
+.submitBtn:disabled { opacity: .65; cursor: wait; }
+.honeypot { position: absolute; width: 0; height: 0; transform: scale(0); }
+.success, .error { margin-top: 10px; font-size: 14px; }
+.success { color: #059669; }
+.error { color: #dc2626; }
+
+@media (max-width: 1200px) {
+  .container { width: 100%; }
+  .pageGrid { grid-template-columns: 1fr 1fr; gap: 34px; }
+}
+@media (max-width: 850px) {
+  .contactSection { padding-top: 120px; }
+  .pageGrid { grid-template-columns: 1fr; }
+  .infoCol { min-height: auto; }
+  .formCol { min-height: auto; }
+}
+@media (max-width: 600px) {
+  .container { padding-inline: 16px; }
+  .infoCol { padding: 28px 22px; }
+  .infoCol h1 { font-size: 34px; line-height: 40px; }
+  .formRow { height: auto; grid-template-columns: 1fr; gap: 18px; }
+  .formRow + .formRow { margin-top: 18px; }
+  .formRow + .fieldGroup { margin-top: 18px; }
+  .contactDetails { align-items: flex-start; flex-direction: column; gap: 14px; }
+}

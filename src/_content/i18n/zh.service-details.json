@@ -1,0 +1,5576 @@
+{
+  "thiet-ke-website": {
+    "slug": "thiet-ke-website",
+    "metaTitle": "网站设计服务-Winterfrost",
+    "hero": {
+      "titleDark": "网站设计服务",
+      "titleLight": "专业的",
+      "description": "Winterfrost为企业提供高速且绝对安全的专业网站设计服务。此外，还通过我们的专业网站帮助企业优化运营并在市场上肯定其品牌。",
+      "bgImage": "/images/migrated/homenest-software/wp-content/uploads/2026/03/Web-app-development.jpg",
+      "dashboardImage": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Web-Application-Development-banner.jpg"
+    },
+    "solution": {
+      "headlineLight": "网站设计",
+      "headlineDark": "凭借卓越的技术",
+      "description": "我们设计高转化效率的网站来解决复杂的业务问题。同时，Winterfrost还注重网站结构和流畅的用户体验，帮助留住客户，从而帮助企业在数字市场中发展。",
+      "ctaLabel": "现在讨论该项目！",
+      "ctaHref": "tel:+84971450454",
+      "items": [
+        {
+          "title": "过程自动化",
+          "desc": "复杂的工作流程将自动处理，限制网站上的重复操作。"
+        },
+        {
+          "title": "体验设计",
+          "desc": "我们设计的直观界面将提高客户在网站上的互动水平"
+        },
+        {
+          "title": "分析真实数据",
+          "desc": "通过智能仪表板和小部件跟踪业务绩效指标，以支持企业快速决策。"
+        },
+        {
+          "title": "结构灵活",
+          "desc": "建立一个标准结构的网站，有利于系统始终稳定运行，企业日后也能轻松扩大规模。"
+        },
+        {
+          "title": "系统集成",
+          "desc": "网站通过安全协议与业务管理软件、支付网关平滑连接。"
+        },
+        {
+          "title": "安全性高",
+          "desc": "重要数据将通过现代技术和最严格的控制程序得到保护，确保业务安全。"
+        }
+      ]
+    },
+    "features": {
+      "headlineLight": "网站设计解决方案",
+      "headlineDark": "对于企业",
+      "description": "Winterfrost构建高性能网站系统，解决所有运营问题。我们建立全面的生态系统，帮助促进企业可持续增长。",
+      "ctaLabel": "网站项目咨询",
+      "ctaHref": "tel:+84971450454",
+      "items": [
+        {
+          "title": "工商管理网站",
+          "desc": "网站设计具有客户和内部资源管理功能，直接集成到网站中以优化操作流程。",
+          "image": "/images/services/winterfrost/enterprise-software-development.webp"
+        },
+        {
+          "title": "与人工智能集成的网站",
+          "desc": "利用能够自动执行和处理问题的人工智能集成网站来转变业务模式，帮助提高生产力和工作效率。",
+          "image": "/images/services/winterfrost/ai-development.webp"
+        },
+        {
+          "title": "数据分析网站",
+          "desc": "在网站上提供报告系统和实际数据可以帮助管理人员准确监控业务绩效。",
+          "image": "/images/services/winterfrost/devops-development.webp"
+        },
+        {
+          "title": "网上销售网站",
+          "desc": "打造高速、绝对安全的电子商务平台，帮助企业扩大业务规模。",
+          "image": "/images/services/winterfrost/saas-application-development.webp"
+        },
+        {
+          "title": "连接并同步系统",
+          "desc": "我们的网站能够与其他软件无缝链接，以确保数据始终更新。",
+          "image": "/images/services/winterfrost/custom-software-solutions.webp"
+        }
+      ]
+    },
+    "howWeWork": {
+      "label": "我们的网站设计流程",
+      "ctaLabel": "部署您的项目",
+      "ctaHref": "tel:+84971450454",
+      "steps": [
+        {
+          "num": "01",
+          "badge": "初始化",
+          "title": "了解需求并规划项目",
+          "desc": "Winterfrost 深入讨论以了解企业的业务目标。我们确定项目范围和评估，以建立最坚实的实施基础。"
+        },
+        {
+          "num": "02",
+          "badge": "建筑",
+          "title": "用户界面设计",
+          "desc": "我们构建直观的网站界面。根据实际用户行为研究制作样图，保证美观和用户的便利性。"
+        },
+        {
+          "num": "03",
+          "badge": "编程",
+          "title": "建立网站并推出试用版",
+          "desc": "程序员团队编写最佳代码并优先完成核心功能。我们提供MVP版本供企业跟踪进度并及时提供调整建议。"
+        },
+        {
+          "num": "04",
+          "badge": "检查",
+          "title": "质量保证和真实测试",
+          "desc": "我们进行严格的质量测试，以确保网站在所有设备上稳定、流畅地运行。只有当产品完全满足设定的技术标准时，这个阶段才结束。"
+        },
+        {
+          "num": "05",
+          "badge": "操作",
+          "title": "系统移交及技术支持",
+          "desc": "我们安装DevOps系统，并将所有网站数据移交给业务。网站上线后，我们继续提供定期维护支持，确保产品始终稳定运行。"
+        }
+      ]
+    },
+    "benefits": {
+      "label": "为什么您应该选择 Winterfrost？",
+      "headlineLight": "成本透明",
+      "headlineDark": "提供可靠的网站设计解决方案",
+      "items": [
+        {
+          "num": "1",
+          "title": "10+年深度经验",
+          "desc": "我们在为许多大型合作伙伴构建复杂的网站和业务管理系统方面拥有丰富的经验。"
+        },
+        {
+          "num": "2",
+          "title": "成本优化的解决方案",
+          "desc": "开发流程得到简化，以带来高质量的产品，同时仍确保企业的适当成本和最佳投资效率。"
+        },
+        {
+          "num": "3",
+          "title": "对不同领域的理解",
+          "desc": "Winterfrost深入了解健康、供应链或房地产等多个不同领域的运营流程，以确保网站满足实际需求。"
+        },
+        {
+          "num": "4",
+          "title": "先进灵活的技术",
+          "desc": "我们使用最新的技术平台来保持您的网站高速且易于将来升级。"
+        },
+        {
+          "num": "5",
+          "title": "流畅的系统集成",
+          "desc": "网站旨在与管理工具和业务软件稳定连接和同步数据，提高便利性。"
+        },
+        {
+          "num": "6",
+          "title": "质量检查",
+          "desc": "彻底的测试过程有助于确保网站在交付给客户时正确运行且没有错误。"
+        },
+        {
+          "num": "7",
+          "title": "专业工作",
+          "desc": "我们分阶段进行项目，帮助实施过程快速进行并确保如期进行。"
+        },
+        {
+          "num": "8",
+          "title": "国际安全标准",
+          "desc": "所有流程均符合数据安全标准，最大限度地保护业务和客户信息。"
+        },
+        {
+          "num": "9",
+          "title": "全球部署经验",
+          "desc": "与韩国或美国等国际合作伙伴的合作帮助我们始终保持专业的工作流程和最高的质量标准。"
+        }
+      ]
+    },
+    "ctaBanner": {
+      "badge": "立即联系！",
+      "headline": "拥有一个专业的网站来推广您的业务",
+      "description": "让 Winterfrost 帮助您构建快速、高度安全的网站并优化用户体验，以吸引当今的潜在客户。",
+      "ctaLabel": "立即获取设计咨询",
+      "ctaHref": "/lien-he",
+      "image": "/images/people/cta/winterfrost/quan-ly-nam.png"
+    },
+    "counter": {
+      "badgeText": "我们的成就",
+      "items": [
+        {
+          "index": "/01",
+          "value": "10+",
+          "desc": "多年经验"
+        },
+        {
+          "index": "/02",
+          "value": "250+",
+          "desc": "客户"
+        },
+        {
+          "index": "/03",
+          "value": "15+",
+          "desc": "国家"
+        },
+        {
+          "index": "/04",
+          "value": "98%",
+          "desc": "客户很满意"
+        }
+      ]
+    },
+    "industries": {
+      "label": "特色领域",
+      "headlineLight": "Winterfrost提供服务",
+      "headlineDark": "根据每个具体领域",
+      "items": [
+        {
+          "slug": "thuong-mai-dien-tu",
+          "title": "电子商务",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/eComerce-Industries-Icon.png"
+        },
+        {
+          "slug": "cong-nghe-tai-chinh",
+          "title": "金融科技",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Fintech-Industries-Icon.png"
+        },
+        {
+          "slug": "y-te",
+          "title": "医疗",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Healthcare-Industries-Icon.png"
+        },
+        {
+          "slug": "tai-chinh-doanh-nghiep",
+          "title": "企业融资",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Expert-Financial-Industries-Icon.png"
+        },
+        {
+          "slug": "phan-mem-doanh-nghiep",
+          "title": "企业软件",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Business-Industries-Icon.png"
+        },
+        {
+          "slug": "ban-le",
+          "title": "零售",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Retail-Industries-Icon.png"
+        },
+        {
+          "slug": "bat-dong-san",
+          "title": "房地产",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Real-Estate-Industries-Icon.png"
+        },
+        {
+          "slug": "van-tai-va-logistics",
+          "title": "运输与物流",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Logistics-Industries-Icon.png"
+        },
+        {
+          "slug": "giao-duc",
+          "title": "教育",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Education-Industries-Icon.png"
+        }
+      ]
+    },
+    "price": {
+      "label": "价格表",
+      "headlineLight": "价格表",
+      "headlineDark": "网站开发",
+      "description": "透明的成本适合所有项目规模。",
+      "packages": [
+        {
+          "name": "Gói cơ bản",
+          "price": "15.000.000",
+          "currency": "越南盾",
+          "period": "/ 项目",
+          "description": "对于需要专业网站来开始在数字环境中建立形象的小型企业来说，这是完美的解决方案。",
+          "features": [
+            "接口兼容所有设备",
+            "必要的核心功能",
+            "基本用户身份验证",
+            "集成标准连接端口",
+            "设置云存储"
+          ],
+          "ctaLabel": "开始使用",
+          "ctaHref": "/lien-he",
+          "highlight": false
+        },
+        {
+          "name": "Gói linh hoạt",
+          "price": "灵活的成本",
+          "currency": "",
+          "period": "",
+          "description": "对于需要最专业、最现代的网站来开发高级集成功能的单位的理想选择。",
+          "features": [
+            "深入的接口编程",
+            "系统架构和原生数据",
+            "连接复杂的第三方服务",
+            "实时同步数据",
+            "高级仪表板和分析",
+            "确保网络安全标准",
+            "移交后技术支持"
+          ],
+          "ctaLabel": "开始使用",
+          "ctaHref": "/lien-he",
+          "highlight": true,
+          "labelText": "专业套餐"
+        },
+        {
+          "name": "Gói nâng cao",
+          "price": "40.000.000",
+          "currency": "越南盾",
+          "period": "/ 项目",
+          "description": "创建具有现代分布式架构的高端Web平台，有助于优化用户体验并扩展无限功能。",
+          "features": [
+            "现代分布式系统架构",
+            "整合您自己的人工智能流程",
+            "数据备份与恢复能力",
+            "企业级安全",
+            "致力于专门的运营和支持",
+            "无限的系统扩展能力"
+          ],
+          "ctaLabel": "开始使用",
+          "ctaHref": "/lien-he",
+          "highlight": false
+        }
+      ]
+    },
+    "techStack": {
+      "headlineLight": "使用的技术",
+      "headlineDark": "用于网站设计",
+      "filters": [
+        "全部",
+        "前端",
+        "后端",
+        "数据库",
+        "开发运营",
+        "工具"
+      ],
+      "items": [
+        {
+          "name": "React",
+          "category": "前端"
+        },
+        {
+          "name": "Next.js",
+          "category": "前端"
+        },
+        {
+          "name": "Angular",
+          "category": "前端"
+        },
+        {
+          "name": "Vue.js",
+          "category": "前端"
+        },
+        {
+          "name": "Figma",
+          "category": "工具"
+        },
+        {
+          "name": "Adobe XD",
+          "category": "工具"
+        },
+        {
+          "name": "Sketch",
+          "category": "工具"
+        },
+        {
+          "name": "Node.js",
+          "category": "后端"
+        },
+        {
+          "name": "Laravel",
+          "category": "后端"
+        },
+        {
+          "name": "WordPress",
+          "category": "后端"
+        },
+        {
+          "name": "PHP",
+          "category": "后端"
+        },
+        {
+          "name": ".NET",
+          "category": "后端"
+        },
+        {
+          "name": "ASP.NET",
+          "category": "后端"
+        },
+        {
+          "name": "MySQL",
+          "category": "数据库"
+        },
+        {
+          "name": "PostgreSQL",
+          "category": "数据库"
+        },
+        {
+          "name": "MongoDB",
+          "category": "数据库"
+        },
+        {
+          "name": "Redis",
+          "category": "数据库"
+        },
+        {
+          "name": "Docker",
+          "category": "开发运营"
+        },
+        {
+          "name": "GitHub",
+          "category": "工具"
+        },
+        {
+          "name": "GitLab",
+          "category": "工具"
+        },
+        {
+          "name": "Bitbucket",
+          "category": "工具"
+        },
+        {
+          "name": "GitHub Actions",
+          "category": "开发运营"
+        },
+        {
+          "name": "CI/CD",
+          "category": "开发运营"
+        },
+        {
+          "name": "AWS",
+          "category": "开发运营"
+        },
+        {
+          "name": "Deploy Server",
+          "category": "开发运营"
+        },
+        {
+          "name": "Jira",
+          "category": "工具"
+        }
+      ]
+    },
+    "comprehensiveServices": {
+      "headlineLight": "探索解决方案",
+      "headlineDark": "相关软件",
+      "items": [
+        {
+          "slug": "thiet-ke-app",
+          "title": "应用程序设计",
+          "desc": "我们设计和构建可跨不同平台无缝运行的移动应用程序，以便在任何电子设备上提供出色的用户体验和有用的功能。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Dich-vu-thiet-ke-App-HomeNest-Viet-Nam.jpg",
+          "href": "/dich-vu/thiet-ke-app"
+        },
+        {
+          "slug": "phat-trien-phan-mem-tuy-chinh",
+          "title": "操作维护",
+          "desc": "我们不仅仅停留在交出源代码，我们还提供长期陪伴监控、优化性能和定期更新安全，帮助业务系统始终稳定、安全地运行并随时扩展。",
+          "image": "/images/services/winterfrost/custom-software-solutions.webp",
+          "href": "/dich-vu/van-hanh-va-bao-tri"
+        },
+        {
+          "slug": "phat-trien-phan-mem-doanh-nghiep",
+          "title": "企业软件开发",
+          "desc": "打造专门针对大规模作业的高承载能力的安全体系结构。该解决方案包括深入的数据连接和严格的服务质量承诺。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Dich-vu-phat-trien-phan-mem-doanh-nghiep-HomeNest-Viet-Nam.jpg",
+          "href": "/dich-vu/phat-trien-phan-mem-doanh-nghiep"
+        }
+      ]
+    },
+    "faq": {
+      "label": "常见问题",
+      "headlineParts": [
+        "答案",
+        "每个",
+        "奇迹"
+      ],
+      "description": "回答您有关 Winterfrost 网站设计服务流程和承诺的所有问题。",
+      "items": [
+        {
+          "q": "在 Winterfrost 设计一个网站需要多少钱？",
+          "a": "成本取决于项目的规模、功能和技术复杂性。我们提供灵活的服务包，从小型企业的基本解决方案到大型企业的专业系统。所有报价均确保成本透明，无隐藏成本。"
+        },
+        {
+          "q": "完成一个网站项目需要多长时间？",
+          "a": "通常，一个网站设计项目将持续 4 到 8 周。具体时间取决于请求调查阶段和商家的回应。我们始终致力于确保遵守合同中商定的时间表。"
+        },
+        {
+          "q": "我拥有整个网站源代码吗？",
+          "a": "是的。在Winterfrost，我们承诺在项目完成后将100%的知识产权和源代码移交给客户。您拥有完全的权利根据自己的需要管理、操作和升级系统，而不需要依赖我们。"
+        },
+        {
+          "q": "网站在手机上运行良好并符合 SEO 标准吗？",
+          "a": "当然。 Winterfrost 设计的每个网站都符合最现代的技术标准： • 响应式界面：在从计算机到手机的所有设备上完美显示。 • SEO 优化：友好的网络结构有助于增加潜在客户的可访问性。"
+        },
+        {
+          "q": "我的网站数据安全有保障吗？",
+          "a": "安全是我们的首要任务。 Winterfrost 采用企业级安全标准，包括高级数据加密和反入侵协议来保护您的业务信息。"
+        },
+        {
+          "q": "网站上线后Winterfrost是否提供支持？",
+          "a": "我们提供日常维护和长期技术支持。我们的专家团队随时准备处理出现的问题，并就功能升级提供建议，以确保网站始终稳定有效地运行。"
+        },
+        {
+          "q": "移交后我会收到有关如何管理网站的说明吗？",
+          "a": "当然。完成后，Winterfrost 将组织现场培训课程或发送详细的说明文档，以便您的团队能够掌握系统，从更新内容、管理订单到检查网站上的基本指标。"
+        },
+        {
+          "q": "谁将为网站准备内容和图像？",
+          "a": "通常，企业会提供核心内容和品牌形象。不过，Winterfrost可以支持SEO标准的内容结构和图像优化咨询，使网站在美观和页面加载速度上都达到最佳表现。"
+        },
+        {
+          "q": "Winterfrost 是否支持域和服务器注册（托管）？",
+          "a": "我们随时协助您选择和注册适合您网站规模的域名和服务器。我们将为企业提供高稳定性和最佳安全性的云基础设施解决方案建议。"
+        }
+      ]
+    }
+  },
+  "phat-trien-devops": {
+    "slug": "phat-trien-devops",
+    "metaTitle": "DevOps 开发服务 - Winterfrost",
+    "hero": {
+      "titleDark": "开发服务",
+      "titleLight": "开发运营",
+      "description": "Winterfrost 设计灵活的云基础设施、标准化 CI/CD 并部署 DevSecOps 解决方案，帮助企业缩短产品发布时间并确保各种规模的系统平稳运行。",
+      "bgImage": "/images/migrated/homenest-software/wp-content/uploads/2026/03/Web-app-development.jpg",
+      "dashboardImage": "/images/services/winterfrost/web-application-development.webp"
+    },
+    "solution": {
+      "headlineLight": "重要价值观",
+      "headlineDark": "来自 DevOps 解决方案",
+      "description": "使用标准的DevOps流程可以帮助公司最大限度地缩短产品交付时间、优化云资源使用成本并确保操作系统的完全稳定性。",
+      "ctaLabel": "今天开始你的项目",
+      "ctaHref": "/lien-he",
+      "items": [
+        {
+          "title": "提高交货速度",
+          "desc": "从测试到部署的过程完全自动化。消除手动操作，允许新功能更新或系统错误修复立即更新，无需等待。"
+        },
+        {
+          "title": "持续稳定",
+          "desc": "应用现代部署策略。确保网站、应用程序和软件系统即使在升级或维护期间也始终以 100% 的容量运行。"
+        },
+        {
+          "title": "优化云成本",
+          "desc": "在 AWS/Azure/Google Cloud 平台上实施适当规模调整和自动扩展技术。只需支付实际使用的资源费用，有助于将基础设施运营成本削减高达 40%。"
+        },
+        {
+          "title": "均质环境",
+          "desc": "用源码管理服务器，保证编程环境与真实环境绝对同步。彻底杜绝因配置错误而导致的错误。"
+        },
+        {
+          "title": "主动安全",
+          "desc": "在开发流程中自动执行漏洞扫描和安全测试。在产品发布前检测并防范数据风险。"
+        },
+        {
+          "title": "自适应基础设施",
+          "desc": "系统架构根据实际流量自动调整资源。确保SaaS和企业软件平台在高峰时段性能稳定。"
+        }
+      ]
+    },
+    "features": {
+      "headlineLight": "实施和实施中的关键服务",
+      "headlineDark": "DevOps 管理",
+      "description": "提供一套标准的工具和流程来自动化基础设施、监控性能并保护系统（从编程阶段到实际操作）。",
+      "ctaLabel": "讨论项目",
+      "ctaHref": "/lien-he",
+      "items": [
+        {
+          "title": "设置和管理 CI/CD",
+          "desc": "完全自动化源代码集成和产品发布过程。系统确保每次更新都会自动检查并推送到运行环境，无需人工干预。",
+          "image": "/images/services/winterfrost/enterprise-software-development.webp"
+        },
+        {
+          "title": "使用代码管理基础设施",
+          "desc": "使用 Terraform 或 Ansible 等工具通过代码设置和管理服务器。这种方法有助于创建完全相同的环境，最大限度地减少配置错误，并允许立即恢复系统。",
+          "image": "/images/services/winterfrost/ai-development.webp"
+        },
+        {
+          "title": "优化云计算基础设施",
+          "desc": "在云计算平台上设置、配置和调整资源。我们专注于优化服务器性能以准确满足应用程序需求，同时削减不必要的资源成本。",
+          "image": "/images/services/winterfrost/devops-development.webp"
+        },
+        {
+          "title": "标准化和自动化操作",
+          "desc": "使用打包技术确保应用程序在所有服务器上的行为相同。结合自动化管理系统，自动化应用健康检查，出现问题自动重启，根据流量即时调整资源。",
+          "image": "/images/services/winterfrost/saas-application-development.webp"
+        },
+        {
+          "title": "系统监控及日志分析",
+          "desc": "部署实时服务器和应用程序健康监控系统。 CPU、RAM、带宽、错误日志等所有参数直观汇总，有助于及时发现业务中断风险并快速处理。",
+          "image": "/images/services/winterfrost/custom-software-solutions.webp"
+        }
+      ]
+    },
+    "howWeWork": {
+      "label": "DevOps 服务部署路线图",
+      "ctaLabel": "开始构建您的产品！",
+      "ctaHref": "/lien-he",
+      "steps": [
+        {
+          "num": "01",
+          "badge": "分析",
+          "title": "研究和战略规划",
+          "desc": "我们对公司的软件架构、源代码传输流程以及现有的服务器系统进行研究。然后，工程团队将提出技术计划、选择适当的工具并确定性能目标。"
+        },
+        {
+          "num": "02",
+          "badge": "初始化",
+          "title": "系统设置和自动化",
+          "desc": "通过源码初始化和配置云端服务器系统。这一步有助于规范整个开发环境，消除手动配置，保证编程环境与实际环境的一致性。"
+        },
+        {
+          "num": "03",
+          "badge": "自动",
+          "title": "构建 CI/CD",
+          "desc": "建立持续集成和部署流程。源代码中的所有更改都会由系统自动检查、测试和打包。在此步骤中还会进行安全和性能测试，以确保发布前的产品质量。"
+        },
+        {
+          "num": "04",
+          "badge": "部署",
+          "title": "部署并设置监控",
+          "desc": "通过持续部署策略将产品发布到生产环境。同时，我们配置系统收集实时日志和警报，以24/7监控系统状态。"
+        },
+        {
+          "num": "05",
+          "badge": "展开",
+          "title": "最佳评估和缩放",
+          "desc": "根据实际运营数据，我们进行配置调整，优化云资源成本。另外，设置自动伸缩机制，保证系统始终能够满足用户的增长。"
+        }
+      ]
+    },
+    "benefits": {
+      "label": "在 Winterfrost 使用 DevOps 服务有哪些好处？",
+      "headlineLight": "突出优势",
+      "headlineDark": "基础设施管理和自动化",
+      "items": [
+        {
+          "num": "1",
+          "title": "释放你的编程能力",
+          "desc": "自动执行复杂的服务器管理任务，帮助开发团队 100% 专注于功能开发和业务逻辑。"
+        },
+        {
+          "num": "2",
+          "title": "缩短恢复时间",
+          "desc": "建立快速响应和自动系统恢复程序。当出现意外问题时，最大限度地减少停机时间。"
+        },
+        {
+          "num": "3",
+          "title": "全面的可视性",
+          "desc": "部署可观测系统有助于管理层实时了解系统健康状况和运营成本。"
+        },
+        {
+          "num": "4",
+          "title": "多层安全",
+          "desc": "将安全理念从源代码应用到云基础设施。确保所有访问均得到识别并严格控制。"
+        },
+        {
+          "num": "5",
+          "title": "自动化基础设施文档",
+          "desc": "对服务器的任何更改都记录在源代码中。企业拥有一套透明的、易于传输的数字基础设施记录。"
+        },
+        {
+          "num": "6",
+          "title": "为人工智能时代做好准备",
+          "desc": "基础设施设计能够处理繁重的计算任务，准备集成人工智能和大数据模块。"
+        },
+        {
+          "num": "7",
+          "title": "24/7 智能提醒",
+          "desc": "使用监控算法在异常迹象变成严重问题之前尽早发现它们，主动处理 24/7。"
+        },
+        {
+          "num": "8",
+          "title": "绝对掌握技术",
+          "desc": "移交完整的运行场景和基础设施源代码。承诺不锁定技术，帮助客户完全主动出击。"
+        },
+        {
+          "num": "9",
+          "title": "SRE工程师值班",
+          "desc": "直接与 Winterfrost 的高素质系统操作员技术团队合作，致力于立即处理技术要求。"
+        }
+      ]
+    },
+    "ctaBanner": {
+      "badge": "立即联系！",
+      "headline": "优化软件开发和运营流程",
+      "description": "如果企业需要一个持续安全运行的系统，Winterfrost 将设计深入的基础设施安全和监控流程。该解决方案有助于及早发现错误并防止服务中断的风险。",
+      "ctaLabel": "获取 DevOps 咨询",
+      "ctaHref": "/lien-he",
+      "image": "/images/people/cta/winterfrost/nhan-vien-cong-nghe-tre.png"
+    },
+    "counter": {
+      "badgeText": "我们的成就",
+      "items": [
+        {
+          "index": "/01",
+          "value": "10+",
+          "desc": "多年经验"
+        },
+        {
+          "index": "/02",
+          "value": "250+",
+          "desc": "客户"
+        },
+        {
+          "index": "/03",
+          "value": "15+",
+          "desc": "服务国家/地区"
+        },
+        {
+          "index": "/04",
+          "value": "98%",
+          "desc": "客户满意度"
+        }
+      ]
+    },
+    "industries": {
+      "label": "服务领域",
+      "headlineLight": "重点领域",
+      "headlineDark": "部署 DevOps 解决方案",
+      "items": [
+        {
+          "slug": "thuong-mai-dien-tu",
+          "title": "电子商务",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/eComerce-Industries-Icon.png"
+        },
+        {
+          "slug": "cong-nghe-tai-chinh",
+          "title": "金融科技",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Fintech-Industries-Icon.png"
+        },
+        {
+          "slug": "y-te",
+          "title": "医疗",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Healthcare-Industries-Icon.png"
+        },
+        {
+          "slug": "tai-chinh-doanh-nghiep",
+          "title": "企业融资",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Expert-Financial-Industries-Icon.png"
+        },
+        {
+          "slug": "phan-mem-doanh-nghiep",
+          "title": "企业软件",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Business-Industries-Icon.png"
+        },
+        {
+          "slug": "ban-le",
+          "title": "零售",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Retail-Industries-Icon.png"
+        },
+        {
+          "slug": "bat-dong-san",
+          "title": "房地产",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Real-Estate-Industries-Icon.png"
+        },
+        {
+          "slug": "van-tai-va-logistics",
+          "title": "运输与物流",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Logistics-Industries-Icon.png"
+        },
+        {
+          "slug": "giao-duc",
+          "title": "教育",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Education-Industries-Icon.png"
+        }
+      ]
+    },
+    "price": {
+      "label": "价格表",
+      "headlineLight": "服务费用",
+      "headlineDark": "开发运营开发",
+      "description": "部署自动化系统，确保产品发布不会导致服务中断。",
+      "packages": [
+        {
+          "name": "Gói Cơ Bản",
+          "price": "60.000.000",
+          "currency": "越南盾",
+          "period": "/ 项目",
+          "description": "非常适合需要在基础级别设置 CI/CD 管道并自动化云基础设施的团队。",
+          "features": [
+            "建立标准化的 CI/CD 管道。",
+            "使用 Docker 打包应用程序。",
+            "云基础设施配置。",
+            "集成自动化测试。",
+            "深入的技术支持。"
+          ],
+          "ctaLabel": "开始使用",
+          "ctaHref": "/lien-he",
+          "highlight": false
+        },
+        {
+          "name": "DevOps Toàn Diện",
+          "price": "报价",
+          "currency": "",
+          "period": "按基础设施规模",
+          "description": "对于需要通过灵活、可扩展的基础设施进行全面 DevOps 转型的企业来说，这是最佳选择。",
+          "features": [
+            "复杂的微服务和服务网格架构。",
+            "多区域部署和高可用性。",
+            "设置恢复系统。",
+            "用于人工智能和大数据任务的专用基础设施。",
+            "符合企业安全标准。",
+            "承诺严格的服务质量。"
+          ],
+          "ctaLabel": "开始使用",
+          "ctaHref": "/lien-he",
+          "highlight": true,
+          "labelText": "专业套餐"
+        },
+        {
+          "name": "Gói Nâng Cao",
+          "price": "120.000.000",
+          "currency": "越南盾",
+          "period": "/ 项目",
+          "description": "适用于需要高可用性和严格安全标准的大型系统的整体 DevOps 解决方案。",
+          "features": [
+            "完整的 CI/CD 自动化和 DevSecOps 安全性。",
+            "Kubernetes 服务器集群的管理。",
+            "通过源代码进行基础设施管理。",
+            "24/7 智能监控和警报系统。",
+            "优化云资源成本。",
+            "值班SRE技术支持。"
+          ],
+          "ctaLabel": "开始使用",
+          "ctaHref": "/lien-he",
+          "highlight": false
+        }
+      ]
+    },
+    "techStack": {
+      "headlineLight": "DevOps开发技术",
+      "headlineDark": "在 Winterfrost",
+      "filters": [
+        "全部",
+        "接口",
+        "系统",
+        "数据库",
+        "操作",
+        "管理"
+      ],
+      "items": [
+        {
+          "name": "React / Next.js",
+          "category": "接口"
+        },
+        {
+          "name": "Angular",
+          "category": "接口"
+        },
+        {
+          "name": "Vue.js",
+          "category": "接口"
+        },
+        {
+          "name": "Figma",
+          "category": "接口"
+        },
+        {
+          "name": "Adobe XD",
+          "category": "接口"
+        },
+        {
+          "name": "Sketch",
+          "category": "接口"
+        },
+        {
+          "name": "Node.js",
+          "category": "系统"
+        },
+        {
+          "name": "Laravel",
+          "category": "系统"
+        },
+        {
+          "name": "WordPress / PHP",
+          "category": "系统"
+        },
+        {
+          "name": ".NET / ASP.NET",
+          "category": "系统"
+        },
+        {
+          "name": "MySQL",
+          "category": "数据库"
+        },
+        {
+          "name": "PostgreSQL",
+          "category": "数据库"
+        },
+        {
+          "name": "MongoDB",
+          "category": "数据库"
+        },
+        {
+          "name": "Redis",
+          "category": "数据库"
+        },
+        {
+          "name": "Docker",
+          "category": "操作"
+        },
+        {
+          "name": "GitHub",
+          "category": "操作"
+        },
+        {
+          "name": "GitLab",
+          "category": "操作"
+        },
+        {
+          "name": "Bitbucket",
+          "category": "操作"
+        },
+        {
+          "name": "GitHub Actions",
+          "category": "操作"
+        },
+        {
+          "name": "CI/CD",
+          "category": "操作"
+        },
+        {
+          "name": "AWS",
+          "category": "操作"
+        },
+        {
+          "name": "Deploy Server",
+          "category": "操作"
+        },
+        {
+          "name": "Jira",
+          "category": "管理"
+        }
+      ]
+    },
+    "comprehensiveServices": {
+      "headlineLight": "平台优化",
+      "headlineDark": "辅助服务",
+      "items": [
+        {
+          "slug": "van-hanh-va-bao-tri",
+          "title": "支持和维护服务",
+          "desc": "DevOps 和维护服务密切相关。我们建立自动监控系统、预警机制和直接故障排除管道。这个过程有助于降低运营管理成本并加快解决出现的问题。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Dich-vu-van-hanh-va-bao-tri-HomeNest-Viet-Nam.jpg",
+          "href": "/dich-vu/van-hanh-va-bao-tri"
+        },
+        {
+          "slug": "phat-trien-phan-mem-doanh-nghiep",
+          "title": "企业软件开发",
+          "desc": "大规模软件需要高标准的 DevOps 基础设施。 Winterfrost 为复杂的多服务架构构建 CI/CD 管道，确保工作流程符合严格的标准，并且基础设施能够持续处理大流量。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Dich-vu-phat-trien-phan-mem-doanh-nghiep-HomeNest-Viet-Nam.jpg",
+          "href": "/dich-vu/phat-trien-phan-mem-doanh-nghiep"
+        },
+        {
+          "slug": "phat-trien-iot",
+          "title": "物联网开发服务",
+          "desc": "我们设计和部署将硬件设备连接到数字基础设施的系统。该解决方案包括嵌入式编程、建立传感器网络和构建集中数据管理系统。系统保证了数据传输协议的稳定性和远程实时控制设备的能力。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Dich-vu-phat-trien-IoT-HomeNest-Viet-Nam.jpg",
+          "href": "/dich-vu/phat-trien-iot"
+        }
+      ]
+    },
+    "faq": {
+      "label": "常见问题",
+      "headlineParts": [
+        "答案",
+        "每个",
+        "奇迹"
+      ],
+      "description": "综合有关系统安全、云成本优化和软件部署自动化流程的信息。",
+      "items": [
+        {
+          "q": "实施 DevOps 如何帮助企业节省云成本？",
+          "a": "我们实施适当调整技术，分析实际操作数据以调整服务器资源以满足应用程序需求。结合自动扩展机制，企业将消除对多余资源的付费。"
+        },
+        {
+          "q": "CI/CD 流程能否确保源代码安全？",
+          "a": "是的。我们集成了 DevSecOps 模型，将自动恶意软件扫描和漏洞测试工具嵌入到部署管道中。所有源代码变更都必须通过安全测试才能发布到实际运行环境。"
+        },
+        {
+          "q": "我当前的系统不使用云，Winterfrost 支持吗？",
+          "a": "是的。我们支持物理服务器基础设施和混合云模型上的 DevOps 实施。 Winterfrost将使用Docker实现应用程序容器化，以确保无论底层基础设施环境如何，软件都稳定运行且易于管理。"
+        },
+        {
+          "q": "如何保证更新时系统不中断？",
+          "a": "Winterfrost 应用现代部署策略，例如蓝绿部署或金丝雀发布。此过程允许使用新版本创建并行环境，检查稳定性，然后重定向用户流量，确保系统始终可用 24/7。"
+        },
+        {
+          "q": "代码基础设施管理给企业带来什么好处？",
+          "a": "通过IaC，整个服务器基础设施由源代码定义，帮助企业在短短几分钟内重新建立新的环境，确保编程环境和实际服务器的绝对一致性，并通过配置更改历史记录允许在出现问题时立即恢复系统。"
+        },
+        {
+          "q": "移交后，我的团队可以自己操作系统吗？",
+          "a": "是的。 Winterfrost 移交所有基础设施配置源代码、操作说明和系统架构图。我们还提供技术培训课程，帮助内部团队掌握治理流程并使用有效的监控工具。"
+        },
+        {
+          "q": "Winterfrost 如何监控系统运行状况？",
+          "a": "我们建立了集中监控和警报系统。所有服务器性能指标和应用程序错误日志都受到实时监控。一旦检测到过载或服务错误的迹象，系统将自动通过 Telegram/Slack/Email 向技术团队发送警告。"
+        }
+      ]
+    }
+  },
+  "phat-trien-iot": {
+    "slug": "phat-trien-iot",
+    "metaTitle": "物联网开发服务 - Winterfrost",
+    "hero": {
+      "titleDark": "服务",
+      "titleLight": "物联网发展",
+      "description": "Winterfrost 提供全面的物联网解决方案，包括嵌入式固件编程、设置端点设备、创建云仪表板以及智能数据分析系统。",
+      "bgImage": "/images/migrated/homenest-software/wp-content/uploads/2026/03/Web-app-development.jpg",
+      "dashboardImage": "/images/services/winterfrost/web-application-development.webp"
+    },
+    "solution": {
+      "headlineLight": "执行值自",
+      "headlineDark": "物联网生态系统",
+      "description": "Winterfrost 的物联网解决方案增强了设备之间的连接性，确保即时数据处理并通过多层安全保护系统，从而提高企业的自动化性能。",
+      "ctaLabel": "开始你的项目",
+      "ctaHref": "/lien-he",
+      "items": [
+        {
+          "title": "顺畅连接设备",
+          "desc": "支持多种不同的连接协议，帮助硬件设备在所有基础设施条件下与中央系统稳定通信。"
+        },
+        {
+          "title": "立即处理数据",
+          "desc": "来自传感器的数据被快速收集、处理和响应，确保远程监控系统的准确性。"
+        },
+        {
+          "title": "智能操作自动化",
+          "desc": "根据传感器数据设置自动化场景，有助于最大限度地减少人为干预并优化设备性能。"
+        },
+        {
+          "title": "多层安全",
+          "desc": "采用从设备到云基础设施的数据加密措施，确保信息安全并防止未经授权的访问硬件系统。"
+        },
+        {
+          "title": "出色的可扩展性",
+          "desc": "该系统架构旨在管理同时连接的数百到数百万台设备，而不会减慢数据处理速度。"
+        },
+        {
+          "title": "预测数据分析",
+          "desc": "利用历史数据预测运营趋势或提前警告设备问题，帮助企业更加主动地进行维护工作。"
+        }
+      ]
+    },
+    "features": {
+      "headlineLight": "解决方案目录",
+      "headlineDark": "深入的物联网技术",
+      "description": "提供深度技术解决方案的生态系统，从嵌入式编程、在采集点附近处理数据，到构建集成人工智能的中央管理平台。",
+      "ctaLabel": "讨论项目",
+      "ctaHref": "/lien-he",
+      "items": [
+        {
+          "title": "编程固件和嵌入式设备",
+          "desc": "设计和开发微控制器代码，以确保设备尽可能高效运行、节省电力并以最佳方式处理现场任务。",
+          "image": "/images/services/winterfrost/enterprise-software-development.webp"
+        },
+        {
+          "title": "边缘计算",
+          "desc": "在数据采集站点附近部署节点，进行现场处理。这减轻了云基础设施的负担，减少了延迟，并确保系统即使在没有互联网连接的情况下也能继续运行。",
+          "image": "/images/services/winterfrost/ai-development.webp"
+        },
+        {
+          "title": "集中式物联网管理平台",
+          "desc": "构建云基础设施来管理设备生命周期、存储大量数据并协调系统各部分之间的信息。",
+          "image": "/images/services/winterfrost/devops-development.webp"
+        },
+        {
+          "title": "直观的控制面板",
+          "desc": "开发实时可视化显示传感器参数的仪表板，帮助管理人员轻松远程监控和控制设备。",
+          "image": "/images/services/winterfrost/saas-application-development.webp"
+        },
+        {
+          "title": "将人工智能融入物联网",
+          "desc": "嵌入人工智能模型，深度分析传感器数据、识别行为并自动做出智能控制决策。",
+          "image": "/images/services/winterfrost/custom-software-solutions.webp"
+        }
+      ]
+    },
+    "howWeWork": {
+      "label": "构建物联网系统的路线图",
+      "ctaLabel": "开始构建您的产品！",
+      "ctaHref": "/lien-he",
+      "steps": [
+        {
+          "num": "01",
+          "badge": "分析",
+          "title": "专业勘察及硬件选型",
+          "desc": "确定需要采集的指标和实际安装环境。从耐用性、准确性和功耗方面选择正确类型的传感器、控制设备和微控制器。"
+        },
+        {
+          "num": "02",
+          "badge": "解决方案",
+          "title": "架构设计及连接协议",
+          "desc": "构建从设备到云的分层模型。选择Wifi、LoRaWAN、Zigbee或4G/5G的最佳数据传输协议和连接方式，确保信号流畅并节省带宽。"
+        },
+        {
+          "num": "03",
+          "badge": "执行",
+          "title": "嵌入式编程和电路板设计",
+          "desc": "为设备部署嵌入式编程，对现场数据进行处理，并将数据发送至服务器。如果项目需要专门的硬件，则需要设计和优化电路板布局，确保抗干扰能力和稳定运行。"
+        },
+        {
+          "num": "04",
+          "badge": "整合",
+          "title": "云端整合及AI处理模块",
+          "desc": "建立大数据存储服务器基础设施。集成机器学习算法来分析历史数据，提供自动警报或预测趋势，例如设备维护预测或生产预测。"
+        },
+        {
+          "num": "05",
+          "badge": "鉴定",
+          "title": "现场测试和系统测试",
+          "desc": "现场安装系统并在真实环境中进行测试。在正式移交前测试自动化场景的负载能力、通信延迟和稳定性。"
+        },
+        {
+          "num": "06",
+          "badge": "维护",
+          "title": "远程设备管理和优化",
+          "desc": "部署集中式设备管理系统，远程更新软件、24/7 监控每个传感器的电池容量和健康状态。根据实际运行数据进行算法微调。"
+        }
+      ]
+    },
+    "benefits": {
+      "label": "为什么应该选择 Winterfrost 的物联网服务？",
+      "headlineLight": "打造专业化的物联网生态系统",
+      "headlineDark": "商业自动化",
+      "items": [
+        {
+          "num": "1",
+          "title": "综合解决方案",
+          "desc": "在同一生态系统中实现从硬件设计、软件编程到云基础设施和管理应用程序的同步。"
+        },
+        {
+          "num": "2",
+          "title": "大数据处理",
+          "desc": "现代基础设施能够每秒收集和分析数百万条记录，提供即时报告和反馈。"
+        },
+        {
+          "num": "3",
+          "title": "多层安全",
+          "desc": "建立严格的信息加密和设备验证措施，确保从硬件到云端的绝对安全。"
+        },
+        {
+          "num": "4",
+          "title": "优化能源和性能",
+          "desc": "深度固件编程可最大限度地延长嵌入式设备的电池寿命，同时确保数据准确性。"
+        },
+        {
+          "num": "5",
+          "title": "多协议、灵活扩展",
+          "desc": "支持所有连接标准，如 MQTT、CoAP、LoRaWAN、Zigbee，可扩展至数百万设备。"
+        },
+        {
+          "num": "6",
+          "title": "直观的仪表板按需",
+          "desc": "根据实际业务流程专门设计的Web/Mobile App界面，让远程控制变得简单。"
+        },
+        {
+          "num": "7",
+          "title": "无缝系统集成",
+          "desc": "通过标准API门户将物联网数据直接与现有管理软件（例如ERP、CRM）链接。"
+        },
+        {
+          "num": "8",
+          "title": "交出100%源代码",
+          "desc": "企业完全拥有从固件到应用源代码的知识产权，确保长期的技术自主权。"
+        },
+        {
+          "num": "9",
+          "title": "工程师团队直接执行",
+          "desc": "直接与具有丰富实践经验的专家合作，确保快速、准确地满足技术要求。"
+        }
+      ]
+    },
+    "ctaBanner": {
+      "badge": "立即联系！",
+      "headline": "通过互联网连接和控制智能设备",
+      "description": "如果您的企业需要监控资产或自动化生产线，Winterfrost 的解决方案将帮助您实现这一目标。该系统确保数据持续、安全地传输并轻松分析以做出业务决策。",
+      "ctaLabel": "立即开始您的物联网项目",
+      "ctaHref": "/lien-he",
+      "image": "/images/people/cta/winterfrost/chuyen-vien-nu.png"
+    },
+    "counter": {
+      "badgeText": "我们的成就",
+      "items": [
+        {
+          "index": "/01",
+          "value": "10+",
+          "desc": "多年经验"
+        },
+        {
+          "index": "/02",
+          "value": "250+",
+          "desc": "客户"
+        },
+        {
+          "index": "/03",
+          "value": "15+",
+          "desc": "服务国家/地区"
+        },
+        {
+          "index": "/04",
+          "value": "98%",
+          "desc": "客户满意度"
+        }
+      ]
+    },
+    "industries": {
+      "label": "服务领域",
+      "headlineLight": "重点发展领域",
+      "headlineDark": "部署物联网解决方案",
+      "items": [
+        {
+          "slug": "thuong-mai-dien-tu",
+          "title": "电子商务",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/eComerce-Industries-Icon.png"
+        },
+        {
+          "slug": "cong-nghe-tai-chinh",
+          "title": "金融科技",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Fintech-Industries-Icon.png"
+        },
+        {
+          "slug": "y-te",
+          "title": "医疗",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Healthcare-Industries-Icon.png"
+        },
+        {
+          "slug": "tai-chinh-doanh-nghiep",
+          "title": "企业融资",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Expert-Financial-Industries-Icon.png"
+        },
+        {
+          "slug": "phan-mem-doanh-nghiep",
+          "title": "企业软件",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Business-Industries-Icon.png"
+        },
+        {
+          "slug": "ban-le",
+          "title": "零售",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Retail-Industries-Icon.png"
+        },
+        {
+          "slug": "bat-dong-san",
+          "title": "房地产",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Real-Estate-Industries-Icon.png"
+        },
+        {
+          "slug": "van-tai-va-logistics",
+          "title": "运输与物流",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Logistics-Industries-Icon.png"
+        },
+        {
+          "slug": "giao-duc",
+          "title": "教育",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Education-Industries-Icon.png"
+        }
+      ]
+    },
+    "price": {
+      "label": "价格表",
+      "headlineLight": "服务费用",
+      "headlineDark": "物联网发展",
+      "description": "通过从固件到云仪表板的全面物联网开发流程，将原始传感器数据转换为智能操作信息。",
+      "packages": [
+        {
+          "name": "Gói Cơ Bản",
+          "price": "60.000.000",
+          "currency": "越南盾",
+          "period": "/ 项目",
+          "description": "适合通过试点项目或测试想法开始接触物联网的企业的最佳解决方案。",
+          "features": [
+            "建立设备连接",
+            "基本云集成",
+            "实时数据仪表板",
+            "使用标准协议",
+            "通过电子邮件提供技术支持"
+          ],
+          "ctaLabel": "开始使用",
+          "ctaHref": "/lien-he",
+          "highlight": false
+        },
+        {
+          "name": "Hệ sinh thái IoT",
+          "price": "报价灵活",
+          "currency": "",
+          "period": "",
+          "description": "为企业构建完整且可扩展的互联设备生态系统。",
+          "features": [
+            "定制固件开发",
+            "管理多设备网络",
+            "集成边缘计算",
+            "先进的分析和预警系统",
+            "深入的物联网数据安全和加密",
+            "API与第三方系统集成",
+            "运营后密集的技术支持"
+          ],
+          "ctaLabel": "开始使用",
+          "ctaHref": "/lien-he",
+          "highlight": true
+        },
+        {
+          "name": "Gói Nâng Cao",
+          "price": "120.000.000",
+          "currency": "越南盾",
+          "period": "/ 项目",
+          "description": "适用于具有严格基础设施和安全要求的工业规模或大规模部署的全面物联网解决方案。",
+          "features": [
+            "专用工业物联网架构",
+            "多区域云部署",
+            "基础设施高度可用",
+            "符合企业级安全标准",
+            "独立的 DevOps 团队和对服务质量的承诺",
+            "能够扩展无限数量的设备"
+          ],
+          "ctaLabel": "开始使用",
+          "ctaHref": "/lien-he",
+          "highlight": false
+        }
+      ]
+    },
+    "techStack": {
+      "headlineLight": "物联网开发技术",
+      "headlineDark": "在 Winterfrost",
+      "filters": [
+        "全部",
+        "接口",
+        "系统",
+        "数据库",
+        "操作",
+        "管理"
+      ],
+      "items": [
+        {
+          "name": "React / Next.js",
+          "category": "接口"
+        },
+        {
+          "name": "Angular",
+          "category": "接口"
+        },
+        {
+          "name": "Vue.js",
+          "category": "接口"
+        },
+        {
+          "name": "Figma",
+          "category": "接口"
+        },
+        {
+          "name": "Adobe XD",
+          "category": "接口"
+        },
+        {
+          "name": "Sketch",
+          "category": "接口"
+        },
+        {
+          "name": "Node.js",
+          "category": "系统"
+        },
+        {
+          "name": "Laravel",
+          "category": "系统"
+        },
+        {
+          "name": "WordPress / PHP",
+          "category": "系统"
+        },
+        {
+          "name": ".NET / ASP.NET",
+          "category": "系统"
+        },
+        {
+          "name": "MySQL",
+          "category": "数据库"
+        },
+        {
+          "name": "PostgreSQL",
+          "category": "数据库"
+        },
+        {
+          "name": "MongoDB",
+          "category": "数据库"
+        },
+        {
+          "name": "Redis",
+          "category": "数据库"
+        },
+        {
+          "name": "Docker",
+          "category": "操作"
+        },
+        {
+          "name": "GitHub",
+          "category": "操作"
+        },
+        {
+          "name": "GitLab",
+          "category": "操作"
+        },
+        {
+          "name": "Bitbucket",
+          "category": "操作"
+        },
+        {
+          "name": "GitHub Actions",
+          "category": "操作"
+        },
+        {
+          "name": "CI/CD",
+          "category": "操作"
+        },
+        {
+          "name": "AWS",
+          "category": "操作"
+        },
+        {
+          "name": "Deploy Server",
+          "category": "操作"
+        },
+        {
+          "name": "Jira",
+          "category": "管理"
+        }
+      ]
+    },
+    "comprehensiveServices": {
+      "headlineLight": "补充解决方案",
+      "headlineDark": "深度物联网生态系统",
+      "items": [
+        {
+          "slug": "phat-trien-ai",
+          "title": "发展人工智能",
+          "desc": "物联网和人工智能是必然的结合。将机器学习应用于传感器数据有助于在边缘执行预测性维护、异常检测和自动决策。我们构建分析层，将原始物联网数据转换为自动化运营智能。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Dich-vu-phat-trien-AI-HomeNest-Viet-Nam.jpg",
+          "href": "/dich-vu/phat-trien-ai"
+        },
+        {
+          "slug": "phat-trien-blockchain",
+          "title": "区块链开发",
+          "desc": "提高物联网设备数据的透明度和绝对安全性。我们构建去中心化账本，通过智能合约提供可追溯性、设备身份验证和交易自动化，确保数据在整个操作周期中不会被篡改。",
+          "image": "/images/migrated/homenest-software/wp-content/uploads/2026/04/M7XkcGNNmF9nUkjJM8FXYMH8BA.avif",
+          "href": "/dich-vu/phat-trien-blockchain"
+        },
+        {
+          "slug": "phat-trien-devops",
+          "title": "开发运营开发",
+          "desc": "物联网云平台需要严格的基础设施管理。我们为固件和云部署 CI/CD 管道、微服务架构的容器编排以及持续监控，以确保关键任务连接系统的最大可用性。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Dich-vu-phat-trien-DevOps-HomeNest-Viet-Nam.jpg",
+          "href": "/dich-vu/phat-trien-devops"
+        }
+      ]
+    },
+    "faq": {
+      "label": "常见问题",
+      "headlineParts": [
+        "答案",
+        "每个",
+        "奇迹"
+      ],
+      "description": "有关硬件解决方案、连接协议、数据安全和系统集成能力的信息汇总。",
+      "items": [
+        {
+          "q": "Winterfrost 是否支持硬件设备选择？",
+          "a": "是的。根据实际需求和部署环境，我们将建议并选择在容量、耐用性和成本方面最优化的微控制器、传感器和通信模块系列。我们优先考虑具有高市场可用性的组件，以确保长期的可维护性。"
+        },
+        {
+          "q": "物联网系统在没有互联网连接的情况下能否稳定工作？",
+          "a": "是的。通过应用边缘计算技术，重要的逻辑和控制处理任务可以在设备或本地边缘节点上执行。系统仍正常运行，连接恢复后会自动将数据同步至云端。"
+        },
+        {
+          "q": "如何保证设备数据的安全？",
+          "a": "我们部署多层安全机制： 1. 加密：使用TLS/SSL进行数据传输和存储。 2. 身份验证：每个设备都有自己唯一的标识符和证书。 3.更新：支持OTA机制，快速修补远程Firmware的安全错误。"
+        },
+        {
+          "q": "该系统可以与企业现有的软件集成吗？",
+          "a": "是的。 Winterfrost 物联网平台的所有数据均可通过 API 门户获取。这使得企业能够轻松连接并将数据直接推送到现有管理系统，例如 SAP、Salesforce 或其他内部应用程序。"
+        },
+        {
+          "q": "首选哪种连接协议？",
+          "a": "根据项目特点，我们部署：MQTT/CoAP（针对低资源设备进行优化，节省电池）、HTTP/HTTPS（与 Web 基础设施兼容）或 LoRaWAN/Zigbee（针对广域传感器网络和工业环境）。"
+        },
+        {
+          "q": "企业可以拥有固件和软件源代码吗？",
+          "a": "是的。 Winterfrost承诺交出100%的源代码和相关技术文档。企业完全拥有技术，并有权在未来自行升级或扩展系统。"
+        },
+        {
+          "q": "每月物联网基础设施运营成本如何计算？",
+          "a": "这个成本主要取决于传输的数据量、连接的设备数量和云存储资源。我们始终优化通信场景，最大限度地减少带宽，帮助企业最大限度地提高运营成本。"
+        }
+      ]
+    }
+  },
+  "phat-trien-blockchain": {
+    "slug": "phat-trien-blockchain",
+    "metaTitle": "区块链开发服务-Winterfrost",
+    "hero": {
+      "titleDark": "开发服务",
+      "titleLight": "区块链",
+      "description": "Winterfrost提供全面的区块链开发服务，包括网络架构设计、智能合约编程、Web3新一代互联网开发以及DApp去中心化应用在多个不同平台上的实现。",
+      "bgImage": "/images/migrated/homenest-software/wp-content/uploads/2026/03/Web-app-development.jpg",
+      "dashboardImage": "/images/services/winterfrost/web-application-development.webp"
+    },
+    "solution": {
+      "headlineLight": "突出优点",
+      "headlineDark": "区块链技术",
+      "description": "Winterfrost 使用分布式账本和智能合约，创建透明且安全的操作系统，帮助您的公司消除中间商并完全控制资产。",
+      "ctaLabel": "分享您的需求",
+      "ctaHref": "/lien-he",
+      "items": [
+        {
+          "title": "透明度和不变性",
+          "desc": "所有交易都记录在分布式账本上，无法更改或篡改，确保数据始终准确。"
+        },
+        {
+          "title": "消除中间商",
+          "desc": "该系统基于点对点协议运行，从而降低了交易成本并消除了对大型组织的依赖。"
+        },
+        {
+          "title": "通过加密确保安全",
+          "desc": "使用现代加密方法来保护数字资产和个人信息，防止任何来自外部的入侵尝试。"
+        },
+        {
+          "title": "通过智能合约实现自动化",
+          "desc": "满足条件时自动执行业务协议，有助于减少人为错误并提高处理速度。"
+        },
+        {
+          "title": "高可用性",
+          "desc": "分布式网络使得系统没有弱点，保证24/7连续运行。"
+        },
+        {
+          "title": "实际所有权",
+          "desc": "用户通过数字签名对资产和个人信息拥有完全的控制权，任何人无权非法干涉。"
+        }
+      ]
+    },
+    "features": {
+      "headlineLight": "区块链和解决方案生态系统",
+      "headlineDark": "去中心化的基础设施",
+      "description": "Winterfrost 提供全面的 Web3 解决方案生态系统，从编程安全智能合约到构建去中心化应用程序和专门的区块链系统，适合各种规模的公司运营。",
+      "ctaLabel": "讨论您的项目",
+      "ctaHref": "/lien-he",
+      "items": [
+        {
+          "title": "开发智能合约",
+          "desc": "在以太坊或 Solana 等网络上编写自动执行合约的程序。执行源代码审核以最大限度地降低天然气成本并确保完全预防安全问题。",
+          "image": "/images/services/winterfrost/enterprise-software-development.webp"
+        },
+        {
+          "title": "DApp去中心化应用",
+          "desc": "构建完整的 Web3 应用程序，通过专门的库和电子钱包无缝连接用户界面和区块链基础设施。",
+          "image": "/images/services/winterfrost/ai-development.webp"
+        },
+        {
+          "title": "DeFi 和 NFT 解决方案",
+          "desc": "根据代币行业标准实施去中心化金融协议和 NFT 市场生态系统。",
+          "image": "/images/services/winterfrost/devops-development.webp"
+        },
+        {
+          "title": "加密钱包和支付网关",
+          "desc": "集成非托管钱包和多链数字资产支付网关。采用多方签名机制，最大限度保证私钥的安全。",
+          "image": "/images/services/winterfrost/saas-application-development.webp"
+        },
+        {
+          "title": "企业区块链",
+          "desc": "设计供应链管理和财务的内部网络。确保数据透明但仍严格控制内部访问权限。",
+          "image": "/images/services/winterfrost/custom-software-solutions.webp"
+        }
+      ]
+    },
+    "howWeWork": {
+      "label": "Winterfrost的区块链实施流程",
+      "ctaLabel": "开始构建您的产品！",
+      "ctaHref": "/lien-he",
+      "steps": [
+        {
+          "num": "01",
+          "badge": "策略",
+          "title": "咨询分析",
+          "desc": "调查实际需要选择最合适的网络。在此基础上，就如何设计代币经济模型和数据结构提供建议，以确保项目的可行性。"
+        },
+        {
+          "num": "02",
+          "badge": "建筑",
+          "title": "设计和编程",
+          "desc": "构建系统结构并编写智能合约。开发DApp应用接口并集成合适的电子钱包连接库。"
+        },
+        {
+          "num": "03",
+          "badge": "安全性",
+          "title": "审查和审计",
+          "desc": "进行严格的源代码安全审核。此步骤有助于在正式运营之前检测逻辑错误、防止漏洞并优化交易成本。"
+        },
+        {
+          "num": "04",
+          "badge": "部署",
+          "title": "主网发布",
+          "desc": "将系统带到实际网络中。设置数据连接端口，配置边缘节点基础设施，保证网络稳定流畅运行。"
+        },
+        {
+          "num": "05",
+          "badge": "操作",
+          "title": "优化升级",
+          "desc": "跟踪交易表现并提供持续的技术支持。通过代理机制部署功能升级使系统可以无中断地扩展。"
+        }
+      ]
+    },
+    "benefits": {
+      "label": "为什么要选择Winterfrost的区块链服务？",
+      "headlineLight": "确认领先地位",
+      "headlineDark": "与现实世界的区块链解决方案",
+      "items": [
+        {
+          "num": "1",
+          "title": "了解多链生态系统",
+          "desc": "我们掌握所有 EVM 兼容网络和 Solana 等高性能链的技术，确保为每个项目选择最佳的基础设施。"
+        },
+        {
+          "num": "2",
+          "title": "密码标准安全",
+          "desc": "所有智能合约均经过多层测试流程，彻底消除逻辑错误和常见安全漏洞，安全保护用户资产和数据。"
+        },
+        {
+          "num": "3",
+          "title": "优化交易费用",
+          "desc": "我们使用简单的编码技术和高效的数据结构，帮助公司和网络上的最终用户节省运营成本。"
+        },
+        {
+          "num": "4",
+          "title": "通证经济设计咨询",
+          "desc": "除了编程之外，我们还协助设计金融模型、通胀机制和可持续的代币分配，确保项目生态系统的价值稳定性。"
+        },
+        {
+          "num": "5",
+          "title": "Web2 到 Web3 的无缝集成",
+          "desc": "我们有能力通过专门的 API 和 Oracle 将传统基础设施与区块链连接起来，帮助用户轻松切换体验，而无需太多技术知识。"
+        },
+        {
+          "num": "6",
+          "title": "第 2 层解决方案的可扩展性",
+          "desc": "我们部署扩容解决方案，使系统以低成本具有非常快的交易速度，但仍保持主网络的安全性。"
+        },
+        {
+          "num": "7",
+          "title": "交出100%源代码和所有权",
+          "desc": "Winterfrost 承诺归还智能合约和应用程序的所有源代码。企业完全拥有知识产权，掌控整个系统，不依赖合作伙伴。"
+        },
+        {
+          "num": "8",
+          "title": "设计灵活的升级机制",
+          "desc": "我们采用Proxy架构，系统可以在不改变旧合约地址的情况下更新新功能或修复bug，保证运行的连续性和灵活性。"
+        },
+        {
+          "num": "9",
+          "title": "Web3 工程师团队在行动",
+          "desc": "我们直接与具有在主网上实施实际项目经验的专家合作，确保所有技术风险从设计阶段就得到彻底识别和解决。"
+        }
+      ]
+    },
+    "ctaBanner": {
+      "badge": "立即联系！",
+      "headline": "构建透明、安全的区块链技术体系",
+      "description": "如果您需要一个绝对安全且无需中介的交易管理平台，请让 Winterfrost 为您提供帮助。我们提供深度编程服务，完全符合现代技术标准，并具有根据项目规模灵活扩展的能力。",
+      "ctaLabel": "获取区块链咨询",
+      "ctaHref": "/lien-he",
+      "image": "/images/people/cta/winterfrost/quan-ly-nam.png"
+    },
+    "counter": {
+      "badgeText": "我们的成就",
+      "items": [
+        {
+          "index": "/01",
+          "value": "10+",
+          "desc": "多年经验"
+        },
+        {
+          "index": "/02",
+          "value": "250+",
+          "desc": "客户"
+        },
+        {
+          "index": "/03",
+          "value": "15+",
+          "desc": "服务国家/地区"
+        },
+        {
+          "index": "/04",
+          "value": "98%",
+          "desc": "客户满意度"
+        }
+      ]
+    },
+    "industries": {
+      "label": "服务领域",
+      "headlineLight": "去中心化",
+      "headlineDark": "核心产业",
+      "items": [
+        {
+          "slug": "thuong-mai-dien-tu",
+          "title": "电子商务",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/eComerce-Industries-Icon.png"
+        },
+        {
+          "slug": "cong-nghe-tai-chinh",
+          "title": "金融科技",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Fintech-Industries-Icon.png"
+        },
+        {
+          "slug": "y-te",
+          "title": "医疗",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Healthcare-Industries-Icon.png"
+        },
+        {
+          "slug": "tai-chinh-doanh-nghiep",
+          "title": "企业融资",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Expert-Financial-Industries-Icon.png"
+        },
+        {
+          "slug": "phan-mem-doanh-nghiep",
+          "title": "企业软件",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Business-Industries-Icon.png"
+        },
+        {
+          "slug": "ban-le",
+          "title": "零售",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Retail-Industries-Icon.png"
+        },
+        {
+          "slug": "bat-dong-san",
+          "title": "房地产",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Real-Estate-Industries-Icon.png"
+        },
+        {
+          "slug": "van-tai-va-logistics",
+          "title": "运输与物流",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Logistics-Industries-Icon.png"
+        },
+        {
+          "slug": "giao-duc",
+          "title": "教育",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Education-Industries-Icon.png"
+        }
+      ]
+    },
+    "price": {
+      "label": "价格表",
+      "headlineLight": "服务套餐",
+      "headlineDark": "区块链开发",
+      "description": "通过最佳的安全性和可扩展性基础设施，将分布式账本技术的强大功能带入您的企业。",
+      "packages": [
+        {
+          "name": "Gói Cơ Bản",
+          "price": "60.000.000",
+          "currency": "越南盾",
+          "period": "/ 项目",
+          "description": "非常适合希望通过测试或发行自定义代币来验证想法的初创公司。",
+          "features": [
+            "开发智能合约",
+            "根据ERC20/BEP20标准创建自定义代币",
+            "在测试网络上部署并严格测试",
+            "标准源代码审查",
+            "发布后01个月技术支持"
+          ],
+          "ctaLabel": "开始使用",
+          "ctaHref": "/lien-he",
+          "highlight": false
+        },
+        {
+          "name": "DApp Hoàn Chỉnh",
+          "price": "根据规模灵活报价",
+          "currency": "",
+          "period": "",
+          "description": "对于需要构建具有复杂业务逻辑的完整DApp的创新企业的最佳解决方案。",
+          "features": [
+            "DApp架构和UI/UX Web3界面的全面设计",
+            "高级智能合约逻辑编程",
+            "集成专用Web3钱包",
+            "全面的安全审计",
+            "正式部署到主网",
+            "单独的项目管理和持续维护计划"
+          ],
+          "ctaLabel": "开始使用",
+          "ctaHref": "/lien-he",
+          "highlight": true
+        },
+        {
+          "name": "Gói Nâng Cao",
+          "price": "120.000.000",
+          "currency": "越南盾",
+          "period": "/ 项目",
+          "description": "私有或去中心化的区块链系统，专为需要绝对安全和大规模运营的企业而设计。",
+          "features": [
+            "建立专用网络或联盟",
+            "与现有管理系统直接集成",
+            "互操作性和跨链资产转移",
+            "遵守严格的法律和数据安全规定",
+            "专门的 DevOps 和网络节点管理团队",
+            "致力于企业标准服务质量"
+          ],
+          "ctaLabel": "开始使用",
+          "ctaHref": "/lien-he",
+          "highlight": false
+        }
+      ]
+    },
+    "techStack": {
+      "headlineLight": "该技术是",
+      "headlineDark": "使用 Winterfrost",
+      "filters": [
+        "全部",
+        "接口",
+        "系统",
+        "数据库",
+        "操作",
+        "管理"
+      ],
+      "items": [
+        {
+          "name": "React / Next.js",
+          "category": "接口"
+        },
+        {
+          "name": "Angular",
+          "category": "接口"
+        },
+        {
+          "name": "Vue.js",
+          "category": "接口"
+        },
+        {
+          "name": "Figma",
+          "category": "接口"
+        },
+        {
+          "name": "Adobe XD",
+          "category": "接口"
+        },
+        {
+          "name": "Sketch",
+          "category": "接口"
+        },
+        {
+          "name": "Node.js",
+          "category": "系统"
+        },
+        {
+          "name": "Laravel",
+          "category": "系统"
+        },
+        {
+          "name": "WordPress / PHP",
+          "category": "系统"
+        },
+        {
+          "name": ".NET / ASP.NET",
+          "category": "系统"
+        },
+        {
+          "name": "MySQL",
+          "category": "数据库"
+        },
+        {
+          "name": "PostgreSQL",
+          "category": "数据库"
+        },
+        {
+          "name": "MongoDB",
+          "category": "数据库"
+        },
+        {
+          "name": "Redis",
+          "category": "数据库"
+        },
+        {
+          "name": "Docker",
+          "category": "操作"
+        },
+        {
+          "name": "GitHub",
+          "category": "操作"
+        },
+        {
+          "name": "GitLab",
+          "category": "操作"
+        },
+        {
+          "name": "Bitbucket",
+          "category": "操作"
+        },
+        {
+          "name": "GitHub Actions",
+          "category": "操作"
+        },
+        {
+          "name": "CI/CD",
+          "category": "操作"
+        },
+        {
+          "name": "AWS",
+          "category": "操作"
+        },
+        {
+          "name": "Deploy Server",
+          "category": "操作"
+        },
+        {
+          "name": "Jira",
+          "category": "管理"
+        }
+      ]
+    },
+    "comprehensiveServices": {
+      "headlineLight": "加快传输路径",
+      "headlineDark": "更改您的号码",
+      "items": [
+        {
+          "slug": "thiet-ke-website",
+          "title": "网站设计服务",
+          "desc": "强大的区块链后端总是需要完美且直观的用户界面。我们专注于构建高度响应的安全仪表板，使复杂的 Web3 交互变得简单且可供最终用户访问。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Dich-vu-thiet-ke-Website-HomeNest-Viet-Nam.jpg",
+          "href": "/dich-vu/thiet-ke-website"
+        },
+        {
+          "slug": "phat-trien-iot",
+          "title": "物联网发展",
+          "desc": "通过传感器和智能设备系统将物理世界连接到数字账本。我们构建的物联网解决方案集成了区块链以自动化数据收集，确保从生产到消费者的绝对透明度，并完全消除信息伪造的风险。",
+          "image": "/images/migrated/homenest-software/wp-content/uploads/2026/04/M7XkcGNNmF9nUkjJM8FXYMH8BA.avif",
+          "href": "/dich-vu/phat-trien-iot"
+        },
+        {
+          "slug": "phat-trien-phan-mem-doanh-nghiep",
+          "title": "企业软件开发",
+          "desc": "在企业规模部署区块链需要严格的治理合规性、极高的可扩展性和 24/7 可靠性。我们的工程团队确保每次部署都符合全球 IT 标准和最严格的合规性法规。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Dich-vu-phat-trien-phan-mem-doanh-nghiep-HomeNest-Viet-Nam.jpg",
+          "href": "/dich-vu/phat-trien-phan-mem-doanh-nghiep"
+        }
+      ]
+    },
+    "faq": {
+      "label": "常见问题",
+      "headlineParts": [
+        "答案",
+        "每个",
+        "奇迹"
+      ],
+      "description": "有关分布式账本技术、安全审计流程和企业 Web3 部署路线图的信息摘要。",
+      "items": [
+        {
+          "q": "Winterfrost 是否有助于选择正确的区块链网络？",
+          "a": "是的。根据项目目标，我们将就最佳网络提供建议：以太坊/Polygon（优先考虑安全性和大型生态系统）、Solana/BNB Chain（优先考虑快速交易速度和低成本）或针对需要高度去中心化内部网络的企业的 Hyperledger Fabric。"
+        },
+        {
+          "q": "智能合约安全吗？",
+          "a": "区块链是不可变的，因此我们采用极其严格的审核流程：检查逻辑错误和常见漏洞，在发布前在测试网络上运行模拟，并确保最佳的源代码以避免资产损失。"
+        },
+        {
+          "q": "如何优化区块链上的交易成本？",
+          "a": "是的。我们的工程师团队优化源代码，以最少的资源执行交易。此外，我们还可以部署二层解决方案，帮助企业在保证安全的同时实现接近零的交易成本。"
+        },
+        {
+          "q": "部署后如何修复错误或升级系统？",
+          "a": "我们经常使用可升级合约架构。该技术允许软件逻辑更新或错误修复，而无需更改合同地址和遗留客户数据，从而确保系统在部署后保持弹性。"
+        },
+        {
+          "q": "区块链能连接真实数据吗？",
+          "a": "是的。我们使用 Oracle 解决方案透明、准确地将外部数据引入区块链，使智能合约可以根据实际事件执行。"
+        },
+        {
+          "q": "企业是否完全拥有源代码？",
+          "a": "是的。 Winterfrost承诺100%交出智能合约源代码、DApp应用及相关技术文档。企业完全拥有知识产权，对系统拥有完全控制权。"
+        },
+        {
+          "q": "区块链部署是否违反越南法律规定？",
+          "a": "我们专注于应用区块链来优化运营、数据管理和可追溯性——数字化转型中鼓励的领域。对于数字资产项目，我们将提供符合当前技术和法律法规的解决方案建议。"
+        }
+      ]
+    }
+  },
+  "phat-trien-ai": {
+    "slug": "phat-trien-ai",
+    "metaTitle": "人工智能开发服务-Winterfrost",
+    "ctaBannerAfterIndustries": true,
+    "hero": {
+      "titleLight": "人工智能开发服务",
+      "titleDark": "专业的",
+      "description": "Winterfrost 提供人工智能开发服务，从构建机器学习到实施大型语言系统法学硕士。此外，我们还帮助企业自动化复杂的流程并利用智能数据来交付真正的业务成果。",
+      "bgImage": "/images/migrated/homenest-software/wp-content/uploads/2026/03/services-app-bg.jpg",
+      "dashboardImage": "",
+      "phones": {
+        "left": "/images/migrated/homenest-software/wp-content/uploads/2026/04/AI-Development-header-left.webp",
+        "center": "/images/migrated/homenest-software/wp-content/uploads/2026/04/header-Ai-center.webp",
+        "right": "/images/migrated/homenest-software/wp-content/uploads/2026/04/AI-Development-header-right.webp"
+      },
+      "chips": [
+        "/images/migrated/homenest-software/wp-content/uploads/2026/04/AI-Development-header-text-left.jpg",
+        "/images/migrated/homenest-software/wp-content/uploads/2026/04/AI-Development-text-right-down.jpg",
+        "/images/migrated/homenest-software/wp-content/uploads/2026/04/AI-Development-header-text-left-down.jpg",
+        "/images/migrated/homenest-software/wp-content/uploads/2026/04/AI-Development-header-text-right-up.jpg"
+      ]
+    },
+    "solution": {
+      "headlineLight": "开发人工智能时的突破性价值",
+      "headlineDark": "对于企业",
+      "description": "投资人工智能不仅仅是简单的自动化，更是一种将数据转化为竞争优势的策略，帮助企业快速运营、准确预测和大规模个性化客户体验。",
+      "ctaLabel": "今天开始你的项目",
+      "ctaHref": "/lien-he",
+      "items": [
+        {
+          "title": "优化客户体验",
+          "desc": "借助预测用户需求的人工智能，提高电子商务、金融和医疗保健领域的转化率和客户保留率。我们使用机器学习来提供实时推荐、动态定价和个性化内容交付。",
+          "image": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Predictive-Personalization.webp",
+          "descLinks": [
+            {
+              "phrase": "电子商务",
+              "href": "/linh-vuc/thuong-mai-dien-tu"
+            },
+            {
+              "phrase": "金融",
+              "href": "/linh-vuc/cong-nghe-tai-chinh"
+            },
+            {
+              "phrase": "医疗",
+              "href": "/linh-vuc/y-te"
+            }
+          ]
+        },
+        {
+          "title": "自动化操作流程",
+          "desc": "我们的 AI 工程师团队通过智能自动化流程帮助将运营成本降低高达 60%。我们用人工智能框架取代供应链管理中的手动任务，自动协调任务、触发行动并处理新出现的情况。",
+          "image": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Autonomous-Workflow-Orchestration.webp"
+        },
+        {
+          "title": "优化系统资源",
+          "desc": "利用人工智能驱动的基础设施优化成本和性能，该基础设施可根据实际需求自动调整计算资源。我们确保企业环境稳定的系统性能，同时消除因资源过度分配而导致的冗余成本。",
+          "image": "/images/migrated/homenest-software/wp-content/uploads/2026/04/High-Efficiency-Cloud-Scaling.webp"
+        },
+        {
+          "title": "主动数据安全",
+          "desc": "我们从设计阶段就整合安全性，通过端到端加密、严格的访问控制和自动异常检测来保护人工智能系统。主动安全框架可确保可靠地防御数据攻击和未经授权的访问。",
+          "image": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Proactive-AI-Security.webp"
+        },
+        {
+          "title": "趋势分析与预测",
+          "desc": "通过人工智能趋势预测，从回顾过去到预测未来。使用现代机器学习模型，我们预测金融科技、医疗保健和物流行业的需求、收入和风险，提供战略情报以帮助企业充分发挥主动性。",
+          "image": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Predictive-Analytics-Forecasting.webp"
+        }
+      ]
+    },
+    "features": {
+      "headlineLight": "深度服务",
+      "headlineDark": "在人工智能开发方面",
+      "description": "",
+      "ctaLabel": "让我们一起构建您的解决方案",
+      "ctaHref": "/lien-he",
+      "items": [
+        {
+          "num": "01",
+          "title": "智慧商业生态系统",
+          "desc": "将 CRM 和 ERP 连接到统一的 AI 系统中。将机器学习直接集成到业务中有助于流程自我优化并随着时间的推移灵活适应。",
+          "image": "/images/migrated/homenest-software/wp-content/uploads/2026/03/Intelligent-Business-Ecosystems.jpg",
+          "iconPath": "M88.57,35A8,8,0,0,1,103.43,29l8,20A8,8,0,0,1,96.57,55ZM29,103.43l20,8A8,8,0,1,0,55,96.57l-20-8A8,8,0,0,0,29,103.43ZM227,152.57l-20-8A8,8,0,1,0,201,159.43l20,8A8,8,0,0,0,227,152.57ZM159.43,201A8,8,0,0,0,144.57,207l8,20A8,8,0,1,0,167.43,221ZM237.91,18.52a8,8,0,0,0-11.5-.18L174,70.75l-5.38-5.38a32,32,0,0,0-45.28,0L106.14,82.54a4,4,0,0,0,0,5.66l61.7,61.66a4,4,0,0,0,5.66,0l16.74-16.74a32.76,32.76,0,0,0,9.81-22.52,31.82,31.82,0,0,0-9.37-23.17l-5.38-5.37,52.2-52.17A8.22,8.22,0,0,0,237.91,18.52ZM85.64,90.34a8,8,0,0,0-11.49.18,8.22,8.22,0,0,0,.41,11.37L80.67,108,65.34,123.31A31.82,31.82,0,0,0,56,146.47,32.75,32.75,0,0,0,65.77,169l5,4.94L18.49,226.13a8.21,8.21,0,0,0-.61,11.1,8,8,0,0,0,11.72.43L82,185.25l5.37,5.38a32.1,32.1,0,0,0,45.29,0L148,175.31l6.34,6.35a8,8,0,0,0,11.32-11.32Z"
+        },
+        {
+          "num": "02",
+          "title": "独立的 LLM 和 AI 解决方案",
+          "desc": "基于内部数据开发深度 LLM 大语言模型。内部人工智能的绝对数据安全有助于企业在不依赖第三方的情况下掌握人工智能技术。",
+          "image": "/images/migrated/homenest-software/wp-content/uploads/2026/03/Custom-LLM-Generative-AI-Solutions.jpg",
+          "iconPath": "M128,40a96,96,0,1,0,96,96A96.11,96.11,0,0,0,128,40Zm45.66,61.66-40,40a8,8,0,0,1-11.32-11.32l40-40a8,8,0,0,1,11.32,11.32ZM96,16a8,8,0,0,1,8-8h48a8,8,0,0,1,0,16H104A8,8,0,0,1,96,16Z"
+        },
+        {
+          "num": "03",
+          "title": "AI集成数据架构",
+          "desc": "构建以极低延迟实时处理数百万数据的基础设施，为医疗、金融和零售领域的大规模人工智能解决方案提供坚实的基础",
+          "image": "/images/migrated/homenest-software/wp-content/uploads/2026/03/AI-Powered-Data-Architectures.jpg",
+          "iconPath": "M240,56v64a8,8,0,0,1-13.66,5.66L200,99.31l-58.34,58.35a8,8,0,0,1-11.32,0L96,123.31,29.66,189.66a8,8,0,0,1-11.32-11.32l72-72a8,8,0,0,1,11.32,0L136,140.69,188.69,88,162.34,61.66A8,8,0,0,1,168,48h64A8,8,0,0,1,240,56Z"
+        }
+      ]
+    },
+    "benefits": {
+      "label": "为什么选择我们",
+      "headlineLight": "伴随企业。",
+      "headlineDark": "实现人工智能的想法。",
+      "items": [
+        {
+          "num": "1",
+          "title": "超过十年的经验",
+          "desc": "10年来为美国、欧洲、日本和新加坡的客户实施具有国际标准的大型人工智能系统和语言模型。"
+        },
+        {
+          "num": "2",
+          "title": "优化投资成本",
+          "desc": "以实惠的价格获得越南领先的人工智能专家团队的帮助，节省 40-60% 的成本，但仍能保证良好的质量。"
+        },
+        {
+          "num": "3",
+          "title": "对不同领域的理解",
+          "desc": "在金融、医疗保健和运输领域的丰富经验有助于创建符合严格行业标准的解决方案。"
+        },
+        {
+          "num": "4",
+          "title": "综合实施能力",
+          "desc": "掌握人工智能项目的整个生命周期，从构建数据流到在真实系统上运行模型。"
+        },
+        {
+          "num": "5",
+          "title": "高性能系统集成",
+          "desc": "通过具有极低延迟的安全通信网关，将 AI 无缝连接到 CRM 和 ERP 等管理系统。"
+        },
+        {
+          "num": "6",
+          "title": "经过严格测试和认证",
+          "desc": "测试过程与高度专业化团队的评估相结合，有助于确保输出结果始终准确可靠。"
+        },
+        {
+          "num": "7",
+          "title": "灵活的工作流程",
+          "desc": "短周期实施项目有助于客户及早看到实际运营结果，并根据业务需求及时做出调整。"
+        },
+        {
+          "num": "8",
+          "title": "绝对安全",
+          "desc": "您的数据是完全安全的。 Winterfrost 承诺在完成后移交所有源代码和人工智能模型的所有权。"
+        },
+        {
+          "num": "9",
+          "title": "全球专业合作",
+          "desc": "我们以严格的标准和高工艺要求与从亚洲到欧洲的国际客户合作。"
+        }
+      ]
+    },
+    "ctaBanner": {
+      "badge": "立即联系！",
+      "headline": "利用AI人工智能优化运营绩效",
+      "description": "节省数据处理时间和自动化重复流程是 Winterfrost 的 AI 解决方案带来的真正价值。我们通过准确的分析和预测系统帮助您的企业更智能地运营。",
+      "ctaLabel": "获取有关人工智能解决方案的建议",
+      "ctaHref": "/lien-he",
+      "image": "/images/people/cta/winterfrost/chuyen-vien-nam-tre.png"
+    },
+    "counter": {
+      "badgeText": "我们的成就",
+      "items": [
+        {
+          "index": "/01",
+          "value": "10+",
+          "desc": "多年经验"
+        },
+        {
+          "index": "/02",
+          "value": "250+",
+          "desc": "客户"
+        },
+        {
+          "index": "/03",
+          "value": "15+",
+          "desc": "服务国家/地区"
+        },
+        {
+          "index": "/04",
+          "value": "98%",
+          "desc": "客户满意度"
+        }
+      ]
+    },
+    "industries": {
+      "label": "特色领域",
+      "headlineLight": "改变每一个职业",
+      "headlineDark": "具有专门的人工智能解决方案",
+      "items": [
+        {
+          "slug": "thuong-mai-dien-tu",
+          "title": "电子商务",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/eComerce-Industries-Icon.png"
+        },
+        {
+          "slug": "cong-nghe-tai-chinh",
+          "title": "金融科技",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Fintech-Industries-Icon.png"
+        },
+        {
+          "slug": "y-te",
+          "title": "医疗",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Healthcare-Industries-Icon.png"
+        },
+        {
+          "slug": "tai-chinh-doanh-nghiep",
+          "title": "企业融资",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Expert-Financial-Industries-Icon.png"
+        },
+        {
+          "slug": "phan-mem-doanh-nghiep",
+          "title": "企业软件",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Business-Industries-Icon.png"
+        },
+        {
+          "slug": "ban-le",
+          "title": "零售",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Retail-Industries-Icon.png"
+        },
+        {
+          "slug": "bat-dong-san",
+          "title": "房地产",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Real-Estate-Industries-Icon.png"
+        },
+        {
+          "slug": "van-tai-va-logistics",
+          "title": "运输与物流",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Logistics-Industries-Icon.png"
+        },
+        {
+          "slug": "giao-duc",
+          "title": "教育",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Education-Industries-Icon.png"
+        }
+      ]
+    },
+    "price": {
+      "label": "",
+      "headlineLight": "服务价格表",
+      "headlineDark": "人工智能开发",
+      "description": "使用 Winterfrost 构建和扩展 AI 解决方案的成本透明。",
+      "packages": [
+        {
+          "name": "Gói Cơ Bản",
+          "price": "60.000.000",
+          "currency": "越南盾",
+          "period": "/ 项目",
+          "description": "对于希望快速推出基本人工智能解决方案的企业来说，这是完美的选择。",
+          "features": [
+            "集成可用的人工智能模型",
+            "使用标准软件框架",
+            "自定义基本功能",
+            "支持系统部署",
+            "通过电子邮件优先支持"
+          ],
+          "ctaLabel": "开始使用",
+          "ctaHref": "/lien-he",
+          "highlight": false,
+          "labelText": "基本套餐",
+          "iconPath": "M223.68,66.15,135.68,18a15.88,15.88,0,0,0-15.36,0l-88,48.17a16,16,0,0,0-8.32,14v95.64a16,16,0,0,0,8.32,14l88,48.17a15.88,15.88,0,0,0,15.36,0l88-48.17a16,16,0,0,0,8.32-14V80.18A16,16,0,0,0,223.68,66.15ZM128,120,47.65,76,128,32l80.35,44Zm8,99.64V133.83l80-43.78v85.76Z"
+        },
+        {
+          "name": "Gói Nâng Cao",
+          "price": "根据项目灵活",
+          "currency": "",
+          "period": "",
+          "description": "对于需要完全定制开发的人工智能系统的企业来说，这是理想的解决方案。",
+          "features": [
+            "开发专属AI模型",
+            "高级机器学习 (ML) 工作流程",
+            "新的用户界面设计",
+            "整合并开发自己的功能",
+            "优先电话支持 24/7"
+          ],
+          "ctaLabel": "开始使用",
+          "ctaHref": "/lien-he",
+          "highlight": true,
+          "labelText": "高级套餐",
+          "iconPath": "M234.29,114.85l-45,38.83L203,211.75a16.4,16.4,0,0,1-24.5,17.82L128,198.49,77.47,229.57A16.4,16.4,0,0,1,53,211.75l13.76-58.07-45-38.83A16.46,16.46,0,0,1,31.08,86l59-4.76,22.76-55.08a16.36,16.36,0,0,1,30.27,0l22.75,55.08,59,4.76a16.46,16.46,0,0,1,9.37,28.86Z"
+        }
+      ]
+    },
+    "techStack": {
+      "headlineLight": "人工智能操作技术",
+      "headlineDark": "在 Winterfrost",
+      "filters": [
+        "全部",
+        "接口",
+        "系统",
+        "数据库",
+        "操作",
+        "管理"
+      ],
+      "items": [
+        {
+          "name": "React / Next.js",
+          "category": ""
+        },
+        {
+          "name": "Angular",
+          "category": ""
+        },
+        {
+          "name": "Vue.js",
+          "category": ""
+        },
+        {
+          "name": "Figma",
+          "category": ""
+        },
+        {
+          "name": "Adobe XD",
+          "category": ""
+        },
+        {
+          "name": "Sketch",
+          "category": ""
+        },
+        {
+          "name": "Node.js",
+          "category": ""
+        },
+        {
+          "name": "Laravel",
+          "category": ""
+        },
+        {
+          "name": "WordPress / PHP",
+          "category": ""
+        },
+        {
+          "name": ".NET / ASP.NET",
+          "category": ""
+        },
+        {
+          "name": "MySQL",
+          "category": ""
+        },
+        {
+          "name": "PostgreSQL",
+          "category": ""
+        },
+        {
+          "name": "MongoDB",
+          "category": ""
+        },
+        {
+          "name": "Redis",
+          "category": ""
+        },
+        {
+          "name": "Docker",
+          "category": ""
+        },
+        {
+          "name": "GitHub",
+          "category": ""
+        },
+        {
+          "name": "GitLab",
+          "category": ""
+        },
+        {
+          "name": "Bitbucket",
+          "category": ""
+        },
+        {
+          "name": "GitHub Actions",
+          "category": ""
+        },
+        {
+          "name": "CI/CD",
+          "category": ""
+        },
+        {
+          "name": "AWS",
+          "category": ""
+        },
+        {
+          "name": "Deploy Server",
+          "category": ""
+        },
+        {
+          "name": "Jira",
+          "category": ""
+        }
+      ]
+    },
+    "comprehensiveServices": {
+      "headlineLight": "支持解决方案",
+      "headlineDark": "人工智能时代",
+      "items": [
+        {
+          "slug": "phat-trien-ung-dung-saas",
+          "title": "SaaS应用程序开发",
+          "desc": "构建具有多租户架构和灵活可扩展性的软件即服务平台。我们帮助企业优化其云基础设施并创建可提供可持续经常性收入的业务模型。",
+          "image": "/images/services/winterfrost/generative-ai-integration.webp",
+          "href": "/dich-vu/phat-trien-ung-dung-saas"
+        },
+        {
+          "slug": "phat-trien-devops",
+          "title": "DevOps 开发服务",
+          "desc": "加快产品交付周期，保证系统稳定性。我们设计高性能云基础设施和现代 MLOps 流程，以保持 AI 解决方案平稳运行。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Dich-vu-phat-trien-DevOps-HomeNest-Viet-Nam.jpg",
+          "href": "/dich-vu/phat-trien-devops"
+        },
+        {
+          "slug": "phat-trien-phan-mem-doanh-nghiep",
+          "title": "企业软件开发",
+          "desc": "通过安全且可扩展的定制软件解决方案实现您的业务现代化。我们构建智能 ERP 系统和仪表板，直接连接到您企业的 AI 功能。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Dich-vu-phat-trien-phan-mem-doanh-nghiep-HomeNest-Viet-Nam.jpg",
+          "href": "/dich-vu/phat-trien-phan-mem-doanh-nghiep"
+        }
+      ]
+    },
+    "faq": {
+      "label": "常见问题",
+      "headlineParts": [
+        "答案",
+        "每个",
+        "奇迹"
+      ],
+      "description": "在 Winterfrost 回答您有关技术、安全性和实施深度人工智能路线图的所有问题。",
+      "items": [
+        {
+          "q": "与人工智能合作时业务数据安全吗？",
+          "a": "数据安全是重中之重。 Winterfrost承诺所有业务数据都在独立的环境中处理，确保绝对不会有信息泄露给外界。我们采用多层安全措施来保护您的数字资产。"
+        },
+        {
+          "q": "Winterfrost 使用第三方 AI 还是开发自己的模型？",
+          "a": "我们根据您的需求灵活安排。 Winterfrost 可以集成世界领先的 API 来优化时间，或根据特定于业务的数据开发和微调定制的大型语言模型 (LLM)，以确保准确性和排他性。"
+        },
+        {
+          "q": "人工智能解决方案可以集成到现有软件中吗？",
+          "a": "是的。我们专注于系统集成能力。人工智能解决方案将通过安全的API网关无缝连接到企业运营的ERP、CRM或网站平台，确保数据持续同步。"
+        },
+        {
+          "q": "部署一个AI项目通常需要多长时间？",
+          "a": "实施时间取决于问题的复杂程度。一个基本的AI集成项目可以在4到6周内完成。对于深入的AI解决方案和复杂的机器学习模型，时间可以持续3到6个月。"
+        },
+        {
+          "q": "企业是否需要一支高技术团队来运营人工智能？",
+          "a": "不一定。 Winterfrost 为最终用户设计了极其简单的管理和交互界面。我们提供完整的文档和定期的技术支持，以便您的团队可以轻松操作系统。"
+        },
+        {
+          "q": "交接后企业能否拥有AI模型？",
+          "a": "是的。与网站服务类似，我们将所有知识产权、源代码和模型参数（权重）交给客户。您完全拥有技术并有权随时升级系统。"
+        },
+        {
+          "q": "如何衡量AI项目的有效性（ROI）？",
+          "a": "在开始之前，Winterfrost 将与您一起确定明确的绩效指标，例如：人员成本节省率、流程处理时间或客户转化率增长。我们专注于用实数创造可衡量的结果。"
+        },
+        {
+          "q": "AI经常给出虚假信息吗？",
+          "a": "对于生成式人工智能流，我们通过将知识范围限制在企业内部数据集并建立严格的输出控制层来应用幻觉预防技术。"
+        }
+      ]
+    }
+  },
+  "phat-trien-ung-dung-saas": {
+    "slug": "phat-trien-ung-dung-saas",
+    "metaTitle": "SaaS应用开发服务-Winterfrost",
+    "hero": {
+      "titleLight": "发展",
+      "titleDark": "SaaS 应用程序",
+      "description": "从设计到实际运营，我们构建具有灵活扩展性的SaaS平台。 Winterfrost 将帮助您创建现代软件产品，能够随着用户数量的增长而快速增长，并为企业带来可持续的收入来源。",
+      "bgImage": "/images/migrated/homenest-software/wp-content/uploads/2026/03/services-app-bg.jpg",
+      "dashboardImage": "",
+      "phones": {
+        "left": "/images/migrated/homenest-software/wp-content/uploads/2026/04/SaaS-Application-header-left.png",
+        "center": "/images/migrated/homenest-software/wp-content/uploads/2026/04/SaaS-Application-service-center.webp",
+        "right": "/images/migrated/homenest-software/wp-content/uploads/2026/04/SaaS-Application-header-right.png"
+      },
+      "chips": [
+        "/images/migrated/homenest-software/wp-content/uploads/2026/04/SaaS-Application-banner-top-left.jpg",
+        "/images/migrated/homenest-software/wp-content/uploads/2026/04/SaaS-Application-header-bottom-right.jpg",
+        "/images/migrated/homenest-software/wp-content/uploads/2026/04/SaaS-Application-header-bottom-left.jpg",
+        "/images/migrated/homenest-software/wp-content/uploads/2026/04/SaaS-Application-header-top-right.jpg"
+      ]
+    },
+    "solution": {
+      "headlineLight": "为什么要投资发展？",
+      "headlineDark": "专业的SaaS应用程序？",
+      "description": "全面的 SaaS 平台可以作为可持续的经常性收入来源。我们从一开始就设计可扩展性、安全性和转型的最佳系统，帮助企业消除增长过程中的障碍。",
+      "ctaLabel": "今天开始你的项目",
+      "ctaHref": "tel:+84971450454",
+      "items": [
+        {
+          "title": "最佳多用户架构",
+          "desc": "帮助您在同一系统上管理数千名客户，同时仍然确保每个人的数据完全私密且安全。",
+          "image": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Multi-Tenant-Architecture.webp"
+        },
+        {
+          "title": "管理自动付款",
+          "desc": "国际支付网关与根据使用水平管理价格和发票的全自动系统的顺利集成，有助于增加收入并最大限度地减少客户流失。",
+          "image": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Subscription-Billing-Logic.webp"
+        },
+        {
+          "title": "灵活的扩展能力",
+          "desc": "云原生架构允许系统实时自动调整资源。这样可以确保应用程序在流量高峰时始终稳定运行，并且不会在非高峰时段浪费运营成本。",
+          "image": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Cloud-Native-Elasticity.webp"
+        },
+        {
+          "title": "安全性极佳",
+          "desc": "从设计阶段就按照严格的标准应用安全流程。该系统符合国际证书，帮助企业轻松通过主要合作伙伴的安全检查。",
+          "image": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Enterprise-Grade-SaaS-Security.webp"
+        },
+        {
+          "title": "深入分析",
+          "desc": "通过直观的仪表板跟踪详细的指标和用户行为。这些现实数据是企业制定有效策略来改进功能和留住用户的重要基础。",
+          "image": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Multi-Level-Analysis.webp"
+        }
+      ]
+    },
+    "features": {
+      "headlineLight": "深度服务",
+      "headlineDark": "SaaS 开发之旅",
+      "description": "",
+      "ctaLabel": "让我们一起构建您的解决方案",
+      "ctaHref": "tel:+84971450454",
+      "items": [
+        {
+          "num": "01",
+          "title": "最佳多用户架构",
+          "desc": "设计一个使用相同基础设施但对每个客户绝对安全的数据结构，有助于优化运营成本。",
+          "iconPath": "M88.57,35A8,8,0,0,1,103.43,29l8,20A8,8,0,0,1,96.57,55ZM29,103.43l20,8A8,8,0,1,0,55,96.57l-20-8A8,8,0,0,0,29,103.43ZM227,152.57l-20-8A8,8,0,1,0,201,159.43l20,8A8,8,0,0,0,227,152.57ZM159.43,201A8,8,0,0,0,144.57,207l8,20A8,8,0,1,0,167.43,221ZM237.91,18.52a8,8,0,0,0-11.5-.18L174,70.75l-5.38-5.38a32,32,0,0,0-45.28,0L106.14,82.54a4,4,0,0,0,0,5.66l61.7,61.66a4,4,0,0,0,5.66,0l16.74-16.74a32.76,32.76,0,0,0,9.81-22.52,31.82,31.82,0,0,0-9.37-23.17l-5.38-5.37,52.2-52.17A8.22,8.22,0,0,0,237.91,18.52ZM85.64,90.34a8,8,0,0,0-11.49.18,8.22,8.22,0,0,0,.41,11.37L80.67,108,65.34,123.31A31.82,31.82,0,0,0,56,146.47,32.75,32.75,0,0,0,65.77,169l5,4.94L18.49,226.13a8.21,8.21,0,0,0-.61,11.1,8,8,0,0,0,11.72.43L82,185.25l5.37,5.38a32.1,32.1,0,0,0,45.29,0L148,175.31l6.34,6.35a8,8,0,0,0,11.32-11.32Z",
+          "image": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Seamless-API-Ecosystems.webp"
+        },
+        {
+          "num": "02",
+          "title": "灵活的云平台",
+          "desc": "在现代基础设施上开发应用程序有助于系统根据用户增长自动扩展。",
+          "iconPath": "M128,40a96,96,0,1,0,96,96A96.11,96.11,0,0,0,128,40Zm45.66,61.66-40,40a8,8,0,0,1-11.32-11.32l40-40a8,8,0,0,1,11.32,11.32ZM96,16a8,8,0,0,1,8-8h48a8,8,0,0,1,0,16H104A8,8,0,0,1,96,16Z",
+          "image": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Real-Time-Performance-Monitoring.webp"
+        },
+        {
+          "num": "03",
+          "title": "自动支付系统",
+          "desc": "集成价格管理和经常性收费流程，将软件变成可持续的自动创收机器。",
+          "iconPath": "M240,56v64a8,8,0,0,1-13.66,5.66L200,99.31l-58.34,58.35a8,8,0,0,1-11.32,0L96,123.31,29.66,189.66a8,8,0,0,1-11.32-11.32l72-72a8,8,0,0,1,11.32,0L136,140.69,188.69,88,162.34,61.66A8,8,0,0,1,168,48h64A8,8,0,0,1,240,56Z",
+          "image": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Future-Ready-Microservices.webp"
+        }
+      ]
+    },
+    "benefits": {
+      "label": "与 Winterfrost 的竞争优势",
+      "headlineLight": "可持续解决方案",
+      "headlineDark": "长期业务路线图",
+      "items": [
+        {
+          "num": "1",
+          "title": "真正的 SaaS 专家团队",
+          "desc": "我们拥有一支专业团队，拥有从小型公司到大型企业的SaaS软件开发丰富经验。"
+        },
+        {
+          "num": "2",
+          "title": "优化投资成本",
+          "desc": "成本节省 40% 至 60%，但仍确保产品符合标准并为企业提供最佳质量。"
+        },
+        {
+          "num": "3",
+          "title": "多学科领域经验",
+          "desc": "我们拥有从房地产、电子商务到物流的深厚知识，帮助引导产品走上正确的路线图并从一开始就遵守行业法规。"
+        },
+        {
+          "num": "4",
+          "title": "综合实施能力",
+          "desc": "掌握从用户界面、处理系统到云基础设施以及集成专业 SaaS 实用程序的整个产品生命周期。"
+        },
+        {
+          "num": "5",
+          "title": "高性能架构",
+          "desc": "每个应用程序都经过优化，以实现极低的响应时间，并致力于高达 99% 的稳定正常运行时间，准备好满足用户的突然增加。"
+        },
+        {
+          "num": "6",
+          "title": "深入的测试过程",
+          "desc": "系统经过严格的客户端数据隔离和入侵安全测试，确保平台在实际场景中保持稳定和安全。"
+        },
+        {
+          "num": "7",
+          "title": "灵活循环发展",
+          "desc": "使用两周周期的敏捷流程可以帮助您不断收到真实的演示并调整最接近市场需求的产品。"
+        },
+        {
+          "num": "8",
+          "title": "绝对的数据安全",
+          "desc": "用户数据通过加密和严格的访问权限受到多层保护，满足大型企业最严格的标准。"
+        },
+        {
+          "num": "9",
+          "title": "支持国际推广",
+          "desc": "我们在美国、英国和新加坡成功部署 SaaS 产品的经验使我们能够帮助您通过多语言和全球支付基础设施拓展市场。"
+        }
+      ]
+    },
+    "ctaBanner": {
+      "badge": "立即联系！",
+      "headline": "构建无限扩展的SaaS平台",
+      "description": "Winterfrost帮助企业实现云平台上稳定且易于管理的服务软件的理念。我们专注于构建强大的技术基础设施，让企业能够同时服务大量客户，同时确保快速的访问速度和最佳的性能。",
+      "ctaLabel": "立即启动您的 SaaS 项目",
+      "ctaHref": "/lien-he",
+      "image": "/images/people/cta/winterfrost/chuyen-vien-nu.png"
+    },
+    "counter": {
+      "badgeText": "我们的成就",
+      "items": [
+        {
+          "index": "/01",
+          "value": "10+",
+          "desc": "多年经验"
+        },
+        {
+          "index": "/02",
+          "value": "250+",
+          "desc": "客户"
+        },
+        {
+          "index": "/03",
+          "value": "15+",
+          "desc": "服务国家/地区"
+        },
+        {
+          "index": "/04",
+          "value": "98%",
+          "desc": "客户满意度"
+        }
+      ]
+    },
+    "industries": {
+      "label": "Winterfrost 服务的区域",
+      "headlineLight": "打造专业SaaS平台",
+      "headlineDark": "适合所有职业",
+      "items": [
+        {
+          "slug": "thuong-mai-dien-tu",
+          "title": "电子商务",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/eComerce-Industries-Icon.png"
+        },
+        {
+          "slug": "cong-nghe-tai-chinh",
+          "title": "金融科技",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Fintech-Industries-Icon.png"
+        },
+        {
+          "slug": "y-te",
+          "title": "医疗",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Healthcare-Industries-Icon.png"
+        },
+        {
+          "slug": "tai-chinh-doanh-nghiep",
+          "title": "企业融资",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Expert-Financial-Industries-Icon.png"
+        },
+        {
+          "slug": "phan-mem-doanh-nghiep",
+          "title": "企业软件",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Business-Industries-Icon.png"
+        },
+        {
+          "slug": "ban-le",
+          "title": "零售",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Retail-Industries-Icon.png"
+        },
+        {
+          "slug": "bat-dong-san",
+          "title": "房地产",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Real-Estate-Industries-Icon.png"
+        },
+        {
+          "slug": "van-tai-va-logistics",
+          "title": "运输与物流",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Logistics-Industries-Icon.png"
+        },
+        {
+          "slug": "giao-duc",
+          "title": "教育",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Education-Industries-Icon.png"
+        }
+      ]
+    },
+    "price": {
+      "label": "",
+      "headlineLight": "SaaS开发服务包",
+      "headlineDark": "",
+      "description": "使用 Winterfrost 选择正确的路径来启动和扩展您的 SaaS 平台。",
+      "packages": [
+        {
+          "name": "Cơ bản",
+          "price": "60.000.000",
+          "currency": "越南盾",
+          "period": "/ 项目",
+          "description": "对于希望测试自己的想法并快速启动基本 SaaS 应用程序的企业来说，这是完美的解决方案。",
+          "features": [
+            "构建标准SaaS应用核心。",
+            "使用可用的 SaaS 软件框架（Framework）。",
+            "定制基本业务功能。",
+            "支持云基础设施上的设置和部署。",
+            "通过电子邮件优先提供技术支持。"
+          ],
+          "ctaLabel": "开始使用",
+          "ctaHref": "tel:+84971450454",
+          "highlight": false,
+          "labelText": "基本套餐"
+        },
+        {
+          "name": "Nâng cao",
+          "price": "根据项目灵活",
+          "currency": "",
+          "period": "",
+          "description": "对于需要完全适合其个人业务模式的 SaaS 平台的企业来说，这是最佳选择。",
+          "features": [
+            "从头开始开发专有的 SaaS 解决方案。",
+            "深入的多租户架构。",
+            "为品牌设计全新的UI/UX界面。",
+            "定制复杂的功能并集成第三方系统。",
+            "我们的专家团队提供 24/7 电话支持。"
+          ],
+          "ctaLabel": "开始使用",
+          "ctaHref": "tel:+84971450454",
+          "highlight": true,
+          "labelText": "高级套餐"
+        }
+      ]
+    },
+    "techStack": {
+      "headlineLight": "SaaS运营技术",
+      "headlineDark": "在 Winterfrost",
+      "filters": [
+        "全部",
+        "接口",
+        "系统",
+        "数据库",
+        "操作",
+        "管理"
+      ],
+      "items": [
+        {
+          "name": "React / Next.js",
+          "category": ""
+        },
+        {
+          "name": "Angular",
+          "category": ""
+        },
+        {
+          "name": "Vue.js",
+          "category": ""
+        },
+        {
+          "name": "Figma",
+          "category": ""
+        },
+        {
+          "name": "Adobe XD",
+          "category": ""
+        },
+        {
+          "name": "Sketch",
+          "category": ""
+        },
+        {
+          "name": "Node.js",
+          "category": ""
+        },
+        {
+          "name": "Laravel",
+          "category": ""
+        },
+        {
+          "name": "WordPress / PHP",
+          "category": ""
+        },
+        {
+          "name": ".NET / ASP.NET",
+          "category": ""
+        },
+        {
+          "name": "MySQL",
+          "category": ""
+        },
+        {
+          "name": "PostgreSQL",
+          "category": ""
+        },
+        {
+          "name": "MongoDB",
+          "category": ""
+        },
+        {
+          "name": "Redis",
+          "category": ""
+        },
+        {
+          "name": "Docker",
+          "category": ""
+        },
+        {
+          "name": "GitHub",
+          "category": ""
+        },
+        {
+          "name": "GitLab",
+          "category": ""
+        },
+        {
+          "name": "Bitbucket",
+          "category": ""
+        },
+        {
+          "name": "GitHub Actions",
+          "category": ""
+        },
+        {
+          "name": "CI/CD",
+          "category": ""
+        },
+        {
+          "name": "AWS",
+          "category": ""
+        },
+        {
+          "name": "Deploy Server",
+          "category": ""
+        },
+        {
+          "name": "Jira",
+          "category": ""
+        }
+      ]
+    },
+    "comprehensiveServices": {
+      "headlineLight": "扩展 SaaS 生态系统",
+      "headlineDark": "与附加服务",
+      "items": [
+        {
+          "slug": "thiet-ke-website",
+          "title": "专业网站设计",
+          "desc": "您是否需要 SaaS 应用程序附带的产品介绍网站、客户门户或复杂的 Web 界面？我们的团队帮助您的企业创建高性能的网站体验、优化转化率并与您的 SaaS 管理系统无缝连接。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Dich-vu-thiet-ke-Website-HomeNest-Viet-Nam.jpg",
+          "href": "/dich-vu/thiet-ke-website"
+        },
+        {
+          "slug": "phat-trien-phan-mem-tuy-chinh",
+          "title": "DevOps 开发服务",
+          "desc": "加快产品交付周期并确保 SaaS 平台的绝对稳定性。我们建立了自动扩展的云基础设施、专业的 CI/CD 流程和 24/7 监控系统，帮助您的应用程序即使在用户数量激增时也能平稳运行。",
+          "image": "/images/migrated/homenest-software/wp-content/uploads/2026/04/M7XkcGNNmF9nUkjJM8FXYMH8BA.avif",
+          "href": "/dich-vu/phat-trien-phan-mem-tuy-chinh"
+        },
+        {
+          "slug": "phat-trien-phan-mem-doanh-nghiep",
+          "title": "企业软件开发",
+          "desc": "准备将您的 SaaS 平台连接到企业级 ERP、CRM 或遗留系统。我们构建强大的中间件、数据同步和企业 API 层，使您的 SaaS 产品能够为大规模 B2B 客户提供服务。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Dich-vu-phat-trien-phan-mem-doanh-nghiep-HomeNest-Viet-Nam.jpg",
+          "href": "/dich-vu/phat-trien-phan-mem-doanh-nghiep"
+        }
+      ]
+    },
+    "faq": {
+      "label": "常见问题",
+      "headlineParts": [
+        "答案",
+        "每个",
+        "奇迹"
+      ],
+      "description": "回答有关 SaaS 平台的系统架构、安全性和经常性收入路线图的所有问题。",
+      "items": [
+        {
+          "q": "多用户架构能否保证数据安全？",
+          "a": "完全安全。 Winterfrost 在数据库级别设计了严格的数据隔离层。尽管许多客户使用相同的基础设施来优化成本，但每个租户的数据始终加密且完全分离，确保不会重叠或信息泄漏。"
+        },
+        {
+          "q": "项目完成后我真的拥有源代码吗？",
+          "a": "当然。 Winterfrost 将完整的架构文档和所有知识产权交给您。我们为您打造产品，让您拥有并自由发展您的业务，而不受源代码留住客户的任何限制。"
+        },
+        {
+          "q": "系统如何应对用户突然增加的情况？",
+          "a": "我们使用云计算架构和自动缩放机制。当流量增加时系统会自动以秒级增加服务器资源，并在非高峰时自动缩减。这有助于您的应用程序保持流畅，同时仍然最大限度地节省服务器成本。"
+        },
+        {
+          "q": "Winterfrost 是否支持国际支付网关集成？",
+          "a": "是的。我们在集成计费系统和管理定期订阅方面拥有丰富的经验。系统自动处理续费、升级套餐、发送发票，帮助您拥有一台完整的自动收款机。"
+        },
+        {
+          "q": "运营 SaaS 基础设施的成本昂贵吗？",
+          "a": "得益于多租户架构和云优化，每个用户的成本将极低。与传统软件模式相比，共享智能基础设施可帮助您节省高达 70% 的运营成本。"
+        },
+        {
+          "q": "我可以为每个主要客户定制功能吗？",
+          "a": "是的。我们构建的 SaaS 架构允许灵活的功能层。您可以轻松地为重要客户启用或禁用高级功能，而不会影响其他用户的整体系统核心。"
+        },
+        {
+          "q": "启动试用需要多长时间？",
+          "a": "对于入门计划，我们专注于最核心的功能，以便您可以在 8 到 12 周内进入市场。尽早启动可以帮助您在进一步投资复杂功能之前获得真实用户的反馈。"
+        }
+      ]
+    }
+  },
+  "thiet-ke-app": {
+    "slug": "thiet-ke-app",
+    "metaTitle": "应用程序设计服务 - Winterfrost",
+    "hero": {
+      "titleLight": "服务",
+      "titleDark": "应用程序设计",
+      "description": "Winterfrost是一家专业的应用程序设计单位，创建直观的移动界面，为用户提供卓越的用户体验和智能便捷的功能。以此帮助企业缩短与客户的距离，快速连接并在IOS和Android上大流量下稳定运行。",
+      "bgImage": "/images/migrated/homenest-software/wp-content/uploads/2026/03/services-app-bg.jpg",
+      "dashboardImage": "",
+      "phones": {
+        "left": "/images/migrated/homenest-software/wp-content/uploads/2026/04/The-Lover_s-Lawn-app_s-booking-details-interface.webp",
+        "center": "/images/migrated/homenest-software/wp-content/uploads/2026/04/The-homepage-interface-of-the-Lover_s-Lawn-app.webp",
+        "right": "/images/migrated/homenest-software/wp-content/uploads/2026/04/The-booking-interface-of-the-Lover_s-Lawn-app.webp"
+      },
+      "chips": [
+        "/images/migrated/homenest-software/wp-content/uploads/2026/04/Working-Progress.jpg",
+        "/images/migrated/homenest-software/wp-content/uploads/2026/04/Time-field.jpg",
+        "/images/migrated/homenest-software/wp-content/uploads/2026/04/login-button.jpg"
+      ]
+    },
+    "solution": {
+      "headlineLight": "为什么选择移动应用程序",
+      "headlineDark": "是成长的关键？",
+      "description": "在全球移动时代，移动应用程序不仅是一种工具，而且是企业与客户之间的战略接触点。我们优化用户体验，将每次下载转化为真正的商机。",
+      "ctaLabel": "今天开始你的项目",
+      "ctaHref": "tel:+84971450454",
+      "items": [
+        {
+          "title": "AI智能交互",
+          "desc": "集成的AI系统不再只是发送海量推送通知，而是自动实时分析用户行为，激活个性化护理场景，有助于将转化率提高2倍。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/05/Dich-Vu-Tuong-tac-thong-minh-bang-AI-HomeNest-Viet-Nam.jpg"
+        },
+        {
+          "title": "使用机器学习进行优化",
+          "desc": "应用程序自动学习用户习惯来定制界面和优先功能。每次使用您的应用程序都会变得更简单、更智能、更人性化。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/05/Dich-Vu-Toi-uu-bang-Machine-Learning-HomeNest-Viet-Nam.jpg"
+        },
+        {
+          "title": "AI Agents虚拟助手支持24/7",
+          "desc": "集成大型 LLM 语言模型，创建能够直接在应用程序上咨询、处理投诉和关闭订单的虚拟助理，帮助企业节省高达 50% 的客户服务部门运营成本。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/05/Dich-Vu-Tro-ly-ao-AI-Agents-ho-tro-24-7-HomeNest-Viet-Nam.jpg"
+        },
+        {
+          "title": "趋势预测",
+          "desc": "使用预测算法推荐客户最有可能购买的产品或服务。这是提高平均订单价值和长期留住客户的关键。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/05/Dich-Vu-Du-bao-xu-huong-HomeNest-Viet-Nam.jpg"
+        },
+        {
+          "title": "主动安全",
+          "desc": "不仅仅是 FaceID 或指纹，我们的人工智能还可以帮助检测异常访问行为并从一开始就防止欺诈，绝对保护您的品牌声誉。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/05/Dich-Vu-Bao-mat-chu-dong-HomeNest-Viet-Nam.jpg"
+        }
+      ]
+    },
+    "features": {
+      "headlineLight": "深度解决方案",
+      "headlineDark": "用于移动应用程序",
+      "description": "",
+      "ctaLabel": "今天开始你的项目",
+      "ctaHref": "tel:+84971450454",
+      "items": [
+        {
+          "num": "01",
+          "title": "开发适用于 IOS 和 Android 的应用程序",
+          "desc": "使用专门的语言为每个平台构建单独的应用程序。该解决方案有助于最大限度地提高硬件性能，确保最高性能，并提供卓越的用户体验。",
+          "iconPath": "M88.57,35A8,8,0,0,1,103.43,29l8,20A8,8,0,0,1,96.57,55ZM29,103.43l20,8A8,8,0,1,0,55,96.57l-20-8A8,8,0,0,0,29,103.43ZM227,152.57l-20-8A8,8,0,1,0,201,159.43l20,8A8,8,0,0,0,227,152.57ZM159.43,201A8,8,0,0,0,144.57,207l8,20A8,8,0,1,0,167.43,221ZM237.91,18.52a8,8,0,0,0-11.5-.18L174,70.75l-5.38-5.38a32,32,0,0,0-45.28,0L106.14,82.54a4,4,0,0,0,0,5.66l61.7,61.66a4,4,0,0,0,5.66,0l16.74-16.74a32.76,32.76,0,0,0,9.81-22.52,31.82,31.82,0,0,0-9.37-23.17l-5.38-5.37,52.2-52.17A8.22,8.22,0,0,0,237.91,18.52ZM85.64,90.34a8,8,0,0,0-11.49.18,8.22,8.22,0,0,0,.41,11.37L80.67,108,65.34,123.31A31.82,31.82,0,0,0,56,146.47,32.75,32.75,0,0,0,65.77,169l5,4.94L18.49,226.13a8.21,8.21,0,0,0-.61,11.1,8,8,0,0,0,11.72.43L82,185.25l5.37,5.38a32.1,32.1,0,0,0,45.29,0L148,175.31l6.34,6.35a8,8,0,0,0,11.32-11.32Z",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/05/Dich-Vu-Phat-Trien-Ung-Dung-Cho-iOS-Android-HomeNest-Viet-Nam.jpg"
+        },
+        {
+          "num": "02",
+          "title": "跨平台应用开发",
+          "desc": "使用单一源代码即可在 iOS 和 Android 上运行。这是帮助企业节省成本、缩短开发时间、同时仍保证功能一致性的最佳选择。",
+          "iconPath": "M128,40a96,96,0,1,0,96,96A96.11,96.11,0,0,0,128,40Zm45.66,61.66-40,40a8,8,0,0,1-11.32-11.32l40-40a8,8,0,0,1,11.32,11.32ZM96,16a8,8,0,0,1,8-8h48a8,8,0,0,1,0,16H104A8,8,0,0,1,96,16Z",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/05/Dich-Vu-Phat-Trien-Ung-Dung-Da-Nen-Tang-HomeNest-Viet-Nam.jpg"
+        },
+        {
+          "num": "03",
+          "title": "设计 UI/UX 并优化移动体验",
+          "desc": "专注于创建优雅的界面和自然的用户体验流程。我们结合美学和行为数据来创建不仅美观而且能提供高转化率的应用程序。",
+          "iconPath": "M240,56v64a8,8,0,0,1-13.66,5.66L200,99.31l-58.34,58.35a8,8,0,0,1-11.32,0L96,123.31,29.66,189.66a8,8,0,0,1-11.32-11.32l72-72a8,8,0,0,1,11.32,0L136,140.69,188.69,88,162.34,61.66A8,8,0,0,1,168,48h64A8,8,0,0,1,240,56Z",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/05/Dich-Vu-Thiet-Ke-UI-UX-Va-Toi-Uu-Trai-Nghiem-Di-Dong-HomeNest-Viet-Nam-scaled.jpg"
+        }
+      ]
+    },
+    "benefits": {
+      "label": "为什么我们的合作伙伴信任我们？",
+      "headlineLight": "复杂的移动体验。",
+      "headlineDark": "国际运营标准。",
+      "items": [
+        {
+          "num": "1",
+          "title": "掌握跨平台技术",
+          "desc": "我们精通本机和跨平台应用程序开发，帮助您优化成本，同时确保每个操作系统的最流畅性能。"
+        },
+        {
+          "num": "2",
+          "title": "UI/UX界面引领潮流",
+          "desc": "每个应用程序均基于用户行为数据进行设计，确保美观精致、操作简单直观。"
+        },
+        {
+          "num": "3",
+          "title": "优化设备性能",
+          "desc": "该系统经过微调，节省空间，消耗更少的电池，运行稳定。此过程适用于从中端到高端的许多具有不同配置的设备系列。"
+        },
+        {
+          "num": "4",
+          "title": "完整的交接流程",
+          "desc": "我们陪伴企业从咨询、设计、编程直至完成程序，将应用程序快速推向 App Store 和 Google Play。"
+        },
+        {
+          "num": "5",
+          "title": "后端基础设施负载高",
+          "desc": "构建强大的服务器系统，保证应用在百万级同时访问和交互的情况下稳定运行。"
+        },
+        {
+          "num": "6",
+          "title": "绝对的安全和隐私",
+          "desc": "应用严格的数据标准来保护用户信息，帮助企业感到安全、获得客户信任并完全满足安全方面的法律法规。"
+        },
+        {
+          "num": "7",
+          "title": "灵活的敏捷开发周期",
+          "desc": "分解开发路线图，以便客户可以根据市场趋势控制进度并调整功能，帮助产品始终满足用户需求。"
+        },
+        {
+          "num": "8",
+          "title": "无限扩展性",
+          "desc": "源代码架构有条不紊地构建，可以随着业务的增长轻松集成新功能或进行规模升级，而无需从头开始。"
+        },
+        {
+          "num": "9",
+          "title": "专门的技术支持和维护",
+          "desc": "我们致力于在发布后提供长期支持，处理操作系统更新和持续的技术支持，以使您的应用程序保持最佳状态。"
+        }
+      ]
+    },
+    "ctaBanner": {
+      "badge": "立即联系！",
+      "headline": "设计移动应用程序以有效连接客户",
+      "description": "Winterfrost 设计的 IOS 和 Android 应用程序快速、安全且易于使用。该解决方案可帮助您随时随地保持状态并与客户互动。",
+      "ctaLabel": "获取有关应用程序设计的建议",
+      "ctaHref": "/lien-he",
+      "image": "/images/people/cta/winterfrost/nhan-vien-cong-nghe-tre.png"
+    },
+    "counter": {
+      "badgeText": "我们的成就",
+      "items": [
+        {
+          "index": "/01",
+          "value": "10+",
+          "desc": "多年经验"
+        },
+        {
+          "index": "/02",
+          "value": "250+",
+          "desc": "客户"
+        },
+        {
+          "index": "/03",
+          "value": "15+",
+          "desc": "服务国家/地区"
+        },
+        {
+          "index": "/04",
+          "value": "98%",
+          "desc": "客户满意度"
+        }
+      ]
+    },
+    "industries": {
+      "label": "特色领域",
+      "headlineLight": "最佳移动解决方案",
+      "headlineDark": "适合所有职业",
+      "items": [
+        {
+          "slug": "thuong-mai-dien-tu",
+          "title": "电子商务",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/eComerce-Industries-Icon.png"
+        },
+        {
+          "slug": "cong-nghe-tai-chinh",
+          "title": "金融科技",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Fintech-Industries-Icon.png"
+        },
+        {
+          "slug": "y-te",
+          "title": "医疗",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Healthcare-Industries-Icon.png"
+        },
+        {
+          "slug": "tai-chinh-doanh-nghiep",
+          "title": "企业融资",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Expert-Financial-Industries-Icon.png"
+        },
+        {
+          "slug": "phan-mem-doanh-nghiep",
+          "title": "企业软件",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Business-Industries-Icon.png"
+        },
+        {
+          "slug": "ban-le",
+          "title": "零售",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Retail-Industries-Icon.png"
+        },
+        {
+          "slug": "bat-dong-san",
+          "title": "房地产",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Real-Estate-Industries-Icon.png"
+        },
+        {
+          "slug": "van-tai-va-logistics",
+          "title": "运输与物流",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Logistics-Industries-Icon.png"
+        },
+        {
+          "slug": "giao-duc",
+          "title": "教育",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Education-Industries-Icon.png"
+        }
+      ]
+    },
+    "price": {
+      "label": "服务包",
+      "headlineLight": "应用程序设计",
+      "headlineDark": "",
+      "description": "成本根据每个发展阶段明确确定，不会产生隐性成本。所有服务包包括签署保密协议、专业项目管理、支持将应用程序发布到应用程序商店以及完成后移交所有知识产权。",
+      "packages": [
+        {
+          "name": "Gói Cơ Bản",
+          "price": "60.000.000",
+          "currency": "越南盾",
+          "period": "/ 项目",
+          "description": "在最短的时间内实现想法并将核心应用推向市场的完美解决方案。",
+          "features": [
+            "开发适用于 Android 和 IOS 的应用程序。",
+            "根据敏捷模型灵活的部署流程。",
+            "集成标准核心功能。",
+            "安全的用户配置文件管理和身份验证系统。",
+            "支持将应用程序发布到 Google Play 和 App Store 的程序。",
+            "通过电子邮件和票务系统提供优先技术支持。"
+          ],
+          "ctaLabel": "开始使用",
+          "ctaHref": "tel:+84971450454",
+          "highlight": false,
+          "labelText": "基本套餐"
+        },
+        {
+          "name": "Gói Nâng Cao",
+          "price": "根据项目规模灵活调整",
+          "currency": "",
+          "period": "",
+          "description": "设计和构建完全定制的、深入的移动平台，以满足最苛刻的性能和体验要求。",
+          "features": [
+            "优化的性能相当于本机应用程序。",
+            "优质的UI/UX设计和精美的交互效果。",
+            "开发专属功能和API连接生态系统。",
+            "生物识别安全和先进的数据保护技术。",
+            "实时运营监控和绩效跟踪。",
+            "专业技术支持团队 24/7。",
+            "致力于维护并确保上线后的运行质量。"
+          ],
+          "ctaLabel": "开始使用",
+          "ctaHref": "tel:+84971450454",
+          "highlight": true,
+          "labelText": "高级套餐"
+        }
+      ]
+    },
+    "techStack": {
+      "headlineLight": "应用程序设计技术",
+      "headlineDark": "在 Winterfrost",
+      "filters": [
+        "全部",
+        "接口",
+        "系统",
+        "数据库",
+        "操作",
+        "管理"
+      ],
+      "items": [
+        {
+          "name": "React / Next.js",
+          "category": ""
+        },
+        {
+          "name": "Angular",
+          "category": ""
+        },
+        {
+          "name": "Vue.js",
+          "category": ""
+        },
+        {
+          "name": "Figma",
+          "category": ""
+        },
+        {
+          "name": "Adobe XD",
+          "category": ""
+        },
+        {
+          "name": "Sketch",
+          "category": ""
+        },
+        {
+          "name": "Node.js",
+          "category": ""
+        },
+        {
+          "name": "Laravel",
+          "category": ""
+        },
+        {
+          "name": "WordPress / PHP",
+          "category": ""
+        },
+        {
+          "name": ".NET / ASP.NET",
+          "category": ""
+        },
+        {
+          "name": "MySQL",
+          "category": ""
+        },
+        {
+          "name": "PostgreSQL",
+          "category": ""
+        },
+        {
+          "name": "MongoDB",
+          "category": ""
+        },
+        {
+          "name": "Redis",
+          "category": ""
+        },
+        {
+          "name": "Docker",
+          "category": ""
+        },
+        {
+          "name": "GitHub",
+          "category": ""
+        },
+        {
+          "name": "GitLab",
+          "category": ""
+        },
+        {
+          "name": "Bitbucket",
+          "category": ""
+        },
+        {
+          "name": "GitHub Actions",
+          "category": ""
+        },
+        {
+          "name": "CI/CD",
+          "category": ""
+        },
+        {
+          "name": "AWS",
+          "category": ""
+        },
+        {
+          "name": "Deploy Server",
+          "category": ""
+        },
+        {
+          "name": "Jira",
+          "category": ""
+        }
+      ]
+    },
+    "comprehensiveServices": {
+      "headlineLight": "完善生态系统",
+      "headlineDark": "与附加服务",
+      "items": [
+        {
+          "slug": "thiet-ke-website",
+          "title": "专业网站设计",
+          "desc": "我们使用相同的核心数据层和管理系统构建您的移动应用程序的相应网络版本。该解决方案可帮助您的产品在用户使用的每个平台和设备上平稳、一致地运行。",
+          "image": "/images/services/winterfrost/web-application-development.webp",
+          "href": "/dich-vu/thiet-ke-website"
+        },
+        {
+          "slug": "phat-trien-phan-mem-doanh-nghiep",
+          "title": "企业软件开发",
+          "desc": "打造专门针对大规模作业的高承载能力的安全体系结构。该解决方案包括深入的数据连接和严格的服务质量承诺。",
+          "image": "/images/services/winterfrost/enterprise-software-development.webp",
+          "href": "/dich-vu/phat-trien-phan-mem-doanh-nghiep"
+        },
+        {
+          "slug": "van-hanh-va-bao-tri",
+          "title": "运维服务",
+          "desc": "在您的应用程序发布后随时关注，以确保与新操作系统更新的兼容性、及时故障排除以及持续的性能改进。我们帮助您的应用在应用商店保持高评分并有效留住用户。",
+          "image": "/images/services/winterfrost/software-maintenance-and-support.webp",
+          "href": "/dich-vu/van-hanh-va-bao-tri"
+        }
+      ]
+    },
+    "faq": {
+      "label": "常见问题",
+      "headlineParts": [
+        "所有人的答案",
+        "奇迹"
+      ],
+      "description": "使用 Winterfrost 回答技术问题、将应用程序上传到存储库的过程以及长期配套策略。",
+      "items": [
+        {
+          "q": "Winterfrost 是否支持将应用程序上传到 App Store 和 Google Play？",
+          "a": "是的。这是我们综合服务的重要组成部分。 Winterfrost将陪伴您办理注册手续、技术配置，并确保申请符合Apple和Google的严格政策，以最快的速度获得批准。"
+        },
+        {
+          "q": "我应该选择跨平台应用程序还是本机应用程序？",
+          "a": "此选择取决于您的预算和业务目标。当 iOS 和 Android 都只需要一份源代码时，像 Flutter 这样的跨平台应用程序有助于节省开发成本和时间。同时，本机应用程序将为极其复杂或需要高图形处理的项目提供最佳的性能和最流畅的体验。"
+        },
+        {
+          "q": "启动后维护应用程序的成本是多少？",
+          "a": "该费用通常包括服务器租赁费、应用商店的年度开发者帐户维护费以及定期的技术维护费。 Winterfrost 将向您提供最佳基础设施包的建议，以节省您的成本，同时仍确保应用程序的稳定运行。"
+        },
+        {
+          "q": "如何让应用程序在多种不同型号的手机上良好运行？",
+          "a": "我们在许多具有不同屏幕尺寸和操作系统版本的真实设备上进行了严格的测试。这确保了应用程序界面始终保持平衡，并且从旧型号到最高端手机的功能始终如一。"
+        },
+        {
+          "q": "该应用程序可以在没有互联网连接的情况下运行吗？",
+          "a": "也许吧。我们可以设计本地数据存储和智能同步机制。这使得用户即使在离线状态下也可以访问和使用一些核心功能，一旦网络连接恢复，数据将自动更新到服务器。"
+        },
+        {
+          "q": "当 iOS 或 Android 发布新版本时，Winterfrost 是否支持更新？",
+          "a": "当然。我们提供长期支持和维护包，以确保您的应用程序始终与 Apple 和 Google 的最新更新兼容，避免出现功能错误或因技术过时而从应用程序商店中删除。"
+        },
+        {
+          "q": "我可以控制和跟踪项目进度吗？",
+          "a": "是的。我们使用专业的项目管理工具来帮助您密切监控开发的每个阶段。您将始终了解团队的状况、已完成哪些功能，并参与正式移交前的质量控制流程。"
+        }
+      ]
+    }
+  },
+  "van-hanh-va-bao-tri": {
+    "slug": "van-hanh-va-bao-tri",
+    "metaTitle": "运维服务-Winterfrost",
+    "hero": {
+      "titleDark": "和维护",
+      "titleLight": "运营服务",
+      "lightFirst": true,
+      "description": "确保您的网站、移动应用程序和软件系统不间断地在线。 Winterfrost 应用自动监控技术，帮助保持峰值性能、多层安全并即时适应技术变化，帮助企业安心成长。",
+      "bgImage": "",
+      "dashboardImage": "",
+      "carousel": {
+        "arcText": "安全 ✦ 可靠 ✦ 24/7 运行 ✦",
+        "images": [
+          "/images/migrated/homenest-software/wp-content/uploads/2026/04/Software-Maintenance-Support-header.jpg",
+          "/images/migrated/homenest-software/wp-content/uploads/2026/04/Software-Maintenance-Support-header2.jpg",
+          "/images/migrated/homenest-software/wp-content/uploads/2026/04/Software-Maintenance-Support-header3.jpg"
+        ]
+      }
+    },
+    "features": {
+      "headlineLight": "专业的系统运维解决方案",
+      "headlineDark": "",
+      "description": "开展技术活动，确保网站、移动应用程序和人工智能系统始终以最佳性能运行，保护数据并保持软件系统运行在最佳状态。",
+      "ctaLabel": "讨论项目",
+      "ctaHref": "/lien-he",
+      "items": [
+        {
+          "title": "故障排除和错误处理",
+          "desc": "监控并立即处理网站和应用程序上的技术问题，确保客户体验之旅永不中断。",
+          "image": "/images/migrated/homenest-software/wp-content/uploads/2026/03/Corrective-Maintenance-Bug-Resolution.jpg"
+        },
+        {
+          "title": "定期安全维护",
+          "desc": "定期更新安全补丁和SSL证书。主动阻止未经授权的入侵，绝对保护业务数据和客户信息。",
+          "image": "/images/migrated/homenest-software/wp-content/uploads/2026/03/Proactive-Security-System-Monitoring.jpg"
+        },
+        {
+          "title": "优化系统性能",
+          "desc": "调整代码结构和数据库，使网站加载速度更快，应用程序响应更流畅，有助于降低跳出率。",
+          "image": "/images/migrated/homenest-software/wp-content/uploads/2026/03/Performance-Optimization.jpg"
+        },
+        {
+          "title": "24/7 监控活动",
+          "desc": "使用技术 24/7 自动监控服务器基础设施和应用程序。在客户注意到之前检测并处理风险。",
+          "image": "/images/migrated/homenest-software/wp-content/uploads/2026/03/Feature-Enhancements.jpg"
+        },
+        {
+          "title": "技术兼容性更新",
+          "desc": "确保网站和应用程序始终在最新的浏览器、IOS 和 Android 版本上正常运行。彻底消除因技术过时而导致的显示错误。",
+          "image": "/images/migrated/homenest-software/wp-content/uploads/2026/03/Expert-Support-Consulting.jpg"
+        }
+      ]
+    },
+    "howWeWork": {
+      "label": "项目实施流程？",
+      "ctaLabel": "让我们一起构建您的产品",
+      "ctaHref": "/lien-he",
+      "steps": [
+        {
+          "num": "01",
+          "badge": "接待处",
+          "title": "调查评估",
+          "desc": "全面检查网站/应用程序源代码和当前服务器配置，以找出需要立即修复的“弱点”。"
+        },
+        {
+          "num": "02",
+          "badge": "解决方案",
+          "title": "设置自动监控",
+          "desc": "安装智能警告工具可帮助 Winterfrost 的技术团队比您的用户更快收到事件报告。"
+        },
+        {
+          "num": "03",
+          "badge": "维护保养",
+          "title": "定期和最佳维护",
+          "desc": "每月更新、修补和优化源代码，使系统运行更快、更安全。"
+        },
+        {
+          "num": "04",
+          "badge": "支持",
+          "title": "优先技术支持",
+          "desc": "接收并处理来自企业的更改或编辑功能的请求，并提供明确的响应时间承诺 (SLA)。"
+        }
+      ]
+    },
+    "benefits": {
+      "label": "为什么选择Winterfrost操作系统？",
+      "headlineLight": "管理能力和",
+      "headlineDark": "确保系统运行。",
+      "items": [
+        {
+          "num": "1",
+          "title": "主动系统监控",
+          "desc": "应用自动监控工具来检测过载或技术错误的早期迹象。我们在潜在风险造成中断之前将其解决。"
+        },
+        {
+          "num": "2",
+          "title": "多层安全标准",
+          "desc": "定期进行安全修复和系统漏洞检查。此过程可确保业务数据始终受到保护，免受新威胁。"
+        },
+        {
+          "num": "3",
+          "title": "深度技术团队",
+          "desc": "具有多种编程语言和系统架构知识的专家将参与直接支持。这有助于缩短诊断和修复复杂错误的时间。"
+        },
+        {
+          "num": "4",
+          "title": "优化运营成本",
+          "desc": "维护服务有助于系统稳定运行，与维护庞大的内部技术团队相比，最大限度地减少停机造成的经济损失并节省成本。"
+        },
+        {
+          "num": "5",
+          "title": "响应时间承诺",
+          "desc": "做出按时接收和处理支持请求的具体承诺。我们确保严重事件在最短的时间内得到优先处理。"
+        },
+        {
+          "num": "6",
+          "title": "保持技术兼容性",
+          "desc": "更新和调整源代码，使软件始终兼容最新的浏览器版本、操作系统和硬件，避免技术过时。"
+        },
+        {
+          "num": "7",
+          "title": "透明的错误处理流程",
+          "desc": "所有支持请求都记录在管理系统中，使企业可以轻松跟踪每个项目的处理进度和维护历史记录。"
+        },
+        {
+          "num": "8",
+          "title": "详细的定期报告",
+          "desc": "每月提供系统运行情况、服务器性能、实施项目等报告，帮助企业全面了解技术基础设施。"
+        },
+        {
+          "num": "9",
+          "title": "支持灵活的功能扩展",
+          "desc": "除了维护服务外，我们还愿意提供建议并进行小型功能升级，以及时响应客户业务流程的变化。"
+        }
+      ]
+    },
+    "ctaBanner": {
+      "badge": "立即联系！",
+      "headline": "确保软件系统始终稳定运行",
+      "description": "Winterfrost 提供持续监控、更新和故障排除服务。我们帮助您的系统在整个业务流程中始终安全、准确、不间断地运行。",
+      "ctaLabel": "获取维护建议",
+      "ctaHref": "/lien-he",
+      "image": "/images/people/cta/winterfrost/quan-ly-nam.png"
+    },
+    "counter": {
+      "badgeText": "我们的成就",
+      "items": [
+        {
+          "index": "/01",
+          "value": "10+",
+          "desc": "多年经验"
+        },
+        {
+          "index": "/02",
+          "value": "250+",
+          "desc": "客户"
+        },
+        {
+          "index": "/03",
+          "value": "15+",
+          "desc": "服务国家/地区"
+        },
+        {
+          "index": "/04",
+          "value": "98%",
+          "desc": "客户满意度"
+        }
+      ]
+    },
+    "industries": {
+      "label": "特色领域",
+      "headlineLight": "保持稳定",
+      "headlineDark": "针对核心产业",
+      "items": [
+        {
+          "slug": "thuong-mai-dien-tu",
+          "title": "电子商务",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/eComerce-Industries-Icon.png"
+        },
+        {
+          "slug": "cong-nghe-tai-chinh",
+          "title": "金融科技",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Fintech-Industries-Icon.png"
+        },
+        {
+          "slug": "y-te",
+          "title": "医疗",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Healthcare-Industries-Icon.png"
+        },
+        {
+          "slug": "tai-chinh-doanh-nghiep",
+          "title": "企业融资",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Expert-Financial-Industries-Icon.png"
+        },
+        {
+          "slug": "phan-mem-doanh-nghiep",
+          "title": "企业软件",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Business-Industries-Icon.png"
+        },
+        {
+          "slug": "ban-le",
+          "title": "零售",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Retail-Industries-Icon.png"
+        },
+        {
+          "slug": "bat-dong-san",
+          "title": "房地产",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Real-Estate-Industries-Icon.png"
+        },
+        {
+          "slug": "van-tai-va-logistics",
+          "title": "运输与物流",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Logistics-Industries-Icon.png"
+        },
+        {
+          "slug": "giao-duc",
+          "title": "教育",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Education-Industries-Icon.png"
+        }
+      ]
+    },
+    "price": {
+      "label": "",
+      "headlineLight": "运维包",
+      "headlineDark": "在 Winterfrost",
+      "description": "以最佳成本保持网站、移动应用程序和软件的最佳性能和绝对安全。 Winterfrost致力于深度运营，消除所有技术风险并24/7快速响应。",
+      "packages": [
+        {
+          "name": "Giải pháp tùy chỉnh",
+          "price": "根据实际需要灵活调整",
+          "currency": "",
+          "period": "",
+          "description": "确保网站和应用程序始终稳定、快速和安全。 Winterfrost有责任优化每一行代码，使您的系统随时准备好为大量用户服务。",
+          "features": [
+            "持续的性能优化。",
+            "定期扫描错误，防止数据泄露。",
+            "备份并提供即时数据恢复计划。",
+            "24/7 智能监控系统。",
+            "支持根据需要升级和添加功能。",
+            "突发事件2小时内响应。"
+          ],
+          "ctaLabel": "开始使用",
+          "ctaHref": "/lien-he",
+          "highlight": true,
+          "labelText": "专业套餐"
+        }
+      ]
+    },
+    "techStack": {
+      "headlineLight": "运营技术",
+      "headlineDark": "在 Winterfrost",
+      "filters": [
+        "全部",
+        "接口",
+        "系统",
+        "数据库",
+        "操作",
+        "管理"
+      ],
+      "items": [
+        {
+          "name": "React / Next.js",
+          "category": ""
+        },
+        {
+          "name": "Angular",
+          "category": ""
+        },
+        {
+          "name": "Vue.js",
+          "category": ""
+        },
+        {
+          "name": "Figma",
+          "category": ""
+        },
+        {
+          "name": "Adobe XD",
+          "category": ""
+        },
+        {
+          "name": "Sketch",
+          "category": ""
+        },
+        {
+          "name": "Node.js",
+          "category": ""
+        },
+        {
+          "name": "Laravel",
+          "category": ""
+        },
+        {
+          "name": "WordPress / PHP",
+          "category": ""
+        },
+        {
+          "name": ".NET / ASP.NET",
+          "category": ""
+        },
+        {
+          "name": "MySQL",
+          "category": ""
+        },
+        {
+          "name": "PostgreSQL",
+          "category": ""
+        },
+        {
+          "name": "MongoDB",
+          "category": ""
+        },
+        {
+          "name": "Redis",
+          "category": ""
+        },
+        {
+          "name": "Docker",
+          "category": ""
+        },
+        {
+          "name": "GitHub",
+          "category": ""
+        },
+        {
+          "name": "GitLab",
+          "category": ""
+        },
+        {
+          "name": "Bitbucket",
+          "category": ""
+        },
+        {
+          "name": "GitHub Actions",
+          "category": ""
+        },
+        {
+          "name": "CI/CD",
+          "category": ""
+        },
+        {
+          "name": "AWS",
+          "category": ""
+        },
+        {
+          "name": "Deploy Server",
+          "category": ""
+        },
+        {
+          "name": "Jira",
+          "category": ""
+        }
+      ]
+    },
+    "comprehensiveServices": {
+      "headlineLight": "配套解决方案",
+      "headlineDark": "随着系统的发展",
+      "items": [
+        {
+          "slug": "phat-trien-phan-mem-doanh-nghiep",
+          "title": "企业软件开发",
+          "desc": "通过深入的管理和高级安全解决方案实现业务运营现代化。我们构建定制的 ERP 和 CRM 系统，帮助同步全面数据并优化大型企业的运营流程。",
+          "image": "/images/services/winterfrost/enterprise-software-development.webp",
+          "href": "/dich-vu/phat-trien-phan-mem-doanh-nghiep"
+        },
+        {
+          "slug": "phat-trien-devops",
+          "title": "DevOps 开发服务",
+          "desc": "当业务规模发生变化时，构建额外的功能模块或重新设计架构。我们确保从维护到新开发的无缝过渡。",
+          "image": "/images/services/winterfrost/devops-development.webp",
+          "href": "/dich-vu/phat-trien-devops"
+        },
+        {
+          "slug": "phat-trien-ai",
+          "title": "人工智能开发",
+          "desc": "通过集成单独的人工智能模型来增强现有系统。从流程自动化到预测数据分析，我们帮助企业基于可用数据获得绝对的竞争优势。",
+          "image": "/images/services/winterfrost/ai-development.webp",
+          "href": "/dich-vu/phat-trien-ai"
+        }
+      ]
+    },
+    "faq": {
+      "label": "常见问题",
+      "headlineParts": [
+        "答案",
+        "每个",
+        "奇迹"
+      ],
+      "description": "有关系统接管流程、响应时间承诺以及我们如何保护您的软件免受技术问题影响的一系列问题。",
+      "items": [
+        {
+          "q": "Winterfrost 是否接受其他单位开发的软件的维护？",
+          "a": "是的。我们将进行技术调查来评估您当前的代码和基础设施。了解结构后，Winterfrost 将提出接管和优化路线图建议，以确保系统最稳定的运行。"
+        },
+        {
+          "q": "晚上系统出现紧急情况怎么办？",
+          "a": "根据您选择的服务套餐，我们有值班技术团队或 24/7 自动警报系统。对于严重事件，Winterfrost 承诺立即开始处理，以尽量减少对业务的损害。"
+        },
+        {
+          "q": "为什么我应该购买定期维护包而不是在某个地方进行修复？",
+          "a": "定期维护有助于企业防范风险。我们的流程可以帮助您及早发现安全漏洞和性能瓶颈，从而帮助您节省成本并维护用户声誉，而不是等待系统崩溃并失去客户才去寻找维修人员。"
+        },
+        {
+          "q": "维护包是否包括新功能的开发？",
+          "a": "维护包主要侧重于保持系统稳定和安全。但是，我们仍然支持较小的界面或功能升级。对于较大的开发需求，Winterfrost将单独提出建议，以确保当前的运营结构不受影响。"
+        },
+        {
+          "q": "Winterfrost 接管后我的数据安全吗？",
+          "a": "绝对安全。我们建立信息安全承诺并使用严格的数据加密层。技术人员在系统上的每个操作都会被记录，以便您可以完全控制访问。"
+        },
+        {
+          "q": "我将如何收到工作报告？",
+          "a": "每个月或每个季度，Winterfrost 都会发送有关系统状态的详细报告，包括：已解决的错误数量、安全状态、服务器性能和优化建议。您将始终了解维护预算的使用效率。"
+        }
+      ]
+    }
+  },
+  "phat-trien-phan-mem-doanh-nghiep": {
+    "slug": "phat-trien-phan-mem-doanh-nghiep",
+    "metaTitle": "企业软件开发服务-Winterfrost",
+    "hero": {
+      "titleDark": "商业",
+      "titleLight": "软件开发",
+      "lightFirst": true,
+      "description": "使用高可用性软件解决方案优化复杂的操作流程。我们构建绝对稳定的数字平台、一致的数据和严格的安全性，准备突破用户规模的所有限制。",
+      "bgImage": "",
+      "dashboardImage": "",
+      "carousel": {
+        "arcText": "可扩展 ✦ 安全 ✦ 高性能 ✦",
+        "images": [
+          "/images/migrated/homenest-software/wp-content/uploads/2026/04/Enterprise-Software-Data-banner.jpg",
+          "/images/migrated/homenest-software/wp-content/uploads/2026/04/Enterprise-Software-dashboard-banner.jpg",
+          "/images/migrated/homenest-software/wp-content/uploads/2026/04/Enterprise-Software-process-banner.jpg"
+        ]
+      }
+    },
+    "features": {
+      "headlineLight": "随行企业",
+      "headlineDark": "解决运营问题",
+      "description": "我们专注于解决复杂的管理问题，构建坚实的技术基础，帮助企业在运营的各个阶段实现流程数字化转型、数据同步并保持性能稳定。",
+      "ctaLabel": "为您的项目提供咨询",
+      "ctaHref": "/lien-he",
+      "items": [
+        {
+          "title": "全面的系统集成",
+          "desc": "将 ERP、CRM 和数字平台统一到统一的数据生态系统中。完全消除手工数据输入，确保部门之间信息的顺畅流动。",
+          "image": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Custom-Enterprise-Software.jpg"
+        },
+        {
+          "title": "对旧系统进行现代化改造",
+          "desc": "将过时的软件升级到新技术平台，而不会中断业务。提高处理速度、加强安全性并优化基础设施运营成本。",
+          "image": "/images/migrated/homenest-software/wp-content/uploads/2026/04/System-Integration-Services-1.jpg"
+        },
+        {
+          "title": "智慧企业管理",
+          "desc": "根据组织的具体流程设计专门的ERP、CRM、HRM系统。构建灵活的管理平台，准备突破各种规模的企业。",
+          "image": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Legacy-System-Modernization.jpg"
+        },
+        {
+          "title": "利用 AI 实现流程自动化",
+          "desc": "应用人工智能代理来自动执行复杂的操作和重复性任务。有助于缩短 70% 的流程处理时间并最大限度地利用人力资源。",
+          "image": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Enterprise-Web-Platforms.jpg"
+        },
+        {
+          "title": "预测分析",
+          "desc": "通过人工智能预测分析将原始数据转化为战略资产。提供实时可视化报告，支持管理层24/7做出准确决策。",
+          "image": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Ongoing-Enterprise-Maintenance-Support.jpg"
+        }
+      ]
+    },
+    "howWeWork": {
+      "label": "项目实施流程",
+      "ctaLabel": "今天开始你的项目",
+      "ctaHref": "/lien-he",
+      "steps": [
+        {
+          "num": "01",
+          "badge": "调查",
+          "title": "咨询分析",
+          "desc": "我们将与您的团队坐下来更好地了解您的工作流程、当前问题和未来目标。在此基础上，Winterfrost 将提出最优化的软件设计解决方案来准确解决您的业务问题。"
+        },
+        {
+          "num": "02",
+          "badge": "设计",
+          "title": "规划设计",
+          "desc": "工程团队将规划数据流、接口和系统的详细信息。我们将分阶段规划您的实施，使您可以轻松地从一开始就跟踪进度和资源。"
+        },
+        {
+          "num": "03",
+          "badge": "发展",
+          "title": "编程和集成",
+          "desc": "我们将按照现代技术标准进行编程。 Winterfrost 将新软件与 ERP 和 CRM 等现有工具连接起来，为企业创建统一的数据系统。"
+        },
+        {
+          "num": "04",
+          "badge": "测试",
+          "title": "检查",
+          "desc": "该系统将经过彻底的安全性和性能测试。我们将与您的团队合作，使用真实数据进行测试，确保所有功能与实际工作流程保持一致。"
+        },
+        {
+          "num": "05",
+          "badge": "操作",
+          "title": "部署和移交",
+          "desc": "Winterfrost将支持系统安装并为员工组织技术培训。移交源代码和文档后，我们将继续支持您操作并解决前期出现的问题。"
+        }
+      ]
+    },
+    "benefits": {
+      "label": "为什么企业选择Winterfrost？",
+      "headlineLight": "深度技术对接",
+      "headlineDark": "具有实用的管理思维",
+      "items": [
+        {
+          "num": "1",
+          "title": "了解实际操作",
+          "desc": "在开始之前，我们会花时间彻底了解您的业务运作方式。 Winterfrost 相信软件只有在正确解决与用户流程和数据相关的问题时才真正有意义。"
+        },
+        {
+          "num": "2",
+          "title": "没有打扰",
+          "desc": "我们拥有精心将旧系统升级为现代技术平台的经验。这有助于企业获得更强大的工具，而不会中断日常运营。"
+        },
+        {
+          "num": "3",
+          "title": "绝对稳定优先",
+          "desc": "在企业环境中，系统不活动的每一分钟都可能造成严重损害。我们设计高可用的架构，确保软件在高峰时段持续稳定运行。"
+        },
+        {
+          "num": "4",
+          "title": "全系统数据统一",
+          "desc": "Winterfrost 帮助您克服部门之间的数据不一致问题。所有信息互联、同步，帮助董事会准确、及时了解公司情况。"
+        },
+        {
+          "num": "5",
+          "title": "企业级安全",
+          "desc": "我们以最安全的标准保护您的数字资产，从数据加密到按角色划分的详细访问权限。每一层安全措施都已到位，以防止外部和内部威胁。"
+        },
+        {
+          "num": "6",
+          "title": "灵活的扩展能力",
+          "desc": "我们的软件旨在与您的业务一起成长。您可以轻松添加新功能或增加用户数量，而无需更改系统的主要结构。"
+        },
+        {
+          "num": "7",
+          "title": "透明的工作流程",
+          "desc": "您将始终了解项目实施的进度。我们保持持续沟通，报告实际进展，并随时准备定制解决方案，以最好地满足您的需求。"
+        },
+        {
+          "num": "8",
+          "title": "致力于长期陪伴",
+          "desc": "Winterfrost 不只是交出并离开。我们致力于技术支持、定期维护和升级咨询，使软件始终成为组织长期发展的坚实基础。"
+        },
+        {
+          "num": "9",
+          "title": "负责任的工程团队",
+          "desc": "您将与精通技术并致力于产品的真人一起工作。我们不仅解决技术问题，还在整个数字化转型过程中分担您的担忧。"
+        }
+      ]
+    },
+    "ctaBanner": {
+      "badge": "立即联系！",
+      "headline": "立即标准化业务操作流程！",
+      "description": "准备将手动流程和碎片数据转换为集中管理系统。让Winterfrost帮助您构建定制的ERP/CRM平台，确保绝对的数据同步和永久的源代码所有权。",
+      "ctaLabel": "立即收到解决方案建议",
+      "ctaHref": "/lien-he",
+      "image": "/images/people/cta/winterfrost/chuyen-vien-nam-tre.png"
+    },
+    "counter": {
+      "badgeText": "我们的成就",
+      "items": [
+        {
+          "index": "/01",
+          "value": "10+",
+          "desc": "多年经验"
+        },
+        {
+          "index": "/02",
+          "value": "250+",
+          "desc": "客户"
+        },
+        {
+          "index": "/03",
+          "value": "15+",
+          "desc": "服务国家/地区"
+        },
+        {
+          "index": "/04",
+          "value": "98%",
+          "desc": "客户满意度"
+        }
+      ]
+    },
+    "industries": {
+      "label": "特色领域",
+      "headlineLight": "Winterfrost 字段",
+      "headlineDark": "实施软件解决方案",
+      "items": [
+        {
+          "slug": "thuong-mai-dien-tu",
+          "title": "电子商务",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/eComerce-Industries-Icon.png"
+        },
+        {
+          "slug": "cong-nghe-tai-chinh",
+          "title": "金融科技",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Fintech-Industries-Icon.png"
+        },
+        {
+          "slug": "y-te",
+          "title": "医疗",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Healthcare-Industries-Icon.png"
+        },
+        {
+          "slug": "tai-chinh-doanh-nghiep",
+          "title": "企业融资",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Expert-Financial-Industries-Icon.png"
+        },
+        {
+          "slug": "phan-mem-doanh-nghiep",
+          "title": "企业软件",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Business-Industries-Icon.png"
+        },
+        {
+          "slug": "ban-le",
+          "title": "零售",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Retail-Industries-Icon.png"
+        },
+        {
+          "slug": "bat-dong-san",
+          "title": "房地产",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Real-Estate-Industries-Icon.png"
+        },
+        {
+          "slug": "van-tai-va-logistics",
+          "title": "运输与物流",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Logistics-Industries-Icon.png"
+        },
+        {
+          "slug": "giao-duc",
+          "title": "教育",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Education-Industries-Icon.png"
+        }
+      ]
+    },
+    "price": {
+      "label": "",
+      "headlineLight": "开发成本",
+      "headlineDark": "企业软件",
+      "description": "Winterfrost 根据工作范围和固定交付时间表进行部署，不产生按小时收费。每个服务包均包含 NDA、私人项目管理、完整的技术文档和 100% 源代码所有权。",
+      "packages": [
+        {
+          "name": "Gói Cơ Bản",
+          "price": "60.000.000",
+          "currency": "越南盾",
+          "period": "/ 项目",
+          "description": "快速开发核心模块，形成稳定的可行产品（MVP），帮助验证真实的业务流程。",
+          "features": [
+            "构建系统主要业务模块。",
+            "整体形式的后端架构。",
+            "设置标准的用户管理和授权。",
+            "集成基本API连接端口。",
+            "配置基本的云计算基础设施。"
+          ],
+          "ctaLabel": "开始使用",
+          "ctaHref": "/lien-he",
+          "highlight": false,
+          "labelText": "基本套餐"
+        },
+        {
+          "name": "Giải pháp tùy chỉnh",
+          "price": "根据实际需求灵活调整",
+          "currency": "",
+          "period": "",
+          "description": "构建独立的软件平台，专注于自动化复杂的业务运营流程。",
+          "features": [
+            "自动化高级工作流程。",
+            "根据数据特点设计自己的数据库和后端架构。",
+            "与复杂的第三方系统集成。",
+            "平台间数据实时同步。",
+            "构建报告系统和分析仪表板。",
+            "安全审核和技术标准合规性。",
+            "项目的专业技术支持团队。"
+          ],
+          "ctaLabel": "开始使用",
+          "ctaHref": "/lien-he",
+          "highlight": true,
+          "labelText": "专业套餐"
+        },
+        {
+          "name": "Gói Nâng Cao",
+          "price": "120.000.000",
+          "currency": "越南盾",
+          "period": "/ 项目",
+          "description": "通过将 Winterfrost 的高级工程团队直接集成到您的工作流程中来增强您企业的技术能力。",
+          "features": [
+            "资深IT工程师团队直接部署。",
+            "双方工作和直接交流机制。",
+            "按照敏捷方法定期交付产品。",
+            "能够根据日程灵活改变人员规模。",
+            "完全拥有源代码和知识产权。",
+            "对所使用的每个技术平台的绝对控制。"
+          ],
+          "ctaLabel": "开始使用",
+          "ctaHref": "/lien-he",
+          "highlight": false,
+          "labelText": "高级套餐"
+        }
+      ]
+    },
+    "techStack": {
+      "headlineLight": "技术",
+      "headlineDark": "企业软件开发",
+      "filters": [
+        "全部",
+        "接口",
+        "系统",
+        "数据库",
+        "操作",
+        "管理"
+      ],
+      "items": [
+        {
+          "name": "React / Next.js",
+          "category": ""
+        },
+        {
+          "name": "Angular",
+          "category": ""
+        },
+        {
+          "name": "Vue.js",
+          "category": ""
+        },
+        {
+          "name": "Figma",
+          "category": ""
+        },
+        {
+          "name": "Adobe XD",
+          "category": ""
+        },
+        {
+          "name": "Sketch",
+          "category": ""
+        },
+        {
+          "name": "Node.js",
+          "category": ""
+        },
+        {
+          "name": "Laravel",
+          "category": ""
+        },
+        {
+          "name": "WordPress / PHP",
+          "category": ""
+        },
+        {
+          "name": ".NET / ASP.NET",
+          "category": ""
+        },
+        {
+          "name": "MySQL",
+          "category": ""
+        },
+        {
+          "name": "PostgreSQL",
+          "category": ""
+        },
+        {
+          "name": "MongoDB",
+          "category": ""
+        },
+        {
+          "name": "Redis",
+          "category": ""
+        },
+        {
+          "name": "Docker",
+          "category": ""
+        },
+        {
+          "name": "GitHub",
+          "category": ""
+        },
+        {
+          "name": "GitLab",
+          "category": ""
+        },
+        {
+          "name": "Bitbucket",
+          "category": ""
+        },
+        {
+          "name": "GitHub Actions",
+          "category": ""
+        },
+        {
+          "name": "CI/CD",
+          "category": ""
+        },
+        {
+          "name": "AWS",
+          "category": ""
+        },
+        {
+          "name": "Deploy Server",
+          "category": ""
+        },
+        {
+          "name": "Jira",
+          "category": ""
+        }
+      ]
+    },
+    "comprehensiveServices": {
+      "headlineLight": "技术平台",
+      "headlineDark": "和执行工具",
+      "items": [
+        {
+          "slug": "phat-trien-ai",
+          "title": "人工智能开发",
+          "desc": "对机器学习算法进行编程来处理大数据，帮助实现信息分类自动化并为业务运营提供准确的预测。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Dich-vu-phat-trien-AI-HomeNest-Viet-Nam.jpg",
+          "href": "/dich-vu/phat-trien-ai"
+        },
+        {
+          "slug": "phat-trien-devops",
+          "title": "DevOps 开发服务",
+          "desc": "建立一个系统，在云平台上自动进行软件更新和服务器管理。当用户数量增加时，此服务可以帮助您的系统轻松扩展，同时仍然控制基础设施成本。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Dich-vu-phat-trien-DevOps-HomeNest-Viet-Nam.jpg",
+          "href": "/dich-vu/phat-trien-devops"
+        },
+        {
+          "slug": "van-hanh-va-bao-tri",
+          "title": "运维服务",
+          "desc": "提供24/7系统监控团队，更新安全补丁并定期检查兼容性。我们致力于共同努力，及时处理技术问题，保持软件持续安全运行。",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Dich-vu-van-hanh-va-bao-tri-HomeNest-Viet-Nam.jpg",
+          "href": "/dich-vu/van-hanh-va-bao-tri"
+        }
+      ]
+    },
+    "faq": {
+      "label": "常见问题",
+      "headlineParts": [
+        "答案",
+        "每个",
+        "奇迹"
+      ],
+      "description": "关于我们如何处理遗留系统、我们对源代码所有权的承诺以及我们的业务数据集成方法的一系列问题。",
+      "items": [
+        {
+          "q": "Winterfrost 可以在旧版软件系统上工作吗？",
+          "a": "是的。我们评估企业当前的源代码结构和基础设施，以提供升级或编写其他集成模块的路线图。目标是在不中断正在进行的操作流程的情况下提高系统性能。"
+        },
+        {
+          "q": "项目结束后企业是否完全拥有源代码？",
+          "a": "项目移交落户后，企业将立即拥有100%的源代码和知识产权。 Winterfrost 提供完整的技术文档，以便您的团队能够主动管理或进一步开发。"
+        },
+        {
+          "q": "新软件如何与现有的 ERP 和 CRM 工具连接？",
+          "a": "我们使用 API 网关或构建中间数据集成层。技术人员将检查现有平台的数据结构，以确保系统之间的信息准确、自动同步。"
+        },
+        {
+          "q": "项目成本的计算依据是什么？",
+          "a": "成本根据工作范围和具体交付里程碑确定。我们不收取小时费用，帮助企业轻松控制预算，确保项目按承诺完成进度。"
+        },
+        {
+          "q": "Winterfrost 如何保护项目信息？",
+          "a": "我们从最初的讨论阶段就签署了保密协议。在部署过程中，源代码在安全服务器上进行管理，并对实验数据进行加密，以防止任何未经授权的访问。"
+        },
+        {
+          "q": "移交后，我可以获得技术支持吗？",
+          "a": "是的。 Winterfrost在项目投入实际运营后提供维护和运营支持包。我们负责处理出现的错误，定期更新安全性，并在业务规模发生变化时咨询升级选项。"
+        }
+      ]
+    }
+  },
+  "phat-trien-phan-mem-mvp": {
+    "slug": "phat-trien-phan-mem-mvp",
+    "metaTitle": "MVP 软件开发服务 - Winterfrost",
+    "hero": {
+      "titleDark": "MVP 软件",
+      "titleLight": "发展",
+      "lightFirst": true,
+      "description": "缩短产品上市时间，快速触达真实客户。我们支持您选择和实现最重要的功能，帮助您测试您的业务想法并以合理的投资建立坚实的技术基础。",
+      "bgImage": "",
+      "dashboardImage": "",
+      "carousel": {
+        "arcText": "成本优化 ✦ 易于扩展 ✦ 快速启动 ✦",
+        "images": [
+          "/images/migrated/homenest-software/wp-content/uploads/2026/03/Analytics-Dashboard.jpg",
+          "/images/migrated/homenest-software/wp-content/uploads/2026/03/Custom-MVP-Development-Service.jpg",
+          "/images/migrated/homenest-software/wp-content/uploads/2026/03/Custom-MVP-Solution.jpg"
+        ]
+      }
+    },
+    "features": {
+      "headlineLight": "战略杠杆",
+      "headlineDark": "市场突破",
+      "description": "通过简化的流程将想法转化为实际产品。 MVP 不仅可以帮助您快速启动，而且还是准备数据以便为 AI 技术的未来突破做好准备的完美步骤。",
+      "ctaLabel": "讨论您的项目",
+      "ctaHref": "/lien-he",
+      "items": [
+        {
+          "title": "优化启动时间",
+          "desc": "专注于完善核心功能组，在短短4-8周内将产品推向用户，以最快的速度抓住市场机会。",
+          "image": "/images/migrated/homenest-software/wp-content/uploads/2026/03/MVP-Development-Consulting.jpg"
+        },
+        {
+          "title": "用真实数据验证想法",
+          "desc": "您无需做出假设，而是从客户那里获得直接反馈，以便根据实际使用行为调整您的业务模型。",
+          "image": "/images/migrated/homenest-software/wp-content/uploads/2026/03/Custom-MVP-Software.jpg"
+        },
+        {
+          "title": "节省投资预算",
+          "desc": "通过消除不必要的功能，将资本集中在能带来最高效率的价值上，最大限度地降低财务风险。",
+          "image": "/images/migrated/homenest-software/wp-content/uploads/2026/03/MVP-App-Development.jpg"
+        },
+        {
+          "title": "人工智能和数据就绪平台",
+          "desc": "从一开始就建立标准化的数据结构，为扩展阶段集成智能和人工智能功能奠定基础。",
+          "image": "/images/migrated/homenest-software/wp-content/uploads/2026/03/MVP-Web-App-Development.jpg"
+        },
+        {
+          "title": "灵活改变规模",
+          "desc": "源代码采用模块化形式设计，可以轻松升级、添加新功能或更改方向，而无需从头开始重建。",
+          "image": "/images/migrated/homenest-software/wp-content/uploads/2026/03/Testing-Quality-Assurance.jpg"
+        }
+      ]
+    },
+    "howWeWork": {
+      "label": "Winterfrost 的 MVP 软件创建过程",
+      "ctaLabel": "立即联系咨询",
+      "ctaHref": "/lien-he",
+      "steps": [
+        {
+          "num": "01",
+          "badge": "分析",
+          "title": "确定基本特征",
+          "desc": "调查业务需求，选择系统运行所需的核心功能。这有助于将资源集中在产品的主要目标上并控制初始投资预算。"
+        },
+        {
+          "num": "02",
+          "badge": "解决方案",
+          "title": "设计业务流程和界面",
+          "desc": "构建数据结构、用户流程图和界面。重点优化关键功能操作，让用户无需复杂培训即可立即使用系统。"
+        },
+        {
+          "num": "03",
+          "badge": "执行",
+          "title": "编程和系统集成",
+          "desc": "按照敏捷模型部署源码编写，分阶段交接各个部分。根据技术要求，集成处理数据和计算所需的AI模块或数据连接端口。"
+        },
+        {
+          "num": "04",
+          "badge": "控制",
+          "title": "测试并发布产品",
+          "desc": "对真实数据进行软件测试，消除操作错误。完成将产品推向互联网环境或App Store和Google Play应用商店的技术程序。"
+        },
+        {
+          "num": "05",
+          "badge": "最优",
+          "title": "收集数据并规划扩展",
+          "desc": "安装性能测量工具并跟踪用户行为。根据技术指标和实际反馈，我们对下一个升级版本需要完善或增加的功能提出建议。"
+        }
+      ]
+    },
+    "benefits": {
+      "label": "为什么应该从 Winterfrost 开始 MVP 版本？",
+      "headlineLight": "以最快的速度将创意推向市场",
+      "headlineDark": "以最优成本",
+      "items": [
+        {
+          "num": "1",
+          "title": "快速上市",
+          "desc": "在最短的时间内完成核心功能，帮助企业尽早收到反馈，抓住市场先机。"
+        },
+        {
+          "num": "2",
+          "title": "实用功能咨询",
+          "desc": "将 100% 的资源分类并集中在关键业务价值上，消除不必要功能上的浪费。"
+        },
+        {
+          "num": "3",
+          "title": "可扩展架构",
+          "desc": "在灵活的技术平台上开发，允许功能升级和用户扩展，而无需从头开始重建。"
+        },
+        {
+          "num": "4",
+          "title": "优化投资资本",
+          "desc": "专注于精益版本，以将初始成本降至最低，将资源投入营销活动和寻找业务客户。"
+        },
+        {
+          "num": "5",
+          "title": "100%拥有源代码",
+          "desc": "从第一个版本起就移交完整的知识产权和源代码权利。企业经营发展完全积极主动。"
+        },
+        {
+          "num": "6",
+          "title": "实时敏捷流程",
+          "desc": "消除中间程序，直接与技术团队合作，确保项目步入正轨并按承诺完成。"
+        },
+        {
+          "num": "7",
+          "title": "衡量用户行为",
+          "desc": "整合实用的数据分析工具，精准判断用户需求，作为产品升级决策的依据。"
+        },
+        {
+          "num": "8",
+          "title": "致力于稳定",
+          "desc": "严格的测试可确保产品顺利运行，即使是第一批实际用户也不会出现中断。"
+        },
+        {
+          "num": "9",
+          "title": "增长路线图咨询",
+          "desc": "不仅仅是交接，Winterfrost根据项目实际发展情况，持续提供技术支持和升级策略咨询。"
+        }
+      ]
+    },
+    "ctaBanner": {
+      "badge": "立即联系！",
+      "headline": "开发 MVP 产品以快速推向市场",
+      "description": "Winterfrost 帮助企业以最优化的成本构建核心软件版本。我们专注于最重要的功能，以便企业可以测试想法并立即从用户那里获得真实的反馈。",
+      "ctaLabel": "启动 MVP 项目",
+      "ctaHref": "/lien-he",
+      "image": "/images/people/cta/winterfrost/chuyen-vien-nu.png"
+    },
+    "counter": {
+      "badgeText": "我们的成就",
+      "items": [
+        {
+          "index": "/01",
+          "value": "10+",
+          "desc": "多年经验"
+        },
+        {
+          "index": "/02",
+          "value": "250+",
+          "desc": "客户"
+        },
+        {
+          "index": "/03",
+          "value": "15+",
+          "desc": "服务国家/地区"
+        },
+        {
+          "index": "/04",
+          "value": "98%",
+          "desc": "客户满意度"
+        }
+      ]
+    },
+    "industries": {
+      "label": "服务领域",
+      "headlineLight": "Winterfrost 字段",
+      "headlineDark": "专注于实现 MVP 版本",
+      "items": [
+        {
+          "slug": "thuong-mai-dien-tu",
+          "title": "电子商务",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/eComerce-Industries-Icon.png"
+        },
+        {
+          "slug": "cong-nghe-tai-chinh",
+          "title": "金融科技",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Fintech-Industries-Icon.png"
+        },
+        {
+          "slug": "y-te",
+          "title": "医疗",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Healthcare-Industries-Icon.png"
+        },
+        {
+          "slug": "tai-chinh-doanh-nghiep",
+          "title": "企业融资",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Expert-Financial-Industries-Icon.png"
+        },
+        {
+          "slug": "phan-mem-doanh-nghiep",
+          "title": "企业软件",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Business-Industries-Icon.png"
+        },
+        {
+          "slug": "ban-le",
+          "title": "零售",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Retail-Industries-Icon.png"
+        },
+        {
+          "slug": "bat-dong-san",
+          "title": "房地产",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Real-Estate-Industries-Icon.png"
+        },
+        {
+          "slug": "van-tai-va-logistics",
+          "title": "运输与物流",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Logistics-Industries-Icon.png"
+        },
+        {
+          "slug": "giao-duc",
+          "title": "教育",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Education-Industries-Icon.png"
+        }
+      ]
+    },
+    "price": {
+      "label": "",
+      "headlineLight": "开发成本",
+      "headlineDark": "MVP 软件",
+      "description": "Winterfrost 根据特定功能和路线图进行报价。您从一开始就知道结果、时间表和预算。承诺不按小时收费，不产生超出约定范围的费用。",
+      "packages": [
+        {
+          "name": "Gói Cơ Bản",
+          "price": "60.000.000",
+          "currency": "越南盾",
+          "period": "/ 项目",
+          "description": "适用于需要以最佳成本快速测试想法的早期启动项目。",
+          "features": [
+            "方案核心产品功能",
+            "基本 UX/UI 用户界面设计",
+            "构建用户登录和授权系统",
+            "集成标准API连接端口",
+            "设置基本的云服务器基础设施"
+          ],
+          "ctaLabel": "开始使用",
+          "ctaHref": "/lien-he",
+          "highlight": false,
+          "labelText": "基本套餐"
+        },
+        {
+          "name": "Giải pháp tùy chỉnh",
+          "price": "根据实际需求灵活调整",
+          "currency": "",
+          "period": "",
+          "description": "适合需要专门设计且更复杂的软件平台的组织。",
+          "features": [
+            "处理复杂的业务流程和软件逻辑",
+            "设计自己的数据库和后端系统",
+            "支付系统集成和高级 API",
+            "实时数据同步",
+            "构建仪表板和数据分析工具",
+            "检查质量并符合安全标准",
+            "产品上市后直接技术支持"
+          ],
+          "ctaLabel": "开始使用",
+          "ctaHref": "/lien-he",
+          "highlight": true,
+          "labelText": "专业套餐"
+        },
+        {
+          "name": "Gói Nâng Cao",
+          "price": "120.000.000",
+          "currency": "越南盾",
+          "period": "/ 项目",
+          "description": "大规模MVP解决方案，持续扩展并深度集成到业务运营环境中。",
+          "features": [
+            "微服务架构使系统易于扩展",
+            "根据您自己数据的具体情况集成 AI/ML 模型",
+            "企业级安全和单点登录系统",
+            "设置连续操作并更新自动化",
+            "独立的 DevOps 团队和对服务质量的承诺",
+            "与业务旧软件系统连接并同步数据"
+          ],
+          "ctaLabel": "开始使用",
+          "ctaHref": "/lien-he",
+          "highlight": false,
+          "labelText": "高级套餐"
+        }
+      ]
+    },
+    "techStack": {
+      "headlineLight": "技术",
+      "headlineDark": "软件开发 MVP",
+      "filters": [
+        "全部",
+        "接口",
+        "系统",
+        "数据库",
+        "操作",
+        "管理"
+      ],
+      "items": [
+        {
+          "name": "React / Next.js",
+          "category": ""
+        },
+        {
+          "name": "Angular",
+          "category": ""
+        },
+        {
+          "name": "Vue.js",
+          "category": ""
+        },
+        {
+          "name": "Figma",
+          "category": ""
+        },
+        {
+          "name": "Adobe XD",
+          "category": ""
+        },
+        {
+          "name": "Sketch",
+          "category": ""
+        },
+        {
+          "name": "Node.js",
+          "category": ""
+        },
+        {
+          "name": "Laravel",
+          "category": ""
+        },
+        {
+          "name": "WordPress / PHP",
+          "category": ""
+        },
+        {
+          "name": ".NET / ASP.NET",
+          "category": ""
+        },
+        {
+          "name": "MySQL",
+          "category": ""
+        },
+        {
+          "name": "PostgreSQL",
+          "category": ""
+        },
+        {
+          "name": "MongoDB",
+          "category": ""
+        },
+        {
+          "name": "Redis",
+          "category": ""
+        },
+        {
+          "name": "Docker",
+          "category": ""
+        },
+        {
+          "name": "GitHub",
+          "category": ""
+        },
+        {
+          "name": "GitLab",
+          "category": ""
+        },
+        {
+          "name": "Bitbucket",
+          "category": ""
+        },
+        {
+          "name": "GitHub Actions",
+          "category": ""
+        },
+        {
+          "name": "CI/CD",
+          "category": ""
+        },
+        {
+          "name": "AWS",
+          "category": ""
+        },
+        {
+          "name": "Deploy Server",
+          "category": ""
+        },
+        {
+          "name": "Jira",
+          "category": ""
+        }
+      ]
+    },
+    "comprehensiveServices": {
+      "headlineLight": "从测试中开发产品",
+      "headlineDark": "到完整版",
+      "items": [
+        {
+          "slug": "phat-trien-san-pham-phan-mem",
+          "title": "应用程序设计",
+          "desc": "将您的产品引入移动环境，在 iOS 和 Android 上提供流畅的体验。我们通过直观的界面和智能、现代的功能帮助您扩大客户范围并优化便利性。",
+          "image": "/images/migrated/homenest-software/wp-content/uploads/2026/04/7lo4FkmOpuHbbtGSrBrhRoC1Alk.avif",
+          "href": "/dich-vu/phat-trien-san-pham-phan-mem"
+        },
+        {
+          "slug": "phat-trien-phan-mem-tuy-chinh",
+          "title": "人工智能开发",
+          "desc": "整合人工智能的力量，从第一个版本开始就创造突破性的竞争优势。我们帮助您实现自动数据处理、虚拟助理或预测分析等智能功能，帮助 MVP 产品脱颖而出并快速吸引用户。",
+          "image": "/images/migrated/homenest-software/wp-content/uploads/2026/04/M7XkcGNNmF9nUkjJM8FXYMH8BA.avif",
+          "href": "/dich-vu/phat-trien-phan-mem-tuy-chinh"
+        },
+        {
+          "slug": "thiet-ke-website",
+          "title": "网站设计",
+          "desc": "优化性能和用户体验。将一个测试网站转变为一个完整的、高承载的网络平台。我们精炼源代码、优化响应速度并完善界面，以服务于企业快速增长的客户群。",
+          "image": "/images/migrated/homenest-software/wp-content/uploads/2026/04/iKGjaDdf1TQeFAPs8cLj6TM34Q.avif",
+          "href": "/dich-vu/thiet-ke-website"
+        }
+      ]
+    },
+    "faq": {
+      "label": "常见问题",
+      "headlineParts": [
+        "答案",
+        "每个",
+        "奇迹"
+      ],
+      "description": "关于实施时间、如何优化预算以及从试用到成品的过渡路径等问题的总结。",
+      "items": [
+        {
+          "q": "MVP 需要多长时间才能发布？",
+          "a": "在 Winterfrost 完成 MVP 的平均时间通常为 4 到 12 周。具体时间取决于需要编程的核心功能数量。我们优先考虑快速启动，以便您尽早获得来自用户的真实数据。"
+        },
+        {
+          "q": "从MVP升级到成品的成本是如何计算的？",
+          "a": "测试期结束后，根据用户反馈，我们将与您一起制定需要添加或编辑的优先功能列表。成本将根据每个发展阶段或新的工作范围进行报价，帮助您在现金流方面保持主动。"
+        },
+        {
+          "q": "如果测试后我想彻底改变该功能怎么办？",
+          "a": "这是成为 MVP 的主要目的。由于 Winterfrost 从一开始就使用灵活的技术和干净的代码结构，因此可以快速调整软件逻辑或更改业务流程，而无需拆除整个遗留系统。"
+        },
+        {
+          "q": "Winterfrost 是否接受其他单位制作的 MVP 版本的进一步开发？",
+          "a": "是的。我们的技术团队将对您当前的源代码和架构进行质量检查。如果源代码符合标准，我们将接管并开发更多功能。如果源代码太旧或过时，我们将建议最佳解决方案以节省长期成本。"
+        },
+        {
+          "q": "如何保证用户数量突然增加时系统不崩溃？",
+          "a": "从MVP版本开始，我们就在云计算平台上建立了基础设施。当流量增加时，系统可以自动扩展服务器资源，保证软件始终稳定运行，不中断。"
+        },
+        {
+          "q": "项目结束后我会收到什么？",
+          "a": "您将获得 100% 的源代码、技术文档、系统架构图和基础设施管理帐户的完全所有权。我们完全交付，因此您可以自己操作或随时将其转移给内部团队。"
+        }
+      ]
+    }
+  },
+  "dich-vu-it": {
+    "slug": "dich-vu-it",
+    "metaTitle": "综合 IT 服务 - Winterfrost",
+    "hero": {
+      "titleDark": "综合IT服务",
+      "titleLight": "",
+      "description": "Winterfrost 提供 IT 系统管理解决方案、软件维护和深入的技术基础设施设置。我们专注于维护系统稳定性、数据安全，帮助企业充分掌握技术工具，专注于核心业务活动。",
+      "bgImage": "/images/migrated/homenest-software/wp-content/uploads/2026/03/Web-app-development.jpg",
+      "dashboardImage": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Web-Application-Development-banner.jpg"
+    },
+    "solution": {
+      "headlineLight": "IT 服务的好处",
+      "headlineDark": "给企业带来",
+      "description": "数字化和 IT 管理有助于优化运营成本、消除技术中断风险并确保业务数据连续性。",
+      "ctaLabel": "立即与 Winterfrost 讨论！",
+      "ctaHref": "tel:+84971450454",
+      "items": [
+        {
+          "title": "最大限度地减少中断风险",
+          "desc": "系统全天候24/7监控，及早发现并处理技术问题，确保业务运营不停滞。"
+        },
+        {
+          "title": "优化人员成本",
+          "desc": "企业可以聘请经验丰富的专家团队，而无需维护繁琐的内部 IT 部门。"
+        },
+        {
+          "title": "多层基础设施安全",
+          "desc": "实施严格的安全协议，以保护业务数据免受未经授权的入侵的风险。"
+        },
+        {
+          "title": "技术专业化",
+          "desc": "将物联网、云、区块链等先进技术应用到企业实际运营流程中。"
+        },
+        {
+          "title": "自有技术资产",
+          "desc": "承诺100%交出源代码和系统架构文档，帮助企业拥有完全的自主权。"
+        },
+        {
+          "title": "灵活规模扩张",
+          "desc": "IT基础设施采用模块化架构设计，可以随着业务的增长轻松集成其他功能。"
+        }
+      ]
+    },
+    "features": {
+      "headlineLight": "深度IT服务",
+      "headlineDark": "在 Winterfrost",
+      "description": "我们提供从日常系统管理到复杂技术项目实施的解决方案，确保与特定操作完全兼容。",
+      "ctaLabel": "立即获取建议",
+      "ctaHref": "tel:+84971450454",
+      "items": [
+        {
+          "title": "IT 管理服务",
+          "desc": "管理和运营整个 IT 基础设施，从服务器、内部网络到人员终端。",
+          "image": "/images/services/winterfrost/enterprise-software-development.webp"
+        },
+        {
+          "title": "软件维护及升级",
+          "desc": "确保ERP、CRM、LMS业务软件系统始终稳定运行，更新功能并定期修补安全错误。",
+          "image": "/images/services/winterfrost/ai-development.webp"
+        },
+        {
+          "title": "云基础架构设计与集成",
+          "desc": "在具有高负载架构和优化存储成本的云计算平台上移动和管理数据。",
+          "image": "/images/services/winterfrost/devops-development.webp"
+        },
+        {
+          "title": "部署专业技术",
+          "desc": "集成农业数据收集传感器或透明的生产追溯系统。",
+          "image": "/images/services/winterfrost/saas-application-development.webp"
+        },
+        {
+          "title": "系统安全与审计",
+          "desc": "根据室内 CO/CQ 等专业标准评估网络安全漏洞并建立技术检查流程。",
+          "image": "/images/services/winterfrost/custom-software-solutions.webp"
+        }
+      ]
+    },
+    "howWeWork": {
+      "label": "Winterfrost的IT服务实施流程",
+      "ctaLabel": "",
+      "ctaHref": "/lien-he",
+      "steps": [
+        {
+          "num": "01",
+          "badge": "检查",
+          "title": "检查系统健康状况",
+          "desc": "对整个网络系统、服务器、业务软件进行审查并评估现有的安全漏洞。"
+        },
+        {
+          "num": "02",
+          "badge": "讨论",
+          "title": "统一做事方式",
+          "desc": "就事件响应时间、系统恢复时间达成一致承诺并划分技术管理职责。"
+        },
+        {
+          "num": "03",
+          "badge": "加工",
+          "title": "清理和优化",
+          "desc": "优先处理突出的错误、修补危险的安全漏洞和清理数据，以实现最稳定的系统状态。"
+        },
+        {
+          "num": "04",
+          "badge": "部署",
+          "title": "安装和升级",
+          "desc": "重新配置网络设备、优化云服务器并设置自动数据备份循环。"
+        },
+        {
+          "num": "05",
+          "badge": "移交和指示",
+          "title": "人员指导",
+          "desc": "指导业务人员如何安全使用IT工具、移交系统管理记录和密码访问信息。"
+        },
+        {
+          "num": "06",
+          "badge": "支持",
+          "title": "日常护理",
+          "desc": "持续监控系统性能，定期执行安全更新，并根据需要提供技术支持。"
+        }
+      ]
+    },
+    "benefits": {
+      "label": "为什么您应该选择 Winterfrost？",
+      "headlineLight": "企业为什么要选择IT服务？",
+      "headlineDark": "在 Winterfrost ？",
+      "items": [
+        {
+          "num": "1",
+          "title": "操作高负载系统",
+          "desc": "我们构建和管理的平台可以为数千个用户同时访问提供低延迟服务，确保高峰期的稳定性。"
+        },
+        {
+          "num": "2",
+          "title": "交出100%源代码",
+          "desc": "Winterfrost 承诺在接受后立即转让所有源代码，帮助企业拥有完全的技术自主权，而不依赖于每月的许可费。"
+        },
+        {
+          "num": "3",
+          "title": "掌握技术解决方案",
+          "desc": "工程师团队直接开发人工智能、物联网和区块链解决方案，无需中介，有助于优化技术性能并缩短故障排除时间。"
+        },
+        {
+          "num": "4",
+          "title": "基于技术能力的咨询",
+          "desc": "所有IT解决方案都是根据业务的财务问题和实际运营能力来设计的，剔除适用性不强的技术方案。"
+        },
+        {
+          "num": "5",
+          "title": "了解多行业技术标准",
+          "desc": "我们在农业和教育领域整合技术检验标准和数字化转型流程方面拥有实践经验。"
+        },
+        {
+          "num": "6",
+          "title": "每天监控进度",
+          "desc": "客户通过专门的项目管理工具直接监控软件开发和质量测试过程。"
+        },
+        {
+          "num": "7",
+          "title": "处理大规模数据基础设施",
+          "desc": "凭借 10 多年的经验，我们有能力部署复杂的数据管理系统，确保信息的完整性和安全性。"
+        },
+        {
+          "num": "8",
+          "title": "现场技术支持",
+          "desc": "市专家团队。胡志明已准备好亲自到场，直接处理业务总部的硬件、网络基础设施或服务器出现的问题。"
+        },
+        {
+          "num": "9",
+          "title": "透明的维护政策",
+          "desc": "合同中明确承诺更新安全补丁和系统维护，确保IT基础设施始终稳定运行。"
+        }
+      ]
+    },
+    "ctaBanner": {
+      "badge": "立即联系！",
+      "headline": "专属AI系统引领数字时代",
+      "description": "不要仅仅停留在常规自动化上。加入Winterfrost，探索数据的力量，构建独特的AI模型，帮助您的企业在市场上拥有绝对的竞争优势。",
+      "ctaLabel": "立即制定您的 AI 路线图",
+      "ctaHref": "/lien-he",
+      "image": "/images/people/cta/winterfrost/chuyen-vien-tu-van-viet-nam.png"
+    },
+    "counter": {
+      "badgeText": "我们的成就",
+      "items": [
+        {
+          "index": "/01",
+          "value": "10+",
+          "desc": "多年经验"
+        },
+        {
+          "index": "/02",
+          "value": "250+",
+          "desc": "客户"
+        },
+        {
+          "index": "/03",
+          "value": "15+",
+          "desc": "国家"
+        },
+        {
+          "index": "/04",
+          "value": "98%",
+          "desc": "客户很满意"
+        }
+      ]
+    },
+    "industries": {
+      "label": "特色领域",
+      "headlineLight": "Winterfrost提供服务",
+      "headlineDark": "根据每个具体领域",
+      "items": [
+        {
+          "slug": "thuong-mai-dien-tu",
+          "title": "电子商务",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/eComerce-Industries-Icon.png"
+        },
+        {
+          "slug": "cong-nghe-tai-chinh",
+          "title": "金融科技",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Fintech-Industries-Icon.png"
+        },
+        {
+          "slug": "y-te",
+          "title": "医疗",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Healthcare-Industries-Icon.png"
+        },
+        {
+          "slug": "tai-chinh-doanh-nghiep",
+          "title": "企业融资",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Expert-Financial-Industries-Icon.png"
+        },
+        {
+          "slug": "phan-mem-doanh-nghiep",
+          "title": "企业软件",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Business-Industries-Icon.png"
+        },
+        {
+          "slug": "ban-le",
+          "title": "零售",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Retail-Industries-Icon.png"
+        },
+        {
+          "slug": "bat-dong-san",
+          "title": "房地产",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Real-Estate-Industries-Icon.png"
+        },
+        {
+          "slug": "van-tai-va-logistics",
+          "title": "运输与物流",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Logistics-Industries-Icon.png"
+        },
+        {
+          "slug": "giao-duc",
+          "title": "教育",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Education-Industries-Icon.png"
+        }
+      ]
+    },
+    "price": {
+      "label": "价格表",
+      "headlineLight": "价格表",
+      "headlineDark": "信息技术服务",
+      "description": "成本是根据基础设施规模和实际运营需求设计的，确保企业只为真正必要的解决方案付费。",
+      "packages": [
+        {
+          "name": "Giá dịch vụ IT tại Winterfrost",
+          "price": "根据需要灵活费用",
+          "currency": "",
+          "period": "",
+          "description": "对于需要最专业、最现代化的 IT 基础设施管理以通过先进的安全解决方案实现稳定运行的单位来说，是理想的选择。",
+          "features": [
+            "确保系统持续稳定运行。",
+            "根据具体运营情况，设计最优的IT基础设施。",
+            "与软件和管理工具的无限集成。",
+            "确保信息流的完整性和连续性。",
+            "通过可视化指标监控系统性能。",
+            "为数字资产设置多层安全屏障。",
+            "快速处理胡志明市地区的现场事件。"
+          ],
+          "ctaLabel": "立即开始",
+          "ctaHref": "tel:+84971450454",
+          "highlight": true,
+          "labelText": "IT服务包",
+          "iconPath": "M234.29,114.85l-45,38.83L203,211.75a16.4,16.4,0,0,1-24.5,17.82L128,198.49,77.47,229.57A16.4,16.4,0,0,1,53,211.75l13.76-58.07-45-38.83A16.46,16.46,0,0,1,31.08,86l59-4.76,22.76-55.08a16.36,16.36,0,0,1,30.27,0l22.75,55.08,59,4.76a16.46,16.46,0,0,1,9.37,28.86Z"
+        }
+      ]
+    },
+    "techStack": {
+      "headlineLight": "用于 IT 服务的技术",
+      "headlineDark": "",
+      "filters": [
+        "全部",
+        "接口",
+        "系统",
+        "数据库",
+        "操作",
+        "管理"
+      ],
+      "items": [
+        {
+          "name": "React / Next.js",
+          "category": "接口"
+        },
+        {
+          "name": "Angular",
+          "category": "接口"
+        },
+        {
+          "name": "Vue.js",
+          "category": "接口"
+        },
+        {
+          "name": "Figma",
+          "category": "接口"
+        },
+        {
+          "name": "Adobe XD",
+          "category": "接口"
+        },
+        {
+          "name": "Sketch",
+          "category": "接口"
+        },
+        {
+          "name": "Node.js",
+          "category": "系统"
+        },
+        {
+          "name": "Laravel",
+          "category": "系统"
+        },
+        {
+          "name": "WordPress / PHP",
+          "category": "系统"
+        },
+        {
+          "name": ".NET / ASP.NET",
+          "category": "系统"
+        },
+        {
+          "name": "MySQL",
+          "category": "数据库"
+        },
+        {
+          "name": "PostgreSQL",
+          "category": "数据库"
+        },
+        {
+          "name": "MongoDB",
+          "category": "数据库"
+        },
+        {
+          "name": "Redis",
+          "category": "数据库"
+        },
+        {
+          "name": "Docker",
+          "category": "操作"
+        },
+        {
+          "name": "GitHub",
+          "category": "操作"
+        },
+        {
+          "name": "GitLab",
+          "category": "操作"
+        },
+        {
+          "name": "Bitbucket",
+          "category": "操作"
+        },
+        {
+          "name": "GitHub Actions",
+          "category": "操作"
+        },
+        {
+          "name": "CI/CD",
+          "category": "操作"
+        },
+        {
+          "name": "AWS",
+          "category": "操作"
+        },
+        {
+          "name": "Deploy Server",
+          "category": "操作"
+        },
+        {
+          "name": "Jira",
+          "category": "管理"
+        }
+      ]
+    },
+    "comprehensiveServices": {
+      "headlineLight": "相关解决方案",
+      "headlineDark": "到 IT 服务",
+      "items": [
+        {
+          "slug": "phat-trien-phan-mem-doanh-nghiep",
+          "title": "企业软件开发",
+          "desc": "对专门的 ERP、CRM 或 EdTech 系统进行编程，确保这些业务应用程序稳定运行并在整个企业的 IT 基础设施中同步数据。",
+          "image": "/images/services/winterfrost/enterprise-software-development.webp",
+          "href": "/dich-vu/phat-trien-phan-mem-doanh-nghiep"
+        },
+        {
+          "slug": "phat-trien-iot",
+          "title": "物联网发展",
+          "desc": "将传感器系统和硬件设备连接到中央IT网络，自动收集数据，支持生产和农业过程的实时监控。",
+          "image": "/images/services/winterfrost/iot-development.webp",
+          "href": "/dich-vu/phat-trien-iot"
+        },
+        {
+          "slug": "phat-trien-blockchain",
+          "title": "区块链开发",
+          "desc": "部署追溯解决方案并认证CO/CQ技术标准，构建透明的数据层，增强企业IT系统的安全性。",
+          "image": "/images/services/winterfrost/blockchain-development.webp",
+          "href": "/dich-vu/phat-trien-blockchain"
+        }
+      ]
+    },
+    "faq": {
+      "label": "常见问题",
+      "headlineParts": [
+        "答案",
+        "每个",
+        "奇迹"
+      ],
+      "description": "在 Winterfrost 部署基础设施时直接回答技术、安全和所有权问题。",
+      "items": [
+        {
+          "q": "Winterfrost 的 IT 服务成本是如何计算的？",
+          "a": "成本不是固定的，而是根据各业务的基础设施规模和实际运营需求灵活设计。这确保客户只需为其系统真正需要的解决方案和资源付费。"
+        },
+        {
+          "q": "移交后企业能否拥有源代码？",
+          "a": "是的。 Winterfrost承诺在验收后立即移交100%的源代码和系统结构文档。这有助于企业拥有完全的技术自主权，可以自行运营，并且不依赖于每月的许可费。"
+        },
+        {
+          "q": "如何监控日常工作的进度和质量？",
+          "a": "客户可以通过专用的项目管理工具直接监控开发过程并检查质量。 Winterfrost 进行日常进度监控，以确保完全透明并与客户运营保持一致。"
+        },
+        {
+          "q": "业务数据的安全性如何？",
+          "a": "我们通过严格的安全协议部署多层基础设施安全，以防止未经授权的入侵风险。该过程包括评估网络安全漏洞、建立自动数据备份循环以及根据合同承诺定期更新安全补丁。"
+        },
+        {
+          "q": "Winterfrost 是否支持直接在业务总部进行故障排除？",
+          "a": "是的。我们的专家团队随时准备直接在场处理业务总部的硬件、网络基础设施或服务器出现的问题。我们承诺在2至4小时内快速解决现场问题。"
+        },
+        {
+          "q": "Winterfrost系统的负载能力是多少？",
+          "a": "我们有能力构建和管理平台，为数千名用户同时低延迟访问提供服务。即使在高峰时段，系统也能确保数据的稳定性和连续性。"
+        },
+        {
+          "q": "Winterfrost 的 IT 服务了解哪些具体行业标准？",
+          "a": "我们拥有整合多个领域技术检验标准的实践经验：\n• 农业：集成物联网传感器和追溯系统。\n• 教育：LMS 等专业软件系统的管理。\n• 生产和内饰：根据CO/CQ 等专业标准进行技术检查。"
+        },
+        {
+          "q": "IT服务部署过程需要多长时间？",
+          "a": "部署时间取决于“系统运行状况检查”和“同意如何操作”阶段的结果。从漏洞审查、数据优化、升级安装到人员培训和日常护理支持，整个过程通过6个步骤有条不紊地进行。"
+        }
+      ]
+    }
+  },
+  "tu-van-chuyen-doi-so": {
+    "slug": "tu-van-chuyen-doi-so",
+    "metaTitle": "数字化转型咨询服务-Winterfrost",
+    "hero": {
+      "titleDark": "数字化转型咨询服务",
+      "titleLight": "",
+      "description": "Winterfrost 提供数据数字化、重组工作流程以及将云计算、物联网和人工智能等技术集成到操作系统中的服务。我们支持企业制定详细的 IT 路线图，以提高绩效并优化管理成本。",
+      "bgImage": "/images/migrated/homenest-software/wp-content/uploads/2026/03/Web-app-development.jpg",
+      "dashboardImage": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Web-Application-Development-banner.jpg"
+    },
+    "solution": {
+      "headlineLight": "直接效益时",
+      "headlineDark": "数字化转型业务",
+      "description": "数字化流程有助于优化成本、同步数据并消除手动操作错误。 Winterfrost的解决方案确保企业的技术稳定性、信息安全和绝对的源代码所有权。",
+      "ctaLabel": "项目讨论",
+      "ctaHref": "tel:+84971450454",
+      "items": [
+        {
+          "title": "自动执行重复性任务",
+          "desc": "使用软件和算法消除手动数据输入步骤。这有助于减少人为错误并缩短内部流程处理时间。"
+        },
+        {
+          "title": "实时数据管理",
+          "desc": "仓库、人力资源、销售等部门的数据立即更新到通用系统。管理层可以随时访问准确的报告，无需等待手动编译。"
+        },
+        {
+          "title": "优化运营成本",
+          "desc": "数字化有助于降低打印成本、物理记录存储，并消除仅负责在部门之间传递文书工作的人员职位。"
+        },
+        {
+          "title": "多层数据安全",
+          "desc": "用具有分散访问功能的数据库取代离散信息存储。系统采用加密协议，防止重要业务信息泄露或丢失。"
+        },
+        {
+          "title": "提高系统可扩展性",
+          "desc": "现代软件架构允许企业随着公司的发展而集成新的功能模块，例如销售管理和CRM，而无需更改核心基础设施。"
+        },
+        {
+          "title": "掌握数字资产",
+          "desc": "企业完全拥有源代码和数据库。这消除了依赖第三方软件提供商或必须每月支付帐户维护费的风险。"
+        }
+      ]
+    },
+    "features": {
+      "headlineLight": "咨询服务",
+      "headlineDark": "深度数字化转型",
+      "description": "我们提供从战略路线图到先进技术的直接实施的解决方案。该服务的重点是标准化具体的业务流程，并移交所有源代码以供企业自主运营。",
+      "ctaLabel": "立即获取建议",
+      "ctaHref": "tel:+84971450454",
+      "items": [
+        {
+          "title": "数字化战略和路线图",
+          "desc": "评估 IT 基础设施的现状并调查实际操作流程。建立需要优先转换的项目列表，以优化预算​​并确保技术可行性。",
+          "image": "/images/services/winterfrost/enterprise-software-development.webp"
+        },
+        {
+          "title": "现代化并集成遗留系统",
+          "desc": "升级落后软件，建设API网关系统。该服务有助于旧平台和新技术之间的数据同步，确保信息的顺畅、不间断的流动。",
+          "image": "/images/services/winterfrost/ai-development.webp"
+        },
+        {
+          "title": "单独的软件开发",
+          "desc": "根据企业实际业务流程，编程专业管理系统ERP、CRM、LMS。我们构建自己的解决方案来完美匹配您的实际需求，而不是使用预先打包的软件。",
+          "image": "/images/services/winterfrost/devops-development.webp"
+        },
+        {
+          "title": "融合高科技",
+          "desc": "安装物联网传感器收集自动生产数据，应用人工智能分析预测报告，并使用区块链验证供应链数据的透明度。",
+          "image": "/images/services/winterfrost/saas-application-development.webp"
+        },
+        {
+          "title": "转换和管理",
+          "desc": "将所有数据迁移到云平台。建立自动平衡负载的服务器架构，确保系统24/7连续运行和绝对安全。",
+          "image": "/images/services/winterfrost/custom-software-solutions.webp"
+        }
+      ]
+    },
+    "howWeWork": {
+      "label": "我们的数字化转型咨询流程",
+      "ctaLabel": "开始你的旅程",
+      "ctaHref": "tel:+84971450454",
+      "steps": [
+        {
+          "num": "01",
+          "badge": "接待处",
+          "title": "技术调查与评估",
+          "desc": "我们对现有 IT 基础设施进行审计，包括：硬件、软件、数据库以及信息在部门之间的流动方式。此评估有助于确定技术瓶颈和人员采用新技术的准备情况。"
+        },
+        {
+          "num": "02",
+          "badge": "制定计划",
+          "title": "设置路线图和 KPI 指标",
+          "desc": "Winterfrost 根据调查数据制定了具有明确量化目标的数字化战略。该路线图分为具体阶段，包括预算估算和性能指标，例如流程处理时间、错误减少率和人力资源节省。"
+        },
+        {
+          "num": "03",
+          "badge": "团结",
+          "title": "流程再造和优化",
+          "desc": "在编程之前，我们会与企业协调重新设计工作流程。多余的手动步骤将被消除或替换为自动化处理流程。此阶段确保软件系统一旦完成，将精益且合乎逻辑地运行。"
+        },
+        {
+          "num": "04",
+          "badge": "部署",
+          "title": "编程和系统集成",
+          "desc": "软件开发工程师团队遵循敏捷模型，允许客户监控和响应每个已完成的模块。我们构建API网关，将新系统与会计、销售、仓库等现有软件同步连接，并集成人工智能或物联网等先进技术。"
+        },
+        {
+          "num": "05",
+          "badge": "转乘",
+          "title": "培训并移交源代码",
+          "desc": "Winterfrost 为操作人员组织现场技术培训课程。系统在真实环境稳定运行后，我们100%交出项目源代码、数据结构文档和管理指令，让企业完全拥有数字资产。"
+        },
+        {
+          "num": "06",
+          "badge": "支持",
+          "title": "监控操作并定期更新",
+          "desc": "通过性能和用户参与参数持续监控系统。随着业务规模的增长，我们致力于陪伴企业处理出现的问题、更新安全补丁以及扩展功能的咨询。"
+        }
+      ]
+    },
+    "benefits": {
+      "label": "为什么选择Winterfrost？",
+      "headlineLight": "成本透明",
+      "headlineDark": "提供可持续的数字化转型解决方案",
+      "items": [
+        {
+          "num": "1",
+          "title": "10年以上经验",
+          "desc": "我们已经成功运营了许多大数据系统，帮助超过250家企业避免了常见的技术错误，并从设计阶段就确保了可行性。"
+        },
+        {
+          "num": "2",
+          "title": "交出100%源代码",
+          "desc": "移交全部源代码有助于企业保留绝对自主权。您无需每月支付账户维护费，并且可以随时自行升级系统。"
+        },
+        {
+          "num": "3",
+          "title": "掌握核心技术",
+          "desc": "Winterfrost 直接开发人工智能、物联网和区块链。不经过中介，有助于缩短实施时间，优化成本，为客户提供最深入的技术支持。"
+        },
+        {
+          "num": "4",
+          "title": "实用性高",
+          "desc": "我们只为企业真正需要的提供建议。所有路线图均根据客户人员的财务能力和实际操作能力计算。"
+        },
+        {
+          "num": "5",
+          "title": "多学科专业知识",
+          "desc": "凭借在农业、教育和供应链方面的经验，我们了解 CO/CQ 和 VietGAP 等行业标准，可以将其准确地融入到软件中。"
+        },
+        {
+          "num": "6",
+          "title": "流程透明",
+          "desc": "客户通过专门的管理工具参与日常项目监控。这确保了项目始终步入正轨并按承诺按时交付。"
+        },
+        {
+          "num": "7",
+          "title": "高负载系统",
+          "desc": "我们有能力同时处理数千个用户的基础设施，确保系统在高峰期间不会出现延迟或中断。"
+        },
+        {
+          "num": "8",
+          "title": "现场技术支持",
+          "desc": "Winterfrost 的团队已准备好直接处理出现的问题，确保业务运营不会长期停滞。"
+        },
+        {
+          "num": "9",
+          "title": "定期保养一目了然",
+          "desc": "合同中严格规定了维护和安全更新策略。企业始终可以访问最新的安全补丁来保护数据资产。"
+        }
+      ]
+    },
+    "ctaBanner": {
+      "badge": "立即联系！",
+      "headline": "专属AI系统引领数字时代",
+      "description": "不要仅仅停留在常规自动化上。加入Winterfrost，探索数据的力量，构建独特的AI模型，帮助您的企业在市场上拥有绝对的竞争优势。",
+      "ctaLabel": "立即制定您的 AI 路线图",
+      "ctaHref": "/lien-he",
+      "image": "/images/people/cta/winterfrost/chuyen-vien-tu-van-viet-nam.png"
+    },
+    "counter": {
+      "badgeText": "我们的成就",
+      "items": [
+        {
+          "index": "/01",
+          "value": "10+",
+          "desc": "经验"
+        },
+        {
+          "index": "/02",
+          "value": "250+",
+          "desc": "客户"
+        },
+        {
+          "index": "/03",
+          "value": "15+",
+          "desc": "国家"
+        },
+        {
+          "index": "/04",
+          "value": "98%",
+          "desc": "客户很满意"
+        }
+      ]
+    },
+    "industries": {
+      "label": "特色领域",
+      "headlineLight": "Winterfrost提供服务",
+      "headlineDark": "根据每个具体领域",
+      "items": [
+        {
+          "slug": "thuong-mai-dien-tu",
+          "title": "电子商务",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/eComerce-Industries-Icon.png"
+        },
+        {
+          "slug": "cong-nghe-tai-chinh",
+          "title": "金融科技",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Fintech-Industries-Icon.png"
+        },
+        {
+          "slug": "y-te",
+          "title": "医疗",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Healthcare-Industries-Icon.png"
+        },
+        {
+          "slug": "tai-chinh-doanh-nghiep",
+          "title": "企业融资",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Expert-Financial-Industries-Icon.png"
+        },
+        {
+          "slug": "phan-mem-doanh-nghiep",
+          "title": "企业软件",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Business-Industries-Icon.png"
+        },
+        {
+          "slug": "ban-le",
+          "title": "零售",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Retail-Industries-Icon.png"
+        },
+        {
+          "slug": "bat-dong-san",
+          "title": "房地产",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Real-Estate-Industries-Icon.png"
+        },
+        {
+          "slug": "van-tai-va-logistics",
+          "title": "运输与物流",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Logistics-Industries-Icon.png"
+        },
+        {
+          "slug": "giao-duc",
+          "title": "教育",
+          "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Education-Industries-Icon.png"
+        }
+      ]
+    },
+    "price": {
+      "label": "价格表",
+      "headlineLight": "成本",
+      "headlineDark": "数字化转型咨询",
+      "description": "我们根据需求和规模提供价格灵活的数字化转型咨询服务，确保帮助企业有效转型并节省成本。",
+      "packages": [
+        {
+          "name": "Gói tư vấn chuyển đổi số",
+          "price": "根据规模灵活的成本",
+          "currency": "",
+          "period": "",
+          "description": "对于需要单独的数字化转型路线图、专注于解决具体运营问题并优化每个实际时期的投资预算的企业的最佳选择。",
+          "features": [
+            "根据企业实际情况进行咨询。",
+            "设计透明的数据流程图，与内部流程一致。",
+            "根据实际需求灵活部署AI、IoT或区块链。",
+            "企业永久拥有数字资产，不依赖供应商。",
+            "通过中介API系统连接新旧软件。",
+            "将多层安全协议应用于整个基础设施。",
+            "致力于故障排除和定期安全更新。"
+          ],
+          "ctaLabel": "立即开始",
+          "ctaHref": "tel:+84971450454",
+          "highlight": true,
+          "labelText": "咨询套餐",
+          "iconPath": "M234.29,114.85l-45,38.83L203,211.75a16.4,16.4,0,0,1-24.5,17.82L128,198.49,77.47,229.57A16.4,16.4,0,0,1,53,211.75l13.76-58.07-45-38.83A16.46,16.46,0,0,1,31.08,86l59-4.76,22.76-55.08a16.36,16.36,0,0,1,30.27,0l22.75,55.08,59,4.76a16.46,16.46,0,0,1,9.37,28.86Z"
+        }
+      ]
+    },
+    "techStack": {
+      "headlineLight": "用于数字化转型的技术",
+      "headlineDark": "",
+      "filters": [
+        "全部",
+        "接口",
+        "系统",
+        "数据库",
+        "操作",
+        "管理"
+      ],
+      "items": [
+        {
+          "name": "React / Next.js",
+          "category": "接口"
+        },
+        {
+          "name": "Angular",
+          "category": "接口"
+        },
+        {
+          "name": "Vue.js",
+          "category": "接口"
+        },
+        {
+          "name": "Figma",
+          "category": "接口"
+        },
+        {
+          "name": "Adobe XD",
+          "category": "接口"
+        },
+        {
+          "name": "Sketch",
+          "category": "接口"
+        },
+        {
+          "name": "Node.js",
+          "category": "系统"
+        },
+        {
+          "name": "Laravel",
+          "category": "系统"
+        },
+        {
+          "name": "WordPress / PHP",
+          "category": "系统"
+        },
+        {
+          "name": ".NET / ASP.NET",
+          "category": "系统"
+        },
+        {
+          "name": "MySQL",
+          "category": "数据库"
+        },
+        {
+          "name": "PostgreSQL",
+          "category": "数据库"
+        },
+        {
+          "name": "MongoDB",
+          "category": "数据库"
+        },
+        {
+          "name": "Redis",
+          "category": "数据库"
+        },
+        {
+          "name": "Docker",
+          "category": "操作"
+        },
+        {
+          "name": "GitHub",
+          "category": "操作"
+        },
+        {
+          "name": "GitLab",
+          "category": "操作"
+        },
+        {
+          "name": "Bitbucket",
+          "category": "操作"
+        },
+        {
+          "name": "GitHub Actions",
+          "category": "操作"
+        },
+        {
+          "name": "CI/CD",
+          "category": "操作"
+        },
+        {
+          "name": "AWS",
+          "category": "操作"
+        },
+        {
+          "name": "Deploy Server",
+          "category": "操作"
+        },
+        {
+          "name": "Jira",
+          "category": "管理"
+        }
+      ]
+    },
+    "comprehensiveServices": {
+      "headlineLight": "探索服务",
+      "headlineDark": "相关的",
+      "items": [
+        {
+          "slug": "phat-trien-phan-mem-doanh-nghiep",
+          "title": "企业软件开发",
+          "desc": "设计和编程专门的内部管理系统，帮助在单一平台上具体化客户关系管理、资源管理和人力资源管理等运营的数字化转型路线图。",
+          "image": "/images/services/winterfrost/enterprise-software-development.webp",
+          "href": "/dich-vu/phat-trien-phan-mem-doanh-nghiep"
+        },
+        {
+          "slug": "phat-trien-iot",
+          "title": "物联网发展",
+          "desc": "适用于想要将现场数据数字化的制造或农业企业。我们将硬件设备和传感器连接到中央管理系统，自动实时收集运行数据。",
+          "image": "/images/services/winterfrost/iot-development.webp",
+          "href": "/dich-vu/phat-trien-iot"
+        },
+        {
+          "slug": "phat-trien-blockchain",
+          "title": "区块链开发",
+          "desc": "数字化追溯，让交易数据透明化。该服务特别适合需要认证产品质量标准（CO/CQ）或封闭式生产流程的企业。",
+          "image": "/images/services/winterfrost/blockchain-development.webp",
+          "href": "/dich-vu/phat-trien-blockchain"
+        }
+      ]
+    },
+    "faq": {
+      "label": "常见问题",
+      "headlineParts": [
+        "答案",
+        "每个",
+        "奇迹"
+      ],
+      "description": "直接回答有关成本、安全性和实施路线图的问题，帮助企业清楚地了解 Winterfrost 对技术自主的承诺。",
+      "items": [
+        {
+          "q": "咨询和实施服务费用如何计算？",
+          "a": "成本不是固定的，而是根据当前基础设施规模、需要数字化的流程数量以及集成人工智能、物联网、区块链等专业技术的复杂性来确定。 Winterfrost将在实际调查后提供每件商品的详细报价。"
+        },
+        {
+          "q": "数字化转型是否会扰乱当前的业务运营？",
+          "a": "我们应用滚动（部分）部署模型。新系统将并行运行并与旧系统同步数据。只有在新系统通过操作测试（UAT）后才会进行完全转换，确保不会造成业务中断。"
+        },
+        {
+          "q": "交接后企业真的拥有100%的源代码吗？",
+          "a": "是的。这是Winterfrost的核心承诺。客户获得所有项目源代码、系统架构文档和服务器管理权限。业务完全自主，无需向第三方支付账户维护费用，并有权随时升级系统。"
+        },
+        {
+          "q": "实施数字化转型项目通常需要多长时间？",
+          "a": "取决于企业规模：\n• 调查和路线图阶段：2 至4 周。\n• 开发基本业务模块：3 至5 个月。\n• 集成高科技的综合管理体系：6至12个月。"
+        },
+        {
+          "q": "新系统可以连接旧软件吗？",
+          "a": "是的。我们的工程师团队构建中间 API 网关，以在旧软件和新系统之间提取和同步数据。这有助于确保数据继承和信息流连续性。"
+        },
+        {
+          "q": "交接后，不熟悉技术的人员可以使用系统吗？",
+          "a": "我们根据业务员工的实际操作习惯，优先优化UI/UX界面。为各部门提供直接的培训计划和详细的用户手册，帮助人员在最短的时间内熟悉系统。"
+        },
+        {
+          "q": "业务数据的安全性如何？",
+          "a": "系统通过多层现场数据加密保护，为云服务器设置防火墙，并对各级人员制定详细的访问权限。移交前，我们会进行安全漏洞测试，确保企业数字资产的绝对安全。"
+        },
+        {
+          "q": "项目结束后 Winterfrost 是否提供支持？",
+          "a": "是的。我们根据合同实施技术保修政策和定期安全更新。此外，Winterfrost 的技术团队随时准备帮助处理出现的问题或在业务需要增长时就扩展功能提供建议。"
+        }
+      ]
+    }
+  }
+}

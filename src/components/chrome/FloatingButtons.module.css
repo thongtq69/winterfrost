@@ -1,0 +1,459 @@
+/* CallButton FAB — winterfrost.tech (CallButton-module__2uAulG__*) */
+
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  position: fixed;
+  right: 24px;
+  bottom: 24px;
+  z-index: 9998;
+  width: 76px;
+  align-items: center;
+  pointer-events: none;
+}
+.btn {
+  pointer-events: auto;
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  transition: transform 0.2s, box-shadow 0.2s;
+  position: relative;
+}
+.btn:hover { transform: scale(1.06); }
+
+.btnWhatsApp {
+  color: #fff;
+  background: #25D366;
+  box-shadow: rgba(37,211,102,0.45) 0 4px 24px 0, rgba(0,0,0,0.15) 0 2px 8px 0;
+}
+.btnZalo {
+  background: transparent;
+  box-shadow: rgba(0,104,255,0.45) 0 4px 24px 0, rgba(0,0,0,0.15) 0 2px 8px 0;
+}
+.iconZaloImg {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  display: block;
+}
+.btnPhone {
+  color: #fff;
+  background: #ff4500;
+  box-shadow: rgba(255,69,0,0.45) 0 4px 24px 0, rgba(0,0,0,0.15) 0 2px 8px 0;
+}
+
+.pulse {
+  position: absolute;
+  inset: 0;
+  border-radius: 50%;
+  z-index: -1;
+  animation: pulseRing 2.4s ease-out infinite;
+}
+.pulseGreen { background: rgba(37,211,102,0.4); }
+.pulseOrange { background: rgba(255,107,53,0.4); }
+@keyframes pulseRing {
+  0%   { transform: scale(1);   opacity: 0.55; }
+  80%  { transform: scale(1.6); opacity: 0; }
+  100% { transform: scale(1.6); opacity: 0; }
+}
+
+/* Robot mascot — only visible when scrolled past hero */
+.topWrapper {
+  width: 76px;
+  height: 0;
+  display: flex;
+  justify-content: center;
+  overflow: visible;
+  transition: height 0.4s cubic-bezier(0.4,0,0.2,1);
+  pointer-events: none;
+}
+.topWrapperVisible {
+  height: 76px;
+  pointer-events: auto;
+}
+.btnTop {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  width: 76px;
+  height: 76px;
+  padding: 0;
+  display: block;
+}
+.btnTop img {
+  width: 76px;
+  height: 76px;
+  object-fit: contain;
+  display: block;
+}
+
+/* Public chatbot chrome reproduced locally. No production chat requests are sent. */
+.chatRoot {
+  position: fixed;
+  right: 34px;
+  bottom: 240px;
+  width: 60px;
+  height: 60px;
+  display: flex;
+  z-index: 25000000;
+  color: #0d1321;
+  font-family: var(--font-plus-jakarta), "Plus Jakarta Sans", Inter, sans-serif;
+  transition: bottom .35s cubic-bezier(.4, 0, .2, 1);
+}
+.chatRootRaised {
+  bottom: 316px;
+}
+.chatRootOpen {
+  right: 24px;
+  bottom: 24px;
+  width: 458px;
+  height: 650px;
+}
+.chatCollapsed {
+  display: flex;
+  width: 60px;
+  height: 60px;
+  gap: 18px;
+}
+.chatPreview {
+  position: absolute;
+  right: 75px;
+  bottom: 2px;
+  width: 275px;
+  height: 128px;
+  padding: 22px 26px;
+  border-radius: 34px;
+  background: #f8f8f8;
+  box-shadow: 0 10px 35px rgba(0,0,0,.12);
+  animation: chatPreviewFloat 2.5s ease-in-out infinite;
+}
+@keyframes chatPreviewFloat {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-5px); }
+}
+.chatPreviewHeader {
+  display: flex;
+  align-items: center;
+  width: 221px;
+  height: 32px;
+  gap: 14px;
+}
+.chatPreviewAvatar {
+  display: block;
+  width: 32px;
+  height: 32px;
+  flex: 0 0 auto;
+  border-radius: 50%;
+}
+.chatPreviewTitle {
+  color: #1e1e1e;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 28px;
+  white-space: nowrap;
+}
+.chatPreviewClose {
+  position: absolute;
+  right: 16px;
+  bottom: 90px;
+  width: 24px;
+  height: 24px;
+  padding: 0;
+  border: 0;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #0d1321;
+  background: rgba(0,0,0,.06);
+  cursor: pointer;
+}
+.chatPreviewMessage {
+  width: 221px;
+  margin-top: 8px;
+  color: #2d2d2d;
+  font-size: 14px;
+  line-height: 21px;
+}
+.chatToggle {
+  position: relative;
+  width: 60px;
+  height: 60px;
+  padding: 0;
+  border: 0;
+  border-radius: 999px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #0b74ff;
+  box-shadow: 0 18px 40px rgba(0,89,255,.45);
+  cursor: pointer;
+}
+.chatToggleGlow {
+  position: absolute;
+  inset: -5px;
+  border-radius: 999px;
+  background: #0b74ff;
+  animation: chatGlow 1.8s ease-in-out infinite;
+}
+@keyframes chatGlow {
+  0%, 100% { opacity: .45; transform: scale(1); }
+  50% { opacity: .18; transform: scale(1.08); }
+}
+.chatToggleImage {
+  position: relative;
+  z-index: 2;
+  display: block;
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background: #fff;
+}
+.chatNotification {
+  position: absolute;
+  z-index: 5;
+  right: -4px;
+  bottom: 46px;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  background: #cf1111;
+  font-size: 11px;
+  font-weight: 700;
+  transform: scale(1.12);
+}
+.chatPopup {
+  position: relative;
+  width: 458px;
+  height: 650px;
+  border-radius: 28px;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  background: #fff;
+  box-shadow: 0 12px 50px rgba(0,0,0,.16);
+}
+.chatHeader {
+  width: 458px;
+  height: 77px;
+  padding: 0 20px;
+  flex: 0 0 77px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #0b74ff;
+}
+.chatHeaderInfo {
+  height: 40px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.chatHeaderAvatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 9999px;
+  background: #fff;
+}
+.chatHeaderTitle {
+  color: #fff;
+  font-size: 18px;
+  line-height: normal;
+}
+.chatActionButton {
+  width: 38px;
+  height: 38px;
+  padding: 0;
+  border: 0;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #0d1321;
+  background: #fff;
+  cursor: pointer;
+}
+.chatMessages {
+  width: 458px;
+  height: 573px;
+  padding: 20px;
+  display: flex;
+  align-items: flex-start;
+  overflow-y: auto;
+  background: #fff;
+}
+.chatMessageContent {
+  width: 397.1px;
+  display: flex;
+  flex-direction: column;
+}
+.chatMessageBubble {
+  width: 397.1px;
+  min-height: 144px;
+  padding: 12px 16px;
+  border-radius: 6px 18px 18px;
+  color: #222;
+  background: #f4f4f5;
+  font-size: 15px;
+  line-height: 24px;
+}
+.chatMessageMeta {
+  height: 16.5px;
+  display: flex;
+  align-items: flex-end;
+  font-size: 11px;
+  line-height: normal;
+  color: #767676;
+}
+.chatBottomArea {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 458px;
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: #fff;
+}
+.chatInputWrapper {
+  width: 428px;
+  height: 66px;
+  padding: 9px;
+  border-radius: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #fff;
+  box-shadow: 0 -4px 28px rgba(0,0,0,.08);
+}
+.chatInputPill {
+  width: 342px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  border-radius: 999px;
+}
+.chatInput {
+  min-width: 0;
+  height: 18px;
+  padding: 0;
+  flex: 1 1 0;
+  border: 0;
+  outline: 0;
+  color: #222;
+  background: transparent;
+  font: 15px var(--font-plus-jakarta), "Plus Jakarta Sans", Inter, sans-serif;
+}
+.chatToolbarButton {
+  width: 36px;
+  height: 36px;
+  padding: 0;
+  border: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #777;
+  background: transparent;
+}
+.chatSendButton {
+  width: 48px;
+  height: 48px;
+  padding: 0;
+  border: 0;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  background: #0b74ff;
+}
+.chatSendButton svg {
+  transform: rotate(45deg);
+  margin-left: -2px;
+  margin-top: 2px;
+}
+.chatFooter {
+  width: 428px;
+  height: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  color: #777;
+  font-size: 9px;
+  line-height: normal;
+}
+.chatFooter img { width: 14px; height: 14px; }
+.chatFooter strong { font-size: 9px; }
+
+@media (max-width: 1100px), (max-height: 650px) {
+  .chatPreview { display: none; }
+}
+
+@media (max-width: 768px) {
+  .container {
+    right: 16px;
+    bottom: 16px;
+    width: 56px;
+    gap: 8px;
+  }
+  .btn,
+  .iconZaloImg {
+    width: 44px;
+    height: 44px;
+  }
+  .topWrapper,
+  .btnTop,
+  .btnTop img {
+    width: 56px;
+    height: 56px;
+  }
+  .topWrapper { height: 0; }
+  .topWrapperVisible { height: 56px; }
+  .chatRoot:not(.chatRootOpen) {
+    right: 22px;
+    bottom: 182px;
+  }
+  .chatRootRaised:not(.chatRootOpen) { bottom: 238px; }
+}
+
+@media (max-width: 600px) {
+  .chatRootOpen {
+    right: 10px;
+    bottom: 10px;
+    width: calc(100vw - 20px);
+    height: min(650px, calc(100dvh - 20px));
+  }
+  .chatPopup,
+  .chatHeader,
+  .chatMessages,
+  .chatBottomArea { width: 100%; }
+  .chatPopup {
+    height: 100%;
+    max-height: calc(100dvh - 20px);
+  }
+  .chatMessages {
+    height: calc(100% - 77px);
+    min-height: 0;
+  }
+  .chatMessageContent,
+  .chatMessageBubble { width: 100%; }
+  .chatInputWrapper,
+  .chatFooter { width: calc(100% - 30px); }
+  .chatInputPill {
+    width: auto;
+    min-width: 0;
+    flex: 1 1 auto;
+  }
+}

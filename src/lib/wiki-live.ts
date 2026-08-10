@@ -1,0 +1,88 @@
+import type { ContentPage } from "@/lib/site";
+
+export const liveWiki: ContentPage[] = [
+  {
+    slug: "phat-trien-ai-chatbot-huong-dan-toan-dien-tu-a-z",
+    title: "Phát Triển AI Chatbot: Hướng Dẫn Toàn Diện Từ A–Z",
+    image: "/images/migrated/homenest-com-vn/wp-content/uploads/2026/01/22115643/Tich-hop-Chatbot-AI-vao-website.jpeg",
+    metaDescription: "AI chatbot đang trở thành công cụ quan trọng giúp doanh nghiệp tự động hóa chăm sóc khách hàng, tối ưu vận hành và nâng cao trải nghiệm người dùng trên nhiều nền tảng khác nhau. Nhờ ứng dụng NLP, Machine Learning và Generative AI, chatbot hiện đại có thể hiểu ngữ cảnh, phản hồi tự nhiên và hỗ trợ doanh nghiệp tăng hiệu suất hoạt động trong dài hạn. Để triển khai hiệu quả, doanh nghiệp cần lựa chọn đúng công nghệ và đối tác phát triển phù hợp với mục tiêu kinh doanh của mình.",
+    contentHtml: "",
+  },
+  {
+    slug: "ui-ux-tam-quan-trong-cua-ui-ux-doi-voi-website",
+    title: "UI/UX Là Gì? Ý Nghĩa Quan Trọng của Thiết Kế UI/UX Đối Với Website",
+    image: "/images/migrated/homenest-com-vn/wp-content/uploads/2023/10/UI-la-gi.jpg",
+    metaDescription: "UI và UX không chỉ là yếu tố thẩm mỹ mà còn là nền tảng quyết định hiệu quả kinh doanh của website, ứng dụng và sản phẩm số. Một thiết kế UI chuyên nghiệp giúp tạo ấn tượng mạnh mẽ, tăng khả năng nhận diện thương hiệu, trong khi UX tối ưu giúp người dùng dễ dàng tìm kiếm thông tin, thực hiện hành động và duy trì sự hài lòng trong suốt quá trình sử dụng. Sự kết hợp hài hòa giữa UI và UX không chỉ nâng cao trải nghiệm khách hàng mà còn góp phần cải thiện tỷ lệ chuyển đổi, tăng hiệu quả SEO, giảm chi phí vận hành và tạo lợi thế cạnh tranh bền vững cho doanh nghiệp trong môi trường số ngày càng khốc liệt.",
+    contentHtml: "",
+  },
+  {
+    slug: "cam-nang-trien-khai-crm-hieu-qua-nhung-luu-y-khong-the-bo-qua",
+    title: "Cẩm Nang Triển Khai CRM Hiệu Quả: Những Lưu Ý Không Thể Bỏ Qua",
+    image: "/images/migrated/homenest-com-vn/wp-content/uploads/2025/07/Cam-Nang-Trien-Khai-CRM-Hieu-Qua-Nhung-Luu-Y-Khong-The-Bo-Qua.png",
+    metaDescription: "Phần mềm CRM không chỉ là công cụ quản lý dữ liệu khách hàng mà còn là nền tảng chiến lược giúp doanh nghiệp tối ưu toàn bộ quy trình bán hàng, marketing và chăm sóc khách hàng một cách hệ thống. Việc triển khai CRM hiệu quả đòi hỏi sự kết hợp giữa chiến lược rõ ràng, quy trình phù hợp và yếu tố con người làm trung tâm, thay vì chỉ tập trung vào công nghệ. Khi lựa chọn đúng loại CRM (Cloud, On-Premises hay tùy chỉnh) và áp dụng linh hoạt theo đặc thù doanh nghiệp, CRM sẽ giúp nâng cao trải nghiệm khách hàng, tăng hiệu suất vận hành và tạo đà tăng trưởng bền vững trong quá trình chuyển đổi số.",
+    contentHtml: "",
+  },
+  {
+    slug: "wordpress-la-gi-uu-nhuoc-diem-tai-sao-nen-dung-de-thiet-ke-web",
+    title: "WordPress là gì? Ưu, nhược điểm? Tại sao nên dùng để thiết kế web?",
+    image: "/images/migrated/homenest-com-vn/wp-content/uploads/2024/11/Tong-quan-ve-Wordpress.jpg",
+    metaDescription: "Làm chủ ngay nền tảng xây dựng website phổ biến nhất hành tinh để biến mọi ý tưởng thành hiện thực mà không cần kiến thức lập trình chuyên sâu. Bài viết này sẽ giúp bạn thấu hiểu toàn diện sức mạnh của WordPress, từ việc tối ưu chi phí, đập tan những định kiến về hiệu suất, cho đến cách chọn lựa đúng nền tảng để bắt đầu hành trình chinh phục không gian số một cách chuyên nghiệp và hiệu quả nhất.",
+    contentHtml: "",
+  },
+  {
+    slug: "phat-trien-mvp-cho-startup-huong-dan-chi-tiet",
+    title: "Phát Triển MVP Cho Startup: Hướng Dẫn Chi Tiết Từng Bước Từ A–Z",
+    image: "/images/migrated/homenest-com-vn/wp-content/uploads/2025/12/Phat-Trien-MVP-Cho-Startup-Huong-Dan-Chi-Tiet-Tung-Buoc-Tu-A-Z.png",
+    metaDescription: "Phát triển MVP không chỉ là cách tiết kiệm chi phí mà còn là chiến lược cốt lõi giúp startup kiểm chứng ý tưởng nhanh, giảm rủi ro và rút ngắn thời gian ra thị trường. Bằng cách tập trung vào những tính năng quan trọng nhất, thu thập phản hồi từ người dùng thực và liên tục cải tiến theo dữ liệu, doanh nghiệp có thể xây dựng sản phẩm đúng nhu cầu thay vì dựa trên giả định. Một MVP được triển khai đúng cách không chỉ giúp tối ưu nguồn lực mà còn tạo nền tảng vững chắc để mở rộng, thu hút nhà đầu tư và tiến tới product–market fit bền vững.",
+    contentHtml: "",
+  },
+  {
+    slug: "javascript-la-gi-ly-do-nen-dung-javascript-khi-thiet-ke-website",
+    title: "JavaScript là gì? Lý do nên dùng JavaScript khi thiết kế website",
+    image: "/images/migrated/homenest-com-vn/wp-content/uploads/2025/07/JavaScript-la-gi-Ly-do-nen-dung-JavaScript-khi-thiet-ke-website.png",
+    metaDescription: "JavaScript không chỉ là ngôn ngữ lập trình phổ biến mà còn là nền tảng cốt lõi giúp website hiện đại trở nên tương tác, linh hoạt và giàu trải nghiệm người dùng hơn. Từ hiệu ứng động, xử lý dữ liệu thời gian thực đến phát triển các web app phức tạp, JavaScript đóng vai trò quan trọng trong cả giao diện (UI) lẫn trải nghiệm người dùng (UX). Dù tồn tại một số thách thức về hiệu suất và bảo mật, JavaScript vẫn là công nghệ không thể thiếu trong mọi dự án thiết kế website chuyên nghiệp hiện nay.",
+    contentHtml: "",
+  },
+  {
+    slug: "gemini-3-6-flash-va-google-antigravity-giai-phap-toi-uu-cho-lap-trinh",
+    title: "Gemini 3.6 Flash và Google Antigravity – Giải pháp tối ưu cho lập trình",
+    image: "/images/migrated/homenest-com-vn/wp-content/uploads/2026/07/Gemini-3.6-Flash-va-Google-Antigravity.jpg",
+    metaDescription: "Mô hình Gemini 3.6 Flash được Google thiết kế tối ưu cho các vòng lặp xử lý tự động trong phát triển phần mềm. Khi kết hợp với nền tảng Google Antigravity, hệ thống hỗ trợ điều phối đa nhân tố AI, tự động sửa lỗi và thực thi lệnh không đồng bộ. Mô hình giảm 17% lượng token đầu ra thừa nhờ cơ chế suy luận ngắn gọn, giúp tăng tốc độ phản hồi và tiết kiệm 16.6% chi phí API so với phiên bản tiền nhiệm. Dữ liệu tri thức của mô hình được cập nhật đến năm 2026. Mức giá vận hành được ấn định là 1.50 USD cho 1 triệu token đầu vào và 7.50 USD cho 1 triệu token đầu ra, hỗ trợ tối ưu chi phí vận hành cho các hệ thống tích hợp và triển khai tự động.",
+    contentHtml: "",
+  },
+  {
+    slug: "cong-nghe-blockchain-trong-y-te-loi-ich-va-ung-dung-thuc-tien",
+    title: "Công Nghệ Blockchain Trong Y Tế: Lợi Ích Và Ứng Dụng Thực Tiễn",
+    image: "/images/migrated/homenest-com-vn/wp-content/uploads/2026/07/Cong-Nghe-Blockchain-Trong-Y-Te.png",
+    metaDescription: "Blockchain đang mở ra một giai đoạn mới cho quá trình chuyển đổi số ngành y tế bằng cách giải quyết những bài toán cốt lõi về bảo mật dữ liệu, minh bạch thông tin, khả năng kết nối và tối ưu quy trình vận hành.",
+    contentHtml: "",
+  },
+  {
+    slug: "top-10-phan-mem-crm-y-te-tot-nhat-cho-benh-vien-va-phong-kham",
+    title: "Top 10+ Phần Mềm CRM Y Tế Tốt Nhất Cho Bệnh Viện Và Phòng Khám",
+    image: "/images/migrated/homenest-com-vn/wp-content/uploads/2026/07/Top-10-Phan-Mem-CRM-Y-Te-Tot-Nhat-Cho-Benh-Vien-Va-Phong-Kham.png",
+    metaDescription: "Một Healthcare CRM phù hợp không chỉ giúp quản lý dữ liệu bệnh nhân hiệu quả mà còn nâng cao trải nghiệm chăm sóc, tối ưu quy trình vận hành và tăng khả năng giữ chân bệnh nhân.",
+    contentHtml: "",
+  },
+  {
+    slug: "co-che-hoat-dong-cua-chatbot-dinh-huong-tac-vu",
+    title: "Cơ chế hoạt động của Chatbot định hướng tác vụ",
+    image: "/images/migrated/homenest-com-vn/wp-content/uploads/2026/07/Chatbot-dinh-huong-tac-vu-la-gi-1.jpg",
+    metaDescription: "Bài viết này sẽ giúp bạn giải đáp chi tiết về Chatbot định hướng tác vụ từ bản chất, cơ chế hoạt động đến cách triển khai. Cùng Winterfrost khám phá giải pháp tự động hóa quy trình kinh doanh trơn tru.",
+    contentHtml: "",
+  },
+  {
+    slug: "loi-ich-cua-app-y-te-doi-voi-benh-nhan-va-bac-si",
+    title: "Lợi Ích Của App Y Tế Đối Với Bệnh Nhân Và Bác Sĩ",
+    image: "/images/migrated/homenest-com-vn/wp-content/uploads/2026/07/Loi-Ich-Cua-App-Y-Te-Doi-Voi-Benh-Nhan-Va-Bac-Si.png",
+    metaDescription: "Ứng dụng y tế không chỉ giúp bệnh nhân tiếp cận dịch vụ chăm sóc sức khỏe nhanh chóng và thuận tiện hơn mà còn hỗ trợ bác sĩ, bệnh viện tối ưu quy trình khám chữa bệnh, quản lý dữ liệu và nâng cao chất lượng điều trị.",
+    contentHtml: "",
+  },
+  {
+    slug: "chatbot-truy-xuat-dua-tren-du-lieu-la-gi-huong-dan-tu-a-z",
+    title: "Chatbot truy xuất dựa trên dữ liệu là gì? Hướng dẫn từ A-Z",
+    image: "/images/migrated/homenest-com-vn/wp-content/uploads/2026/07/Chatbot-truy-xuat-du-lieu.jpg",
+    metaDescription: "Để khắc phục hoàn toàn rủi ro bịa đặt nội dung từ AI, Chatbot dựa trên truy xuất dữ liệu ra đời như một giải pháp tối ưu, hoạt động bằng cách chỉ trích xuất thông tin từ nguồn tài liệu nội bộ đã được doanh nghiệp chuẩn hóa.",
+    contentHtml: "",
+  },
+];

@@ -1,0 +1,287 @@
+.wrap {
+  position: relative;
+  left: 50%;
+  right: 50%;
+  display: flex;
+  width: 100vw;
+  min-height: 380px;
+  align-items: center;
+  justify-content: center;
+  margin: 0 -50vw 20px;
+  padding: 10px 0;
+}
+
+.heading {
+  position: absolute;
+  top: -48px;
+  left: max(40px, calc(50% - 660px));
+  color: #1a3b91;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.marqueeLayer {
+  position: absolute;
+  z-index: 0;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  pointer-events: none;
+  transform: translateY(-35px);
+}
+
+.marqueeViewport {
+  position: relative;
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+  padding: 10px 0;
+}
+
+.marqueeTrack {
+  display: flex;
+  width: max-content;
+  gap: 20px;
+  animation: uiMarqueeLeft 50s linear infinite;
+  will-change: transform;
+}
+
+.marqueeCard {
+  flex-shrink: 0;
+}
+
+.marqueeCard img {
+  display: block;
+  width: auto;
+  height: 200px;
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  object-fit: cover;
+}
+
+@keyframes uiMarqueeLeft {
+  from {
+    transform: translateX(0);
+  }
+
+  to {
+    transform: translateX(-33.33%);
+  }
+}
+
+.centerFrame {
+  position: relative;
+  z-index: 10;
+  display: flex;
+  width: 550px;
+  max-width: 95vw;
+  align-items: center;
+  justify-content: center;
+}
+
+.webFrameImage {
+  position: relative;
+  z-index: 5;
+  display: block;
+  width: 100%;
+  height: auto;
+  pointer-events: none;
+}
+
+.centerInner {
+  position: absolute;
+  z-index: 1;
+  top: 2.5%;
+  left: 50%;
+  width: 90.5%;
+  height: 73%;
+  overflow: hidden;
+  border-radius: 4px;
+  background: #000;
+  transform: translateX(-50%);
+}
+
+.centerImage,
+.phoneImage,
+.ipadImage {
+  position: absolute;
+  inset: 0;
+  display: block;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  object-fit: cover;
+  object-position: center top;
+  transition: opacity 0.7s ease-in-out;
+  user-select: none;
+}
+
+.centerImage[data-active="true"],
+.phoneImage[data-active="true"],
+.ipadImage[data-active="true"] {
+  opacity: 1;
+}
+
+.phoneFrame {
+  position: absolute;
+  z-index: 12;
+  bottom: -10%;
+  left: -8%;
+  display: flex;
+  width: 115px;
+  align-items: center;
+  justify-content: center;
+}
+
+.phoneFrameImage {
+  position: relative;
+  z-index: 5;
+  display: block;
+  width: 100%;
+  height: auto;
+  pointer-events: none;
+}
+
+.phoneInner {
+  position: absolute;
+  z-index: 1;
+  top: 2%;
+  left: 6.2%;
+  width: 87.5%;
+  height: 96%;
+  overflow: hidden;
+  border-radius: 20px;
+  background: #000;
+}
+
+.ipadFrame {
+  position: absolute;
+  z-index: 11;
+  right: -15%;
+  bottom: -10%;
+  display: flex;
+  width: 320px;
+  align-items: center;
+  justify-content: center;
+}
+
+.ipadFrameImage {
+  position: relative;
+  z-index: 5;
+  display: block;
+  width: 100%;
+  height: auto;
+  pointer-events: none;
+}
+
+.ipadInner {
+  position: absolute;
+  z-index: 1;
+  top: 3%;
+  left: 2.5%;
+  width: 95%;
+  height: 94%;
+  overflow: hidden;
+  border-radius: 8px;
+  background: #000;
+}
+
+@media (max-width: 1100px) {
+  .wrap {
+    min-height: 466px;
+  }
+
+  .centerFrame {
+    width: 650px;
+  }
+
+  .phoneFrame {
+    left: -10%;
+    width: 140px;
+  }
+
+  .phoneInner {
+    border-radius: 16px;
+  }
+
+  .ipadFrame {
+    right: -15%;
+    width: 300px;
+  }
+}
+
+@media (max-width: 768px) {
+  .wrap {
+    min-height: 400px;
+    margin-bottom: 40px;
+    padding: 30px 0 84px;
+  }
+
+  .centerFrame {
+    width: 480px;
+  }
+
+  .phoneFrame {
+    bottom: -15%;
+    left: -5%;
+    width: 110px;
+  }
+
+  .phoneInner {
+    border-radius: 12px;
+  }
+
+  .ipadFrame {
+    right: -10%;
+    bottom: -10%;
+    width: 240px;
+  }
+
+  .ipadInner {
+    border-radius: 6px;
+  }
+}
+
+@media (max-width: 480px) {
+  .wrap {
+    min-height: 340px;
+  }
+
+  .centerFrame {
+    width: 330px;
+  }
+
+  .phoneFrame {
+    bottom: -5%;
+    left: -2%;
+    width: 80px;
+  }
+
+  .phoneInner {
+    border-radius: 8px;
+  }
+
+  .ipadFrame {
+    right: -5%;
+    bottom: -5%;
+    width: 160px;
+  }
+
+  .ipadInner {
+    border-radius: 4px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .marqueeTrack {
+    animation-play-state: paused;
+  }
+
+  .centerImage,
+  .phoneImage,
+  .ipadImage {
+    transition: none;
+  }
+}

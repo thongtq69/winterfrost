@@ -1,0 +1,4650 @@
+{
+  "ban-le": {
+    "slug": "ban-le",
+    "title": "소매",
+    "hero": {
+      "title": "소매 소프트웨어 개발 서비스",
+      "description": "Winterfrost는 다중 채널 데이터 통합과 운영 프로세스 자동화에 중점을 둔 심층 소매 관리 시스템 프로그래밍 서비스를 제공합니다. 우리는 기업이 상품, 현금 흐름, 고객 데이터를 중앙 집중식 플랫폼에서 정확히 제어할 수 있도록 소프트웨어 인프라를 구축합니다.",
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Dich-vu-phat-trien-phan-mem-ban-le.jpg",
+      "imageAlt": "소매 소프트웨어 개발 서비스",
+      "primaryLabel": "직접 연락",
+      "secondaryLabel": "조언 요청 메시지"
+    },
+    "overview": {
+      "label": "개요",
+      "title": "Winterfrost의 도전 과제와 기술적 해결책",
+      "paragraphs": [
+        "소매업체는 종종 재고 데이터가 오프라인 매장과 전자상거래 플랫폼 간에 분산되어 데이터 불일치와 주문 처리 지연을 초래하는 상황에 직면합니다. Winterfrost는 창고, 회계, 배송 시스템 간에 API를 직접 통합하여 운영 성능을 최적화하는 실시간 동기화 소프트웨어 아키텍처를 설계하여 이 문제를 해결합니다."
+      ],
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Thach-thuc-va-giai-phap-ky-thuat-tu-HomeNest-Viet-Nam.jpg",
+      "imageAlt": "Winterfrost의 도전 과제와 기술적 해결책"
+    },
+    "counters": [
+      {
+        "index": "/01",
+        "value": "10+",
+        "label": "수년간의 경험"
+      },
+      {
+        "index": "/02",
+        "value": "250+",
+        "label": "고객"
+      },
+      {
+        "index": "/03",
+        "value": "15+",
+        "label": "서비스를 제공하는 국가"
+      },
+      {
+        "index": "/04",
+        "value": "98%",
+        "label": "고객 만족"
+      }
+    ],
+    "values": {
+      "title": "소매 기술 시스템 도입의 실질적 이점",
+      "intro": "전문 소매 소프트웨어는 기업이 수작업 작업을 없애고 관리 정확도를 높이는 데 도움을 줍니다.",
+      "items": [
+        {
+          "title": "창고 관리 자동화",
+          "description": "수입, 수출, 재고 관리 시 인적 오류를 최소화합니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "다중 채널 재고 동기화",
+          "description": "웹사이트, 앱, 물리적 판매 지점에서 즉시 제품 수 업데이트를 제공합니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "주문 처리 속도를 높이기",
+          "description": "자동화된 프로세스를 통해 고객 주문부터 배송까지의 시간을 단축할 수 있습니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "재무제표 정확히 작성하세요",
+          "description": "실시간 수익, 이익, 비용 데이터를 편향 없이 추출합니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "인건비 최적화",
+          "description": "비즈니스 프로세스 자동화 모듈 덕분에 운영 인력 수를 줄일 수 있습니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "성능 향상",
+          "description": "행동 데이터를 활용해 정확한 로열티 프로그램을 실행하세요.",
+          "image": "",
+          "imageAlt": ""
+        }
+      ],
+      "cta": "지금 상담 예약을 하세요!"
+    },
+    "why": {
+      "label": "왜 우리를 선택했을까요?",
+      "title": "Winterfrost를 기술 파트너로 선택해야 하는 이유",
+      "items": [
+        {
+          "number": "1",
+          "title": "맞춤형 프로그래밍 기능",
+          "description": "각 비즈니스의 실제 비즈니스 프로세스를 기반으로 기능을 구축하세요."
+        },
+        {
+          "number": "2",
+          "title": "오픈 시스템 아키텍처",
+          "description": "배송, API를 통한 결제 등 추가 모듈이나 제3자 통합이 용이합니다."
+        },
+        {
+          "number": "3",
+          "title": "표준 데이터 보안",
+          "description": "비즈니스 정보를 보호하기 위해 엄격한 암호화 및 분산화 프로토콜을 적용하세요."
+        },
+        {
+          "number": "4",
+          "title": "확장성",
+          "description": "시스템은 높은 부하 용량을 갖추고 있어 판매 지점이나 교통량이 급증할 때 확장할 준비가 되어 있습니다."
+        },
+        {
+          "number": "5",
+          "title": "엄격한 시험 과정",
+          "description": "소프트웨어가 원활하게 작동하도록 하며, 피크 소매 기간 동안 기술적 오류 없이 작동하도록 하세요."
+        },
+        {
+          "number": "6",
+          "title": "실시간 기술 지원",
+          "description": "엔지니어 팀은 신속하게 반응하고 운영 문제를 처리합니다."
+        }
+      ]
+    },
+    "cta": {
+      "label": "지금 연락하세요!",
+      "title": "독자적인 AI 시스템으로 디지털 시대를 선도하다",
+      "description": "일반적인 자동화에만 그치지 마십시오. Winterfrost에 가입하여 고유한 AI 모델을 구축하는 데이터의 힘을 탐색하고 귀하의 비즈니스가 시장에서 절대적인 경쟁 우위를 확보하도록 돕습니다.",
+      "buttonLabel": "지금 AI 로드맵을 구축하세요",
+      "image": "/images/people/cta/winterfrost/chuyen-vien-tu-van-viet-nam.png",
+      "imageAlt": "전문가 컨설턴트"
+    },
+    "cases": {
+      "title": "Case Studies",
+      "links": [
+        {
+          "href": "https://winterfrost.tech/case-studies/website-zenovia-retail",
+          "text": "소매\n공급망\n웹사이트 디자인\n웹사이트 제노비아 리테일\n프로젝트 보기"
+        },
+        {
+          "href": "https://winterfrost.tech/case-studies/website-veloura-nails",
+          "text": "소매\n웹사이트 디자인\n웹사이트 벨로라 네일스\n프로젝트 보기"
+        },
+        {
+          "href": "https://winterfrost.tech/case-studies/website-mocvan-tea",
+          "text": "소매\n전자상거래\n웹사이트 디자인\n웹사이트 모반 티\n프로젝트 보기"
+        }
+      ],
+      "images": [
+        {
+          "alt": "벨로라 네일스 홈",
+          "src": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/05/Trang-chu-Destiny-Nail-Bar.jpg"
+        },
+        {
+          "alt": "Mocvan 차 인터페이스 – 사례 연구",
+          "src": "/images/projects/website-mocvan-tea/01-anh-bia-du-an.webp?v=wf-projects-pro-20260726"
+        }
+      ]
+    },
+    "services": {
+      "title": "소매업의 핵심 서비스",
+      "intro": "프로그램 항목들은 공급망과 영업의 종합적인 디지털화에 중점을 둡니다.",
+      "items": [
+        {
+          "title": "전자상거래 웹사이트 디자인",
+          "description": "고성능 영업 웹사이트를 구축하고, 기술적 전환율을 최적화하세요.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Thiet-ke-website-E-commerce-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "전자상거래 웹사이트 디자인 - Winterfrost"
+        },
+        {
+          "title": "모바일 앱 쇼핑 개발",
+          "description": "iOS와 안드로이드에서 푸시 알림과 원터치 결제를 통해 앱을 프로그래밍하는 중입니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phat-trien-Mobile-App-mua-sam.jpg",
+          "imageAlt": "모바일 앱 쇼핑 개발"
+        },
+        {
+          "title": "POS 시스템 프로그래밍",
+          "description": "판매 시점 관리 소프트웨어, 통합 영수증 프린터 하드웨어 및 바코드 스캐너를 구축했습니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Lap-trinh-he-thong-POS.jpg",
+          "imageAlt": "POS 시스템 프로그래밍"
+        },
+        {
+          "title": "창고 관리 소프트웨어 구축",
+          "description": "창고 과정을 디지털화하고, 상품을 찾으며, 운송을 관리하세요.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Xay-dung-phan-mem-quan-ly-kho.jpg",
+          "imageAlt": "창고 관리 소프트웨어 구축"
+        },
+        {
+          "title": "소매 CRM 시스템",
+          "description": "고객 데이터 관리, 잠재고객 그룹 분류, 구매 이력 등을 위한 도구를 개발하세요.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/He-thong-CRM-ban-le.jpg",
+          "imageAlt": "소매 CRM 시스템"
+        },
+        {
+          "title": "소매업에서의 AI 응용",
+          "description": "수입 수요를 예측하고 제품 추천을 개인화하는 알고리즘 프로그래밍.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Ung-dung-AI-trong-ban-le.jpg",
+          "imageAlt": "소매업에서의 AI 응용"
+        }
+      ],
+      "cta": "모든 서비스를 탐색하기"
+    },
+    "process": {
+      "label": "프로젝트 구현 과정?",
+      "items": [
+        {
+          "number": "01",
+          "tag": "분석",
+          "title": "인프라 조사 및 기술 요구사항 설정",
+          "description": "엔지니어링 팀은 레거시 시스템의 현재 상태(있는 경우)를 평가하여 부하 용량, 보안, 시스템 지연 등 기능적 및 비기능 요구사항을 결정합니다."
+        },
+        {
+          "number": "02",
+          "tag": "디자인",
+          "title": "건물 시스템 및 데이터베이스 아키텍처",
+          "description": "관계 엔터티 다이어그램, 백엔드 아키텍처 명세, 계획 데이터 흐름을 설계하여 모듈 간 정보 무결성을 보장합니다."
+        },
+        {
+          "number": "03",
+          "tag": "프로그래밍",
+          "title": "애자일/스크럼 모델에 따라 소스 코드를 실행하세요",
+          "description": "소스 코드 작성을 단계별로 구현하고, 클린 코드 표준과 소스 코드 검토 프로세스를 적용하여 구축 단계부터 기술적 취약점을 제거하세요."
+        },
+        {
+          "number": "04",
+          "tag": "테스트",
+          "title": "품질 관리 및 성능 테스트",
+          "description": "모듈이 일관되게 작동하는지 확인하기 위해 통합 테스트를 수행하세요. 실제 거래 시나리오에서 시스템의 부하 한계를 결정하기 위해 부하 테스트 및 스트레스 테스트를 실시합니다."
+        },
+        {
+          "number": "05",
+          "tag": "배포",
+          "title": "시스템을 실제 운영 환경에 풀어놓기",
+          "description": "블루-그린 또는 캐너리 배포 시나리오를 통해 클라우드 또는 물리적 서버 인프라에 시스템을 설치하여 다운타임을 줄이고 운영 위험을 최소화합니다."
+        },
+        {
+          "number": "06",
+          "tag": "작동",
+          "title": "주기적인 성능 모니터링 및 최적화",
+          "description": "시스템 상태를 24시간 모니터링할 수 있는 모니터링 및 기록 도구를 설정하세요. 보안 패치 업데이트, 데이터베이스 쿼리 최적화, 실제 운영 데이터를 기반으로 기능 업그레이드를 수행합니다."
+        }
+      ],
+      "cta": "제품 제작을 시작하세요!"
+    },
+    "faq": {
+      "label": "자주 묻는 질문",
+      "title": "모든 질문에 대한 답변",
+      "intro": "업계별 소프트웨어 개발 서비스에 관한 흔한 질문에 대한 답변을 찾아보세요.",
+      "items": [
+        {
+          "q": "이 시스템이 기존 회계 또는 ERP 소프트웨어와 통합할 수 있나요?",
+          "a": "Winterfrost는 SAP, Oracle, Misa 또는 기타 특수 관리 소프트웨어와 같은 인기 플랫폼에 직접 연결할 수 있는 API-First 아키텍처를 기반으로 시스템을 설계합니다. 우리는 부서 간 재무 및 상품 정보의 일관된 흐름을 보장하기 위해 RESTful API나 Webhooks 프로토콜을 통해 데이터 동기화를 수행합니다."
+        },
+        {
+          "q": "대형 프로모션 시 과부하 상황은 어떻게 처리하나요?",
+          "a": "클라우드 인프라에 자동 확장 솔루션을 캐싱 및 부하 분산 기법과 결합하여 적용합니다. 이 아키텍처는 서버가 실시간으로 수천 건의 접근 요청과 거래를 동시에 처리할 수 있도록 서버 자원을 자동으로 확장할 수 있게 해줍니다."
+        },
+        {
+          "q": "다중 채널 판매에서 재고 편차가 없도록 보장하는 메커니즘은 무엇인가요?",
+          "a": "이 시스템은 트랜잭션 제어 메커니즘과 비관적/낙관적 잠금 기록을 사용합니다. 웹사이트, 앱, POS 등 어떤 채널에서 주문이 생성되면, 시스템은 주문을 확인하기 전에 해당 재고량을 중앙 데이터베이스에 임시로 보관하여 실제 수량을 과도하게 판매할 위험을 완전히 제거합니다."
+        },
+        {
+          "q": "고객 데이터와 거래 정보는 어떤 기준으로 보호되나요?",
+          "a": "모든 민감한 데이터는 저장 수준에서 AES-256 알고리즘을 사용해 암호화되고, 전송 시 TLS/SSL 프로토콜을 통해 암호화됩니다. 또한, RBAC 역할 기반 접근 분산 시스템과 활동 추적을 구축하여 시스템 데이터에 영향을 미치는 모든 작업을 통제하고 검색합니다."
+        },
+        {
+          "q": "인터넷 연결이 끊겼을 때 POS 소프트웨어가 작동할까요?",
+          "a": "로컬 저장 메커니즘을 사용해 오프라인 모드 기능을 프로그래밍합니다. 네트워크가 끊긴 후에도 직원들은 정상적인 판매 및 송장 인쇄 작업을 수행할 수 있습니다. 인터넷 연결이 복구되는 즉시 시스템은 자동으로 데이터를 중앙 서버에 동기화하여 수익과 재고를 업데이트합니다."
+        },
+        {
+          "q": "핸드오버 후 유지보수 비용과 시스템 업그레이드 가능성은 어떻게 되나요?",
+          "a": "이 시스템은 독립적인 모듈식 구조 위에 구축되어 있어 전체 소스 코드를 리팩스터링하지 않고도 빠르게 업그레이드하거나 새로운 기능을 추가할 수 있습니다. 유지보수 비용 측면에서 Winterfrost는 하드웨어 자원 소비를 최소화하기 위해 소스 코드를 최적화하여 기업이 월별 인프라 운영 비용을 절감할 수 있도록 돕고, 내부 팀이 관리할 수 있는 완전한 기술 문서를 제공합니다."
+        }
+      ]
+    }
+  },
+  "bat-dong-san": {
+    "slug": "bat-dong-san",
+    "title": "부동산",
+    "hero": {
+      "title": "부동산 디지털 전환 및 프로그래밍 솔루션",
+      "description": "Winterfrost는 중앙집중식 부동산 관리 소프트웨어 인프라 구축 서비스를 제공하여 개발자와 거래소가 제품 유통 과정을 자동화하고, 고객 데이터를 관리하며, 거래 현금 흐름을 최적화할 수 있도록 돕습니다.",
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-lap-trinh-va-chuyen-doi-so-bat-dong-san.jpg",
+      "imageAlt": "부동산 디지털 전환 및 프로그래밍 솔루션",
+      "primaryLabel": "직접 연락",
+      "secondaryLabel": "조언 요청 메시지"
+    },
+    "overview": {
+      "label": "개요",
+      "title": "거래 과정의 중앙집중적 통제 및 표준화",
+      "paragraphs": [
+        "부동산 비즈니스의 가장 큰 도전은 쇼핑카트 관리의 분산화로, 거래가 겹치고 수수료 산정에 투명성이 부족해진다는 점입니다. Winterfrost는 실시간 루트 잠금 메커니즘을 통합한 중앙 집중식 재고 관리 시스템을 구축하여 거래의 고유성을 보장하고 영업, 회계사, 고객 간 데이터를 동기화함으로써 이 문제를 해결합니다."
+      ],
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Kiem-soat-tap-trung-va-chuan-hoa-quy-trinh-giao-dich.jpg",
+      "imageAlt": "거래 과정의 중앙집중적 통제 및 표준화"
+    },
+    "counters": [
+      {
+        "index": "/01",
+        "value": "10+",
+        "label": "수년간의 경험"
+      },
+      {
+        "index": "/02",
+        "value": "250+",
+        "label": "고객"
+      },
+      {
+        "index": "/03",
+        "value": "15+",
+        "label": "서비스를 제공하는 국가"
+      },
+      {
+        "index": "/04",
+        "value": "98%",
+        "label": "고객 만족"
+      }
+    ],
+    "values": {
+      "title": "부동산 소프트웨어 도입의 실질적 이점",
+      "intro": "이 시스템은 제품 인수인계 단계부터 접근 단계까지 전체 비즈니스 사이클을 디지털화하는 데 도움을 줍니다.",
+      "items": [
+        {
+          "title": "실시간 카트 관리",
+          "description": "재고 상태, 순서대로, 시스템 전반에 즉시 판매되는 상태 등을 업데이트하세요.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "수수료 계산 자동화",
+          "description": "자동 할인 및 수수료 계산 공식을 설정하여 수동 오류를 없애세요.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "고객 데이터 보안",
+          "description": "잠재 고객 정보를 체계화하고 내부 데이터 손실을 방지하세요.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "승인 과정을 최적화하세요",
+          "description": "예약 및 결제 과정을 디지털화하여 거래 성사를 가속화합니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "수익 보고서 정확성",
+          "description": "프로젝트별 또는 직원별로 현금 흐름과 영업 성과 데이터를 추출하세요.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "법률 문서 표준화",
+          "description": "계약서와 프로젝트 법률 문서를 중앙에서 관리하여 빠른 조회를 지원합니다.",
+          "image": "",
+          "imageAlt": ""
+        }
+      ],
+      "cta": "지금 상담 예약을 하세요!"
+    },
+    "why": {
+      "label": "왜 우리를 선택했을까요?",
+      "title": "Winterfrost를 기술 파트너로 선택해야 하는 이유",
+      "items": [
+        {
+          "number": "1",
+          "title": "프로페크에 대한 지식",
+          "description": "투자자와 유통 에이전트의 실제 과정을 기반으로 한 프로그래밍입니다."
+        },
+        {
+          "number": "2",
+          "title": "안정 시스템 아키텍처",
+          "description": "많은 브로커가 동시에 시스템에 접속하더라도 시스템이 지속적으로 작동하도록 보장합니다."
+        },
+        {
+          "number": "3",
+          "title": "크로스 플랫폼 통합 기능",
+          "description": "Map API, eKYC 전자 신원 확인 시스템 및 결제 게이트웨이와의 유연한 연결."
+        },
+        {
+          "number": "4",
+          "title": "기업 데이터 보안",
+          "description": "고급 데이터 암호화 표준을 적용하여 금융 거래 정보를 보호하세요."
+        },
+        {
+          "number": "5",
+          "title": "전체 소스 코드를 넘겨주기",
+          "description": "기업이 장기적으로 선제적으로 관리할 수 있도록 전체 기술 문서와 소스 코드를 제공하세요."
+        },
+        {
+          "number": "6",
+          "title": "유연한 개발 로드맵",
+          "description": "미래에는 가상현실(VR)이나 AI 가격 책정과 같은 기술을 쉽게 통합할 수 있습니다."
+        }
+      ]
+    },
+    "cta": {
+      "label": "지금 연락하세요!",
+      "title": "부동산 관리 및 유통 인프라의 디지털화",
+      "description": "Winterfrost의 엔지니어링 팀에 연락하여 실시간 카트 관리 시스템을 구현하고 거래 과정을 자동화하여 비즈니스 운영 효율성을 높이세요.",
+      "buttonLabel": "기술적 해결책 조언을 받아보세요",
+      "image": "/images/people/cta/winterfrost/chuyen-vien-nu.png",
+      "imageAlt": "전문가 컨설턴트"
+    },
+    "cases": {
+      "title": "Case Studies",
+      "links": [
+        {
+          "href": "https://winterfrost.tech/case-studies/website-verdora-property",
+          "text": "부동산\n웹사이트 디자인\n웹사이트 베르도라 부동산\n프로젝트 보기"
+        },
+        {
+          "href": "https://winterfrost.tech/case-studies/mont-pine-realty",
+          "text": "부동산\n웹사이트 디자인\n웹사이트 베르도라 부동산\n프로젝트 보기"
+        },
+        {
+          "href": "https://winterfrost.tech/case-studies/la-cerise-dalat-villas",
+          "text": "부동산\n웹사이트 디자인\n로베나 트래블 – 달랏 부동산 웹사이트 디자인\n프로젝트 보기"
+        }
+      ],
+      "images": [
+        {
+          "alt": "블루 다이아몬드 인터페이스 – 사례 연구",
+          "src": "/images/projects/website-verdora-property/01-anh-bia-du-an.webp?v=wf-projects-pro-20260726"
+        },
+        {
+          "alt": "베르도라 부동산 (3)",
+          "src": "/images/migrated/homenest-com-vn/wp-content/uploads/2025/07/22124517/Mont-Pine-Realty-3-2.webp"
+        },
+        {
+          "alt": "로베나 여행 – 사례 연구",
+          "src": "/images/migrated/homenest-com-vn/wp-content/uploads/2025/06/La-Cerise-Dalat-Villas-Case-Study.jpg"
+        }
+      ]
+    },
+    "services": {
+      "title": "부동산 부문을 위한 핵심 프로그래밍 서비스",
+      "intro": "프로그램 항목들은 포괄적인 관리 생태계 구축에 중점을 둡니다.",
+      "items": [
+        {
+          "title": "온라인 거래 플랫폼 개발",
+          "description": "프로젝트를 나열하고, 스마트 검색, 온라인 예약을 제공하는 웹사이트와 모바일 앱을 구축하세요",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phat-trien-san-giao-dich-truc-tuyen.jpg",
+          "imageAlt": "온라인 거래 플랫폼 개발"
+        },
+        {
+          "title": "특수 CRM 시스템 프로그래밍",
+          "description": "필요가 발생하는 순간부터 판매 계약 체결까지 고객 여정을 관리하세요.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Lap-trinh-Dashboard-phan-tich-du-lieu-1.jpg",
+          "imageAlt": "데이터 분석 대시보드 프로그래밍"
+        },
+        {
+          "title": "쇼핑카트 관리 엔진 구축",
+          "description": "핵심 프로그래밍은 제품 상태를 처리하고 딜러에게 상품을 유통하는 것을 조정합니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Xay-dung-Engine-quan-ly-gio-hang.jpg",
+          "imageAlt": "쇼핑카트 관리 엔진 구축"
+        },
+        {
+          "title": "건물 및 거주자 관리 시스템",
+          "description": "운영 관리, 수수료 징수 및 애프터서비스 상호작용을 위한 애플리케이션을 개발합니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/He-thong-quan-ly-toa-nha-va-cu-dan.jpg",
+          "imageAlt": "건물 및 거주자 관리 시스템"
+        },
+        {
+          "title": "3D/VR 투어 솔루션 통합",
+          "description": "웹/앱을 통해 고객이 프로젝트를 온라인으로 둘러볼 수 있도록 가상현실 플랫폼을 내장하세요.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Tich-hop-giai-phap-3D-VR-Tour.jpg",
+          "imageAlt": "3D-VR 투어 솔루션 통합"
+        },
+        {
+          "title": "데이터 분석 대시보드 프로그래밍",
+          "description": "비즈니스 지표를 시각화하고 시장 동향을 예측하는 도구를 구축하세요.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Lap-trinh-Dashboard-phan-tich-du-lieu.jpg",
+          "imageAlt": "데이터 분석 대시보드 프로그래밍"
+        }
+      ],
+      "cta": "모든 서비스를 탐색하기"
+    },
+    "process": {
+      "label": "프로젝트 구현 과정?",
+      "items": [
+        {
+          "number": "01",
+          "tag": "설문조사",
+          "title": "공정 분석 및 명세서",
+          "description": "엔지니어 팀은 예약 단계부터 계약 체결까지 판매 과정을 상세히 조사합니다. 쇼핑카트 구조, 수수료 계산 논리, B2B 고객 데이터 보안 표준의 기술 요구사항을 정의합니다."
+        },
+        {
+          "number": "02",
+          "tag": "디자인",
+          "title": "디지털 거래 아키텍처와 흐름 구축",
+          "description": "창고 및 사용자를 위한 관계 엔터티 다이어그램(ERD) 설계. 이 단계에서는 여러 중개업체가 동일한 상품에 대해 거래를 실행할 때 데이터 충돌을 방지하기 위해 실시간 정렬 잠금 아키텍처가 설정됩니다."
+        },
+        {
+          "number": "03",
+          "tag": "프로그래밍",
+          "title": "소스 코드 실행 및 모듈 통합",
+          "description": "애자일 모델에 따라 소스 코드 작성을 구현하며, 장바구니 처리 코어(재고 엔진)와 CRM 시스템 구축에 중점을 둡니다. Maps API와 연결된 API 게이트웨이, 결제 게이트웨이, 디지털 서명 시스템이 동기화되어 구축됩니다."
+        },
+        {
+          "number": "04",
+          "tag": "테스트",
+          "title": "데이터 제어 및 시스템 부하",
+          "description": "쇼핑 카트에서 회계로 데이터 흐름이 오류 없이 이루어지도록 통합 테스트를 실시하세요. 이 시스템은 갑작스러운 교통 상황에서 집중된 판매에서도 안정적인 운영을 보장하기 위해 스트레스 테스트를 거칩니다."
+        },
+        {
+          "number": "05",
+          "tag": "배포",
+          "title": "클라우드 인프라 구성 및 데이터 변환",
+          "description": "안전한 클라우드 인프라 위에 운영 환경을 구축하세요. 기존 시스템에서 프로젝트 데이터 파일, 고객 명단, 거래 내역을 정확히 변환하는 과정을 수행합니다."
+        },
+        {
+          "number": "06",
+          "tag": "작동",
+          "title": "보안을 유지하고 주기적으로 성능 최적화를 수행합니다",
+          "description": "시스템 상태를 24시간 모니터링할 수 있는 모니터링 도구를 활성화하세요. 보안 패치 업데이트를 수행하고, 데이터베이스 쿼리 속도를 최적화하며, 관리팀에 일대일 기술 지원을 제공합니다."
+        }
+      ],
+      "cta": "제품 제작을 시작하세요!"
+    },
+    "faq": {
+      "label": "자주 묻는 질문",
+      "title": "모든 질문에 대한 답변",
+      "intro": "부동산 시스템 엔지니어링에 관한 자주 묻는 질문",
+      "items": [
+        {
+          "q": "시스템은 판매 중에 유닛이 쌓이는 것을 어떻게 방지하나요?",
+          "a": "Winterfrost는 데이터베이스 계층에서 직접 피비미스트 락킹 메커니즘을 사용합니다. 직원이 보류 명령을 시작하면, 해당 제품 레코드는 밀리초 단위로 즉시 잠겨 거래가 완료되거나 지정된 보류 시간이 만료될 때까지 다른 쓰기 접근이 불가능합니다."
+        },
+        {
+          "q": "시스템이 기존 ERP 또는 회계 플랫폼과 통합할 수 있나요?",
+          "a": "네. 우리는 SAP, Oracle, Microsoft Dynamics와 같은 ERP 소프트웨어와의 양방향 데이터 연결 및 교환을 가능하게 하는 API-First 표준에 따라 시스템을 구축합니다. 계약, 지급 일정, 부채에 관한 데이터 스트림은 자동으로 동기화되어 기업 전반에 걸쳐 일관성을 보장합니다."
+        },
+        {
+          "q": "민감한 고객 데이터는 손실을 방지하기 위해 어떻게 보호하나요?",
+          "a": "우리는 AES-256 데이터 암호화를 결합한 역할 기반 접근 분산화 시스템을 구현합니다. 모든 데이터 검색 또는 내보내기 작업은 시스템 로그에 기록되어 정보 보안 사고가 발생했을 때 통제 및 추적에 사용됩니다."
+        },
+        {
+          "q": "개장 당일에 수천 개의 중개업체로부터 갑작스러운 트래픽이 몰려올 때 시스템은 어떻게 처리하나요?",
+          "a": "저희 솔루션은 클라우드 인프라에서 자동 확장이 가능한 마이크로서비스 아키텍처를 사용합니다. 시스템은 자원을 자동으로 할당하고 Redis 데이터 버퍼링 계층을 사용하여 데이터베이스 부하를 줄여, 고부하에서도 2초 미만의 응답 속도를 보장합니다."
+        },
+        {
+          "q": "소프트웨어가 전자 계약서 서명과 온라인 고객 식별 과정을 지원하나요?",
+          "a": "네. Winterfrost는 전자 식별 eKYC 솔루션을 통합하여 고객 정보를 인증하고, 디지털 서명 제공업체와 연결하여 계약 서명 전 과정을 디지털화하여 현행 법률에 따른 법적 유효성을 보장합니다."
+        },
+        {
+          "q": "기업들이 복잡한 할인 프로그램과 판매 정책을 스스로 구성할 수 있을까요?",
+          "a": "관리자가 소스 코드를 방해하지 않고 프로젝트 각 단계별로 할인 규칙, 결제 일정, 우대 조건을 설정할 수 있도록 유연한 구성 엔진을 프로그래밍하여 비즈니스 부서가 능동적으로 운영할 수 있도록 돕습니다."
+        }
+      ]
+    }
+  },
+  "chuoi-cung-ung": {
+    "slug": "chuoi-cung-ung",
+    "title": "공급망",
+    "hero": {
+      "title": "종합 공급망 관리 솔루션",
+      "description": "Winterfrost는 중앙집중식 공급망 관리 소프트웨어 인프라 구축 서비스를 제공하여 기업이 공급업체에서 최종 고객으로 데이터 흐름을 포괄적으로 제어할 수 있도록 돕습니다. 우리는 다중 채널 데이터를 통합할 수 있는 소프트웨어 아키텍처를 설계하여 투명성을 보장하고 전체 물류 시스템 전반에 걸쳐 운영 비용을 최적화합니다.",
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-dong-bo-chuoi-cung-ung-cua-HomeNest-Viet-Nam.jpg",
+      "imageAlt": "Winterfrost의 공급망 동기화 솔루션",
+      "primaryLabel": "직접 연락",
+      "secondaryLabel": "조언 요청 메시지"
+    },
+    "overview": {
+      "label": "개요",
+      "title": "공급망 동기식 솔루션",
+      "paragraphs": [
+        "공급망 관리에서 가장 큰 도전은 관련 당사자 간 정보 동기화 부족으로 인해 가상 재고 관리와 상품 조정 지연이 발생한다는 점입니다. Winterfrost는 제조업체, 운송업체, 창고 간 실시간 데이터 공유 메커니즘을 통합하는 통합 공급망 허브 시스템을 구축하여 이 문제를 해결합니다. 저희 솔루션은 데이터 병목 현상을 없애어, 기업이 제품 여정을 정확히 추적하고 시장 변동에 즉각적으로 대응할 수 있게 합니다."
+      ],
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-quan-ly-chuoi-cung-ung-toan-dien.jpg",
+      "imageAlt": "종합 공급망 관리 솔루션"
+    },
+    "counters": [
+      {
+        "index": "/01",
+        "value": "10+",
+        "label": "수년간의 경험"
+      },
+      {
+        "index": "/02",
+        "value": "250+",
+        "label": "고객"
+      },
+      {
+        "index": "/03",
+        "value": "15+",
+        "label": "서비스를 제공하는 국가"
+      },
+      {
+        "index": "/04",
+        "value": "98%",
+        "label": "고객 만족"
+      }
+    ],
+    "values": {
+      "title": "공급망 관리 시스템 도입의 실질적 이점",
+      "intro": "중앙집중식 공급망 시스템은 데이터를 통합하고, 수동 조정을 없애며, 오케스트레이션 지연을 제거합니다. 이 솔루션은 다중 모듈 간의 통일성을 보장하여, 기업이 정확한 실제 데이터를 기반으로 운영 결정을 내릴 수 있도록 지원합니다.",
+      "items": [
+        {
+          "title": "재고 수준 최적화",
+          "description": "알고리즘은 재주문 시점을 자동으로 계산하여 과잉 재고를 최소화하고 공급 중단을 방지합니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "데이터 가시성 향상",
+          "description": "전체 유통망 전반의 상품 흐름과 주문 상태를 실시간으로 종합적으로 볼 수 있습니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "구매 과정을 자동화하세요",
+          "description": "견적 요청 작성부터 창고 완료 및 공급업체 지급까지 자동화된 워크플로우를 구축합니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "물류 운영 비용 최소화",
+          "description": "제품 단위당 비용을 줄이기 위해 배송 경로와 포장 방식을 최적화합니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "정확한 수요 예측",
+          "description": "과거 데이터를 활용해 다음 사업 단계에 필요한 물량을 예측하는 모델을 프로그래밍하세요.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "당사자 간 조정 개선",
+          "description": "파트너와 하청업체를 위한 공통 디지털 작업 환경을 조성하여 대응과 문제 해결을 가속화합니다.",
+          "image": "",
+          "imageAlt": ""
+        }
+      ],
+      "cta": "지금 상담 예약을 하세요!"
+    },
+    "why": {
+      "label": "왜 우리를 선택했을까요?",
+      "title": "왜 공급망 디지털 전환 솔루션으로 Winterfrost를 선택해야 하는가",
+      "items": [
+        {
+          "number": "1",
+          "title": "집중적인 분산 인프라를 구축할 수 있는 능력",
+          "description": "우리는 여러 지리적 위치에 있는 여러 창고와 지점 간에 데이터를 즉시 동기화할 수 있는 시스템을 프로그래밍합니다. 이를 통해 기업은 거리의 장벽 없이 공급망을 중앙에서 관리할 수 있습니다."
+        },
+        {
+          "number": "2",
+          "title": "업계 표준 데이터 보안",
+          "description": "모든 거래 정보와 공급업체 데이터는 비즈니스 정보 손실 위험을 완전히 방지하기 위해 다층 암호화되어 있습니다. 이 시스템은 모든 운영 상황에서 데이터 무결성을 보장합니다."
+        },
+        {
+          "number": "3",
+          "title": "유연한 시스템 확장성",
+          "description": "모듈식 소프트웨어 아키텍처는 기업이 전체 소스 코드를 재구성하지 않고도 쉽게 새로운 기능을 추가하거나 운영을 확장할 수 있게 합니다. 이 솔루션은 시스템이 항상 비즈니스 성장과 호환되도록 보장합니다."
+        },
+        {
+          "number": "4",
+          "title": "전문적인 다중 플랫폼 시스템 통합",
+          "description": "저희 솔루션은 ERP나 CRM과 같은 기존 관리 소프트웨어와 표준화된 API 게이트웨이를 통해 동기화되어 연결됩니다. 부서 간 정보 흐름은 항상 원활하며 겹치지 않습니다."
+        },
+        {
+          "number": "5",
+          "title": "안정적인 운영 시스템과 높은 적재 용량",
+          "description": "이 소프트웨어는 빠른 검색 속도와 하루 대량 주문 처리 시 기술적 오류 없음을 보장하기 위해 엄격히 테스트됩니다. 이는 공급망 연속성을 유지하는 데 도움이 됩니다."
+        },
+        {
+          "number": "6",
+          "title": "소스 코드를 완전히 넘기고 마스터하는 것",
+          "description": "기업들은 개발 요구에 따라 시스템을 적극적으로 관리하거나 업그레이드할 수 있도록 모든 소스 코드와 상세한 기술 지침 문서를 받습니다. 우리는 소프트웨어 저작권에 대해 절대적인 투명성을 약속합니다."
+        }
+      ]
+    },
+    "cta": {
+      "label": "지금 연락하세요!",
+      "title": "종합 공급망 관리 인프라의 디지털화",
+      "description": "Winterfrost의 엔지니어링 팀에 연락하여 중앙 집중식 공급 관리 시스템을 구축하고 오케스트레이션 프로세스를 자동화하여 비즈니스 운영 효율성을 최적화하세요.",
+      "buttonLabel": "지금 조언을 받아보세요",
+      "image": "/images/people/cta/winterfrost/nhan-vien-cong-nghe-tre.png",
+      "imageAlt": "전문가 컨설턴트"
+    },
+    "cases": {
+      "title": "Case Studies",
+      "links": [
+        {
+          "href": "https://winterfrost.tech/case-studies/website-zenovia-retail",
+          "text": "소매\n공급망\n웹사이트 디자인\n웹사이트 제노비아 리테일\n프로젝트 보기"
+        }
+      ],
+      "images": []
+    },
+    "services": {
+      "title": "공급망 시스템에 중점을 둔 프로그래밍 서비스",
+      "intro": "우리의 프로그램 항목은 모든 접점의 디지털화와 투입에서 산출로 물품의 흐름을 최적화하는 지속 가능한 디지털 인프라 구축에 중점을 둡니다.",
+      "items": [
+        {
+          "title": "중앙 집중식 주문 발사 시스템 프로그래밍",
+          "description": "우리는 모든 유통 채널의 데이터를 단일 연락 지점으로 통합하는 주문 처리 코어를 구축합니다. 이 서비스는 기업들이 주문 대응을 신속하게 하고 부서 간 잘못된 정보를 없애도록 돕습니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Lap-trinh-he-thong-dieu-phoi-don-hang-tap-trung.jpg",
+          "imageAlt": "중앙 집중식 주문 발사 시스템 프로그래밍"
+        },
+        {
+          "title": "공급업체 참여 포털을 구축하세요",
+          "description": "기업과 공급 파트너가 직접 데이터를 교환할 수 있도록 디지털 플랫폼을 구축하세요. 이 시스템은 견적 요청 발송, 구매 주문 확인, 생산 진행 상황 추적 과정을 자동화하여 공급 관계의 투명성을 높입니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Xay-dung-cong-thong-tin-tuong-tac-voi-nha-cung-cap.jpg",
+          "imageAlt": "공급업체 참여 포털을 구축하세요"
+        },
+        {
+          "title": "크루즈 모니터링 및 추적 시스템 구축",
+          "description": "운송 과정 전반에 걸쳐 화물의 상태를 실시간으로 업데이트하는 프로그래밍 솔루션. 데이터 연결 프로토콜을 통합하여 제품의 위치와 보관 상태를 항상 정밀하게 제어할 수 있습니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Thiet-lap-he-thong-giam-sat-va-theo-doi-hanh-trinh.jpg",
+          "imageAlt": "크루즈 모니터링 및 추적 시스템 구축"
+        },
+        {
+          "title": "프로그래밍 창고 관리 최적화 모듈",
+          "description": "제품 포지셔닝 프로세스를 디지털화하고 실제 매출율을 기준으로 상품의 수출입을 계획하는 알고리즘을 구축하세요. 이 서비스는 기업이 창고 공간을 최대한 활용하고 창고에서 물품을 처리하는 시간을 최소화하는 데 도움을 줍니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Lap-trinh-module-toi-uu-hoa-quan-tri-kho-hang.jpg",
+          "imageAlt": "프로그래밍 창고 관리 최적화 모듈"
+        },
+        {
+          "title": "공급 성과 분석 대시보드 구축",
+          "description": "물류 비용, 주문 주기 시간, 각 링크의 성능 등 모든 중요한 운영 지표를 시각화할 수 있는 도구를 구축하세요. 이 데이터베이스는 관리자들이 정확한 운영 조정을 하는 데 중요한 역할을 합니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Xay-dung-Dashboard-phan-tich-hieu-suat-cung-ung.jpg",
+          "imageAlt": "공급 성과 분석 대시보드 구축"
+        },
+        {
+          "title": "예측 및 위험 관리 알고리즘 프로그래밍",
+          "description": "시장 수요 변동과 공급 중단 위험을 예측할 수 있는 데이터 분석 모델을 개발합니다. 이 솔루션은 기업이 사전 대응 시나리오를 구축하고 전체 시스템의 안정성을 유지하는 데 도움을 줍니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Lap-trinh-thuat-toan-du-bao-va-quan-tri-rui-ro.jpg",
+          "imageAlt": "예측 및 위험 관리 알고리즘 프로그래밍"
+        }
+      ],
+      "cta": "모든 서비스를 탐색하기"
+    },
+    "process": {
+      "label": "프로젝트 구현 과정?",
+      "items": [
+        {
+          "number": "01",
+          "tag": "분석",
+          "title": "공급망 조사 및 기술 요구사항 설정",
+          "description": "엔지니어링 팀은 화물 흐름의 현재 상태를 평가하고 발송 시스템의 기술 매개변수를 결정합니다."
+        },
+        {
+          "number": "02",
+          "tag": "디자인",
+          "title": "다자간 통합 데이터 아키텍처와 흐름을 구축합니다",
+          "description": "공급 네트워크의 엔티티 다이어그램을 설계하고 회원 시스템 간 API 게이트웨이를 계획합니다."
+        },
+        {
+          "number": "03",
+          "tag": "프로그래밍",
+          "title": "운영 체제 모듈의 소스 코드를 실행하세요",
+          "description": "애자일 방법론에 따라 기능 모듈의 소스 코드를 작성하고 데이터 동기화 프로토콜을 구축하세요."
+        },
+        {
+          "number": "04",
+          "tag": "테스트",
+          "title": "소프트웨어 품질 관리 및 동기화 테스트",
+          "description": "공급 노드 간 전송 시 데이터가 왜곡되지 않도록 내장된 테스트 문제를 수행합니다."
+        },
+        {
+          "number": "05",
+          "tag": "배포",
+          "title": "클라우드 인프라 구성 및 운영 데이터 변환",
+          "description": "서버에 소프트웨어를 설치하고 기존 시스템에서 카탈로그, 재고, 라우팅 데이터를 로드합니다."
+        },
+        {
+          "number": "06",
+          "tag": "작동",
+          "title": "시스템 성능 모니터링과 소스 코드 최적화",
+          "description": "시스템의 작동 상태를 24시간 모니터링하고 주기적으로 보안 업데이트나 기능 업그레이드를 수행합니다."
+        }
+      ],
+      "cta": "제품 제작을 시작하세요!"
+    },
+    "faq": {
+      "label": "자주 묻는 질문",
+      "title": "모든 질문에 대한 답변",
+      "intro": "공급망 시스템 엔지니어링에 관한 자주 묻는 질문",
+      "items": [
+        {
+          "q": "시스템이 기존 ERP 관리 소프트웨어와 통합할 수 있나요?",
+          "a": "Winterfrost는 SAP 및 Oracle 등 인기 있는 플랫폼이나 기타 내부 관리 시스템과 직접 연결하기 위해 API First 표준에 따라 인프라를 설계합니다. 데이터 흐름은 구매 프로세스, 창고 운영, 재무 회계 간의 절대적인 일관성을 보장하기 위해 양방향 동기식 방식으로 설정됩니다."
+        },
+        {
+          "q": "공급망 규모와 거래 데이터 양이 급격히 증가할 때 시스템은 어떻게 처리하나요?",
+          "a": "우리는 마이크로서비스 아키텍처와 클라우드 인프라를 결합하여 자동 부하 분산 및 자원 확장을 적용합니다. 이 솔루션은 기업이 창고, 공급업체 또는 유통 지점을 대규모로 확장하더라도 빠른 대응 속도와 높은 안정성을 유지하도록 돕습니다."
+        },
+        {
+          "q": "공통 플랫폼에서 공급업체 데이터의 보안과 프라이버시를 어떻게 보장할 수 있을까요?",
+          "a": "모든 식별 정보와 거래 계약의 내용은 엔터프라이즈 수준의 AES 256 표준에 따라 암호화됩니다. 우리는 역할 기반 접근 분산 메커니즘을 구축하여 공급망에 참여하는 각 파트너가 라이선스 책임 범위에 속하는 데이터에만 접근할 수 있도록 하여, 비즈니스 정보 손실 위험을 완전히 방지합니다."
+        },
+        {
+          "q": "원자재 수요 예측 알고리즘은 정확성을 보장하기 위해 어떤 기술적 메커니즘을 활용하나요?",
+          "a": "이 시스템은 심층 데이터 분석 모델을 사용하여 실제 시장 변수와 결합하여 상품 이동의 이력을 처리합니다. 이 알고리즘들은 소비 패턴을 자동으로 인식하고 최적의 재주문 지점을 제안하여, 기업이 공급을 미리 조율하고 재고 낭비를 최소화할 수 있도록 돕습니다."
+        },
+        {
+          "q": "소프트웨어 인프라가 바코드 스캐너나 RFID 센서와 같은 하드웨어 장치와 호환되나요?",
+          "a": "우리는 창고와 운송 차량의 주변기기로부터 직접 정보를 수신할 수 있도록 표준화된 데이터 통신 포트를 프로그래밍합니다. 창고 들어오는 데이터와 상품 상태는 수동 데이터 입력 없이 즉시 중앙 관리 시스템에 업데이트됩니다."
+        },
+        {
+          "q": "구현 기간과 시스템의 주문 오케스트레이션 규칙을 미세 조정할 수 있는 시간은 얼마나 걸리나요?",
+          "a": "기술 조사부터 실제 운영까지의 과정은 보통 기업의 공급망 규모에 따라 12주에서 16주가 소요됩니다. 모듈식 소스 코드 구조는 관리팀이 주문 오케스트레이션 논리나 벤더 우선순위 규칙을 언제든지 비즈니스 전략에 맞게 쉽게 재구성할 수 있게 합니다."
+        }
+      ]
+    }
+  },
+  "cong-nghe-tai-chinh": {
+    "slug": "cong-nghe-tai-chinh",
+    "title": "금융기술",
+    "hero": {
+      "title": "핀테크 솔루션",
+      "description": "Winterfrost는 클라우드 네이티브 플랫폼 위에 초강력하고 확장 가능한 금융 애플리케이션을 구축합니다. 현대 디지털 은행 개발, 알고리즘 거래 시스템부터 심층적인 블록체인 통합에 이르기까지, 우리는 금융기관과 스타트업이 대규모로 강력한 혁신을 이룰 수 있도록 지원합니다. Winterfrost의 솔루션은 안전하고 투명한 거래 환경 조성과 실제 데이터 처리 성능 최적화에 중점을 둡니다.",
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-cong-nghe-tai-chinh-HomeNest-Viet-Nam.jpg",
+      "imageAlt": "핀테크 솔루션 - Winterfrost",
+      "primaryLabel": "직접 연락",
+      "secondaryLabel": "조언 요청 메시지"
+    },
+    "overview": {
+      "label": "개요",
+      "title": "핀테크 부문의 도전 과제",
+      "paragraphs": [
+        "금융 기관들은 종종 노후된 시스템, 느린 거래 처리 속도, 높은 보안 위험 등으로 어려움을 겪습니다. 확장성 부족으로 인해 사용자 수가 급격히 증가함에 따라 시스템이 과부하에 취약해집니다. 또한, 블록체인이나 자동화된 거래와 같은 신기술을 기존 인프라에 통합하는 과정은 많은 복잡한 기술적 장벽에 직면합니다.",
+        "Winterfrost는 클라우드 네이티브 플랫폼 위에 초강력하고 확장 가능한 금융 애플리케이션을 구축합니다. 디지털 뱅킹, 알고리즘 거래 시스템부터 심층적인 블록체인 통합까지 다양한 솔루션을 제공합니다. 이 솔루션은 금융기관과 스타트업이 대규모로 강력한 혁신을 이루도록 도와주며, 모든 거래가 안전하고 투명하며 즉각적으로 이루어지도록 보장합니다."
+      ],
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Thach-thuc-cua-linh-vuc-cong-nghe-tai-chinh.jpg",
+      "imageAlt": "핀테크 부문의 도전 과제"
+    },
+    "counters": [
+      {
+        "index": "/01",
+        "value": "10+",
+        "label": "수년간의 경험"
+      },
+      {
+        "index": "/02",
+        "value": "250+",
+        "label": "고객"
+      },
+      {
+        "index": "/03",
+        "value": "15+",
+        "label": "서비스를 제공하는 국가"
+      },
+      {
+        "index": "/04",
+        "value": "98%",
+        "label": "고객 만족"
+      }
+    ],
+    "values": {
+      "title": "핀테크 솔루션의 획기적 가치",
+      "intro": "핀테크 솔루션은 기업이 초보안 금융 인프라를 마스터하고, 복잡한 운영을 자동화하며, 디지털 플랫폼에서 무제한 시스템 확장성을 보장하는 데 도움을 줍니다.",
+      "items": [
+        {
+          "title": "향상된 보안 및 위험 관리",
+          "description": "금융 데이터를 절대적으로 보호하기 위해 다층 암호화 프로토콜과 생체 인증을 사용하세요. 이 기술은 기업이 계정을 겨냥한 사기 행위와 사이버 공격을 효과적으로 방지하는 데 도움을 줍니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "금융 비즈니스 프로세스 자동화",
+          "description": "송장 조정, 대출 승인, 세금 보고서 작성과 같은 작업은 소프트웨어를 통해 자동으로 수행됩니다. 이 과정은 수작업 작업으로 인한 오류를 없애고 현금 흐름 처리를 가속화합니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "시스템 운영 비용 최적화",
+          "description": "디지털 금융 솔루션은 종이 문서 처리, 물리적 시설, 부피가 큰 서버 인프라에 드는 인력 비용을 제거합니다. 기업들은 핵심 비즈니스 활동에 집중하기 위해 상당한 자원을 절약합니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "유연한 무역 확장",
+          "description": "클라우드 네이티브 인프라는 거래량 급증 시 크래시나 지연 없이 처리할 수 있게 합니다. 기업들은 기존 플랫폼 위에 새로운 금융 서비스를 쉽게 통합하여 시장의 성장에 맞출 수 있습니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "투명성과 감사의 용이성 보장",
+          "description": "모든 잔액 변동과 거래 이력은 디지털 원장 기술 덕분에 지울 수 없도록 상세히 기록됩니다. 이를 통해 기업은 항상 감사에 대비하고 재무 법적 기준을 완벽히 충족할 수 있습니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "고객 경험과 신뢰를 개선합니다",
+          "description": "고객들은 결제 및 송금 거래를 즉각적이고 정확한 속도로 수행합니다. 빠르고 안전한 금융 서비스 제공은 기업이 소비자 마음속에서 견고한 평판을 쌓는 데 도움을 줍니다.",
+          "image": "",
+          "imageAlt": ""
+        }
+      ],
+      "cta": "지금 상담 예약을 하세요!"
+    },
+    "why": {
+      "label": "왜 우리를 선택했을까요?",
+      "title": "왜 Winterfrost의 서비스를 이용하는가",
+      "items": [
+        {
+          "number": "1",
+          "title": "은행급 보안 기준",
+          "description": "우리는 첨단 종단 데이터 암호화와 생체 인증 프로토콜을 사용하는 다층 보안 시스템을 구축합니다. 모든 거래와 사용자의 금융 정보는 사이버 공격 위험으로부터 엄격히 보호됩니다."
+        },
+        {
+          "number": "2",
+          "title": "유연한 클라우드 네이티브 인프라",
+          "description": "이 애플리케이션은 전적으로 클라우드 컴퓨팅 플랫폼 위에 구축되어 있어 시스템이 자원을 즉시 자동으로 확장할 수 있습니다. 이로 인해 사용자 수가 급격히 증가해도 원활한 거래 처리 성능을 유지할 수 있습니다."
+        },
+        {
+          "number": "3",
+          "title": "기술 마스터링",
+          "description": "저희 전문가 팀은 블록체인 분산형 원장 솔루션과 정확한 자동화 거래 알고리즘을 배포할 수 있습니다. 이 솔루션은 금융 투자 활동의 투명성을 높이고 효율성을 최적화하는 데 도움을 줍니다."
+        },
+        {
+          "number": "4",
+          "title": "절대 소스 코드를 넘기고 소유하는 것",
+          "description": "프로젝트 완료 후 Winterfrost는 소스 코드와 기술 아키텍처 문서의 100%를 넘겼습니다. 기업들은 제품에 대한 완전한 소유권을 가지며, 공급업체에 의존하지 않고 적극적으로 운영하고 업그레이드합니다."
+        },
+        {
+          "number": "5",
+          "title": "법적 준수 설계",
+          "description": "이 시스템은 금융 안전, AML 자금 세탁 방지, 고객 식별 KYC 기준을 완벽히 충족하도록 연구되고 구축되었습니다. 이를 통해 기업은 법적 위험을 최소화하고 감사를 쉽게 통과할 수 있습니다."
+        },
+        {
+          "number": "6",
+          "title": "실무 운영에 따른 컨설팅 솔루션",
+          "description": "각 금융 기관의 구체적인 비즈니스 모델을 철저히 연구하여 가장 적합한 기능을 제안합니다. Winterfrost의 솔루션은 운영 문제를 직접 해결하고 고객의 현금 흐름을 최적화하는 데 중점을 둡니다."
+        }
+      ]
+    },
+    "cta": {
+      "label": "지금 연락하세요!",
+      "title": "지금 안전한 금융 생태계를 만들어 보세요!",
+      "description": "안전하고 성능이 뛰어난 클라우드 네이티브 플랫폼으로 금융 인프라를 전환할 준비가 되어 있습니다. Winterfrost가 소스 코드의 완전한 투명성과 평생 소유권을 보장하는 전문 핀테크 솔루션을 구축하는 데 도움을 드리겠습니다.",
+      "buttonLabel": "해결책 조언과 실행 로드맵을 받으세요",
+      "image": "/images/people/cta/winterfrost/chuyen-vien-nam-tre.png",
+      "imageAlt": "전문가 컨설턴트"
+    },
+    "cases": null,
+    "services": {
+      "title": "HomneNest 베트남의 심층 핀테크 서비스",
+      "intro": "Winterfrost는 클라우드 네이티브 및 블록체인 플랫폼에서 차세대 금융 시스템 프로그래밍 서비스를 제공합니다. 안전한 거래 인프라 구축, 대규모 데이터 처리, 그리고 금융 기관의 엄격한 준수 보장에 집중하고 있습니다.",
+      "items": [
+        {
+          "title": "디지털 뱅킹 플랫폼 개발",
+          "description": "계좌 관리, 빠른 송금, 저축 및 청구서 납부 등 모든 기능을 갖춘 현대적인 은행 애플리케이션을 구축하세요. 이 시스템은 완전히 디지털 환경에서 작동하도록 설계되었으며, 최소한의 사용자 경험과 다층적인 보안을 제공합니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phat-trien-nen-tang-ngan-hang-so-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "디지털 뱅킹 플랫폼 개발 - Winterfrost"
+        },
+        {
+          "title": "전자 지갑과 결제 게이트웨이 구축",
+          "description": "디지털 결제 인프라를 구축하고, 은행 시스템 및 국제 금융기관과의 다양한 연결을 지원합니다. 모든 사용자 거래의 절대적인 안전을 보장하기 위해 종단 간 암호화 표준을 적용합니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Xay-dung-vi-dien-tu-va-cong-thanh-toan-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "전자 지갑과 결제 게이트웨이 구축 - Winterfrost"
+        },
+        {
+          "title": "알고리즘 거래 시스템 프로그래밍",
+          "description": "실시간 데이터 분석 알고리즘을 기반으로 금융 시장에서 자동화된 거래를 지원하는 소프트웨어를 개발하세요. 이 솔루션은 감정적 요소를 제거하고, 주문 실행 속도를 최적화하며, 투자 위험 관리 효율성을 향상시킵니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Lap-trinh-he-thong-giao-dich-thuat-toan-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "알고리즘 거래 시스템 프로그래밍 - Winterfrost"
+        },
+        {
+          "title": "블록체인 솔루션 통합",
+          "description": "분산형 원장 기술을 디지털 자산 관리, 전자 식별, 스마트 계약을 통한 금융 계약 자동화에 적용합니다. 이 서비스는 투명성을 보장하고, 데이터가 변경되지 않으며, 시스템의 신뢰를 높입니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Tich-hop-giai-phap-blockchain-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "블록체인 솔루션 통합 - Winterfrost"
+        },
+        {
+          "title": "대출 플랫폼 개발",
+          "description": "자동 신용 점수 산정을 위한 데이터 분석 기술을 통합한 온라인 대출 시스템을 구축하세요. 대출 승인 절차는 지능형 위험 평가 알고리즘을 기반으로 신속하고 정확하게 수행됩니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phat-trien-nen-tang-cho-vay-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "대출 플랫폼 개발 - Winterfrost"
+        },
+        {
+          "title": "경영 기술 솔루션",
+          "description": "고객 식별, KYC, AML 자금세탁 방지, 금융 규제 준수 통제 자동화 과정을 돕는 기술 도구를 제공합니다. 이 솔루션은 법적 위험을 최소화하고 조직의 운영 비용을 최적화하는 데 도움을 줍니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-cong-nghe-quan-ly-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "경영 기술 솔루션 - Winterfrost"
+        }
+      ],
+      "cta": "모든 서비스를 탐색하기"
+    },
+    "process": {
+      "label": "프로젝트 구현 과정?",
+      "items": [
+        {
+          "number": "01",
+          "tag": "설문조사",
+          "title": "비즈니스 분석",
+          "description": "거래 흐름, 현금 흐름 관리 모델, 관련 법적 규정에 대해 상세한 연구를 수행합니다. 이 단계는 시스템이 처음부터 주의 감사 및 재무 안전 기준을 충족하도록 보장합니다."
+        },
+        {
+          "number": "02",
+          "tag": "설정",
+          "title": "건축 설계 및 보안",
+          "description": "클라우드 컴퓨팅 플랫폼 위에 시스템 아키텍처를 구축하여 유연한 확장성을 보장합니다. 종단 간 데이터 암호화, 애플리케이션 방화벽, 엄격한 신원 인증 프로토콜 등 심층적인 보안 계층을 구축했습니다."
+        },
+        {
+          "number": "03",
+          "tag": "개발",
+          "title": "시스템 프로그래밍 및 금융 연결",
+          "description": "필요 시 핵심 금융 기능과 블록체인 통합을 위한 소스 코드 작성도 수행합니다. API 게이트웨이는 은행 시스템, 전자 지갑, 국제 결제 중개자에 안전하게 연결되도록 설계되었습니다."
+        },
+        {
+          "number": "04",
+          "tag": "안전 보장",
+          "title": "시험 및 취역",
+          "description": "QA 팀은 보안 취약점을 찾아내고 패치하기 위해 시뮬레이션 공격을 수행합니다. 동시에 수천 건의 거래가 동시에 처리되는 상황에서 시스템의 부하 용량을 테스트하여 모든 상황에서 절대적인 안정성을 보장합니다."
+        },
+        {
+          "number": "05",
+          "tag": "시스템 출시",
+          "title": "배치 및 운영 모니터링",
+          "description": "고도로 안전한 서버 구성, 실시간 트랜잭션 모니터링 도구 설치, 그리고 애플리케이션을 공식적으로 운영하기 위한 것입니다. Winterfrost는 비정상적인 접근 행동을 즉시 감지하고 방지하기 위한 자동 경보 시스템을 구축합니다."
+        },
+        {
+          "number": "06",
+          "tag": "환승",
+          "title": "소유권 이전 및 유지",
+          "description": "모든 소스 코드와 기술 아키텍처 문서를 기업에 인수합니다. 우리는 정기적인 유지보수를 유지하고, 최신 보안 패치를 업데이트하며, 24시간 연중무휴 기술 지원을 제공하여 금융 시스템의 원활한 운영을 보장합니다."
+        }
+      ],
+      "cta": "제품 제작을 시작하세요!"
+    },
+    "faq": {
+      "label": "자주 묻는 질문",
+      "title": "모든 질문에 대한 답변",
+      "intro": "금융기술 시스템에 관한 질문에 답변하기",
+      "items": [
+        {
+          "q": "Winterfrost의 시스템은 어떻게 통화 거래의 안전을 보장하나요?",
+          "a": "우리는 E2EE 종단 간 데이터 암호화, MFA 다요인 인증, 생체 인식 식별 등 가장 엄격한 보안 표준을 적용합니다. 또한, 시스템은 보안 취약점을 제때 탐지하고 방지하기 위해 주기적인 침투 테스트를 항상 거칩니다."
+        },
+        {
+          "q": "이 시스템이 베트남의 금융 규제를 충족하나요?",
+          "a": "네. Winterfrost의 솔루션은 주 정부 은행 규정과 AML 및 KYC와 같은 국제 기준을 엄격히 준수하도록 설계되었습니다. 이로 인해 기업은 법적 위험을 최소화하고 투명하게 운영할 수 있습니다."
+        },
+        {
+          "q": "Winterfrost의 인프라가 동시에 대량의 거래를 처리할 수 있을까요?",
+          "a": "클라우드 네이티브 아키텍처와 마이크로서비스 덕분에 시스템은 자원을 즉시 자동으로 확장하여 초당 수천 건의 거래를 처리할 수 있습니다. 성과는 항상 안정적으로 유지되어, 피크 거래 시간대에 종마나 지연이 없습니다."
+        },
+        {
+          "q": "기업들이 새로운 핀테크 시스템을 기존 은행 인프라와 통합할 수 있을까요?",
+          "a": "물론입니다. 우리는 표준화된 API 게이트웨이를 사용하여 새로운 핀테크 애플리케이션과 전통적인 코어 뱅킹 시스템 간의 데이터 연결과 동기화를 수행합니다. 이 과정은 현금 흐름과 고객 데이터가 항상 정확하고 안전하게 업데이트되도록 보장합니다."
+        },
+        {
+          "q": "프로젝트를 완료한 후 Winterfrost가 전체 소스 코드를 넘겨줄까요?",
+          "a": "네. Winterfrost는 소스 코드와 기술 아키텍처 문서를 100% 기업에 넘기는 데 전념하고 있습니다. 시스템 소유권, 사전 업그레이드, 운영을 통해 어떤 기술 제공자에 얽매이지 않습니다."
+        },
+        {
+          "q": "Winterfrost의 솔루션에 블록체인 기술은 어떻게 적용되나요?",
+          "a": "블록체인을 적용해 투명성과 보안을 높이는 환원 불가능한 거래 원장을 만듭니다. 이 기술은 중개자 없이 금융 거래를 자동화하는 스마트 계약 구현에도 활용됩니다."
+        }
+      ]
+    }
+  },
+  "dau-khi": {
+    "slug": "dau-khi",
+    "title": "석유",
+    "hero": {
+      "title": "석유 및 가스 산업을 위한 디지털 전환 솔루션",
+      "description": "석유 및 가스 산업은 정확한 모니터링, 엄격한 안전 기준 준수, 그리고 중단되지 않는 운영 유지가 필요합니다. Winterfrost는 복잡한 운영 프로세스를 최적화하기 위해 설계된 맞춤형 기술 솔루션을 제공합니다.",
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-chuyen-doi-so-cho-nganh-dau-khi.jpg",
+      "imageAlt": "석유 및 가스 산업을 위한 디지털 전환 솔루션",
+      "primaryLabel": "직접 연락",
+      "secondaryLabel": "조언 요청 메시지"
+    },
+    "overview": {
+      "label": "개요",
+      "title": "실제 데이터를 활용한 연산 최적화",
+      "paragraphs": [
+        "석유 및 가스 산업에서는 원격 기계 관리와 안전 확보가 가장 큰 도전 과제입니다. 시스템이 상호 연결되지 않으면 기업은 자원 낭비와 문제 해결 지연에 취약합니다. 리그부터 파이프까지 모든 것을 관리할 중앙 집중식 공간이 필요하며, 작업 흐름을 확실히 해야 합니다.",
+        "Winterfrost는 채굴부터 배송까지 모든 활동을 연결하는 소프트웨어를 제공합니다. 센서 데이터를 추적함으로써 리더들이 성능을 이해하고 차량을 관리하며 갑작스러운 가동 중단을 방지할 수 있도록 사전에 고장을 예측할 수 있도록 돕습니다."
+      ],
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Toi-uu-van-hanh-bang-du-lieu-thuc-te-cho-nganh-dau-khi.jpg",
+      "imageAlt": "석유 및 가스 산업을 위한 실제 데이터를 활용한 운영 최적화"
+    },
+    "counters": [
+      {
+        "index": "/01",
+        "value": "10+",
+        "label": "수년간의 경험"
+      },
+      {
+        "index": "/02",
+        "value": "250+",
+        "label": "고객"
+      },
+      {
+        "index": "/03",
+        "value": "15+",
+        "label": "서비스를 제공하는 국가"
+      },
+      {
+        "index": "/04",
+        "value": "98%",
+        "label": "고객 만족"
+      }
+    ],
+    "values": {
+      "title": "석유 및 가스 산업에 기술을 적용하는 이점",
+      "intro": "기술을 실시하는 것은 단순한 트렌드가 아니라 에너지 사업의 수익성과 안전을 보호하는 중요한 해결책입니다.",
+      "items": [
+        {
+          "title": "연속 운행 보장",
+          "description": "24시간 모니터링 시스템은 기계의 비정상적인 징후를 조기에 발견하는 데 도움을 줍니다. 경보가 울리자마자 처리하면 갑작스러운 기계 정지를 방지하여 안정적이고 연속적인 생산 흐름을 보장합니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "직업 안전 보장",
+          "description": "인력이 위험 구역을 직접 점검하는 대신, 스마트 센서는 압력, 온도, 누수 모니터링을 대체할 것입니다. 이는 화재 및 폭발 위험으로부터 인명과 사업 자산을 보호하는 데 도움을 줍니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "유지보수 비용 절감",
+          "description": "낭비적인 정기 유지보수 대신, 예측 기술은 교체가 불가능한 부품을 정확히 알려줍니다. 이로 인해 장비의 수명이 연장되고 연간 유지보수 예산을 크게 절감할 수 있습니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "생산 손실 마감일",
+          "description": "이 시스템은 개발, 운송, 저장 과정까지 흐름을 정확히 모니터링하며, 기업들이 연료 한 1리터를 엄격히 통제할 수 있도록 돕습니다. 데이터 투명성은 오류나 설명되지 않은 손실을 완전히 제거하는 데 도움을 줍니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "연산 최적화",
+          "description": "기술은 차량 및 탱크 트럭의 경로를 가장 과학적인 방식으로 조정하는 데 도움을 줍니다. 지능형 차량 관리는 운송 연료 비용을 절감하고 항상 제때 적절한 장소에 상품이 배송되도록 보장합니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "상황 예측 및 분석",
+          "description": "모든 운영 데이터는 실시간으로 이해하기 쉬운 차트로 집계됩니다. 리더들은 더 이상 추측할 필요 없이, 현장 내 실제 데이터를 바탕으로 정확하고 시기적절한 경영 결정을 내릴 수 있습니다.",
+          "image": "",
+          "imageAlt": ""
+        }
+      ],
+      "cta": "지금 상담 예약을 하세요!"
+    },
+    "why": {
+      "label": "왜 우리를 선택했을까요?",
+      "title": "에너지 기업들이 Winterfrost를 신뢰하는 이유",
+      "items": [
+        {
+          "number": "1",
+          "title": "다양한 분야의 지식",
+          "description": "우리는 시추 장비, 파이프라인, 창고에서의 운영 프로세스에 대한 철저한 이해를 바탕으로 솔루션을 구축합니다. Winterfrost는 대규모 소프트웨어를 제공하지 않지만, 에너지 산업의 특정 문제를 해결하기 위한 도구를 제공합니다."
+        },
+        {
+          "number": "2",
+          "title": "기기 연결 간편",
+          "description": "오래된 기계든 새로운 기술을 사용하든, 저희 시스템은 동기화된 방식으로 데이터를 연결하고 수집할 수 있습니다. 이를 통해 비용이 많이 드는 교체 비용 없이 기존 인프라를 최대한 활용할 수 있습니다."
+        },
+        {
+          "number": "3",
+          "title": "운영 안전 보장",
+          "description": "압력, 온도, 누설 지표에 대한 조기 경보 시스템은 원격으로 화재 위험을 예방하는 데 도움을 줍니다. 저희는 모든 소프트웨어 명령줄에서 귀하의 생명과 재산 보호를 최우선 과제로 생각합니다."
+        },
+        {
+          "number": "4",
+          "title": "결함 예측 기술",
+          "description": "고장이 고쳐지길 기다리는 대신, Winterfrost의 솔루션은 인공지능을 활용해 잠재적 손상을 조기에 식별합니다. 이를 통해 기업은 기계를 능동적으로 유지하고 수명을 연장하며 긴급 수리 비용을 피할 수 있습니다."
+        },
+        {
+          "number": "5",
+          "title": "데이터 보안",
+          "description": "운영 데이터와 전략 정보는 여러 층의 전용 암호화로 보호됩니다. 우리는 에너지 산업을 겨냥한 사이버 공격 위험으로부터 항상 귀하의 정보 인프라를 안전하게 보장합니다."
+        },
+        {
+          "number": "6",
+          "title": "24시간 기술 지원",
+          "description": "석유 및 가스 산업은 24시간 내내 일하고 있으며, 우리도 마찬가지입니다. Winterfrost의 기술팀은 언제든지 상황이 발생하면 처리할 준비가 되어 있어 제작 흐름이 끊기지 않도록 보장합니다."
+        }
+      ]
+    },
+    "cta": {
+      "label": "지금 연락하세요!",
+      "title": "에너지 인프라를 최적화할 준비를 하세요",
+      "description": "갑작스러운 폐쇄나 안전 위험이 생산 흐름을 방해하고 비즈니스 이익을 침식하지 않도록 하십시오. Winterfrost가 모든 매개변수를 통제하고 모든 문제를 미리 예측하는 스마트 운영체제를 구축하는 데 도움을 받으세요.",
+      "buttonLabel": "심층 솔루션 컨설팅",
+      "image": "/images/people/cta/winterfrost/chuyen-vien-nu.png",
+      "imageAlt": "전문가 컨설턴트"
+    },
+    "cases": null,
+    "services": {
+      "title": "석유 및 가스 산업을 위한 특수 솔루션",
+      "intro": "Winterfrost는 석유 및 가스 운영 과정을 개발부터 유통까지 최적화할 수 있는 심층 디지털 솔루션 생태계를 제공합니다. 우리는 운영 안전과 실제 활용 효율성을 보장하기 위해 기술 인프라, 데이터 관리, 예측 기술 적용에 중점을 둡니다.",
+      "items": [
+        {
+          "title": "SCADA 및 IoT 시스템",
+          "description": "현장에서 측정 장치 및 PLC 컨트롤러와 직접 연결됩니다. 압력, 온도, 트래픽과 같은 사양을 수집하여 중앙 서버로 디지털화합니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Thiet-lap-mang-luoi-SCADA-va-IoT-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "SCADA 및 IoT 네트워크 설정 – Winterfrost"
+        },
+        {
+          "title": "유지보수 예측 소프트웨어",
+          "description": "구성 요소의 마모 상태를 결정하기 위한 운영 데이터 분석 알고리즘 적용. 시스템은 실제 기계 작동 시간을 기반으로 한 유지보수 일정을 제공하여 문제가 발생하기 전에 부품을 교체합니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phan-mem-du-bao-bao-tri-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "유지보수 예측 소프트웨어 – Winterfrost"
+        },
+        {
+          "title": "모니터링 플랫폼",
+          "description": "지리 정보 시스템에서 운송 파이프라인 네트워크를 디지털화합니다. 전체 네트워크 다이어그램에서 압력 변동이나 누출의 정확한 위치를 파악하세요.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Nen-tang-giam-sat-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "모니터링 플랫폼 – Winterfrost"
+        },
+        {
+          "title": "자동 비상 정지 시스템",
+          "description": "사양이 허용 안전 임계값을 초과할 때 자동 차단 시나리오를 프로그래밍합니다. 시스템이 수동 개입 없이 즉시 작동을 멈추도록 하세요.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/He-thong-dung-khan-cap-tu-dong-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "자동 비상 정지 시스템 - Winterfrost"
+        },
+        {
+          "title": "운송 및 연료 관리 솔루션",
+          "description": "통합 위성 내비게이션 및 탱크 수위 센서를 통해 함대와 탱크 트럭의 경로와 화물 부적량을 모니터링합니다. 연료 수입, 수출, 재고를 정밀하게 통제합니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-quan-ly-van-tai-va-nhien-lieu-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "운송 및 연료 관리 솔루션 – Winterfrost"
+        },
+        {
+          "title": "빅데이터 집계 및 분석",
+          "description": "방대한 운영 데이터를 위한 중앙 집중식 저장소와 처리 시스템을 구축하세요. 광산 성과 및 에너지 소비 기준에 관한 기술 보고서를 추출합니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Nen-tang-phan-tich-du-lieu-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "데이터 분석 플랫폼 - Winterfrost"
+        }
+      ],
+      "cta": "모든 서비스를 탐색하기"
+    },
+    "process": {
+      "label": "프로젝트 구현 과정?",
+      "items": [
+        {
+          "number": "01",
+          "tag": "리뷰",
+          "title": "기술 인프라 조사",
+          "description": "리그나 펌핑 스테이션의 기존 센서 시스템, 측정 장비 및 PLC 컨트롤러를 직접 점검하세요. 이는 데이터 연결성과 잠재적 기술적 위험을 식별하기 위한 것입니다."
+        },
+        {
+          "number": "02",
+          "tag": "스트림 설정",
+          "title": "연결 흐름 설계",
+          "description": "현장 장치에서 인트라넷이나 위성을 통해 중앙 서버로 데이터 전송을 도표로 만듭니다. 이 설계는 빠른 응답 속도를 보장하기 위해 현장 데이터 처리를 우선시합니다."
+        },
+        {
+          "number": "03",
+          "tag": "솔루션 가져오기",
+          "title": "빌드 모니터링",
+          "description": "압력, 온도, 유량을 모니터링하고 기계 유지보수를 예측하는 알고리즘을 프로그래밍합니다. 이 도구들은 에너지 비즈니스에 특화된 실제 사양과 운영 프로세스를 기반으로 구축됩니다."
+        },
+        {
+          "number": "04",
+          "tag": "작동",
+          "title": "검사 및 시험",
+          "description": "데이터와 경보 시스템의 정확성을 평가하기 위한 시험 실행을 수행합니다. 소프트웨어가 현재 기계와 완전히 호환되고 에너지 생산 및 운송 활동에 지장을 주지 않도록 하세요."
+        },
+        {
+          "number": "05",
+          "tag": "핸드오버",
+          "title": "기술 운영 훈련",
+          "description": "엔지니어와 운영자에게 차트 읽기 및 이해, 경고 처리, 기술 보고서 추출 방법을 교육합니다. 우리는 사람들이 실제 상황에서 시스템을 숙달할 수 있도록 돕는 데 집중합니다."
+        },
+        {
+          "number": "06",
+          "tag": "지원",
+          "title": "24시간 정비 및 지원",
+          "description": "항상 소프트웨어 건강 모니터링과 기술 지원을 제공하세요. Winterfrost 팀은 데이터 흐름과 생산이 중단되지 않도록 연결 문제를 신속히 처리하는 데 전념하고 있습니다."
+        }
+      ],
+      "cta": "제품 제작을 시작하세요!"
+    },
+    "faq": {
+      "label": "자주 묻는 질문",
+      "title": "모든 질문에 대한 답변",
+      "intro": "석유 기술 솔루션에 관한 질문에 답변하기",
+      "items": [
+        {
+          "q": "Winterfrost의 시스템이 기존 SCADA 및 PLC 장치와 호환되나요?",
+          "a": "우리는 OPC UA, Modbus, MQTT와 같은 인기 있는 산업 프로토콜 표준을 기반으로 소프트웨어를 설계합니다. 이를 통해 시스템은 하드웨어 인프라를 교체하지 않고도 기존 컨트롤러와 센서로부터 직접 데이터를 연결하고 수집할 수 있습니다."
+        },
+        {
+          "q": "해상 시추선에서 데이터가 지속적으로 전송되도록 하려면 어떻게 해야 할까요?",
+          "a": "저희 솔루션은 엣지 컴퓨팅 기술을 적용합니다. 데이터는 현장에서 처리되고 임시로 저장됩니다. 위성 또는 네트워크 연결이 끊기면, 전송이 복구되는 즉시 시스템이 자동으로 모든 데이터를 센터로 동기화합니다."
+        },
+        {
+          "q": "소프트웨어는 연료 손실 제어를 어떻게 지원하나요?",
+          "a": "시스템은 창고의 적재/출고 데이터와 차량의 파이프라인 및 탱크의 실제 유량 지수 간 자동 조정을 수행합니다. 허용 임계치를 초과하는 양의 편차는 시스템이 즉시 경고하여 관리 부서가 누출이나 사기를 점검하도록 합니다."
+        },
+        {
+          "q": "시스템이 화재 안전 및 환경 기준을 충족하나요?",
+          "a": "네. 이 소프트웨어 스크립트는 산업 안전 규정을 엄격히 준수하도록 설정되어 있습니다. 시스템은 가스 농도, 압력, 온도를 지속적으로 모니터링하며, 위험 임계값을 초과할 경우 자동 비상 정지 절차를 작동시킬 수 있습니다."
+        },
+        {
+          "q": "전략적 운영 데이터는 사이버 공격으로부터 어떻게 보호되나요?",
+          "a": "우리는 종단 간 데이터 암호화, 가상 사설망 구축, 다중 인증 등 다층 보안 모델을 채택합니다. 또한 전체 접근 이력과 사양 변경 사항을 기록하여 에너지 인프라의 절대적인 투명성과 안전을 보장합니다."
+        },
+        {
+          "q": "소프트웨어 배포가 채굴 활동의 중단을 요구하나요?",
+          "a": "실행 과정은 독립적인 단계로 나뉩니다. 실제 작업과 병행하여 데이터 연결 및 테스트를 수행합니다. 시스템의 통합은 생산 및 채굴 흐름의 연속성에 영향을 미치지 않도록 신중하게 계산됩니다."
+        }
+      ]
+    }
+  },
+  "du-lich": {
+    "slug": "du-lich",
+    "title": "여행",
+    "hero": {
+      "title": "관광 산업을 위한 기술 솔루션",
+      "description": "오늘날 여행자들은 검색 순간부터 여행 후 순간까지 원활하고 개인화된 여정을 원합니다. Winterfrost는 여행 서비스의 전체 수명 주기를 관리하는 데 도움을 주는 전문 플랫폼을 구축합니다. 우리는 지능형 예약 엔진, 유연한 가격 알고리즘, 옴니채널 일정 관리 시스템을 개발하여 기업이 점유율을 높이고 방치를 줄이며 전문적인 고객 경험을 제공할 수 있도록 돕습니다.",
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Linh-vuc-du-lich.jpg",
+      "imageAlt": "관광 부문",
+      "primaryLabel": "직접 연락",
+      "secondaryLabel": "조언 요청 메시지"
+    },
+    "overview": {
+      "label": "개요",
+      "title": "관광 운영 문제",
+      "paragraphs": [
+        "관광 업체들은 여러 플랫폼에서 투어 일정, 객실 목록, 항공권을 수동으로 관리해야 하는 어려움에 자주 직면합니다. 웹사이트와 컨설팅 애플리케이션 간 정보 지연이나 불일치는 혼란, 공실, 잘못된 견적, 평판 상실, 수익 손실로 쉽게 이어집니다.",
+        "Winterfrost는 기업의 전체 비즈니스를 하나의 플랫폼으로 연결하는 중앙 집중식 관리 시스템을 제공합니다. 일정, 가용성, 서비스 가격에 관한 모든 데이터는 실시간으로 자동으로 동기화됩니다. 이를 통해 기업은 원활하게 운영되고, 고객에게 즉각적으로 대응하며, 지속 가능한 브랜드 개발을 위한 데이터를 완벽하게 마스터할 수 있습니다."
+      ],
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Du-Lich-HomeNest-Viet-Nam.jpg",
+      "imageAlt": "여행 - Winterfrost"
+    },
+    "counters": [
+      {
+        "index": "/01",
+        "value": "10+",
+        "label": "수년간의 경험"
+      },
+      {
+        "index": "/02",
+        "value": "250+",
+        "label": "고객"
+      },
+      {
+        "index": "/03",
+        "value": "15+",
+        "label": "서비스를 제공하는 국가"
+      },
+      {
+        "index": "/04",
+        "value": "98%",
+        "label": "고객 만족"
+      }
+    ],
+    "values": {
+      "title": "관광 및 숙박 산업을 위한 기술 솔루션",
+      "intro": "Winterfrost는 시청자를 실제 고객으로 전환시키고 처음 여행하는 사람들을 충성 고객으로 만드는 고성능 플랫폼을 구축합니다.",
+      "items": [
+        {
+          "title": "자동 판매 가격 최적화",
+          "description": "스마트 알고리즘은 시장 변동에 따라 가격을 자동으로 조정하여 성수기의 이익 손실을 피하고 비수기의 경쟁력을 높일 수 있도록 돕습니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "빈 캘린더 동기화",
+          "description": "모든 플랫폼에서 객실과 투어 상태를 지속적으로 업데이트하는 시스템은 일정 겹치거나 손님을 과도하게 맞이해 평판 불가를 일으키는 상황을 완전히 없애줍니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "직접 예약 성장",
+          "description": "자체 생태계를 구축하면 중개자의 수수료 비용을 최소화할 수 있고, 동시에 기업이 방문자 데이터 출처를 완전히 숙달할 수 있습니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "종합 운영",
+          "description": "모든 종이 관리를 디지털 플랫폼으로 전환하면 투어 가이드 일정을 최적화하고 공급업체 계약을 가장 정확하게 관리할 수 있습니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "자동화된 고객 서비스",
+          "description": "인공지능은 개인의 선호를 기억하여 자동으로 제안을 보내 추가 마케팅 비용 없이 방문자 재방문률을 높입니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "데이터 예측 및 분석",
+          "description": "소비자 트렌드에 대한 시각적 보고서는 비즈니스 오너들이 감정이 아닌 실제 숫자에 기반해 정확한 마케팅 투자 결정을 내리도록 돕습니다.",
+          "image": "",
+          "imageAlt": ""
+        }
+      ],
+      "cta": "지금 상담 예약을 하세요!"
+    },
+    "why": {
+      "label": "왜 우리를 선택했을까요?",
+      "title": "왜 Winterfrost의 기술 솔루션을 선택해야 하는가",
+      "items": [
+        {
+          "number": "1",
+          "title": "관광 운영 지식",
+          "description": "저희는 소프트웨어를 제공할 뿐만 아니라 베트남 시장의 여행 및 숙박 운영 과정을 깊이 이해한 컨설팅 솔루션도 제공합니다."
+        },
+        {
+          "number": "2",
+          "title": "기술 플랫폼의 동기화",
+          "description": "웹사이트, 앱 또는 AI를 통합하면 모든 활동을 단일 플랫폼에서 관리할 수 있어 부서와 영업 채널 간의 불일치를 완전히 없앨 수 있습니다."
+        },
+        {
+          "number": "3",
+          "title": "수익 최적화",
+          "description": "우리는 기업이 중개자에 대한 의존도를 줄이고 제공된 각 서비스에 대해 가장 높은 이익률을 유지할 수 있도록 직접 예약 채널을 강력히 개발하는 데 집중하고 있습니다."
+        },
+        {
+          "number": "4",
+          "title": "24시간 지원",
+          "description": "전문가 팀의 지속적인 동반은 모든 기술 문제를 즉시 처리하여 비즈니스 활동과 방문객 경험이 항상 연속성이 되도록 보장합니다."
+        },
+        {
+          "number": "5",
+          "title": "데이터 보안",
+          "description": "기업들은 관광 데이터와 비즈니스 정보의 출처를 완전히 소유하며, 이는 장기적으로 마케팅과 고객 지원 캠페인에 탄탄한 기반을 만듭니다."
+        },
+        {
+          "number": "6",
+          "title": "비즈니스 최적화 인터페이스",
+          "description": "미니멀하고 직관적인 애플리케이션은 투어 가이드나 호텔 직원이 일정을 관리하고 손님 요청에 즉시 대응할 수 있도록 합니다."
+        }
+      ]
+    },
+    "cta": {
+      "label": "지금 연락하세요!",
+      "title": "Winterfrost와 함께 관광 산업의 디지털 전환 여정을 시작하다",
+      "description": "스마트 기술로 직접 예약 채널을 마스터하고 운영 프로세스를 종합적으로 최적화하는 데 도움을 드리겠습니다. 지금 바로 저희 전문가 팀에 연락하여 귀하의 비즈니스에 맞는 전문 솔루션 상담을 받으십시오.",
+      "buttonLabel": "지금 상담 솔루션",
+      "image": "/images/people/cta/winterfrost/chuyen-vien-nam-tre.png",
+      "imageAlt": "전문가 컨설턴트"
+    },
+    "cases": {
+      "title": "Case Studies",
+      "links": [
+        {
+          "href": "https://winterfrost.tech/case-studies/website-rovena-travel",
+          "text": "여행\n웹사이트 디자인\n웹사이트 로베나 트래블\n프로젝트 보기"
+        },
+        {
+          "href": "https://winterfrost.tech/case-studies/website-du-lich-leveltrip",
+          "text": "여행\n웹사이트 디자인\n로브 로베나 여행 웹사이트\n프로젝트 보기"
+        }
+      ],
+      "images": [
+        {
+          "alt": "로베나 여행 웹사이트 프로젝트",
+          "src": "/images/projects/website-rovena-travel/01-anh-bia-du-an.webp?v=wf-projects-pro-20260726"
+        }
+      ]
+    },
+    "services": {
+      "title": "각 여행 세그먼트별 해결책",
+      "intro": "Winterfrost는 관광 생태계의 모든 비즈니스 모델을 지원할 포괄적인 기술 역량을 제공합니다.",
+      "items": [
+        {
+          "title": "호텔 및 리조트",
+          "description": "중간 층에 대한 의존도를 줄이기 위해 직접 예약 시스템 구축에 집중하고 내부 유틸리티를 통합하여 고객 경험을 향상시키는 데 기여합니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Khach-san-va-khu-nghi-duong-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "호텔 및 리조트 - Winterfrost"
+        },
+        {
+          "title": "온라인 여행사",
+          "description": "정보를 빠르게 종합할 수 있도록 돕는 빅데이터 처리 기술과 여행 거래소의 전환율을 최적화하기 위한 고부하 예약 시스템 개발.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Dai-ly-du-lich-truc-tuyen-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "온라인 여행사 - Winterfrost"
+        },
+        {
+          "title": "투어 운영사",
+          "description": "투어 가이드 및 서비스 제공자와 직접 연결되는 올 인클루시브 투어 운영자 도구를 제공하여 일정이 항상 정확하도록 보장합니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Cong-ty-lu-hanh-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "투어 운영사 - Winterfrost"
+        },
+        {
+          "title": "대규모 항공 및 교통",
+          "description": "부가 서비스와 충성도 관리 시스템에서 수익을 최적화하여 방문자당 평균 가치를 높이는 모델을 구축하세요.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Hang-khong-va-van-tai-quy-mo-lon-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "대규모 항공 및 운송 - Winterfrost"
+        },
+        {
+          "title": "렌터카 서비스",
+          "description": "자동 위치 지정 및 디스패치 기술의 적용은 사업주들이 차량 차량을 효과적으로 관리하고 운전자의 일정을 정확히 관리하는 데 도움을 줍니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Dich-vu-cho-thue-xe-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "렌터카 서비스 - Winterfrost"
+        },
+        {
+          "title": "기업을 위한 관광 관리",
+          "description": "자동화된 비즈니스 비용 관리 플랫폼을 제공하여 조직이 예산을 엄격히 관리하고 문서 환불 과정을 간소화할 수 있도록 돕습니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Quan-tri-du-lich-cho-doanh-nghiep-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "기업 관광 관리 - Winterfrost"
+        }
+      ],
+      "cta": "모든 서비스를 탐색하기"
+    },
+    "process": {
+      "label": "프로젝트 구현 과정?",
+      "items": [
+        {
+          "number": "01",
+          "tag": "리셉션",
+          "title": "비즈니스 모델 조사 및 분석",
+          "description": "전문가 팀이 현재 기업의 여행 또는 숙박 운영 상황을 조사하여 실제 규모에 가장 적합한 기술 계획을 수립합니다."
+        },
+        {
+          "number": "02",
+          "tag": "솔루션",
+          "title": "계획 및 설계",
+          "description": "웹사이트와 모바일 애플리케이션 플랫폼 모두에서 스마트 예약 시스템 구조와 최적의 사용자 인터페이스를 구축하여 방문자 유지율을 높입니다."
+        },
+        {
+          "number": "03",
+          "tag": "완료",
+          "title": "시스템 개발 및 기술 통합",
+          "description": "맞춤형 일정 제안이나 관광 시장 변동에 따라 자동으로 판매 가격을 최적화하는 알고리즘과 같은 심층 기능을 프로그래밍하세요."
+        },
+        {
+          "number": "04",
+          "tag": "확인",
+          "title": "포괄적인 데이터 동기화 및 테스트",
+          "description": "기존 국내 결제 게이트웨이와 객실 관리 시스템을 통합하고, 운영 전에 플랫폼의 안정성과 보안을 엄격히 테스트하세요."
+        },
+        {
+          "number": "05",
+          "tag": "수용",
+          "title": "핸드오버 및 설명서",
+          "description": "시스템을 실제 환경에 배포하고, 비즈니스 인력이 새로운 관리 도구를 능숙하게 사용할 수 있도록 직접 교육하세요."
+        },
+        {
+          "number": "06",
+          "tag": "지원",
+          "title": "지원 및 개선",
+          "description": "기술 지원을 지속적으로 유지하고 최신 기술 기능을 업데이트함으로써 기업은 앞서 나가고 지속 가능한 수익을 최적화할 수 있습니다."
+        }
+      ],
+      "cta": "제품 제작을 시작하세요!"
+    },
+    "faq": {
+      "label": "자주 묻는 질문",
+      "title": "모든 질문에 대한 답변",
+      "intro": "관광 기술 솔루션에 관한 질문에 답변하기",
+      "items": [
+        {
+          "q": "완전한 관광 시스템을 도입하는 데 얼마나 걸리나요?",
+          "a": "일반적으로 설문 단계부터 실제 시운전까지의 과정은 사업이 요구하는 기능의 규모와 복잡성에 따라 8주에서 12주 정도 걸립니다."
+        },
+        {
+          "q": "Winterfrost의 솔루션이 기존 관리 소프트웨어와 연결되어 있나요?",
+          "a": "이 시스템은 방 관리 소프트웨어나 인기 있는 국내 결제 게이트웨이와 직접 연결될 수 있도록 높은 호환성을 갖추고 있어 비즈니스가 항상 원활하게 운영될 수 있도록 돕습니다."
+        },
+        {
+          "q": "이 시스템이 기업들이 중개업체의 수수료 비용을 줄이는 데 어떻게 도움이 되나요?",
+          "a": "전문적인 직접 예약 채널과 방문객 경험을 위한 맞춤형 도구를 구축함으로써, 고객이 자신의 웹사이트와 애플리케이션에서 서비스를 예약하는 비율을 높여 제3자에 대한 의존도를 줄이는 데 도움을 줍니다."
+        },
+        {
+          "q": "기술에 익숙하지 않은 직원들도 이 시스템을 쉽게 사용할 수 있나요?",
+          "a": "Winterfrost는 최소한과 직관성을 위해 관리 인터페이스를 최적화하여 강사와 운영진이 짧은 시간 교육만으로도 기술을 숙달하고 능숙하게 운영할 수 있도록 돕습니다."
+        },
+        {
+          "q": "여행자 데이터와 비즈니스 정보는 어떻게 보호되나요?",
+          "a": "고객의 모든 개인정보와 운영 데이터는 암호화되어 별도의 서버 시스템에 저장되어 현행 데이터 보호법의 엄격한 준수를 보장합니다."
+        },
+        {
+          "q": "AI는 관광 사업에 구체적으로 어떤 지원을 하나요?",
+          "a": "AI 기술은 기업이 계절별 예약 추세를 정확히 예측하고, 각 여행객 그룹의 선호에 맞춘 인센티브 패키지를 자동으로 제안하여 방문객당 수익을 최적화하는 데 도움을 줍니다."
+        }
+      ]
+    }
+  },
+  "giao-duc": {
+    "slug": "giao-duc",
+    "title": "교육",
+    "hero": {
+      "title": "교육 산업을 위한 소프트웨어 솔루션",
+      "description": "Winterfrost는 LMS 학습 관리 시스템 프로그래밍 솔루션, 온라인 교육 플랫폼, 집중 교육 운영을 지원하는 애플리케이션을 제공합니다. 학습 자료의 디지털화, 학생 행정 프로세스 자동화, 디지털 플랫폼에서의 콘텐츠 전달 인프라 최적화에 집중하고 있습니다.",
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-phan-mem-cho-nganh-giao-duc.jpg",
+      "imageAlt": "교육 산업을 위한 소프트웨어 솔루션",
+      "primaryLabel": "직접 연락",
+      "secondaryLabel": "조언 요청 메시지"
+    },
+    "overview": {
+      "label": "개요",
+      "title": "교육 인프라의 장벽 극복",
+      "paragraphs": [
+        "대규모 교육 기관은 여러 독립 플랫폼에 분산된 학생 데이터를 분산시키기 어려워 행정 중앙집중화와 운영 보고서 조작이 어렵습니다. Winterfrost는 중앙 API 시스템을 통해 모듈 간 실시간 정보를 동기화하는 통합 데이터 아키텍처(Unified Data Architecture)를 구축하여 이 문제를 해결합니다. 또한, 동시에 시험에 접속하는 사용자 수가 증가할 때 시스템 혼잡을 해소하기 위해, 클라우드 컴퓨팅 플랫폼에 자동 확장 메커니즘과 결합된 마이크로서비스 아키텍처를 구현하여 응답 속도를 2초 미만으로 유지합니다.",
+        "학술 정보 보안과 시험지 유출 방지 문제도 종단 간 데이터 암호화 프로토콜과 다층 접근 분산 메커니즘을 통해 철저히 다루고 있습니다. 또한 CDN 콘텐츠 전달 네트워크를 통합하여 비디오 강의 스트림 성능을 최적화하고, 레거시 시스템의 소스 코드 리팩토링을 통해 기술 부채를 완전히 없애고 있습니다. 마지막으로, 워크플로우 자동화 비즈니스 프로세스 자동화 스크립트를 프로그래밍하면 교육 기관이 수업 일정 조율이나 정기 수업 통지 발송과 같은 반복적인 업무에 대한 인건비를 크게 절감할 수 있습니다."
+      ],
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Khac-phuc-rao-can-ha-tang-giao-duc.jpg",
+      "imageAlt": "교육 인프라의 장벽 극복"
+    },
+    "counters": [
+      {
+        "index": "/01",
+        "value": "10+",
+        "label": "수년간의 경험"
+      },
+      {
+        "index": "/02",
+        "value": "250+",
+        "label": "고객"
+      },
+      {
+        "index": "/03",
+        "value": "15+",
+        "label": "서비스를 제공하는 국가"
+      },
+      {
+        "index": "/04",
+        "value": "98%",
+        "label": "고객 만족"
+      }
+    ],
+    "values": {
+      "title": "디지털 교육 애플리케이션의 실질적 이점",
+      "intro": "심층 프로그래밍은 시스템이 안정적으로 작동하고 비즈니스 성과를 최적화하는 데 도움을 줍니다. 맞춤형 아키텍처는 데이터 동기화, 소스 코드 오류 제거, 모듈별 프로세스 자동화를 가능하게 합니다. 이는 실제 처리 속도를 기반으로 위험을 통제하고 효율성을 측정하는 기초입니다.",
+      "items": [
+        {
+          "title": "동시 접근 지표 최적화",
+          "description": "온라인 시험이나 라이브 스트리밍 같은 대규모 작업을 수행하는 사용자 수가 급격히 증가하더라도 시스템이 안정적으로 작동하도록 하세요.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "지적 재산권 통제",
+          "description": "독점 강의 콘텐츠의 무단 복사나 배포를 방지하기 위한 내장 DRM 및 디지털 워터마킹 기술.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "학술 데이터 표준화",
+          "description": "SCORM 또는 xAPI와 같은 국제 교육 기술 표준을 준수하여 다른 플랫폼과의 호환성을 보장합니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "감사 프로세스의 100% 자동화",
+          "description": "복잡한 시험 문제에 대해 자동 채점 알고리즘을 프로그래밍하여 학생들에게 정확하고 즉각적인 결과를 반환하는 데 도움을 줍니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "장기적인 인프라 비용 절감",
+          "description": "클라우드 소스 코드와 구성 최적화는 시스템이 기존 패키지 소프트웨어보다 서버 자원을 덜 소비하도록 돕습니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "심층 분석 보고서",
+          "description": "실제 수집된 데이터를 바탕으로 학습 효과와 학생 유지율 지표를 측정하는 대시보드를 제공하세요.",
+          "image": "",
+          "imageAlt": ""
+        }
+      ],
+      "cta": "지금 상담 예약을 하세요!"
+    },
+    "why": {
+      "label": "왜 우리를 선택했을까요?",
+      "title": "Winterfrost의 기술적 역량을 선택해야 하는 이유",
+      "items": [
+        {
+          "number": "1",
+          "title": "프로젝트 전체 소스 코드를 넘겨주기",
+          "description": "고객은 공급자에 의존하지 않고 완전한 소스 코드와 기술 사양서를 받아 시스템을 완전히 마스터할 수 있습니다."
+        },
+        {
+          "number": "2",
+          "title": "현대 기술 스택과 성능",
+          "description": "EdTech 프로젝트에는 Go, Python, React, Node.js 같은 빠르고 안전한 프로그래밍 언어를 사용하세요."
+        },
+        {
+          "number": "3",
+          "title": "전문 CICD 과정",
+          "description": "지속적 통합 및 배포 프로세스를 적용하면 시스템을 방해하지 않으면서 신기능을 빠르게 업데이트할 수 있습니다."
+        },
+        {
+          "number": "4",
+          "title": "가용성 SLA 약속",
+          "description": "중복성 및 부하 분산 솔루션을 통해 최소 99.9%의 시스템 가동 시간을 보장합니다."
+        },
+        {
+          "number": "5",
+          "title": "심층 다층 보안",
+          "description": "WAF 방화벽 시스템을 구축하고, 민감한 데이터를 암호화하며, 소프트웨어에 대한 정기적인 취약점 점검을 수행합니다."
+        },
+        {
+          "number": "6",
+          "title": "수석 전문가 팀",
+          "description": "전체 프로젝트는 소프트웨어 공학 분야에서 복잡한 논리 문제를 다룬 경험이 있는 엔지니어들에 의해 수행됩니다."
+        }
+      ]
+    },
+    "cta": {
+      "label": "지금 연락하세요!",
+      "title": "교육 및 훈련 관리 인프라의 디지털화",
+      "description": "Winterfrost의 엔지니어링 팀에 연락하여 중앙 집중식 학습 관리 시스템을 구축하고 운영 프로세스를 자동화하여 교육 기관의 교육 성과를 최적화하세요.",
+      "buttonLabel": "기술적 해결책 조언을 받아보세요",
+      "image": "/images/people/cta/winterfrost/chuyen-vien-nam-tre.png",
+      "imageAlt": "전문가 컨설턴트"
+    },
+    "cases": null,
+    "services": {
+      "title": "교육기술의 핵심 서비스",
+      "intro": "우리는 교육 및 관리 프로세스의 포괄적 디지털화에 중점을 둔 프로그램 항목을 제공합니다.",
+      "items": [
+        {
+          "title": "맞춤형 LMS 시스템 프로그래밍",
+          "description": "전체 강의 목록, 교재, 각 학생의 학습 진도를 관리할 수 있는 온라인 운영 센터를 구축하세요. 이 시스템은 조직도와 실제 사업 운영에 따라 별도로 설정됩니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Lap-trinh-he-thong-LMS-tuy-chinh.jpg",
+          "imageAlt": "맞춤형 LMS 시스템 프로그래밍"
+        },
+        {
+          "title": "가상 교실 개발",
+          "description": "빠른 전송 속도와 지연 없는 실시간 비디오 및 오디오 교실 환경을 구축하세요. 디지털 화이트보드와 화면 공유 같은 대면 교육 지원 도구를 학습 플랫폼 내에 통합합니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phat-trien-Virtual-Classroom.jpg",
+          "imageAlt": "가상 교실 개발"
+        },
+        {
+          "title": "온라인 시험 시스템 구축",
+          "description": "모듈 프로그래밍은 문제 은행 생성부터 자동 채점까지 시험 조직을 자동화합니다. 이 시스템은 부정행위를 방지하고 시험 결과의 객관성을 보장하기 위해 모니터링 기법을 통합합니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Xay-dung-he-thong-thi-truc-tuyen.jpg",
+          "imageAlt": "온라인 시험 시스템 구축"
+        },
+        {
+          "title": "교육 비디오 보안 솔루션",
+          "description": "독점 강의 콘텐츠를 보호하기 위해 암호화 프로토콜을 사용하세요. 이 서비스는 사용자가 불법적으로 화면 녹화 소프트웨어를 다운로드하거나 사용해 강의 데이터를 복사하는 것을 방지합니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-bao-mat-video-dao-tao.jpg",
+          "imageAlt": "교육 비디오 보안 솔루션"
+        },
+        {
+          "title": "교육용 BI 보고 시스템",
+          "description": "원시 학생 및 수익 지표를 시각적 분석 차트로 변환하세요. 이 시스템은 경영진이 교육 품질, 과정 완료율을 추적하고 미래 비즈니스 성과를 예측하는 데 도움을 줍니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/He-thong-bao-cao-BI-cho-giao-duc.jpg",
+          "imageAlt": "교육용 BI 보고 시스템"
+        },
+        {
+          "title": "교육용 모바일 앱 개발",
+          "description": "모바일 폰 프로그래밍 애플리케이션은 학생들이 언제 어디서나 공부하고 숙제를 할 수 있도록 돕습니다. 애플리케이션의 모든 데이터는 컴퓨터의 중앙 관리 시스템과 지속적으로 동기화됩니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phat-trien-Mobile-App-giao-duc.jpg",
+          "imageAlt": "교육용 모바일 앱 개발"
+        }
+      ],
+      "cta": "모든 서비스를 탐색하기"
+    },
+    "process": {
+      "label": "프로젝트 구현 과정?",
+      "items": [
+        {
+          "number": "01",
+          "tag": "분석",
+          "title": "전문 조사 및 기술 요구사항 명세서",
+          "description": "실제 교육 과정을 상세히 분석하고, 동시 접근 사용자 규모를 파악하며, 시스템이 비즈니스의 운영 요구를 정확히 충족하도록 기능 명세를 문서화합니다."
+        },
+        {
+          "number": "02",
+          "tag": "건축",
+          "title": "중앙집중식 데이터 구조 및 시스템 설계",
+          "description": "마이크로서비스 아키텍처 다이어그램을 개발하고 데이터베이스를 구축하여 유연한 자원 확장성을 보장하고 시스템 전반에 걸쳐 학생 정보의 일관성을 유지합니다."
+        },
+        {
+          "number": "03",
+          "tag": "인터페이스",
+          "title": "인터랙티브 인터페이스 프로그래밍과 경험 최적화",
+          "description": "UI UX 디자인은 기술적 내비게이션 성능에 중점을 두어 웹, iOS, 안드로이드 플랫폼에서 동기식 디스플레이 기능과 안정적인 작동을 보장합니다."
+        },
+        {
+          "number": "04",
+          "tag": "프로그래밍",
+          "title": "보안 암호화 계층의 모듈 개발 및 통합",
+          "description": "LMS 모듈, 온라인 강의실, 시험 시스템의 소스 코드를 작성하고, 독점 교육 콘텐츠를 보호하기 위해 데이터 암호화 프로토콜을 통합합니다."
+        },
+        {
+          "number": "05",
+          "tag": "테스트",
+          "title": "부하 제한 확인과 소스 코드 오류 확인",
+          "description": "서버가 최대 접근 조건에서 작동할 수 있는지 확인하기 위해 스트레스 테스트 시나리오를 실행하고, 기술 취약점을 완전히 제거하기 위한 보안 테스트를 수행합니다."
+        },
+        {
+          "number": "06",
+          "tag": "작동",
+          "title": "클라우드 인프라 배포 및 소스 코드 전달",
+          "description": "시스템을 실제 환경에 설치하고, 모든 소스 코드와 운영 매뉴얼을 이전하여 기업이 기술과 데이터 시스템을 완전히 숙달할 수 있도록 하세요."
+        }
+      ],
+      "cta": "제품 제작을 시작하세요!"
+    },
+    "faq": {
+      "label": "자주 묻는 질문",
+      "title": "모든 질문에 대한 답변",
+      "intro": "자주 묻는 질문 EdTech 시스템에 관한 FAQ",
+      "items": [
+        {
+          "q": "인수인계 후 기업이 소스 코드의 완전한 소유권을 갖고 있나요?",
+          "a": "네. Winterfrost는 원본 소스 코드와 기술 사양 문서의 100%를 넘겼습니다. 이를 통해 기업은 시스템을 완전히 통제할 수 있고, 소프트웨어 제공자에 의존하지 않고 인프라를 적극적으로 업그레이드하거나 변경할 수 있습니다."
+        },
+        {
+          "q": "수만 명의 학생이 동시에 온라인 시험을 치르는데도 어떻게 시스템이 다운되지 않을 수 있나요?",
+          "a": "우리는 클라우드 컴퓨팅 인프라에서 마이크로서비스 아키텍처와 자동 확장 메커니즘을 결합하여 사용합니다. 시스템은 트래픽 급증을 자동으로 감지하여 해당 서버 자원을 확장하여 시험 과정 전반에 걸쳐 절대적인 응답 속도와 안정성을 보장합니다."
+        },
+        {
+          "q": "독점 강의 영상 콘텐츠는 어떻게 표절로부터 보호되나요?",
+          "a": "Winterfrost는 DRM 비디오 스트림 암호화 기술과 사용자 식별 정보를 포함한 디지털 워터마킹 기술을 통합합니다. 이 솔루션은 무단 다운로드 도구를 효과적으로 방지하고, 강의 화면을 녹화한 계정을 정확히 추적하는 데 도움을 줍니다."
+        },
+        {
+          "q": "시스템이 회계 소프트웨어나 결제 게이트웨이와 데이터를 동기화할 수 있나요?",
+          "a": "네. 기존 ERP 또는 CRM 기업 관리 소프트웨어와 데이터를 통합하기 위한 표준 API 게이트웨이를 구축합니다. 또한 은행 및 전자지갑과의 직접 통합을 지원하여 등록금 징수 및 재정 조정 과정을 완전히 자동화합니다."
+        },
+        {
+          "q": "기존 시스템에서 온 학생 데이터가 전환의 무결성을 보장하나요?",
+          "a": "네. 저희 엔지니어 팀은 모든 개인 정보, 학력 및 성적표를 기존 플랫폼에서 새 시스템으로 이전하기 위해 전용 데이터 변환 스크립트를 수행할 것입니다. 이 과정은 데이터 손실이나 불일치가 발생하지 않도록 엄격히 테스트됩니다."
+        },
+        {
+          "q": "운영 후 공식 기술 지원 및 유지보수 정책은 무엇인가요?",
+          "a": "Winterfrost는 운영 중 발생하는 문제를 24시간 이내에 직접 기술 지원을 제공하는 데 전념하고 있습니다. 또한 소프트웨어 인프라가 항상 가장 최적화되고 안전한 상태로 운영되도록 주기적인 시스템 감사와 보안 패치 업데이트도 수행합니다."
+        }
+      ]
+    }
+  },
+  "ke-toan": {
+    "slug": "ke-toan",
+    "title": "회계",
+    "hero": {
+      "title": "기업 회계 시스템 솔루션",
+      "description": "Winterfrost는 데이터 무결성 보장과 복잡한 재무 비즈니스 흐름 자동화에 중점을 둔 심층 회계 시스템 프로그래밍 솔루션을 제공합니다. 우리는 영업, 물류, 인사 모듈 등 모든 거래를 단일 원장으로 통합하여 정확한 현금 흐름을 관리할 수 있도록 돕는 소프트웨어 인프라를 구축합니다.",
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-he-thong-ke-toan-doanh-nghiep.jpg",
+      "imageAlt": "기업 회계 시스템 솔루션",
+      "primaryLabel": "직접 연락",
+      "secondaryLabel": "조언 요청 메시지"
+    },
+    "overview": {
+      "label": "개요",
+      "title": "회계 운영 자동화",
+      "paragraphs": [
+        "기업에 가장 큰 도전은 금융 데이터가 여러 개의 엑셀 파일이나 개별 소프트웨어로 분산되어 있어 시간이 많이 걸리고 오류가 잦은 수동 조정을 초래한다는 점입니다. Winterfrost는 엄격한 거래 통제 메커니즘을 사용하는 중앙집중식 거버넌스 시스템을 구축함으로써 이 문제를 해결합니다. 저희 솔루션은 모든 항목이 실시간으로 자동으로 교차 검증 및 동기화되어, 운영 데이터와 회계 수치 간의 위상 차이를 제거합니다.c"
+      ],
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Tu-dong-hoa-nghiep-vu-tai-chinh.jpg",
+      "imageAlt": "금융 운영 자동화"
+    },
+    "counters": [
+      {
+        "index": "/01",
+        "value": "10+",
+        "label": "수년간의 경험"
+      },
+      {
+        "index": "/02",
+        "value": "250+",
+        "label": "고객"
+      },
+      {
+        "index": "/03",
+        "value": "15+",
+        "label": "서비스를 제공하는 국가"
+      },
+      {
+        "index": "/04",
+        "value": "98%",
+        "label": "고객 만족"
+      }
+    ],
+    "values": {
+      "title": "디지털 회계 시스템 도입의 실질적 이점",
+      "intro": "중앙집중식 회계 시스템은 데이터를 통합하고, 수동 조정을 없애며, 보고 지연을 없앨 수 있습니다. 이 솔루션은 다중 모듈 간의 통일성을 보장하여, 기업이 정확한 실제 데이터를 기반으로 운영 결정을 내릴 수 있도록 지원합니다.",
+      "items": [
+        {
+          "title": "절대적인 정확성 보장",
+          "description": "시스템은 복잡한 계산을 자동으로 수행하고 모듈 간 데이터를 조정하여 인간의 오류를 제거합니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "실시간 보고서 업데이트",
+          "description": "경영진은 거래가 발생하자마자 기간이 끝날 때까지 기다리지 않고 수익, 비용, 이익을 추적할 수 있습니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "회계 과정을 자동화하세요",
+          "description": "판매 및 조달 거래는 규정에 따라 자동으로 회계 내역으로 전환됩니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "세금 의무의 엄격한 통제",
+          "description": "이 시스템은 데이터를 자동으로 집계하고 주 정부 관리 기관이 정한 형식으로 세금 신고서를 제공합니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "부채 관리 최적화",
+          "description": "자동 경고 메커니즘은 기업이 현금 흐름의 유동성을 보장하기 위해 매출채권과 매입채권을 잘 관리하는 데 도움을 줍니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "정산 시간 단축",
+          "description": "디지털 문서 저장 과정은 감사를 위해 기록을 빠르고 정확하게 검색하고 비교하는 데 도움을 줍니다.",
+          "image": "",
+          "imageAlt": ""
+        }
+      ],
+      "cta": "지금 상담 예약을 하세요!"
+    },
+    "why": {
+      "label": "왜 우리를 선택했을까요?",
+      "title": "회계 산업의 디지털 전환을 위해 Winterfrost를 선택해야 하는 이유",
+      "items": [
+        {
+          "number": "1",
+          "title": "심층 금융 논리 프로그래밍 능력",
+          "description": "회계 기준에 대해 잘 아는 엔지니어 팀이 비즈니스 프로세스를 정확한 소프트웨어 알고리즘으로 전환합니다."
+        },
+        {
+          "number": "2",
+          "title": "엔터프라이즈 표준 보안 데이터 아키텍처",
+          "description": "민감한 금융 정보를 무단 접근으로부터 보호하기 위해 다층 데이터 암호화 및 분산화 방법을 사용하세요."
+        },
+        {
+          "number": "3",
+          "title": "유연한 시스템 연결",
+          "description": "표준화된 API 커뮤니케이션 포털을 통해 영업 플랫폼, 창고 관리, 전자은행 시스템과 쉽게 동기화하여 통합할 수 있습니다."
+        },
+        {
+          "number": "4",
+          "title": "소스 코드의 전권 소유권",
+          "description": "기업들은 시스템을 장기적으로 관리, 업그레이드 또는 유지보수할 수 있도록 전체 소스 코드와 상세한 기술 문서를 제공받습니다."
+        },
+        {
+          "number": "5",
+          "title": "고성능의 안정적인 운영 체제",
+          "description": "이 소프트웨어는 데이터베이스 검색 속도를 저하하지 않으면서도 매일 대량의 문서를 처리할 수 있도록 소스 최적화되어 있습니다."
+        },
+        {
+          "number": "6",
+          "title": "직접 기술 지원 프로세스",
+          "description": "우리는 발생하는 문제를 해결하고 회계 정책 변화에 따라 새로운 기능을 업데이트하는 데 기업을 지원하는 데 전념하고 있습니다."
+        }
+      ]
+    },
+    "cta": {
+      "label": "지금 연락하세요!",
+      "title": "기업 재무 관리 인프라의 표준화",
+      "description": "Winterfrost의 엔지니어링 팀과 연결하여 중앙 집중식 회계 시스템을 구축하고 회계 과정을 자동화하여 운영 데이터의 절대적인 정확성을 보장하세요.",
+      "buttonLabel": "시스템 아키텍처 상담 받기",
+      "image": "/images/people/cta/winterfrost/chuyen-vien-nu.png",
+      "imageAlt": "전문가 컨설턴트"
+    },
+    "cases": null,
+    "services": {
+      "title": "회계를 위한 핵심 프로그래밍 서비스",
+      "intro": "프로그램 부문은 재무 관리의 모든 측면을 포괄적으로 디지털화하는 데 중점을 둡니다.",
+      "items": [
+        {
+          "title": "일반 회계 핵심 프로그래밍",
+          "description": "중앙 원장 시스템을 구축하고, 계좌 포트폴리오를 관리하며, 자동 잔액 이월 규칙을 설정하세요.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Lap-trinh-loi-ke-toan-tong-hop.jpg",
+          "imageAlt": "일반 회계 핵심 프로그래밍"
+        },
+        {
+          "title": "직접 전자 송장 통합",
+          "description": "송장 제공업체와 API 게이트웨이를 구축하여 송장 데이터를 소프트웨어에서 직접 내보내고 받는 과정을 자동화하세요.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Tich-hop-hoa-don-dien-tu-truc-tiep.jpg",
+          "imageAlt": "직접 전자 송장 통합"
+        },
+        {
+          "title": "급여 및 세금 관리 모듈을 구축하세요",
+          "description": "실제 인사 데이터를 기반으로 급여 계산기를 프로그래밍하고 개인 소득세 비용을 자동으로 배분하세요.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Xay-dung-module-quan-ly-luong-va-thue.jpg",
+          "imageAlt": "급여 및 세금 관리 모듈을 구축하세요"
+        },
+        {
+          "title": "고정 자산 관리 시스템 개발",
+          "description": "기업의 자산 수명 주기를 추적, 감가상각 계산, 관리하는 과정을 자동화하고 정확하게 디지털화하세요.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phat-trien-he-thong-quan-ly-tai-san-co-dinh.jpg",
+          "imageAlt": "고정 자산 관리 시스템 개발"
+        },
+        {
+          "title": "스마트 금융 대시보드 프로그래밍",
+          "description": "중요한 재무 지표들의 시각적 인터페이스를 구축하면 경영진이 현금 흐름 동향을 신속하게 파악할 수 있습니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Lap-trinh-Dashboard-tai-chinh-thong-minh.jpg",
+          "imageAlt": "스마트 금융 대시보드 프로그래밍"
+        },
+        {
+          "title": "전문 회계 데이터 마이그레이션 서비스",
+          "description": "재무 지표의 연속성을 보장하기 위해 기존 플랫폼에서 새로운 시스템으로의 데이터 이전 및 정리 과정을 구현하세요.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Dich-vu-di-tru-du-lieu-ke-toan-chuyen-nghiep.jpg",
+          "imageAlt": "전문 회계 데이터 마이그레이션 서비스"
+        }
+      ],
+      "cta": "모든 서비스를 탐색하기"
+    },
+    "process": {
+      "label": "프로젝트 구현 과정?",
+      "items": [
+        {
+          "number": "01",
+          "tag": "설문조사]",
+          "title": "재무 비즈니스 흐름을 분석하고 기술적 요구사항을 확립합니다",
+          "description": "엔지니어링 팀은 실제 회계 방법을 조사하여 알고리즘 매개변수와 데이터 제어 규칙을 확립합니다."
+        },
+        {
+          "number": "02",
+          "tag": "건축",
+          "title": "엔티티 다이어그램 설계 및 보안 아키텍처 구축",
+          "description": "데이터베이스 아키텍처 계획은 균형을 보장하고 고수준 금융 데이터 암호화 계층을 구축합니다."
+        },
+        {
+          "number": "03",
+          "tag": "프로그래밍",
+          "title": "기능 모듈의 소스 코드를 실행하세요",
+          "description": "심층 회계 모듈의 소스 코드를 작성하고 오프사이트 운영체제로 연결되는 API 게이트웨이를 설정하세요."
+        },
+        {
+          "number": "04",
+          "tag": "테스트",
+          "title": "미터법 정확도 제어 및 하중 부하 측정",
+          "description": "문제를 수행하여 장부 균형을 점검하고 시스템 보안 취약점을 철저히 검토합니다."
+        },
+        {
+          "number": "05",
+          "tag": "개봉",
+          "title": "시스템을 인프라에 배포하고 데이터를 변환하세요",
+          "description": "서버 환경에 소프트웨어를 설치하고 이전 기간의 회계 데이터를 새 시스템에 안전하게 로드하세요."
+        },
+        {
+          "number": "06",
+          "tag": "유지보수",
+          "title": "성과 모니터링 및 규제 업데이트",
+          "description": "시스템의 운영 상태를 지속적으로 모니터링하고 정기적으로 세금 정책에 업데이트, 패치 또는 변경을 진행하세요."
+        }
+      ],
+      "cta": "제품 제작을 시작하세요!"
+    },
+    "faq": {
+      "label": "자주 묻는 질문",
+      "title": "모든 질문에 대한 답변",
+      "intro": "회계 기법에 관한 자주 묻는 질문",
+      "items": [
+        {
+          "q": "기술적 문제가 발생했을 때 시스템에 데이터 편차가 없도록 어떻게 보장할 수 있을까요?",
+          "a": "우리는 데이터베이스 트랜잭션 메커니즘을 사용하여 모든 처리 단계가 성공적으로 완료된 경우에만 금융 거래가 기록되도록 하고, 오류가 발생하면 시스템이 자동으로 이를 되돌려줍니다."
+        },
+        {
+          "q": "기존 소프트웨어의 금융 데이터를 새 시스템으로 이전할 수 있나요?",
+          "a": "네, 우리는 회계 이력의 무결성을 유지하면서 데이터를 표준화하고 기존 형식으로 새 플랫폼으로 이전하는 과정을 구현하고 있습니다."
+        },
+        {
+          "q": "시스템이 자동 은행 잔고 조정을 지원하나요?",
+          "a": "네, 저희는 전자 명세서를 자동으로 입력하고 예금 장부와 대조하여 거래 현금 흐름의 차이를 즉시 감지하도록 프로그래밍했습니다."
+        },
+        {
+          "q": "고객 및 공급업체 데이터의 보안은 어떻게 강화되나요?",
+          "a": "모든 식별자는 AES 256으로 암호화되어 있으며, 시스템은 작전에 참여하는 각 인원의 특정 역할 권한에 기반한 접근만 허용합니다."
+        },
+        {
+          "q": "이 소프트웨어가 세무 당국의 기술 기준에 따라 데이터를 렌더링할 수 있나요?",
+          "a": "네, 보고 모듈은 해당 세금 신고 신청서의 요구사항에 따라 XML 형식이나 기타 데이터 표준으로 데이터를 렌더링하도록 프로그래밍되어 있습니다."
+        },
+        {
+          "q": "이 시스템이 다중 의원과 다중 통화 관리 기능을 지원하나요?",
+          "a": "네, 저희 시스템 아키텍처는 동일한 플랫폼에서 여러 자회사 포트폴리오를 관리하고 외환 환율 전환 작업을 자동으로 처리할 수 있도록 지원합니다."
+        }
+      ]
+    }
+  },
+  "kien-truc-xay-dung": {
+    "slug": "kien-truc-xay-dung",
+    "title": "건축 및 건설",
+    "hero": {
+      "title": "건축 및 건설 소프트웨어 개발",
+      "description": "대규모 엔지니어링 프로젝트는 정밀한 조정, 엄격한 예산 통제, 실시간 데이터 접근성을 요구합니다. 수동 관리 방법이나 개별 보고에 의존하면 자본 부족과 프로젝트 건설 일정 지연이 발생하는 경우가 많습니다.",
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Linh-vuc-Xay-dung-HomeNest-Viet-Nam.jpg",
+      "imageAlt": "지역-건설-Winterfrost-베트남-베트남",
+      "primaryLabel": "직접 연락",
+      "secondaryLabel": "조언 요청 메시지"
+    },
+    "overview": {
+      "label": "개요",
+      "title": "건설 산업의 장벽 제거",
+      "paragraphs": [
+        "건설 산업은 종종 건설 현장과 관리 사무소 간의 정보 단절에 직면합니다. 종이 보고서나 개별 소프트웨어에 의존하면 도면 오해, 일정 충돌, 공급망 병목 현상이 발생하여 프로젝트 진행을 방해할 수 있습니다.",
+        "Winterfrost는 단일 중앙 집중식 프로젝트 관리 시스템으로 이러한 문제를 해결합니다. 클라우드 기반 현장 보고 도구와 예산 시각화 시스템을 연결하여 투명한 운영 센터를 만듭니다. 이 솔루션은 모든 수준의 관리자들이 각 진행 단계를 정확히 추적하고, 업무를 효과적으로 배분하며, 건설의 모든 단계가 실제 운영 요구사항에 부합하도록 돕습니다."
+      ],
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Kien-truc-va-xay-dung-HomeNest-Viet-Nam.jpg",
+      "imageAlt": "건축 및 건설 - Winterfrost"
+    },
+    "counters": [
+      {
+        "index": "/01",
+        "value": "10+",
+        "label": "수년간의 경험"
+      },
+      {
+        "index": "/02",
+        "value": "250+",
+        "label": "고객"
+      },
+      {
+        "index": "/03",
+        "value": "15+",
+        "label": "서비스를 제공하는 국가"
+      },
+      {
+        "index": "/04",
+        "value": "98%",
+        "label": "고객 만족"
+      }
+    ],
+    "values": {
+      "title": "건설 산업의 디지털 전환의 이점",
+      "intro": "Winterfrost는 기업들이 운영 프로세스를 전면적으로 최적화하고 시장에서 브랜드 평판을 높이는 데 동조합니다.",
+      "items": [
+        {
+          "title": "데이터 연결",
+          "description": "중앙사무소와 건설 현장 간 거리를 완전히 없애 실시간 정보 흐름이 원활하게 이루어지도록 돕습니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "재무 관리",
+          "description": "각 자재 및 인건비를 면밀히 모니터링하면 기업이 현금 흐름을 엄격히 통제하고 프로젝트 자본 부족을 철저히 방지할 수 있습니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "자동화된 자재 관리",
+          "description": "건설 현장에서 수출입 및 재고 관리 프로세스를 디지털화하면 시공업체가 원자재 조달에 주도권을 잡고 건설 과정에서 불필요한 손실을 최소화할 수 있습니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "기술적 정확성 확보",
+          "description": "클라우드 플랫폼에서 도면과 사양에 대한 중앙 집중식 접근은 현장 팀이 올바른 설계를 실행하고 비용이 많이 드는 편차를 최소화하는 데 도움을 줍니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "노동 생산성 최적화",
+          "description": "작업 할당과 시각적 진행 상황 모니터링은 관리자가 인력과 장비를 보다 효과적으로 조율하여 프로젝트 완료 시간을 크게 단축하는 데 도움을 줍니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "위험 분석 및 예측",
+          "description": "합성 데이터는 기업이 진전이나 자원 부족의 위험을 조기에 파악하고, 적시에 맞고 정확한 처리 계획을 미리 제공할 수 있도록 돕습니다.",
+          "image": "",
+          "imageAlt": ""
+        }
+      ],
+      "cta": "지금 상담 예약을 하세요!"
+    },
+    "why": {
+      "label": "왜 우리를 선택했을까요?",
+      "title": "왜 Winterfrost의 건설 기술 솔루션을 선택해야 하는가",
+      "items": [
+        {
+          "number": "1",
+          "title": "엄격한 비용 통제",
+          "description": "Winterfrost는 현장에서 자재와 노동 낭비를 막는 데 도움을 줍니다. 각 비용을 면밀히 모니터링하면 기업이 이익을 유지하고 자본 손실이나 예상치 못한 비용 발생에 대해 걱정하지 않도록 돕습니다."
+        },
+        {
+          "number": "2",
+          "title": "입찰을 쉽게 따낼 수 있습니다",
+          "description": "데이터 관리와 보고에서의 전문성은 대형 투자자들에게 강한 인상을 남기는 데 도움이 됩니다. 이는 현대적인 관리 역량을 입증하고 더 대규모이자 고부가가치 프로젝트를 수용할 기회를 열어줍니다."
+        },
+        {
+          "number": "3",
+          "title": "원격 건설 모니터링",
+          "description": "현장에 직접 있을 필요도 없고, 전화로 모든 프로젝트 진행 상황을 알 수 있습니다. 원격 관리는 리더들이 파트너 찾기와 회사 확장에 집중할 시간을 절약해 줍니다."
+        },
+        {
+          "number": "4",
+          "title": "문서의 투명성",
+          "description": "모든 건설 이미지와 수락 기록은 과학적으로 보관되어 투자자와의 합의가 신속히 이루어질 수 있도록 돕습니다. 명확한 증거를 갖추면 불필요한 분쟁이나 다툼을 피할 수 있습니다."
+        },
+        {
+          "number": "5",
+          "title": "정시 건설 보장",
+          "description": "사무실과 현장 간의 모든 정보가 즉시 전송되어 프로젝트가 원활하고 신속하게 문제를 처리할 수 있도록 돕습니다. 프로젝트는 고객의 평판과 신뢰를 유지할 수 있도록 일정에 맞춰 완료됩니다."
+        },
+        {
+          "number": "6",
+          "title": "항상 전문가를 곁에 두세요",
+          "description": "Winterfrost는 도구를 제공할 뿐만 아니라, 필요할 때마다 기업들이 기술 지원을 제공할 수 있도록 지원합니다. 우리는 시스템이 항상 안정적이어서 엔지니어들의 건설 현장 외부 작업이 방해받지 않도록 보장합니다."
+        }
+      ]
+    },
+    "cta": {
+      "label": "지금 연락하세요!",
+      "title": "Winterfrost와 함께 스마트 빌딩 관리 시작하기",
+      "description": "모든 프로젝트에서 자재 비용을 엄격히 통제하고 건설 진행을 보장하는 데 저희가 도움을 드리겠습니다. 오늘 바로 귀사의 비즈니스에 맞춘 실질적인 해결책을 받으시려면 저희 전문가 팀에 연락해 주세요.",
+      "buttonLabel": "지금 상담 솔루션",
+      "image": "/images/people/cta/winterfrost/quan-ly-nam.png",
+      "imageAlt": "전문가 컨설턴트"
+    },
+    "cases": {
+      "title": "Case Studies",
+      "links": [
+        {
+          "href": "https://winterfrost.tech/case-studies/website-virela-interior",
+          "text": "건축 및 건설\n전자상거래\n웹사이트 디자인\n웹사이트 비렐라 내부\n프로젝트 보기"
+        },
+        {
+          "href": "https://winterfrost.tech/case-studies/website-ceranova",
+          "text": "건축 및 건설\n전자상거래\n웹사이트 디자인\n웹사이트 세라노바\n프로젝트 보기"
+        },
+        {
+          "href": "https://winterfrost.tech/case-studies/website-chromiva-coatings",
+          "text": "건축 및 건설\n전자상거래\n웹사이트 디자인\n웹사이트 크로미바 코팅\n프로젝트 보기"
+        }
+      ],
+      "images": [
+        {
+          "alt": "크로미바 코팅 홈페이지 인터페이스 – 사례 연구",
+          "src": "/images/projects/website-chromiva-coatings/01-anh-bia-du-an.webp?v=wf-projects-pro-20260726"
+        }
+      ]
+    },
+    "services": {
+      "title": "종합 건설 프로젝트 관리 솔루션",
+      "intro": "건설 현장 관리를 최적화하고, 자재 비용을 엄격히 통제하며, 실제 건설 진척을 보장하여 건설 기업이 운영 효율성에서 돌파구를 마련할 수 있도록 돕습니다.",
+      "items": [
+        {
+          "title": "프로젝트 관리 시스템",
+          "description": "사무실과 현장을 연결하는 단일 운영 센터를 만드세요. 진행 상황, 인력, 프로젝트 변경 사항에 관한 모든 정보가 즉시 업데이트되어 모두가 항상 통합된 계획에 따라 작업할 수 있습니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/He-thong-quan-tri-cong-trinh-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "건물 관리 시스템 - Winterfrost"
+        },
+        {
+          "title": "엔지니어를 위한 현장 응용",
+          "description": "엔지니어들이 현장에서 보고서를 보내고, 수락 사진을 찍으며, 사고 상황을 실시간으로 업데이트할 수 있도록 휴대폰으로 도구를 개발하는 것. 이로 인해 서류 작업이 줄어들고, 리더들이 직접 현장에 없이도 실제 상황을 파악할 수 있습니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Ung-dung-cho-ky-su-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "엔지니어를 위한 응용 프로그램 – Winterfrost"
+        },
+        {
+          "title": "재료 및 장비 제어 도구",
+          "description": "들어오고 나가는 자재와 기계 위치를 실시간으로 상세히 추적합니다. 이 서비스는 계약업체가 소비 기준을 확고히 파악하고 손실을 제거하며 구매 단계에서 보다 적극적으로 대응할 수 있도록 돕습니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Cong-cu-kiem-soat-vat-tu-va-thiet-bi-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "재료 및 장비 제어 도구 - Winterfrost"
+        },
+        {
+          "title": "도면 및 기술 데이터를 관리하세요",
+          "description": "최신 디자인 버전에 대한 접근 권한을 저장하고 분산시키세요. 건설팀은 모바일 기기에서 도면을 직접 확인할 수 있어 올바른 방법을 확인하고 수리 비용이 드는 오류를 피할 수 있습니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Quan-ly-ban-ve-va-du-lieu-ky-thuat-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "기술 데이터 및 도면 관리 - Winterfrost"
+        },
+        {
+          "title": "프로젝트 현금 흐름 모니터링 솔루션",
+          "description": "실제 비용을 원래 예상 예산과 대비하여 자동으로 업데이트하세요. 이를 통해 사업주는 각 품목의 이익을 엄격히 통제하고 재정 측면에서 적시에 조정할 수 있습니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-giam-sat-dong-tien-du-an-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "프로젝트 현금 흐름 모니터링 솔루션 – Winterfrost"
+        },
+        {
+          "title": "조립 문서 자동화 시스템",
+          "description": "이미지, 회의록, 건설 데이터를 자동으로 수집하여 결제 기록을 빠르게 내보내세요. 이 서비스는 기업이 인수인계 시간을 단축하고 투자자로부터 자본을 빠르게 회수하는 데 도움을 줍니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/He-thong-tu-dong-hoa-ho-so-hoan-cong-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "완성 문서 자동화 시스템 - Winterfrost"
+        }
+      ],
+      "cta": "모든 서비스를 탐색하기"
+    },
+    "process": {
+      "label": "프로젝트 구현 과정?",
+      "items": [
+        {
+          "number": "01",
+          "tag": "리뷰",
+          "title": "현장 조사",
+          "description": "기록 관리, 창고 관리, 팀 간 소통을 통해 비용 손실과 지연을 초래하는 취약점을 직접 배우세요."
+        },
+        {
+          "number": "02",
+          "tag": "데이터 연결",
+          "title": "뉴스플로우를 구축하세요",
+          "description": "건설 현장에서의 수락 영상이 즉시 사무실로 전송되도록 통신 시스템을 구축하여, 거리에 상관없이 정보가 항상 원활하게 전달되도록 하세요."
+        },
+        {
+          "number": "03",
+          "tag": "특수 솔루션",
+          "title": "기능 개발",
+          "description": "프로젝트가 자본 모집 조짐을 보이면 기계 추적 차트, 수출입 자재 통제 위원회, 조기 경보 시스템과 같은 실제 기능을 개발합니다."
+        },
+        {
+          "number": "04",
+          "tag": "확인",
+          "title": "실용 시험",
+          "description": "약한 네트워크 조건이나 현장 엔지니어의 구형 장비로 시스템을 테스트하고, 감시 카메라를 연결해 데이터가 항상 현실적인지 확인하세요."
+        },
+        {
+          "number": "05",
+          "tag": "수용",
+          "title": "인계 및 지침",
+          "description": "지휘관과 엔지니어들에게 현장에서 보고서를 업데이트하는 방법을 교육하세요. 가장 기술에 능숙한 사람도 능숙하게 사용할 수 있도록 합니다."
+        },
+        {
+          "number": "06",
+          "tag": "동반자",
+          "title": "프로젝트 지원",
+          "description": "공사 시작부터 도서 완성까지 이정표를 거쳐 기업들과 나란히 서 있었습니다. 우리는 소프트웨어가 항상 건설 현실의 유연한 변화에 맞춰 작동하도록 보장합니다."
+        }
+      ],
+      "cta": "제품 제작을 시작하세요!"
+    },
+    "faq": {
+      "label": "자주 묻는 질문",
+      "title": "모든 질문에 대한 답변",
+      "intro": "건설 기술 솔루션에 관한 질문에 답변하기",
+      "items": [
+        {
+          "q": "이 시스템은 건설 현장에서 자재 손실을 어떻게 방지하는 데 도움이 되나요?",
+          "a": "이 시스템은 창고 보관부터 실제 사용까지 각 건설 품목의 자재 기준을 면밀히 모니터링할 수 있게 합니다. 일반적인 변경이나 초과 현상은 즉시 알림을 받아 폐기물이나 손실의 조기 징후를 발견하여 즉시 처리할 수 있도록 돕습니다."
+        },
+        {
+          "q": "기술에 능숙하지 않은 현장 엔지니어도 사용할 수 있나요?",
+          "a": "애플리케이션 인터페이스는 Winterfrost가 미니멀리즘으로 설계했으며, 단순한 터치와 사진 촬영에 중점을 둡니다. 현장 교육을 제공하여 가장 소극적인 직원도 단 15분 만에 보고서를 업데이트하고 도면을 볼 수 있도록 합니다."
+        },
+        {
+          "q": "건설 현장의 네트워크가 약하거나 인터넷이 없다면, 시스템은 어떻게 작동할까요?",
+          "a": "애플리케이션에는 오프라인 작업 모드가 내장되어 있습니다. 엔지니어들은 여전히 일기를 작성하고, 승인 사진을 찍으며, 진행 상황을 정상적으로 업데이트할 수 있습니다. 기기가 다시 네트워크 연결을 갖추는 순간, 모든 데이터가 자동으로 사무실 서버에 동기화되어 사라지지 않습니다."
+        },
+        {
+          "q": "기술 문서와 프로젝트 도면은 안전하게 보관되어 있나요?",
+          "a": "도면과 건설 도면은 중요한 지적 재산권이기 때문에, Winterfrost는 다층 암호화 기술과 엄격한 접근 분산을 사용합니다. 오직 면허가 있는 직원만이 데이터를 열람하거나 편집할 수 있어, 기업은 프로젝트 보안에 대해 완전한 안심을 제공합니다."
+        },
+        {
+          "q": "Winterfrost의 시스템이 기존 회계 소프트웨어와 통합되어 있나요?",
+          "a": "저희 시스템은 베트남에서 인기 있는 회계 또는 사무 관리 소프트웨어와 유연하게 연동할 수 있습니다. 데이터 동기화는 회계사가 데이터를 처음부터 다시 입력하지 않아도 되게 하여 건설 현장과 사무실 간의 수치가 항상 100% 일치하도록 보장합니다."
+        },
+        {
+          "q": "이 시스템 도입이 현재 공사 일정에 영향을 미칠까요?",
+          "a": "Winterfrost의 구현 과정은 여러 단계로 나누어져 있으며, 프로젝트 운영과 병행하여 진행됩니다. 핵심 기능을 사전에 우선적으로 설치하여 기업들이 점진적으로 적응할 수 있도록 하여 실제 건설 현장 진행에 지장을 주지 않도록 합니다."
+        }
+      ]
+    }
+  },
+  "ngan-hang": {
+    "slug": "ngan-hang",
+    "title": "은행",
+    "hero": {
+      "title": "은행 산업을 위한 디지털 전환 솔루션",
+      "description": "Winterfrost는 대규모 데이터 처리와 최고 수준의 정보 보안을 보장하는 데 중점을 둔 전문 은행 기술 인프라 구축 서비스를 제공합니다. 우리는 금융기관이 복잡한 거래 흐름을 통합하고, 핵심 은행 업무를 자동화하며, 디지털 플랫폼 전반에 걸쳐 원활한 사용자 경험을 창출할 수 있도록 돕는 소프트웨어 아키텍처를 설계합니다.",
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-chuyen-doi-so-cho-nganh-ngan-hang.jpg",
+      "imageAlt": "은행 산업을 위한 디지털 전환 솔루션",
+      "primaryLabel": "직접 연락",
+      "secondaryLabel": "조언 요청 메시지"
+    },
+    "overview": {
+      "label": "개요",
+      "title": "거래 안전성 최적화",
+      "paragraphs": [
+        "은행 산업의 가장 큰 도전은 연결이 부족한 기존 시스템의 존재로, 처리 속도가 느리고 정보 보안 위험이 발생한다는 점입니다. Winterfrost는 유연한 마이크로서비스 아키텍처를 활용한 현대적인 디지털 뱅킹 인프라를 구축함으로써 이 문제를 해결합니다. 저희 솔루션은 데이터 장벽을 제거하고, 모든 거래의 즉각적인 동기화를 가능하게 하며, 자산과 고객 정보의 무결성을 보장하기 위해 다층적인 보호 계층을 구축합니다."
+      ],
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Toi-uu-hoa-tinh-an-toan-trong-giao-dich.jpg",
+      "imageAlt": "거래 안전 최적화"
+    },
+    "counters": [
+      {
+        "index": "/01",
+        "value": "10+",
+        "label": "수년간의 경험"
+      },
+      {
+        "index": "/02",
+        "value": "250+",
+        "label": "고객"
+      },
+      {
+        "index": "/03",
+        "value": "15+",
+        "label": "서비스를 제공하는 국가"
+      },
+      {
+        "index": "/04",
+        "value": "98%",
+        "label": "고객 만족"
+      }
+    ],
+    "values": {
+      "title": "디지털 뱅킹 시스템 도입의 실질적 이점",
+      "intro": "중앙집중식 금융 시스템은 자금 흐름을 통합하고, 수동 실수의 위험을 없애며, 거래 지연을 제거합니다. 이 솔루션은 다중 모듈 통일성을 보장하고, 기업이 정확한 실제 데이터를 기반으로 경영 결정을 내릴 수 있도록 지원하며, 법적 규정을 엄격히 준수합니다.",
+      "items": [
+        {
+          "title": "절대적인 거래 보안 보장",
+          "description": "침입과 금융 사기를 방지하는 고급 보안 프로토콜을 구축하세요.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "거래 처리 속도를 최적화합니다",
+          "description": "병렬 처리 알고리즘은 초저지연 시간으로 초봉쇄 수백만 건의 거래를 실행할 수 있도록 돕습니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "비즈니스 프로세스 자동화",
+          "description": "대출 승인, 부채 관리, 원장 회계에서 수동 개입을 최소화하세요.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "고객 경험을 개인화하세요",
+          "description": "중앙 데이터를 활용해 각 사용자 세그먼트의 실제 요구에 맞춘 금융 서비스를 제공하세요.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "국제 금융 기준 준수",
+          "description": "이 시스템은 중앙은행의 자본 안전 및 위험 관리 규정을 완벽히 준수하도록 프로그래밍되어 있습니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "향상된 추적성 및 보고",
+          "description": "재무제표와 감사 데이터를 절대적인 정확성으로 즉시 추출하세요.",
+          "image": "",
+          "imageAlt": ""
+        }
+      ],
+      "cta": "지금 상담 예약을 하세요!"
+    },
+    "why": {
+      "label": "왜 우리를 선택했을까요?",
+      "title": "은행이 Winterfrost를 선택해야 하는 이유",
+      "items": [
+        {
+          "number": "1",
+          "title": "국제 표준 보안 시스템 프로그래밍",
+          "description": "우리는 AES 256 데이터 암호화 표준과 다중 인증을 사용하여 시스템을 사이버 공격으로부터 보호합니다. 소스 코드의 모든 구성 요소는 최고 수준의 보안을 보장하기 위해 정기적으로 취약점 점검을 받습니다."
+        },
+        {
+          "number": "2",
+          "title": "금융 산업 규제 및 법률에 대한 심층적인 이해",
+          "description": "엔지니어 팀은 코딩에 능숙할 뿐만 아니라 은행 운영 규칙과 국립은행의 정보 보안 규정도 완벽히 숙달하고 있습니다. 이로 인해 시스템이 항상 법을 준수하도록 보장합니다."
+        },
+        {
+          "number": "3",
+          "title": "무제한 확장성을 가진 시스템 아키텍처",
+          "description": "우리는 실제 거래 흐름에 따라 자원을 유연하게 업그레이드할 수 있는 소프트웨어를 설계합니다. 기업들은 핵심 시스템 구조를 변경하지 않고도 새로운 금융 서비스를 쉽게 추가할 수 있습니다."
+        },
+        {
+          "number": "4",
+          "title": "다양한 생태계 통합 역량",
+          "description": "저희 시스템은 표준화된 API 게이트웨이를 통해 결제 게이트웨이, 전자 지갑, 신원 플랫폼에 쉽게 연결됩니다. 당사자 간 데이터 흐름은 항상 원활하고 안전할 것을 보장합니다."
+        },
+        {
+          "number": "5",
+          "title": "엄격한 성능 및 보안 테스트",
+          "description": "작동 전에 시스템은 가장 혹독한 시뮬레이션 환경에서 침투 테스트와 부하 테스트를 거쳐야 합니다. 이로 인해 개발 단계부터 기술적 위험이 완전히 제거됩니다."
+        },
+        {
+          "number": "6",
+          "title": "모든 기술 숙련도를 넘긴다",
+          "description": "Winterfrost는 기업이 장기적으로 운영과 업그레이드를 자율할 수 있도록 전체 소스 코드와 상세한 기술 문서를 제공합니다. 우리는 공급업체에 대한 의존도를 만들지 않겠다는 약속을 가지고 있습니다."
+        }
+      ]
+    },
+    "cta": {
+      "label": "지금 연락하세요!",
+      "title": "금융 인프라의 디지털화와 안전한 디지털 뱅킹",
+      "description": "Winterfrost의 엔지니어링 팀에 연락하여 중앙 집중식 은행 시스템을 구축하고 거래 과정을 자동화하여 금융 인프라의 절대적인 안전을 보장하세요.",
+      "buttonLabel": "저희와 대화해 보세요",
+      "image": "/images/people/cta/winterfrost/quan-ly-nam.png",
+      "imageAlt": "전문가 컨설턴트"
+    },
+    "cases": null,
+    "services": {
+      "title": "은행 부문을 위한 전문 서비스",
+      "intro": "프로그램 항목은 금융 부문의 모든 프로세스를 디지털화하고 보안을 최적화하는 데 중점을 둡니다.",
+      "items": [
+        {
+          "title": "핵심 은행 시스템 프로그래밍",
+          "description": "회계, 예금, 대출 및 중앙 집중식 재무회계를 관리할 중앙 운영 체계를 구축합니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Lap-trinh-he-thong-ngan-hang-loi-Core-Banking-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "핵심 뱅킹 시스템 프로그래밍 – Winterfrost"
+        },
+        {
+          "title": "eKYC 전자 신원 확인 솔루션 구축",
+          "description": "계정 개설 시간을 단축하고 보안을 강화하기 위해 얼굴 인식 및 자동 문서 인증 알고리즘을 프로그래밍합니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Xay-dung-giai-phap-dinh-danh-dien-tu-eKYC.jpg",
+          "imageAlt": "eKYC 전자 신원 확인 솔루션 구축"
+        },
+        {
+          "title": "심층 모바일 뱅킹 애플리케이션 개발",
+          "description": "직관적인 인터페이스와 완전 통합된 결제 및 개인 금융 관리 기능을 갖춘 모바일 기기 프로그래밍 애플리케이션.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phat-trien-ung-dung-Mobile-Banking-chuyen-sau.jpg",
+          "imageAlt": "심층 모바일 뱅킹 애플리케이션 개발"
+        },
+        {
+          "title": "결제 게이트웨이와 결제 중개자 설정",
+          "description": "송금, 청구서 납부, 실시간 현금 흐름 관리를 연결하는 인프라를 구축하세요.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Thiet-lap-cong-thanh-toan-va-trung-gian-thanh-toan.jpg",
+          "imageAlt": "결제 게이트웨이와 결제 중개자 설정"
+        },
+        {
+          "title": "위험 관리 및 반사기 시스템 프로그래밍",
+          "description": "행동 분석 도구와 비정상적인 거래 징후의 조기 경고를 개발하여 고객 계정을 보호합니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Lap-trinh-he-thong-quan-tri-rui-ro-va-chong-gian-lan.jpg",
+          "imageAlt": "위험 관리 및 반사기 시스템 프로그래밍"
+        },
+        {
+          "title": "금융 데이터를 분석할 대시보드를 구축하세요",
+          "description": "비즈니스 지표와 위험 보고 시각화 도구를 구축하면 경영진이 정확한 재무 전략을 수립할 수 있습니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Toi-uu-hoa-tinh-an-toan-trong-giao-dich-1.jpg",
+          "imageAlt": "거래 안전 최적화"
+        }
+      ],
+      "cta": "모든 서비스를 탐색하기"
+    },
+    "process": {
+      "label": "프로젝트 구현 과정?",
+      "items": [
+        {
+          "number": "01",
+          "tag": "분석",
+          "title": "비즈니스 프로세스 조사 및 보안 표준 수립",
+          "description": "엔지니어 팀은 인프라의 현재 상태를 조사하고 정보 보안에 대한 엄격한 기술 요구사항을 결정합니다."
+        },
+        {
+          "number": "02",
+          "tag": "건축",
+          "title": "엔티티 다이어그램 설계 및 네트워크 인프라 계획",
+          "description": "중앙 집중식 데이터 모델을 구축하고 방화벽 계층을 설계하여 데이터베이스의 절대적인 안전을 보장하세요."
+        },
+        {
+          "number": "03",
+          "tag": "프로그래밍",
+          "title": "금융 모듈의 소스 코드를 실행하세요",
+          "description": "모듈의 소스 코드를 최고 보안 기준에 따라 작성하고 표준화된 API 게이트웨이를 구축하세요."
+        },
+        {
+          "number": "04",
+          "tag": "테스트",
+          "title": "침투 테스트 및 시스템 부하 테스트",
+          "description": "보안 테스트를 수행하고 수백만 건의 거래를 동시에 처리할 수 있는 기능을 통해 안정성을 보장합니다."
+        },
+        {
+          "number": "05",
+          "tag": "배포",
+          "title": "클라우드 인프라 구성 및 금융 데이터 변환",
+          "description": "시스템을 서버 환경으로 전환하고, 고객 데이터를 기존 시스템에서 새 플랫폼으로 안전하게 마이그레이션하는 과정을 구현하세요."
+        },
+        {
+          "number": "06",
+          "tag": "유지보수",
+          "title": "운영 모니터링 및 보안 패치 업데이트",
+          "description": "시스템 상태를 24시간 모니터링하고 금융 시장 변화에 따라 기능 업데이트를 진행합니다."
+        }
+      ],
+      "cta": "제품 제작을 시작하세요!"
+    },
+    "faq": {
+      "label": "자주 묻는 질문",
+      "title": "모든 질문에 대한 답변",
+      "intro": "디지털 뱅킹 시스템 엔지니어링에 관한 자주 묻는 질문",
+      "items": [
+        {
+          "q": "이 시스템은 대규모 사이버 공격으로부터 절대적인 안전을 어떻게 보장할까요?",
+          "a": "Winterfrost는 고급 애플리케이션 방화벽과 실시간 비정상 트래픽 모니터링 메커니즘을 결합한 다층 보안 아키텍처를 구현합니다. 모든 거래 데이터와 고객 정보는 AES 256 표준을 사용하여 암호화됩니다. 또한 시스템 내부와 외부로부터의 무단 침입을 방지하기 위해 다단계 인증 시스템과 엄격한 접근 관리를 구축했습니다."
+        },
+        {
+          "q": "이 시스템이 은행의 오랜 기간 운영해온 핵심 뱅킹 인프라와 통합할 수 있는가?",
+          "a": "네. 우리는 중간 API 게이트웨이를 프로그래밍하고, 데이터 통합 축 아키텍처를 사용하여 현대 디지털 플랫폼과 기업의 레거시 코어 시스템 간 정보를 원활하게 동기화합니다. 이 솔루션은 기존 데이터베이스 인프라를 완전히 변경하지 않고도 은행들이 디지털 환경에서 고객 경험을 개선할 수 있도록 돕습니다."
+        },
+        {
+          "q": "시스템이 동시 트랜잭션을 처리할 수 있는 능력은 어느 정도의 성능 수준을 달성하나요?",
+          "a": "클라우드 인프라에 마이크로서비스 아키텍처와 병렬 처리 기술을 적용하면서, 시스템은 초당 수만 건의 거래를 매우 낮은 지연 시간으로 처리할 수 있습니다. 자동 부하 분산 메커니즘은 교통 급증이 있는 출퇴근 시간대에도 시스템이 절대적인 안정성을 유지하도록 돕습니다."
+        },
+        {
+          "q": "재무제표에 관한 새로운 법적 규정의 업데이트는 어떻게 이루어지고 있습니까?",
+          "a": "우리는 비즈니스 규칙의 매개변수화 모델에 따라 시스템을 설계합니다. 국가은행의 세금 정책이나 보고 규정이 변경될 때, 경영진은 소프트웨어 소스 코드를 깊이 간섭하지 않고 관리 인터페이스에서 시스템 구성과 보고 양식을 쉽게 조정할 수 있습니다."
+        },
+        {
+          "q": "온라인 거래에서 사기와 자금세탁을 예방하는 방법은?",
+          "a": "이 시스템은 실시간 사용자 행동 분석을 기반으로 한 내장된 사기 탐지 엔진을 갖추고 있습니다. 알고리즘은 활동 이력, 지리적 위치, 지출 패턴을 바탕으로 비정상적인 거래를 자동으로 식별하고 표시합니다. 이는 은행이 거래가 완료되기 전에 재정적 위험을 미리 예방하는 데 도움을 줍니다."
+        },
+        {
+          "q": "기존 시스템에서 새 시스템으로 데이터를 마이그레이션하는 과정이 서비스 중단을 일으킬까요?",
+          "a": "우리는 병렬 데이터 동기화 메커니즘과 결합된 단계별 데이터 이전 전략을 채택합니다. 이 과정을 통해 모든 고객 정보와 거래 이력이 정확하고 안전하게 새 시스템으로 전송됩니다. 디지털 뱅킹 서비스는 인프라 전환 과정 전반에 걸쳐 지속적으로 운영되고 있습니다."
+        }
+      ]
+    }
+  },
+  "nong-nghiep": {
+    "slug": "nong-nghiep",
+    "title": "농업",
+    "hero": {
+      "title": "농업 산업을 위한 디지털 전환",
+      "description": "현대 농업은 전통적인 방법보다 더 높은 조건을 요구합니다. 실제 데이터로 입증되어야 합니다. Winterfrost는 농업의 효율성을 높이기 위한 주문형 농업 기술 플랫폼을 개발합니다. IoT 기술을 활용한 센서, 작물 예측, 식물의 건강 상태 모니터링 기능을 활용해 농업 기업들이 더 똑똑하게 성장하고 비용 손실을 최소화하며 고품질 제품을 시장에 출시할 수 있도록 지원합니다.",
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Gioi-thieu-linh-vuc-nong-nghiep-HomeNest-Viet-Nam.jpg",
+      "imageAlt": "농업에 대하여 - Winterfrost",
+      "primaryLabel": "직접 연락",
+      "secondaryLabel": "조언 요청 메시지"
+    },
+    "overview": {
+      "label": "개요",
+      "title": "농업 관리 솔루션",
+      "paragraphs": [
+        "현재 농업 부문은 기후 변화, 인력 부족, 그리고 점점 더 엄격한 식품 안전 요구사항 등 많은 심각한 어려움에 직면해 있습니다. 전통적인 생산 관리 방식을 부기하고 각 부품을 추적하며 해충과 질병을 인식에 따라 처리하는 것은 농산물 품질이 불안정해지고 수확 후 폐기물을 초래하며 시장 경쟁력을 저하시키는 경우가 많습니다.",
+        "Winterfrost는 농업 관리 시스템을 구축함으로써 이러한 문제를 해결했습니다. IoT 센서 장치, 인공지능 AI의 예측 모델에서 데이터를 결합하여 문제를 적시에 처리하고 다음 전략을 제안합니다."
+      ],
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Nong-nghiep-HomeNest-Viet-Nam.jpg",
+      "imageAlt": "농업 - Winterfrost"
+    },
+    "counters": [
+      {
+        "index": "/01",
+        "value": "10+",
+        "label": "수년간의 경험"
+      },
+      {
+        "index": "/02",
+        "value": "250+",
+        "label": "고객"
+      },
+      {
+        "index": "/03",
+        "value": "15+",
+        "label": "서비스를 제공하는 국가"
+      },
+      {
+        "index": "/04",
+        "value": "98%",
+        "label": "고객 만족"
+      }
+    ],
+    "values": {
+      "title": "농업 기업을 위한 솔루션",
+      "intro": "Winterfrost는 맞춤형 데이터 플랫폼을 구축하여 전통적인 농업 모델을 스마트 디지털 농업 모델로 전환하는 데 도움을 줍니다.",
+      "items": [
+        {
+          "title": "토양 상태 모니터링",
+          "description": "육안으로 추정하는 대신, 측정 장치는 토양 수분, 영양 및 날씨 데이터를 기업 시스템으로 직접 전송합니다. 그 후 직원들이 언제 물을 주거나 비료를 줄지 정확히 결정하고, 낭비를 피하며, 식물이 최상의 상태로 자랄 수 있도록 돕습니다",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "AI 작물 건강 평가",
+          "description": "컴퓨터 비전 모델을 사용해 크롭 이미지를 분석하여 병리, 영양 결핍 또는 해충 감염의 초기 징후를 자동으로 감지합니다. 시스템은 즉시 경고를 보내 기업들이 피해를 최소화할 수 있도록 시기적절한 처리 계획을 세울 수 있도록 합니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "자동화된 관개 및 자원 관리",
+          "description": "스마트 관개 시스템을 구축하고, 실시간 날씨와 토양 수분 데이터를 기반으로 자동으로 물 공급을 예약하세요. 이 솔루션은 물 소비를 절약하고 작물이 성장할 수 있도록 항상 충분한 수분을 공급합니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "생산성 예측 기능",
+          "description": "농업 이력, 기상 패턴, 작물 건강 상태를 결합한 데이터 분석 도구를 사용하여 수확량과 수확 시기를 정확히 예측하세요. 이는 기업들이 이익을 증대할 수 있는 산출물을 적극적으로 찾는 데 도움을 줍니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "농산물의 품질을 확인하다",
+          "description": "파종, 관리, 포장에 이르기까지 모든 과정이 시스템에 저장되며 변경할 수 없습니다. 이로 인해 농산물이 슈퍼마켓이나 수출 시 검사 단계를 쉽게 통과할 수 있고, 동시에 소비자와의 절대적인 신뢰를 구축할 수 있습니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "인력 관리",
+          "description": "각 팀에 작업을 할당하고, 완료 진행 상황과 시간 관리를 애플리케이션에서 바로 추적할 수 있습니다. 농장에 직접 있지 않더라도, 누가 무엇을 하는지, 어떤 결과가 나오는지 알 수 있어서 기계가 항상 원활하게 돌아가도록 돕고 있습니다.",
+          "image": "",
+          "imageAlt": ""
+        }
+      ],
+      "cta": "지금 상담 예약을 하세요!"
+    },
+    "why": {
+      "label": "왜 우리를 선택했을까요?",
+      "title": "왜 Winterfrost가 농업 기업의 신뢰받는 파트너인가요?",
+      "items": [
+        {
+          "number": "1",
+          "title": "안정적인 운영",
+          "description": "저희 모바일 앱은 직원들이 전화 신호 없이도 원격 지역에 있어도 기록, 데이터 업데이트, 보고를 할 수 있게 해줍니다. 네트워크 연결이 복구되는 즉시 모든 데이터는 시스템에 의해 자동으로 서버에 동기화됩니다."
+        },
+        {
+          "number": "2",
+          "title": "시야를 통한 광역 모니터링",
+          "description": "수동 점검에 시간을 낭비하는 대신, 실제 이미지를 통해 농장 전체의 건강 상태를 모니터링할 수 있습니다. 이 시스템은 성장이 좋지 않은 나무 구역을 분석하여 적시에 치료 계획을 세우는 데 도움을 줍니다."
+        },
+        {
+          "number": "3",
+          "title": "여러 농장을 동시에 관리하세요",
+          "description": "설령 귀하의 비즈니스가 다양한 지역에 수백 개의 성장 지역을 보유하고 있더라도, 모두 하나의 플랫폼에서 관리할 수 있습니다. 이 시스템은 각 지역 관리자, 엔지니어, 근로자 모두에게 상세한 분산을 가능하게 하여 데이터를 일관되고 명확하게 유지합니다."
+        },
+        {
+          "number": "4",
+          "title": "자동 보고",
+          "description": "파트너나 당국이 점검할 때마다 책을 찾거나 데이터를 수동으로 준비하는 대신, 시스템은 모든 운영 데이터를 자동으로 명확한 보고서로 집계합니다. 기업들은 항상 생산 분야에서 전문성을 증명할 준비가 되어 있습니다."
+        },
+        {
+          "number": "5",
+          "title": "사용 가능한 소프트웨어로 연결하세요",
+          "description": "Winterfrost의 플랫폼은 기업들이 사용하는 회계 시스템, 창고 관리 또는 농산물 교환소와 쉽게 연결됩니다. 이로 인해 데이터가 생산에서 판매로 원활하게 흐르며, 여러 번 데이터를 재입력할 필요가 없습니다."
+        },
+        {
+          "number": "6",
+          "title": "절대적인 보안",
+          "description": "농업 공식, 식물 품종 데이터, 수확량 예측이 귀사의 가장 가치 있는 자산임을 저희는 잘 알고 있습니다. 따라서 시스템은 데이터가 유출되거나 무단 접근을 방지하기 위해 최고 수준의 암호화 계층을 갖추고 있습니다."
+        }
+      ]
+    },
+    "cta": {
+      "label": "지금 연락하세요!",
+      "title": "농업 산업을 디지털로 전환할 준비가 되셨나요?",
+      "description": "Winterfrost와 함께 농장 상황을 면밀히 모니터링하고 운영 비용을 최적화하며 실제 데이터를 바탕으로 농산물 품질을 향상시키는 중앙집중식 관리 시스템을 구축합시다.",
+      "buttonLabel": "즉시 솔루션 조언을 받아보세요",
+      "image": "/images/people/cta/winterfrost/chuyen-vien-nu.png",
+      "imageAlt": "전문가 컨설턴트"
+    },
+    "cases": {
+      "title": "Case Studies",
+      "links": [
+        {
+          "href": "https://winterfrost.tech/case-studies/website-flexora-packaging",
+          "text": "농업\n웹사이트 디자인\n웹사이트 플렉소라 패키징\n프로젝트 보기"
+        },
+        {
+          "href": "https://winterfrost.tech/case-studies/website-polyvera",
+          "text": "소매\n농업\n웹사이트 디자인\n웹사이트 폴리베라\n프로젝트 보기"
+        }
+      ],
+      "images": [
+        {
+          "alt": "플렉소라 패키징 인터페이스 – 사례 연구",
+          "src": "/images/projects/website-flexora-packaging/01-anh-bia-du-an.webp?v=wf-projects-pro-20260726"
+        },
+        {
+          "alt": "폴리베라 인터페이스 – 사례 연구",
+          "src": "/images/projects/website-polyvera/01-anh-bia-du-an.webp?v=wf-projects-pro-20260726"
+        }
+      ]
+    },
+    "services": {
+      "title": "각 농업 부문별 기술 솔루션",
+      "intro": "지역 협동조합부터 다국적 농업 기업에 이르기까지, Winterfrost는 모든 규모와 생산 모델에 적합한 심층 소프트웨어 솔루션을 제공합니다.",
+      "items": [
+        {
+          "title": "정밀 재배 및 농업",
+          "description": "각 구역별 상세한 비료 주기를 계획하고, 품종을 면밀히 모니터링하며, 여러 계절에 걸친 윤작 일정을 관리할 수 있도록 필드 관리 플랫폼을 구축합니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Trong-trot-va-canh-tac-chinh-xac.jpg",
+          "imageAlt": "정밀 재배 및 농업"
+        },
+        {
+          "title": "소와 가금류 사육",
+          "description": "가축 관리 시스템, 각 개인의 건강 모니터링 지원, 영양 공급을 보장하기 위한 급여 주기 자동화, 질병 제한 과정을 면밀히 모니터링하는 등.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Chan-nuoi-gia-suc-va-gia-cam-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "소 및 가금류 사육 - Winterfrost"
+        },
+        {
+          "title": "양식업",
+          "description": "수질 모니터링 네트워크와 자동 급수 시스템을 구축하세요. 이 소프트웨어는 국내외 양식 모델 모두에서 최적의 농업 밀도를 관리하여 해산물에 최적의 재배 환경을 보장합니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Chan-nuoi-thuy-hai-san-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "양식업 - Winterfrost"
+        },
+        {
+          "title": "농업 자재 분배",
+          "description": "비료, 종자, 농약 유통업체를 위한 창고 관리 및 수요 예측 솔루션. 이 시스템은 수입 주기를 최적화하고 농민으로의 운송 과정을 효율적으로 관리하는 데 도움을 줍니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Cung-ung-va-phan-phoi-vat-tu-nong-nghiep-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "농산물 공급 및 유통 - Winterfrost"
+        },
+        {
+          "title": "품질 검사 및 공급망",
+          "description": "수확 후 제품 품질 검사 플랫폼, 지속적인 냉장 온도 모니터링 시스템, 가공 공장에서 소매점까지 운송을 조율하는 도구를 구축하여 제품의 신선함을 보장합니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Kiem-tra-chat-luong-va-chuoi-cung-ung-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "품질 검사 및 공급망 - Winterfrost"
+        },
+        {
+          "title": "자본 관리 지원",
+          "description": "기업들이 대출이나 농업 지원 자금의 사용을 투명하게 추적하여 자금이 올바른 목적과 효과적으로 사용되도록 돕습니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Ho-tro-quan-ly-nguon-von-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "자본 관리 지원 - Winterfrost"
+        }
+      ],
+      "cta": "모든 서비스를 탐색하기"
+    },
+    "process": {
+      "label": "프로젝트 구현 과정?",
+      "items": [
+        {
+          "number": "01",
+          "tag": "리셉션",
+          "title": "수신 필요",
+          "description": "Winterfrost는 기업들이 직면한 실질적인 문제에 귀 기울여 적절한 기술 솔루션을 조언하며, 이를 통해 사업의 운영 문제를 철저히 해결하는 데 도움을 줍니다."
+        },
+        {
+          "number": "02",
+          "tag": "설문조사",
+          "title": "인프라 조사 및 평가",
+          "description": "기술팀은 지형, 와이파이/4G 같은 네트워크 인프라, 농장 내 장비 연결 능력을 직접 평가합니다. 직원들의 실제 작업 과정을 관찰함으로써 기술적 장벽을 처음부터 제거하는 실행 가능한 실행 계획을 수립할 수 있습니다."
+        },
+        {
+          "number": "03",
+          "tag": "디자인",
+          "title": "해결책을 제시해 주세요",
+          "description": "설문 데이터를 바탕으로 소프트웨어 아키텍처를 구축하고 호환 가능한 하드웨어를 추천하세요. 계획에는 상세한 로드맵, 예산 추정치, 그리고 비즈니스 정보를 비밀로 유지하겠다는 약속이 포함되어 있습니다."
+        },
+        {
+          "number": "04",
+          "tag": "시험",
+          "title": "시스템 구축 및 테스트",
+          "description": "장치 내구성과 오프라인 데이터 저장 성능을 테스트하기 위한 파일럿 모델을 구현하세요. 이 단계는 소프트웨어 인터페이스를 기업이 최대한 간단하고 사용하기 쉽게 개선하는 중요한 단계입니다."
+        },
+        {
+          "number": "05",
+          "tag": "배포",
+          "title": "구현 및 교육",
+          "description": "성공적인 테스트 후 전체 엔터프라이즈 규모에 시스템을 설치하세요. Winterfrost는 경영진을 위한 기술 교육과 현장 운영 지침을 직접 제공하여 원활한 운영을 보장합니다."
+        },
+        {
+          "number": "06",
+          "tag": "유지보수",
+          "title": "수용 및 운영 지원",
+          "description": "전체 시스템과 문서를 넘겨주는 것. 원격 모니터링, 정기적인 유지보수, 피드백 및 기술 문제 해결 약속을 2-4시간 이내에 지원하여 중단 없는 생산을 보장합니다."
+        }
+      ],
+      "cta": "제품 제작을 시작하세요!"
+    },
+    "faq": {
+      "label": "자주 묻는 질문",
+      "title": "모든 질문에 대한 답변",
+      "intro": "기업들이 디지털 전환 여정을 시작하기 전에 더 명확한 시각을 가질 수 있도록 가장 흔한 질문들을 모았습니다.",
+      "items": [
+        {
+          "q": "Winterfrost의 시스템이 4G/와이파이 커버리지가 없는 지역에서도 작동할까요?",
+          "a": "네. 저희 모바일 애플리케이션은 오프라인 모드를 염두에 두고 설계되었습니다. 직원들은 여전히 데이터를 입력하고 보고서 사진을 정상적으로 촬영할 수 있습니다. 장치가 네트워크 연결을 다시 갖추는 즉시 데이터가 자동으로 시스템과 동기화되어 정보가 끊기지 않도록 보장합니다."
+        },
+        {
+          "q": "기술에 익숙하지 않은 농장 노동자들도 이 소프트웨어를 사용할 수 있나요?",
+          "a": "물론입니다. Winterfrost는 직관적인 아이콘과 이해하기 쉬운 베트남어를 사용하는 매우 단순한 인터페이스 디자인을 우선시합니다. 또한, 현장에서 실시간 교육 과정을 통해 기술에 익숙하지 않은 사람들도 일상 업무를 완벽히 익힐 수 있도록 합니다."
+        },
+        {
+          "q": "Winterfrost의 솔루션을 각 작물이나 가축의 특성에 맞게 맞춤화할 수 있나요?",
+          "a": "네. 우리는 모두에게 맞는 획일적인 패키지 소프트웨어를 판매하지 않습니다. 쌀, 과일나무, 해산물 등 각 품종의 성장 특성을 바탕으로 Winterfrost는 실제 생산에 맞춘 경고 지표, 관리 프로세스 및 보고 양식을 맞춤화할 것입니다."
+        },
+        {
+          "q": "제 레시피와 수확량 데이터가 안전한가요?",
+          "a": "데이터 보안이 최우선입니다. 영업비밀, 농업 공정, 고객 데이터에 관한 모든 정보는 암호화되어 별도의 시스템에 저장됩니다. Winterfrost는 귀하의 서면 동의 없이 어떠한 제3자와 비즈니스 데이터를 공유하지 않을 것을 약속합니다."
+        },
+        {
+          "q": "구현 비용은 어떻게 계산되나요?",
+          "a": "비용은 농장 규모, 설치해야 할 센서 수, 소프트웨어 기능의 복잡성에 따라 달라집니다. Winterfrost는 현장 조사 후 상세 견적을 제공하여 진정으로 경제적으로 타당한 기능에만 투자할 수 있도록 합니다."
+        },
+        {
+          "q": "기기나 소프트웨어에 문제가 생기면 Winterfrost는 얼마나 오래 지원하나요?",
+          "a": "요청을 받은 후 24시간 이내에 대응하고 기술 문제 해결 절차를 시작할 것을 약속드립니다. 필요 시 저희 기술팀은 원격 또는 현장 지원을 제공하여 생산이 중단되지 않도록 합니다."
+        }
+      ]
+    }
+  },
+  "phan-mem-doanh-nghiep": {
+    "slug": "phan-mem-doanh-nghiep",
+    "title": "엔터프라이즈 소프트웨어",
+    "hero": {
+      "title": "맞춤형 기업용 소프트웨어 개발",
+      "description": "Winterfrost는 전체 운영 프로세스를 통합할 수 있도록 지능적이고 강력하며 사용하기 쉬운 기업용 소프트웨어 시스템을 구축합니다. 전체 ERP 시스템부터 맞춤형 CRM 플랫폼까지, 디지털 시대에 지속 가능한 성장을 위한 기업의 요구를 충족하는 견고한 기술 기반을 구축합니다.",
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phat-trien-phan-mem-doanh-nghiep-tuy-chinh.jpg",
+      "imageAlt": "맞춤형 기업용 소프트웨어 개발",
+      "primaryLabel": "직접 연락",
+      "secondaryLabel": "조언 요청 메시지"
+    },
+    "overview": {
+      "label": "개요",
+      "title": "ERP 및 CRM 시스템으로 운영 효율성을 최적화하세요",
+      "paragraphs": [
+        "기업들은 많은 개별 소프트웨어를 운영하는 데 어려움을 겪어 데이터가 분산되고 동기화가 부족한 경우가 많습니다. 수작업 프로세스는 시간 낭비가 되고 오류가 잦으며 인력 성과 관리가 어렵습니다. 또한, 미리 포장된 소프트웨어는 종종 융통성이 없고, 비즈니스 특성에 맞게 맞춤화하기 어렵거나, 확장 과정에서 장애물을 겪습니다.",
+        "Winterfrost는 각 비즈니스의 실제 비즈니스 프로세스에 맞춘 소프트웨어 솔루션을 제공합니다. ERP 자원 관리, CRM 고객 관리부터 인사 및 공급망 관리까지 워크플로우를 하나의 플랫폼으로 통합하는 데 집중하고 있습니다. 이 솔루션은 기업이 자원을 최적화하고, 중앙 집중식 데이터를 마스터하며, 전문적이고 유연한 운영 체계를 구축하는 데 도움을 줍니다."
+      ],
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Toi-uu-hoa-hieu-suat-van-hanh-bang-he-thong-ERP-va-CRM.jpg",
+      "imageAlt": "ERP 및 CRM 시스템을 통한 운영 성과 최적화"
+    },
+    "counters": [
+      {
+        "index": "/01",
+        "value": "10+",
+        "label": "수년간의 경험"
+      },
+      {
+        "index": "/02",
+        "value": "250+",
+        "label": "고객"
+      },
+      {
+        "index": "/03",
+        "value": "15+",
+        "label": "서비스를 제공하는 국가"
+      },
+      {
+        "index": "/04",
+        "value": "98%",
+        "label": "고객 만족"
+      }
+    ],
+    "values": {
+      "title": "왜 귀사의 비즈니스에 맞춤형 소프트웨어가 필요한가요?",
+      "intro": "Winterfrost의 솔루션은 데이터를 연결하고, 프로세스를 자동화하며, 자체 기술 플랫폼을 완전히 마스터함으로써 회사를 보다 효율적으로 관리할 수 있도록 도와줍니다.",
+      "items": [
+        {
+          "title": "더 이상 잃어버린 정보는 없습니다",
+          "description": "회계, 영업, 물류까지 모든 정보가 한 시스템에 모여 있습니다. 엑셀 파일을 찾거나 부서 간에 물어볼 필요가 없어서 모든 데이터가 한 곳에서 명확히 볼 수 있습니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "더 빨리 일하고, 수작업은 줄이세요",
+          "description": "데이터 입력, 급여 계산, 청구서 발행과 같은 반복적인 작업은 소프트웨어에 의해 자동화됩니다. 직원들은 고객 찾기나 서비스 개선과 같은 중요한 일에 더 많은 시간을 쓸 수 있게 됩니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "즉시 회사 상황을 파악하세요",
+          "description": "수익, 재고, 프로젝트 진행 상황 보고서를 언제든지 휴대폰이나 컴퓨터에서 확인할 수 있습니다. 실시간으로 업데이트된 수치는 직원들이 데이터를 모으기를 기다리지 않고도 정확한 비즈니스 결정을 내릴 수 있도록 도와줍니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "당신의 프로세스를 따르는 소프트웨어",
+          "description": "종종 제한적인 기성 소프트웨어와 달리, Winterfrost의 소프트웨어는 사용자의 작업 방식을 기반으로 만들어졌습니다. 회사가 성장함에 따라 기능을 추가하거나 제거하거나 프로세스를 변경하고 싶다면 쉽게 할 수 있습니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "더 전문적인 고객 서비스",
+          "description": "시스템은 각 고객의 구매 이력, 선호도, 습관을 명확히 기억합니다. 이를 통해 컨설팅 팀은 고객을 더 잘 이해하고 올바른 요구를 충족시키며 고객이 오랫동안 회사에 관심을 받고 애착을 느낄 수 있도록 합니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "돈을 절약하고 영원히 소유하세요",
+          "description": "한 번만 투자하면 소프트웨어의 소스 코드를 영원히 소유할 수 있습니다. 기업들은 더 이상 비싼 월 구독료나 제공업체의 갑작스러운 서비스 가격 인상 위험에 대해 걱정하지 않아도 됩니다.",
+          "image": "",
+          "imageAlt": ""
+        }
+      ],
+      "cta": "지금 상담 예약을 하세요!"
+    },
+    "why": {
+      "label": "왜 우리를 선택했을까요?",
+      "title": "Winterfrost의 경쟁 우위",
+      "items": [
+        {
+          "number": "1",
+          "title": "완전 소유권 이양",
+          "description": "Winterfrost는 프로젝트 완료 후 소스 코드와 기술 문서 100%를 넘기는 것을 약속하고 있습니다. 기업은 공급자의 법적 또는 기술적 경계에 구속받지 않고 시스템 업그레이드나 변경을 관리하고 처분할 완전한 권리를 가집니다."
+        },
+        {
+          "number": "2",
+          "title": "올바른 프로세스에 따른 소프트웨어 개발",
+          "description": "저희는 이용 가능한 기능을 제공하지 않습니다. 이 소프트웨어는 실제 기업 측량 결과를 기반으로 구축되어 기능이 운영 문제를 올바르게 해결하고 현재 워크플로우와 완전히 호환되도록 보장합니다."
+        },
+        {
+          "number": "3",
+          "title": "확장 가능한 기술 인프라",
+          "description": "마이크로서비스와 클라우드 네이티브 아키텍처를 사용하여 사용자는 수와 데이터가 증가할 때 성능이 유지되도록 보장합니다. 기업은 원래의 핵심 구조를 변경하지 않고도 시스템에 새로운 모듈을 추가할 수 있습니다."
+        },
+        {
+          "number": "4",
+          "title": "국제 시장 배치 능력",
+          "description": "Winterfrost의 엔지니어링 팀은 미국, 유럽, 싱가포르, 일본의 파트너들을 위한 소프트웨어 프로젝트를 구현해 왔습니다. 우리는 모든 프로젝트에 국제 기준에 따른 기술 기준과 품질 관리 프로세스를 적용합니다."
+        },
+        {
+          "number": "5",
+          "title": "비용 및 투자 효율 최적화",
+          "description": "베트남에 고도로 전문화된 엔지니어 팀을 집중 배치함으로써, 현지 인력을 고용하거나 비싼 패키지 소프트웨어를 구매하는 것보다 저렴한 비용으로 고품질 소프트웨어 솔루션을 제공합니다."
+        },
+        {
+          "number": "6",
+          "title": "지속적인 유지보수 및 기술 지원 서비스를 제공합니다",
+          "description": "저희는 정기적인 유지보수, 보안 패치 업데이트, 그리고 발생하는 기술 문제 처리 지원을 수행합니다. Winterfrost는 시스템이 항상 안정적이고 최신 기술에 맞춰져 있음을 보장합니다."
+        }
+      ]
+    },
+    "cta": {
+      "label": "지금 연락하세요!",
+      "title": "이제 비즈니스 운영 프로세스를 표준화하세요!",
+      "description": "수동 프로세스와 단편화된 데이터를 중앙 집중식 관리 시스템으로 전환할 준비가 되어 있습니다. Winterfrost는 맞춤형 ERP/CRM 플랫폼을 구축하여 절대적인 데이터 동기화와 영구적인 소스 코드 소유권을 보장하도록 도와드립니다.",
+      "buttonLabel": "즉시 솔루션 조언을 받아보세요",
+      "image": "/images/people/cta/winterfrost/chuyen-vien-nam-tre.png",
+      "imageAlt": "전문가 컨설턴트"
+    },
+    "cases": null,
+    "services": {
+      "title": "맞춤형 엔터프라이즈 소프트웨어 프로그래밍 서비스",
+      "intro": "Winterfrost는 ERP, CRM, HRM과 같은 중앙집중식 관리 시스템의 프로그래밍 및 구현을 구현합니다. 비즈니스 프로세스의 디지털화, 부서 간 데이터 연결, 그리고 기업이 운영을 정확하게 통제할 수 있도록 돕는 분석 도구 제공에 집중하고 있습니다.",
+      "items": [
+        {
+          "title": "전반적인 ERP 시스템 개발",
+          "description": "회계, 구매, 물류, 영업 등 다양한 모듈을 단일 데이터베이스에 통합하는 자원 관리 솔루션을 프로그래밍하는 것입니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phat-trien-he-thong-ERP-tong-the.jpg",
+          "imageAlt": "전반적인 ERP 시스템 개발"
+        },
+        {
+          "title": "심층적인 CRM 플랫폼을 구축하세요",
+          "description": "거래 내역 저장, 판매 퍼널 관리, 관리 프로세스 자동화에 중점을 둔 고객 관계 관리 소프트웨어를 개발하세요.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Xay-dung-nen-tang-CRM-chuyen-sau.jpg",
+          "imageAlt": "심층적인 CRM 플랫폼을 구축하세요"
+        },
+        {
+          "title": "인사 및 급여 관리 소프트웨어",
+          "description": "출퇴근, 급여, 직원 기록 관리, 성과 지표 추적을 디지털화하세요.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phan-mem-quan-tri-nhan-su-va-tien-luong-.jpg",
+          "imageAlt": "인사 및 급여 관리 소프트웨어"
+        },
+        {
+          "title": "워크플로우 관리 시스템",
+          "description": "온라인 승인 도구를 프로그래밍하고, 작업을 할당하며, 프로젝트 진행 상황을 추적하여 운영 흐름의 연속성을 보장합니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/He-thong-quan-ly-quy-trinh-lam-viec.jpg",
+          "imageAlt": "워크플로우 관리 시스템"
+        },
+        {
+          "title": "창고 및 공급망 관리 솔루션",
+          "description": "실시간 재고 관리 소프트웨어를 구축하고, 공급업체 포트폴리오를 관리하며, 수출입 프로세스를 최적화합니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-quan-ly-kho-va-chuoi-cung-ung.jpg",
+          "imageAlt": "창고 및 공급망 관리 솔루션"
+        },
+        {
+          "title": "지능형 보고 시스템 통합",
+          "description": "데이터 분석, 정기 보고서 추출, 재무 및 비즈니스 지표 통제 지원을 위한 대시보드 대시보드를 개발합니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Tich-hop-he-thong-bao-cao-thong-minh.jpg",
+          "imageAlt": "지능형 보고 시스템 통합"
+        }
+      ],
+      "cta": "모든 서비스를 탐색하기"
+    },
+    "process": {
+      "label": "프로젝트 구현 과정?",
+      "items": [
+        {
+          "number": "01",
+          "tag": "리셉션",
+          "title": "요구사항 조사 및 분석",
+          "description": "전문가 팀은 각 부서와 직접 협력하여 실제 운영 흐름을 기록합니다. 우리는 행정 문제, 데이터 병목 현상을 식별하고, ERP 또는 CRM 시스템에 특화된 기능 요구사항을 설정합니다."
+        },
+        {
+          "number": "02",
+          "tag": "소스 코드 개발",
+          "title": "기능 프로그래밍 및 데이터베이스 통합",
+          "description": "합의된 요구사항에 따라 모듈 소스 코드를 작성하세요. API 게이트웨이를 통해 소프트웨어를 비즈니스 도구와 연결하여 데이터가 동기화되고 중앙에서 저장되도록 보장합니다."
+        },
+        {
+          "number": "03",
+          "tag": "보증",
+          "title": "품질검사",
+          "description": "논리 오류를 감지하고 처리하기 위한 전체 기능 테스트를 실시하세요. 시스템은 인력 증가에 따라 원활한 작동을 보장하기 위해 부하 용량 및 데이터 처리 속도 테스트를 거쳐야 합니다."
+        },
+        {
+          "number": "04",
+          "tag": "진격",
+          "title": "인프라 배치 및 운영",
+          "description": "논리 오류를 감지하고 처리하기 위한 전체 기능 테스트를 실시하세요. 시스템은 인력 증가에 따라 원활한 작동을 보장하기 위해 부하 용량 및 데이터 처리 속도 테스트를 거쳐야 합니다."
+        },
+        {
+          "number": "05",
+          "tag": "실행",
+          "title": "인프라 배치 및 운영",
+          "description": "서버 시스템에 소프트웨어를 설치하고 보안을 설정하세요. 부서 직원들을 위한 수동 교육 세션을 조직하고, 시스템이 안정적으로 운영될 때까지 감독을 동반합니다."
+        },
+        {
+          "number": "06",
+          "tag": "환승",
+          "title": "소스 코드 핸드오버 및 정기 유지보수",
+          "description": "소스 코드와 기술 지침 문서를 기업에 100% 인수하세요. Winterfrost는 시스템이 항상 변화하는 요구에 부합하도록 지속적인 유지보수, 패치 업데이트, 기술 지원을 제공합니다."
+        }
+      ],
+      "cta": "제품 제작을 시작하세요!"
+    },
+    "faq": {
+      "label": "자주 묻는 질문",
+      "title": "모든 질문에 대한 답변",
+      "intro": "맞춤형 기업용 소프트웨어 시스템에 관한 질문에 답변하세요",
+      "items": [
+        {
+          "q": "왜 기업들은 패키지 소프트웨어보다 맞춤형 소프트웨어를 선택해야 할까요?",
+          "a": "패키징 소프트웨어는 종종 중복된 기능이 많지만, 여러분의 공정에 특화된 기능이 부족합니다. 맞춤형 소프트웨어는 실제 운영을 기반으로 프로그래밍되어 중간 단계를 없애고, 확장이 쉽고, 월별 구독료가 필요하지 않습니다."
+        },
+        {
+          "q": "새 시스템이 사용 중인 기존 소프트웨어와 연결할 수 있나요?",
+          "a": "네. 우리는 새로운 시스템과 회계, 영업, 사무 도구 등 기존 소프트웨어와 데이터를 동기화하기 위해 API 연결 프로토콜을 사용합니다. 이로 인해 비즈니스의 정보 흐름이 지속적이고 끊김 없이 유지됩니다."
+        },
+        {
+          "q": "ERP나 CRM 시스템 프로그래밍을 완료하는 데 얼마나 걸리나요?",
+          "a": "구현 시간은 모듈 수와 비즈니스 프로세스의 복잡성에 따라 달라집니다. 보통 Winterfrost는 프로젝트를 여러 단계로 나누어 각 모듈별로 인수하여 기업들이 가장 중요한 기능을 조기에 운영할 수 있도록 합니다."
+        },
+        {
+          "q": "인원과 데이터가 증가하면 소프트웨어가 반응할까요?",
+          "a": "네. 이 시스템은 마이크로서비스 아키텍처와 클라우드 컴퓨팅 인프라를 기반으로 구축되어 서버 자원의 향상과 새로운 기능 추가가 독립적으로 가능합니다. 이 소프트웨어는 비즈니스 데이터 크기가 여러 배로 증가하더라도 안정적인 처리 속도를 유지하도록 보장합니다."
+        },
+        {
+          "q": "기업이 프로젝트를 넘긴 후 소스 코드를 소유할 수 있나요?",
+          "a": "네. Winterfrost는 프로젝트가 완료되면 소스 코드와 기술 문서 100%를 넘기는 것을 약속하고 있습니다. 기업은 제품에 대한 완전한 소유권을 가지며, 저희의 법적 제약 없이 스스로 유지보수 장치를 업그레이드하거나 변경할 권리가 있습니다."
+        },
+        {
+          "q": "시스템이 공식적으로 운영된 후 Winterfrost는 어떻게 지원하나요?",
+          "a": "저희는 정기적인 유지보수, 보안 패치 업데이트, 그리고 발생하는 기술적 오류 처리를 위한 24시간 지원을 제공합니다. 또한, 소프트웨어 시스템이 귀사의 비즈니스 전략과 항상 호환되도록 새로운 기능 업그레이드를 조언하고 실행할 준비가 되어 있습니다."
+        }
+      ]
+    }
+  },
+  "phan-mem-tien-ich": {
+    "slug": "phan-mem-tien-ich",
+    "title": "유틸리티 소프트웨어",
+    "hero": {
+      "title": "기업용 유틸리티 소프트웨어 솔루션",
+      "description": "Winterfrost는 서버 성능 최적화, 백그라운드 작업 자동화, 기술 인프라 보안을 돕는 프로그래밍 유틸리티 도구를 전문으로 합니다. 저희는 귀하의 기술 시스템에서 특정 운영 문제를 해결하기 위해 호환성이 높은 애드온 개발에 집중하고 있습니다.",
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-phan-mem-tien-ich-cho-doanh-nghiep.jpg",
+      "imageAlt": "기업용 유틸리티 소프트웨어 솔루션",
+      "primaryLabel": "직접 연락",
+      "secondaryLabel": "조언 요청 메시지"
+    },
+    "overview": {
+      "label": "개요",
+      "title": "유틸리티 소프트웨어로 성능 최적화",
+      "paragraphs": [
+        "기업들은 종종 자원을 소모하는 수작업 프로세스나 운영 중단을 일으키는 기반 프로세스의 불안정성 때문에 어려움을 겪습니다. Winterfrost는 자동화된 데이터 처리, 인프라 모니터링, 메모리 최적화를 위한 맞춤형 유틸리티 도구를 프로그래밍할 수 있는 솔루션을 제공합니다. 저희 솔루션은 시스템 오류를 제거하고, 소스 코드 충돌을 없애며, 핵심 애플리케이션이 항상 최고 성능으로 실행되도록 보장합니다."
+      ],
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Toi-uu-hieu-suat-voi-phan-mem-tien-ich-HomeNest-Viet-Nam.jpg",
+      "imageAlt": "유틸리티 소프트웨어로 성능 최적화 - Winterfrost"
+    },
+    "counters": [
+      {
+        "index": "/01",
+        "value": "10+",
+        "label": "수년간의 경험"
+      },
+      {
+        "index": "/02",
+        "value": "250+",
+        "label": "고객"
+      },
+      {
+        "index": "/03",
+        "value": "15+",
+        "label": "서비스를 제공하는 국가"
+      },
+      {
+        "index": "/04",
+        "value": "98%",
+        "label": "고객 만족"
+      }
+    ],
+    "values": {
+      "title": "유틸리티 소프트웨어 배포의 실질적 이점",
+      "intro": "중앙집중식 유틸리티 소프트웨어 시스템은 데이터를 통합하고, 수작업 작업을 없애며, 운영 지연을 줄이는 데 도움을 줍니다. 이 솔루션은 다중 모듈 통합성을 보장하여 기업이 정확한 인프라 성능을 유지할 수 있도록 지원합니다.",
+      "items": [
+        {
+          "title": "데이터 처리 속도를 높이기",
+          "description": "시스템 내 복잡한 백그라운드 작업을 수행하는 시간을 단축하기 위해 처리 알고리즘을 최적화합니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "워크플로우 자동화",
+          "description": "자동화 프로그래밍 시나리오를 통해 반복적인 작업을 완전히 없애 인력을 절약할 수 있습니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "인프라 안정성 개선",
+          "description": "지속적인 모니터링과 사소한 문제에 대한 자동 수정은 전체 기술 시스템이 지속적으로 작동하도록 돕습니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "하드웨어 자원 절감",
+          "description": "캐싱을 해제하고 저장 용량을 최적화하면 물리적 장비 투자 비용을 줄일 수 있습니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "추가 보안 계층",
+          "description": "내부 데이터를 보호하기 위해 엄격한 취약점 스캔 및 접근 관리 도구를 구축하세요.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "정보 형식 표준화",
+          "description": "다양한 출처의 데이터를 자동으로 변환하고 정리하여 단일 기술 사양으로 전환합니다.",
+          "image": "",
+          "imageAlt": ""
+        }
+      ],
+      "cta": "지금 상담 예약을 하세요!"
+    },
+    "why": {
+      "label": "왜 우리를 선택했을까요?",
+      "title": "기업이 Winterfrost에서 유틸리티 소프트웨어 솔루션을 선택해야 하는 이유",
+      "items": [
+        {
+          "number": "1",
+          "title": "산업 시스템 프로그래밍",
+          "description": "우리는 깨끗한 소스 코드를 작성하고 백그라운드 프로세스를 최적화하여 소프트웨어가 기업의 핵심 애플리케이션과 충돌하지 않고 계속 작동하도록 하는 데 집중합니다. 모든 장비는 모든 부하 조건에서 최고 수준의 기술적 안정성을 유지하도록 설계되었습니다."
+        },
+        {
+          "number": "2",
+          "title": "운영 병목 현상 해결",
+          "description": "대량 도구를 제공하는 대신, Winterfrost는 고객의 독특한 기술 인프라를 깊이 파고들어 시장에 나와 있는 소프트웨어로는 해결할 수 없는 병목 현상을 정확히 처리할 수 있는 유틸리티를 프로그래밍합니다. 이는 비즈니스에 실제적이고 즉각적인 사용 가치를 창출합니다."
+        },
+        {
+          "number": "3",
+          "title": "자원과 비용 최적화",
+          "description": "저희 유틸리티 소프트웨어는 최소한의 서버 자원을 소비하면서도 최대 처리 성능을 달성하도록 설계되었습니다. 이를 통해 기업은 물리적 장비의 수명을 연장하고 매년 클라우드 컴퓨팅 시스템 유지 비용을 크게 줄일 수 있습니다."
+        },
+        {
+          "number": "4",
+          "title": "비침습적 통합 아키텍처",
+          "description": "우리는 유틸리티 소프트웨어가 원래 코드 구조를 변경하지 않고도 현재 시스템과 원활하게 통신할 수 있도록 돕는 지능형 데이터 연결 방식을 사용합니다. 이 접근법은 기술 인프라의 절대적인 안전을 보장하며 운영 서비스를 중단하지 않습니다."
+        },
+        {
+          "number": "5",
+          "title": "위험 및 보안 통제",
+          "description": "모든 애드온 도구는 인수 전에 엄격한 부하 테스트와 취약점 검사를 거칩니다. 우리는 비즈니스 데이터의 무결성을 보호하고 핵심 시스템에 대한 간섭이나 무단 접근을 방지하는 데 전념하고 있습니다."
+        },
+        {
+          "number": "6",
+          "title": "소유권 및 소스 코드 이전",
+          "description": "Winterfrost는 개발자에 대한 의존도를 완전히 없애기 위해 전체 소스 코드와 상세한 기술 문서를 제공합니다. 기업들은 추가 로열티 비용 없이 자체 개발 로드맵에 따라 새로운 기능을 업그레이드, 편집 또는 통합하는 데 전권을 행사할 수 있습니다."
+        }
+      ]
+    },
+    "cta": {
+      "label": "지금 연락하세요!",
+      "title": "기업 기술 인프라의 성능 최적화",
+      "description": "Winterfrost의 엔지니어링 팀에 연락하여 특수 유틸리티 소프트웨어를 프로그래밍하고 운영 자동화를 통해 기술 시스템의 안정성을 향상시키세요.",
+      "buttonLabel": "지금 조언을 받아보세요",
+      "image": "/images/people/cta/winterfrost/chuyen-vien-nam-tre.png",
+      "imageAlt": "전문가 컨설턴트"
+    },
+    "cases": null,
+    "services": {
+      "title": "운영 최적화를 위한 집중 프로그래밍 서비스",
+      "intro": "저희 프로그래밍 항목은 특정 기술적 문제를 해결하여 시스템을 더 똑똑하고 효율적으로 작동시키는 데 중점을 둡니다.",
+      "items": [
+        {
+          "title": "프로그래밍 자동화 도구",
+          "description": "우리는 주기적인 보고서 내보내기, 이메일 알림 발송, 일정에 따른 데이터 백업과 같은 작업을 수행하는 소프트웨어를 만듭니다. 이 서비스는 시간이 많이 드는 수작업 작업을 없애고 인적 오류를 최소화합니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Lap-trinh-cong-cu-tu-dong-hoa-cac-cong-viec-lap-lai.jpg",
+          "imageAlt": "반복적인 작업을 자동화하는 프로그래밍 도구"
+        },
+        {
+          "title": "24시간 모니터링 시스템 구축",
+          "description": "기술 인프라의 운영 상태를 모니터링하고 과부하나 문제 징후가 보이면 자동으로 알림을 보내는 도구를 구축하세요. 이는 기업이 항상 시스템을 선제적으로 통제하고 고객에게 영향을 미치는 서비스 중단을 방지하는 데 도움을 줍니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Xay-dung-he-thong-giam-sat-suc-khoe-may-chu-24-7.jpg",
+          "imageAlt": "24시간 서버 건강 모니터링 시스템을 구축하세요"
+        },
+        {
+          "title": "유틸리티 개발 및 데이터 변환",
+          "description": "다양한 출처에서 정보를 통합된 형식으로 수집하고 동기화하는 툴킷을 만드세요. 이 서비스는 복잡한 데이터 처리 과정을 거치지 않고도 기업이 분석 및 보고를 위해 데이터를 쉽게 집계할 수 있게 합니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phat-trien-tien-ich-quan-ly-va-chuyen-doi-du-lieu.jpg",
+          "imageAlt": "데이터 관리 및 변환 유틸리티 개발"
+        },
+        {
+          "title": "보안 및 접근 제어 설정",
+          "description": "악성코드를 조기에 탐지하고 내부 데이터 영역에 대한 무단 침입을 방지하기 위한 보호 하위 계층을 프로그래밍하는 것입니다. 우리는 직원들의 정상적인 업무 흐름을 방해하지 않으면서 기술 인프라의 안전성을 강화하는 데 도움을 줍니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Thiet-lap-giai-phap-bao-mat-va-kiem-soat-truy-cap-bo-tro.jpg",
+          "imageAlt": "보안 솔루션과 추가 출입 제어 장치 설정하세요"
+        },
+        {
+          "title": "성능 최적화를 위한 프로그래밍 도구",
+          "description": "서버 메모리를 차지하는 일시 중지된 프로세스나 정크 데이터를 자동으로 식별하고 해제하는 애플리케이션을 구축하세요. 그 결과 시스템이 더 원활하게 작동하고 기업들은 불필요한 하드웨어 업그레이드에 드는 비용을 절감할 수 있습니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Lap-trinh-cong-cu-toi-uu-hoa-hieu-suat-va-don-dep-tai-nguyen.jpg",
+          "imageAlt": "성능 최적화와 자원 정리 도구"
+        },
+        {
+          "title": "중개 게이트웨이 구축",
+          "description": "우리는 기업 내 기존 소프트웨어와 새 소프트웨어 간 원활한 정보 교환을 돕는 브리징 도구를 만듭니다. 이 서비스는 고립된 데이터 문제를 철저히 해결하고 기업 전반에 걸쳐 원활한 기술 시스템을 구축하는 데 도움을 줍니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Xay-dung-cac-cong-trung-gian-ket-noi-phan-mem.jpg",
+          "imageAlt": "소프트웨어를 연결하기 위한 중간 포트 구축"
+        }
+      ],
+      "cta": "모든 서비스를 탐색하기"
+    },
+    "process": {
+      "label": "프로젝트 구현 과정?",
+      "items": [
+        {
+          "number": "01",
+          "tag": "분석",
+          "title": "인프라 조사 및 운영 병목 현상 식별",
+          "description": "엔지니어링 팀은 현재 엔지니어링 시스템의 약점을 평가하여 기능적 요구사항을 확립합니다."
+        },
+        {
+          "number": "02",
+          "tag": "디자인",
+          "title": "논리적인 아키텍처와 프로세스 흐름을 구축하세요",
+          "description": "처리 알고리즘과 인터랙티브 인터페이스의 설계는 단순함과 높은 성능을 보장합니다."
+        },
+        {
+          "number": "03",
+          "tag": "프로그래밍",
+          "title": "소스 코드 실행 및 알고리즘 최적화",
+          "description": "Clean Code 표준을 기반으로 코드를 작성하고 병렬 처리 메커니즘을 통합하여 속도를 높이세요."
+        },
+        {
+          "number": "04",
+          "tag": "테스트",
+          "title": "충돌 제어 및 안정성 시험",
+          "description": "시뮬레이션 환경에서 테스트를 수행하여 소프트웨어가 메인 시스템에 오류를 일으키지 않도록 합니다."
+        },
+        {
+          "number": "05",
+          "tag": "배포",
+          "title": "시스템 설치 및 운영 구성",
+          "description": "실제 인프라에 소프트웨어를 배포하고 비즈니스 특성에 따라 운영 매개변수를 설정하세요."
+        },
+        {
+          "number": "06",
+          "tag": "작동",
+          "title": "성능 모니터링 및 기술 패치 업데이트",
+          "description": "소프트웨어의 상태를 지속적으로 모니터링하고 실제 데이터를 바탕으로 소스 코드를 조정하세요."
+        }
+      ],
+      "cta": "제품 제작을 시작하세요!"
+    },
+    "faq": {
+      "label": "자주 묻는 질문",
+      "title": "모든 질문에 대한 답변",
+      "intro": "유틸리티 소프트웨어 엔지니어링에 관한 자주 묻는 질문",
+      "items": [
+        {
+          "q": "유틸리티 소프트웨어가 기업 내 주요 시스템의 속도를 느리게 하나요?",
+          "a": "아니요. Winterfrost는 도구들이 독립적으로 작동하고 서버 자원을 최소화하도록 소스 코드를 최적화합니다. 우리는 추가 소프트웨어가 핵심 비즈니스 애플리케이션의 대역폭이나 메모리를 차지하지 않도록 낮은 우선순위로 백그라운드 프로세스를 설정했습니다."
+        },
+        {
+          "q": "이 도구들이 다양한 운영체제 플랫폼에서 안정적으로 작동하나요?",
+          "a": "네. 우리는 윈도우와 리눅스 모두에서 소프트웨어가 안정적으로 작동하도록 크로스 플랫폼 호환 언어를 기반으로 프로그래밍합니다. 유틸리티는 또한 업계 표준 연결 프로토콜을 통해 다양한 기존 데이터베이스 구조와 원활하게 통신하도록 설계되었습니다."
+        },
+        {
+          "q": "HR이 재프로그래밍 없이 자동화 규칙을 변경할 수 있나요?",
+          "a": "네. 우리는 사용자가 실제 필요에 따라 매개변수와 운영 시나리오를 조정할 수 있는 직관적인 관리자 인터페이스를 구축합니다. 기업은 원래 소스 코드를 방해하지 않고도 작업 실행 일정이나 자동화 프로세스 발동 조건을 미리 변경할 수 있습니다."
+        },
+        {
+          "q": "유틸리티 소프트웨어가 핵심 데이터 영역에 접근할 때 데이터 보안은 어떻게 강제되나요?",
+          "a": "유틸리티 소프트웨어는 특정 작업을 완료하는 데 필요한 최소한의 접근만 부여됩니다. 전송되는 모든 정보 흐름은 AES 256으로 암호화되며, 시스템은 모든 데이터 처리 작업을 추적하기 위해 상세한 활동 로그를 자동으로 저장하여 정보 인프라의 절대적인 보안을 보장합니다."
+        },
+        {
+          "q": "맞춤형 유틸리티 소프트웨어를 개발하고 제공하는 데 평균 소요되는 시간은 얼마인가요?",
+          "a": "일반적으로 기술 조사부터 실제 시운전까지의 과정은 작업의 복잡성에 따라 4주에서 8주가 소요됩니다. 이 기간에는 운영 병목 분석, 소스 코드 프로그래밍, 그리고 시뮬레이션 환경에서의 엄격한 충돌 테스트가 포함됩니다."
+        },
+        {
+          "q": "앞으로 시스템이 확장되거나 새로운 기능을 통합할 가능성이 있나요?",
+          "a": "네. 모듈형 소스 코드 아키텍처는 새로운 기능 추가를 빠르고 운영적으로 중단 없이 만듭니다. 모든 상세 기술 문서를 제공하여 IT 팀이 능동적으로 업그레이드하거나 기존 기술 생태계에 통합할 수 있도록 합니다."
+        }
+      ]
+    }
+  },
+  "phat-trien-ung-dung-theo-yeu-cau": {
+    "slug": "phat-trien-ung-dung-theo-yeu-cau",
+    "title": "필요에 따라 애플리케이션 개발",
+    "hero": {
+      "title": "주문형 모바일 앱 설계 및 개발",
+      "description": "Winterfrost는 두 개의 IOS와 안드로이드 플랫폼에서 맞춤형 모바일 앱 개발 서비스를 제공합니다. 안정적인 소프트웨어 아키텍처, 사용자 경험을 최적화하는 인터페이스, 기존 데이터 시스템과의 유연한 통합 구축에 집중합니다.",
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Thiet-ke-va-phat-trien-ung-dung-di-dong-theo-yeu-cau.jpg",
+      "imageAlt": "주문형 모바일 앱 설계 및 개발",
+      "primaryLabel": "직접 연락",
+      "secondaryLabel": "조언 요청 메시지"
+    },
+    "overview": {
+      "label": "개요",
+      "title": "모바일 애플리케이션의 일반 현황",
+      "paragraphs": [
+        "많은 모바일 앱들이 복잡한 인터페이스, 느린 속도, 불안정한 운영 오류 때문에 높은 삭제율을 보이고 있습니다. ERP/CRM과 같은 내부 시스템과의 연결이 부족하면 운영체제가 업데이트될 때마다 데이터 단편화, 보안 부담, 그리고 고가의 유지보수 비용이 발생하여 기업의 투자 효율성이 저하됩니다.",
+        "Winterfrost는 최적의 소스 코드를 가진 IOS 및 안드로이드 크로스 플랫폼 애플리케이션을 개발하여 고속 및 절대적인 안정성을 보장합니다. 이 솔루션은 중앙집중식 데이터 아키텍처를 기반으로 하여 기존 관리 시스템과의 실용적인 통합 및 동기화를 가능하게 합니다. 우리는 다층적인 보안을 구축하고, 최신 표준에 맞춰 앱을 유지하기 위해 선제적인 기술 지원을 약속하고 있습니다."
+      ],
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Ung-dung-tuy-chinh-HomeNest-Viet-Nam.jpg",
+      "imageAlt": "커스텀 앱 - Winterfrost"
+    },
+    "counters": [
+      {
+        "index": "/01",
+        "value": "10+",
+        "label": "수년간의 경험"
+      },
+      {
+        "index": "/02",
+        "value": "250+",
+        "label": "고객"
+      },
+      {
+        "index": "/03",
+        "value": "15+",
+        "label": "서비스를 제공하는 국가"
+      },
+      {
+        "index": "/04",
+        "value": "98%",
+        "label": "고객 만족"
+      }
+    ],
+    "values": {
+      "title": "비즈니스용 맞춤형 앱 사용의 장점",
+      "intro": "자체 모바일 애플리케이션을 보유함으로써 기업은 운영 프로세스를 표준화하고, 절대 데이터를 보호하며, 효과적인 직접 상호작용 채널을 구축하여 기존 관리 시스템과의 완전한 동기화를 보장합니다.",
+      "items": [
+        {
+          "title": "공정 최적화",
+          "description": "모바일 기기에서 수동 작업을 자동화하고 워크플로우를 정확히 정의하면 데이터 처리 속도가 빨라지고 실제 작업 중 오류를 최소화할 수 있습니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "데이터 보안",
+          "description": "기업은 인프라에 대한 완전한 소유권과 정보 흐름을 통제합니다. 고객 데이터와 비즈니스 비밀을 절대적으로 보호하기 위해 심층적인 암호화 계층이 구축되어 있습니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "고객과 직접 연결해",
+          "description": "푸시 알림 시스템을 통해 24시간 상호작용 채널을 유지하세요. 개인화된 서비스와 직접 휴대폰에 제공하는 혜택은 전환율을 높입니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "기존 시스템과의 동기화",
+          "description": "ERP, CRM, 창고 관리 시스템과 같은 관리 소프트웨어에 직접 연결할 수 있는 능력. 이렇게 하면 데이터가 원활하게 흐르고 부서 간 분산되지 않도록 보장합니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "브랜드 인지도 향상",
+          "description": "이 애플리케이션은 브랜드 기준에 따라 독특한 인터페이스와 기능으로 구축되어 디지털 시장에서 비즈니스의 전문성과 위치를 확립하는 데 도움을 줍니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "기능이 풍부한 개발",
+          "description": "각 비즈니스 단계의 실제 요구사항에 따라 새로운 기능 모듈을 쉽게 업그레이드, 편집 또는 추가할 수 있으며, 사용 가능한 플랫폼에 제한받지 않습니다.",
+          "image": "",
+          "imageAlt": ""
+        }
+      ],
+      "cta": "지금 상담 예약을 하세요!"
+    },
+    "why": {
+      "label": "왜 우리를 선택했을까요?",
+      "title": "기업들이 Winterfrost 서비스를 신뢰해야 하는 이유",
+      "items": [
+        {
+          "number": "1",
+          "title": "실제 성과에 기반한 컨설팅",
+          "description": "우리는 가장 필요한 기능을 제안하기 위해 비즈니스 모델을 신중히 연구합니다. 이 접근법은 실제 운영 가치를 제공하지 않는 기술에 예산을 낭비하는 것을 방지하는 데 도움을 줍니다."
+        },
+        {
+          "number": "2",
+          "title": "크로스 플랫폼 적용",
+          "description": "iOS와 안드로이드 모두에서 일관되게 실행되는 앱을 개발하기 위해 최신 프레임워크를 사용하세요. 이 방법은 배치 시간을 40% 단축하고 유지보수 비용을 절감합니다."
+        },
+        {
+          "number": "3",
+          "title": "사용자 친화적인 인터페이스 디자인",
+          "description": "운영 흐름을 과학적이고 이해하기 쉽게 정리하는 데 집중하세요. 사용자는 구매, 보고서, 조회 등 다양한 기능을 중간에 거치지 않고도 쉽게 사용할 수 있습니다."
+        },
+        {
+          "number": "4",
+          "title": "고하중 지지 시스템",
+          "description": "견고한 서버와 데이터베이스 시스템을 구축하세요. 많은 사용자가 동시에 접속해도 애플리케이션은 항상 안정적이고 원활하게 작동합니다."
+        },
+        {
+          "number": "5",
+          "title": "다층 보안 프로세스",
+          "description": "엄격한 데이터 암호화 표준과 안전한 인증 시스템을 구축하세요. 기업의 사용자 정보와 비즈니스 데이터는 최고 수준에서 보호됩니다."
+        },
+        {
+          "number": "6",
+          "title": "앱을 완전히 소유하세요",
+          "description": "프로젝트 완료 후 Winterfrost는 전체 소스 코드와 기술 문서를 넘겨주었습니다. 기업들은 제품을 완전히 소유하며 미래를 업그레이드하는 데 적극적입니다."
+        }
+      ]
+    },
+    "cta": {
+      "label": "지금 연락하세요!",
+      "title": "자신만의 모바일 앱을 소유할 준비가 되셨나요?",
+      "description": "Winterfrost가 귀하의 아이디어를 안정적이고 안전하며 실제 비즈니스 성과를 내는 기술 제품으로 실현할 수 있도록 하십시오. 운영 및 업그레이드 과정 전반에 걸쳐 모든 소스 코드와 관련 비즈니스를 넘기는 데 전념하고 있습니다.",
+      "buttonLabel": "지금 조언을 받아보세요",
+      "image": "/images/people/cta/winterfrost/nhan-vien-cong-nghe-tre.png",
+      "imageAlt": "전문가 컨설턴트"
+    },
+    "cases": {
+      "title": "Case Studies",
+      "links": [
+        {
+          "href": "/case-studies/app-nivora-connect",
+          "text": "온디맨드 애플리케이션 개발\n앱 디자인\n앱 니보라 커넥트\n프로젝트 보기"
+        },
+        {
+          "href": "https://winterfrost.tech/case-studies/app-grevia-lawn",
+          "text": "온디맨드 애플리케이션 개발\n앱 디자인\n앱 그레비아 잔디밭\n프로젝트 보기"
+        }
+      ],
+      "images": [
+        {
+          "alt": "Nivora 인터페이스 – 사례 연구",
+          "src": "/images/projects/nivora-connect/01-cover.webp?v=wf-20260726"
+        },
+        {
+          "alt": "그레비아 잔디 인터페이스 – 사례 연구",
+          "src": "/images/projects/app-grevia-lawn/01-anh-bia-du-an.webp?v=wf-grevia-pro-20260726"
+        }
+      ]
+    },
+    "services": {
+      "title": "Winterfrost의 맞춤형 앱 디자인 서비스",
+      "intro": "Winterfrost는 인터페이스 설계부터 시스템 프로그래밍 및 운영에 이르기까지 포괄적인 모바일 앱 개발 서비스를 제공합니다. 우리는 안정적이고 사용하기 쉬우며 기존 기술 인프라와 유연하게 통합될 수 있는 기술 솔루션을 만드는 데 집중하고 있습니다.",
+      "items": [
+        {
+          "title": "기업용 애플리케이션 설계",
+          "description": "인사 관리, 프로세스 승인, 프로젝트 진행 상황 추적, 현장 보고를 위한 자체 애플리케이션을 구축합니다. 이 서비스는 비즈니스 양식과 워크플로우를 모바일 기기로 디지털화하는 데 중점을 둡니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Thiet-ke-ung-dung-cho-doanh-nghiep-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "비즈니스용 앱 디자인 - Winterfrost"
+        },
+        {
+          "title": "영업 앱 개발",
+          "description": "쇼핑 카트, 상품 검색, 결제 게이트웨이 통합, 주문 추적 등 다양한 모듈을 갖춘 온라인 쇼핑 애플리케이션을 설계하세요. 우리는 클로징률을 최적화하기 위해 간결한 구매 흐름을 구축하는 데 집중합니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phat-trien-app-ban-hang-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "영업 앱 개발 - Winterfrost"
+        },
+        {
+          "title": "주문형 앱 디자인",
+          "description": "별도의 비즈니스 아이디어나 스타트업 모델을 기반으로 애플리케이션을 프로그래밍합니다. Winterfrost는 독점 기능을 개발하는 것에서 자체 데이터를 구조화하여 시장에 나와 있는 제품과 중복되지 않도록 합니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Thiet-ke-ung-dung-theo-yeu-cau-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "커스텀 앱 디자인 - Winterfrost"
+        },
+        {
+          "title": "UXUI 표준 인터페이스 설계",
+          "description": "사용자 행동 연구, 골격 도면 디자인, 애플리케이션의 완전한 그래픽 인터페이스를 제공합니다. 이 서비스는 이미 프로그래밍 팀이 있지만 전문적이고 사용하기 쉬운 디자인이 필요한 기업을 위한 서비스입니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Thiet-ke-giao-dien-chuan-UXUI-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "UXUI 표준 인터페이스 설계 - Winterfrost"
+        },
+        {
+          "title": "백엔드 시스템을 구축하고 API를 연결하세요",
+          "description": "서버 인프라 구축, 데이터베이스 구축, 기술 게이트웨이 구축. 이 서비스는 모바일 애플리케이션이 ERP, CRM, 비즈니스 웹사이트와 같은 기존 관리 소프트웨어와 직접 데이터를 연결하고 동기화할 수 있도록 돕습니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Xay-dung-he-thong-Backend-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "백엔드 시스템 구축 - Winterfrost"
+        },
+        {
+          "title": "애플리케이션 업그레이드 및 유지보수",
+          "description": "앱을 앱스토어/구글 플레이에 올리는 절차를 수행하고 안정적인 운영을 유지하세요. 저희는 기술적 버그 수정, 신규 기능 업데이트, 그리고 앱이 최신 iOS와 안드로이드 운영체제와 호환되도록 소스 코드를 업그레이드하는 일을 담당하고 있습니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Nang-cap-va-bao-tri-ung-dung-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "애플리케이션 업그레이드 및 유지보수 - Winterfrost"
+        }
+      ],
+      "cta": "모든 서비스를 탐색하기"
+    },
+    "process": {
+      "label": "프로젝트 구현 과정?",
+      "items": [
+        {
+          "number": "01",
+          "tag": "리셉션",
+          "title": "분석 및 해법",
+          "description": "비즈니스 목표, 잠재 고객, 핵심 기능 목록을 정의하세요. 기술팀은 솔루션 설명과 상세한 시스템 아키텍처를 문서화하기 위해 비즈니스 분석을 수행합니다."
+        },
+        {
+          "number": "02",
+          "tag": "아이디어",
+          "title": "UXUI 플로우 설계 및 인터페이스",
+          "description": "사용자 흐름 다이어그램과 인터페이스 도면을 작성하세요. 구조를 통합한 후, 모든 애플리케이션 화면의 설계를 완료합니다."
+        },
+        {
+          "number": "03",
+          "tag": "개발",
+          "title": "프로그래밍 및 시스템 통합",
+          "description": "애플리케이션용 소스 코드를 작성하고 서버 인프라와 데이터베이스를 구축하세요. API 게이트웨이는 애플리케이션을 기업의 내부 관리 시스템과 연결하기 위해 구축되었습니다."
+        },
+        {
+          "number": "04",
+          "tag": "작동",
+          "title": "검사 및 시험",
+          "description": "IOS와 안드로이드 등 다양한 물리적 기기에서 기능, 하중 성능 및 보안 테스트를 수행합니다. 발견된 기술적 오류는 출시 전에 철저히 검토되고 수정됩니다."
+        },
+        {
+          "number": "05",
+          "tag": "개봉",
+          "title": "앱 스토어와 구글 플레이에 게시하기",
+          "description": "기술 절차를 수행하고 신청서를 국제 매장에 업로드하세요. Winterfrost는 앱이 제때 나타나도록 애플과 구글의 검토 과정을 면밀히 모니터링합니다."
+        },
+        {
+          "number": "06",
+          "tag": "환승",
+          "title": "인수인계 및 지원",
+          "description": "모든 소스 코드, 관리 매뉴얼 및 운영 데이터를 기업에 이전하세요. 실제 사용 기간 내내 주기적인 유지보수 및 기술 처리 지원을 유지합니다."
+        }
+      ],
+      "cta": "제품 제작을 시작하세요!"
+    },
+    "faq": {
+      "label": "자주 묻는 질문",
+      "title": "모든 질문에 대한 답변",
+      "intro": "맞춤형 앱 개발 서비스에 관한 질문에 답하세요",
+      "items": [
+        {
+          "q": "모바일 앱 개발 비용은 어느 정도를 기준으로 계산되나요?",
+          "a": "비용은 기능의 수, 사용자 인터페이스의 복잡성, 백엔드 인프라의 요구사항에 따라 결정됩니다. Winterfrost는 사업 설문조사를 실시하고 사업과 해결책 문서에 합의한 후 상세한 견적을 제공합니다."
+        },
+        {
+          "q": "앱이 스토어에 출시될 때까지 얼마나 걸리나요?",
+          "a": "일반적으로 프로젝트는 규모에 따라 2개월에서 6개월 정도 걸립니다. 이 기간에는 비즈니스 분석, UX/UI 설계, 소스 코드 프로그래밍, 시스템 테스트, 그리고 App Store와 Google Play의 승인 대기 시간이 포함됩니다."
+        },
+        {
+          "q": "핸드오버 후, 기업이 전체 소스 코드를 소유할 수 있나요?",
+          "a": "네. 프로젝트 종료 후 Winterfrost는 모든 소스 코드와 관련 기술 아키텍처 문서를 넘겼습니다. 기업은 제품을 완전히 소유하며, 적극적으로 업그레이드하거나 운영을 이전할 권리가 있습니다."
+        },
+        {
+          "q": "앱이 iOS와 안드로이드 운영체제 모두에서 동기화되어 작동하나요?",
+          "a": "네. 최첨단 크로스 플랫폼 기술을 사용하여 두 운영체제에서 앱이 안정적이고 일관되게 실행되도록 합니다. 이로 인해 각 플랫폼별로 별도로 프로그래밍하는 것보다 개발 비용을 절감할 수 있습니다."
+        },
+        {
+          "q": "앱에서 비즈니스 데이터의 보안을 어떻게 보장할 수 있을까요?",
+          "a": "우리는 종단 간 데이터 암호화 표준을 채택하고 다층 인증 시스템을 구축합니다. 출시 전에 이 앱은 잠재적인 기술적 취약점을 탐지하고 해결하기 위해 엄격한 보안 테스트를 거칩니다."
+        },
+        {
+          "q": "Winterfrost는 iOS와 Android 운영체제의 새 버전이 출시될 때 업데이트를 지원하나요?",
+          "a": "네. 우리는 구글과 애플의 변경 사항에 맞춰 호환성을 점검하고 소스 코드를 업그레이드하기 위한 주기적인 유지보수 서비스를 제공합니다. 이로 인해 최신 기기에서 애플리케이션이 항상 안정적으로 실행되도록 보장합니다."
+        }
+      ]
+    }
+  },
+  "tai-chinh-doanh-nghiep": {
+    "slug": "tai-chinh-doanh-nghiep",
+    "title": "기업금융",
+    "hero": {
+      "title": "기업 금융 소프트웨어 개발",
+      "description": "Winterfrost는 초강력하고 확장 가능하며 완전 준수하는 기업 금융 소프트웨어 솔루션을 제공합니다. 우리는 금융기관들이 구식 핵심 은행 시스템을 현대화하고 자동화된 자산 관리 플랫폼을 구축할 수 있도록 지원하여, 현대 금융 생태계와 완벽하게 호환되는 기술 인프라를 제공합니다.",
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Tai-chinh-doanh-nghiep.jpg",
+      "imageAlt": "기업금융",
+      "primaryLabel": "직접 연락",
+      "secondaryLabel": "조언 요청 메시지"
+    },
+    "overview": {
+      "label": "개요",
+      "title": "구 금융 시스템을 신세대 디지털 아키텍처로 전환하다",
+      "paragraphs": [
+        "많은 금융 기관들이 업그레이드가 어렵고 유지 비용이 매우 비싼 구형 코어 뱅킹 시스템을 사용하고 있습니다. 현대 API 게이트웨이의 부재로 인해 서드파티 애플리케이션과의 통합이 복잡하고 위험합니다. 또한, 엄청난 양의 데이터를 처리하면서도 엄격한 준수 규정을 준수하는 것은 구식 시스템에게는 난제입니다.",
+        "Winterfrost는 포괄적인 금융 인프라 현대화 솔루션을 제공합니다. 우리는 기존 시스템을 현대 마이크로서비스 아키텍처로 전환하고, 자동화된 자산 관리 플랫폼과 지능형 리스크 관리 시스템을 구축합니다. 저희 솔루션은 운영 성과를 최적화하고, 데이터를 마스터하며, 글로벌 금융 시장의 가장 엄격한 기준을 충족할 수 있도록 도와줍니다."
+      ],
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Chuyen-doi-he-thong-tai-chinh-cu-sang-kien-truc-so-the-he-moi.jpg",
+      "imageAlt": "구금융 시스템을 차세대 디지털 아키텍처로 전환하다"
+    },
+    "counters": [
+      {
+        "index": "/01",
+        "value": "10+",
+        "label": "수년간의 경험"
+      },
+      {
+        "index": "/02",
+        "value": "250+",
+        "label": "고객"
+      },
+      {
+        "index": "/03",
+        "value": "15+",
+        "label": "서비스를 제공하는 국가"
+      },
+      {
+        "index": "/04",
+        "value": "98%",
+        "label": "고객 만족"
+      }
+    ],
+    "values": {
+      "title": "안전한 금융으로 거버넌스를 강화합니다",
+      "intro": "차세대 금융 솔루션은 기업이 레거시 시스템을 현대화하고, 데이터 보안을 강화하며, 자동화된 자산 관리 프로세스를 구축하여 대규모 비즈니스 성과를 극대화할 수 있도록 돕습니다.",
+      "items": [
+        {
+          "title": "중단 없이 오래된 인프라를 현대화하세요",
+          "description": "구식 시스템을 새로운 기술 플랫폼으로 전환하면서 모든 거래 활동이 원활하게 진행되도록 보장합니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "확장성 최적화",
+          "description": "이 시스템은 수백만 건의 거래와 사용자를 동시에 처리할 수 있도록 설계되었으며, 사업 규모가 커질수록 쉽게 업그레이드할 수 있습니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "자산 관리 자동화",
+          "description": "자동화된 포트폴리오 및 자산 관리 알고리즘을 통해 인적 오류를 최소화하고 투자 성과를 향상시킵니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "절대적인 법적 준수 보장",
+          "description": "내장된 보고 기준과 준수 통제는 기업이 최신 금융 규정을 최신 상태로 유지하는 데 도움을 줍니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "엔터프라이즈급 데이터 보안",
+          "description": "민감한 금융 정보를 보호하고 외부 위협을 방지하기 위해 가장 엄격한 보안 기준을 적용하세요.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "실제 데이터에 기반한 의사결정",
+          "description": "실시간 분석 및 보고 시스템은 경영진이 정확하고 시기적절한 재무 전략을 수립할 수 있도록 돕습니다.",
+          "image": "",
+          "imageAlt": ""
+        }
+      ],
+      "cta": "지금 상담 예약을 하세요!"
+    },
+    "why": {
+      "label": "왜 우리를 선택했을까요?",
+      "title": "왜 Winterfrost에서 금융 가설을 선택해야 하는가",
+      "items": [
+        {
+          "number": "1",
+          "title": "대규모 시스템 현대화 경험",
+          "description": "복잡한 소스 코드 구조를 처리하고 기존 인프라를 안전하게 새로운 기술로 전환할 수 있는 능력을 갖추고 있습니다."
+        },
+        {
+          "number": "2",
+          "title": "금융 솔루션 컨설턴트",
+          "description": "이 팀은 기술에 능숙할 뿐만 아니라 기업 금융과 자산 관리 운영에 대해 깊이 있는 지식을 갖추고 있습니다."
+        },
+        {
+          "number": "3",
+          "title": "국제 기준 준수에 대한 약속",
+          "description": "저희 제품은 항상 금융 산업의 엄격한 보안 및 법적 규제 기준을 충족합니다."
+        },
+        {
+          "number": "4",
+          "title": "기술에 대한 완전한 숙달",
+          "description": "기업은 소스 코드 100%를 넘겨받아 시스템 업그레이드에 있어 독립성과 자율성을 보장합니다."
+        },
+        {
+          "number": "5",
+          "title": "생태계 맞춤형 솔루션",
+          "description": "저희는 기존 파트너 플랫폼 및 금융 생태계와 완벽하게 호환되도록 유연한 소프트웨어를 설계합니다."
+        },
+        {
+          "number": "6",
+          "title": "총 소유 비용 최적화",
+          "description": "Winterfrost의 솔루션은 장기적인 운영 비용을 줄이고 포장 공급업체로부터 발생하는 비싼 로열티 비용을 제거합니다."
+        }
+      ]
+    },
+    "cta": {
+      "label": "지금 연락하세요!",
+      "title": "기업 재무 관리 인프라 구축",
+      "description": "Winterfrost의 엔지니어링 팀에 연락하여 실시간 현금 흐름 관리 시스템을 구축하고 결제 보고 과정을 자동화하여 귀사의 거버넌스 성과를 최적화하세요.",
+      "buttonLabel": "지금 문의하세요",
+      "image": "/images/people/cta/winterfrost/chuyen-vien-nu.png",
+      "imageAlt": "전문가 컨설턴트"
+    },
+    "cases": null,
+    "services": {
+      "title": "차세대 기업 금융 서비스",
+      "intro": "Winterfrost는 핵심 은행 시스템을 현대화하고, 자산 관리 및 스마트 리스크 관리 플랫폼을 구축하여 기업이 현대 금융 인프라를 마스터하고, 대규모로 안전하게 안전하게 운영할 수 있도록 돕습니다.",
+      "items": [
+        {
+          "title": "핵심 은행 시스템의 현대화",
+          "description": "오래된 은행 인프라를 현대적이고 유연한 아키텍처와 쉽게 통합할 수 있는 API로 업그레이드하고 전환하세요.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Hien-dai-hoa-he-thong-ngan-hang-loi.jpg",
+          "imageAlt": "핵심 은행 시스템의 현대화"
+        },
+        {
+          "title": "자산 관리 플랫폼 개발",
+          "description": "포트폴리오 관리 소프트웨어, 자동화된 컨설팅, 개인/기업 자산 관리를 구축하세요.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phat-trien-nen-tang-quan-ly-tai-san.jpg",
+          "imageAlt": "자산 관리 플랫폼 개발"
+        },
+        {
+          "title": "기업 리스크 관리 시스템",
+          "description": "빅데이터를 기반으로 한 금융 위험 분석, 예측 및 경고 도구를 개발하세요.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/He-thong-quan-tri-rui-ro-doanh-nghiep.jpg",
+          "imageAlt": "기업 리스크 관리 시스템"
+        },
+        {
+          "title": "재무 관리 솔루션",
+          "description": "대기업을 위한 현금 흐름 최적화, 유동성 및 중앙집중식 외환 거래 관리.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-quan-ly-ngan-quy.jpg",
+          "imageAlt": "재무 관리 솔루션"
+        },
+        {
+          "title": "디지털 금융 거래 플랫폼",
+          "description": "이곳은 기업들이 전통적인 서류 대신 온라인으로 대출 절차를 진행하거나 보증하거나 신용장을 개설할 수 있는 곳이며, 보안도 매우 높습니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Nen-tang-giao-dich-tai-chinh-so.jpg",
+          "imageAlt": "디지털 금융 거래 플랫폼"
+        },
+        {
+          "title": "자동 보고 시스템 구축",
+          "description": "금융 규제 당국의 기준에 따라 데이터 집계 및 보고서 내보내기를 자동화합니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Xay-dung-he-thong-bao-cao-tu-dong.jpg",
+          "imageAlt": "자동 보고 시스템 구축"
+        }
+      ],
+      "cta": "모든 서비스를 탐색하기"
+    },
+    "process": {
+      "label": "프로젝트 구현 과정?",
+      "items": [
+        {
+          "number": "01",
+          "tag": "리뷰",
+          "title": "레거시 시스템 조사 및 분석",
+          "description": "현재 시스템의 전체 소스 코드와 데이터 구조를 검토하여 기술적 병목 현상을 파악합니다. 이 단계는 비즈니스의 특정 재무 운영과 완벽하게 호환되도록 전환 로드맵을 형성하는 데 도움을 줍니다."
+        },
+        {
+          "number": "02",
+          "tag": "디자인",
+          "title": "건축 설계 및 보안",
+          "description": "Winterfrost는 마이크로서비스 아키텍처를 기반으로 기술 도면을 제작하여 시스템이 쉽게 확장되고 유지보수가 용이하도록 합니다. 데이터 보안 계층과 API 연결 프로토콜은 설계 단계부터 금융 정보의 무결성을 보장하기 위해 엄격히 구축되어 있습니다."
+        },
+        {
+          "number": "03",
+          "tag": "개발",
+          "title": "프로그래밍 및 데이터 전송",
+          "description": "엔지니어링 팀은 클라우드 네이티브 플랫폼에서 새로운 소스 코드를 작성합니다. 동시에 엄격한 조정 도구를 사용해 기존 시스템에서 새 시스템으로 데이터를 마이그레이션하는 과정을 수행하여 균형 손실이나 편차가 없도록 보장합니다."
+        },
+        {
+          "number": "04",
+          "tag": "시험",
+          "title": "효과 테스트 및 평가",
+          "description": "이 시스템은 은행 파트너 및 중개인과의 연결 능력을 시험받습니다. 또한 모든 프로세스가 국제 금융 규제 및 감사 기준을 충족하는지 확인하기 위해 자동 보고 검토를 수행합니다."
+        },
+        {
+          "number": "05",
+          "tag": "실용적 운행",
+          "title": "배치 및 변혁",
+          "description": "안정성을 검증하기 위해 새 시스템이 기존 시스템과 일정 시간 병행 실행되도록 허용합니다. 모든 지표가 만족스러우면, Winterfrost는 기존 거래를 중단하지 않고 완전히 새로운 시스템으로 전환합니다."
+        },
+        {
+          "number": "06",
+          "tag": "핸드오버",
+          "title": "소스 코드 핸드오버 및 유지보수 지원",
+          "description": "Winterfrost는 모든 소스 코드와 운영 매뉴얼을 기업의 기술팀에 넘겼습니다. 저희는 24시간 365일 유지보수를 유지하며 주기적으로 보안 패치를 업데이트하여 시스템이 항상 최상의 상태로 작동하도록 합니다."
+        }
+      ],
+      "cta": "제품 제작을 시작하세요!"
+    },
+    "faq": {
+      "label": "자주 묻는 질문",
+      "title": "모든 질문에 대한 답변",
+      "intro": "기업 금융을 위한 디지털 솔루션에 관한 자주 묻는 질문",
+      "items": [
+        {
+          "q": "기존 코어 뱅킹 시스템에서 업그레이드하면 기존 거래가 중단될까요?",
+          "a": "아니요. Winterfrost는 병렬 배치 또는 단계적 전환 전략을 채택합니다. 우리는 중간 게이트웨이를 구축하여 이전 시스템과 새 시스템 간에 데이터가 항상 동기화되도록 하여 업그레이드 과정 내내 모든 고객 거래가 원활하게 유지되도록 했습니다."
+        },
+        {
+          "q": "새로운 시스템으로 이전할 때 금융 데이터가 사라지지 않도록 어떻게 보장할 수 있을까요?",
+          "a": "우리는 자동 데이터 조정과 마이그레이션 드릴을 포함한 다양한 엄격한 감사를 통해 데이터 마이그레이션 프로세스를 실행합니다. 새 시스템이 공식적으로 가동되기 전에 계좌 잔액부터 거래 내역까지 모든 정보가 100% 무결성을 검증합니다."
+        },
+        {
+          "q": "Winterfrost의 시스템이 법적 준수 보고서 자동화를 지원하나요?",
+          "a": "네. 우리는 IFRS 및 중앙은행 규제와 같은 국제 기준에 따라 데이터 집계와 보고서 수출을 자동화하는 내장된 RegTech 도구를 보유하고 있습니다. 이는 기업이 시간을 절약하고 규제 당국 앞에서 절대적인 정확성을 확보하는 데 도움을 줍니다."
+        },
+        {
+          "q": "마이크로서비스 아키텍처가 기업 재무 소프트웨어에 가져다주는 이점은 무엇인가요?",
+          "a": "이 아키텍처는 시스템을 독립 실행형 서비스로 나누어 전체 시스템에 영향을 주지 않고 기능을 업그레이드하거나 수정할 수 있게 합니다. 이로 인해 기업은 거래량이 증가할 때 필요한 부분에만 자원을 집중하여 유연하게 확장할 수 있습니다."
+        },
+        {
+          "q": "기업이 핸드오버 후 소스 코드를 소유하고 편집할 권리가 있나요?",
+          "a": "물론입니다. Winterfrost는 소스 코드와 기술 아키텍처 문서의 100%를 넘겼습니다. 기업은 제품에 대한 완전한 소유권을 가지고 있으며, 공급업체에 의존하지 않고 사업 전략에 따라 기능을 적극적으로 유지, 업그레이드 또는 맞춤화할 수 있습니다."
+        },
+        {
+          "q": "Winterfrost는 어떻게 금융 데이터를 사이버 공격으로부터 보호하나요?",
+          "a": "우리는 데이터 암호화 시 정지 상태부터 트랜잭션 전송 보안까지 다층 보안 시스템을 구축합니다. 이 시스템은 침입 탐지 기술을 통합하고 엄격한 침투 테스트를 거쳐 금융 인프라가 사이버 위협에 항상 강인하도록 보장합니다."
+        }
+      ]
+    }
+  },
+  "thuong-mai-dien-tu": {
+    "slug": "thuong-mai-dien-tu",
+    "title": "전자상거래",
+    "hero": {
+      "title": "종합 전자상거래 솔루션",
+      "description": "Winterfrost는 고부하 전자상거래 인프라를 구축하여 운영 효율성을 희생하지 않으면서 대량의 트래픽을 처리할 수 있도록 보장합니다. 맞춤형 Headless Commerce 인터페이스리스 플랫폼, 다중 판매자 전자상거래 플랫폼, 주문 이행 자동화 시스템 개발에 집중하고 있습니다. 이 솔루션은 전환율을 극대화하기 위한 원활한 거래 환경 조성을 우선시하며, 심층적인 백엔드 통합 보안 관리 프로세스를 결합합니다.",
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-thuong-mai-dien-toan-dien.jpg",
+      "imageAlt": "종합 전자상거래 솔루션",
+      "primaryLabel": "직접 연락",
+      "secondaryLabel": "조언 요청 메시지"
+    },
+    "overview": {
+      "label": "개요",
+      "title": "현재 전자상거래 플랫폼의 현황",
+      "paragraphs": [
+        "많은 기업들이 느린 로딩 속도와 복잡한 사용자 경험 때문에 높은 장바구니 포기율을 겪는 전자상거래 시스템에 어려움을 겪고 있습니다. 온라인 판매 채널과 창고 및 주문 관리 시스템 간의 연결이 부족해 실제 데이터가 왜곡됩니다. 또한, 결제 보안과 온라인 쇼핑 피크 시기의 낮은 적재 용량 위험은 기업의 평판과 수익을 떨어뜨립니다.",
+        "Winterfrost는 빠른 응답 시간과 수천 건의 동시 방문을 견딜 수 있는 능력을 보장하는 마이크로서비스 아키텍처를 기반으로 한 전자상거래 시스템을 개발합니다. 결제 게이트웨이, 배송 단위 및 물리적 동기화를 기업의 ERP/CRM 관리 시스템과 직접 연결합니다. 이 솔루션은 구매 흐름 최적화, 다층 보안 구축, 효율적인 비즈니스 운영을 지원하는 심층 데이터 분석 도구 제공에 중점을 둡니다."
+      ],
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Thuc-trang-cua-san-thuong-mai-dien-tu.jpg",
+      "imageAlt": "현재 전자상거래 플랫폼의 현황"
+    },
+    "counters": [
+      {
+        "index": "/01",
+        "value": "10+",
+        "label": "수년간의 경험"
+      },
+      {
+        "index": "/02",
+        "value": "250+",
+        "label": "고객"
+      },
+      {
+        "index": "/03",
+        "value": "15+",
+        "label": "서비스를 제공하는 국가"
+      },
+      {
+        "index": "/04",
+        "value": "98%",
+        "label": "고객 만족"
+      }
+    ],
+    "values": {
+      "title": "기술 적용 시 실용적 가치",
+      "intro": "Winterfrost 기술을 적용하면 기업은 판매 프로세스를 자동화하고, 전환율을 최적화하며, 데이터 관리를 중앙집중화하여 온라인 환경에서 지속 가능하고 안전한 운영 플랫폼을 구축할 수 있습니다.",
+      "items": [
+        {
+          "title": "운영 프로세스 자동화",
+          "description": "시스템은 주문을 자동으로 처리하고, 창고 상태를 업데이트하며, 배송을 조정합니다. 이로 인해 수작업 작업이 줄어들고, 오류를 최소화하며, 인사 업무 성과를 최적화합니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "전환율 향상",
+          "description": "빠른 페이지 로드 속도와 최적화된 결제 흐름이 결합되어 장바구니 포기(카트) 버림을 최소화하는 데 도움이 됩니다. 어떤 기기에서든 원활한 사용자 경험은 빠른 구매 행동을 이끕니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "정확한 데이터 거버넌스",
+          "description": "고객, 수익, 재고에 관한 모든 정보는 단일 플랫폼에 저장됩니다. 기업들은 정확한 경영 결정을 내리기 위해 언제든지 실제 보고서를 조회할 수 있습니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "우수한 확장성과 하중 지지",
+          "description": "현대 기술 인프라 덕분에 갑작스러운 교통 체증이 발생하는 쇼핑 피크 시간대에도 안정적으로 운영될 수 있습니다. 기업들은 비즈니스 운영에 지장을 주지 않고도 기능을 쉽게 업그레이드할 수 있습니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "다중 채널 데이터 동기화",
+          "description": "웹사이트, 앱, 전자상거래 플랫폼 간의 균일한 데이터 연결. 가격, 프로모션, 제품 수량에 관한 정보는 동시적으로 업데이트되어 모든 접점에서 일관성을 보장합니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "거래 안전 기준 향상",
+          "description": "데이터 암호화 프로토콜과 보안 인증서는 고객의 개인정보와 계정을 보호하는 데 도움을 줍니다. 거래 안전성 확보는 브랜드 평판과 소비자 신뢰 구축에 기여합니다.",
+          "image": "",
+          "imageAlt": ""
+        }
+      ],
+      "cta": "지금 상담 예약을 하세요!"
+    },
+    "why": {
+      "label": "왜 우리를 선택했을까요?",
+      "title": "왜 기업들은 Winterfrost를 선택해야 할까요?",
+      "items": [
+        {
+          "number": "1",
+          "title": "빠르고 업그레이드가 쉽습니다",
+          "description": "웹사이트를 매우 빠르게 로드할 수 있는 최신 기술을 사용합니다. 인터페이스와 관리 시스템이 분리되어 있어, 기업들이 웹의 외관을 쉽게 변경할 수 있어 내부 데이터에 영향을 주지 않고도 가능합니다."
+        },
+        {
+          "number": "2",
+          "title": "사용 가능한 소프트웨어와의 원활한 연결",
+          "description": "시스템은 창고 관리 소프트웨어, 회계, ERP/CRM, 납품 유닛과 데이터를 자동으로 동기화합니다. 주문과 재고에 관한 모든 정보는 모든 판매 채널에서 항상 정확합니다."
+        },
+        {
+          "number": "3",
+          "title": "안정적인 시스템이고, 웹 크래시 걱정도 없습니다",
+          "description": "소스 코드는 극한의 부하를 견딜 수 있도록 최적화되어 있습니다. 웹사이트는 수천 명의 방문자가 동시에 진행되는 대규모 프로모션 중에도 크래시나 느려짐 없이 원활하게 작동합니다."
+        },
+        {
+          "number": "4",
+          "title": "절대 정보 보안",
+          "description": "모든 거래와 개인정보에 대해 여러 겹의 보호 키를 설정했습니다. 이는 고객 데이터 유출이나 사이버 공격 위험을 완전히 방지하는 데 도움이 됩니다."
+        },
+        {
+          "number": "5",
+          "title": "기업은 소스 코드를 완전히 소유합니다",
+          "description": "완성 후 Winterfrost는 전체 제품 소스 코드를 넘겼습니다. 기업은 완전한 소유권을 가지며, 스스로 운영 단위를 업그레이드하거나 변경할 수 있으며, 별도의 의무 없이 운영할 수 있습니다."
+        },
+        {
+          "number": "6",
+          "title": "실용적이고 효과적인 기능 컨설팅",
+          "description": "우리는 판매에 정말 필요한 기능 개발에 집중합니다. Winterfrost의 솔루션은 고객이 주문을 더 빠르게 마감하고 기업의 관리 비용을 절감할 수 있도록 우선시합니다."
+        }
+      ]
+    },
+    "cta": {
+      "label": "지금 연락하세요!",
+      "title": "오늘 바로 전자상거래 플랫폼을 구축하세요!",
+      "description": "Winterfrost와 함께 안정적이고 고부하, 그리고 포괄적으로 통합된 판매 플랫폼을 구축해 나가세요. 우리는 기업들이 지속 가능하게 사전에 개발하고 비즈니스 데이터를 완전히 마스터할 수 있도록 소스 코드의 완전한 소유권을 넘기는 데 전념하고 있습니다.",
+      "buttonLabel": "즉시 솔루션 조언을 받아보세요",
+      "image": "/images/people/cta/winterfrost/chuyen-vien-nu.png",
+      "imageAlt": "전문가 컨설턴트"
+    },
+    "cases": {
+      "title": "Case Studies",
+      "links": [
+        {
+          "href": "https://winterfrost.tech/case-studies/website-virela-interior",
+          "text": "건축 및 건설\n전자상거래\n웹사이트 디자인\n웹사이트 비렐라 내부\n프로젝트 보기"
+        },
+        {
+          "href": "https://winterfrost.tech/case-studies/website-ceranova",
+          "text": "건축 및 건설\n전자상거래\n웹사이트 디자인\n웹사이트 세라노바\n프로젝트 보기"
+        },
+        {
+          "href": "https://winterfrost.tech/case-studies/website-mocvan-tea",
+          "text": "소매\n전자상거래\n웹사이트 디자인\n웹사이트 모반 티\n프로젝트 보기"
+        }
+      ],
+      "images": [
+        {
+          "alt": "Mocvan 차 인터페이스 – 사례 연구",
+          "src": "/images/projects/website-mocvan-tea/01-anh-bia-du-an.webp?v=wf-projects-pro-20260726"
+        }
+      ]
+    },
+    "services": {
+      "title": "Winterfrost의 전자상거래 서비스",
+      "intro": "Winterfrost는 온라인 판매 퍼널을 자동화된 운영체제로 전환하는 심층 프로그래밍과 통합 서비스를 제공합니다. 우리는 기업이 데이터와 거래 프로세스를 완전히 마스터할 수 있도록 돕는 별도의 기술 인프라 구축에 집중하고 있습니다.",
+      "items": [
+        {
+          "title": "맞춤형 판매 플랫폼을 개발하세요",
+          "description": "기존 템플릿을 사용하지 말고 비즈니스의 고유한 요구사항에 맞춰 판매 웹사이트와 애플리케이션을 개발하세요. 이 서비스는 시스템이 완전한 기능을 갖추고, 쉽게 확장되며, 페이지 로딩 속도를 최고 수준에서 최적화합니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phat-trien-nen-tang-ban-hang-tuy-chinh-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "맞춤형 판매 플랫폼 개발 - Winterfrost"
+        },
+        {
+          "title": "다중 판매자 상업용 층 건설",
+          "description": "여러 공급자가 참여하는 대규모 교환 모델을 위한 기술 인프라를 구축합니다. 이 시스템에는 부스 관리 모듈, 자동 수수료 분배, 각 판매자의 서비스 품질 관리를 포함한 다양한 기능이 포함되어 있습니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Xay-dung-san-thuong-mai-da-nguoi-ban-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "다중 판매자 거래 플랫폼 구축 - Winterfrost"
+        },
+        {
+          "title": "헤드리스 커머스 솔루션 구현",
+          "description": "디스플레이 인터페이스와 데이터 처리 장치를 분리하는 현대 아키텍처를 사용합니다. 이 솔루션은 애플리케이션이 어떤 기기에서도 매우 빠르게 작동하도록 도와주어 보안을 강화하고, 기업이 백엔드 영업 시스템에 영향을 주지 않고 인터페이스를 유연하게 변경할 수 있게 합니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Trien-khai-giai-phap-Headless-Commerce-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "헤드리스 커머스 솔루션 구현 - Winterfrost"
+        },
+        {
+          "title": "행정 시스템과 물류의 연결",
+          "description": "영업 채널과 창고 관리, 회계 및 배송 단위 소프트웨어 간의 직접적인 데이터 연계를 구현합니다. 재고, 주문 상태, 수익에 관한 모든 정보가 자동으로 동기화되어 수동 조작으로 인한 오류를 최소화하는 데 도움을 줍니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Ket-noi-he-thong-quan-tri-va-kho-van-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "물류 및 행정 시스템 연결 - Winterfrost"
+        },
+        {
+          "title": "결제 게이트웨이 통합 및 거래 보안",
+          "description": "은행, 전자 지갑, 결제 중개자와 안전한 기술 연결을 구축하세요. 저희는 고객의 금융 정보와 비즈니스 평판을 보호하기 위해 엄격한 데이터 암호화 기준을 적용합니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Tich-hop-cong-thanh-toan-va-bao-mat-giao-dich-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "결제 게이트웨이 통합 및 거래 보안 - Winterfrost"
+        },
+        {
+          "title": "유지보수 및 성능 최적화",
+          "description": "사이트가 쇼핑 성수기에도 원활하게 운영되도록 소스 코드를 모니터링하고 미세 조정하세요. 이 서비스에는 정기적인 취약점 점검, 신규 기능 업데이트, 그리고 트래픽이 많은 경우 시스템이 중단되지 않도록 보장하는 기능이 포함됩니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Bao-tri-va-toi-uu-hieu-suat-HomeNest-Viet-Nam.jpg",
+          "imageAlt": "유지보수 및 성능 최적화 - Winterfrost"
+        }
+      ],
+      "cta": "모든 서비스를 탐색하기"
+    },
+    "process": {
+      "label": "프로젝트 구현 과정?",
+      "items": [
+        {
+          "number": "01",
+          "tag": "요구사항 분석",
+          "title": "측량 및 솔루션 컨설팅",
+          "description": "저희는 귀하의 판매 프로세스, 결제 방식, 물류 모델에 대해 조사합니다. 엔지니어링 팀은 비즈니스 규모에 가장 적합한 헤드리스 또는 마이크로서비스와 같은 시스템 아키텍처를 추천합니다."
+        },
+        {
+          "number": "02",
+          "tag": "디자인",
+          "title": "플로우 디자인 및 UX/UI 인터페이스",
+          "description": "간결한 구매 차트와 결제 과정을 만들어 마감률을 높이세요. 우리는 브랜드의 미감과 편리함을 어떤 기기에서도 사용자에게 제공하는 그래픽 인터페이스를 설계합니다."
+        },
+        {
+          "number": "03",
+          "tag": "완료",
+          "title": "시스템 프로그래밍 및 API 연결",
+          "description": "웹사이트/앱의 소스 코드를 작성하고 그 뒤에 있는 관리 시스템을 구축하세요. API 게이트웨이는 배송 단위, 결제 게이트웨이, 관리 소프트웨어(ERP/CRM)와 직접 연결되도록 설정되어 있습니다."
+        },
+        {
+          "number": "04",
+          "tag": "확인",
+          "title": "검사 및 시험",
+          "description": "기능 오류 검토를 수행하고 극한 접근 조건에서 시스템의 부하 용량을 점검하세요. 또한 결제 게이트웨이의 보안 테스트를 실시하여 거래 데이터의 절대적인 안전을 보장합니다."
+        },
+        {
+          "number": "05",
+          "tag": "작동",
+          "title": "제품 배포 및 출시",
+          "description": "서버를 구성하고, 보안 인증서를 설치하며, 시스템을 공식적으로 가동하세요. Winterfrost는 기업이 초기 제품 데이터를 입력할 수 있도록 지원하고, 직원들이 관리자 페이지 사용법을 숙달하도록 지도합니다."
+        },
+        {
+          "number": "06",
+          "tag": "환승",
+          "title": "인수인계 및 지원",
+          "description": "모든 소스 코드와 기술 지침 문서를 기업에 이전하세요. 운영 전반에 걸쳐 주기적인 유지보수, 보안 업데이트, 신속한 기술 처리 지원을 유지합니다."
+        }
+      ],
+      "cta": "제품 제작을 시작하세요!"
+    },
+    "faq": {
+      "label": "자주 묻는 질문",
+      "title": "모든 질문에 대한 답변",
+      "intro": "전자상거래 시스템에 관한 질문에 답변하기",
+      "items": [
+        {
+          "q": "전자상거래 시스템을 구축하는 데 드는 비용은 얼마를 기준으로 계산되나요?",
+          "a": "비용은 경매, 다중 판매자, 부하 인프라 요구사항, 통합해야 할 제3자 시스템 수와 같은 기능의 복잡성에 따라 달라집니다. Winterfrost는 사업의 실제 필요와 규모를 철저히 조사한 후 상세한 견적을 제공합니다."
+        },
+        {
+          "q": "이 시스템이 기존 회계 및 창고 관리 소프트웨어와 연결할 수 있나요?",
+          "a": "네. 우리는 전용 API 포털을 통해 주문, 재고, 고객 정보를 비즈니스가 사용하는 ERP, CRM, WMS 소프트웨어와 직접 동기화합니다. 이렇게 하면 데이터가 일관되고 정확하게 유지됩니다."
+        },
+        {
+          "q": "트래픽이 급증할 때 내 웹사이트가 다운되지 않도록 어떻게 해야 하나요?",
+          "a": "Winterfrost는 현대적인 시스템 아키텍처와 자동 확장이 가능한 클라우드 컴퓨팅 인프라를 사용합니다. 우리는 소스 코드와 데이터베이스 구조를 최적화하여 수천 명이 동시에 방문하는 성격 프로모션 시간에도 시스템이 항상 원활하게 작동하도록 합니다."
+        },
+        {
+          "q": "핸드오버 후, 기업이 소스 코드에 대한 완전한 소유권을 갖게 되나요?",
+          "a": "네. Winterfrost는 프로젝트 완료 직후 모든 소스 코드와 기술 문서를 즉시 넘겼습니다. 기업은 제품에 대한 완전한 소유권을 가지며, 법적 또는 기술적 장벽 없이 운영 장치를 업그레이드하거나 변경하는 데 주도권을 잡습니다."
+        },
+        {
+          "q": "시스템 내 결제 거래는 어떻게 보안되나요?",
+          "a": "우리는 종단 간 데이터 암호화 표준을 적용하고, 국제 보안 인증서를 통과한 신뢰할 수 있는 결제 게이트웨이를 통합합니다. 이 시스템은 여러 단계의 인증 및 주기적인 취약점 검토로 구성되어 고객의 금융 정보를 철저히 보호합니다."
+        },
+        {
+          "q": "Winterfrost의 플랫폼이 SEO와 마케팅을 잘 지원하나요?",
+          "a": "네. 모든 소스 코드는 최신 구글 기술 표준에 따라 최적화되어 빠른 페이지 로딩 속도와 검색 엔진 친화적인 데이터 구조를 보장합니다. 또한 마케팅 캠페인을 효과적으로 지원할 수 있도록 사용자 행동 추적 도구가 내장되어 있습니다."
+        }
+      ]
+    }
+  },
+  "van-tai-va-logistics": {
+    "slug": "van-tai-va-logistics",
+    "title": "운송 및 물류",
+    "hero": {
+      "title": "운송 및 물류 디지털 전환 솔루션",
+      "description": "Winterfrost는 화물 흐름 자동화와 운영 비용 정확히 통제하는 데 중점을 둔 심층 운송 관리 시스템 프로그래밍 서비스를 제공합니다. 우리는 기업이 여러 운영 소스의 데이터를 통합하여 공급망 성과를 최적화할 수 있도록 돕는 소프트웨어 아키텍처를 설계합니다.",
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-chuyen-doi-so-van-tai-va-logistics.jpg",
+      "imageAlt": "운송 및 물류 디지털 전환 솔루션",
+      "primaryLabel": "직접 연락",
+      "secondaryLabel": "조언 요청 메시지"
+    },
+    "overview": {
+      "label": "개요",
+      "title": "물류 최적화와 운송 프로세스 디지털화",
+      "paragraphs": [
+        "운송 사업에 가장 큰 도전은 경로의 투명성 부족과 수작업 조정으로 인한 자원 낭비입니다. Winterfrost는 경로 최적화 알고리즘과 실시간 이동 모니터링 메커니즘을 통합한 중앙 교통 관리 시스템을 구축함으로써 이 문제를 해결합니다. 저희 솔루션은 창고, 차량 차량, 디스패처 간 데이터 통일성을 보장하여 유휴 시간을 최소화하고 차량 적재량을 극대화합니다."
+      ],
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Toi-uu-hoa-chuoi-cung-ung-va-so-hoa-quy-trinh-van-tai.jpg",
+      "imageAlt": "공급망을 최적화하고 운송 과정을 디지털화하세요"
+    },
+    "counters": [
+      {
+        "index": "/01",
+        "value": "10+",
+        "label": "수년간의 경험"
+      },
+      {
+        "index": "/02",
+        "value": "250+",
+        "label": "고객"
+      },
+      {
+        "index": "/03",
+        "value": "15+",
+        "label": "서비스를 제공하는 국가"
+      },
+      {
+        "index": "/04",
+        "value": "98%",
+        "label": "고객 만족"
+      }
+    ],
+    "values": {
+      "title": "물류 시스템 도입의 실질적 이점",
+      "intro": "이 시스템은 기업이 선하증권의 전체 수명 주기와 차량 성능을 통제하는 데 도움을 줍니다.",
+      "items": [
+        {
+          "title": "배송 계획 자동화",
+          "description": "배정과 놀이기구 배치를 위해 수작업 작업을 최소화하세요.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "경로 모니터링 정확도",
+          "description": "즉각적인 화물 위치 및 상태 업데이트는 운영 투명성을 높입니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "연료 비용 최적화",
+          "description": "최단 경로 탐색 알고리즘을 사용하고 교통 체증을 피하세요.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "물류 데이터 투명성",
+          "description": "창고 및 배송 정보를 단일 관리 대시보드에서 통합하세요.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "문서 처리 효율성 향상",
+          "description": "선하증권과 인수증권 기록을 디지털화하여 결제 과정을 빠르게 진행하세요.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "상품의 무결성 보장",
+          "description": "내장 센서를 통해 환경 매개변수와 저장 상태를 모니터링할 수 있습니다.",
+          "image": "",
+          "imageAlt": ""
+        }
+      ],
+      "cta": "지금 상담 예약을 하세요!"
+    },
+    "why": {
+      "label": "왜 우리를 선택했을까요?",
+      "title": "기업들이 Winterfrost를 파트너로 선택해야 하는 이유",
+      "items": [
+        {
+          "number": "1",
+          "title": "실시간 데이터 처리 기능",
+          "description": "저지연 시스템을 프로그래밍하여 정보가 항상 최신 상태로 유지되도록 하세요."
+        },
+        {
+          "number": "2",
+          "title": "확장 가능한 시스템 아키텍처",
+          "description": "소스 코드를 리팩토링하지 않고도 차량이나 창고 수를 쉽게 추가할 수 있습니다."
+        },
+        {
+          "number": "3",
+          "title": "유연한 API 통합 기능",
+          "description": "기존 여행 모니터링 장치 및 엔터프라이즈 관리 소프트웨어에 무제한 연결."
+        },
+        {
+          "number": "4",
+          "title": "기업 운영 데이터 보안",
+          "description": "고객 정보와 배송 경로를 보호하기 위해 고급 데이터 암호화 표준을 적용하세요."
+        },
+        {
+          "number": "5",
+          "title": "전문적인 CICD 구현 과정",
+          "description": "시스템이 지속적으로 새로운 기능으로 업데이트되도록 하면서도 운영을 중단하지 않도록 하세요."
+        },
+        {
+          "number": "6",
+          "title": "소스 코드 성능 최적화",
+          "description": "시스템 운영에 필요한 하드웨어 자원을 최소화하면 인프라 비용을 절감할 수 있습니다."
+        }
+      ]
+    },
+    "cta": {
+      "label": "지금 연락하세요!",
+      "title": "스마트 교통 및 물류 인프라 구축",
+      "description": "Winterfrost의 엔지니어링 팀과 연결하여 중앙집중식 운송 조정 시스템을 구축하고 공급망을 최적화하여 기업의 운영 효율성을 높이세요.",
+      "buttonLabel": "시스템 아키텍처 상담 받기",
+      "image": "/images/people/cta/winterfrost/quan-ly-nam.png",
+      "imageAlt": "전문가 컨설턴트"
+    },
+    "cases": null,
+    "services": {
+      "title": "Winterfrost의 물류 핵심 서비스",
+      "intro": "프로그래밍 항목은 공급망의 모든 접점에서 디지털화하는 데 중점을 둡니다.",
+      "items": [
+        {
+          "title": "TMS 교통 관리 시스템 개발",
+          "description": "주문부터 최종 납품까지 전체 과정을 운영하는 핵심 소프트웨어를 구축하세요.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phat-trien-he-thong-quan-ly-van-tai-TMS.jpg",
+          "imageAlt": "TMS 교통 관리 시스템 개발"
+        },
+        {
+          "title": "WMS 창고 관리 시스템 프로그래밍",
+          "description": "바코드나 RFID를 사용하여 상품의 저장, 재고 관리, 수입 및 수출 과정을 디지털화하세요.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Lap-trinh-he-thong-quan-ly-kho-WMS.jpg",
+          "imageAlt": "WMS 창고 관리 시스템 프로그래밍"
+        },
+        {
+          "title": "경로를 최적화하는 솔루션을 구축하세요",
+          "description": "알고리즘 프로그래밍은 여러 변수를 바탕으로 가장 효율적인 배송 옵션을 자동으로 계산합니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Xay-dung-giai-phap-toi-uu-hoa-lo-trinh.jpg",
+          "imageAlt": "경로를 최적화하는 솔루션을 구축하세요"
+        },
+        {
+          "title": "드라이버용 애플리케이션 개발",
+          "description": "모바일 앱 프로그래밍은 운전자가 명령을 받고, 상태를 업데이트하며, 전자적으로 서명할 수 있도록 돕습니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phat-trien-ung-dung-cho-tai-xe.jpg",
+          "imageAlt": "드라이버용 애플리케이션 개발"
+        },
+        {
+          "title": "실시간 추적 및 모니터링 시스템",
+          "description": "디지털 지도와 위성 데이터를 통합하여 24시간 차량 이동을 관리하세요.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/He-thong-theo-doi-va-giam-sat-thoi-gian-thuc.jpg",
+          "imageAlt": "실시간 추적 및 모니터링 시스템"
+        },
+        {
+          "title": "성능 분석 대시보드 프로그래밍",
+          "description": "비용, 수익, 차량 생산성에 대한 지표를 시각화하는 도구를 구축하세요.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Lap-trinh-Dashboard-phan-tich-hieu-suat.jpg",
+          "imageAlt": "성능 분석 대시보드 프로그래밍"
+        }
+      ],
+      "cta": "모든 서비스를 탐색하기"
+    },
+    "process": {
+      "label": "프로젝트 구현 과정?",
+      "items": [
+        {
+          "number": "01",
+          "tag": "설문조사",
+          "title": "물류 인프라 분석 및 기술 요구사항 설정",
+          "description": "엔지니어링 팀은 현재 관리 시스템을 평가하고 크루즈 모니터링 장비 통합과 선하증권의 일일 흐름에 대한 요구사항을 식별합니다. 우리는 새로운 시스템에서 달성해야 할 성과 지표를 수립합니다."
+        },
+        {
+          "number": "02",
+          "tag": "디자인",
+          "title": "건물 시스템 아키텍처 및 데이터 흐름 계획",
+          "description": "창고와 운송 차량을 위한 관계 엔터티 다이어그램을 설정하세요. 우리는 전체 공급망 전반에 걸쳐 데이터 일관성을 보장하기 위해 API 게이트웨이 구조와 경로 최적화 알고리즘을 설계합니다."
+        },
+        {
+          "number": "03",
+          "tag": "프로그래밍",
+          "title": "소스 코드 실행 및 주변 연결",
+          "description": "애자일 모델에 따라 운송 관리 및 창고 관리 모듈의 프로그래밍을 구현합니다. 바코드 스캐너와 크루즈 센서에 연결된 포트가 설치되어 중앙 시스템으로 직접 데이터를 수집합니다."
+        },
+        {
+          "number": "04",
+          "tag": "테스트",
+          "title": "소프트웨어 품질 관리 및 부하 테스트",
+          "description": "창고와 플릿 간 데이터 흐름이 항상 정확한지 보장하는 내장 테스트를 수행합니다. 우리는 출퇴근 시간대에 대량의 선하증권을 처리할 때 시스템이 빠른 대응 시간을 유지할 수 있도록 성능 테스트를 실시합니다."
+        },
+        {
+          "number": "05",
+          "tag": "배포",
+          "title": "클라우드 인프라 설치 및 운영 데이터 변환",
+          "description": "서버 인프라 내 실제 운영 환경을 구축하고, 레거시 시스템에서 데이터를 추출, 변환, 불러오는 과정을 구현합니다. 차량, 고객 및 화물 이력에 관한 모든 정보가 새 플랫폼으로 안전하게 전송됩니다."
+        }
+      ],
+      "cta": "제품 제작을 시작하세요!"
+    },
+    "faq": {
+      "label": "자주 묻는 질문",
+      "title": "모든 질문에 대한 답변",
+      "intro": "물류 시스템 엔지니어링에 관한 자주 묻는 질문",
+      "items": [
+        {
+          "q": "이 시스템이 다양한 종류의 GPS 내비게이션 장치와 호환되나요?",
+          "a": "네, Winterfrost는 API 프로토콜을 통해 유연한 데이터 수집 게이트웨이를 설계하여 시장에 나와 있는 대부분의 여행 모니터링 하드웨어에 직접 연결합니다. 주변 장치에서 나오는 데이터가 표준화되고 중앙 시스템으로 동기화되어 흐르도록 보장합니다."
+        },
+        {
+          "q": "차량이 중복 구역으로 이동할 때 데이터가 사라지지 않도록 어떻게 보장할 수 있을까요?",
+          "a": "우리는 터미널 애플리케이션의 로컬 저장소에 데이터를 저장하는 메커니즘을 채택합니다. 장치가 네트워크 연결을 복구하는 즉시 시스템은 자동 동기화 과정을 수행하여 여행과 화물 상태가 서버에 완전히 업데이트되도록 합니다."
+        },
+        {
+          "q": "이 시스템이 출퇴근 시간대에 수천 장의 선하증권을 동시에 처리할 수 있을까요?",
+          "a": "네, 마이크로서비스 아키텍처와 메시지 큐잉 메커니즘이 결합되어 시스템이 대량의 트랜잭션을 병렬로 처리할 수 있도록 돕습니다. 이로 인해 데이터 혼잡을 방지하고 시스템의 응답 속도가 항상 2초 이내에 안정적으로 유지됩니다."
+        },
+        {
+          "q": "운영 비용과 고객 경로에 관한 정보는 어떻게 확보되나요?",
+          "a": "모든 민감한 데이터는 AES 256 표준에 따라 암호화됩니다. 우리는 자격을 갖춘 직원만이 금융 정보와 고객 데이터에 접근할 수 있도록 역할 기반 접근 시스템을 구축했습니다."
+        },
+        {
+          "q": "시스템을 완성하고 가동하는 데 평균 소요되는 시간은 얼마인가요?",
+          "a": "설문 단계부터 실제 인수인계까지 실행 과정은 보통 12주에서 16주가 소요됩니다. 이 기간에는 맞춤형 프로그래밍, 부하 테스트, 그리고 회사 직원을 위한 기술 교육이 포함됩니다."
+        },
+        {
+          "q": "시스템이 통행료와 연료 할증료를 자동으로 계산하는 기능을 지원하나요?",
+          "a": "네, 저희는 실제 출장 경로와 사업의 표준 수수료 일정을 기반으로 자동 계산 엔진을 프로그래밍합니다. 이 기능은 비용 보고의 편향을 제거하고 회계 부서가 현금 흐름을 보다 정확하게 통제하는 데 도움을 줍니다."
+        }
+      ]
+    }
+  },
+  "y-te": {
+    "slug": "y-te",
+    "title": "의료",
+    "hero": {
+      "title": "의료 및 헬스케어 소프트웨어 개발",
+      "description": "Winterfrost는 미국, 유럽, 캐나다, 호주, 싱가포르, 일본 등 까다로운 시장에서 서비스 제공자, 지불자, 디지털 헬스 팀을 위한 맞춤형 의료 애플리케이션 개발을 전문으로 하는 회사입니다.  저희는 파트너가 배포 위험을 최소화하고, 개발 비용을 최적화하며, 가장 엄격한 건강 보안 기준을 준수하도록 돕습니다.",
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phat-trien-phan-mem-y-te-va-cham-soc-suc-khoe.jpg",
+      "imageAlt": "의료 및 헬스케어 소프트웨어 개발",
+      "primaryLabel": "직접 연락",
+      "secondaryLabel": "조언 요청 메시지"
+    },
+    "overview": {
+      "label": "개요",
+      "title": "보건 부문의 전반적인 상황",
+      "paragraphs": [
+        "의료 기관은 종종 막대한 기술 개발 비용과 복잡한 구현 프로세스에 직면하여 운영 위험으로 이어질 수 있습니다. 분산된 환자 데이터 관리, 연결 부족, 국제 보안 기준에 대한 장벽 등으로 인해 디지털화가 어렵습니다. 또한, 진단과 치료에 AI를 적용하는 것은 여전히 많은 전통 의료 기업들에게 큰 도전 과제입니다.",
+        "Winterfrost는 AI와 머신러닝을 의료 인프라에 통합하는 데 중점을 둔 고도로 전문화된 소프트웨어 엔지니어 팀을 제공합니다. 저희 솔루션은 국제 파트너들이 의료 기록 관리부터 심층 데이터 분석 도구까지 스마트 헬스 시스템을 구축할 수 있도록 돕습니다. 우리는 기술 위험을 최소화하고 투자 비용을 최적화하는 데 집중하며, 글로벌 보건 데이터 보안 기준을 절대적으로 준수합니다."
+      ],
+      "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Tinh-hinh-chung-ve-linh-vuc-y-te.jpg",
+      "imageAlt": "보건 부문의 일반 상황"
+    },
+    "counters": [
+      {
+        "index": "/01",
+        "value": "10+",
+        "label": "수년간의 경험"
+      },
+      {
+        "index": "/02",
+        "value": "250+",
+        "label": "고객"
+      },
+      {
+        "index": "/03",
+        "value": "15+",
+        "label": "서비스를 제공하는 국가"
+      },
+      {
+        "index": "/04",
+        "value": "98%",
+        "label": "고객 만족"
+      }
+    ],
+    "values": {
+      "title": "디지털 헬스 솔루션의 가치",
+      "intro": "AI 기술과 현대 관리 시스템의 적용은 의료 기관이 치료 효율성을 최적화하고, 절대적인 데이터 보안과 전 세계 운영 위험을 최소화하는 데 도움을 줍니다.",
+      "items": [
+        {
+          "title": "진단 정확도 향상",
+          "description": "AI와 머신러닝 알고리즘의 적용은 의료 데이터를 신속하게 분석하여 의사들이 정확한 치료 계획을 제공하고 의료 오류를 최소화하는 데 도움을 줍니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "중앙 집중식 환자 기록 관리",
+          "description": "디지털화된 시스템은 의료 기록을 즉시 저장하고 조회하여 의료 시스템 전반에 걸쳐 일관성을 보장합니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "운영 프로세스 최적화",
+          "description": "행정 업무를 자동화하고, 예약을 잡으며, 의약품 재고를 관리할 수 있도록 하여 의료진이 전문성과 환자 치료에 집중할 수 있도록 합니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "의료 접근성 확대",
+          "description": "원격진료 플랫폼은 지리적 장벽을 제거하여 환자들이 집에서 편안하게 고품질 상담과 치료를 받을 수 있도록 돕습니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "건강 정보 보안 강화",
+          "description": "고급 암호화 프로토콜을 사용하여 환자의 개인 및 의료 정보를 보호하며, 엄격한 산업 보안 기준을 충족합니다.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "title": "돌봄 비용 절감",
+          "description": "과정을 최적화하고 중복 검사를 최소화하면 제공자와 환자 모두에게 비용을 절감할 수 있습니다.",
+          "image": "",
+          "imageAlt": ""
+        }
+      ],
+      "cta": "지금 상담 예약을 하세요!"
+    },
+    "why": {
+      "label": "왜 우리를 선택했을까요?",
+      "title": "왜 Winterfrost에서 의료 소프트웨어 개발을 선택했나요?",
+      "items": [
+        {
+          "number": "1",
+          "title": "AI 및 머신러닝 전문가",
+          "description": "Winterfrost의 엔지니어 팀은 인공지능을 현대 디지털 헬스 솔루션에 통합하는 데 있어 심층적인 역량을 갖추고 있습니다."
+        },
+        {
+          "number": "2",
+          "title": "국제 시장 경험",
+          "description": "미국, 유럽, 싱가포르, 일본 등 주요 시장과 15개국 이상의 주요 시장에서 작업 과정과 기준에 대해 잘 알고 있으며, 제품이 글로벌 품질에 부합하도록 보장합니다."
+        },
+        {
+          "number": "3",
+          "title": "개발 비용 최적화",
+          "description": "베트남의 기술 자원을 활용해 파트너에게 가장 경쟁력 있는 비용으로 고품질 서비스를 제공하세요."
+        },
+        {
+          "number": "4",
+          "title": "보안 기준 준수",
+          "description": "민감한 의료 데이터를 보호하는 데 있어 HIPAA와 GDPR과 같은 국제 기준을 충족하는 시스템 구축에 전념하고 있습니다."
+        },
+        {
+          "number": "5",
+          "title": "배포 위험을 최소화하기",
+          "description": "체계적인 기술 프로세스와 실무 경험은 Winterfrost가 개발 과정에서 발생하는 문제를 예측하고 신속하게 처리하는 데 도움을 줍니다."
+        },
+        {
+          "number": "6",
+          "title": "완전 소유권 이양",
+          "description": "Winterfrost는 전체 소스 코드와 기술 문서를 제공하여 파트너가 시스템 운영 및 업그레이드에 적극적으로 참여할 수 있도록 합니다."
+        }
+      ]
+    },
+    "cta": {
+      "label": "지금 연락하세요!",
+      "title": "의료 인프라의 디지털화 및 스마트 병원 관리",
+      "description": "Winterfrost의 엔지니어링 팀과 협력하여 중앙집중식 병원 관리 시스템을 구축하고 의료 검사 및 치료 과정을 자동화하여 의료 시설의 운영 효율성을 향상시키세요.",
+      "buttonLabel": "디지털 헬스 솔루션에 대한 상담을 받아보세요",
+      "image": "/images/people/cta/winterfrost/nhan-vien-cong-nghe-tre.png",
+      "imageAlt": "전문가 컨설턴트"
+    },
+    "cases": {
+      "title": "Case Studies",
+      "links": [
+        {
+          "href": "https://winterfrost.tech/case-studies/website-edunora",
+          "text": "보건\n웹사이트 디자인\n웹사이트 에두노라\n프로젝트 보기"
+        },
+        {
+          "href": "https://winterfrost.tech/case-studies/aeromint-cleanroom",
+          "text": "소매\n보건\n웹사이트 디자인\n에어로민트 클린룸\n프로젝트 보기"
+        },
+        {
+          "href": "https://winterfrost.tech/case-studies/website-dentavera",
+          "text": "소매\n보건\n웹사이트 디자인\n덴타베라 웹사이트\n프로젝트 보기"
+        }
+      ],
+      "images": [
+        {
+          "alt": "에어로민트 클린룸 인터페이스 – 사례 연구",
+          "src": "/images/projects/aeromint-cleanroom/01-anh-bia-du-an.webp?v=wf-projects-pro-20260726"
+        },
+        {
+          "alt": "싱가포르 인터페이스 – 사례 연구",
+          "src": "/images/projects/website-dentavera/01-anh-bia-du-an.webp?v=wf-projects-pro-20260726"
+        }
+      ]
+    },
+    "services": {
+      "title": "글로벌 표준 의료 기술 솔루션",
+      "intro": "저희는 전자 의료 기록부터 지능형 데이터 분석에 이르기까지 전문 의료 소프트웨어 서비스를 활용하여 미국, 유럽, 아시아의 의료 기관이 치료 효율성을 높이고 운영 비용을 최소화할 수 있도록 지원합니다.",
+      "items": [
+        {
+          "title": "병원 관리 소프트웨어 개발",
+          "description": "환자 관리, 예약 일정, 전자 의료 기록 및 의료 지급에 이르기까지 전반적인 관리 시스템을 구축하세요.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phat-trien-phan-mem-quan-ly-benh-vien.jpg",
+          "imageAlt": "병원 관리 소프트웨어 개발"
+        },
+        {
+          "title": "원격의료 솔루션",
+          "description": "의사와 환자를 영상 통화, 채팅, 실시간 온라인 건강 모니터링을 통해 연결할 수 있는 플랫폼을 개발하세요.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-y-te-tu-xa.jpg",
+          "imageAlt": "원격의료 솔루션"
+        },
+        {
+          "title": "의료 분석에 AI 통합",
+          "description": "인공지능을 활용해 진단 영상, 검사 지표 분석, 질병 추세 예측을 지원하는 도구를 구축합니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Tich-hop-AI-trong-phan-tich-du-lieu-y-khoa.jpg",
+          "imageAlt": "의료 데이터 분석에 AI 통합"
+        },
+        {
+          "title": "개인 건강관리 앱",
+          "description": "영양, 운동, 주기적인 약물 알림 모니터링을 지원하는 모바일 애플리케이션 프로그래밍.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Ung-dung-cham-soc-suc-khoe-ca-nhan.jpg",
+          "imageAlt": "개인 건강관리 앱"
+        },
+        {
+          "title": "건강 보험 데이터 시스템",
+          "description": "지급자가 청구를 관리하고, 위험을 분석하며, 결제 프로세스를 최적화할 수 있도록 돕는 도구를 개발합니다.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/He-thong-phan-tich-du-lieu-bao-hiem-y-te.jpg",
+          "imageAlt": "건강보험 데이터 분석 시스템"
+        },
+        {
+          "title": "의료 IoT와 웨어러블 통합",
+          "description": "소프트웨어를 심박수, 혈압 등 측정 지표와 연결하세요. 지속적이고 정확한 건강 데이터를 수집하는 것.",
+          "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Tich-hop-thiet-bi-deo-va-IoT-y-te.jpg",
+          "imageAlt": "의료 IoT와 웨어러블 통합"
+        }
+      ],
+      "cta": "모든 서비스를 탐색하기"
+    },
+    "process": {
+      "label": "프로젝트 구현 과정?",
+      "items": [
+        {
+          "number": "01",
+          "tag": "설문조사",
+          "title": "자신의 필요를 이해하세요",
+          "description": "저희는 귀하의 병원 운영이나 의료 애플리케이션의 운영을 면밀히 검토합니다. 동시에 Winterfrost는 미국 HIPAA나 유럽 GDPR과 같은 필수 보안 기준을 정의하여 시스템이 처음부터 합법적이고 안전하도록 보장합니다."
+        },
+        {
+          "number": "02",
+          "tag": "구조물 건설",
+          "title": "보안 데이터 스키마 설계",
+          "description": "우리는 의사들이 환자 정보를 가장 편리하게 전달할 수 있는 방식을 설계했지만, 여전히 여러 층의 암호화로 잠겨 있습니다. 인터페이스는 의료진이 신속하게 작업할 수 있도록 최적화되어 있어 데이터 입력 과정의 오류를 최소화합니다."
+        },
+        {
+          "number": "03",
+          "tag": "개발",
+          "title": "인공지능 프로그래밍 및 통합",
+          "description": "엔지니어링 팀은 소스 코드를 작성하고 진단 영상이나 건강 데이터 분석을 지원하는 AI 기능을 설치합니다. 우리는 소프트웨어를 의료 측정 기기에 연결하여 데이터가 항상 지속적이고 정확하게 업데이트되도록 합니다."
+        },
+        {
+          "number": "04",
+          "tag": "시험",
+          "title": "안전성 및 정확성 시험",
+          "description": "시스템은 기능 오류가 없고 정보가 유출되지 않도록 여러 차례 테스트를 거칩니다. 우리는 AI 알고리즘이 공식적으로 사용되기 전에 엄격한 감독 하에 정확도를 테스트합니다."
+        },
+        {
+          "number": "05",
+          "tag": "작동",
+          "title": "시스템 설치 및 사용자 매뉴얼",
+          "description": "Winterfrost는 서버와 모바일 기기에 소프트웨어 설치를 지원합니다. 우리는 의사와 의료진에게 관리 도구를 사용하는 방법을 직접 교육하고 지도하여 모두가 새로운 시스템을 숙달할 수 있도록 합니다."
+        },
+        {
+          "number": "06",
+          "tag": "동반자",
+          "title": "기술 지원 및 정기적인 업그레이드",
+          "description": ""
+        }
+      ],
+      "cta": "제품 제작을 시작하세요!"
+    },
+    "faq": {
+      "label": "자주 묻는 질문",
+      "title": "모든 질문에 대한 답변",
+      "intro": "업계별 소프트웨어 개발 서비스에 관한 흔한 질문에 대한 답변을 찾아보세요.",
+      "items": [
+        {
+          "q": "Winterfrost의 소프트웨어가 국제 의료 보안 기준을 충족하나요?",
+          "a": "네. 우리는 HIPAA(미국), GDPR(유럽), 그리고 현지 건강 데이터 보호 규정과 같은 표준을 엄격히 준수하는 시스템을 설계합니다. 모든 환자 정보는 다층, 암호화, 엄격히 통제된 접근을 통해 절대적인 프라이버시를 보장합니다."
+        },
+        {
+          "q": "AI 인공지능이 의료 분야에 실제로 어떤 이점을 가져다주는가?",
+          "a": "AI는 진단 이미지 분석, 과거 데이터를 바탕으로 한 질병 위험 예측, 복잡한 의료 보고서 자동화를 지원합니다. 이로 인해 의사들은 더 빠르고 정확한 결정을 내리고 의료진의 행정 업무량이 줄어듭니다."
+        },
+        {
+          "q": "국제 의료 프로젝트를 위해 Winterfrost의 엔지니어링 팀과 협력하는 장점은 무엇인가요?",
+          "a": "파트너들은 미국이나 유럽 시장보다 훨씬 더 최적화된 개발 비용으로 AI/ML 분야의 고품질의 심층 기술 인력을 확보할 수 있습니다. Winterfrost는 글로벌 표준 제품 품질과 워크플로우를 유지하는 데 전념하고 있습니다."
+        },
+        {
+          "q": "이 시스템이 기존 의료 측정 기기와 연결할 수 있나요?",
+          "a": "물론입니다. 우리는 심박수, 혈압, 혈당 등 스마트 웨어러블과 의료 IoT 기기를 보안 연결 프로토콜을 통해 소프트웨어를 통합하여 실시간 건강 데이터를 수집 및 분석한 경험이 있습니다."
+        },
+        {
+          "q": "기업이 핸드오버 후 전체 소스 코드를 소유할 권리가 있나요?",
+          "a": "네. Winterfrost는 프로젝트 완료 후 소스 코드와 기술 문서를 100% 넘기는 것을 약속하고 있습니다. 기업은 기술 제공자에 얽매이지 않고 시스템을 완전히 소유하고 능동적으로 업그레이드 및 확장할 수 있습니다."
+        },
+        {
+          "q": "Winterfrost는 시스템 유지보수와 업데이트를 어떻게 지원하나요?",
+          "a": "정기 점검, 24시간 시스템 성능 모니터링, 신속한 기술 처리 지원을 제공합니다. 또한 Winterfrost는 보안 패치를 지속적으로 업데이트하고 AI 알고리즘을 개선하여 소프트웨어가 항상 올바르고 안전하게 작동하도록 할 것입니다."
+        }
+      ]
+    }
+  }
+}

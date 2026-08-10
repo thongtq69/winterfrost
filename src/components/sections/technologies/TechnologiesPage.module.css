@@ -1,0 +1,438 @@
+.heroTitle {
+  font-size: 40px;
+  font-weight: 500;
+}
+
+.heroTitleSub {
+  font-size: 40px;
+  font-weight: 500;
+}
+
+.aboutSection {
+  min-height: 831px;
+}
+
+.aboutTitle {
+  width: 100%;
+  height: auto;
+  max-width: none;
+  margin: 3.4px 0 0;
+  color: #1a2e6e;
+  font-size: 45px;
+  font-weight: 600;
+  line-height: 1.2;
+}
+
+.techSection {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  padding: 80px 40px;
+  background: #fff;
+}
+
+.techSectionMuted {
+  background: #f6f6f4;
+}
+
+.techContainer {
+  width: 100%;
+  max-width: 1200px;
+}
+
+.techGroup {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  gap: 28px;
+}
+
+.techHeading {
+  margin: 0;
+  color: #1a3b91;
+  font-family: Winterfrost, var(--font-Winterfrost), var(--font-manrope), sans-serif;
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 1.2;
+}
+
+.logoGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 120px);
+  gap: 10px;
+}
+
+.logoLink,
+.logoStatic {
+  display: block;
+  width: 120px;
+  color: inherit;
+  text-decoration: none;
+}
+
+.logoCard {
+  display: flex;
+  width: 120px;
+  height: 80px;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  border: 1px solid rgba(22, 106, 217, 0.55);
+  border-radius: 8px;
+  background: #fff;
+  transition: border-color 0.22s, box-shadow 0.22s, transform 0.22s;
+}
+
+.logoCardMuted {
+  border-color: rgba(22, 106, 217, 0.15);
+  background: #f6f6f4;
+}
+
+.logoCard img {
+  display: block;
+  width: auto;
+  max-width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.logoLink:hover .logoCard,
+.logoLink:focus-visible .logoCard {
+  border-color: rgba(22, 106, 217, 0.8);
+  box-shadow: 0 4px 16px rgba(22, 106, 217, 0.1);
+  transform: translateY(-2px);
+}
+
+.solutionsSection {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding: 100px 20px;
+  background: url("/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Main-background-page-HomeNest-Viet-Nam.jpg") center / cover no-repeat;
+}
+
+.solutionsGlow {
+  position: absolute;
+  top: 10%;
+  left: 50%;
+  width: 780px;
+  height: 780px;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(208, 208, 255, 0.45), transparent 68%);
+  transform: translateX(-50%);
+  pointer-events: none;
+}
+
+.solutionsContainer {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.solutionsHeader {
+  display: contents;
+  text-align: center;
+}
+
+.pillLabel {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  height: 25px;
+  color: #1a3b91;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.pillLabel > span {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: rgba(22, 106, 217, 0.55);
+}
+
+.sectionTitle {
+  margin: 0 0 60px;
+  font-family: Winterfrost, var(--font-Winterfrost), var(--font-manrope), sans-serif;
+  font-size: 40px;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  line-height: 1.2;
+}
+
+.sectionTitle span,
+.sectionTitle strong {
+  display: inline;
+  font: inherit;
+}
+
+.sectionTitle span {
+  color: rgba(22, 106, 217, 0.55);
+}
+
+.sectionTitle strong {
+  color: #0c1e5b;
+}
+
+.solutionsGrid {
+  display: grid;
+  width: 100%;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 24px;
+}
+
+.solutionReveal {
+  height: 100%;
+}
+
+.solutionLink {
+  display: block;
+  height: 373px;
+  color: inherit;
+  text-decoration: none;
+}
+
+.solutionCard {
+  position: relative;
+  display: flex;
+  overflow: hidden;
+  height: 100%;
+  flex-direction: column;
+  gap: 12px;
+  padding: 32px 24px;
+  border: 1px solid #fff;
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.8);
+  color: inherit;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.04);
+  backdrop-filter: blur(5px);
+  transition: transform 0.35s ease, box-shadow 0.35s ease;
+}
+
+.solutionLink:hover .solutionCard,
+.solutionLink:focus-visible .solutionCard {
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.08);
+  transform: translateY(-5px);
+}
+
+.solutionCard h3 {
+  margin: 0;
+  color: #0c1e5b;
+  font-size: 22px;
+  font-weight: 500;
+  line-height: 1.35;
+  text-align: center;
+}
+
+.solutionImage {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  height: 220px;
+  min-height: 220px;
+  flex: 1;
+  margin-top: 16px;
+}
+
+.solutionImage img {
+  position: absolute;
+  inset: 0;
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  object-position: center;
+  transition: opacity 0.35s ease, transform 0.35s ease;
+}
+
+.solutionDescWrapper {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transform: translateY(12px);
+  transition: opacity 0.35s ease, transform 0.35s ease;
+}
+
+.solutionDescWrapper p {
+  margin: 0;
+  color: rgba(12, 30, 91, 0.7);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+.solutionLink:hover .solutionImage img,
+.solutionLink:focus-visible .solutionImage img {
+  opacity: 0;
+  transform: scale(0.98);
+}
+
+.solutionLink:hover .solutionDescWrapper,
+.solutionLink:focus-visible .solutionDescWrapper {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.solutionDetail {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  color: rgba(22, 106, 217, 0.55);
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.4;
+}
+
+.solutionDetail span {
+  transition: transform 0.25s;
+}
+
+.solutionLink:hover .solutionDetail span {
+  transform: translateX(4px);
+}
+
+.solutionsCta {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: max-content;
+  margin: 100px auto 0;
+  padding: 12px 16px;
+  border: 1px solid #fff;
+  border-radius: 999px;
+  background: linear-gradient(121deg, #021b7b 0%, #1670de 29%, #193493 100%);
+  color: #fff;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 20px;
+  text-decoration: none;
+  box-shadow: inset 0 2px 4px rgba(255, 255, 255, 0.4), 0 10px 24px rgba(22, 106, 217, 0.22);
+  transition: opacity 0.2s, transform 0.2s;
+}
+
+.solutionsCta:hover {
+  opacity: 0.92;
+  transform: translateY(-2px);
+}
+
+.benefitsSection {
+  padding-top: 50px;
+}
+
+.wikiSection {
+  background: #fff;
+}
+
+@media (max-width: 1200px) {
+  .techSection {
+    padding: 72px 32px;
+  }
+
+  .techHeading {
+    font-size: 36px;
+  }
+}
+
+@media (max-width: 900px) {
+  .heroTitle,
+  .heroTitleSub {
+    font-size: 36px;
+  }
+
+  .solutionsGrid {
+    grid-template-columns: 1fr;
+  }
+
+  .solutionLink { height: 373px; }
+}
+
+@media (max-width: 768px) {
+  .heroTitle,
+  .heroTitleSub {
+    font-size: 32px;
+    white-space: normal;
+  }
+
+  .aboutTitle {
+    height: auto;
+    font-size: 28px;
+  }
+
+  .aboutSection {
+    min-height: 0;
+  }
+
+  .techSection {
+    padding: 56px 20px;
+  }
+
+  .techHeading,
+  .sectionTitle {
+    font-size: 30px;
+  }
+
+  .logoGrid {
+    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+  }
+
+  .logoLink,
+  .logoStatic,
+  .logoCard {
+    width: 100%;
+  }
+
+  .solutionsSection {
+    padding: 72px 20px;
+  }
+
+  .solutionLink {
+    height: auto;
+  }
+
+  .solutionCard {
+    min-height: 0;
+    padding: 24px 18px;
+  }
+
+  .solutionImage {
+    min-height: 240px;
+  }
+}
+
+@media (max-width: 520px) {
+  .heroTitle,
+  .heroTitleSub {
+    font-size: 30px;
+  }
+
+  .techHeading,
+  .sectionTitle {
+    font-size: 27px;
+  }
+
+  .logoGrid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .solutionImage {
+    min-height: 205px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .logoCard,
+  .solutionCard,
+  .solutionImage img,
+  .solutionDescWrapper,
+  .solutionDetail span,
+  .solutionsCta {
+    transition: none;
+  }
+}

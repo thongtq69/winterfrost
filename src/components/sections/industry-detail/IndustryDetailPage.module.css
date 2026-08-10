@@ -1,0 +1,516 @@
+.hero {
+  min-height: 86vh;
+}
+
+.heroButton {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 16px;
+}
+
+.heroButton svg {
+  width: 18px;
+  height: 18px;
+}
+
+.overview {
+  padding-bottom: 24px;
+}
+
+.overviewTextMerged {
+  gap: 0;
+}
+
+.sectionLabel {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 0;
+  color: #1a2e6e;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 22.59375px;
+}
+
+.sectionLabel > span {
+  width: 18px;
+  height: 18px;
+  flex: none;
+  background: currentColor;
+  clip-path: polygon(50% 0, 58% 42%, 100% 50%, 58% 58%, 50% 100%, 42% 58%, 0 50%, 42% 42%);
+}
+
+.overviewTitle {
+  width: auto;
+  height: 57.5px;
+  max-width: 100%;
+  margin: 0;
+  line-height: 57.5px;
+}
+
+.overviewTitleLight {
+  color: #1a2e6e;
+}
+
+.overviewTitleDark {
+  color: #166ad9;
+}
+
+.solutionGrid {
+  grid-auto-rows: auto;
+}
+
+.solutionCard {
+  height: 100%;
+  border: 0;
+}
+
+.solutionCard p {
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.solutionDescriptionCompact {
+  width: 100%;
+  max-width: none;
+  line-height: 1.6;
+  letter-spacing: normal;
+}
+
+.solutionCard > span {
+  box-sizing: border-box;
+  width: 48px;
+  height: 48px;
+}
+
+.arcSection {
+  position: relative;
+  z-index: 4;
+  width: 100%;
+  height: 0;
+  overflow: visible;
+}
+
+.arcWrapper {
+  position: absolute;
+  top: -68px;
+  left: 50%;
+  width: 280px;
+  height: 136px;
+  transform: translateX(-50%);
+  pointer-events: none;
+}
+
+.arcInner {
+  position: relative;
+  display: flex;
+  width: 280px;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+}
+
+.arcSvg {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  display: block;
+  width: 280px;
+  height: auto;
+  overflow: visible;
+  transform: translate(-50%, -50%);
+  fill: #0d1321;
+  font-family: var(--font-manrope), sans-serif;
+  font-size: 90px;
+  letter-spacing: -2px;
+}
+
+.counterLabel {
+  height: 21.59375px;
+  line-height: 21.59375px;
+}
+
+.whyTitleTail {
+  font-size: 56px;
+  line-height: 1.2;
+}
+
+.whyTitle {
+  width: max-content;
+  max-width: 960px;
+}
+
+.whyHeader {
+  padding-bottom: 0;
+}
+
+.whyLabel {
+  line-height: 1.6;
+}
+
+.whyCardDesc {
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+.inlineCta {
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 1600px;
+  margin: 0 auto;
+  padding: 60px 40px;
+  background: #eef0f6;
+}
+
+.inlineCtaCard {
+  position: relative;
+  display: flex;
+  width: 100%;
+  min-height: 343.1875px;
+  flex-flow: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 40px;
+  overflow: visible;
+  border: 1px solid rgba(255, 255, 255, 0.35);
+  border-radius: 24px;
+  padding: 40px 340px 40px 56px;
+  background: linear-gradient(121deg, #021b7b 0%, #1670de 29%, #193493 100%);
+  box-shadow:
+    inset 0 2px 4px rgba(255, 255, 255, 0.4),
+    0 0 0 1px #1842a3,
+    0 25px 25px -15px rgba(86, 125, 176, 0.25);
+}
+
+.inlineCtaContent {
+  position: relative;
+  z-index: 2;
+  display: flex;
+  min-width: 0;
+  flex: 1 0 0;
+  flex-flow: column;
+  align-items: flex-start;
+  gap: 40px;
+}
+
+.inlineCtaHeader {
+  display: flex;
+  width: 100%;
+  flex-flow: column;
+  align-items: flex-start;
+  gap: 24px;
+}
+
+.inlineCtaBadge {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  border-radius: 99px;
+  padding: 6px 14px 6px 10px;
+  background: rgba(255, 255, 255, 0.2);
+  color: #fff;
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 18px;
+  white-space: nowrap;
+}
+
+.inlineCtaBadge > span {
+  width: 8px;
+  height: 8px;
+  flex-shrink: 0;
+  border-radius: 50%;
+  background: #fff;
+}
+
+.inlineCtaHeader h2 {
+  width: 100%;
+  margin: 0;
+  color: #fff;
+  font-size: 32px;
+  font-weight: 500;
+  line-height: 1.3;
+}
+
+.inlineCtaHeader p {
+  margin: 0;
+  color: rgba(255, 255, 255, 0.85);
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.6;
+}
+
+.inlineCtaButton {
+  display: inline-flex;
+  align-items: center;
+  border-radius: 24px;
+  padding: 0.75em 1.33em;
+  background: #fff;
+  box-shadow: inset 0 2px 4px rgba(255, 255, 255, 0.4), 0 9px 25px -4px rgba(213, 234, 240, 0.25);
+  color: #1a3b91;
+  font-family: var(--font-Winterfrost), sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 20px;
+  white-space: nowrap;
+  transition: opacity 0.2s, transform 0.2s;
+}
+
+.inlineCtaButton:hover {
+  opacity: 0.88;
+  transform: translateY(-1px);
+}
+
+.inlineCtaImage {
+  position: absolute;
+  z-index: 2;
+  right: 40px;
+  bottom: 0;
+  display: flex;
+  width: 270px;
+  align-items: flex-end;
+  justify-content: center;
+  pointer-events: none;
+}
+
+.inlineCtaImage img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: 330px;
+  border-radius: 0;
+  object-fit: contain;
+  object-position: bottom center;
+}
+
+.cases {
+  background: transparent;
+}
+
+.caseFooter {
+  min-height: 61.3984375px;
+}
+
+.services {
+  width: 100%;
+  padding: 80px 20px;
+  background: #fcfcff;
+  text-align: center;
+}
+
+.servicesInner {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.servicesHeader {
+  margin-bottom: 50px;
+}
+
+.servicesHeader h2 {
+  margin: 0 0 16px;
+  color: #1a2e6e;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.servicesHeader p {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  color: #6b5fa0;
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+.serviceGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-auto-rows: auto;
+  gap: 24px;
+  width: 100%;
+  margin-bottom: 50px;
+}
+
+.serviceCard {
+  height: 100%;
+  overflow: hidden;
+  border-radius: 16px;
+  padding: 20px;
+  background: #fff;
+  text-align: left;
+}
+
+.serviceImage {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  background: #f8f9fc;
+}
+
+.serviceImage img {
+  object-fit: cover;
+  transition: transform 0.5s ease;
+}
+
+.serviceCard:hover .serviceImage img {
+  transform: scale(1.04);
+}
+
+.serviceCard h3 {
+  min-height: 44px;
+  margin: 0 0 10px;
+  color: #1a2e6e;
+  font-size: 19.2px;
+  font-weight: 600;
+  line-height: 22px;
+}
+
+.serviceGridEqualRows {
+  grid-template-rows: repeat(2, 1fr);
+}
+
+.serviceCard p {
+  margin: 0;
+  color: #4a5062;
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+.servicesCta {
+  display: flex;
+  width: 100%;
+  height: 86px;
+  align-items: flex-end;
+  justify-content: center;
+}
+
+.processContent {
+  gap: 44px;
+}
+
+.processRow {
+  height: auto !important;
+}
+
+.processHeading {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.processBadge > span {
+  line-height: 22.3984375px;
+}
+
+.processDesc {
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+@media (max-width: 1024px) {
+  .hero {
+    min-height: auto;
+  }
+
+  .solutionGrid {
+    grid-template-rows: none;
+  }
+
+  .inlineCtaCard {
+    padding: 36px 260px 36px 40px;
+  }
+
+  .inlineCtaImage {
+    right: 24px;
+    width: 200px;
+  }
+
+  .inlineCtaImage img {
+    max-height: 260px;
+  }
+
+  .serviceGrid {
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: none;
+    height: auto;
+  }
+}
+
+@media (max-width: 768px) {
+  .sectionLabel {
+    font-size: 15px;
+  }
+
+  .overviewTitle {
+    height: auto;
+    font-size: 28px;
+    line-height: 1.25;
+  }
+
+  .whyTitle {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .whyTitleTail {
+    font-size: inherit;
+    line-height: inherit;
+  }
+
+  .inlineCta {
+    padding: 32px 20px;
+  }
+
+  .inlineCtaCard {
+    min-height: 0;
+    flex-direction: column;
+    gap: 28px;
+    padding: 32px 28px 0;
+  }
+
+  .inlineCtaHeader h2 {
+    font-size: 22px;
+  }
+
+  .inlineCtaHeader p {
+    font-size: 16px;
+  }
+
+  .inlineCtaImage {
+    position: relative;
+    right: 0;
+  }
+
+  .services {
+    padding: 60px 20px;
+  }
+
+  .servicesHeader h2 {
+    font-size: 32px;
+  }
+
+  .serviceGrid {
+    grid-template-columns: 1fr;
+  }
+
+  .serviceCard {
+    height: auto;
+  }
+}
+
+@media (max-width: 576px) {
+  .sectionLabel {
+    font-size: 14px;
+  }
+
+  .inlineCtaCard {
+    padding-inline: 22px;
+  }
+}

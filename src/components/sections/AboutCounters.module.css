@@ -1,0 +1,30 @@
+.section { width: 100vw; height: 748px; padding: 100px 0; background: #fff; }
+.container { display: flex; width: 100vw; justify-content: center; padding: 0 40px; }
+.content { display: flex; width: 100%; max-width: 1400px; height: 548px; justify-content: space-between; gap: 80px; }
+.titleSide { display: flex; width: 600px; max-width: 600px; flex-direction: column; align-items: flex-start; }
+.label { display: inline-flex; align-items: center; gap: 12px; color: #05080c; }
+.label span { display: flex; width: 16px; height: 16px; align-items: center; justify-content: center; font-size: 18px; }
+.label span::before { content: "✦"; }
+.label h2 { margin: 0; font-size: 16px; font-weight: 500; line-height: 1.2; }
+.heading { width: 600px; height: 139.5px; margin: 20px 0 30px; color: #121528; font-family: var(--font-Winterfrost), sans-serif; font-size: 60px; font-weight: 400; line-height: 1; }
+.heading em { font-family: var(--font-script), cursive; font-weight: 400; }
+.heading span { white-space: nowrap; }
+.listSide { display: flex; width: 700px; height: 548px; flex-direction: column; }
+.row { display: flex; width: 700px; height: 142px; align-items: center; padding: 20px 0; border-bottom: 1px solid #dadadb; }
+.row:first-child { height: 122px; padding-top: 0; }
+.numberBox { display: flex; width: 220px; height: 101px; align-items: baseline; font-family: var(--font-Winterfrost), sans-serif; }
+.numberBox strong { color: #000; font-size: 84px; font-weight: 400; line-height: normal; }
+.numberBox span { color: #000; font-family: var(--font-script), cursive; font-size: 42px; font-weight: 400; line-height: normal; }
+.descBox { display: flex; width: 480px; align-items: center; }
+.descBox p { margin: 0; color: #5b5b5b; font-size: 18px; font-weight: 400; line-height: 1.5; }
+
+@media (max-width: 800px) {
+  .section { width: 100%; height: auto; padding: 60px 0; }
+  .container { width: 100%; padding: 0 20px; }
+  .content { height: auto; flex-direction: column; }
+  .titleSide, .heading, .listSide, .row { width: 100%; max-width: none; }
+  .heading { height: auto; font-size: 42px; }
+  .numberBox { width: 36%; }
+  .descBox { width: 64%; }
+  .numberBox strong { font-size: 58px; }
+}

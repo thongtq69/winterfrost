@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="256" viewBox="0 0 1000 256">
+    <defs>
+      <linearGradient id="wordmarkGradient" x1="20" y1="20" x2="236" y2="236" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#C6383D"/>
+        <stop offset="1" stop-color="#13294B"/>
+      </linearGradient>
+    </defs>
+    <g>
+    <defs>
+      <linearGradient id="wordmarkGradient" x1="20" y1="20" x2="236" y2="236" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#C6383D"/>
+        <stop offset="1" stop-color="#13294B"/>
+      </linearGradient>
+    </defs>
+
+    <path d="M34 207V50l60 72 34-43 34 43 60-72v157h-41v-87l-53 63-53-63v87H34Z" fill="url(#wordmarkGradient)"/>
+    <path d="M128 80v103" stroke="#fff" stroke-width="9" stroke-dasharray="17 15" stroke-linecap="round" opacity=".9"/>
+
+  </g>
+    <text x="294" y="148" fill="#C6383D" font-family="Manrope, Arial, Helvetica, sans-serif" font-size="76" font-weight="800" letter-spacing="-2">Motoria Link</text>
+    <text x="299" y="192" fill="#667085" font-family="Manrope, Arial, Helvetica, sans-serif" font-size="23" font-weight="650" letter-spacing="3.2">DIGITAL EXPERIENCE</text>
+  </svg>

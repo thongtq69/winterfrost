@@ -1,0 +1,507 @@
+{
+  "slug": "thiet-ke-website",
+  "metaTitle": "Dịch vụ thiết kế website - Winterfrost",
+  "hero": {
+    "titleDark": "Dịch vụ thiết kế Website ",
+    "titleLight": " chuyên nghiệp",
+    "description": "Winterfrost cung cấp dịch vụ thiết kế website chuyên nghiệp cho doanh nghiệp với tốc độ cao và bảo mật tuyệt đối. Ngoài ra, còn giúp cho doanh nghiệp tối ưu vận hành và khẳng định thương hiệu trên thị trường thông qua website chuyên nghiệp của chúng tôi.",
+    "bgImage": "/images/migrated/homenest-software/wp-content/uploads/2026/03/Web-app-development.jpg",
+    "dashboardImage": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Web-Application-Development-banner.jpg"
+  },
+  "solution": {
+    "headlineLight": "Thiết kế website",
+    "headlineDark": "với công nghệ vượt trội",
+    "description": "Chúng tôi thiết kế website với hiệu suất chuyển đổi cao để giải quyết những bài toán kinh doanh phức tạp. Đồng thời, Winterfrost còn chú trọng đến cấu trúc website và trải nghiệm người dùng mượt mà, giúp giữ chân khách hàng, từ đó doanh nghiệp phát triển trên thị trường số.",
+    "ctaLabel": "Thảo luận dự án ngay!",
+    "ctaHref": "tel:+84971450454",
+    "items": [
+      {
+        "title": "Tự động hóa quy trình",
+        "desc": "Các luồng công việc phức tạp sẽ được xử lý tự động , hạn chế các thao tác lặp lại trên website."
+      },
+      {
+        "title": "Thiết kế trải nghiệm",
+        "desc": "Với giao diện trực quan mà được chúng tôi thiết kế sẽ tăng cường mức độ tường tác của khách hàng trên website"
+      },
+      {
+        "title": "Phân tích dữ liệu thực tế",
+        "desc": "Theo dõi các chỉ số hiệu quả kinh doanh thông qua bảng điều khiển và tiện ích thông minh để hỗ trợ doanh nghiệp ra quyết định nhanh chóng."
+      },
+      {
+        "title": "Cấu trúc linh hoạt",
+        "desc": "Xây dựng website với chuẩn cấu trúc sẽ giúp hệ thống luôn hoạt động ổn định và doanh nghiệp có thể dễ dàng mở rộng quy mô trong tương lai."
+      },
+      {
+        "title": "Tích hợp hệ thống",
+        "desc": "Website được kết nối mượt mà với các phần mềm quản trị doanh nghiệp và các cổng thanh toán thông qua các giao thức bảo mật."
+      },
+      {
+        "title": "Bảo mật cao",
+        "desc": "Dữ liệu quan trọng sẽ được bảo vệ bằng công nghệ hiện đại cùng các quy trình kiểm soát nghiêm ngặt nhất, đảm bảo an toàn cho doanh nghiệp."
+      }
+    ]
+  },
+  "features": {
+    "headlineLight": "Các giải pháp thiết kế website",
+    "headlineDark": "dành cho doanh nghiệp",
+    "description": "Winterfrost xây dựng các hệ thống website hiệu năng cao nhằm giải quyết mọi bài toán vận hành. Chúng tôi thiết lập hệ sinh thái toàn diện giúp thúc đẩy sự tăng trưởng bền vững cho doanh nghiệp.",
+    "ctaLabel": "Tư vấn dự án website",
+    "ctaHref": "tel:+84971450454",
+    "items": [
+      {
+        "title": "Website quản trị doanh nghiệp",
+        "desc": "Thiết kế website với các tính năng quản lý khách hàng và nguồn lực nội bộ, được tích hợp thẳng vào website để tối ưu hóa quy trình vận hành.",
+        "image": "/images/services/winterfrost/enterprise-software-development.webp"
+      },
+      {
+        "title": "Website tích hợp trí tuệ nhân tạo",
+        "desc": "Chuyển đổi mô hình kinh doanh bằng các website tích hợp AI có khả năng tự động hóa và xử lý các vấn đề, giúp nâng cao năng suất và hiệu quả công việc",
+        "image": "/images/services/winterfrost/ai-development.webp"
+      },
+      {
+        "title": "Website phân tích dữ liệu",
+        "desc": "Cung cấp các hệ thống báo cáo và số liệu thực tế ngay trên website giúp nhà quản lý theo dõi hiệu suất kinh doanh một cách chính xác.",
+        "image": "/images/services/winterfrost/devops-development.webp"
+      },
+      {
+        "title": "Website bán hàng trực tuyến",
+        "desc": "Xây dựng nền tảng thương mại điện tử có tốc độ cao và bảo mật tuyệt đối giúp doanh nghiệp mở rộng quy mô kinh doanh.",
+        "image": "/images/services/winterfrost/saas-application-development.webp"
+      },
+      {
+        "title": "Kết nối và đồng bộ hệ thống",
+        "desc": "Website của chúng tôi có khả năng liên kết mượt mà với các phần mềm khác để đảm bảo dữ liệu luôn được cập nhật.",
+        "image": "/images/services/winterfrost/custom-software-solutions.webp"
+      }
+    ]
+  },
+  "howWeWork": {
+    "label": "Quy trình thiết kế website của chúng tôi",
+    "ctaLabel": "Triển khai dự án của bạn",
+    "ctaHref": "tel:+84971450454",
+    "steps": [
+      {
+        "num": "01",
+        "badge": "Khởi tạo",
+        "title": "Tìm hiểu nhu cầu và lên kế hoạch dự án",
+        "desc": "Winterfrost trao đổi kỹ lưỡng để thấu hiểu mục tiêu kinh doanh của doanh nghiệp. Chúng tôi xác định quy mô dự án và đánh giá để xây dựng nền tảng thực hiện vững chắc nhất."
+      },
+      {
+        "num": "02",
+        "badge": "Kiến trúc",
+        "title": "Thiết kế giao diện người dùng",
+        "desc": "Chúng tôi xây dựng giao diện website trực quan. Các bản vẽ mẫu được thực hiện dựa trên nghiên cứu hành vi người dùng thực tế để đảm bảo tính thẩm mỹ và tiện dụng cho người dùng."
+      },
+      {
+        "num": "03",
+        "badge": "Lập trình",
+        "title": "Xây dựng website và ra mắt bản dùng thử",
+        "desc": "Đội ngũ lập trình viên tiến hành viết code tối ưu và ưu tiên hoàn thiện các chức năng cốt lõi. Chúng tôi cung cấp bản MVP để doanh nghiệp theo dõi tiến độ và đưa ra các góp ý điều chỉnh kịp thời."
+      },
+      {
+        "num": "04",
+        "badge": "Kiểm tra",
+        "title": "Đảm bảo chất lượng và thử nghiệm thực tế",
+        "desc": "Chúng tôi thực hiện kiểm tra chất lượng nghiêm ngặt để đảm bảo website hoạt động ổn định và mượt mà trên mọi thiết bị. Giai đoạn này chỉ kết thúc khi sản phẩm đáp ứng hoàn toàn các tiêu chuẩn kỹ thuật đề ra."
+      },
+      {
+        "num": "05",
+        "badge": "Vận hành",
+        "title": "Bàn giao hệ thống và hỗ trợ kỹ thuật",
+        "desc": "Chúng tôi thực hiện cài đặt hệ thống DevOps và bàn giao toàn bộ dữ liệu website cho doanh nghiệp. Sau khi website hoạt động, chúng tôi tiếp tục hỗ trợ bảo trì định kỳ để đảm bảo sản phẩm luôn chạy ổn định."
+      }
+    ]
+  },
+  "benefits": {
+    "label": "Tại sao nên chọn Winterfrost ?",
+    "headlineLight": "Chi phí minh bạch",
+    "headlineDark": "cùng giải pháp thiết kế website tin cậy",
+    "items": [
+      {
+        "num": "1",
+        "title": "10+ năm kinh nghiệm chuyên sâu",
+        "desc": "Chúng tôi sở hữu bề dày kinh nghiệm trong việc xây dựng các hệ thống website và quản trị doanh nghiệp phức tạp cho nhiều đối tác lớn."
+      },
+      {
+        "num": "2",
+        "title": "Giải pháp tối ưu chi phí",
+        "desc": "Quy trình phát triển được tinh gọn để mang lại các sản phẩm chất lượng cao nhưng vẫn đảm bảo chi phí phù hợp và hiệu quả đầu tư tốt nhất cho doanh nghiệp."
+      },
+      {
+        "num": "3",
+        "title": "Am hiểu đa dạng lĩnh vực",
+        "desc": "Winterfrost thấu hiểu sâu sắc quy trình vận hành của nhiều lĩnh vực khác nhau như lĩnh vực sức khỏe, chuỗi cung ứng hay bất động sản để đảm bảo website đáp ứng đúng nhu cầu thực tế."
+      },
+      {
+        "num": "4",
+        "title": "Công nghệ tiên tiến và linh hoạt",
+        "desc": "Chúng tôi sử dụng các nền tảng công nghệ mới nhất giúp website của bạn luôn có tốc độ cao và dễ dàng nâng cấp trong tương lai."
+      },
+      {
+        "num": "5",
+        "title": "Tích hợp hệ thống mượt mà",
+        "desc": "Website được thiết kế để kết nối và đồng bộ dữ liệu ổn định với các công cụ quản lý và các phần mềm của doanh nghiệp nhằm nâng cao sự tiện dụng."
+      },
+      {
+        "num": "6",
+        "title": "Kiểm tra chất lượng",
+        "desc": "Quy trình thử nghiệm kỹ lưỡng giúp đảm bảo website hoạt động chính xác và không có lỗi khi bàn giao cho khách hàng."
+      },
+      {
+        "num": "7",
+        "title": "Làm việc chuyên nghiệp",
+        "desc": "Chúng tôi thực hiện dự án theo từng giai đoạn rõ ràng, giúp quá trình triển khai diễn ra nhanh chóng và đảm bảo đúng tiến độ đề ra."
+      },
+      {
+        "num": "8",
+        "title": "Tiêu chuẩn quốc tế về bảo mật",
+        "desc": "Mọi quy trình đều tuân thủ các tiêu chuẩn bảo mật về an toàn dữ liệu nhằm bảo vệ tối đa thông tin của doanh nghiệp và khách hàng."
+      },
+      {
+        "num": "9",
+        "title": "Kinh nghiệm triển khai toàn cầu",
+        "desc": "Việc hợp tác với các đối tác quốc tế như Hàn Quốc hay Mỹ đã giúp chúng tôi luôn duy trì quy trình làm việc chuyên nghiệp và tiêu chuẩn chất lượng cao nhất."
+      }
+    ]
+  },
+  "ctaBanner": {
+    "badge": "Liên hệ ngay!",
+    "headline": "Sở hữu website chuyên nghiệp để thúc đẩy doanh nghiệp",
+    "description": "Hãy để Winterfrost giúp bạn xây dựng một website có tốc độ nhanh, bảo mật cao và tối ưu trải nghiệm người dùng để thu hút khách hàng tiềm năng ngay hôm nay.",
+    "ctaLabel": "Nhận tư vấn thiết kế ngay",
+    "ctaHref": "/lien-he",
+    "image": "/images/people/cta/winterfrost/quan-ly-nam.png"
+  },
+  "counter": {
+    "badgeText": "Thành tựu của chúng tôi",
+    "items": [
+      {
+        "index": "/01",
+        "value": "10+",
+        "desc": "Năm kinh nghiệm"
+      },
+      {
+        "index": "/02",
+        "value": "250+",
+        "desc": "Khách hàng"
+      },
+      {
+        "index": "/03",
+        "value": "15+",
+        "desc": "Quốc gia"
+      },
+      {
+        "index": "/04",
+        "value": "98%",
+        "desc": "Khách hàng hài lòng"
+      }
+    ]
+  },
+  "industries": {
+    "label": "Các lĩnh vực nổi bật",
+    "headlineLight": "Winterfrost cung cấp dịch vụ",
+    "headlineDark": "theo từng lĩnh vực đặc thù",
+    "items": [
+      {
+        "slug": "thuong-mai-dien-tu",
+        "title": "Thương mại điện tử",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/eComerce-Industries-Icon.png"
+      },
+      {
+        "slug": "cong-nghe-tai-chinh",
+        "title": "Công nghệ tài chính",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Fintech-Industries-Icon.png"
+      },
+      {
+        "slug": "y-te",
+        "title": "Y tế",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Healthcare-Industries-Icon.png"
+      },
+      {
+        "slug": "tai-chinh-doanh-nghiep",
+        "title": "Tài chính doanh nghiệp",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Expert-Financial-Industries-Icon.png"
+      },
+      {
+        "slug": "phan-mem-doanh-nghiep",
+        "title": "Phần mềm doanh nghiệp",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Business-Industries-Icon.png"
+      },
+      {
+        "slug": "ban-le",
+        "title": "Bán lẻ",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Retail-Industries-Icon.png"
+      },
+      {
+        "slug": "bat-dong-san",
+        "title": "Bất động sản",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Real-Estate-Industries-Icon.png"
+      },
+      {
+        "slug": "van-tai-va-logistics",
+        "title": "Vận tải và Logistics",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Logistics-Industries-Icon.png"
+      },
+      {
+        "slug": "giao-duc",
+        "title": "Giáo dục",
+        "icon": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Education-Industries-Icon.png"
+      }
+    ]
+  },
+  "price": {
+    "label": "Bảng giá",
+    "headlineLight": "Bảng giá",
+    "headlineDark": "Phát triển website",
+    "description": "Chi phí minh bạch phù hợp với mọi quy mô dự án.",
+    "packages": [
+      {
+        "name": "Gói cơ bản",
+        "price": "15.000.000",
+        "currency": "VNĐ",
+        "period": "/ dự án",
+        "description": "Giải pháp hoàn hảo cho các doanh nghiệp nhỏ cần một trang web chuyên nghiệp để bắt đầu xây dựng hình ảnh trên môi trường số.",
+        "features": [
+          "Giao diện tương thích mọi thiết bị",
+          "Các chức năng cốt lõi thiết yếu",
+          "Xác thực người dùng cơ bản",
+          "Tích hợp các cổng kết nối tiêu chuẩn",
+          "Thiết lập lưu trữ đám mây"
+        ],
+        "ctaLabel": "Bắt đầu",
+        "ctaHref": "/lien-he",
+        "highlight": false
+      },
+      {
+        "name": "Gói linh hoạt",
+        "price": "Chi phí linh hoạt",
+        "currency": "",
+        "period": "",
+        "description": "Lựa chọn lý tưởng cho các đơn vị cần website chuyên nghiệp và hiện đại nhất để phát triển với những tính năng tích hợp nâng cao.",
+        "features": [
+          "Lập trình giao diện chuyên sâu",
+          "Kiến trúc hệ thống và dữ liệu riêng",
+          "Kết nối các dịch vụ bên thứ ba phức tạp",
+          "Đồng bộ dữ liệu theo thời gian thực",
+          "Bảng điều khiển và phân tích nâng cao",
+          "Đảm bảo các tiêu chuẩn an ninh mạng",
+          "Hỗ trợ kỹ thuật sau khi bàn giao"
+        ],
+        "ctaLabel": "Bắt đầu",
+        "ctaHref": "/lien-he",
+        "highlight": true,
+        "labelText": "Gói chuyên nghiệp"
+      },
+      {
+        "name": "Gói nâng cao",
+        "price": "40.000.000",
+        "currency": "VNĐ",
+        "period": "/ dự án",
+        "description": "Kiến tạo nền tảng Web cao cấp với kiến trúc phân tán hiện đại, giúp tối ưu hóa trải nghiệm người dùng và mở rộng tính năng không giới hạn.",
+        "features": [
+          "Kiến trúc hệ thống phân tán hiện đại",
+          "Tích hợp quy trình trí tuệ nhân tạo riêng",
+          "Khả năng dự phòng và khôi phục dữ liệu",
+          "Bảo mật cấp độ doanh nghiệp",
+          "Cam kết vận hành và hỗ trợ chuyên dụng",
+          "Khả năng mở rộng hệ thống không giới hạn"
+        ],
+        "ctaLabel": "Bắt đầu",
+        "ctaHref": "/lien-he",
+        "highlight": false
+      }
+    ]
+  },
+  "techStack": {
+    "headlineLight": "Công nghệ sử dụng",
+    "headlineDark": "cho thiết kế website",
+    "filters": [
+      "Tất cả",
+      "Frontend",
+      "Backend",
+      "Database",
+      "DevOps",
+      "Tools"
+    ],
+    "items": [
+      {
+        "name": "React",
+        "category": "Frontend"
+      },
+      {
+        "name": "Next.js",
+        "category": "Frontend"
+      },
+      {
+        "name": "Angular",
+        "category": "Frontend"
+      },
+      {
+        "name": "Vue.js",
+        "category": "Frontend"
+      },
+      {
+        "name": "Figma",
+        "category": "Tools"
+      },
+      {
+        "name": "Adobe XD",
+        "category": "Tools"
+      },
+      {
+        "name": "Sketch",
+        "category": "Tools"
+      },
+      {
+        "name": "Node.js",
+        "category": "Backend"
+      },
+      {
+        "name": "Laravel",
+        "category": "Backend"
+      },
+      {
+        "name": "WordPress",
+        "category": "Backend"
+      },
+      {
+        "name": "PHP",
+        "category": "Backend"
+      },
+      {
+        "name": ".NET",
+        "category": "Backend"
+      },
+      {
+        "name": "ASP.NET",
+        "category": "Backend"
+      },
+      {
+        "name": "MySQL",
+        "category": "Database"
+      },
+      {
+        "name": "PostgreSQL",
+        "category": "Database"
+      },
+      {
+        "name": "MongoDB",
+        "category": "Database"
+      },
+      {
+        "name": "Redis",
+        "category": "Database"
+      },
+      {
+        "name": "Docker",
+        "category": "DevOps"
+      },
+      {
+        "name": "GitHub",
+        "category": "Tools"
+      },
+      {
+        "name": "GitLab",
+        "category": "Tools"
+      },
+      {
+        "name": "Bitbucket",
+        "category": "Tools"
+      },
+      {
+        "name": "GitHub Actions",
+        "category": "DevOps"
+      },
+      {
+        "name": "CI/CD",
+        "category": "DevOps"
+      },
+      {
+        "name": "AWS",
+        "category": "DevOps"
+      },
+      {
+        "name": "Deploy Server",
+        "category": "DevOps"
+      },
+      {
+        "name": "Jira",
+        "category": "Tools"
+      }
+    ]
+  },
+  "comprehensiveServices": {
+    "headlineLight": "Khám phá các giải pháp",
+    "headlineDark": "phần mềm liên quan",
+    "items": [
+      {
+        "slug": "thiet-ke-app",
+        "title": "Thiết kế App",
+        "desc": "Chúng tôi thiết kế và xây dựng các ứng dụng di động hoạt động mượt mà trên nhiều nền tảng khác nhau nhằm mang lại trải nghiệm người dùng tuyệt vời cùng các chức năng hữu ích trên mọi thiết bị điện tử.",
+        "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Dich-vu-thiet-ke-App-HomeNest-Viet-Nam.jpg",
+        "href": "/dich-vu/thiet-ke-app"
+      },
+      {
+        "slug": "phat-trien-phan-mem-tuy-chinh",
+        "title": "Vận hành và bảo trì",
+        "desc": "Không chỉ dừng lại ở việc bàn giao mã nguồn mà chúng tôi còn đồng hành dài hạn để giám sát, tối ưu hiệu suất và cập nhật bảo mật định kỳ, giúp hệ thống của doanh nghiệp luôn vận hành ổn định, an toàn và sẵn sàng mở rộng bất cứ lúc nào.",
+        "image": "/images/services/winterfrost/custom-software-solutions.webp",
+        "href": "/dich-vu/van-hanh-va-bao-tri"
+      },
+      {
+        "slug": "phat-trien-phan-mem-doanh-nghiep",
+        "title": "Phát triển phần mềm doanh nghiệp",
+        "desc": "Xây dựng cấu trúc hệ thống bảo mật có khả năng chịu tải cao dành riêng cho các quy mô vận hành lớn. Giải pháp này bao gồm việc kết nối dữ liệu chuyên sâu cùng các cam kết về chất lượng dịch vụ nghiêm ngặt.",
+        "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Dich-vu-phat-trien-phan-mem-doanh-nghiep-HomeNest-Viet-Nam.jpg",
+        "href": "/dich-vu/phat-trien-phan-mem-doanh-nghiep"
+      }
+    ]
+  },
+  "faq": {
+    "label": "Các câu hỏi thường gặp",
+    "headlineParts": [
+      "Giải Đáp",
+      "Mọi",
+      "Thắc Mắc"
+    ],
+    "description": "Giải đáp mọi thắc mắc của bạn về quy trình và cam kết dịch vụ thiết kế website tại Winterfrost.",
+    "items": [
+      {
+        "q": "Chi phí thiết kế website tại Winterfrost là bao nhiêu?",
+        "a": "Chi phí phụ thuộc vào quy mô, tính năng và độ phức tạp kỹ thuật của dự án. Chúng tôi cung cấp các gói dịch vụ linh hoạt từ giải pháp cơ bản cho doanh nghiệp nhỏ đến các hệ thống chuyên biệt cho tập đoàn lớn. Mọi báo giá đều đảm bảo chi phí minh bạch và không phát sinh chi phí ẩn."
+      },
+      {
+        "q": "Thời gian để hoàn thành một dự án website là bao lâu?",
+        "a": "Thông thường, một dự án thiết kế website sẽ kéo dài từ 4 đến 8 tuần. Thời gian cụ thể tùy thuộc vào giai đoạn khảo sát yêu cầu và sự phản hồi từ phía doanh nghiệp. Chúng tôi luôn cam kết đảm bảo đúng tiến độ đã thỏa thuận trong hợp đồng."
+      },
+      {
+        "q": "Tôi có được sở hữu toàn bộ mã nguồn website không?",
+        "a": "Có. Tại Winterfrost, chúng tôi cam kết bàn giao 100% quyền sở hữu trí tuệ và mã nguồn (source code) cho khách hàng sau khi dự án hoàn tất. Bạn có toàn quyền quản lý, vận hành và nâng cấp hệ thống theo nhu cầu riêng mà không bị phụ thuộc vào chúng tôi."
+      },
+      {
+        "q": "Website có hoạt động tốt trên điện thoại và chuẩn SEO không?",
+        "a": "Chắc chắn. Mọi website do Winterfrost thiết kế đều tuân thủ các tiêu chuẩn kỹ thuật hiện đại nhất:• Giao diện tương thích (Responsive): Hiển thị hoàn hảo trên mọi thiết bị từ máy tính đến điện thoại di động.• Tối ưu SEO: Cấu trúc web thân thiện giúp tăng khả năng tiếp cận khách hàng tiềm năng."
+      },
+      {
+        "q": "Website của tôi có được đảm bảo an toàn dữ liệu không?",
+        "a": "Bảo mật là ưu tiên hàng đầu của chúng tôi. Winterfrost áp dụng các tiêu chuẩn bảo mật cấp độ doanh nghiệp, bao gồm mã hóa dữ liệu nâng cao và các giao thức chống xâm nhập để bảo vệ thông tin kinh doanh của bạn một cách tuyệt đối."
+      },
+      {
+        "q": "Winterfrost có hỗ trợ sau khi website đi vào vận hành không?",
+        "a": "Chúng tôi cung cấp dịch vụ bảo trì định kỳ và hỗ trợ kỹ thuật lâu dài. Đội ngũ chuyên gia luôn sẵn sàng xử lý các vấn đề phát sinh và tư vấn nâng cấp tính năng để đảm bảo website luôn hoạt động ổn định và hiệu quả."
+      },
+      {
+        "q": "Tôi có được hướng dẫn cách quản trị website sau khi bàn giao không?",
+        "a": "Tất nhiên. Sau khi hoàn thiện, Winterfrost sẽ tổ chức các buổi hướng dẫn trực tiếp hoặc gửi tài liệu hướng dẫn chi tiết để đội ngũ của bạn có thể làm chủ hệ thống, từ việc cập nhật nội dung, quản lý đơn hàng đến kiểm tra các chỉ số cơ bản trên website."
+      },
+      {
+        "q": "Ai sẽ là người chuẩn bị nội dung và hình ảnh cho website?",
+        "a": "Thông thường, doanh nghiệp sẽ cung cấp nội dung cốt lõi và hình ảnh thương hiệu. Tuy nhiên, Winterfrost có thể hỗ trợ tư vấn cấu trúc nội dung chuẩn SEO và tối ưu hóa hình ảnh để website đạt hiệu suất tốt nhất cả về thẩm mỹ lẫn tốc độ tải trang."
+      },
+      {
+        "q": "Winterfrost có hỗ trợ đăng ký tên miền và máy chủ (Hosting) không?",
+        "a": "Chúng tôi sẵn sàng hỗ trợ bạn lựa chọn và đăng ký tên miền, máy chủ phù hợp với quy mô website. Chúng tôi sẽ tư vấn các giải pháp hạ tầng đám mây (Cloud) có độ ổn định cao và khả năng bảo mật tốt nhất cho doanh nghiệp."
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="256" viewBox="0 0 1000 256">
+    <defs>
+      <linearGradient id="wordmarkGradient" x1="20" y1="20" x2="236" y2="236" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#151515"/>
+        <stop offset="1" stop-color="#A6D64A"/>
+      </linearGradient>
+    </defs>
+    <g>
+    <defs>
+      <linearGradient id="wordmarkGradient" x1="20" y1="20" x2="236" y2="236" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#151515"/>
+        <stop offset="1" stop-color="#A6D64A"/>
+      </linearGradient>
+    </defs>
+
+    <path d="M37 45h180l-21 38-92 93h113v40H35l21-39 93-92H37V45Z" fill="url(#wordmarkGradient)"/>
+    <path d="m149 85 47-2-39 39-53 54H56l93-91Z" fill="url(#wordmarkGradient)" opacity=".58"/>
+
+  </g>
+    <text x="294" y="148" fill="#151515" font-family="Manrope, Arial, Helvetica, sans-serif" font-size="76" font-weight="800" letter-spacing="-2">Zenovia Retail</text>
+    <text x="299" y="192" fill="#667085" font-family="Manrope, Arial, Helvetica, sans-serif" font-size="23" font-weight="650" letter-spacing="3.2">DIGITAL EXPERIENCE</text>
+  </svg>
