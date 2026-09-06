@@ -1,6 +1,6 @@
 {
   "slug": "phat-trien-phan-mem-mvp",
-  "metaTitle": "Dịch vụ phát triển phần mềm MVP - Winterfrost",
+  "metaTitle": "Dịch vụ phát triển phần mềm MVP - SoftBuild",
   "hero": {
     "titleDark": "Phần mềm MVP",
     "titleLight": "Phát triển",
@@ -52,7 +52,7 @@
     ]
   },
   "howWeWork": {
-    "label": "Quy trình kiến tạo phần mềm MVP của Winterfrost",
+    "label": "Quy trình kiến tạo phần mềm MVP của SoftBuild",
     "ctaLabel": "Liên hệ tư vấn ngay",
     "ctaHref": "/lien-he",
     "steps": [
@@ -89,7 +89,7 @@
     ]
   },
   "benefits": {
-    "label": "Tại sao nên bắt đầu bản MVP cùng Winterfrost?",
+    "label": "Tại sao nên bắt đầu bản MVP cùng SoftBuild?",
     "headlineLight": "Đưa ý tưởng ra thị trường nhanh nhất",
     "headlineDark": "với chi phí tối ưu",
     "items": [
@@ -136,14 +136,14 @@
       {
         "num": "9",
         "title": "Tư vấn lộ trình tăng trưởng",
-        "desc": "Không chỉ bàn giao, Winterfrost tiếp tục đồng hành hỗ trợ kỹ thuật và tư vấn chiến lược nâng cấp dựa trên sự phát triển thực tế của dự án."
+        "desc": "Không chỉ bàn giao, SoftBuild tiếp tục đồng hành hỗ trợ kỹ thuật và tư vấn chiến lược nâng cấp dựa trên sự phát triển thực tế của dự án."
       }
     ]
   },
   "ctaBanner": {
     "badge": "Liên hệ ngay!",
     "headline": "Phát triển sản phẩm MVP để nhanh chóng ra mắt thị trường",
-    "description": "Winterfrost giúp doanh nghiệp xây dựng phiên bản phần mềm cốt lõi với chi phí tối ưu nhất. Chúng tôi tập trung vào những tính năng quan trọng nhất để doanh nghiệp có thể thử nghiệm ý tưởng và nhận phản hồi thực tế từ người dùng ngay lập tức.",
+    "description": "SoftBuild giúp doanh nghiệp xây dựng phiên bản phần mềm cốt lõi với chi phí tối ưu nhất. Chúng tôi tập trung vào những tính năng quan trọng nhất để doanh nghiệp có thể thử nghiệm ý tưởng và nhận phản hồi thực tế từ người dùng ngay lập tức.",
     "ctaLabel": "Bắt đầu dự án MVP",
     "ctaHref": "/lien-he",
     "image": "/images/people/cta/winterfrost/chuyen-vien-nu.png"
@@ -175,7 +175,7 @@
   },
   "industries": {
     "label": "Lĩnh vực phục vụ",
-    "headlineLight": "Các lĩnh vực Winterfrost",
+    "headlineLight": "Các lĩnh vực SoftBuild",
     "headlineDark": "tập trung triển khai bản MVP",
     "items": [
       {
@@ -229,7 +229,7 @@
     "label": "",
     "headlineLight": "Chi phí phát triển",
     "headlineDark": "Phần mềm MVP",
-    "description": "Winterfrost báo giá dựa trên tính năng và lộ trình cụ thể. Bạn nắm rõ kết quả, thời gian và ngân sách ngay từ đầu. Cam kết không phí theo giờ, không phát sinh ngoài phạm vi thống nhất.",
+    "description": "SoftBuild báo giá dựa trên tính năng và lộ trình cụ thể. Bạn nắm rõ kết quả, thời gian và ngân sách ngay từ đầu. Cam kết không phí theo giờ, không phát sinh ngoài phạm vi thống nhất.",
     "packages": [
       {
         "name": "Gói Cơ Bản",
@@ -434,7 +434,7 @@
     "items": [
       {
         "q": "Mất bao lâu để một bản MVP có thể ra mắt thực tế?",
-        "a": "Thời gian trung bình để hoàn thành một bản MVP tại Winterfrost thường kéo dài từ 4 đến 12 tuần. Thời gian cụ thể phụ thuộc vào số lượng tính năng cốt lõi cần lập trình. Chúng tôi ưu tiên ra mắt nhanh để bạn sớm có dữ liệu thực tế từ người dùng."
+        "a": "Thời gian trung bình để hoàn thành một bản MVP tại SoftBuild thường kéo dài từ 4 đến 12 tuần. Thời gian cụ thể phụ thuộc vào số lượng tính năng cốt lõi cần lập trình. Chúng tôi ưu tiên ra mắt nhanh để bạn sớm có dữ liệu thực tế từ người dùng."
       },
       {
         "q": "Chi phí nâng cấp từ MVP lên sản phẩm hoàn chỉnh được tính như thế nào?",
@@ -442,10 +442,10 @@
       },
       {
         "q": "Nếu sau khi chạy thử, tôi muốn thay đổi hoàn toàn tính năng thì sao?",
-        "a": "Đây là mục đích chính của việc làm MVP. Vì sử dụng các công nghệ linh hoạt và cấu trúc mã nguồn sạch ngay từ đầu, Winterfrost có thể điều chỉnh logic phần mềm hoặc thay đổi luồng nghiệp vụ nhanh chóng mà không cần phải phá bỏ toàn bộ hệ thống cũ."
+        "a": "Đây là mục đích chính của việc làm MVP. Vì sử dụng các công nghệ linh hoạt và cấu trúc mã nguồn sạch ngay từ đầu, SoftBuild có thể điều chỉnh logic phần mềm hoặc thay đổi luồng nghiệp vụ nhanh chóng mà không cần phải phá bỏ toàn bộ hệ thống cũ."
       },
       {
-        "q": "Winterfrost có nhận phát triển tiếp các bản MVP do đơn vị khác thực hiện không?",
+        "q": "SoftBuild có nhận phát triển tiếp các bản MVP do đơn vị khác thực hiện không?",
         "a": "Có. Đội ngũ kỹ thuật của chúng tôi sẽ tiến hành kiểm tra chất lượng mã nguồn và kiến trúc hiện tại của bạn. Nếu mã nguồn đảm bảo tiêu chuẩn, chúng tôi sẽ tiếp quản và phát triển thêm tính năng. Nếu mã nguồn quá cũ hoặc lỗi thời, chúng tôi sẽ tư vấn phương án tối ưu nhất để tiết kiệm chi phí dài hạn."
       },
       {

@@ -1,17 +1,17 @@
 {
   "slug": "phat-trien-iot",
-  "metaTitle": "Dịch vụ phát triển IoT - Winterfrost",
+  "metaTitle": "Dịch vụ phát triển IoT - SoftBuild",
   "hero": {
     "titleDark": "Dịch vụ ",
     "titleLight": "phát triển IoT",
-    "description": "Winterfrost cung cấp giải pháp IoT toàn diện, bao gồm lập trình firmware nhúng, thiết lập các thiết bị đầu cuối và tạo bảng điều khiển đám mây cùng với hệ thống phân tích dữ liệu thông minh.",
+    "description": "SoftBuild cung cấp giải pháp IoT toàn diện, bao gồm lập trình firmware nhúng, thiết lập các thiết bị đầu cuối và tạo bảng điều khiển đám mây cùng với hệ thống phân tích dữ liệu thông minh.",
     "bgImage": "/images/migrated/homenest-software/wp-content/uploads/2026/03/Web-app-development.jpg",
     "dashboardImage": "/images/services/winterfrost/web-application-development.webp"
   },
   "solution": {
     "headlineLight": "Giá trị thực thi từ",
     "headlineDark": "hệ sinh thái IoT",
-    "description": "Giải pháp IoT của Winterfrost tăng cường khả năng kết nối giữa các thiết bị, đảm bảo xử lý dữ liệu ngay tức thì và bảo vệ hệ thống bằng nhiều lớp an ninh, nhằm nâng cao hiệu suất tự động hóa cho các doanh nghiệp.",
+    "description": "Giải pháp IoT của SoftBuild tăng cường khả năng kết nối giữa các thiết bị, đảm bảo xử lý dữ liệu ngay tức thì và bảo vệ hệ thống bằng nhiều lớp an ninh, nhằm nâng cao hiệu suất tự động hóa cho các doanh nghiệp.",
     "ctaLabel": "Bắt đầu dự án của bạn",
     "ctaHref": "/lien-he",
     "items": [
@@ -119,7 +119,7 @@
     ]
   },
   "benefits": {
-    "label": "Vì sao nên chọn dịch vụ IoT tại Winterfrost?",
+    "label": "Vì sao nên chọn dịch vụ IoT tại SoftBuild?",
     "headlineLight": "Xây dựng hệ sinh thái IoT chuyên biệt và",
     "headlineDark": "tự động hóa doanh nghiệp",
     "items": [
@@ -173,7 +173,7 @@
   "ctaBanner": {
     "badge": "Liên hệ ngay!",
     "headline": "Kết nối và điều khiển thiết bị thông minh qua internet",
-    "description": "Nếu doanh nghiệp cần giám sát tài sản hoặc tự động hóa dây chuyền sản xuất, giải pháp của Winterfrost sẽ giúp bạn thực hiện điều đó. Hệ thống đảm bảo dữ liệu được truyền tải liên tục, bảo mật và dễ dàng phân tích để đưa ra quyết định kinh doanh.",
+    "description": "Nếu doanh nghiệp cần giám sát tài sản hoặc tự động hóa dây chuyền sản xuất, giải pháp của SoftBuild sẽ giúp bạn thực hiện điều đó. Hệ thống đảm bảo dữ liệu được truyền tải liên tục, bảo mật và dễ dàng phân tích để đưa ra quyết định kinh doanh.",
     "ctaLabel": "Bắt đầu dự án IoT ngay",
     "ctaHref": "/lien-he",
     "image": "/images/people/cta/winterfrost/chuyen-vien-nu.png"
@@ -319,7 +319,7 @@
   },
   "techStack": {
     "headlineLight": "Công nghệ phát triển IoT ",
-    "headlineDark": "tại Winterfrost",
+    "headlineDark": "tại SoftBuild",
     "filters": [
       "Tất cả",
       "Giao diện",
@@ -460,7 +460,7 @@
     "description": "Tổng hợp các thông tin về giải pháp phần cứng, giao thức kết nối, an ninh dữ liệu và khả năng tích hợp hệ thống.",
     "items": [
       {
-        "q": "Winterfrost có hỗ trợ lựa chọn thiết bị phần cứng không?",
+        "q": "SoftBuild có hỗ trợ lựa chọn thiết bị phần cứng không?",
         "a": "Có. Dựa trên nhu cầu thực tế và môi trường triển khai, chúng tôi sẽ tư vấn và lựa chọn các dòng vi điều khiển, cảm biến và module truyền thông tối ưu nhất về công suất, độ bền và chi phí. Chúng tôi ưu tiên các linh kiện có tính sẵn sàng cao trên thị trường để đảm bảo khả năng bảo trì lâu dài."
       },
       {
@@ -473,7 +473,7 @@
       },
       {
         "q": "Hệ thống có thể tích hợp với phần mềm hiện có của doanh nghiệp không?",
-        "a": "Có. Toàn bộ dữ liệu từ nền tảng IoT của Winterfrost được cung cấp thông qua cổng API. Điều này cho phép doanh nghiệp dễ dàng kết nối và đẩy dữ liệu trực tiếp vào các hệ thống quản trị sẵn có như SAP, Salesforce hoặc các ứng dụng nội bộ khác."
+        "a": "Có. Toàn bộ dữ liệu từ nền tảng IoT của SoftBuild được cung cấp thông qua cổng API. Điều này cho phép doanh nghiệp dễ dàng kết nối và đẩy dữ liệu trực tiếp vào các hệ thống quản trị sẵn có như SAP, Salesforce hoặc các ứng dụng nội bộ khác."
       },
       {
         "q": "Giao thức kết nối nào được ưu tiên sử dụng?",
@@ -481,7 +481,7 @@
       },
       {
         "q": "Doanh nghiệp có được sở hữu mã nguồn firmware và phần mềm không?",
-        "a": "Có. Winterfrost cam kết bàn giao 100% mã nguồn và các tài liệu kỹ thuật liên quan. Doanh nghiệp hoàn toàn làm chủ công nghệ và có quyền tự thực hiện nâng cấp hoặc mở rộng hệ thống về sau."
+        "a": "Có. SoftBuild cam kết bàn giao 100% mã nguồn và các tài liệu kỹ thuật liên quan. Doanh nghiệp hoàn toàn làm chủ công nghệ và có quyền tự thực hiện nâng cấp hoặc mở rộng hệ thống về sau."
       },
       {
         "q": "Chi phí vận hành hạ tầng IoT hàng tháng được tính như thế nào?",

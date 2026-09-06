@@ -49,6 +49,7 @@ export function autoTextKey(source: string) {
 function shouldPreserve(key: string, value: string) {
   return (
     preservedKeys.has(key) ||
+    value === "SoftBuild" ||
     value === "Winterfrost" ||
     /^(?:https?:|tel:|mailto:|#)/.test(value) ||
     /^\/[a-z0-9_?=&%+./#-]*$/i.test(value) ||

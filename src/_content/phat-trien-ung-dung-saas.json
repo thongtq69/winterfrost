@@ -1,10 +1,10 @@
 {
   "slug": "phat-trien-ung-dung-saas",
-  "metaTitle": "Dịch vụ phát triển ứng dụng SaaS - Winterfrost",
+  "metaTitle": "Dịch vụ phát triển ứng dụng SaaS - SoftBuild",
   "hero": {
     "titleLight": "Phát triển ",
     "titleDark": "Ứng dụng SaaS",
-    "description": "Từ khâu thiết kế đến khi vận hành thực tế, chúng tôi xây dựng các nền tảng SaaS với khả năng mở rộng linh hoạt. Winterfrost sẽ giúp bạn kiến tạo những sản phẩm phần mềm hiện đại, có khả năng phát triển vượt trội cùng lượng người dùng và mang lại nguồn doanh thu bền vững cho doanh nghiệp.",
+    "description": "Từ khâu thiết kế đến khi vận hành thực tế, chúng tôi xây dựng các nền tảng SaaS với khả năng mở rộng linh hoạt. SoftBuild sẽ giúp bạn kiến tạo những sản phẩm phần mềm hiện đại, có khả năng phát triển vượt trội cùng lượng người dùng và mang lại nguồn doanh thu bền vững cho doanh nghiệp.",
     "bgImage": "/images/migrated/homenest-software/wp-content/uploads/2026/03/services-app-bg.jpg",
     "dashboardImage": "",
     "phones": {
@@ -84,7 +84,7 @@
     ]
   },
   "benefits": {
-    "label": "Lợi thế cạnh tranh cùng Winterfrost",
+    "label": "Lợi thế cạnh tranh cùng SoftBuild",
     "headlineLight": "Giải pháp bền vững cho",
     "headlineDark": "lộ trình kinh doanh dài hạn",
     "items": [
@@ -138,7 +138,7 @@
   "ctaBanner": {
     "badge": "Liên hệ ngay!",
     "headline": "Xây dựng nền tảng SaaS có khả năng mở rộng không giới hạn",
-    "description": "Winterfrost giúp doanh nghiệp hiện thực hóa ý tưởng về một phần mềm dịch vụ ổn định và dễ quản lý trên nền tảng đám mây. Chúng tôi tập trung xây dựng hạ tầng kỹ thuật mạnh mẽ, cho phép doanh nghiệp phục vụ số lượng lớn khách hàng cùng lúc mà vẫn đảm bảo tốc độ truy cập nhanh và hiệu suất tối ưu.",
+    "description": "SoftBuild giúp doanh nghiệp hiện thực hóa ý tưởng về một phần mềm dịch vụ ổn định và dễ quản lý trên nền tảng đám mây. Chúng tôi tập trung xây dựng hạ tầng kỹ thuật mạnh mẽ, cho phép doanh nghiệp phục vụ số lượng lớn khách hàng cùng lúc mà vẫn đảm bảo tốc độ truy cập nhanh và hiệu suất tối ưu.",
     "ctaLabel": "Bắt đầu dự án SaaS ngay",
     "ctaHref": "/lien-he",
     "image": "/images/people/cta/winterfrost/chuyen-vien-nu.png"
@@ -169,7 +169,7 @@
     ]
   },
   "industries": {
-    "label": "Lĩnh vực Winterfrost phục vụ",
+    "label": "Lĩnh vực SoftBuild phục vụ",
     "headlineLight": "Kiến tạo nền tảng SaaS chuyên biệt",
     "headlineDark": "cho mọi ngành nghề",
     "items": [
@@ -224,7 +224,7 @@
     "label": "",
     "headlineLight": "Gói dịch vụ phát triển SaaS",
     "headlineDark": "",
-    "description": "Lựa chọn lộ trình phù hợp để khởi tạo và bứt phá quy mô nền tảng SaaS của bạn cùng Winterfrost.",
+    "description": "Lựa chọn lộ trình phù hợp để khởi tạo và bứt phá quy mô nền tảng SaaS của bạn cùng SoftBuild.",
     "packages": [
       {
         "name": "Cơ bản",
@@ -266,7 +266,7 @@
   },
   "techStack": {
     "headlineLight": "Công nghệ vận hành SaaS",
-    "headlineDark": "tại Winterfrost",
+    "headlineDark": "tại SoftBuild",
     "filters": [
       "Tất cả",
       "Giao diện",
@@ -408,18 +408,18 @@
     "items": [
       {
         "q": "Kiến trúc đa người dùng có đảm bảo an toàn dữ liệu không?",
-        "a": "Hoàn toàn an toàn. Winterfrost thiết kế các lớp cách ly dữ liệu nghiêm ngặt ở cấp độ cơ sở dữ liệu. Mặc dù nhiều khách hàng sử dụng chung một hạ tầng để tối ưu chi phí, nhưng dữ liệu của mỗi người thuê luôn được mã hóa và tách biệt hoàn toàn, đảm bảo không có sự chồng chéo hay rò rỉ thông tin."
+        "a": "Hoàn toàn an toàn. SoftBuild thiết kế các lớp cách ly dữ liệu nghiêm ngặt ở cấp độ cơ sở dữ liệu. Mặc dù nhiều khách hàng sử dụng chung một hạ tầng để tối ưu chi phí, nhưng dữ liệu của mỗi người thuê luôn được mã hóa và tách biệt hoàn toàn, đảm bảo không có sự chồng chéo hay rò rỉ thông tin."
       },
       {
         "q": "Tôi có thực sự sở hữu mã nguồn sau khi dự án kết thúc không?",
-        "a": "Chắc chắn rồi. Winterfrost bàn giao trọn vẹn, tài liệu kiến trúc và toàn bộ quyền sở hữu trí tuệ cho bạn. Chúng tôi xây dựng sản phẩm để bạn làm chủ và tự do phát triển kinh doanh, không có bất kỳ ràng buộc nào về việc giữ chân khách hàng bằng mã nguồn."
+        "a": "Chắc chắn rồi. SoftBuild bàn giao trọn vẹn, tài liệu kiến trúc và toàn bộ quyền sở hữu trí tuệ cho bạn. Chúng tôi xây dựng sản phẩm để bạn làm chủ và tự do phát triển kinh doanh, không có bất kỳ ràng buộc nào về việc giữ chân khách hàng bằng mã nguồn."
       },
       {
         "q": "Hệ thống sẽ xử lý thế nào khi lượng người dùng tăng đột biến?",
         "a": "Chúng tôi sử dụng kiến trúc điện toán đám mây và cơ chế tự động mở rộng . Hệ thống sẽ tự động tăng cường tài nguyên máy chủ trong vài giây khi lượng truy cập tăng cao và tự động thu nhỏ khi thấp điểm. Điều này giúp ứng dụng của bạn luôn mượt mà mà vẫn tiết kiệm chi phí máy chủ tối đa."
       },
       {
-        "q": "Winterfrost có hỗ trợ tích hợp các cổng thanh toán quốc tế không?",
+        "q": "SoftBuild có hỗ trợ tích hợp các cổng thanh toán quốc tế không?",
         "a": "Có. Chúng tôi có kinh nghiệm dày dặn trong việc tích hợp các hệ thống thanh toán và quản lý thuê bao định kỳ. Hệ thống sẽ tự động xử lý việc gia hạn, nâng cấp gói cước và gửi hóa đơn, giúp bạn sở hữu một bộ máy thu tiền tự động hoàn chỉnh."
       },
       {

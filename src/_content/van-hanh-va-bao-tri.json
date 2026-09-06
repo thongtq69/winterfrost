@@ -1,11 +1,11 @@
 {
   "slug": "van-hanh-va-bao-tri",
-  "metaTitle": "Dịch vụ vận hành và bảo trì - Winterfrost",
+  "metaTitle": "Dịch vụ vận hành và bảo trì - SoftBuild",
   "hero": {
     "titleDark": "và bảo trì",
     "titleLight": "Dịch vụ vận hành",
     "lightFirst": true,
-    "description": "Đảm bảo sự hiện diện trực tuyến không gián đoạn cho website, mobile app và hệ thống phần mềm của bạn. Winterfrost ứng dụng công nghệ giám sát tự động giúp duy trì hiệu suất đỉnh cao, bảo mật đa lớp và thích ứng tức thì với các thay đổi công nghệ, giúp doanh nghiệp an tâm tăng trưởng.",
+    "description": "Đảm bảo sự hiện diện trực tuyến không gián đoạn cho website, mobile app và hệ thống phần mềm của bạn. SoftBuild ứng dụng công nghệ giám sát tự động giúp duy trì hiệu suất đỉnh cao, bảo mật đa lớp và thích ứng tức thì với các thay đổi công nghệ, giúp doanh nghiệp an tâm tăng trưởng.",
     "bgImage": "",
     "dashboardImage": "",
     "carousel": {
@@ -66,7 +66,7 @@
         "num": "02",
         "badge": "Giải pháp",
         "title": "Thiết lập giám sát tự động",
-        "desc": "Cài đặt các công cụ cảnh báo thông minh giúp đội ngũ kỹ thuật của Winterfrost nhận tin báo sự cố sớm hơn cả người dùng của bạn."
+        "desc": "Cài đặt các công cụ cảnh báo thông minh giúp đội ngũ kỹ thuật của SoftBuild nhận tin báo sự cố sớm hơn cả người dùng của bạn."
       },
       {
         "num": "03",
@@ -83,7 +83,7 @@
     ]
   },
   "benefits": {
-    "label": "Tại sao chọn Winterfrost để vận hành hệ thống ?",
+    "label": "Tại sao chọn SoftBuild để vận hành hệ thống ?",
     "headlineLight": "Năng lực quản trị và",
     "headlineDark": "đảm bảo vận hành hệ thống.",
     "items": [
@@ -137,7 +137,7 @@
   "ctaBanner": {
     "badge": "Liên hệ ngay!",
     "headline": "Đảm bảo hệ thống phần mềm luôn vận hành ổn định",
-    "description": "Winterfrost cung cấp dịch vụ theo dõi, cập nhật và xử lý sự cố liên tục. Chúng tôi giúp hệ thống của bạn luôn hoạt động an toàn, chính xác và không bị gián đoạn trong suốt quá trình kinh doanh.",
+    "description": "SoftBuild cung cấp dịch vụ theo dõi, cập nhật và xử lý sự cố liên tục. Chúng tôi giúp hệ thống của bạn luôn hoạt động an toàn, chính xác và không bị gián đoạn trong suốt quá trình kinh doanh.",
     "ctaLabel": "Nhận tư vấn bảo trì",
     "ctaHref": "/lien-he",
     "image": "/images/people/cta/winterfrost/quan-ly-nam.png"
@@ -222,15 +222,15 @@
   "price": {
     "label": "",
     "headlineLight": "Gói vận hành và bảo trì",
-    "headlineDark": "tại Winterfrost",
-    "description": "Duy trì hiệu suất đỉnh cao và bảo mật tuyệt đối cho website, mobile app và phần mềm với chi phí tối ưu. Winterfrost cam kết vận hành chuyên sâu, loại bỏ mọi rủi ro kỹ thuật và phản ứng nhanh 24/7.",
+    "headlineDark": "tại SoftBuild",
+    "description": "Duy trì hiệu suất đỉnh cao và bảo mật tuyệt đối cho website, mobile app và phần mềm với chi phí tối ưu. SoftBuild cam kết vận hành chuyên sâu, loại bỏ mọi rủi ro kỹ thuật và phản ứng nhanh 24/7.",
     "packages": [
       {
         "name": "Giải pháp tùy chỉnh",
         "price": "Linh hoạt theo nhu cầu thực tế",
         "currency": "",
         "period": "",
-        "description": "Đảm bảo website và app luôn ổn định, tốc độ và an toàn. Winterfrost túc trực tối ưu hóa từng dòng code để hệ thống của bạn luôn sẵn sàng phục vụ lượng người dùng lớn.",
+        "description": "Đảm bảo website và app luôn ổn định, tốc độ và an toàn. SoftBuild túc trực tối ưu hóa từng dòng code để hệ thống của bạn luôn sẵn sàng phục vụ lượng người dùng lớn.",
         "features": [
           "Tối ưu hiệu năng liên tục.",
           "Quét lỗi định kỳ, ngăn chặn rò rỉ dữ liệu.",
@@ -248,7 +248,7 @@
   },
   "techStack": {
     "headlineLight": "Công nghệ vận hành",
-    "headlineDark": "tại Winterfrost",
+    "headlineDark": "tại SoftBuild",
     "filters": [
       "Tất cả",
       "Giao diện",
@@ -389,12 +389,12 @@
     "description": "Tổng hợp các câu hỏi về quy trình tiếp quản hệ thống, cam kết thời gian phản hồi và cách chúng tôi bảo vệ phần mềm của bạn trước các sự cố kỹ thuật.",
     "items": [
       {
-        "q": "Winterfrost có nhận bảo trì phần mềm do đơn vị khác phát triển không?",
-        "a": "Có. Chúng tôi sẽ thực hiện một đợt khảo sát kỹ thuật để đánh giá mã nguồn và hạ tầng hiện tại của bạn. Sau khi nắm rõ cấu trúc, Winterfrost sẽ tư vấn lộ trình tiếp quản và tối ưu hóa để đảm bảo hệ thống vận hành ổn định nhất."
+        "q": "SoftBuild có nhận bảo trì phần mềm do đơn vị khác phát triển không?",
+        "a": "Có. Chúng tôi sẽ thực hiện một đợt khảo sát kỹ thuật để đánh giá mã nguồn và hạ tầng hiện tại của bạn. Sau khi nắm rõ cấu trúc, SoftBuild sẽ tư vấn lộ trình tiếp quản và tối ưu hóa để đảm bảo hệ thống vận hành ổn định nhất."
       },
       {
         "q": "Nếu hệ thống gặp sự cố khẩn cấp vào ban đêm thì xử lý thế nào?",
-        "a": "Tùy vào gói dịch vụ bạn lựa chọn, chúng tôi có đội ngũ kỹ thuật trực chiến hoặc hệ thống cảnh báo tự động 24/7. Với các sự cố nghiêm trọng, Winterfrost cam kết bắt tay vào xử lý ngay lập tức để giảm thiểu tối đa thiệt hại cho doanh nghiệp."
+        "a": "Tùy vào gói dịch vụ bạn lựa chọn, chúng tôi có đội ngũ kỹ thuật trực chiến hoặc hệ thống cảnh báo tự động 24/7. Với các sự cố nghiêm trọng, SoftBuild cam kết bắt tay vào xử lý ngay lập tức để giảm thiểu tối đa thiệt hại cho doanh nghiệp."
       },
       {
         "q": "Tại sao tôi nên mua gói bảo trì định kỳ thay vì hỏng đâu sửa đó?",
@@ -402,15 +402,15 @@
       },
       {
         "q": "Gói bảo trì có bao gồm việc phát triển thêm tính năng mới không?",
-        "a": "Các gói bảo trì tập trung chính vào việc giữ hệ thống ổn định và an toàn. Tuy nhiên, chúng tôi vẫn hỗ trợ các nâng cấp nhỏ về giao diện hoặc tính năng. Với các yêu cầu phát triển lớn, Winterfrost sẽ tư vấn riêng để đảm bảo không làm ảnh hưởng đến cấu trúc vận hành hiện tại."
+        "a": "Các gói bảo trì tập trung chính vào việc giữ hệ thống ổn định và an toàn. Tuy nhiên, chúng tôi vẫn hỗ trợ các nâng cấp nhỏ về giao diện hoặc tính năng. Với các yêu cầu phát triển lớn, SoftBuild sẽ tư vấn riêng để đảm bảo không làm ảnh hưởng đến cấu trúc vận hành hiện tại."
       },
       {
-        "q": "Dữ liệu của tôi có được an toàn khi Winterfrost tiếp quản hệ thống?",
+        "q": "Dữ liệu của tôi có được an toàn khi SoftBuild tiếp quản hệ thống?",
         "a": "Tuyệt đối an toàn. Chúng tôi thiết lập các cam kết bảo mật thông tin và sử dụng các lớp mã hóa dữ liệu nghiêm ngặt. Mọi thao tác của kỹ thuật viên trên hệ thống đều được ghi lại để bạn có thể kiểm soát hoàn toàn quyền truy cập."
       },
       {
         "q": "Tôi sẽ nhận được báo cáo công việc như thế nào?",
-        "a": "Hàng tháng hoặc theo quý, Winterfrost sẽ gửi báo cáo chi tiết về tình trạng của hệ thống, bao gồm: số lượng lỗi đã xử lý, tình trạng bảo mật, hiệu suất máy chủ và các đề xuất tối ưu. Bạn sẽ luôn biết rõ ngân sách bảo trì của mình đang được sử dụng hiệu quả ra sao."
+        "a": "Hàng tháng hoặc theo quý, SoftBuild sẽ gửi báo cáo chi tiết về tình trạng của hệ thống, bao gồm: số lượng lỗi đã xử lý, tình trạng bảo mật, hiệu suất máy chủ và các đề xuất tối ưu. Bạn sẽ luôn biết rõ ngân sách bảo trì của mình đang được sử dụng hiệu quả ra sao."
       }
     ]
   }

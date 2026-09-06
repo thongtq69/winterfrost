@@ -1,10 +1,10 @@
 {
   "slug": "thiet-ke-app",
-  "metaTitle": "Dịch vụ thiết kế App - Winterfrost",
+  "metaTitle": "Dịch vụ thiết kế App - SoftBuild",
   "hero": {
     "titleLight": "Dịch vụ ",
     "titleDark": "thiết kế App",
-    "description": "Winterfrost là đơn vị thiết kế app chuyên nghiệp, tạo ra những giao diện di động trực quan, mang đến trải nghiệm người dùng cực tốt bằng những tính năng thông minh và tiện lợi cho người dùng. Từ đó, giúp doanh nghiệp rút ngắn khoảng cách với khách hàng, kết nối nhanh chóng và vận hành ổn định với lưu lượng truy cập lớn trên cả IOS và Android.",
+    "description": "SoftBuild là đơn vị thiết kế app chuyên nghiệp, tạo ra những giao diện di động trực quan, mang đến trải nghiệm người dùng cực tốt bằng những tính năng thông minh và tiện lợi cho người dùng. Từ đó, giúp doanh nghiệp rút ngắn khoảng cách với khách hàng, kết nối nhanh chóng và vận hành ổn định với lưu lượng truy cập lớn trên cả IOS và Android.",
     "bgImage": "/images/migrated/homenest-software/wp-content/uploads/2026/03/services-app-bg.jpg",
     "dashboardImage": "",
     "phones": {
@@ -137,7 +137,7 @@
   "ctaBanner": {
     "badge": "Liên hệ ngay!",
     "headline": "Thiết kế ứng dụng di động để kết nối khách hàng hiệu quả",
-    "description": "Winterfrost thiết kế ứng dụng IOS và Android có tốc độ nhanh, bảo mật và dễ sử dụng. Giải pháp này giúp bạn duy trì sự hiện diện và tương tác với khách hàng mọi lúc, mọi nơi.",
+    "description": "SoftBuild thiết kế ứng dụng IOS và Android có tốc độ nhanh, bảo mật và dễ sử dụng. Giải pháp này giúp bạn duy trì sự hiện diện và tương tác với khách hàng mọi lúc, mọi nơi.",
     "ctaLabel": "Nhận tư vấn thiết kế app",
     "ctaHref": "/lien-he",
     "image": "/images/people/cta/winterfrost/nhan-vien-cong-nghe-tre.png"
@@ -268,7 +268,7 @@
   },
   "techStack": {
     "headlineLight": "Công nghệ thiết kế App",
-    "headlineDark": "tại Winterfrost",
+    "headlineDark": "tại SoftBuild",
     "filters": [
       "Tất cả",
       "Giao diện",
@@ -405,11 +405,11 @@
       "Giải Đáp Mọi",
       "Thắc Mắc"
     ],
-    "description": "Giải đáp các thắc mắc về kỹ thuật, quy trình đưa ứng dụng lên các kho lưu trữ và chính sách đồng hành dài hạn cùng Winterfrost.",
+    "description": "Giải đáp các thắc mắc về kỹ thuật, quy trình đưa ứng dụng lên các kho lưu trữ và chính sách đồng hành dài hạn cùng SoftBuild.",
     "items": [
       {
-        "q": "Winterfrost có hỗ trợ đưa ứng dụng lên App Store và Google Play không?",
-        "a": "Có. Đây là một phần quan trọng trong dịch vụ trọn gói của chúng tôi. Winterfrost sẽ đồng hành cùng bạn xử lý các thủ tục đăng ký, cấu hình kỹ thuật và đảm bảo ứng dụng tuân thủ các chính sách khắt khe của Apple và Google để được xét duyệt nhanh nhất."
+        "q": "SoftBuild có hỗ trợ đưa ứng dụng lên App Store và Google Play không?",
+        "a": "Có. Đây là một phần quan trọng trong dịch vụ trọn gói của chúng tôi. SoftBuild sẽ đồng hành cùng bạn xử lý các thủ tục đăng ký, cấu hình kỹ thuật và đảm bảo ứng dụng tuân thủ các chính sách khắt khe của Apple và Google để được xét duyệt nhanh nhất."
       },
       {
         "q": "Tôi nên chọn ứng dụng đa nền tảng hay ứng dụng bản địa?",
@@ -417,7 +417,7 @@
       },
       {
         "q": "Chi phí duy trì ứng dụng sau khi ra mắt bao gồm những gì?",
-        "a": "Chi phí này thường bao gồm phí thuê máy chủ, phí duy trì tài khoản nhà phát triển hàng năm trên các kho ứng dụng và phí bảo trì kỹ thuật định kỳ. Winterfrost sẽ tư vấn gói hạ tầng tối ưu nhất để bạn tiết kiệm chi phí mà vẫn đảm bảo ứng dụng vận hành ổn định."
+        "a": "Chi phí này thường bao gồm phí thuê máy chủ, phí duy trì tài khoản nhà phát triển hàng năm trên các kho ứng dụng và phí bảo trì kỹ thuật định kỳ. SoftBuild sẽ tư vấn gói hạ tầng tối ưu nhất để bạn tiết kiệm chi phí mà vẫn đảm bảo ứng dụng vận hành ổn định."
       },
       {
         "q": "Làm sao để ứng dụng hoạt động tốt trên nhiều dòng điện thoại khác nhau?",
@@ -428,7 +428,7 @@
         "a": "Có thể. Chúng tôi có thể thiết kế cơ chế lưu trữ dữ liệu cục bộ và đồng bộ hóa thông minh. Điều này cho phép người dùng truy cập và sử dụng một số tính năng cốt lõi ngay cả khi ngoại tuyến, dữ liệu sẽ tự động được cập nhật lên máy chủ ngay khi có kết nối mạng trở lại."
       },
       {
-        "q": "Winterfrost có hỗ trợ cập nhật khi iOS hoặc Android ra phiên bản mới không?",
+        "q": "SoftBuild có hỗ trợ cập nhật khi iOS hoặc Android ra phiên bản mới không?",
         "a": "Chắc chắn. Chúng tôi cung cấp các gói hỗ trợ và bảo trì dài hạn để đảm bảo ứng dụng của bạn luôn tương thích với các bản cập nhật mới nhất từ Apple và Google, tránh tình trạng lỗi tính năng hoặc bị gỡ bỏ khỏi kho ứng dụng do lạc hậu về công nghệ."
       },
       {

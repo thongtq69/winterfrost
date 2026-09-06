@@ -62,7 +62,7 @@ export function CaseStudiesHero() {
         </div>
         <h1 className={styles.titleBlock}>
           <span className={styles.subtitle}>{tr("Các dự án tiêu biểu")}</span>
-          <span className={styles.title}>{tr("tại Winterfrost")}</span>
+          <span className={styles.title}>{tr("tại SoftBuild")}</span>
         </h1>
       </div>
     </section>

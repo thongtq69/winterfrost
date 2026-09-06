@@ -26,7 +26,7 @@ function ChatWidget({ raised }: { raised: boolean }) {
   const [showPreview, setShowPreview] = useState(true);
 
   useEffect(() => {
-    const storageKey = "winterfrost-chat-greeting-seen";
+    const storageKey = "softbuild-chat-greeting-seen";
     let hideDelay = 6000;
 
     try {
@@ -51,7 +51,7 @@ function ChatWidget({ raised }: { raised: boolean }) {
             <div className={s.chatHeaderInfo}>
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img src={CHATBOT_AVATAR} alt="Logo" className={s.chatHeaderAvatar} />
-              <strong className={s.chatHeaderTitle}>Winterfrost</strong>
+              <strong className={s.chatHeaderTitle}>SoftBuild AI</strong>
             </div>
             <button
               type="button"
@@ -90,8 +90,8 @@ function ChatWidget({ raised }: { raised: boolean }) {
             <div className={s.chatFooter}>
               <span>POWERED BY</span>
               {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img src={CHATBOT_BRAND} alt="Winterfrost" />
-              <strong>WINTERFROST</strong>
+              <img src={CHATBOT_BRAND} alt="SoftBuild" />
+              <strong>SOFTBUILD</strong>
             </div>
           </div>
         </section>
@@ -110,7 +110,7 @@ function ChatWidget({ raised }: { raised: boolean }) {
             <div className={s.chatPreviewHeader}>
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img src={CHATBOT_AVATAR} alt="Bot" className={s.chatPreviewAvatar} />
-              <span className={s.chatPreviewTitle}>Winterfrost</span>
+              <span className={s.chatPreviewTitle}>SoftBuild AI</span>
               <button
                 type="button"
                 className={s.chatPreviewClose}

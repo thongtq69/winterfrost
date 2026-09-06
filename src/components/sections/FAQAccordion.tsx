@@ -17,7 +17,7 @@ type FAQProps = {
 const HOME_FAQ_LINK_TEXT = "thiết bị thông minh IoT, cơ sở dữ liệu phi tập trung Blockchain";
 
 function AnswerContent({ question, answer }: { question: string; answer: string }) {
-  if (question !== "Winterfrost cung cấp những dịch vụ cốt lõi nào?" || !answer.includes(HOME_FAQ_LINK_TEXT)) {
+  if (question !== "SoftBuild cung cấp những dịch vụ cốt lõi nào?" || !answer.includes(HOME_FAQ_LINK_TEXT)) {
     return answer;
   }
 
@@ -25,7 +25,7 @@ function AnswerContent({ question, answer }: { question: string; answer: string 
   return (
     <>
       {before}
-      <a href="https://winterfrost.tech/blockchain-va-iot-toan-bo-kien-thuc-quan-trong-danh-cho-tech-leaders" target="_blank" rel="noopener noreferrer">
+      <a href="https://softbuildvn.vercel.app/blockchain-va-iot-toan-bo-kien-thuc-quan-trong-danh-cho-tech-leaders" target="_blank" rel="noopener noreferrer">
         {HOME_FAQ_LINK_TEXT}
       </a>
       {after}

@@ -1,10 +1,10 @@
 {
   "slug": "phat-trien-devops",
-  "metaTitle": "Dịch vụ phát triển DevOps - Winterfrost",
+  "metaTitle": "Dịch vụ phát triển DevOps - SoftBuild",
   "hero": {
     "titleDark": "Dịch vụ phát triển",
     "titleLight": " DevOps ",
-    "description": "Winterfrost thiết kế hạ tầng Cloud linh hoạt, chuẩn hóa CI/CD và triển khai các giải pháp DevSecOps, giúp doanh nghiệp rút ngắn phát hành sản phẩm và đảm bảo hệ thống vận hành thông suốt ở mọi quy mô.",
+    "description": "SoftBuild thiết kế hạ tầng Cloud linh hoạt, chuẩn hóa CI/CD và triển khai các giải pháp DevSecOps, giúp doanh nghiệp rút ngắn phát hành sản phẩm và đảm bảo hệ thống vận hành thông suốt ở mọi quy mô.",
     "bgImage": "/images/migrated/homenest-software/wp-content/uploads/2026/03/Web-app-development.jpg",
     "dashboardImage": "/images/services/winterfrost/web-application-development.webp"
   },
@@ -113,7 +113,7 @@
     ]
   },
   "benefits": {
-    "label": "Những lợi ích từ việc sử dụng dịch vụ DevOps tại Winterfrost?",
+    "label": "Những lợi ích từ việc sử dụng dịch vụ DevOps tại SoftBuild?",
     "headlineLight": "Những ưu điểm nổi bật ",
     "headlineDark": "trong quản lý và tự động hóa hạ tầng",
     "items": [
@@ -160,14 +160,14 @@
       {
         "num": "9",
         "title": "Kỹ sư SRE trực chiến",
-        "desc": "Làm việc trực tiếp với đội ngũ kỹ của Winterfrost sư vận hành hệ thống trình độ cao, cam kết xử lý các yêu cầu kỹ thuật tức thì."
+        "desc": "Làm việc trực tiếp với đội ngũ kỹ của SoftBuild sư vận hành hệ thống trình độ cao, cam kết xử lý các yêu cầu kỹ thuật tức thì."
       }
     ]
   },
   "ctaBanner": {
     "badge": "Liên hệ ngay!",
     "headline": "Tối ưu quy trình phát triển và vận hành phần mềm",
-    "description": "Nếu doanh nghiệp cần một hệ thống hoạt động liên tục và an toàn, Winterfrost sẽ thiết kế quy trình giám sát và bảo mật hạ tầng chuyên sâu. Giải pháp này giúp phát hiện lỗi sớm và ngăn chặn các rủi ro gây gián đoạn dịch vụ.",
+    "description": "Nếu doanh nghiệp cần một hệ thống hoạt động liên tục và an toàn, SoftBuild sẽ thiết kế quy trình giám sát và bảo mật hạ tầng chuyên sâu. Giải pháp này giúp phát hiện lỗi sớm và ngăn chặn các rủi ro gây gián đoạn dịch vụ.",
     "ctaLabel": "Nhận tư vấn DevOps",
     "ctaHref": "/lien-he",
     "image": "/images/people/cta/winterfrost/nhan-vien-cong-nghe-tre.png"
@@ -313,7 +313,7 @@
   },
   "techStack": {
     "headlineLight": "Công nghệ phát triển DevOps ",
-    "headlineDark": "tại Winterfrost ",
+    "headlineDark": "tại SoftBuild ",
     "filters": [
       "Tất cả",
       "Giao diện",
@@ -431,7 +431,7 @@
       {
         "slug": "phat-trien-phan-mem-doanh-nghiep",
         "title": "Phát triển phần mềm doanh nghiệp",
-        "desc": "Phần mềm quy mô lớn yêu cầu hạ tầng DevOps tiêu chuẩn cao. Winterfrost xây dựng các đường ống CI/CD cho các kiến trúc đa dịch vụ phức tạp, đảm bảo luồng công việc tuân thủ các quy chuẩn khắt khe và hạ tầng có khả năng xử lý lưu lượng truy cập lớn một cách ổn định.",
+        "desc": "Phần mềm quy mô lớn yêu cầu hạ tầng DevOps tiêu chuẩn cao. SoftBuild xây dựng các đường ống CI/CD cho các kiến trúc đa dịch vụ phức tạp, đảm bảo luồng công việc tuân thủ các quy chuẩn khắt khe và hạ tầng có khả năng xử lý lưu lượng truy cập lớn một cách ổn định.",
         "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Dich-vu-phat-trien-phan-mem-doanh-nghiep-HomeNest-Viet-Nam.jpg",
         "href": "/dich-vu/phat-trien-phan-mem-doanh-nghiep"
       },
@@ -462,12 +462,12 @@
         "a": "Có. Chúng tôi tích hợp mô hình DevSecOps, nhúng các công cụ quét mã độc và kiểm tra lỗ hổng bảo mật tự động ngay trong đường ống triển khai. Mọi thay đổi về mã nguồn đều phải vượt qua các bài kiểm tra an ninh trước khi được phép phát hành lên môi trường vận hành thực tế."
       },
       {
-        "q": "Hệ thống hiện tại của tôi không dùng Cloud, Winterfrost có hỗ trợ không?",
-        "a": "Có. Chúng tôi hỗ trợ triển khai DevOps trên cả hạ tầng máy chủ vật lý và các mô hình hybrid Cloud. Winterfrost sẽ thực hiện container hóa ứng dụng bằng Docker để đảm bảo phần mềm hoạt động ổn định và dễ dàng quản lý bất kể môi trường hạ tầng bên dưới."
+        "q": "Hệ thống hiện tại của tôi không dùng Cloud, SoftBuild có hỗ trợ không?",
+        "a": "Có. Chúng tôi hỗ trợ triển khai DevOps trên cả hạ tầng máy chủ vật lý và các mô hình hybrid Cloud. SoftBuild sẽ thực hiện container hóa ứng dụng bằng Docker để đảm bảo phần mềm hoạt động ổn định và dễ dàng quản lý bất kể môi trường hạ tầng bên dưới."
       },
       {
         "q": "Làm thế nào để đảm bảo hệ thống không bị gián đoạn khi cập nhật?",
-        "a": "Winterfrost áp dụng các chiến lược triển khai hiện đại như Blue-Green Deployment hoặc Canary Release. Quy trình này cho phép khởi tạo một môi trường song song với phiên bản mới, kiểm tra tính ổn định rồi mới chuyển hướng lưu lượng người dùng, đảm bảo hệ thống luôn sẵn sàng 24/7."
+        "a": "SoftBuild áp dụng các chiến lược triển khai hiện đại như Blue-Green Deployment hoặc Canary Release. Quy trình này cho phép khởi tạo một môi trường song song với phiên bản mới, kiểm tra tính ổn định rồi mới chuyển hướng lưu lượng người dùng, đảm bảo hệ thống luôn sẵn sàng 24/7."
       },
       {
         "q": "Quản trị hạ tầng bằng mã mang lại lợi ích gì cho doanh nghiệp?",
@@ -475,10 +475,10 @@
       },
       {
         "q": "Sau khi bàn giao, đội ngũ của tôi có thể tự vận hành hệ thống không?",
-        "a": "Có. Winterfrost bàn giao toàn bộ mã nguồn cấu hình hạ tầng, tài liệu hướng dẫn vận hành và sơ đồ kiến trúc hệ thống. Chúng tôi cũng cung cấp các buổi đào tạo kỹ thuật để đội ngũ nội bộ nắm vững quy trình quản trị và sử dụng các công cụ giám sát hiệu quả."
+        "a": "Có. SoftBuild bàn giao toàn bộ mã nguồn cấu hình hạ tầng, tài liệu hướng dẫn vận hành và sơ đồ kiến trúc hệ thống. Chúng tôi cũng cung cấp các buổi đào tạo kỹ thuật để đội ngũ nội bộ nắm vững quy trình quản trị và sử dụng các công cụ giám sát hiệu quả."
       },
       {
-        "q": "Winterfrost giám sát sức khỏe hệ thống như thế nào?",
+        "q": "SoftBuild giám sát sức khỏe hệ thống như thế nào?",
         "a": "Chúng tôi thiết lập hệ thống Monitoring & Alerting tập trung. Mọi chỉ số về hiệu suất máy chủ và nhật ký lỗi ứng dụng được theo dõi theo thời gian thực. Hệ thống sẽ tự động gửi cảnh báo qua Telegram/Slack/Email cho đội ngũ kỹ thuật ngay khi phát hiện dấu hiệu quá tải hoặc lỗi dịch vụ."
       }
     ]

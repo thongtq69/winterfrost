@@ -4,7 +4,7 @@
     "title": "Bán lẻ",
     "hero": {
       "title": "Dịch vụ phát triển phần mềm bán lẻ",
-      "description": "Winterfrost cung cấp dịch vụ lập trình hệ thống quản trị bán lẻ chuyên sâu, tập trung vào việc hợp nhất dữ liệu đa kênh và tự động hóa quy trình vận hành. chúng tôi xây dựng hạ tầng phần mềm giúp doanh nghiệp kiểm soát chính xác dòng hàng, dòng tiền và dữ liệu khách hàng trên một nền tảng tập trung.",
+      "description": "SoftBuild cung cấp dịch vụ lập trình hệ thống quản trị bán lẻ chuyên sâu, tập trung vào việc hợp nhất dữ liệu đa kênh và tự động hóa quy trình vận hành. chúng tôi xây dựng hạ tầng phần mềm giúp doanh nghiệp kiểm soát chính xác dòng hàng, dòng tiền và dữ liệu khách hàng trên một nền tảng tập trung.",
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Dich-vu-phat-trien-phan-mem-ban-le.jpg",
       "imageAlt": "Dịch vụ phát triển phần mềm bán lẻ",
       "primaryLabel": "Liên hệ trực tiếp",
@@ -12,12 +12,12 @@
     },
     "overview": {
       "label": "Overview",
-      "title": "Thách thức và giải pháp kỹ thuật từ Winterfrost",
+      "title": "Thách thức và giải pháp kỹ thuật từ SoftBuild",
       "paragraphs": [
-        "Doanh nghiệp bán lẻ thường đối mặt với tình trạng dữ liệu tồn kho bị phân mảnh giữa cửa hàng vật lý và các sàn thương mại điện tử, dẫn đến sai lệch số liệu và chậm trễ trong xử lý đơn hàng. Winterfrost giải quyết vấn đề này bằng cách thiết kế kiến trúc phần mềm đồng bộ thời gian thực, tích hợp API trực tiếp giữa các hệ thống kho, kế toán và vận chuyển để tối ưu hóa hiệu suất vận hành."
+        "Doanh nghiệp bán lẻ thường đối mặt với tình trạng dữ liệu tồn kho bị phân mảnh giữa cửa hàng vật lý và các sàn thương mại điện tử, dẫn đến sai lệch số liệu và chậm trễ trong xử lý đơn hàng. SoftBuild giải quyết vấn đề này bằng cách thiết kế kiến trúc phần mềm đồng bộ thời gian thực, tích hợp API trực tiếp giữa các hệ thống kho, kế toán và vận chuyển để tối ưu hóa hiệu suất vận hành."
       ],
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Thach-thuc-va-giai-phap-ky-thuat-tu-HomeNest-Viet-Nam.jpg",
-      "imageAlt": "Thách thức và giải pháp kỹ thuật từ Winterfrost"
+      "imageAlt": "Thách thức và giải pháp kỹ thuật từ SoftBuild"
     },
     "counters": [
       {
@@ -86,7 +86,7 @@
     },
     "why": {
       "label": "Tại sao chọn chúng tôi?",
-      "title": "Lý do chọn Winterfrost làm đối tác kỹ thuật",
+      "title": "Lý do chọn SoftBuild làm đối tác kỹ thuật",
       "items": [
         {
           "number": "1",
@@ -123,7 +123,7 @@
     "cta": {
       "label": "Liên hệ ngay!",
       "title": "Dẫn đầu kỷ nguyên số với hệ thống AI độc quyền",
-      "description": "Đừng chỉ dừng lại ở tự động hóa thông thường. Hãy cùng Winterfrost khai phá sức mạnh dữ liệu để xây dựng những mô hình AI riêng biệt, giúp doanh nghiệp của bạn sở hữu lợi thế cạnh tranh tuyệt đối trên thị trường.",
+      "description": "Đừng chỉ dừng lại ở tự động hóa thông thường. Hãy cùng SoftBuild khai phá sức mạnh dữ liệu để xây dựng những mô hình AI riêng biệt, giúp doanh nghiệp của bạn sở hữu lợi thế cạnh tranh tuyệt đối trên thị trường.",
       "buttonLabel": "Xây dựng lộ trình AI ngay",
       "image": "/images/people/cta/winterfrost/chuyen-vien-tu-van-viet-nam.png",
       "imageAlt": "Expert consultant"
@@ -132,15 +132,15 @@
       "title": "Case Studies",
       "links": [
         {
-          "href": "https://winterfrost.tech/case-studies/website-zenovia-retail",
+          "href": "https://softbuildvn.vercel.app/case-studies/website-zenovia-retail",
           "text": "BÁN LẺ\nCHUỖI CUNG ỨNG\nTHIẾT KẾ WEBSITE\nWebsite Zenovia Retail\nXem dự án"
         },
         {
-          "href": "https://winterfrost.tech/case-studies/website-veloura-nails",
+          "href": "https://softbuildvn.vercel.app/case-studies/website-veloura-nails",
           "text": "BÁN LẺ\nTHIẾT KẾ WEBSITE\nWebsite Veloura Nails\nXem dự án"
         },
         {
-          "href": "https://winterfrost.tech/case-studies/website-mocvan-tea",
+          "href": "https://softbuildvn.vercel.app/case-studies/website-mocvan-tea",
           "text": "BÁN LẺ\nTHƯƠNG MẠI ĐIỆN TỬ\nTHIẾT KẾ WEBSITE\nWebsite Mocvan Tea\nXem dự án"
         }
       ],
@@ -163,7 +163,7 @@
           "title": "Thiết kế website E-commerce",
           "description": "Xây dựng trang web bán hàng hiệu suất cao, tối ưu hóa tỷ lệ chuyển đổi kỹ thuật.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Thiet-ke-website-E-commerce-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Thiết kế website E-commerce - Winterfrost"
+          "imageAlt": "Thiết kế website E-commerce - SoftBuild"
         },
         {
           "title": "Phát triển Mobile App mua sắm",
@@ -247,7 +247,7 @@
       "items": [
         {
           "q": "Hệ thống có khả năng tích hợp với các phần mềm kế toán hoặc ERP hiện có không?",
-          "a": "Winterfrost thiết kế hệ thống dựa trên kiến trúc API-First, cho phép kết nối trực tiếp với các nền tảng phổ biến như SAP, Oracle, Misa hoặc các phần mềm quản trị chuyên biệt khác. Chúng tôi thực hiện đồng bộ hóa dữ liệu thông qua các giao thức RESTful API hoặc Webhooks để đảm bảo luồng thông tin tài chính và hàng hóa luôn thống nhất giữa các phòng ban."
+          "a": "SoftBuild thiết kế hệ thống dựa trên kiến trúc API-First, cho phép kết nối trực tiếp với các nền tảng phổ biến như SAP, Oracle, Misa hoặc các phần mềm quản trị chuyên biệt khác. Chúng tôi thực hiện đồng bộ hóa dữ liệu thông qua các giao thức RESTful API hoặc Webhooks để đảm bảo luồng thông tin tài chính và hàng hóa luôn thống nhất giữa các phòng ban."
         },
         {
           "q": "Làm thế nào để hệ thống xử lý tình trạng quá tải trong các đợt khuyến mãi lớn?",
@@ -267,7 +267,7 @@
         },
         {
           "q": "Chi phí duy trì và khả năng nâng cấp hệ thống sau khi bàn giao như thế nào?",
-          "a": "Hệ thống được xây dựng trên cấu trúc Modular dạng module độc lập, giúp việc nâng cấp hoặc thêm mới tính năng diễn ra nhanh chóng mà không cần tái cấu trúc toàn bộ mã nguồn. Về chi phí duy trì, Winterfrost tối ưu hóa mã nguồn để giảm thiểu tiêu thụ tài nguyên phần cứng, giúp doanh nghiệp tiết kiệm chi phí vận hành hạ tầng hàng tháng, đồng thời cung cấp tài liệu kỹ thuật đầy đủ để đội ngũ nội bộ có thể quản lý."
+          "a": "Hệ thống được xây dựng trên cấu trúc Modular dạng module độc lập, giúp việc nâng cấp hoặc thêm mới tính năng diễn ra nhanh chóng mà không cần tái cấu trúc toàn bộ mã nguồn. Về chi phí duy trì, SoftBuild tối ưu hóa mã nguồn để giảm thiểu tiêu thụ tài nguyên phần cứng, giúp doanh nghiệp tiết kiệm chi phí vận hành hạ tầng hàng tháng, đồng thời cung cấp tài liệu kỹ thuật đầy đủ để đội ngũ nội bộ có thể quản lý."
         }
       ]
     }
@@ -277,7 +277,7 @@
     "title": "Bất động sản",
     "hero": {
       "title": "Giải pháp lập trình và chuyển đổi số bất động sản",
-      "description": "Winterfrost cung cấp dịch vụ xây dựng hạ tầng phần mềm quản trị bất động sản tập trung, giúp các chủ đầu tư và sàn giao dịch tự động hóa quy trình phân phối sản phẩm, quản lý dữ liệu khách hàng và tối ưu hóa dòng tiền giao dịch.",
+      "description": "SoftBuild cung cấp dịch vụ xây dựng hạ tầng phần mềm quản trị bất động sản tập trung, giúp các chủ đầu tư và sàn giao dịch tự động hóa quy trình phân phối sản phẩm, quản lý dữ liệu khách hàng và tối ưu hóa dòng tiền giao dịch.",
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-lap-trinh-va-chuyen-doi-so-bat-dong-san.jpg",
       "imageAlt": "Giải pháp lập trình và chuyển đổi số bất động sản",
       "primaryLabel": "Liên hệ trực tiếp",
@@ -287,7 +287,7 @@
       "label": "Overview",
       "title": "Kiểm soát tập trung và chuẩn hóa quy trình giao dịch",
       "paragraphs": [
-        "Thách thức lớn nhất của doanh nghiệp bất động sản là sự phân mảnh trong quản lý giỏ hàng dẫn đến tình trạng chồng chéo giao dịch và thiếu minh bạch trong tính toán hoa hồng. Winterfrost giải quyết vấn đề này bằng cách thiết lập hệ thống Centralized Inventory Management tích hợp cơ chế khóa căn thời gian thực, đảm bảo tính duy nhất của giao dịch và đồng bộ hóa dữ liệu giữa bộ phận kinh doanh, kế toán và khách hàng."
+        "Thách thức lớn nhất của doanh nghiệp bất động sản là sự phân mảnh trong quản lý giỏ hàng dẫn đến tình trạng chồng chéo giao dịch và thiếu minh bạch trong tính toán hoa hồng. SoftBuild giải quyết vấn đề này bằng cách thiết lập hệ thống Centralized Inventory Management tích hợp cơ chế khóa căn thời gian thực, đảm bảo tính duy nhất của giao dịch và đồng bộ hóa dữ liệu giữa bộ phận kinh doanh, kế toán và khách hàng."
       ],
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Kiem-soat-tap-trung-va-chuan-hoa-quy-trinh-giao-dich.jpg",
       "imageAlt": "Kiểm soát tập trung và chuẩn hóa quy trình giao dịch"
@@ -359,7 +359,7 @@
     },
     "why": {
       "label": "Tại sao chọn chúng tôi?",
-      "title": "Lý do chọn Winterfrost làm đối tác kỹ thuật",
+      "title": "Lý do chọn SoftBuild làm đối tác kỹ thuật",
       "items": [
         {
           "number": "1",
@@ -396,7 +396,7 @@
     "cta": {
       "label": "Liên hệ ngay!",
       "title": "Số hóa hạ tầng quản trị và phân phối bất động sản",
-      "description": "Liên hệ đội ngũ kỹ sư tại Winterfrost để triển khai hệ thống quản lý giỏ hàng thời gian thực và tự động hóa quy trình giao dịch nhằm tăng hiệu suất vận hành cho doanh nghiệp.",
+      "description": "Liên hệ đội ngũ kỹ sư tại SoftBuild để triển khai hệ thống quản lý giỏ hàng thời gian thực và tự động hóa quy trình giao dịch nhằm tăng hiệu suất vận hành cho doanh nghiệp.",
       "buttonLabel": "Nhận tư vấn giải pháp kỹ thuật",
       "image": "/images/people/cta/winterfrost/chuyen-vien-nu.png",
       "imageAlt": "Expert consultant"
@@ -405,15 +405,15 @@
       "title": "Case Studies",
       "links": [
         {
-          "href": "https://winterfrost.tech/case-studies/website-verdora-property",
+          "href": "https://softbuildvn.vercel.app/case-studies/website-verdora-property",
           "text": "BẤT ĐỘNG SẢN\nTHIẾT KẾ WEBSITE\nWebsite Verdora Property\nXem dự án"
         },
         {
-          "href": "https://winterfrost.tech/case-studies/mont-pine-realty",
+          "href": "https://softbuildvn.vercel.app/case-studies/mont-pine-realty",
           "text": "BẤT ĐỘNG SẢN\nTHIẾT KẾ WEBSITE\nWebsite Verdora Property\nXem dự án"
         },
         {
-          "href": "https://winterfrost.tech/case-studies/la-cerise-dalat-villas",
+          "href": "https://softbuildvn.vercel.app/case-studies/la-cerise-dalat-villas",
           "text": "BẤT ĐỘNG SẢN\nTHIẾT KẾ WEBSITE\nRovena Travel – Thiết kế website bất động sản Đà Lạt\nXem dự án"
         }
       ],
@@ -524,7 +524,7 @@
       "items": [
         {
           "q": "Làm thế nào để hệ thống ngăn chặn việc đặt chồng căn trong các đợt mở bán?",
-          "a": "Winterfrost sử dụng cơ chế Pessimistic Locking trực tiếp tại tầng cơ sở dữ liệu. Khi một nhân viên khởi tạo lệnh giữ chỗ, bản ghi sản phẩm đó sẽ bị khóa ngay lập tức ở mức mili giây, ngăn chặn mọi truy cập ghi khác cho đến khi giao dịch hoàn tất hoặc hết thời gian giữ chỗ quy định."
+          "a": "SoftBuild sử dụng cơ chế Pessimistic Locking trực tiếp tại tầng cơ sở dữ liệu. Khi một nhân viên khởi tạo lệnh giữ chỗ, bản ghi sản phẩm đó sẽ bị khóa ngay lập tức ở mức mili giây, ngăn chặn mọi truy cập ghi khác cho đến khi giao dịch hoàn tất hoặc hết thời gian giữ chỗ quy định."
         },
         {
           "q": "Hệ thống có khả năng tích hợp với các nền tảng ERP hoặc kế toán hiện có của doanh nghiệp không?",
@@ -540,7 +540,7 @@
         },
         {
           "q": "Phần mềm có hỗ trợ quy trình ký hợp đồng điện tử và định danh khách hàng trực tuyến không?",
-          "a": "Có. Winterfrost tích hợp các giải pháp eKYC định danh điện tử để xác thực thông tin khách hàng và kết nối với các đơn vị cung cấp chữ ký số để số hóa toàn bộ quy trình ký kết hợp đồng, đảm bảo giá trị pháp lý theo quy định của pháp luật hiện hành."
+          "a": "Có. SoftBuild tích hợp các giải pháp eKYC định danh điện tử để xác thực thông tin khách hàng và kết nối với các đơn vị cung cấp chữ ký số để số hóa toàn bộ quy trình ký kết hợp đồng, đảm bảo giá trị pháp lý theo quy định của pháp luật hiện hành."
         },
         {
           "q": "Doanh nghiệp có thể tự cấu hình các chương trình chiết khấu và chính sách bán hàng phức tạp không?",
@@ -554,9 +554,9 @@
     "title": "Chuỗi cung ứng",
     "hero": {
       "title": "Giải pháp quản lý chuỗi cung ứng toàn diện",
-      "description": "Winterfrost cung cấp dịch vụ xây dựng hạ tầng phần mềm quản trị chuỗi cung ứng tập trung, giúp doanh nghiệp kiểm soát toàn diện luồng dữ liệu từ nhà cung cấp đến khách hàng cuối. Chúng tôi thiết kế kiến trúc phần mềm có khả năng hợp nhất dữ liệu đa kênh, đảm bảo tính minh bạch và tối ưu hóa chi phí vận hành trên toàn bộ hệ thống logistics.",
+      "description": "SoftBuild cung cấp dịch vụ xây dựng hạ tầng phần mềm quản trị chuỗi cung ứng tập trung, giúp doanh nghiệp kiểm soát toàn diện luồng dữ liệu từ nhà cung cấp đến khách hàng cuối. Chúng tôi thiết kế kiến trúc phần mềm có khả năng hợp nhất dữ liệu đa kênh, đảm bảo tính minh bạch và tối ưu hóa chi phí vận hành trên toàn bộ hệ thống logistics.",
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-dong-bo-chuoi-cung-ung-cua-HomeNest-Viet-Nam.jpg",
-      "imageAlt": "Giải pháp đồng bộ chuỗi cung ứng của Winterfrost",
+      "imageAlt": "Giải pháp đồng bộ chuỗi cung ứng của SoftBuild",
       "primaryLabel": "Liên hệ trực tiếp",
       "secondaryLabel": "Nhắn tin nhận tư vấn"
     },
@@ -564,7 +564,7 @@
       "label": "Overview",
       "title": "Giải pháp đồng bộ Chuỗi Cung Ứng",
       "paragraphs": [
-        "Thách thức lớn nhất trong quản trị chuỗi cung ứng là sự thiếu đồng bộ thông tin giữa các bên tham gia dẫn đến tình trạng tồn kho ảo và chậm trễ trong điều phối hàng hóa. Winterfrost giải quyết vấn đề này bằng cách thiết lập hệ thống Unified Supply Chain Hub tích hợp cơ chế chia sẻ dữ liệu thời gian thực giữa nhà sản xuất, đơn vị vận chuyển và kho hàng. Giải pháp của chúng tôi triệt tiêu các nút thắt dữ liệu, cho phép doanh nghiệp theo dõi chính xác hành trình sản phẩm và phản ứng tức thời với các biến động của thị trường."
+        "Thách thức lớn nhất trong quản trị chuỗi cung ứng là sự thiếu đồng bộ thông tin giữa các bên tham gia dẫn đến tình trạng tồn kho ảo và chậm trễ trong điều phối hàng hóa. SoftBuild giải quyết vấn đề này bằng cách thiết lập hệ thống Unified Supply Chain Hub tích hợp cơ chế chia sẻ dữ liệu thời gian thực giữa nhà sản xuất, đơn vị vận chuyển và kho hàng. Giải pháp của chúng tôi triệt tiêu các nút thắt dữ liệu, cho phép doanh nghiệp theo dõi chính xác hành trình sản phẩm và phản ứng tức thời với các biến động của thị trường."
       ],
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-quan-ly-chuoi-cung-ung-toan-dien.jpg",
       "imageAlt": "Giải pháp quản lý chuỗi cung ứng toàn diện"
@@ -636,7 +636,7 @@
     },
     "why": {
       "label": "Tại sao chọn chúng tôi?",
-      "title": "Vì sao nên chọn Winterfrost cho giải pháp chuyển đổi số chuỗi cung ứng",
+      "title": "Vì sao nên chọn SoftBuild cho giải pháp chuyển đổi số chuỗi cung ứng",
       "items": [
         {
           "number": "1",
@@ -673,7 +673,7 @@
     "cta": {
       "label": "Liên hệ ngay!",
       "title": "Số hóa hạ tầng quản trị chuỗi cung ứng toàn diện",
-      "description": "Liên hệ với đội ngũ kỹ sư tại Winterfrost để thiết lập hệ thống quản lý cung ứng tập trung và tự động hóa quy trình điều phối nhằm tối ưu hóa hiệu suất vận hành cho doanh nghiệp.",
+      "description": "Liên hệ với đội ngũ kỹ sư tại SoftBuild để thiết lập hệ thống quản lý cung ứng tập trung và tự động hóa quy trình điều phối nhằm tối ưu hóa hiệu suất vận hành cho doanh nghiệp.",
       "buttonLabel": "Nhận tư vấn ngay",
       "image": "/images/people/cta/winterfrost/nhan-vien-cong-nghe-tre.png",
       "imageAlt": "Expert consultant"
@@ -682,7 +682,7 @@
       "title": "Case Studies",
       "links": [
         {
-          "href": "https://winterfrost.tech/case-studies/website-zenovia-retail",
+          "href": "https://softbuildvn.vercel.app/case-studies/website-zenovia-retail",
           "text": "BÁN LẺ\nCHUỖI CUNG ỨNG\nTHIẾT KẾ WEBSITE\nWebsite Zenovia Retail\nXem dự án"
         }
       ],
@@ -780,7 +780,7 @@
       "items": [
         {
           "q": "Hệ thống có khả năng tích hợp với các phần mềm quản trị ERP sẵn có của doanh nghiệp không?",
-          "a": "Winterfrost thiết kế hạ tầng theo tiêu chuẩn API First để thực hiện kết nối trực tiếp với các nền tảng phổ biến như SAP và Oracle hoặc các hệ thống quản trị nội bộ khác. Luồng dữ liệu được thiết lập đồng bộ hai chiều nhằm đảm bảo tính nhất quán tuyệt đối giữa quy trình mua hàng, vận hành kho và hạch toán tài chính trên toàn doanh nghiệp."
+          "a": "SoftBuild thiết kế hạ tầng theo tiêu chuẩn API First để thực hiện kết nối trực tiếp với các nền tảng phổ biến như SAP và Oracle hoặc các hệ thống quản trị nội bộ khác. Luồng dữ liệu được thiết lập đồng bộ hai chiều nhằm đảm bảo tính nhất quán tuyệt đối giữa quy trình mua hàng, vận hành kho và hạch toán tài chính trên toàn doanh nghiệp."
         },
         {
           "q": "Hệ thống xử lý thế nào khi quy mô mạng lưới cung ứng và lượng dữ liệu giao dịch tăng đột biến?",
@@ -810,9 +810,9 @@
     "title": "Công nghệ tài chính",
     "hero": {
       "title": "Giải pháp công nghệ tài chính",
-      "description": "Winterfrost xây dựng các ứng dụng tài chính siêu bảo mật và có khả năng mở rộng linh hoạt trên nền tảng Cloud-native. Từ việc phát triển các ngân hàng số hiện đại, hệ thống giao dịch thuật toán đến tích hợp Blockchain chuyên sâu, chúng tôi hỗ trợ các định chế tài chính và đơn vị khởi nghiệp đổi mới sáng tạo mạnh mẽ trên quy mô lớn. Giải pháp của Winterfrost tập trung vào việc tạo ra môi trường giao dịch an toàn, minh bạch và tối ưu hóa hiệu suất xử lý dữ liệu thực tế.",
+      "description": "SoftBuild xây dựng các ứng dụng tài chính siêu bảo mật và có khả năng mở rộng linh hoạt trên nền tảng Cloud-native. Từ việc phát triển các ngân hàng số hiện đại, hệ thống giao dịch thuật toán đến tích hợp Blockchain chuyên sâu, chúng tôi hỗ trợ các định chế tài chính và đơn vị khởi nghiệp đổi mới sáng tạo mạnh mẽ trên quy mô lớn. Giải pháp của SoftBuild tập trung vào việc tạo ra môi trường giao dịch an toàn, minh bạch và tối ưu hóa hiệu suất xử lý dữ liệu thực tế.",
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-cong-nghe-tai-chinh-HomeNest-Viet-Nam.jpg",
-      "imageAlt": "Giải pháp công nghệ tài chính - Winterfrost",
+      "imageAlt": "Giải pháp công nghệ tài chính - SoftBuild",
       "primaryLabel": "Liên hệ trực tiếp",
       "secondaryLabel": "Nhắn tin nhận tư vấn"
     },
@@ -821,7 +821,7 @@
       "title": "Thách thức của lĩnh vực công nghệ tài chính",
       "paragraphs": [
         "Các tổ chức tài chính thường đối mặt với thách thức từ hệ thống cũ lạc hậu, tốc độ xử lý giao dịch chậm và rủi ro bảo mật cao. Việc thiếu khả năng mở rộng khiến hệ thống dễ bị quá tải khi lượng người dùng tăng nhanh. Bên cạnh đó, việc tích hợp các công nghệ mới như Blockchain hay giao dịch tự động vào hạ tầng hiện có gặp nhiều rào cản kỹ thuật phức tạp.",
-        "Winterfrost xây dựng các ứng dụng tài chính siêu bảo mật và có khả năng mở rộng linh hoạt trên nền tảng Cloud-native. Chúng tôi cung cấp giải pháp trọn gói từ ngân hàng số, hệ thống giao dịch thuật toán đến tích hợp blockchain chuyên sâu. Giải pháp giúp các định chế tài chính và startup đổi mới sáng tạo mạnh mẽ trên quy mô lớn, đảm bảo mọi giao dịch diễn ra an toàn, minh bạch và tức thời."
+        "SoftBuild xây dựng các ứng dụng tài chính siêu bảo mật và có khả năng mở rộng linh hoạt trên nền tảng Cloud-native. Chúng tôi cung cấp giải pháp trọn gói từ ngân hàng số, hệ thống giao dịch thuật toán đến tích hợp blockchain chuyên sâu. Giải pháp giúp các định chế tài chính và startup đổi mới sáng tạo mạnh mẽ trên quy mô lớn, đảm bảo mọi giao dịch diễn ra an toàn, minh bạch và tức thời."
       ],
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Thach-thuc-cua-linh-vuc-cong-nghe-tai-chinh.jpg",
       "imageAlt": "Thách thức của lĩnh vực công nghệ tài chính"
@@ -893,7 +893,7 @@
     },
     "why": {
       "label": "Tại sao chọn chúng tôi?",
-      "title": "Vì sao nên sử dụng dịch vụ tại Winterfrost",
+      "title": "Vì sao nên sử dụng dịch vụ tại SoftBuild",
       "items": [
         {
           "number": "1",
@@ -913,7 +913,7 @@
         {
           "number": "4",
           "title": "Bàn giao và sở hữu mã nguồn tuyệt đối",
-          "description": "Winterfrost thực hiện bàn giao 100% mã nguồn và tài liệu kiến trúc kỹ thuật sau khi hoàn thành dự án. Doanh nghiệp toàn quyền sở hữu sản phẩm, chủ động trong việc vận hành và nâng cấp mà không bị lệ thuộc vào nhà cung cấp."
+          "description": "SoftBuild thực hiện bàn giao 100% mã nguồn và tài liệu kiến trúc kỹ thuật sau khi hoàn thành dự án. Doanh nghiệp toàn quyền sở hữu sản phẩm, chủ động trong việc vận hành và nâng cấp mà không bị lệ thuộc vào nhà cung cấp."
         },
         {
           "number": "5",
@@ -923,14 +923,14 @@
         {
           "number": "6",
           "title": "Tư vấn giải pháp theo nghiệp vụ thực tế",
-          "description": "Chúng tôi nghiên cứu kỹ lưỡng mô hình kinh doanh đặc thù của từng tổ chức tài chính để đề xuất các tính năng phù hợp nhất. Giải pháp của Winterfrost tập trung vào việc giải quyết trực tiếp các bài toán vận hành và tối ưu hóa dòng tiền cho khách hàng."
+          "description": "Chúng tôi nghiên cứu kỹ lưỡng mô hình kinh doanh đặc thù của từng tổ chức tài chính để đề xuất các tính năng phù hợp nhất. Giải pháp của SoftBuild tập trung vào việc giải quyết trực tiếp các bài toán vận hành và tối ưu hóa dòng tiền cho khách hàng."
         }
       ]
     },
     "cta": {
       "label": "Liên hệ ngay!",
       "title": "Kiến tạo hệ sinh thái tài chính an toàn ngay!",
-      "description": "Sẵn sàng chuyển đổi hạ tầng tài chính sang nền tảng Cloud-native bảo mật và hiệu suất cao. Hãy để Winterfrost giúp bạn xây dựng giải pháp Fintech chuyên biệt, đảm bảo tính minh bạch tuyệt đối và quyền sở hữu mã nguồn trọn đời.",
+      "description": "Sẵn sàng chuyển đổi hạ tầng tài chính sang nền tảng Cloud-native bảo mật và hiệu suất cao. Hãy để SoftBuild giúp bạn xây dựng giải pháp Fintech chuyên biệt, đảm bảo tính minh bạch tuyệt đối và quyền sở hữu mã nguồn trọn đời.",
       "buttonLabel": "Nhận tư vấn giải pháp và lộ trình triển khai",
       "image": "/images/people/cta/winterfrost/chuyen-vien-nam-tre.png",
       "imageAlt": "Expert consultant"
@@ -938,43 +938,43 @@
     "cases": null,
     "services": {
       "title": "Dịch vụ Fintech chuyên sâu tại HomneNest VIệt Nam",
-      "intro": "Winterfrost cung cấp các dịch vụ lập trình hệ thống tài chính thế hệ mới trên nền tảng Cloud-native và Blockchain. Chúng tôi tập trung vào việc xây dựng hạ tầng giao dịch an toàn, xử lý dữ liệu quy mô lớn và đảm bảo tính tuân thủ nghiêm ngặt cho các tổ chức tài chính.",
+      "intro": "SoftBuild cung cấp các dịch vụ lập trình hệ thống tài chính thế hệ mới trên nền tảng Cloud-native và Blockchain. Chúng tôi tập trung vào việc xây dựng hạ tầng giao dịch an toàn, xử lý dữ liệu quy mô lớn và đảm bảo tính tuân thủ nghiêm ngặt cho các tổ chức tài chính.",
       "items": [
         {
           "title": "Phát triển nền tảng ngân hàng số",
           "description": "Xây dựng các ứng dụng ngân hàng hiện đại với đầy đủ tính năng: quản lý tài khoản, chuyển tiền nhanh, gửi tiết kiệm và thanh toán hóa đơn. Hệ thống được thiết kế để vận hành hoàn toàn trên môi trường số với trải nghiệm người dùng tối giản và bảo mật đa lớp.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phat-trien-nen-tang-ngan-hang-so-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Phát triển nền tảng ngân hàng số - Winterfrost"
+          "imageAlt": "Phát triển nền tảng ngân hàng số - SoftBuild"
         },
         {
           "title": "Xây dựng ví điện tử và cổng thanh toán",
           "description": "Thiết lập hạ tầng thanh toán kỹ thuật số, hỗ trợ kết nối đa dạng với hệ thống ngân hàng và các tổ chức tài chính quốc tế. Chúng tôi áp dụng các tiêu chuẩn mã hóa dữ liệu đầu cuối (End-to-End Encryption) để đảm bảo an toàn tuyệt đối cho mọi giao dịch của người dùng.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Xay-dung-vi-dien-tu-va-cong-thanh-toan-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Xây dựng ví điện tử và cổng thanh toán - Winterfrost"
+          "imageAlt": "Xây dựng ví điện tử và cổng thanh toán - SoftBuild"
         },
         {
           "title": "Lập trình hệ thống giao dịch thuật toán",
           "description": "Phát triển các phần mềm hỗ trợ giao dịch tự động trên thị trường tài chính dựa trên các thuật toán phân tích dữ liệu thời gian thực. Giải pháp giúp loại bỏ yếu tố cảm xúc, tối ưu hóa tốc độ khớp lệnh và nâng cao hiệu quả quản trị rủi ro đầu tư.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Lap-trinh-he-thong-giao-dich-thuat-toan-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Lập trình hệ thống giao dịch thuật toán - Winterfrost"
+          "imageAlt": "Lập trình hệ thống giao dịch thuật toán - SoftBuild"
         },
         {
           "title": "Tích hợp giải pháp blockchain",
           "description": "Ứng dụng công nghệ sổ cái phi tập trung vào việc quản lý tài sản số, định danh điện tử và tự động hóa các thỏa thuận tài chính thông qua hợp đồng thông minh Smart Contract. Dịch vụ này đảm bảo tính minh bạch, không thể sửa xóa dữ liệu và tăng cường lòng tin cho hệ thống.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Tich-hop-giai-phap-blockchain-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Tích hợp giải pháp blockchain - Winterfrost"
+          "imageAlt": "Tích hợp giải pháp blockchain - SoftBuild"
         },
         {
           "title": "Phát triển nền tảng cho vay",
           "description": "Xây dựng hệ thống cho vay trực tuyến tích hợp công nghệ phân tích dữ liệu để chấm điểm tín dụng tự động. Quy trình xét duyệt khoản vay được thực hiện nhanh chóng, chính xác dựa trên các thuật toán đánh giá rủi ro thông minh.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phat-trien-nen-tang-cho-vay-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Phát triển nền tảng cho vay - Winterfrost"
+          "imageAlt": "Phát triển nền tảng cho vay - SoftBuild"
         },
         {
           "title": "Giải pháp công nghệ quản lý",
           "description": "Cung cấp các công cụ công nghệ giúp doanh nghiệp tự động hóa quy trình định danh khách hàng KYC, phòng chống rửa tiền AML và kiểm soát tuân thủ các quy định tài chính. Giải pháp giúp giảm thiểu rủi ro pháp lý và tối ưu hóa chi phí vận hành cho tổ chức.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-cong-nghe-quan-ly-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Giải pháp công nghệ quản lý - Winterfrost"
+          "imageAlt": "Giải pháp công nghệ quản lý - SoftBuild"
         }
       ],
       "cta": "Khám phá tất cả dịch vụ"
@@ -1010,7 +1010,7 @@
           "number": "05",
           "tag": "Phát hành hệ thống",
           "title": "Triển khai và giám sát vận hành",
-          "description": "Cấu hình server bảo mật cao, cài đặt các công cụ giám sát giao dịch theo thời gian thực và chính thức đưa ứng dụng vào hoạt động. Winterfrost thiết lập hệ thống cảnh báo tự động để phát hiện và ngăn chặn ngay lập tức các hành vi truy cập bất thường."
+          "description": "Cấu hình server bảo mật cao, cài đặt các công cụ giám sát giao dịch theo thời gian thực và chính thức đưa ứng dụng vào hoạt động. SoftBuild thiết lập hệ thống cảnh báo tự động để phát hiện và ngăn chặn ngay lập tức các hành vi truy cập bất thường."
         },
         {
           "number": "06",
@@ -1027,15 +1027,15 @@
       "intro": "Giải đáp thắc mắc về hệ thống Công nghệ tài chính",
       "items": [
         {
-          "q": "Làm thế nào hệ thống của Winterfrost đảm bảo an toàn cho các giao dịch tiền tệ?",
+          "q": "Làm thế nào hệ thống của SoftBuild đảm bảo an toàn cho các giao dịch tiền tệ?",
           "a": "Chúng tôi áp dụng các tiêu chuẩn bảo mật khắt khe nhất bao gồm: mã hóa dữ liệu đầu cuối E2EE, xác thực đa nhân tố MFA và nhận diện sinh trắc học. Ngoài ra, hệ thống luôn trải qua các đợt kiểm thử xâm nhập định kỳ để phát hiện và ngăn chặn kịp thời các lỗ hổng bảo mật."
         },
         {
           "q": "Hệ thống có đáp ứng được các quy định về pháp lý tài chính tại Việt Nam không?",
-          "a": "Có. Các giải pháp của Winterfrost được thiết kế để tuân thủ nghiêm ngặt các quy định của Ngân hàng Nhà nước và các tiêu chuẩn quốc tế như AML và KYC. Điều này giúp doanh nghiệp giảm thiểu rủi ro pháp lý và vận hành minh bạch."
+          "a": "Có. Các giải pháp của SoftBuild được thiết kế để tuân thủ nghiêm ngặt các quy định của Ngân hàng Nhà nước và các tiêu chuẩn quốc tế như AML và KYC. Điều này giúp doanh nghiệp giảm thiểu rủi ro pháp lý và vận hành minh bạch."
         },
         {
-          "q": "Hạ tầng của Winterfrost có đủ sức xử lý lượng giao dịch lớn trong cùng một thời điểm?",
+          "q": "Hạ tầng của SoftBuild có đủ sức xử lý lượng giao dịch lớn trong cùng một thời điểm?",
           "a": "Nhờ kiến trúc Cloud-native và Microservices, hệ thống có khả năng tự động mở rộng tài nguyên ngay lập tức để xử lý hàng ngàn giao dịch mỗi giây. Hiệu suất luôn được duy trì ổn định, đảm bảo không xảy ra tình trạng treo hay chậm trễ trong các giờ cao điểm giao dịch."
         },
         {
@@ -1043,11 +1043,11 @@
           "a": "Hoàn toàn được. Chúng tôi sử dụng các cổng API chuẩn hóa để thực hiện kết nối và đồng bộ dữ liệu giữa ứng dụng Fintech mới với các hệ thống Core Banking truyền thống. Quy trình này đảm bảo dòng tiền và dữ liệu khách hàng luôn được cập nhật chính xác và an toàn."
         },
         {
-          "q": "Winterfrost có bàn giao toàn bộ mã nguồn sau khi hoàn thành dự án không?",
-          "a": "Có. Winterfrost cam kết bàn giao 100% mã nguồn và tài liệu kiến trúc kỹ thuật cho doanh nghiệp. Bạn có toàn quyền sở hữu, chủ động nâng cấp và vận hành hệ thống mà không bị ràng buộc bởi bất kỳ nhà cung cấp công nghệ nào."
+          "q": "SoftBuild có bàn giao toàn bộ mã nguồn sau khi hoàn thành dự án không?",
+          "a": "Có. SoftBuild cam kết bàn giao 100% mã nguồn và tài liệu kiến trúc kỹ thuật cho doanh nghiệp. Bạn có toàn quyền sở hữu, chủ động nâng cấp và vận hành hệ thống mà không bị ràng buộc bởi bất kỳ nhà cung cấp công nghệ nào."
         },
         {
-          "q": "Công nghệ Blockchain được ứng dụng như thế nào trong giải pháp của Winterfrost?",
+          "q": "Công nghệ Blockchain được ứng dụng như thế nào trong giải pháp của SoftBuild?",
           "a": "Chúng tôi ứng dụng Blockchain để tạo ra các sổ cái giao dịch không thể sửa xóa, giúp tăng tính minh bạch và bảo mật. Công nghệ này cũng được dùng để triển khai các hợp đồng thông minh, giúp tự động hóa các thỏa thuận tài chính mà không cần trung gian."
         }
       ]
@@ -1058,7 +1058,7 @@
     "title": "Dầu khí",
     "hero": {
       "title": "Giải pháp chuyển đổi số cho ngành dầu khí",
-      "description": "Ngành dầu khí đòi hỏi khả năng theo dõi chính xác, tuân thủ nghiêm ngặt các quy chuẩn an toàn và duy trì hoạt động không gián đoạn. Winterfrost cung cấp các giải pháp công nghệ tùy chỉnh được thiết kế để tối ưu hóa quy trình vận hành phức tạp.",
+      "description": "Ngành dầu khí đòi hỏi khả năng theo dõi chính xác, tuân thủ nghiêm ngặt các quy chuẩn an toàn và duy trì hoạt động không gián đoạn. SoftBuild cung cấp các giải pháp công nghệ tùy chỉnh được thiết kế để tối ưu hóa quy trình vận hành phức tạp.",
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-chuyen-doi-so-cho-nganh-dau-khi.jpg",
       "imageAlt": "Giải pháp chuyển đổi số cho ngành dầu khí",
       "primaryLabel": "Liên hệ trực tiếp",
@@ -1069,7 +1069,7 @@
       "title": "Tối ưu vận hành bằng dữ liệu thực tế",
       "paragraphs": [
         "Trong ngành dầu khí, việc quản lý các máy móc ở xa và đảm bảo an toàn là những thử thách lớn nhất. Nếu các hệ thống không được kết nối với nhau, doanh nghiệp rất dễ bị lãng phí nguồn lực và chậm trễ khi xử lý sự cố. Bạn cần một nơi tập trung để quản lý mọi thứ, từ giàn khoan đến đường ống, nhằm đảm bảo công việc luôn trôi chảy.",
-        "Winterfrost cung cấp các phần mềm giúp kết nối mọi hoạt động từ lúc khai thác đến khi giao hàng. Bằng cách theo dõi dữ liệu từ các thiết bị cảm biến, chúng tôi giúp lãnh đạo nắm rõ hiệu suất, quản lý đội xe và dự báo trước các hỏng hóc để tránh việc phải dừng hoạt động đột ngột."
+        "SoftBuild cung cấp các phần mềm giúp kết nối mọi hoạt động từ lúc khai thác đến khi giao hàng. Bằng cách theo dõi dữ liệu từ các thiết bị cảm biến, chúng tôi giúp lãnh đạo nắm rõ hiệu suất, quản lý đội xe và dự báo trước các hỏng hóc để tránh việc phải dừng hoạt động đột ngột."
       ],
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Toi-uu-van-hanh-bang-du-lieu-thuc-te-cho-nganh-dau-khi.jpg",
       "imageAlt": "Tối ưu vận hành bằng dữ liệu thực tế cho ngành dầu khí"
@@ -1141,12 +1141,12 @@
     },
     "why": {
       "label": "Tại sao chọn chúng tôi?",
-      "title": "Tại sao các doanh nghiệp năng lượng tin chọn Winterfrost",
+      "title": "Tại sao các doanh nghiệp năng lượng tin chọn SoftBuild",
       "items": [
         {
           "number": "1",
           "title": "Am hiểu nhiều lĩnh vực",
-          "description": "Chúng tôi xây dựng giải pháp dựa trên sự thấu hiểu tường tận quy trình vận hành tại giàn khoan, đường ống và kho bãi. Winterfrost không cung cấp phần mềm đại trà mà mang đến công cụ giải quyết đúng các bài toán đặc thù của ngành năng lượng."
+          "description": "Chúng tôi xây dựng giải pháp dựa trên sự thấu hiểu tường tận quy trình vận hành tại giàn khoan, đường ống và kho bãi. SoftBuild không cung cấp phần mềm đại trà mà mang đến công cụ giải quyết đúng các bài toán đặc thù của ngành năng lượng."
         },
         {
           "number": "2",
@@ -1161,7 +1161,7 @@
         {
           "number": "4",
           "title": "Công nghệ dự báo sự cố",
-          "description": "Thay vì chờ hỏng mới sửa, giải pháp của Winterfrost sử dụng trí tuệ nhân tạo để nhận diện sớm các hư hỏng tiềm ẩn. Điều này giúp doanh nghiệp chủ động bảo trì, kéo dài tuổi thọ máy móc và tránh được các khoản chi phí sửa chữa khẩn cấp."
+          "description": "Thay vì chờ hỏng mới sửa, giải pháp của SoftBuild sử dụng trí tuệ nhân tạo để nhận diện sớm các hư hỏng tiềm ẩn. Điều này giúp doanh nghiệp chủ động bảo trì, kéo dài tuổi thọ máy móc và tránh được các khoản chi phí sửa chữa khẩn cấp."
         },
         {
           "number": "5",
@@ -1171,14 +1171,14 @@
         {
           "number": "6",
           "title": "Hỗ trợ kỹ thuật 24/7",
-          "description": "Ngành dầu khí hoạt động xuyên suốt không nghỉ, và chúng tôi cũng vậy. Đội ngũ kỹ thuật của Winterfrost luôn sẵn sàng có mặt để xử lý mọi tình huống phát sinh, đảm bảo dòng chảy sản xuất của bạn không bao giờ bị gián đoạn."
+          "description": "Ngành dầu khí hoạt động xuyên suốt không nghỉ, và chúng tôi cũng vậy. Đội ngũ kỹ thuật của SoftBuild luôn sẵn sàng có mặt để xử lý mọi tình huống phát sinh, đảm bảo dòng chảy sản xuất của bạn không bao giờ bị gián đoạn."
         }
       ]
     },
     "cta": {
       "label": "Liên hệ ngay!",
       "title": "Sẵn sàng tối ưu hạ tầng năng lượng của bạn",
-      "description": "Đừng để những sự cố dừng máy đột ngột hay rủi ro an toàn làm gián đoạn dòng chảy sản xuất và bào mòn lợi nhuận của doanh nghiệp. Hãy để Winterfrost giúp bạn xây dựng một hệ điều hành thông minh, nơi mọi thông số đều nằm trong tầm kiểm soát và mọi sự cố đều được dự báo trước.",
+      "description": "Đừng để những sự cố dừng máy đột ngột hay rủi ro an toàn làm gián đoạn dòng chảy sản xuất và bào mòn lợi nhuận của doanh nghiệp. Hãy để SoftBuild giúp bạn xây dựng một hệ điều hành thông minh, nơi mọi thông số đều nằm trong tầm kiểm soát và mọi sự cố đều được dự báo trước.",
       "buttonLabel": "Tư vấn giải pháp chuyên sâu",
       "image": "/images/people/cta/winterfrost/chuyen-vien-nu.png",
       "imageAlt": "Expert consultant"
@@ -1186,43 +1186,43 @@
     "cases": null,
     "services": {
       "title": "Giải pháp chuyên biệt cho ngành dầu khí",
-      "intro": "Winterfrost cung cấp hệ sinh thái giải pháp số chuyên sâu nhằm tối ưu quy trình vận hành dầu khí từ khâu khai thác đến phân phối. Chúng tôi tập trung vào hạ tầng kỹ thuật, quản lý dữ liệu và ứng dụng công nghệ dự báo để đảm bảo an toàn vận hành và hiệu quả khai thác thực tế.",
+      "intro": "SoftBuild cung cấp hệ sinh thái giải pháp số chuyên sâu nhằm tối ưu quy trình vận hành dầu khí từ khâu khai thác đến phân phối. Chúng tôi tập trung vào hạ tầng kỹ thuật, quản lý dữ liệu và ứng dụng công nghệ dự báo để đảm bảo an toàn vận hành và hiệu quả khai thác thực tế.",
       "items": [
         {
           "title": "Hệ thống SCADA và IoT",
           "description": "Kết nối trực tiếp với các thiết bị đo lường và bộ điều khiển PLC tại hiện trường. Thu thập và số liệu hóa các thông số kỹ thuật như áp suất, nhiệt độ và lưu lượng về máy chủ trung tâm.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Thiet-lap-mang-luoi-SCADA-va-IoT-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Thiết lập mạng lưới SCADA và IoT – Winterfrost"
+          "imageAlt": "Thiết lập mạng lưới SCADA và IoT – SoftBuild"
         },
         {
           "title": "Phần mềm dự báo bảo trì",
           "description": "Ứng dụng thuật toán phân tích dữ liệu vận hành để xác định trạng thái hao mòn của linh kiện. Hệ thống đưa ra lịch bảo trì dựa trên thời gian chạy máy thực tế để thay thế linh kiện trước khi xảy ra sự cố.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phan-mem-du-bao-bao-tri-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Phần mềm dự báo bảo trì – Winterfrost"
+          "imageAlt": "Phần mềm dự báo bảo trì – SoftBuild"
         },
         {
           "title": "Nền tảng giám sát",
           "description": "Số hóa mạng lưới đường ống vận chuyển trên hệ thống thông tin địa lý. Xác định vị trí chính xác của các điểm biến động áp suất hoặc rò rỉ trên toàn bộ sơ đồ mạng lưới.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Nen-tang-giam-sat-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Nền tảng giám sát – Winterfrost"
+          "imageAlt": "Nền tảng giám sát – SoftBuild"
         },
         {
           "title": "Hệ thống dừng khẩn cấp tự động",
           "description": "Lập trình các kịch bản tự động ngắt vận hành khi thông số kỹ thuật vượt quá ngưỡng an toàn cho phép. Đảm bảo hệ thống dừng hoạt động tức thì mà không cần sự can thiệp thủ công.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/He-thong-dung-khan-cap-tu-dong-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Hệ thống dừng khẩn cấp tự động - Winterfrost"
+          "imageAlt": "Hệ thống dừng khẩn cấp tự động - SoftBuild"
         },
         {
           "title": "Giải pháp quản lý vận tải và nhiên liệu",
           "description": "Tích hợp định vị vệ tinh và cảm biến mức bồn chứa để theo dõi lộ trình và khối lượng hàng hóa của đội tàu, xe bồn. Kiểm soát chính xác lượng nhiên liệu nhập, xuất và tồn kho.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-quan-ly-van-tai-va-nhien-lieu-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Giải pháp quản lý vận tải và nhiên liệu – Winterfrost"
+          "imageAlt": "Giải pháp quản lý vận tải và nhiên liệu – SoftBuild"
         },
         {
           "title": "Tổng hợp và phân tích dữ liệu lớn",
           "description": "Xây dựng kho lưu trữ và xử lý tập trung cho khối lượng dữ liệu vận hành khổng lồ. Trích xuất các báo cáo kỹ thuật về hiệu suất khai thác và định mức tiêu hao năng lượng.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Nen-tang-phan-tich-du-lieu-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Nền tảng phân tích dữ liệu - Winterfrost"
+          "imageAlt": "Nền tảng phân tích dữ liệu - SoftBuild"
         }
       ],
       "cta": "Khám phá tất cả dịch vụ"
@@ -1264,7 +1264,7 @@
           "number": "06",
           "tag": "Hỗ trợ",
           "title": "Duy trì và hỗ trợ 24/7",
-          "description": "Cung cấp dịch vụ theo dõi sức khỏe phần mềm và hỗ trợ kỹ thuật mọi lúc. Đội ngũ của Winterfrost cam kết xử lý nhanh các sự cố kết nối để dòng chảy dữ liệu và quá trình sản xuất không bị ngắt quãng."
+          "description": "Cung cấp dịch vụ theo dõi sức khỏe phần mềm và hỗ trợ kỹ thuật mọi lúc. Đội ngũ của SoftBuild cam kết xử lý nhanh các sự cố kết nối để dòng chảy dữ liệu và quá trình sản xuất không bị ngắt quãng."
         }
       ],
       "cta": "Bắt đầu xây dựng sản phẩm của bạn!"
@@ -1275,7 +1275,7 @@
       "intro": "Giải đáp thắc mắc về giải pháp công nghệ dầu khí",
       "items": [
         {
-          "q": "Hệ thống của Winterfrost có tương thích với các thiết bị SCADA và PLC hiện có không?",
+          "q": "Hệ thống của SoftBuild có tương thích với các thiết bị SCADA và PLC hiện có không?",
           "a": "Chúng tôi thiết kế phần mềm dựa trên các chuẩn giao thức công nghiệp phổ biến như OPC UA, Modbus, MQTT. Điều này cho phép hệ thống kết nối và thu thập dữ liệu trực tiếp từ các bộ điều khiển và cảm biến hiện có của doanh nghiệp mà không cần thay thế hạ tầng phần cứng."
         },
         {
@@ -1306,7 +1306,7 @@
     "title": "Du lịch",
     "hero": {
       "title": "Giải pháp công nghệ cho ngành Du Lịch",
-      "description": "Du khách ngày nay mong muốn một hành trình liền mạch và cá nhân hóa từ lúc tìm kiếm đến sau chuyến đi. Winterfrost xây dựng các nền tảng chuyên biệt giúp quản trị toàn bộ vòng đời của dịch vụ du lịch. Chúng tôi phát triển công cụ đặt chỗ thông minh, thuật toán điều chỉnh giá linh hoạt và hệ thống quản lý lịch trình đa kênh nhằm giúp doanh nghiệp tăng tỷ lệ lấp đầy, giảm thiểu tình trạng bỏ dở đặt chỗ và mang lại trải nghiệm chuyên nghiệp cho khách hàng.",
+      "description": "Du khách ngày nay mong muốn một hành trình liền mạch và cá nhân hóa từ lúc tìm kiếm đến sau chuyến đi. SoftBuild xây dựng các nền tảng chuyên biệt giúp quản trị toàn bộ vòng đời của dịch vụ du lịch. Chúng tôi phát triển công cụ đặt chỗ thông minh, thuật toán điều chỉnh giá linh hoạt và hệ thống quản lý lịch trình đa kênh nhằm giúp doanh nghiệp tăng tỷ lệ lấp đầy, giảm thiểu tình trạng bỏ dở đặt chỗ và mang lại trải nghiệm chuyên nghiệp cho khách hàng.",
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Linh-vuc-du-lich.jpg",
       "imageAlt": "Lĩnh vực du lịch",
       "primaryLabel": "Liên hệ trực tiếp",
@@ -1317,10 +1317,10 @@
       "title": "Bài toán vận hành Du Lịch",
       "paragraphs": [
         "Doanh nghiệp du lịch thường gặp khó khăn khi phải quản lý thủ công lịch tour, danh sách phòng và vé máy bay trên nhiều nền tảng cùng lúc. Việc cập nhật chậm trễ hoặc không đồng nhất thông tin giữa website và các ứng dụng tư vấn dễ dẫn đến tình trạng nhầm lẫn, chỗ trống, báo sai giá, gây mất uy tín và thất thoát doanh thu.",
-        "Winterfrost cung cấp một hệ thống quản lý tập trung giúp kết nối toàn bộ hoạt động kinh doanh của doanh nghiệp vào một nền tảng duy nhất. Mọi dữ liệu về lịch trình, tình trạng chỗ và giá dịch vụ đều được tự động đồng bộ theo thời gian thực. Điều này giúp doanh nghiệp vận hành mượt mà, phản hồi khách hàng tức thì và làm chủ hoàn toàn dữ liệu để phát triển thương hiệu bền vững."
+        "SoftBuild cung cấp một hệ thống quản lý tập trung giúp kết nối toàn bộ hoạt động kinh doanh của doanh nghiệp vào một nền tảng duy nhất. Mọi dữ liệu về lịch trình, tình trạng chỗ và giá dịch vụ đều được tự động đồng bộ theo thời gian thực. Điều này giúp doanh nghiệp vận hành mượt mà, phản hồi khách hàng tức thì và làm chủ hoàn toàn dữ liệu để phát triển thương hiệu bền vững."
       ],
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Du-Lich-HomeNest-Viet-Nam.jpg",
-      "imageAlt": "Du Lịch - Winterfrost"
+      "imageAlt": "Du Lịch - SoftBuild"
     },
     "counters": [
       {
@@ -1346,7 +1346,7 @@
     ],
     "values": {
       "title": "Giải pháp công nghệ cho ngành du lịch và lưu trú",
-      "intro": "Winterfrost xây dựng các nền tảng hiệu suất cao giúp chuyển đổi người xem thành khách hàng thực tế và biến những du khách lần đầu thành khách hàng thân thiết.",
+      "intro": "SoftBuild xây dựng các nền tảng hiệu suất cao giúp chuyển đổi người xem thành khách hàng thực tế và biến những du khách lần đầu thành khách hàng thân thiết.",
       "items": [
         {
           "title": "Tự động tối ưu giá bán",
@@ -1389,7 +1389,7 @@
     },
     "why": {
       "label": "Tại sao chọn chúng tôi?",
-      "title": "Tại sao nên chọn giải pháp công nghệ từ Winterfrost",
+      "title": "Tại sao nên chọn giải pháp công nghệ từ SoftBuild",
       "items": [
         {
           "number": "1",
@@ -1425,7 +1425,7 @@
     },
     "cta": {
       "label": "Liên hệ ngay!",
-      "title": "Bắt đầu hành trình chuyển đổi số cho ngành du lịch cùng Winterfrost",
+      "title": "Bắt đầu hành trình chuyển đổi số cho ngành du lịch cùng SoftBuild",
       "description": "Hãy để chúng tôi giúp bạn làm chủ kênh đặt chỗ trực tiếp và tối ưu hóa toàn diện quy trình vận hành bằng công nghệ thông minh. Liên hệ với đội ngũ chuyên gia để nhận tư vấn giải pháp chuyên biệt cho doanh nghiệp của bạn ngay bây giờ.",
       "buttonLabel": "Tư vấn giải pháp ngay",
       "image": "/images/people/cta/winterfrost/chuyen-vien-nam-tre.png",
@@ -1435,11 +1435,11 @@
       "title": "Case Studies",
       "links": [
         {
-          "href": "https://winterfrost.tech/case-studies/website-rovena-travel",
+          "href": "https://softbuildvn.vercel.app/case-studies/website-rovena-travel",
           "text": "DU LỊCH\nTHIẾT KẾ WEBSITE\nWebsite Rovena Travel\nXem dự án"
         },
         {
-          "href": "https://winterfrost.tech/case-studies/website-du-lich-leveltrip",
+          "href": "https://softbuildvn.vercel.app/case-studies/website-du-lich-leveltrip",
           "text": "DU LỊCH\nTHIẾT KẾ WEBSITE\nWebsite du lịch Rovena Travel\nXem dự án"
         }
       ],
@@ -1452,43 +1452,43 @@
     },
     "services": {
       "title": "Các giải pháp cho từng phân khúc du lịch",
-      "intro": "Winterfrost cung cấp năng lực kỹ thuật toàn diện để hỗ trợ mọi mô hình kinh doanh trong hệ sinh thái du lịch.",
+      "intro": "SoftBuild cung cấp năng lực kỹ thuật toàn diện để hỗ trợ mọi mô hình kinh doanh trong hệ sinh thái du lịch.",
       "items": [
         {
           "title": "Khách sạn và khu nghỉ dưỡng",
           "description": "Tập trung xây dựng hệ thống đặt phòng trực tiếp để giảm phụ thuộc vào các sàn trung gian và tích hợp các tiện ích nội khu, giúp nâng cao trải nghiệm khách lưu trú.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Khach-san-va-khu-nghi-duong-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Khách sạn và khu nghỉ dưỡng - Winterfrost"
+          "imageAlt": "Khách sạn và khu nghỉ dưỡng - SoftBuild"
         },
         {
           "title": "Đại lý du lịch trực tuyến",
           "description": "Phát triển công nghệ xử lý dữ liệu lớn giúp tổng hợp thông tin nhanh chóng và hệ thống đặt chỗ chịu tải cao để tối ưu tỷ lệ chuyển đổi cho các sàn giao dịch du lịch.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Dai-ly-du-lich-truc-tuyen-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Đại lý du lịch trực tuyến - Winterfrost"
+          "imageAlt": "Đại lý du lịch trực tuyến - SoftBuild"
         },
         {
           "title": "Công ty lữ hành",
           "description": "Cung cấp công cụ điều hành tour trọn gói giúp kết nối trực tiếp với hướng dẫn viên và nhà cung cấp dịch vụ để đảm bảo lịch trình luôn chính xác.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Cong-ty-lu-hanh-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Công ty lữ hành - Winterfrost"
+          "imageAlt": "Công ty lữ hành - SoftBuild"
         },
         {
           "title": "Hàng không và vận tải quy mô lớn",
           "description": "Xây dựng các mô hình tối ưu doanh thu từ dịch vụ bổ trợ và hệ thống quản lý khách hàng thân thiết giúp tăng giá trị trung bình trên mỗi lượt khách.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Hang-khong-va-van-tai-quy-mo-lon-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Hàng không và vận tải quy mô lớn - Winterfrost"
+          "imageAlt": "Hàng không và vận tải quy mô lớn - SoftBuild"
         },
         {
           "title": "Dịch vụ cho thuê xe",
           "description": "Ứng dụng công nghệ định vị và điều phối tự động giúp chủ doanh nghiệp quản lý đội xe hiệu quả, đồng thời kiểm soát chính xác lịch trình của tài xế.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Dich-vu-cho-thue-xe-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Dịch vụ cho thuê xe - Winterfrost"
+          "imageAlt": "Dịch vụ cho thuê xe - SoftBuild"
         },
         {
           "title": "Quản trị du lịch cho doanh nghiệp",
           "description": "Cung cấp nền tảng quản lý chi phí công tác tự động giúp các tổ chức kiểm soát ngân sách chặt chẽ và tối giản hóa quy trình hoàn chứng từ.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Quan-tri-du-lich-cho-doanh-nghiep-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Quản trị du lịch cho doanh nghiệp - Winterfrost"
+          "imageAlt": "Quản trị du lịch cho doanh nghiệp - SoftBuild"
         }
       ],
       "cta": "Khám phá tất cả dịch vụ"
@@ -1545,7 +1545,7 @@
           "a": "Thông thường quy trình từ giai đoạn khảo sát đến khi vận hành thực tế kéo dài từ 8 đến 12 tuần tùy thuộc vào quy mô và độ phức tạp của các tính năng mà doanh nghiệp yêu cầu."
         },
         {
-          "q": "Giải pháp của Winterfrost có kết nối được với các phần mềm quản lý có sẵn không?",
+          "q": "Giải pháp của SoftBuild có kết nối được với các phần mềm quản lý có sẵn không?",
           "a": "Hệ thống được thiết kế với khả năng tương thích cao để kết nối trực tiếp với các phần mềm quản lý phòng hoặc các cổng thanh toán nội địa phổ biến, giúp quy trình vận hành của doanh nghiệp luôn thông suốt."
         },
         {
@@ -1554,7 +1554,7 @@
         },
         {
           "q": "Nhân viên không rành công nghệ có thể sử dụng hệ thống này dễ dàng không?",
-          "a": "Giao diện quản trị được Winterfrost tối ưu hóa theo hướng tối giản và trực quan giúp đội ngũ hướng dẫn viên cũng như nhân sự vận hành có thể làm chủ công nghệ và thao tác thành thạo chỉ sau một thời gian ngắn hướng dẫn."
+          "a": "Giao diện quản trị được SoftBuild tối ưu hóa theo hướng tối giản và trực quan giúp đội ngũ hướng dẫn viên cũng như nhân sự vận hành có thể làm chủ công nghệ và thao tác thành thạo chỉ sau một thời gian ngắn hướng dẫn."
         },
         {
           "q": "Dữ liệu du khách và thông tin kinh doanh được bảo mật như thế nào?",
@@ -1572,7 +1572,7 @@
     "title": "Giáo dục",
     "hero": {
       "title": "Giải pháp phần mềm cho ngành giáo dục",
-      "description": "Winterfrost cung cấp giải pháp lập trình hệ thống quản lý học tập LMS, nền tảng đào tạo trực tuyến và các ứng dụng hỗ trợ vận hành giáo dục chuyên sâu. Chúng tôi tập trung vào việc số hóa học liệu, tự động hóa quy trình quản trị học viên và tối ưu hóa hạ tầng truyền tải nội dung trên các nền tảng kỹ thuật số.",
+      "description": "SoftBuild cung cấp giải pháp lập trình hệ thống quản lý học tập LMS, nền tảng đào tạo trực tuyến và các ứng dụng hỗ trợ vận hành giáo dục chuyên sâu. Chúng tôi tập trung vào việc số hóa học liệu, tự động hóa quy trình quản trị học viên và tối ưu hóa hạ tầng truyền tải nội dung trên các nền tảng kỹ thuật số.",
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-phan-mem-cho-nganh-giao-duc.jpg",
       "imageAlt": "Giải pháp phần mềm cho ngành giáo dục",
       "primaryLabel": "Liên hệ trực tiếp",
@@ -1582,7 +1582,7 @@
       "label": "Overview",
       "title": "Khắc phục rào cản hạ tầng Giáo Dục",
       "paragraphs": [
-        "Các tổ chức đào tạo quy mô lớn thường đối mặt với tình trạng dữ liệu học viên bị phân mảnh trên nhiều nền tảng độc lập, gây khó khăn cho việc quản trị tập trung và làm sai lệch báo cáo vận hành. Winterfrost giải quyết vấn đề này bằng cách thiết lập kiến trúc dữ liệu thống nhất Unified Data Architecture nhằm đồng bộ hóa thông tin thời gian thực giữa các phân hệ thông qua hệ thống API trung tâm. Bên cạnh đó, để khắc phục tình trạng nghẽn hệ thống khi lượng người dùng truy cập đồng thời tăng cao trong các kỳ thi, chúng tôi triển khai kiến trúc Microservices kết hợp cơ chế Auto Scaling trên nền tảng điện toán đám mây giúp duy trì tốc độ phản hồi dưới 2 giây.",
+        "Các tổ chức đào tạo quy mô lớn thường đối mặt với tình trạng dữ liệu học viên bị phân mảnh trên nhiều nền tảng độc lập, gây khó khăn cho việc quản trị tập trung và làm sai lệch báo cáo vận hành. SoftBuild giải quyết vấn đề này bằng cách thiết lập kiến trúc dữ liệu thống nhất Unified Data Architecture nhằm đồng bộ hóa thông tin thời gian thực giữa các phân hệ thông qua hệ thống API trung tâm. Bên cạnh đó, để khắc phục tình trạng nghẽn hệ thống khi lượng người dùng truy cập đồng thời tăng cao trong các kỳ thi, chúng tôi triển khai kiến trúc Microservices kết hợp cơ chế Auto Scaling trên nền tảng điện toán đám mây giúp duy trì tốc độ phản hồi dưới 2 giây.",
         "Vấn đề bảo mật thông tin học thuật và ngăn chặn rò rỉ đề thi cũng được xử lý triệt để thông qua các giao thức mã hóa dữ liệu đầu cuối cùng và cơ chế phân quyền truy cập đa cấp bậc. Chúng tôi còn tích hợp mạng lưới truyền tải nội dung CDN để tối ưu hóa hiệu suất phát video bài giảng và thực hiện tái cấu trúc mã nguồn đối với các hệ thống cũ nhằm loại bỏ hoàn toàn nợ kỹ thuật. Cuối cùng, việc lập trình các script tự động hóa quy trình nghiệp vụ Workflow Automation giúp doanh nghiệp giáo dục cắt giảm đáng kể chi phí nhân sự cho các tác vụ lặp lại như xếp lịch giảng dạy hoặc gửi thông báo học phí định kỳ."
       ],
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Khac-phuc-rao-can-ha-tang-giao-duc.jpg",
@@ -1655,7 +1655,7 @@
     },
     "why": {
       "label": "Tại sao chọn chúng tôi?",
-      "title": "Lý do chọn năng lực công nghệ của Winterfrost",
+      "title": "Lý do chọn năng lực công nghệ của SoftBuild",
       "items": [
         {
           "number": "1",
@@ -1692,7 +1692,7 @@
     "cta": {
       "label": "Liên hệ ngay!",
       "title": "Số hóa hạ tầng quản lý giáo dục và đào tạo",
-      "description": "Liên hệ với đội ngũ kỹ sư tại Winterfrost để thiết lập hệ thống quản trị học tập tập trung và tự động hóa quy trình vận hành nhằm tối ưu hóa hiệu suất giảng dạy cho các tổ chức giáo dục.",
+      "description": "Liên hệ với đội ngũ kỹ sư tại SoftBuild để thiết lập hệ thống quản trị học tập tập trung và tự động hóa quy trình vận hành nhằm tối ưu hóa hiệu suất giảng dạy cho các tổ chức giáo dục.",
       "buttonLabel": "Nhận tư vấn giải pháp kỹ thuật",
       "image": "/images/people/cta/winterfrost/chuyen-vien-nam-tre.png",
       "imageAlt": "Expert consultant"
@@ -1790,7 +1790,7 @@
       "items": [
         {
           "q": "Doanh nghiệp có quyền sở hữu hoàn toàn mã nguồn sau khi bàn giao không?",
-          "a": "Có. Winterfrost thực hiện bàn giao 100% mã nguồn gốc và tài liệu đặc tả kỹ thuật kèm theo. Điều này đảm bảo doanh nghiệp toàn quyền kiểm soát hệ thống, có thể chủ động nâng cấp hoặc thay đổi hạ tầng mà không bị phụ thuộc vào bất kỳ nhà cung cấp phần mềm nào."
+          "a": "Có. SoftBuild thực hiện bàn giao 100% mã nguồn gốc và tài liệu đặc tả kỹ thuật kèm theo. Điều này đảm bảo doanh nghiệp toàn quyền kiểm soát hệ thống, có thể chủ động nâng cấp hoặc thay đổi hạ tầng mà không bị phụ thuộc vào bất kỳ nhà cung cấp phần mềm nào."
         },
         {
           "q": "Làm thế nào để hệ thống không bị treo khi có hàng chục ngàn học viên thi trực tuyến cùng lúc?",
@@ -1798,7 +1798,7 @@
         },
         {
           "q": "Nội dung video bài giảng độc quyền được bảo vệ chống sao chép như thế nào?",
-          "a": "Winterfrost tích hợp công nghệ mã hóa luồng phát video DRM và kỹ thuật gắn dấu mờ kỹ thuật số Watermarking chứa thông tin định danh người dùng. Giải pháp này ngăn chặn hiệu quả các công cụ tải xuống trái phép và giúp doanh nghiệp truy vết chính xác tài khoản có hành vi quay phim màn hình bài giảng."
+          "a": "SoftBuild tích hợp công nghệ mã hóa luồng phát video DRM và kỹ thuật gắn dấu mờ kỹ thuật số Watermarking chứa thông tin định danh người dùng. Giải pháp này ngăn chặn hiệu quả các công cụ tải xuống trái phép và giúp doanh nghiệp truy vết chính xác tài khoản có hành vi quay phim màn hình bài giảng."
         },
         {
           "q": "Hệ thống có thể đồng bộ dữ liệu với các phần mềm kế toán hoặc cổng thanh toán không?",
@@ -1810,7 +1810,7 @@
         },
         {
           "q": "Chính sách hỗ trợ kỹ thuật và bảo trì sau khi vận hành chính thức như thế nào?",
-          "a": "Winterfrost cam kết hỗ trợ kỹ thuật trực tiếp để xử lý các vấn đề phát sinh trong quá trình vận hành trong vòng 24 giờ. Chúng tôi cũng thực hiện các đợt kiểm tra hệ thống định kỳ và cập nhật các bản vá bảo mật để đảm bảo hạ tầng phần mềm luôn hoạt động ở trạng thái tối ưu và an toàn nhất."
+          "a": "SoftBuild cam kết hỗ trợ kỹ thuật trực tiếp để xử lý các vấn đề phát sinh trong quá trình vận hành trong vòng 24 giờ. Chúng tôi cũng thực hiện các đợt kiểm tra hệ thống định kỳ và cập nhật các bản vá bảo mật để đảm bảo hạ tầng phần mềm luôn hoạt động ở trạng thái tối ưu và an toàn nhất."
         }
       ]
     }
@@ -1820,7 +1820,7 @@
     "title": "Kế toán",
     "hero": {
       "title": "Giải pháp hệ thống kế toán doanh nghiệp",
-      "description": "Winterfrost cung cấp giải pháp lập trình hệ thống kế toán chuyên sâu, tập trung vào việc đảm bảo tính toàn vẹn của dữ liệu và tự động hóa các luồng nghiệp vụ tài chính phức tạp. Chúng tôi xây dựng hạ tầng phần mềm giúp doanh nghiệp hợp nhất mọi giao dịch từ các phân hệ bán hàng, kho vận và nhân sự vào một sổ cái duy nhất để kiểm soát dòng tiền chính xác.",
+      "description": "SoftBuild cung cấp giải pháp lập trình hệ thống kế toán chuyên sâu, tập trung vào việc đảm bảo tính toàn vẹn của dữ liệu và tự động hóa các luồng nghiệp vụ tài chính phức tạp. Chúng tôi xây dựng hạ tầng phần mềm giúp doanh nghiệp hợp nhất mọi giao dịch từ các phân hệ bán hàng, kho vận và nhân sự vào một sổ cái duy nhất để kiểm soát dòng tiền chính xác.",
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-he-thong-ke-toan-doanh-nghiep.jpg",
       "imageAlt": "Giải pháp hệ thống kế toán doanh nghiệp",
       "primaryLabel": "Liên hệ trực tiếp",
@@ -1830,7 +1830,7 @@
       "label": "Overview",
       "title": "Tự động hóa nghiệp vụ Kế Toán",
       "paragraphs": [
-        "Thách thức lớn nhất của các doanh nghiệp là dữ liệu tài chính bị phân mảnh trong nhiều tệp Excel hoặc các phần mềm rời rạc, dẫn đến việc đối soát thủ công mất nhiều thời gian và dễ phát sinh sai sót. Winterfrost giải quyết vấn đề này bằng cách xây dựng hệ thống quản trị tập trung sử dụng cơ chế kiểm soát giao dịch nghiêm ngặt. Giải pháp của chúng tôi đảm bảo mọi bút toán đều được kiểm tra chéo tự động và đồng bộ thời gian thực, giúp loại bỏ hoàn toàn sự lệch pha giữa dữ liệu vận hành và số liệu kế toán.c"
+        "Thách thức lớn nhất của các doanh nghiệp là dữ liệu tài chính bị phân mảnh trong nhiều tệp Excel hoặc các phần mềm rời rạc, dẫn đến việc đối soát thủ công mất nhiều thời gian và dễ phát sinh sai sót. SoftBuild giải quyết vấn đề này bằng cách xây dựng hệ thống quản trị tập trung sử dụng cơ chế kiểm soát giao dịch nghiêm ngặt. Giải pháp của chúng tôi đảm bảo mọi bút toán đều được kiểm tra chéo tự động và đồng bộ thời gian thực, giúp loại bỏ hoàn toàn sự lệch pha giữa dữ liệu vận hành và số liệu kế toán.c"
       ],
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Tu-dong-hoa-nghiep-vu-tai-chinh.jpg",
       "imageAlt": "Tự động hóa nghiệp vụ tài chính"
@@ -1902,7 +1902,7 @@
     },
     "why": {
       "label": "Tại sao chọn chúng tôi?",
-      "title": "Lý do chọn Winterfrost cho chuyển đổi số ngành kế toán",
+      "title": "Lý do chọn SoftBuild cho chuyển đổi số ngành kế toán",
       "items": [
         {
           "number": "1",
@@ -1939,7 +1939,7 @@
     "cta": {
       "label": "Liên hệ ngay!",
       "title": "Chuẩn hóa hạ tầng quản trị tài chính doanh nghiệp",
-      "description": "Kết nối với đội ngũ kỹ sư tại Winterfrost để thiết lập hệ thống kế toán tập trung và tự động hóa quy trình hạch toán nhằm đảm bảo tính chính xác tuyệt đối của dữ liệu vận hành.",
+      "description": "Kết nối với đội ngũ kỹ sư tại SoftBuild để thiết lập hệ thống kế toán tập trung và tự động hóa quy trình hạch toán nhằm đảm bảo tính chính xác tuyệt đối của dữ liệu vận hành.",
       "buttonLabel": "Nhận tư vấn kiến trúc hệ thống",
       "image": "/images/people/cta/winterfrost/chuyen-vien-nu.png",
       "imageAlt": "Expert consultant"
@@ -2069,7 +2069,7 @@
       "title": "Phát triển phần mềm kiến trúc và xây dựng",
       "description": "Các dự án kỹ thuật quy mô lớn đòi hỏi sự phối hợp chính xác, kiểm soát ngân sách chặt chẽ và khả năng truy cập dữ liệu theo thời gian thực. Việc phụ thuộc vào các phương thức quản lý thủ công hoặc báo cáo rời rạc thường dẫn đến tình trạng đội vốn và chậm tiến độ thi công dự án.",
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Linh-vuc-Xay-dung-HomeNest-Viet-Nam.jpg",
-      "imageAlt": "Lĩnh-vực-Xây-dựng-Winterfrost-Việt-Nam",
+      "imageAlt": "Lĩnh-vực-Xây-dựng-SoftBuild-Việt-Nam",
       "primaryLabel": "Liên hệ trực tiếp",
       "secondaryLabel": "Nhắn tin nhận tư vấn"
     },
@@ -2078,10 +2078,10 @@
       "title": "Xóa bỏ rào cản của Ngành Xây Dựng",
       "paragraphs": [
         "Ngành xây dựng thường xuyên đối mặt với sự đứt gãy thông tin giữa hiện trường thi công và văn phòng quản lý. Việc phụ thuộc vào các loại báo cáo giấy hoặc những phần mềm rời rạc dễ dẫn đến tình trạng hiểu sai bản vẽ, xung đột lịch trình và tắc nghẽn chuỗi cung ứng, làm gián đoạn tiến độ dự án.",
-        "Winterfrost tháo gỡ những thách thức này bằng một hệ thống quản trị dự án tập trung duy nhất. Chúng tôi kết nối các công cụ báo cáo hiện trường trên nền tảng đám mây với hệ thống trực quan hóa ngân sách để tạo ra một trung tâm điều hành minh bạch. Giải pháp này giúp các cấp quản lý theo dõi chính xác từng mốc tiến độ, phân bổ nhiệm vụ hiệu quả và đảm bảo mọi giai đoạn xây dựng đều khớp với yêu cầu vận hành thực tế."
+        "SoftBuild tháo gỡ những thách thức này bằng một hệ thống quản trị dự án tập trung duy nhất. Chúng tôi kết nối các công cụ báo cáo hiện trường trên nền tảng đám mây với hệ thống trực quan hóa ngân sách để tạo ra một trung tâm điều hành minh bạch. Giải pháp này giúp các cấp quản lý theo dõi chính xác từng mốc tiến độ, phân bổ nhiệm vụ hiệu quả và đảm bảo mọi giai đoạn xây dựng đều khớp với yêu cầu vận hành thực tế."
       ],
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Kien-truc-va-xay-dung-HomeNest-Viet-Nam.jpg",
-      "imageAlt": "Kiến trúc và xây dựng - Winterfrost"
+      "imageAlt": "Kiến trúc và xây dựng - SoftBuild"
     },
     "counters": [
       {
@@ -2107,7 +2107,7 @@
     ],
     "values": {
       "title": "Lợi ích khi chuyển đổi số ngành xây dựng",
-      "intro": "Winterfrost đồng hành cùng doanh nghiệp trong việc tối ưu toàn diện quy trình vận hành và nâng tầm uy tín thương hiệu trên thị trường.",
+      "intro": "SoftBuild đồng hành cùng doanh nghiệp trong việc tối ưu toàn diện quy trình vận hành và nâng tầm uy tín thương hiệu trên thị trường.",
       "items": [
         {
           "title": "Kết nối dữ liệu",
@@ -2150,12 +2150,12 @@
     },
     "why": {
       "label": "Tại sao chọn chúng tôi?",
-      "title": "Tại sao nên chọn giải pháp công nghệ xây dựng từ Winterfrost",
+      "title": "Tại sao nên chọn giải pháp công nghệ xây dựng từ SoftBuild",
       "items": [
         {
           "number": "1",
           "title": "Kiểm soát chặt chẽ chi phí",
-          "description": "Winterfrost giúp bạn chặn đứng tình trạng lãng phí vật tư và nhân công tại công trường. Việc theo dõi sát sao từng khoản chi giúp doanh nghiệp giữ chặt lợi nhuận và không lo bị hụt vốn hay nảy sinh chi phí ngoài dự kiến."
+          "description": "SoftBuild giúp bạn chặn đứng tình trạng lãng phí vật tư và nhân công tại công trường. Việc theo dõi sát sao từng khoản chi giúp doanh nghiệp giữ chặt lợi nhuận và không lo bị hụt vốn hay nảy sinh chi phí ngoài dự kiến."
         },
         {
           "number": "2",
@@ -2180,13 +2180,13 @@
         {
           "number": "6",
           "title": "Luôn có chuyên gia đồng hành",
-          "description": "Winterfrost không chỉ cung cấp công cụ mà còn luôn sát cánh cùng doanh nghiệp để hỗ trợ kỹ thuật bất cứ khi nào cần. Chúng tôi đảm bảo hệ thống luôn ổn định để công việc của anh em kỹ sư ngoài công trường không bị gián đoạn."
+          "description": "SoftBuild không chỉ cung cấp công cụ mà còn luôn sát cánh cùng doanh nghiệp để hỗ trợ kỹ thuật bất cứ khi nào cần. Chúng tôi đảm bảo hệ thống luôn ổn định để công việc của anh em kỹ sư ngoài công trường không bị gián đoạn."
         }
       ]
     },
     "cta": {
       "label": "Liên hệ ngay!",
-      "title": "Bắt đầu quản trị xây dựng thông minh cùng Winterfrost",
+      "title": "Bắt đầu quản trị xây dựng thông minh cùng SoftBuild",
       "description": "Hãy để chúng tôi giúp bạn kiểm soát chặt chẽ chi phí vật tư và đảm bảo tiến độ thi công cho mọi dự án. Liên hệ với đội ngũ chuyên gia để nhận giải pháp thực chiến dành riêng cho doanh nghiệp của bạn ngay hôm nay.",
       "buttonLabel": "Tư vấn giải pháp ngay",
       "image": "/images/people/cta/winterfrost/quan-ly-nam.png",
@@ -2196,15 +2196,15 @@
       "title": "Case Studies",
       "links": [
         {
-          "href": "https://winterfrost.tech/case-studies/website-virela-interior",
+          "href": "https://softbuildvn.vercel.app/case-studies/website-virela-interior",
           "text": "KIẾN TRÚC & XÂY DỰNG\nTHƯƠNG MẠI ĐIỆN TỬ\nTHIẾT KẾ WEBSITE\nWebsite Virela Interior\nXem dự án"
         },
         {
-          "href": "https://winterfrost.tech/case-studies/website-ceranova",
+          "href": "https://softbuildvn.vercel.app/case-studies/website-ceranova",
           "text": "KIẾN TRÚC & XÂY DỰNG\nTHƯƠNG MẠI ĐIỆN TỬ\nTHIẾT KẾ WEBSITE\nWebsite Ceranova\nXem dự án"
         },
         {
-          "href": "https://winterfrost.tech/case-studies/website-chromiva-coatings",
+          "href": "https://softbuildvn.vercel.app/case-studies/website-chromiva-coatings",
           "text": "KIẾN TRÚC & XÂY DỰNG\nTHƯƠNG MẠI ĐIỆN TỬ\nTHIẾT KẾ WEBSITE\nWebsite Chromiva Coatings\nXem dự án"
         }
       ],
@@ -2223,37 +2223,37 @@
           "title": "Hệ thống quản trị công trình",
           "description": "Tạo ra một trung tâm điều hành duy nhất giúp kết nối văn phòng và hiện trường. Mọi thông tin về tiến độ, nhân sự và các thay đổi trong dự án đều được cập nhật tức thì để mọi người luôn làm việc trên một kế hoạch thống nhất.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/He-thong-quan-tri-cong-trinh-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Hệ thống quản trị công trình - Winterfrost"
+          "imageAlt": "Hệ thống quản trị công trình - SoftBuild"
         },
         {
           "title": "Ứng dụng hiện trường cho kỹ sư",
           "description": "Phát triển công cụ trên điện thoại giúp anh em kỹ sư gửi báo cáo, chụp ảnh nghiệm thu và cập nhật sự cố ngay tại công trường. Việc này giúp giảm bớt giấy tờ và giúp lãnh đạo nắm bắt tình hình thực tế mà không cần có mặt trực tiếp.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Ung-dung-cho-ky-su-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Ứng dụng cho kỹ sư – Winterfrost"
+          "imageAlt": "Ứng dụng cho kỹ sư – SoftBuild"
         },
         {
           "title": "Công cụ kiểm soát vật tư và thiết bị",
           "description": "Theo dõi chi tiết lượng vật liệu nhập xuất và vị trí máy móc theo thời gian thực. Dịch vụ này giúp chủ thầu nắm chắc định mức tiêu hao, loại bỏ tình trạng thất thoát và chủ động hơn trong khâu mua hàng.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Cong-cu-kiem-soat-vat-tu-va-thiet-bi-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Công cụ kiểm soát vật tư và thiết bị - Winterfrost"
+          "imageAlt": "Công cụ kiểm soát vật tư và thiết bị - SoftBuild"
         },
         {
           "title": "Quản lý bản vẽ và dữ liệu kỹ thuật",
           "description": "Lưu trữ và phân quyền truy cập các phiên bản thiết kế mới nhất. Đội ngũ thi công có thể xem bản vẽ ngay trên thiết bị di động, đảm bảo làm đúng kỹ thuật và tránh những sai sót gây tốn kém chi phí sửa chữa.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Quan-ly-ban-ve-va-du-lieu-ky-thuat-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Quản lý bản vẽ và dữ liệu kỹ thuật - Winterfrost"
+          "imageAlt": "Quản lý bản vẽ và dữ liệu kỹ thuật - SoftBuild"
         },
         {
           "title": "Giải pháp giám sát dòng tiền dự án",
           "description": "Tự động cập nhật các khoản chi phí thực tế so với ngân sách dự toán ban đầu. Điều này giúp chủ doanh nghiệp kiểm soát chặt chẽ lợi nhuận trên từng hạng mục và có những điều chỉnh kịp thời về mặt tài chính.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-giam-sat-dong-tien-du-an-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Giải pháp giám sát dòng tiền dự án – Winterfrost"
+          "imageAlt": "Giải pháp giám sát dòng tiền dự án – SoftBuild"
         },
         {
           "title": "Hệ thống tự động hóa hồ sơ hoàn công",
           "description": "Tự động gom nhóm hình ảnh, biên bản và dữ liệu thi công để xuất hồ sơ quyết toán nhanh chóng. Dịch vụ này giúp doanh nghiệp rút ngắn thời gian bàn giao và sớm thu hồi vốn từ chủ đầu tư.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/He-thong-tu-dong-hoa-ho-so-hoan-cong-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Hệ thống tự động hóa hồ sơ hoàn công - Winterfrost"
+          "imageAlt": "Hệ thống tự động hóa hồ sơ hoàn công - SoftBuild"
         }
       ],
       "cta": "Khám phá tất cả dịch vụ"
@@ -2311,7 +2311,7 @@
         },
         {
           "q": "Anh em kỹ sư hiện trường không thạo công nghệ có sử dụng được không?",
-          "a": "Giao diện ứng dụng được Winterfrost thiết kế tối giản, tập trung vào các thao tác chạm và chụp ảnh đơn giản. Chúng tôi trực tiếp đào tạo tại công trường để đảm bảo ngay cả những nhân sự ngại thay đổi nhất cũng có thể cập nhật báo cáo và xem bản vẽ chỉ sau 15 phút làm quen."
+          "a": "Giao diện ứng dụng được SoftBuild thiết kế tối giản, tập trung vào các thao tác chạm và chụp ảnh đơn giản. Chúng tôi trực tiếp đào tạo tại công trường để đảm bảo ngay cả những nhân sự ngại thay đổi nhất cũng có thể cập nhật báo cáo và xem bản vẽ chỉ sau 15 phút làm quen."
         },
         {
           "q": "Nếu mạng tại công trường yếu hoặc không có internet thì hệ thống vận hành ra sao?",
@@ -2319,15 +2319,15 @@
         },
         {
           "q": "Hồ sơ kỹ thuật và bản vẽ dự án có được bảo mật an toàn không?",
-          "a": "Bản vẽ và phương án thi công là tài sản trí tuệ quan trọng, vì vậy Winterfrost sử dụng công nghệ mã hóa đa lớp và phân quyền truy cập chặt chẽ. Chỉ những nhân sự được cấp phép mới có thể xem hoặc chỉnh sửa dữ liệu, giúp doanh nghiệp hoàn toàn an tâm về tính bảo mật của dự án."
+          "a": "Bản vẽ và phương án thi công là tài sản trí tuệ quan trọng, vì vậy SoftBuild sử dụng công nghệ mã hóa đa lớp và phân quyền truy cập chặt chẽ. Chỉ những nhân sự được cấp phép mới có thể xem hoặc chỉnh sửa dữ liệu, giúp doanh nghiệp hoàn toàn an tâm về tính bảo mật của dự án."
         },
         {
-          "q": "Hệ thống của Winterfrost có tích hợp được với các phần mềm kế toán sẵn có không?",
+          "q": "Hệ thống của SoftBuild có tích hợp được với các phần mềm kế toán sẵn có không?",
           "a": "Hệ thống của chúng tôi có khả năng kết nối linh hoạt với các phần mềm kế toán hoặc quản trị văn phòng phổ biến tại Việt Nam. Việc đồng bộ dữ liệu giúp kế toán không phải nhập liệu lại từ đầu, đảm bảo con số giữa công trường và văn phòng luôn khớp nhau 100%."
         },
         {
           "q": "Việc triển khai hệ thống có làm gián đoạn tiến độ thi công hiện tại không?",
-          "a": "Quy trình triển khai của Winterfrost được chia nhỏ theo từng giai đoạn và được thực hiện song song với hoạt động của dự án. Chúng tôi ưu tiên cài đặt các tính năng cốt lõi trước để doanh nghiệp làm quen dần, đảm bảo không gây bất kỳ trở ngại nào cho tiến độ thi công thực tế tại công trường."
+          "a": "Quy trình triển khai của SoftBuild được chia nhỏ theo từng giai đoạn và được thực hiện song song với hoạt động của dự án. Chúng tôi ưu tiên cài đặt các tính năng cốt lõi trước để doanh nghiệp làm quen dần, đảm bảo không gây bất kỳ trở ngại nào cho tiến độ thi công thực tế tại công trường."
         }
       ]
     }
@@ -2337,7 +2337,7 @@
     "title": "Ngân hàng",
     "hero": {
       "title": "Giải pháp chuyển đổi số cho ngành ngân hàng",
-      "description": "Winterfrost cung cấp dịch vụ xây dựng hạ tầng công nghệ ngân hàng chuyên biệt, tập trung vào việc xử lý dữ liệu quy mô lớn và đảm bảo an ninh thông tin ở mức cao nhất. Chúng tôi thiết kế kiến trúc phần mềm giúp các tổ chức tài chính hợp nhất các luồng giao dịch phức tạp, tự động hóa nghiệp vụ ngân hàng lõi và tạo ra trải nghiệm người dùng liền mạch trên các nền tảng số.",
+      "description": "SoftBuild cung cấp dịch vụ xây dựng hạ tầng công nghệ ngân hàng chuyên biệt, tập trung vào việc xử lý dữ liệu quy mô lớn và đảm bảo an ninh thông tin ở mức cao nhất. Chúng tôi thiết kế kiến trúc phần mềm giúp các tổ chức tài chính hợp nhất các luồng giao dịch phức tạp, tự động hóa nghiệp vụ ngân hàng lõi và tạo ra trải nghiệm người dùng liền mạch trên các nền tảng số.",
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-chuyen-doi-so-cho-nganh-ngan-hang.jpg",
       "imageAlt": "Giải pháp chuyển đổi số cho ngành ngân hàng",
       "primaryLabel": "Liên hệ trực tiếp",
@@ -2347,7 +2347,7 @@
       "label": "Overview",
       "title": "Tối ưu hóa tính an toàn trong Giao Dịch",
       "paragraphs": [
-        "Thách thức lớn nhất của ngành ngân hàng là sự hiện diện của các hệ thống cũ thiếu tính kết nối dẫn đến tình trạng xử lý chậm và rủi ro mất an toàn thông tin. Winterfrost giải quyết vấn đề này bằng cách thiết lập hạ tầng ngân hàng số hiện đại sử dụng kiến trúc Microservices linh hoạt. Giải pháp của chúng tôi triệt tiêu các rào cản về dữ liệu, cho phép đồng bộ hóa mọi giao dịch tức thời và thiết lập các lớp bảo vệ đa tầng để đảm bảo tính toàn vẹn của tài sản và thông tin khách hàng."
+        "Thách thức lớn nhất của ngành ngân hàng là sự hiện diện của các hệ thống cũ thiếu tính kết nối dẫn đến tình trạng xử lý chậm và rủi ro mất an toàn thông tin. SoftBuild giải quyết vấn đề này bằng cách thiết lập hạ tầng ngân hàng số hiện đại sử dụng kiến trúc Microservices linh hoạt. Giải pháp của chúng tôi triệt tiêu các rào cản về dữ liệu, cho phép đồng bộ hóa mọi giao dịch tức thời và thiết lập các lớp bảo vệ đa tầng để đảm bảo tính toàn vẹn của tài sản và thông tin khách hàng."
       ],
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Toi-uu-hoa-tinh-an-toan-trong-giao-dich.jpg",
       "imageAlt": "Tối ưu hóa tính an toàn trong giao dịch"
@@ -2419,7 +2419,7 @@
     },
     "why": {
       "label": "Tại sao chọn chúng tôi?",
-      "title": "Lý do ngân hàng nên chọn dịch vụ tại Winterfrost",
+      "title": "Lý do ngân hàng nên chọn dịch vụ tại SoftBuild",
       "items": [
         {
           "number": "1",
@@ -2449,14 +2449,14 @@
         {
           "number": "6",
           "title": "Bàn giao toàn bộ quyền làm chủ công nghệ",
-          "description": "Winterfrost cung cấp đầy đủ mã nguồn và tài liệu hướng dẫn kỹ thuật chi tiết để doanh nghiệp tự chủ trong việc vận hành và nâng cấp lâu dài. Chúng tôi cam kết không tạo ra sự phụ thuộc vào đơn vị cung cấp."
+          "description": "SoftBuild cung cấp đầy đủ mã nguồn và tài liệu hướng dẫn kỹ thuật chi tiết để doanh nghiệp tự chủ trong việc vận hành và nâng cấp lâu dài. Chúng tôi cam kết không tạo ra sự phụ thuộc vào đơn vị cung cấp."
         }
       ]
     },
     "cta": {
       "label": "Liên hệ ngay!",
       "title": "Số hóa hạ tầng tài chính và ngân hàng số bảo mật",
-      "description": "Liên hệ với đội ngũ kỹ sư tại Winterfrost để thiết lập hệ thống ngân hàng tập trung và tự động hóa quy trình giao dịch nhằm đảm bảo an toàn tuyệt đối cho hạ tầng tài chính.",
+      "description": "Liên hệ với đội ngũ kỹ sư tại SoftBuild để thiết lập hệ thống ngân hàng tập trung và tự động hóa quy trình giao dịch nhằm đảm bảo an toàn tuyệt đối cho hạ tầng tài chính.",
       "buttonLabel": "Trò chuyện với chúng tôi",
       "image": "/images/people/cta/winterfrost/quan-ly-nam.png",
       "imageAlt": "Expert consultant"
@@ -2470,7 +2470,7 @@
           "title": "Lập trình hệ thống ngân hàng lõi Core Banking",
           "description": "Xây dựng bộ máy điều hành trung tâm giúp quản lý tài khoản, tiền gửi, khoản vay và hạch toán tài chính tập trung.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Lap-trinh-he-thong-ngan-hang-loi-Core-Banking-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Lập trình hệ thống ngân hàng lõi Core Banking – Winterfrost"
+          "imageAlt": "Lập trình hệ thống ngân hàng lõi Core Banking – SoftBuild"
         },
         {
           "title": "Xây dựng giải pháp định danh điện tử eKYC",
@@ -2554,7 +2554,7 @@
       "items": [
         {
           "q": "Làm thế nào để hệ thống đảm bảo an toàn tuyệt đối trước các cuộc tấn công mạng quy mô lớn?",
-          "a": "Winterfrost triển khai kiến trúc bảo mật đa lớp gồm tường lửa ứng dụng cấp cao kết hợp với cơ chế giám sát lưu lượng bất thường thời gian thực. Toàn bộ dữ liệu giao dịch và thông tin khách hàng được mã hóa bằng tiêu chuẩn AES 256. Chúng tôi cũng thiết lập hệ thống xác thực đa nhân tố và quản lý quyền truy cập nghiêm ngặt để ngăn chặn mọi hành vi xâm nhập trái phép từ bên ngoài cũng như bên trong hệ thống."
+          "a": "SoftBuild triển khai kiến trúc bảo mật đa lớp gồm tường lửa ứng dụng cấp cao kết hợp với cơ chế giám sát lưu lượng bất thường thời gian thực. Toàn bộ dữ liệu giao dịch và thông tin khách hàng được mã hóa bằng tiêu chuẩn AES 256. Chúng tôi cũng thiết lập hệ thống xác thực đa nhân tố và quản lý quyền truy cập nghiêm ngặt để ngăn chặn mọi hành vi xâm nhập trái phép từ bên ngoài cũng như bên trong hệ thống."
         },
         {
           "q": "Hệ thống có khả năng tích hợp với các hạ tầng Core Banking lâu đời của ngân hàng không?",
@@ -2584,9 +2584,9 @@
     "title": "Nông nghiệp",
     "hero": {
       "title": "CHUYỂN ĐỔI SỐ CHO NGÀNH NÔNG NGHIỆP",
-      "description": "Nông nghiệp hiện đại yêu cầu những điều kiện cao hơn so với phương pháp truyền thống. Nó cần chứng minh từ dữ liệu thực tế. Winterfrost phát triển các nền tảng công nghệ nông nghiệp theo yêu cầu nhằm mục đích tăng hiệu quả cho nông nghiệp. Từ các cảm biến sử dụng công nghệ IoT, dự đoán mùa màng và khả năng theo dõi tình trạng sức khỏe của cây, chúng tôi hỗ trợ các doanh nghiệp nông nghiệp phát triển thông minh hơn, giảm thiểu hao hụt chi phí và đưa sản phẩm chất lượng vào thị trường.",
+      "description": "Nông nghiệp hiện đại yêu cầu những điều kiện cao hơn so với phương pháp truyền thống. Nó cần chứng minh từ dữ liệu thực tế. SoftBuild phát triển các nền tảng công nghệ nông nghiệp theo yêu cầu nhằm mục đích tăng hiệu quả cho nông nghiệp. Từ các cảm biến sử dụng công nghệ IoT, dự đoán mùa màng và khả năng theo dõi tình trạng sức khỏe của cây, chúng tôi hỗ trợ các doanh nghiệp nông nghiệp phát triển thông minh hơn, giảm thiểu hao hụt chi phí và đưa sản phẩm chất lượng vào thị trường.",
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Gioi-thieu-linh-vuc-nong-nghiep-HomeNest-Viet-Nam.jpg",
-      "imageAlt": "Giới thiệu lĩnh vực nông nghiệp - Winterfrost",
+      "imageAlt": "Giới thiệu lĩnh vực nông nghiệp - SoftBuild",
       "primaryLabel": "Liên hệ trực tiếp",
       "secondaryLabel": "Nhắn tin nhận tư vấn"
     },
@@ -2595,10 +2595,10 @@
       "title": "Giải pháp quản trị Nông Nghiệp",
       "paragraphs": [
         "Hiện tại, lĩnh vực nông nghiệp đang phải đối mặt với nhiều khó khăn nghiêm trọng như biến đổi khí hậu, thiếu hụt lực lượng lao động và các yêu cầu ngày càng nghiêm ngặt về an toàn thực phẩm. Sử dụng phương pháp quản lý sản xuất truyền thống bằng sổ sách, theo dõi từng phần riêng lẻ và xử lý sâu bệnh dựa trên cảm nhận thường dẫn đến chất lượng sản phẩm nông nghiệp không ổn định, gây lãng phí sau thu hoạch và làm giảm khả năng cạnh tranh của doanh nghiệp trên thị trường.",
-        "Winterfrost đã giải quyết những vấn đề này bằng cách xây dựng một hệ thống quản lý nông nghiệp. Chúng tôi kết hợp dữ liệu từ các thiết bị cảm biến IoT, các mô hình dự báo từ trí tuệ nhân tạo AI để doanh nghiệp xử lý vấn đề kịp thời và đề xuất chiến lược tiếp theo."
+        "SoftBuild đã giải quyết những vấn đề này bằng cách xây dựng một hệ thống quản lý nông nghiệp. Chúng tôi kết hợp dữ liệu từ các thiết bị cảm biến IoT, các mô hình dự báo từ trí tuệ nhân tạo AI để doanh nghiệp xử lý vấn đề kịp thời và đề xuất chiến lược tiếp theo."
       ],
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Nong-nghiep-HomeNest-Viet-Nam.jpg",
-      "imageAlt": "Nông nghiệp - Winterfrost"
+      "imageAlt": "Nông nghiệp - SoftBuild"
     },
     "counters": [
       {
@@ -2624,7 +2624,7 @@
     ],
     "values": {
       "title": "Các giải pháp cho doanh nghiệp nông nghiệp",
-      "intro": "Winterfrost xây dựng các nền tảng dữ liệu tùy chỉnh, giúp chuyển đổi mô hình nông nghiệp truyền thống sang mô hình nông nghiệp số thông minh.",
+      "intro": "SoftBuild xây dựng các nền tảng dữ liệu tùy chỉnh, giúp chuyển đổi mô hình nông nghiệp truyền thống sang mô hình nông nghiệp số thông minh.",
       "items": [
         {
           "title": "Theo dõi tình trang đất",
@@ -2667,7 +2667,7 @@
     },
     "why": {
       "label": "Tại sao chọn chúng tôi?",
-      "title": "Vì sao Winterfrost là đối tác tin cậy doanh nghiệp nông nghiệp?",
+      "title": "Vì sao SoftBuild là đối tác tin cậy doanh nghiệp nông nghiệp?",
       "items": [
         {
           "number": "1",
@@ -2692,7 +2692,7 @@
         {
           "number": "5",
           "title": "Kết nối với các phần mềm có sẵn",
-          "description": "Nền tảng của Winterfrost dễ dàng liên kết với các hệ thống kế toán, quản lý kho hoặc các sàn giao dịch nông sản mà doanh nghiệp đang sử dụng. Điều này giúp dữ liệu chảy xuyên suốt từ khâu sản xuất đến khâu bán hàng mà không cần nhập liệu lại nhiều lần."
+          "description": "Nền tảng của SoftBuild dễ dàng liên kết với các hệ thống kế toán, quản lý kho hoặc các sàn giao dịch nông sản mà doanh nghiệp đang sử dụng. Điều này giúp dữ liệu chảy xuyên suốt từ khâu sản xuất đến khâu bán hàng mà không cần nhập liệu lại nhiều lần."
         },
         {
           "number": "6",
@@ -2704,7 +2704,7 @@
     "cta": {
       "label": "Liên hệ ngay!",
       "title": "Sẵn sàng chuyển đổi số ngành nông nghiệp của bạn?",
-      "description": "Hãy cùng Winterfrost xây dựng hệ thống quản lý tập trung để theo dõi sát sao tình hình nông trường, tối ưu chi phí vận hành và nâng cao chất lượng nông sản dựa trên dữ liệu thực tế.",
+      "description": "Hãy cùng SoftBuild xây dựng hệ thống quản lý tập trung để theo dõi sát sao tình hình nông trường, tối ưu chi phí vận hành và nâng cao chất lượng nông sản dựa trên dữ liệu thực tế.",
       "buttonLabel": "Nhận tư vấn giải pháp ngay",
       "image": "/images/people/cta/winterfrost/chuyen-vien-nu.png",
       "imageAlt": "Expert consultant"
@@ -2713,11 +2713,11 @@
       "title": "Case Studies",
       "links": [
         {
-          "href": "https://winterfrost.tech/case-studies/website-flexora-packaging",
+          "href": "https://softbuildvn.vercel.app/case-studies/website-flexora-packaging",
           "text": "NÔNG NGHIỆP\nTHIẾT KẾ WEBSITE\nWebsite Flexora Packaging\nXem dự án"
         },
         {
-          "href": "https://winterfrost.tech/case-studies/website-polyvera",
+          "href": "https://softbuildvn.vercel.app/case-studies/website-polyvera",
           "text": "BÁN LẺ\nNÔNG NGHIỆP\nTHIẾT KẾ WEBSITE\nWebsite Polyvera\nXem dự án"
         }
       ],
@@ -2734,7 +2734,7 @@
     },
     "services": {
       "title": "Giải pháp công nghệ cho từng lĩnh vực nông nghiệp",
-      "intro": "Từ các hợp tác xã địa phương đến các tập đoàn nông nghiệp đa quốc gia, Winterfrost cung cấp các giải pháp phần mềm chuyên sâu, phù hợp với mọi quy mô và mô hình sản xuất.",
+      "intro": "Từ các hợp tác xã địa phương đến các tập đoàn nông nghiệp đa quốc gia, SoftBuild cung cấp các giải pháp phần mềm chuyên sâu, phù hợp với mọi quy mô và mô hình sản xuất.",
       "items": [
         {
           "title": "Trồng trọt và canh tác chính xác",
@@ -2746,31 +2746,31 @@
           "title": "Chăn nuôi gia súc và gia cầm",
           "description": "Hệ thống quản lý đàn gia súc, hỗ trợ theo dõi sức khỏe từng cá thể, tự động hóa lịch trình cho ăn để đảm bảo dinh dưỡng và giám sát chặt chẽ quy trình nhằm hạn chế dịch bệnh.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Chan-nuoi-gia-suc-va-gia-cam-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Chăn nuôi gia súc và gia cầm - Winterfrost"
+          "imageAlt": "Chăn nuôi gia súc và gia cầm - SoftBuild"
         },
         {
           "title": "Chăn nuôi thủy hải sản",
           "description": "Thiết lập mạng lưới giám sát chất lượng nước và hệ thống cho ăn tự động. Phần mềm giúp quản lý mật độ nuôi tối ưu cho cả mô hình nuôi trồng trong nội địa lẫn ngoài khơi, đảm bảo môi trường sinh trưởng tốt nhất cho thủy hải sản.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Chan-nuoi-thuy-hai-san-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Chăn nuôi thủy hải sản - Winterfrost"
+          "imageAlt": "Chăn nuôi thủy hải sản - SoftBuild"
         },
         {
           "title": "Phân phối vật tư nông nghiệp",
           "description": "Giải pháp quản lý kho và dự báo nhu cầu dành cho các đơn vị phân phối phân bón, hạt giống và thuốc bảo vệ thực vật. Hệ thống giúp tối ưu hóa chu kỳ nhập hàng và quản lý hiệu quả quy trình vận chuyển đến tay người nông dân.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Cung-ung-va-phan-phoi-vat-tu-nong-nghiep-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Cung ứng và phân phối vật tư nông nghiệp - Winterfrost"
+          "imageAlt": "Cung ứng và phân phối vật tư nông nghiệp - SoftBuild"
         },
         {
           "title": "Kiểm tra chất lượng và chuỗi cung ứng",
           "description": "Xây dựng nền tảng kiểm tra chất lượng sản phẩm sau thu hoạch, hệ thống giám sát nhiệt độ kho lạnh liên tục và công cụ điều phối vận chuyển từ nhà máy chế biến đến các điểm bán lẻ, đảm bảo độ tươi ngon của sản phẩm.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Kiem-tra-chat-luong-va-chuoi-cung-ung-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Kiểm tra chất lượng và chuỗi cung ứng - Winterfrost"
+          "imageAlt": "Kiểm tra chất lượng và chuỗi cung ứng - SoftBuild"
         },
         {
           "title": "Hỗ trợ quản lý nguồn vốn",
           "description": "Giúp doanh nghiệp theo dõi việc sử dụng các nguồn vốn vay hoặc quỹ hỗ trợ nông nghiệp một cách minh bạch, đảm bảo tiền được sử dụng đúng mục đích và hiệu quả.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Ho-tro-quan-ly-nguon-von-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Hỗ trợ quản lý nguồn vốn - Winterfrost"
+          "imageAlt": "Hỗ trợ quản lý nguồn vốn - SoftBuild"
         }
       ],
       "cta": "Khám phá tất cả dịch vụ"
@@ -2782,7 +2782,7 @@
           "number": "01",
           "tag": "Tiếp nhận",
           "title": "Tiếp nhận nhu cầu",
-          "description": "Winterfrost lắng nghe các vấn đề thực tế doanh nghiệp đang gặp phải để tư vấn giải pháp công nghệ phù hợp, giúp giải quyết triệt để bài toán vận hành của doanh nghiệp."
+          "description": "SoftBuild lắng nghe các vấn đề thực tế doanh nghiệp đang gặp phải để tư vấn giải pháp công nghệ phù hợp, giúp giải quyết triệt để bài toán vận hành của doanh nghiệp."
         },
         {
           "number": "02",
@@ -2806,7 +2806,7 @@
           "number": "05",
           "tag": "Triển khai",
           "title": "Triển khai và đào tạo",
-          "description": "Cài đặt hệ thống trên toàn bộ quy mô doanh nghiệp sau khi thử nghiệm thành công. Winterfrost trực tiếp đào tạo kỹ thuật cho quản lý và hướng dẫn thao tác thực địa cho công nhân để đảm bảo vận hành trơn tru."
+          "description": "Cài đặt hệ thống trên toàn bộ quy mô doanh nghiệp sau khi thử nghiệm thành công. SoftBuild trực tiếp đào tạo kỹ thuật cho quản lý và hướng dẫn thao tác thực địa cho công nhân để đảm bảo vận hành trơn tru."
         },
         {
           "number": "06",
@@ -2823,27 +2823,27 @@
       "intro": "Chúng tôi tổng hợp các thắc mắc phổ biến nhất để giúp doanh nghiệp có cái nhìn rõ ràng hơn trước khi bắt đầu hành trình chuyển đổi số.",
       "items": [
         {
-          "q": "Hệ thống của Winterfrost có hoạt động được ở những vùng không có sóng 4G/Wifi không?",
+          "q": "Hệ thống của SoftBuild có hoạt động được ở những vùng không có sóng 4G/Wifi không?",
           "a": "Có. Các ứng dụng di động của chúng tôi được thiết kế với tính năng lưu trữ ngoại tuyến (Offline Mode). Nhân viên vẫn có thể nhập liệu, chụp ảnh báo cáo bình thường. Dữ liệu sẽ được tự động đồng bộ lên hệ thống ngay khi thiết bị có kết nối mạng trở lại, đảm bảo thông tin không bị gián đoạn."
         },
         {
           "q": "Công nhân nông trường không rành công nghệ liệu có sử dụng được phần mềm không?",
-          "a": "Hoàn toàn được. Winterfrost ưu tiên thiết kế giao diện cực kỳ đơn giản, sử dụng các biểu tượng trực quan và ngôn ngữ tiếng Việt dễ hiểu. Ngoài ra, chúng tôi có quy trình đào tạo trực tiếp tại hiện trường để đảm bảo ngay cả những người ít tiếp xúc với công nghệ nhất cũng có thể thao tác thành thạo các tác vụ hằng ngày."
+          "a": "Hoàn toàn được. SoftBuild ưu tiên thiết kế giao diện cực kỳ đơn giản, sử dụng các biểu tượng trực quan và ngôn ngữ tiếng Việt dễ hiểu. Ngoài ra, chúng tôi có quy trình đào tạo trực tiếp tại hiện trường để đảm bảo ngay cả những người ít tiếp xúc với công nghệ nhất cũng có thể thao tác thành thạo các tác vụ hằng ngày."
         },
         {
-          "q": "Giải pháp của Winterfrost có thể tùy chỉnh theo đặc thù của từng loại cây trồng hay vật nuôi không?",
-          "a": "Có. Chúng tôi không bán một phần mềm đóng gói dùng chung cho tất cả. Dựa trên đặc thù sinh trưởng của từng loại như lúa, cây ăn trái, thủy sản, Winterfrost sẽ tùy chỉnh các chỉ số cảnh báo, quy trình chăm sóc và biểu mẫu báo cáo sao cho khớp hoàn toàn với thực tế sản xuất của doanh nghiệp."
+          "q": "Giải pháp của SoftBuild có thể tùy chỉnh theo đặc thù của từng loại cây trồng hay vật nuôi không?",
+          "a": "Có. Chúng tôi không bán một phần mềm đóng gói dùng chung cho tất cả. Dựa trên đặc thù sinh trưởng của từng loại như lúa, cây ăn trái, thủy sản, SoftBuild sẽ tùy chỉnh các chỉ số cảnh báo, quy trình chăm sóc và biểu mẫu báo cáo sao cho khớp hoàn toàn với thực tế sản xuất của doanh nghiệp."
         },
         {
           "q": "Dữ liệu về công thức canh tác và năng suất của tôi có được bảo mật không?",
-          "a": "Bảo mật dữ liệu là ưu tiên hàng đầu của chúng tôi. Mọi thông tin về bí mật kinh doanh, quy trình canh tác và dữ liệu khách hàng đều được mã hóa và lưu trữ trên hệ thống riêng biệt. Winterfrost cam kết không chia sẻ dữ liệu của doanh nghiệp cho bất kỳ bên thứ ba nào nếu chưa được sự đồng ý bằng văn bản từ bạn."
+          "a": "Bảo mật dữ liệu là ưu tiên hàng đầu của chúng tôi. Mọi thông tin về bí mật kinh doanh, quy trình canh tác và dữ liệu khách hàng đều được mã hóa và lưu trữ trên hệ thống riêng biệt. SoftBuild cam kết không chia sẻ dữ liệu của doanh nghiệp cho bất kỳ bên thứ ba nào nếu chưa được sự đồng ý bằng văn bản từ bạn."
         },
         {
           "q": "Chi phí triển khai được tính toán như thế nào?",
-          "a": "Chi phí phụ thuộc vào quy mô trang trại, số lượng thiết bị cảm biến cần lắp đặt và mức độ phức tạp của các tính năng phần mềm. Winterfrost sẽ cung cấp bảng dự toán chi tiết sau bước khảo sát thực địa để đảm bảo doanh nghiệp chỉ đầu tư vào những tính năng thực sự mang lại hiệu quả kinh tế."
+          "a": "Chi phí phụ thuộc vào quy mô trang trại, số lượng thiết bị cảm biến cần lắp đặt và mức độ phức tạp của các tính năng phần mềm. SoftBuild sẽ cung cấp bảng dự toán chi tiết sau bước khảo sát thực địa để đảm bảo doanh nghiệp chỉ đầu tư vào những tính năng thực sự mang lại hiệu quả kinh tế."
         },
         {
-          "q": "Nếu thiết bị hoặc phần mềm gặp sự cố, Winterfrost hỗ trợ trong bao lâu?",
+          "q": "Nếu thiết bị hoặc phần mềm gặp sự cố, SoftBuild hỗ trợ trong bao lâu?",
           "a": "Chúng tôi cam kết phản hồi và bắt đầu quy trình xử lý sự cố kỹ thuật trong vòng 24 giờ kể từ khi nhận được yêu cầu. Đội ngũ kỹ thuật của chúng tôi sẽ hỗ trợ từ xa hoặc đến tận nơi xử lý nếu cần thiết để đảm bảo hoạt động sản xuất không bị ngưng trệ."
         }
       ]
@@ -2854,7 +2854,7 @@
     "title": "Phần mềm doanh nghiệp",
     "hero": {
       "title": "Phát triển phần mềm doanh nghiệp tùy chỉnh",
-      "description": "Winterfrost xây dựng các hệ thống phần mềm doanh nghiệp thông minh, mạnh mẽ và dễ sử dụng, được thiết kế để thống nhất toàn bộ quy trình vận hành của bạn. Từ các hệ thống ERP tổng thể đến các nền tảng CRM tùy chỉnh, chúng tôi kiến tạo nền tảng công nghệ vững chắc, đáp ứng nhu cầu tăng trưởng bền vững của doanh nghiệp trong kỷ nguyên số.",
+      "description": "SoftBuild xây dựng các hệ thống phần mềm doanh nghiệp thông minh, mạnh mẽ và dễ sử dụng, được thiết kế để thống nhất toàn bộ quy trình vận hành của bạn. Từ các hệ thống ERP tổng thể đến các nền tảng CRM tùy chỉnh, chúng tôi kiến tạo nền tảng công nghệ vững chắc, đáp ứng nhu cầu tăng trưởng bền vững của doanh nghiệp trong kỷ nguyên số.",
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phat-trien-phan-mem-doanh-nghiep-tuy-chinh.jpg",
       "imageAlt": "Phát triển phần mềm doanh nghiệp tùy chỉnh",
       "primaryLabel": "Liên hệ trực tiếp",
@@ -2865,7 +2865,7 @@
       "title": "Tối ưu hiệu suất vận hành bằng hệ thống ERP và CRM",
       "paragraphs": [
         "Các doanh nghiệp thường gặp khó khăn khi vận hành trên nhiều phần mềm rời rạc, dẫn đến dữ liệu bị phân tán và thiếu tính đồng bộ. Các quy trình thủ công gây lãng phí thời gian, dễ xảy ra sai sót và khó kiểm soát hiệu suất nhân sự. Ngoài ra, các phần mềm đóng gói sẵn thường không linh hoạt, khó tùy chỉnh theo đặc thù riêng của doanh nghiệp hoặc gặp trở ngại khi cần mở rộng quy mô.",
-        "Winterfrost mang đến giải pháp phần mềm được may đo theo đúng quy trình nghiệp vụ thực tế của từng doanh nghiệp. Chúng tôi tập trung vào việc hợp nhất các luồng công việc vào một nền tảng duy nhất, từ quản trị nguồn lực ERP, quản lý khách hàng CRM đến quản lý nhân sự và chuỗi cung ứng. Giải pháp giúp doanh nghiệp tối ưu hóa nguồn lực, làm chủ dữ liệu tập trung và xây dựng bộ máy vận hành chuyên nghiệp, linh hoạt."
+        "SoftBuild mang đến giải pháp phần mềm được may đo theo đúng quy trình nghiệp vụ thực tế của từng doanh nghiệp. Chúng tôi tập trung vào việc hợp nhất các luồng công việc vào một nền tảng duy nhất, từ quản trị nguồn lực ERP, quản lý khách hàng CRM đến quản lý nhân sự và chuỗi cung ứng. Giải pháp giúp doanh nghiệp tối ưu hóa nguồn lực, làm chủ dữ liệu tập trung và xây dựng bộ máy vận hành chuyên nghiệp, linh hoạt."
       ],
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Toi-uu-hoa-hieu-suat-van-hanh-bang-he-thong-ERP-va-CRM.jpg",
       "imageAlt": "Tối ưu hóa hiệu suất vận hành bằng hệ thống ERP và CRM"
@@ -2894,7 +2894,7 @@
     ],
     "values": {
       "title": "Tại sao doanh nghiệp của bạn cần phần mềm tùy chỉnh?",
-      "intro": "Giải pháp từ Winterfrost giúp bạn quản lý công ty hiệu quả hơn nhờ việc kết nối dữ liệu, tự động hóa quy trình và làm chủ hoàn toàn nền tảng công nghệ của riêng mình.",
+      "intro": "Giải pháp từ SoftBuild giúp bạn quản lý công ty hiệu quả hơn nhờ việc kết nối dữ liệu, tự động hóa quy trình và làm chủ hoàn toàn nền tảng công nghệ của riêng mình.",
       "items": [
         {
           "title": "Không còn thất lạc thông tin",
@@ -2916,7 +2916,7 @@
         },
         {
           "title": "Phần mềm đi theo quy trình của bạn",
-          "description": "Khác với phần mềm mua sẵn thường gò bó, phần mềm của Winterfrost được xây dựng dựa trên chính cách làm việc của bạn. Bạn muốn thêm bớt tính năng hay thay đổi quy trình khi công ty lớn mạnh, đều thực hiện được dễ dàng.",
+          "description": "Khác với phần mềm mua sẵn thường gò bó, phần mềm của SoftBuild được xây dựng dựa trên chính cách làm việc của bạn. Bạn muốn thêm bớt tính năng hay thay đổi quy trình khi công ty lớn mạnh, đều thực hiện được dễ dàng.",
           "image": "",
           "imageAlt": ""
         },
@@ -2937,12 +2937,12 @@
     },
     "why": {
       "label": "Tại sao chọn chúng tôi?",
-      "title": "Lợi thế cạnh tranh của Winterfrost",
+      "title": "Lợi thế cạnh tranh của SoftBuild",
       "items": [
         {
           "number": "1",
           "title": "Bàn giao toàn quyền sở hữu",
-          "description": "Winterfrost cam kết chuyển giao 100% mã nguồn và tài liệu kỹ thuật sau khi hoàn thành dự án. Doanh nghiệp có toàn quyền quản lý, tự định đoạt việc nâng cấp hoặc thay đổi hệ thống mà không bị ràng buộc bởi pháp lý hay kỹ thuật của nhà cung cấp."
+          "description": "SoftBuild cam kết chuyển giao 100% mã nguồn và tài liệu kỹ thuật sau khi hoàn thành dự án. Doanh nghiệp có toàn quyền quản lý, tự định đoạt việc nâng cấp hoặc thay đổi hệ thống mà không bị ràng buộc bởi pháp lý hay kỹ thuật của nhà cung cấp."
         },
         {
           "number": "2",
@@ -2957,7 +2957,7 @@
         {
           "number": "4",
           "title": "Năng lực triển khai tại các thị trường quốc tế",
-          "description": "Đội ngũ kỹ sư của Winterfrost đã thực hiện các dự án phần mềm cho đối tác tại Mỹ, Châu Âu, Singapore và Nhật Bản. Chúng tôi áp dụng các tiêu chuẩn kỹ thuật và quy trình kiểm soát chất lượng theo quy chuẩn quốc tế vào mọi dự án."
+          "description": "Đội ngũ kỹ sư của SoftBuild đã thực hiện các dự án phần mềm cho đối tác tại Mỹ, Châu Âu, Singapore và Nhật Bản. Chúng tôi áp dụng các tiêu chuẩn kỹ thuật và quy trình kiểm soát chất lượng theo quy chuẩn quốc tế vào mọi dự án."
         },
         {
           "number": "5",
@@ -2967,14 +2967,14 @@
         {
           "number": "6",
           "title": "Cung cấp dịch vụ bảo trì và hỗ trợ kỹ thuật liên tục",
-          "description": "Chúng tôi thực hiện chế độ bảo trì định kỳ, cập nhật các bản vá bảo mật và hỗ trợ xử lý các vấn đề kỹ thuật phát sinh 24/7. Winterfrost đảm bảo hệ thống luôn hoạt động ổn định và được cập nhật với các công nghệ mới nhất."
+          "description": "Chúng tôi thực hiện chế độ bảo trì định kỳ, cập nhật các bản vá bảo mật và hỗ trợ xử lý các vấn đề kỹ thuật phát sinh 24/7. SoftBuild đảm bảo hệ thống luôn hoạt động ổn định và được cập nhật với các công nghệ mới nhất."
         }
       ]
     },
     "cta": {
       "label": "Liên hệ ngay!",
       "title": "Chuẩn hóa quy trình vận hành doanh nghiệp ngay!",
-      "description": "Sẵn sàng chuyển đổi các quy trình thủ công và dữ liệu rời rạc sang hệ thống quản trị tập trung. Hãy để Winterfrost giúp bạn xây dựng nền tảng ERP/CRM tùy chỉnh, đảm bảo tính đồng bộ dữ liệu tuyệt đối và quyền sở hữu mã nguồn vĩnh viễn.",
+      "description": "Sẵn sàng chuyển đổi các quy trình thủ công và dữ liệu rời rạc sang hệ thống quản trị tập trung. Hãy để SoftBuild giúp bạn xây dựng nền tảng ERP/CRM tùy chỉnh, đảm bảo tính đồng bộ dữ liệu tuyệt đối và quyền sở hữu mã nguồn vĩnh viễn.",
       "buttonLabel": "Nhận tư vấn giải pháp ngay",
       "image": "/images/people/cta/winterfrost/chuyen-vien-nam-tre.png",
       "imageAlt": "Expert consultant"
@@ -2982,7 +2982,7 @@
     "cases": null,
     "services": {
       "title": "Dịch vụ lập trình phần mềm doanh nghiệp tùy chỉnh",
-      "intro": "Winterfrost thực hiện lập trình và triển khai các hệ thống quản trị tập trung như ERP, CRM và HRM. Chúng tôi tập trung vào việc số hóa quy trình nghiệp vụ, kết nối dữ liệu giữa các phòng ban và cung cấp các công cụ phân tích giúp doanh nghiệp kiểm soát vận hành chính xác.",
+      "intro": "SoftBuild thực hiện lập trình và triển khai các hệ thống quản trị tập trung như ERP, CRM và HRM. Chúng tôi tập trung vào việc số hóa quy trình nghiệp vụ, kết nối dữ liệu giữa các phòng ban và cung cấp các công cụ phân tích giúp doanh nghiệp kiểm soát vận hành chính xác.",
       "items": [
         {
           "title": "Phát triển hệ thống ERP tổng thể",
@@ -3060,7 +3060,7 @@
           "number": "06",
           "tag": "Chuyển giao",
           "title": "Bàn giao mã nguồn và bảo trì định kỳ",
-          "description": "Thực hiện bàn giao 100% mã nguồn và các tài liệu hướng dẫn kỹ thuật cho doanh nghiệp. Winterfrost cung cấp dịch vụ bảo trì, cập nhật các bản vá lỗi và hỗ trợ kỹ thuật liên tục để đảm bảo hệ thống luôn tương thích với nhu cầu phát triển."
+          "description": "Thực hiện bàn giao 100% mã nguồn và các tài liệu hướng dẫn kỹ thuật cho doanh nghiệp. SoftBuild cung cấp dịch vụ bảo trì, cập nhật các bản vá lỗi và hỗ trợ kỹ thuật liên tục để đảm bảo hệ thống luôn tương thích với nhu cầu phát triển."
         }
       ],
       "cta": "Bắt đầu xây dựng sản phẩm của bạn!"
@@ -3080,7 +3080,7 @@
         },
         {
           "q": "Thời gian để hoàn thành việc lập trình một hệ thống ERP hoặc CRM là bao lâu?",
-          "a": "Thời gian triển khai phụ thuộc vào số lượng phân hệ và độ phức tạp của quy trình nghiệp vụ. Thông thường, Winterfrost sẽ chia dự án thành nhiều giai đoạn và bàn giao theo từng phân hệ để doanh nghiệp có thể đưa vào vận hành sớm các tính năng quan trọng nhất."
+          "a": "Thời gian triển khai phụ thuộc vào số lượng phân hệ và độ phức tạp của quy trình nghiệp vụ. Thông thường, SoftBuild sẽ chia dự án thành nhiều giai đoạn và bàn giao theo từng phân hệ để doanh nghiệp có thể đưa vào vận hành sớm các tính năng quan trọng nhất."
         },
         {
           "q": "Phần mềm có đáp ứng được khi số lượng nhân sự và dữ liệu tăng lên không?",
@@ -3088,10 +3088,10 @@
         },
         {
           "q": "Doanh nghiệp có được sở hữu mã nguồn sau khi bàn giao dự án không?",
-          "a": "Có. Winterfrost cam kết bàn giao 100% mã nguồn và tài liệu hướng dẫn kỹ thuật sau khi dự án hoàn tất. Doanh nghiệp toàn quyền sở hữu sản phẩm vĩnh viễn, có quyền tự nâng cấp hoặc thay đổi đơn vị bảo trì mà không gặp bất kỳ rào cản pháp lý nào từ chúng tôi."
+          "a": "Có. SoftBuild cam kết bàn giao 100% mã nguồn và tài liệu hướng dẫn kỹ thuật sau khi dự án hoàn tất. Doanh nghiệp toàn quyền sở hữu sản phẩm vĩnh viễn, có quyền tự nâng cấp hoặc thay đổi đơn vị bảo trì mà không gặp bất kỳ rào cản pháp lý nào từ chúng tôi."
         },
         {
-          "q": "Winterfrost hỗ trợ như thế nào sau khi hệ thống chính thức vận hành?",
+          "q": "SoftBuild hỗ trợ như thế nào sau khi hệ thống chính thức vận hành?",
           "a": "Chúng tôi cung cấp dịch vụ bảo trì định kỳ, cập nhật các bản vá bảo mật và hỗ trợ xử lý lỗi kỹ thuật phát sinh 24/7. Ngoài ra, chúng tôi luôn sẵn sàng tư vấn và thực hiện các nâng cấp tính năng mới để hệ thống phần mềm luôn tương thích với các chiến lược kinh doanh của doanh nghiệp."
         }
       ]
@@ -3102,7 +3102,7 @@
     "title": "Phần mềm tiện ích",
     "hero": {
       "title": "Giải pháp phần mềm tiện ích dành cho doanh nghiệp",
-      "description": "Winterfrost chuyên lập trình các công cụ tiện ích giúp tối ưu hóa hiệu suất máy chủ, tự động hóa các tác vụ nền và bảo mật hạ tầng công nghệ. Chúng tôi tập trung vào việc xây dựng các phần mềm bổ trợ có khả năng tương thích cao để giải quyết các vấn đề vận hành cụ thể trong hệ thống kỹ thuật của doanh nghiệp.",
+      "description": "SoftBuild chuyên lập trình các công cụ tiện ích giúp tối ưu hóa hiệu suất máy chủ, tự động hóa các tác vụ nền và bảo mật hạ tầng công nghệ. Chúng tôi tập trung vào việc xây dựng các phần mềm bổ trợ có khả năng tương thích cao để giải quyết các vấn đề vận hành cụ thể trong hệ thống kỹ thuật của doanh nghiệp.",
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-phan-mem-tien-ich-cho-doanh-nghiep.jpg",
       "imageAlt": "Giải pháp phần mềm tiện ích cho doanh nghiệp",
       "primaryLabel": "Liên hệ trực tiếp",
@@ -3112,10 +3112,10 @@
       "label": "Overview",
       "title": "Tối ưu hiệu suất với phần mềm tiện ích",
       "paragraphs": [
-        "Các doanh nghiệp thường gặp khó khăn với các quy trình thủ công tiêu tốn tài nguyên hoặc sự thiếu ổn định của các tiến trình nền gây gián đoạn vận hành. Winterfrost cung cấp giải pháp lập trình các công cụ tiện ích tùy chỉnh để xử lý dữ liệu tự động, giám sát hạ tầng và tối ưu hóa bộ nhớ. Giải pháp của chúng tôi giúp loại bỏ các lỗi hệ thống phát sinh, triệt tiêu xung đột mã nguồn và đảm bảo các ứng dụng cốt lõi luôn vận hành với hiệu suất cao nhất."
+        "Các doanh nghiệp thường gặp khó khăn với các quy trình thủ công tiêu tốn tài nguyên hoặc sự thiếu ổn định của các tiến trình nền gây gián đoạn vận hành. SoftBuild cung cấp giải pháp lập trình các công cụ tiện ích tùy chỉnh để xử lý dữ liệu tự động, giám sát hạ tầng và tối ưu hóa bộ nhớ. Giải pháp của chúng tôi giúp loại bỏ các lỗi hệ thống phát sinh, triệt tiêu xung đột mã nguồn và đảm bảo các ứng dụng cốt lõi luôn vận hành với hiệu suất cao nhất."
       ],
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Toi-uu-hieu-suat-voi-phan-mem-tien-ich-HomeNest-Viet-Nam.jpg",
-      "imageAlt": "Tối ưu hiệu suất với phần mềm tiện ích - Winterfrost"
+      "imageAlt": "Tối ưu hiệu suất với phần mềm tiện ích - SoftBuild"
     },
     "counters": [
       {
@@ -3184,7 +3184,7 @@
     },
     "why": {
       "label": "Tại sao chọn chúng tôi?",
-      "title": "Lý do doanh nghiệp nên chọn giải pháp phần mềm tiện ích tại Winterfrost",
+      "title": "Lý do doanh nghiệp nên chọn giải pháp phần mềm tiện ích tại SoftBuild",
       "items": [
         {
           "number": "1",
@@ -3194,7 +3194,7 @@
         {
           "number": "2",
           "title": "Giải quyết nút thắt vận hành",
-          "description": "Thay vì cung cấp các công cụ đại trà, Winterfrost nghiên cứu sâu vào hạ tầng kỹ thuật riêng biệt của khách hàng để lập trình những tiện ích có khả năng xử lý chính xác các điểm nghẽn mà phần mềm có sẵn trên thị trường không giải quyết được. Điều này tạo ra giá trị sử dụng thực tế và ngay lập tức cho doanh nghiệp."
+          "description": "Thay vì cung cấp các công cụ đại trà, SoftBuild nghiên cứu sâu vào hạ tầng kỹ thuật riêng biệt của khách hàng để lập trình những tiện ích có khả năng xử lý chính xác các điểm nghẽn mà phần mềm có sẵn trên thị trường không giải quyết được. Điều này tạo ra giá trị sử dụng thực tế và ngay lập tức cho doanh nghiệp."
         },
         {
           "number": "3",
@@ -3214,14 +3214,14 @@
         {
           "number": "6",
           "title": "Bàn giao quyền sở hữu và mã nguồn",
-          "description": "Winterfrost cung cấp đầy đủ mã nguồn và tài liệu kỹ thuật chi tiết nhằm loại bỏ hoàn toàn sự phụ thuộc vào đơn vị phát triển. Doanh nghiệp có toàn quyền chủ động trong việc nâng cấp, chỉnh sửa hoặc tích hợp thêm tính năng mới theo lộ trình phát triển riêng mà không mất thêm chi phí bản quyền."
+          "description": "SoftBuild cung cấp đầy đủ mã nguồn và tài liệu kỹ thuật chi tiết nhằm loại bỏ hoàn toàn sự phụ thuộc vào đơn vị phát triển. Doanh nghiệp có toàn quyền chủ động trong việc nâng cấp, chỉnh sửa hoặc tích hợp thêm tính năng mới theo lộ trình phát triển riêng mà không mất thêm chi phí bản quyền."
         }
       ]
     },
     "cta": {
       "label": "Liên hệ ngay!",
       "title": "Tối ưu hóa hiệu suất hạ tầng công nghệ doanh nghiệp",
-      "description": "Liên hệ với đội ngũ kỹ sư tại Winterfrost để lập trình các phần mềm tiện ích chuyên biệt và tự động hóa vận hành nhằm nâng cao tính ổn định cho hệ thống kỹ thuật.",
+      "description": "Liên hệ với đội ngũ kỹ sư tại SoftBuild để lập trình các phần mềm tiện ích chuyên biệt và tự động hóa vận hành nhằm nâng cao tính ổn định cho hệ thống kỹ thuật.",
       "buttonLabel": "Nhận tư vấn ngay",
       "image": "/images/people/cta/winterfrost/chuyen-vien-nam-tre.png",
       "imageAlt": "Expert consultant"
@@ -3319,7 +3319,7 @@
       "items": [
         {
           "q": "Phần mềm tiện ích có làm chậm tốc độ của các hệ thống chính trong doanh nghiệp không?",
-          "a": "Không. Winterfrost tối ưu hóa mã nguồn để các công cụ hoạt động độc lập và tiêu thụ mức tài nguyên máy chủ tối thiểu. Chúng tôi thiết lập các tiến trình chạy nền với mức ưu tiên thấp để đảm bảo phần mềm bổ trợ không chiếm dụng băng thông hoặc bộ nhớ của các ứng dụng kinh doanh cốt lõi."
+          "a": "Không. SoftBuild tối ưu hóa mã nguồn để các công cụ hoạt động độc lập và tiêu thụ mức tài nguyên máy chủ tối thiểu. Chúng tôi thiết lập các tiến trình chạy nền với mức ưu tiên thấp để đảm bảo phần mềm bổ trợ không chiếm dụng băng thông hoặc bộ nhớ của các ứng dụng kinh doanh cốt lõi."
         },
         {
           "q": "Các công cụ này có vận hành ổn định trên nhiều nền tảng hệ điều hành khác nhau không?",
@@ -3349,7 +3349,7 @@
     "title": "Phát triển ứng dụng theo yêu cầu",
     "hero": {
       "title": "Thiết kế và phát triển ứng dụng di động theo yêu cầu",
-      "description": "Winterfrost cung cấp dịch vụ phát triển ứng dụng di động tùy chỉnh trên hai nền tảng IOS và Android. Chúng tôi tập trung vào việc xây dựng các kiến trúc phần mềm ổn định, giao diện tối ưu hóa trải nghiệm người dùng và khả năng tích hợp linh hoạt với hệ thống dữ liệu hiện có của doanh nghiệp.",
+      "description": "SoftBuild cung cấp dịch vụ phát triển ứng dụng di động tùy chỉnh trên hai nền tảng IOS và Android. Chúng tôi tập trung vào việc xây dựng các kiến trúc phần mềm ổn định, giao diện tối ưu hóa trải nghiệm người dùng và khả năng tích hợp linh hoạt với hệ thống dữ liệu hiện có của doanh nghiệp.",
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Thiet-ke-va-phat-trien-ung-dung-di-dong-theo-yeu-cau.jpg",
       "imageAlt": "Thiết kế và phát triển ứng dụng di động theo yêu cầu",
       "primaryLabel": "Liên hệ trực tiếp",
@@ -3360,10 +3360,10 @@
       "title": "Tình trang chung của Ứng Dụng Di Động",
       "paragraphs": [
         "Nhiều ứng dụng di động hiện nay có tỷ lệ gỡ bỏ cao do giao diện phức tạp, tốc độ chậm và lỗi vận hành không ổn định. Việc thiếu kết nối với hệ thống nội bộ như ERP/CRM gây phân mảnh dữ liệu, đi kèm gánh nặng về bảo mật và chi phí bảo trì tốn kém mỗi khi hệ điều hành cập nhật, làm giảm hiệu quả đầu tư của doanh nghiệp.",
-        "Winterfrost phát triển ứng dụng đa nền tảng IOS và Android với mã nguồn tối ưu, đảm bảo tốc độ cao và sự ổn định tuyệt đối. Giải pháp dựa trên kiến trúc dữ liệu tập trung, cho phép tích hợp và đồng bộ thực tế với hệ thống quản trị sẵn có. Chúng tôi thiết lập bảo mật đa lớp và cam kết hỗ trợ kỹ thuật chủ động, giúp ứng dụng luôn tương thích với các tiêu chuẩn mới nhất."
+        "SoftBuild phát triển ứng dụng đa nền tảng IOS và Android với mã nguồn tối ưu, đảm bảo tốc độ cao và sự ổn định tuyệt đối. Giải pháp dựa trên kiến trúc dữ liệu tập trung, cho phép tích hợp và đồng bộ thực tế với hệ thống quản trị sẵn có. Chúng tôi thiết lập bảo mật đa lớp và cam kết hỗ trợ kỹ thuật chủ động, giúp ứng dụng luôn tương thích với các tiêu chuẩn mới nhất."
       ],
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Ung-dung-tuy-chinh-HomeNest-Viet-Nam.jpg",
-      "imageAlt": "Ứng dụng tùy chỉnh - Winterfrost"
+      "imageAlt": "Ứng dụng tùy chỉnh - SoftBuild"
     },
     "counters": [
       {
@@ -3432,7 +3432,7 @@
     },
     "why": {
       "label": "Tại sao chọn chúng tôi?",
-      "title": "Vì sao doanh nghiệp nên tin tưởng dịch vụ tại Winterfrost",
+      "title": "Vì sao doanh nghiệp nên tin tưởng dịch vụ tại SoftBuild",
       "items": [
         {
           "number": "1",
@@ -3462,14 +3462,14 @@
         {
           "number": "6",
           "title": "Sở hữu hoàn toàn ứng dụng",
-          "description": "Winterfrost bàn giao toàn bộ mã nguồn và tài liệu kỹ thuật sau khi dự án kết thúc. Doanh nghiệp làm chủ hoàn toàn sản phẩm và chủ động trong việc nâng cấp tương lai."
+          "description": "SoftBuild bàn giao toàn bộ mã nguồn và tài liệu kỹ thuật sau khi dự án kết thúc. Doanh nghiệp làm chủ hoàn toàn sản phẩm và chủ động trong việc nâng cấp tương lai."
         }
       ]
     },
     "cta": {
       "label": "Liên hệ ngay!",
       "title": "Sẵn sàng sở hữu ứng dụng di động của riêng doanh nghiệp?",
-      "description": "Hãy để Winterfrost hiện thực hóa ý tưởng của bạn thành một sản phẩm công nghệ ổn định, bảo mật và mang lại hiệu quả kinh doanh thực tế. chúng tôi cam kết bàn giao toàn bộ mã nguồn và đồng hành cùng doanh nghiệp trong suốt quá trình vận hành, nâng cấp.",
+      "description": "Hãy để SoftBuild hiện thực hóa ý tưởng của bạn thành một sản phẩm công nghệ ổn định, bảo mật và mang lại hiệu quả kinh doanh thực tế. chúng tôi cam kết bàn giao toàn bộ mã nguồn và đồng hành cùng doanh nghiệp trong suốt quá trình vận hành, nâng cấp.",
       "buttonLabel": "Nhận tư vấn ngay",
       "image": "/images/people/cta/winterfrost/nhan-vien-cong-nghe-tre.png",
       "imageAlt": "Expert consultant"
@@ -3482,7 +3482,7 @@
           "text": "PHÁT TRIỂN ỨNG DỤNG THEO YÊU CẦU\nTHIẾT KẾ APP\nApp Nivora Connect\nXem dự án"
         },
         {
-          "href": "https://winterfrost.tech/case-studies/app-grevia-lawn",
+          "href": "https://softbuildvn.vercel.app/case-studies/app-grevia-lawn",
           "text": "PHÁT TRIỂN ỨNG DỤNG THEO YÊU CẦU\nTHIẾT KẾ APP\nApp Grevia Lawn\nXem dự án"
         }
       ],
@@ -3498,44 +3498,44 @@
       ]
     },
     "services": {
-      "title": "Những dịch vụ thiết kế app tùy chỉnh của Winterfrost",
-      "intro": "Winterfrost cung cấp các dịch vụ phát triển ứng dụng di động toàn diện, từ khâu thiết kế giao diện đến lập trình hệ thống và vận hành. Chúng tôi tập trung tạo ra các giải pháp công nghệ ổn định, dễ sử dụng và có khả năng tích hợp linh hoạt với hạ tầng kỹ thuật hiện có của doanh nghiệp.",
+      "title": "Những dịch vụ thiết kế app tùy chỉnh của SoftBuild",
+      "intro": "SoftBuild cung cấp các dịch vụ phát triển ứng dụng di động toàn diện, từ khâu thiết kế giao diện đến lập trình hệ thống và vận hành. Chúng tôi tập trung tạo ra các giải pháp công nghệ ổn định, dễ sử dụng và có khả năng tích hợp linh hoạt với hạ tầng kỹ thuật hiện có của doanh nghiệp.",
       "items": [
         {
           "title": "Thiết kế ứng dụng cho doanh nghiệp",
           "description": "Xây dựng các ứng dụng nội bộ dành cho việc quản lý nhân sự, phê duyệt quy trình, theo dõi tiến độ dự án và báo cáo thực địa. Dịch vụ này tập trung vào việc số hóa các biểu mẫu và quy trình làm việc của doanh nghiệp lên thiết bị di động.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Thiet-ke-ung-dung-cho-doanh-nghiep-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Thiết kế ứng dụng cho doanh nghiệp - Winterfrost"
+          "imageAlt": "Thiết kế ứng dụng cho doanh nghiệp - SoftBuild"
         },
         {
           "title": "Phát triển app bán hàng",
           "description": "Thiết kế ứng dụng mua sắm trực tuyến với đầy đủ các phân hệ: giỏ hàng, tìm kiếm sản phẩm, tích hợp cổng thanh toán và theo dõi đơn hàng. Chúng tôi tập trung vào việc xây dựng luồng mua hàng ngắn gọn để tối ưu tỷ lệ chốt đơn.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phat-trien-app-ban-hang-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Phát triển app bán hàng - Winterfrost"
+          "imageAlt": "Phát triển app bán hàng - SoftBuild"
         },
         {
           "title": "Thiết kế ứng dụng theo yêu cầu",
-          "description": "Lập trình các ứng dụng dựa trên ý tưởng kinh doanh riêng biệt hoặc các mô hình khởi nghiệp. Winterfrost thực hiện từ khâu xây dựng tính năng độc quyền đến cấu trúc dữ liệu riêng, đảm bảo không trùng lặp với các sản phẩm có sẵn trên thị trường.",
+          "description": "Lập trình các ứng dụng dựa trên ý tưởng kinh doanh riêng biệt hoặc các mô hình khởi nghiệp. SoftBuild thực hiện từ khâu xây dựng tính năng độc quyền đến cấu trúc dữ liệu riêng, đảm bảo không trùng lặp với các sản phẩm có sẵn trên thị trường.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Thiet-ke-ung-dung-theo-yeu-cau-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Thiết kế ứng dụng theo yêu cầu - Winterfrost"
+          "imageAlt": "Thiết kế ứng dụng theo yêu cầu - SoftBuild"
         },
         {
           "title": "Thiết kế giao diện chuẩn UXUI",
           "description": "Cung cấp dịch vụ nghiên cứu hành vi người dùng, thiết kế bản vẽ khung xương và giao diện đồ họa hoàn chỉnh cho ứng dụng. Đây là dịch vụ dành cho doanh nghiệp đã có đội ngũ lập trình nhưng cần một bản thiết kế chuyên nghiệp và dễ sử dụng.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Thiet-ke-giao-dien-chuan-UXUI-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Thiết kế giao diện chuẩn UXUI - Winterfrost"
+          "imageAlt": "Thiết kế giao diện chuẩn UXUI - SoftBuild"
         },
         {
           "title": "Xây dựng hệ thống Backend và kết nối API",
           "description": "Thiết lập hạ tầng máy chủ, xây dựng cơ sở dữ liệu và các cổng kết nối kỹ thuật. Dịch vụ này giúp ứng dụng di động kết nối và đồng bộ dữ liệu trực tiếp với các phần mềm quản trị sẵn có như ERP, CRM hoặc website của doanh nghiệp.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Xay-dung-he-thong-Backend-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Xây dựng hệ thống Backend - Winterfrost"
+          "imageAlt": "Xây dựng hệ thống Backend - SoftBuild"
         },
         {
           "title": "Nâng cấp và bảo trì ứng dụng",
           "description": "Thực hiện các thủ tục đưa ứng dụng lên App Store/Google Play và duy trì hoạt động ổn định. Chúng tôi đảm nhiệm việc sửa lỗi kỹ thuật, cập nhật tính năng mới và nâng cấp mã nguồn để ứng dụng tương thích với các phiên bản hệ điều hành IOS và Android mới nhất.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Nang-cap-va-bao-tri-ung-dung-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Nâng cấp và bảo trì ứng dụng - Winterfrost"
+          "imageAlt": "Nâng cấp và bảo trì ứng dụng - SoftBuild"
         }
       ],
       "cta": "Khám phá tất cả dịch vụ"
@@ -3571,7 +3571,7 @@
           "number": "05",
           "tag": "Phát hành",
           "title": "Phát hành lên App Store và Google Play",
-          "description": "Thực hiện các thủ tục kỹ thuật và đăng tải ứng dụng lên các cửa hàng quốc tế. Winterfrost theo dõi sát quá trình xét duyệt của Apple và Google để đảm bảo ứng dụng hiển thị đúng thời hạn."
+          "description": "Thực hiện các thủ tục kỹ thuật và đăng tải ứng dụng lên các cửa hàng quốc tế. SoftBuild theo dõi sát quá trình xét duyệt của Apple và Google để đảm bảo ứng dụng hiển thị đúng thời hạn."
         },
         {
           "number": "06",
@@ -3589,7 +3589,7 @@
       "items": [
         {
           "q": "Chi phí phát triển một ứng dụng di động được tính toán dựa trên yếu tố nào?",
-          "a": "Chi phí được xác định bởi số lượng tính năng, độ phức tạp của giao diện người dùng và yêu cầu về hạ tầng back-end. Winterfrost cung cấp bảng báo giá chi tiết sau khi thực hiện khảo sát nghiệp vụ và thống nhất tài liệu giải pháp với doanh nghiệp."
+          "a": "Chi phí được xác định bởi số lượng tính năng, độ phức tạp của giao diện người dùng và yêu cầu về hạ tầng back-end. SoftBuild cung cấp bảng báo giá chi tiết sau khi thực hiện khảo sát nghiệp vụ và thống nhất tài liệu giải pháp với doanh nghiệp."
         },
         {
           "q": "Thời gian từ khi bắt đầu đến khi ứng dụng được phát hành trên Store là bao lâu?",
@@ -3597,7 +3597,7 @@
         },
         {
           "q": "Sau khi bàn giao, doanh nghiệp có được sở hữu toàn bộ mã nguồn không?",
-          "a": "Có. Winterfrost thực hiện bàn giao toàn bộ mã nguồn và các tài liệu kiến trúc kỹ thuật liên quan sau khi kết thúc dự án. Doanh nghiệp làm chủ hoàn toàn sản phẩm và có quyền chủ động nâng cấp hoặc chuyển giao vận hành."
+          "a": "Có. SoftBuild thực hiện bàn giao toàn bộ mã nguồn và các tài liệu kiến trúc kỹ thuật liên quan sau khi kết thúc dự án. Doanh nghiệp làm chủ hoàn toàn sản phẩm và có quyền chủ động nâng cấp hoặc chuyển giao vận hành."
         },
         {
           "q": "Ứng dụng có hoạt động đồng bộ trên cả hệ điều hành IOS và Android không?",
@@ -3608,7 +3608,7 @@
           "a": "Chúng tôi áp dụng các tiêu chuẩn mã hóa dữ liệu đầu cuối và thiết lập hệ thống xác thực nhiều lớp. Trước khi phát hành, ứng dụng trải qua quy trình kiểm thử bảo mật nghiêm ngặt để phát hiện và xử lý các lỗ hổng kỹ thuật tiềm ẩn."
         },
         {
-          "q": "Winterfrost có hỗ trợ cập nhật khi các hệ điều hành IOS và Android ra phiên bản mới không?",
+          "q": "SoftBuild có hỗ trợ cập nhật khi các hệ điều hành IOS và Android ra phiên bản mới không?",
           "a": "Có. Chúng tôi cung cấp dịch vụ bảo trì định kỳ để kiểm tra tính tương thích và nâng cấp mã nguồn theo các thay đổi từ Google và Apple. Điều này đảm bảo ứng dụng của doanh nghiệp luôn hoạt động ổn định trên các dòng thiết bị mới nhất."
         }
       ]
@@ -3619,7 +3619,7 @@
     "title": "Tài chính doanh nghiệp",
     "hero": {
       "title": "Phát triển phần mềm tài chính doanh nghiệp",
-      "description": "Winterfrost cung cấp các giải pháp phần mềm tài chính doanh nghiệp siêu bảo mật, có khả năng mở rộng linh hoạt và tuân thủ tuyệt đối các quy định pháp lý. Chúng tôi hỗ trợ các định chế tài chính hiện đại hóa hệ thống ngân hàng lõi lạc hậu và xây dựng các nền tảng quản lý tài sản tự động, mang lại hạ tầng công nghệ tương thích hoàn hảo với hệ sinh thái tài chính hiện đại.",
+      "description": "SoftBuild cung cấp các giải pháp phần mềm tài chính doanh nghiệp siêu bảo mật, có khả năng mở rộng linh hoạt và tuân thủ tuyệt đối các quy định pháp lý. Chúng tôi hỗ trợ các định chế tài chính hiện đại hóa hệ thống ngân hàng lõi lạc hậu và xây dựng các nền tảng quản lý tài sản tự động, mang lại hạ tầng công nghệ tương thích hoàn hảo với hệ sinh thái tài chính hiện đại.",
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Tai-chinh-doanh-nghiep.jpg",
       "imageAlt": "Tài chính doanh nghiệp",
       "primaryLabel": "Liên hệ trực tiếp",
@@ -3630,7 +3630,7 @@
       "title": "Chuyển đổi hệ thống tài chính cũ sang kiến trúc số Thế Hệ Mới",
       "paragraphs": [
         "Nhiều định chế tài chính đang vận hành trên các hệ thống Core Banking cũ kỹ, khó nâng cấp và chi phí bảo trì cực kỳ đắt đỏ. Sự thiếu hụt các cổng kết nối API hiện đại khiến việc tích hợp với các ứng dụng bên thứ ba trở nên phức tạp và rủi ro. Ngoài ra, việc xử lý khối lượng dữ liệu khổng lồ trong khi vẫn phải đảm bảo các quy định khắt khe về tuân thủ là một bài toán hóc búa đối với các hệ thống lỗi thời.",
-        "Winterfrost mang đến giải pháp hiện đại hóa hạ tầng tài chính toàn diện. Chúng tôi thực hiện chuyển đổi các hệ thống cũ sang kiến trúc Microservices hiện đại, xây dựng các nền tảng quản lý tài sản tự động hóa và hệ thống quản trị rủi ro thông minh. Giải pháp của chúng tôi giúp doanh nghiệp tối ưu hóa hiệu suất vận hành, làm chủ dữ liệu và sẵn sàng đáp ứng mọi tiêu chuẩn khắt khe nhất của thị trường tài chính toàn cầu."
+        "SoftBuild mang đến giải pháp hiện đại hóa hạ tầng tài chính toàn diện. Chúng tôi thực hiện chuyển đổi các hệ thống cũ sang kiến trúc Microservices hiện đại, xây dựng các nền tảng quản lý tài sản tự động hóa và hệ thống quản trị rủi ro thông minh. Giải pháp của chúng tôi giúp doanh nghiệp tối ưu hóa hiệu suất vận hành, làm chủ dữ liệu và sẵn sàng đáp ứng mọi tiêu chuẩn khắt khe nhất của thị trường tài chính toàn cầu."
       ],
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Chuyen-doi-he-thong-tai-chinh-cu-sang-kien-truc-so-the-he-moi.jpg",
       "imageAlt": "Chuyển đổi hệ thống tài chính cũ sang kiến trúc số thế hệ mới"
@@ -3702,7 +3702,7 @@
     },
     "why": {
       "label": "Tại sao chọn chúng tôi?",
-      "title": "Vì sao nên chọn giả pháp tài chính tại Winterfrost",
+      "title": "Vì sao nên chọn giả pháp tài chính tại SoftBuild",
       "items": [
         {
           "number": "1",
@@ -3732,14 +3732,14 @@
         {
           "number": "6",
           "title": "Tối ưu hóa tổng chi phí sở hữu",
-          "description": "Giải pháp của Winterfrost giúp giảm chi phí vận hành lâu dài và loại bỏ các khoản phí bản quyền đắt đỏ từ các nhà cung cấp đóng gói."
+          "description": "Giải pháp của SoftBuild giúp giảm chi phí vận hành lâu dài và loại bỏ các khoản phí bản quyền đắt đỏ từ các nhà cung cấp đóng gói."
         }
       ]
     },
     "cta": {
       "label": "Liên hệ ngay!",
       "title": "Thiết lập hạ tầng quản trị tài chính doanh nghiệp",
-      "description": "Liên hệ với đội ngũ kỹ sư tại Winterfrost để xây dựng hệ thống quản lý dòng tiền thời gian thực và tự động hóa quy trình báo cáo quyết toán nhằm tối ưu hóa hiệu suất quản trị cho doanh nghiệp.",
+      "description": "Liên hệ với đội ngũ kỹ sư tại SoftBuild để xây dựng hệ thống quản lý dòng tiền thời gian thực và tự động hóa quy trình báo cáo quyết toán nhằm tối ưu hóa hiệu suất quản trị cho doanh nghiệp.",
       "buttonLabel": "Liên hệ với chúng tôi ngay",
       "image": "/images/people/cta/winterfrost/chuyen-vien-nu.png",
       "imageAlt": "Expert consultant"
@@ -3747,7 +3747,7 @@
     "cases": null,
     "services": {
       "title": "Dịch vụ tài chính doanh nghiệp thế hệ mới",
-      "intro": "Winterfrost triển khai các giải pháp hiện đại hóa hệ thống ngân hàng lõi, xây dựng nền tảng quản lý tài sản và quản trị rủi ro thông minh nhằm giúp doanh nghiệp làm chủ hạ tầng tài chính hiện đại, bảo mật và vận hành hiệu quả trên quy mô lớn.",
+      "intro": "SoftBuild triển khai các giải pháp hiện đại hóa hệ thống ngân hàng lõi, xây dựng nền tảng quản lý tài sản và quản trị rủi ro thông minh nhằm giúp doanh nghiệp làm chủ hạ tầng tài chính hiện đại, bảo mật và vận hành hiệu quả trên quy mô lớn.",
       "items": [
         {
           "title": "Hiện đại hóa hệ thống ngân hàng lõi",
@@ -3801,7 +3801,7 @@
           "number": "02",
           "tag": "Thiết kế",
           "title": "Thiết kế kiến trúc và bảo mật",
-          "description": "Winterfrost xây dựng bản vẽ kỹ thuật dựa trên kiến trúc Microservices để hệ thống dễ dàng mở rộng và bảo trì. Các tầng bảo mật dữ liệu và giao thức kết nối API được thiết lập chặt chẽ nhằm đảm bảo tính toàn vẹn của thông tin tài chính ngay từ khâu thiết kế."
+          "description": "SoftBuild xây dựng bản vẽ kỹ thuật dựa trên kiến trúc Microservices để hệ thống dễ dàng mở rộng và bảo trì. Các tầng bảo mật dữ liệu và giao thức kết nối API được thiết lập chặt chẽ nhằm đảm bảo tính toàn vẹn của thông tin tài chính ngay từ khâu thiết kế."
         },
         {
           "number": "03",
@@ -3819,13 +3819,13 @@
           "number": "05",
           "tag": "Vận hành thực tế",
           "title": "Triển khai và chuyển đổi",
-          "description": "Chúng tôi cho phép hệ thống mới chạy song song với hệ thống cũ trong một khoảng thời gian để kiểm chứng độ ổn định. Sau khi mọi chỉ số đạt yêu cầu, Winterfrost thực hiện chuyển đổi hoàn toàn sang hệ thống mới mà không gây gián đoạn các giao dịch hiện tại."
+          "description": "Chúng tôi cho phép hệ thống mới chạy song song với hệ thống cũ trong một khoảng thời gian để kiểm chứng độ ổn định. Sau khi mọi chỉ số đạt yêu cầu, SoftBuild thực hiện chuyển đổi hoàn toàn sang hệ thống mới mà không gây gián đoạn các giao dịch hiện tại."
         },
         {
           "number": "06",
           "tag": "Bàn giao",
           "title": "Bàn giao mã nguồn và hỗ trợ bảo trì",
-          "description": "Winterfrost bàn giao toàn bộ mã nguồn và tài liệu hướng dẫn vận hành cho đội ngũ kỹ thuật của doanh nghiệp. Chúng tôi duy trì chế độ bảo trì 24/7 và cập nhật các bản vá bảo mật định kỳ để hệ thống luôn hoạt động trong trạng thái tối ưu nhất."
+          "description": "SoftBuild bàn giao toàn bộ mã nguồn và tài liệu hướng dẫn vận hành cho đội ngũ kỹ thuật của doanh nghiệp. Chúng tôi duy trì chế độ bảo trì 24/7 và cập nhật các bản vá bảo mật định kỳ để hệ thống luôn hoạt động trong trạng thái tối ưu nhất."
         }
       ],
       "cta": "Bắt đầu xây dựng sản phẩm của bạn!"
@@ -3837,14 +3837,14 @@
       "items": [
         {
           "q": "Việc nâng cấp từ hệ thống Core Banking cũ có làm gián đoạn các giao dịch hiện tại không?",
-          "a": "Không. Winterfrost áp dụng chiến lược triển khai song song hoặc chuyển đổi theo từng giai đoạn. Chúng tôi thiết lập các cổng kết nối trung gian để đảm bảo dữ liệu luôn đồng bộ giữa hệ thống cũ và mới, giúp mọi giao dịch của khách hàng vẫn diễn ra thông suốt trong suốt quá trình nâng cấp."
+          "a": "Không. SoftBuild áp dụng chiến lược triển khai song song hoặc chuyển đổi theo từng giai đoạn. Chúng tôi thiết lập các cổng kết nối trung gian để đảm bảo dữ liệu luôn đồng bộ giữa hệ thống cũ và mới, giúp mọi giao dịch của khách hàng vẫn diễn ra thông suốt trong suốt quá trình nâng cấp."
         },
         {
           "q": "Làm thế nào để đảm bảo dữ liệu tài chính không bị mất mát khi di trú sang hệ thống mới?",
           "a": "Chúng tôi thực hiện quy trình di trú dữ liệu qua nhiều bước kiểm định nghiêm ngặt, bao gồm các đợt diễn tập chuyển đổi và đối soát dữ liệu tự động. Mọi thông tin từ số dư tài khoản đến lịch sử giao dịch đều được kiểm chứng tính toàn vẹn 100% trước khi hệ thống mới chính thức vận hành."
         },
         {
-          "q": "Hệ thống của Winterfrost có hỗ trợ tự động hóa các báo cáo tuân thủ pháp lý không?",
+          "q": "Hệ thống của SoftBuild có hỗ trợ tự động hóa các báo cáo tuân thủ pháp lý không?",
           "a": "Có. Chúng tôi tích hợp sẵn các công cụ RegTech giúp tự động hóa việc tổng hợp dữ liệu và xuất báo cáo theo các tiêu chuẩn quốc tế như IFRS và quy định của ngân hàng trung ương. Điều này giúp doanh nghiệp tiết kiệm thời gian và đảm bảo tính chính xác tuyệt đối trước các cơ quan quản lý."
         },
         {
@@ -3853,10 +3853,10 @@
         },
         {
           "q": "Doanh nghiệp có quyền làm chủ và chỉnh sửa mã nguồn sau khi bàn giao không?",
-          "a": "Hoàn toàn có. Winterfrost bàn giao 100% mã nguồn và tài liệu kiến trúc kỹ thuật. Doanh nghiệp toàn quyền sở hữu sản phẩm, có thể chủ động trong việc bảo trì, nâng cấp hoặc tùy chỉnh tính năng theo chiến lược kinh doanh mà không bị phụ thuộc vào bất kỳ nhà cung cấp nào."
+          "a": "Hoàn toàn có. SoftBuild bàn giao 100% mã nguồn và tài liệu kiến trúc kỹ thuật. Doanh nghiệp toàn quyền sở hữu sản phẩm, có thể chủ động trong việc bảo trì, nâng cấp hoặc tùy chỉnh tính năng theo chiến lược kinh doanh mà không bị phụ thuộc vào bất kỳ nhà cung cấp nào."
         },
         {
-          "q": "Winterfrost bảo mật dữ liệu tài chính trước các cuộc tấn công mạng như thế nào?",
+          "q": "SoftBuild bảo mật dữ liệu tài chính trước các cuộc tấn công mạng như thế nào?",
           "a": "Chúng tôi xây dựng hệ thống bảo mật đa tầng, từ mã hóa dữ liệu ở trạng thái nghỉ đến bảo mật đường truyền giao dịch. Hệ thống tích hợp các công nghệ nhận diện xâm nhập và trải qua các đợt kiểm thử xâm nhập gắt gao để đảm bảo hạ tầng tài chính luôn đứng vững trước các mối đe dọa mạng."
         }
       ]
@@ -3867,7 +3867,7 @@
     "title": "Thương mại điện tử",
     "hero": {
       "title": "Giải pháp thương mại điện tử toàn diện",
-      "description": "Winterfrost xây dựng hạ tầng thương mại điện tử chịu tải cao, đảm bảo xử lý lưu lượng truy cập lớn mà không làm giảm hiệu suất vận hành. Chúng tôi tập trung phát triển nền tảng không giao diện Headless Commerce tùy chỉnh, sàn TMĐT đa người bán và hệ thống tự động hóa hoàn thiện đơn hàng. Giải pháp ưu tiên tạo lập môi trường giao dịch mượt mà để tối đa hóa tỷ lệ chuyển đổi, kết hợp cùng quy trình quản trị bảo mật tích hợp backend chuyên sâu.",
+      "description": "SoftBuild xây dựng hạ tầng thương mại điện tử chịu tải cao, đảm bảo xử lý lưu lượng truy cập lớn mà không làm giảm hiệu suất vận hành. Chúng tôi tập trung phát triển nền tảng không giao diện Headless Commerce tùy chỉnh, sàn TMĐT đa người bán và hệ thống tự động hóa hoàn thiện đơn hàng. Giải pháp ưu tiên tạo lập môi trường giao dịch mượt mà để tối đa hóa tỷ lệ chuyển đổi, kết hợp cùng quy trình quản trị bảo mật tích hợp backend chuyên sâu.",
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-thuong-mai-dien-toan-dien.jpg",
       "imageAlt": "Giải pháp thương mại điện toàn diện",
       "primaryLabel": "Liên hệ trực tiếp",
@@ -3878,7 +3878,7 @@
       "title": "Thực trạng của sàn thương mại điện tử",
       "paragraphs": [
         "Nhiều doanh nghiệp gặp khó khăn với hệ thống thương mại điện tử có tốc độ tải chậm và trải nghiệm người dùng phức tạp, dẫn đến tỷ lệ bỏ giỏ hàng cao. Việc thiếu kết nối giữa kênh bán hàng trực tuyến và hệ thống quản lý kho và đơn hàng gây sai lệch dữ liệu thực tế. Ngoài ra, các rủi ro về bảo mật thanh toán và khả năng chịu tải kém trong các đợt cao điểm mua sắm trực tuyến làm giảm uy tín và doanh thu của doanh nghiệp.",
-        "Winterfrost phát triển các hệ thống thương mại điện tử dựa trên kiến trúc microservices, đảm bảo tốc độ phản hồi nhanh và khả năng chịu tải hàng ngàn truy cập đồng thời. Chúng tôi thực hiện kết nối trực tiếp các cổng thanh toán, đơn vị vận chuyển và đồng bộ hóa thực tế với hệ thống quản trị ERP/CRM của doanh nghiệp. Giải pháp tập trung vào tối ưu hóa luồng mua hàng, thiết lập bảo mật đa lớp và cung cấp các công cụ phân tích dữ liệu chuyên sâu để hỗ trợ điều hành kinh doanh hiệu quả."
+        "SoftBuild phát triển các hệ thống thương mại điện tử dựa trên kiến trúc microservices, đảm bảo tốc độ phản hồi nhanh và khả năng chịu tải hàng ngàn truy cập đồng thời. Chúng tôi thực hiện kết nối trực tiếp các cổng thanh toán, đơn vị vận chuyển và đồng bộ hóa thực tế với hệ thống quản trị ERP/CRM của doanh nghiệp. Giải pháp tập trung vào tối ưu hóa luồng mua hàng, thiết lập bảo mật đa lớp và cung cấp các công cụ phân tích dữ liệu chuyên sâu để hỗ trợ điều hành kinh doanh hiệu quả."
       ],
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Thuc-trang-cua-san-thuong-mai-dien-tu.jpg",
       "imageAlt": "Thực trạng của sàn thương mại điện tử"
@@ -3907,7 +3907,7 @@
     ],
     "values": {
       "title": "Giá trị thực tế khi ứng dụng công nghệ",
-      "intro": "Ứng dụng công nghệ Winterfrost giúp doanh nghiệp tự động hóa quy trình bán hàng, tối ưu tỷ lệ chuyển đổi và quản trị dữ liệu tập trung, tạo nền tảng vận hành bền vững và an toàn trên môi trường trực tuyến.",
+      "intro": "Ứng dụng công nghệ SoftBuild giúp doanh nghiệp tự động hóa quy trình bán hàng, tối ưu tỷ lệ chuyển đổi và quản trị dữ liệu tập trung, tạo nền tảng vận hành bền vững và an toàn trên môi trường trực tuyến.",
       "items": [
         {
           "title": "Tự động hóa quy trình vận hành",
@@ -3950,7 +3950,7 @@
     },
     "why": {
       "label": "Tại sao chọn chúng tôi?",
-      "title": "Tại sao doanh nghiệp nên chọn Winterfrost?",
+      "title": "Tại sao doanh nghiệp nên chọn SoftBuild?",
       "items": [
         {
           "number": "1",
@@ -3975,19 +3975,19 @@
         {
           "number": "5",
           "title": "Doanh nghiệp làm chủ hoàn toàn mã nguồn",
-          "description": "Sau khi hoàn thành, Winterfrost bàn giao lại toàn bộ mã nguồn sản phẩm. Doanh nghiệp toàn quyền sở hữu, có thể tự nâng cấp hoặc đổi đơn vị vận hành mà không bị ràng buộc."
+          "description": "Sau khi hoàn thành, SoftBuild bàn giao lại toàn bộ mã nguồn sản phẩm. Doanh nghiệp toàn quyền sở hữu, có thể tự nâng cấp hoặc đổi đơn vị vận hành mà không bị ràng buộc."
         },
         {
           "number": "6",
           "title": "Tư vấn tính năng thực tế và hiệu quả",
-          "description": "Chúng tôi tập trung xây dựng những tính năng thực sự cần thiết cho việc bán hàng. Giải pháp của Winterfrost ưu tiên việc giúp khách hàng chốt đơn nhanh hơn và tiết kiệm chi phí quản lý cho doanh nghiệp."
+          "description": "Chúng tôi tập trung xây dựng những tính năng thực sự cần thiết cho việc bán hàng. Giải pháp của SoftBuild ưu tiên việc giúp khách hàng chốt đơn nhanh hơn và tiết kiệm chi phí quản lý cho doanh nghiệp."
         }
       ]
     },
     "cta": {
       "label": "Liên hệ ngay!",
       "title": "Xây dựng nền tảng thương mại điện tử ngay hôm nay!",
-      "description": "Hãy để Winterfrost đồng hành cùng bạn xây dựng một nền tảng bán hàng ổn định, chịu tải lớn và tích hợp toàn diện. chúng tôi cam kết bàn giao toàn quyền sở hữu mã nguồn để doanh nghiệp chủ động phát triển bền vững và làm chủ hoàn toàn dữ liệu kinh doanh.",
+      "description": "Hãy để SoftBuild đồng hành cùng bạn xây dựng một nền tảng bán hàng ổn định, chịu tải lớn và tích hợp toàn diện. chúng tôi cam kết bàn giao toàn quyền sở hữu mã nguồn để doanh nghiệp chủ động phát triển bền vững và làm chủ hoàn toàn dữ liệu kinh doanh.",
       "buttonLabel": "Nhận tư vấn giải pháp ngay",
       "image": "/images/people/cta/winterfrost/chuyen-vien-nu.png",
       "imageAlt": "Expert consultant"
@@ -3996,15 +3996,15 @@
       "title": "Case Studies",
       "links": [
         {
-          "href": "https://winterfrost.tech/case-studies/website-virela-interior",
+          "href": "https://softbuildvn.vercel.app/case-studies/website-virela-interior",
           "text": "KIẾN TRÚC & XÂY DỰNG\nTHƯƠNG MẠI ĐIỆN TỬ\nTHIẾT KẾ WEBSITE\nWebsite Virela Interior\nXem dự án"
         },
         {
-          "href": "https://winterfrost.tech/case-studies/website-ceranova",
+          "href": "https://softbuildvn.vercel.app/case-studies/website-ceranova",
           "text": "KIẾN TRÚC & XÂY DỰNG\nTHƯƠNG MẠI ĐIỆN TỬ\nTHIẾT KẾ WEBSITE\nWebsite Ceranova\nXem dự án"
         },
         {
-          "href": "https://winterfrost.tech/case-studies/website-mocvan-tea",
+          "href": "https://softbuildvn.vercel.app/case-studies/website-mocvan-tea",
           "text": "BÁN LẺ\nTHƯƠNG MẠI ĐIỆN TỬ\nTHIẾT KẾ WEBSITE\nWebsite Mocvan Tea\nXem dự án"
         }
       ],
@@ -4016,44 +4016,44 @@
       ]
     },
     "services": {
-      "title": "Dịch vụ thương mại điện tử tại Winterfrost",
-      "intro": "Winterfrost cung cấp các dịch vụ lập trình và tích hợp chuyên sâu để biến kênh bán hàng trực tuyến thành một hệ thống vận hành tự động. Chúng tôi tập trung vào việc xây dựng hạ tầng kỹ thuật riêng biệt, giúp doanh nghiệp làm chủ hoàn toàn dữ liệu và quy trình giao dịch.",
+      "title": "Dịch vụ thương mại điện tử tại SoftBuild",
+      "intro": "SoftBuild cung cấp các dịch vụ lập trình và tích hợp chuyên sâu để biến kênh bán hàng trực tuyến thành một hệ thống vận hành tự động. Chúng tôi tập trung vào việc xây dựng hạ tầng kỹ thuật riêng biệt, giúp doanh nghiệp làm chủ hoàn toàn dữ liệu và quy trình giao dịch.",
       "items": [
         {
           "title": "Phát triển nền tảng bán hàng tùy chỉnh",
           "description": "Lập trình website và ứng dụng bán hàng dựa trên yêu cầu riêng biệt của doanh nghiệp thay vì dùng các bản mẫu có sẵn. Dịch vụ này đảm bảo hệ thống có đầy đủ tính năng đặc thù, dễ dàng mở rộng và tối ưu hóa tốc độ tải trang ở mức cao nhất.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phat-trien-nen-tang-ban-hang-tuy-chinh-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Phát triển nền tảng bán hàng tùy chỉnh - Winterfrost"
+          "imageAlt": "Phát triển nền tảng bán hàng tùy chỉnh - SoftBuild"
         },
         {
           "title": "Xây dựng sàn thương mại đa người bán",
           "description": "Thiết lập hạ tầng kỹ thuật cho các mô hình sàn giao dịch quy mô lớn với sự tham gia của nhiều nhà cung cấp. Hệ thống bao gồm đầy đủ các phân hệ quản lý gian hàng, phân chia hoa hồng tự động và kiểm soát chất lượng dịch vụ của từng người bán.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Xay-dung-san-thuong-mai-da-nguoi-ban-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Xây dựng sàn thương mại đa người bán - Winterfrost"
+          "imageAlt": "Xây dựng sàn thương mại đa người bán - SoftBuild"
         },
         {
           "title": "Triển khai giải pháp Headless Commerce",
           "description": "Sử dụng kiến trúc hiện đại tách rời giao diện hiển thị và bộ máy xử lý dữ liệu. Giải pháp này giúp ứng dụng hoạt động cực nhanh trên mọi thiết bị, tăng tính bảo mật và cho phép doanh nghiệp thay đổi giao diện linh hoạt mà không ảnh hưởng đến hệ thống bán hàng phía sau.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Trien-khai-giai-phap-Headless-Commerce-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Triển khai giải pháp Headless Commerce - Winterfrost"
+          "imageAlt": "Triển khai giải pháp Headless Commerce - SoftBuild"
         },
         {
           "title": "Kết nối hệ thống quản trị và kho vận",
           "description": "Thực hiện liên kết dữ liệu trực tiếp giữa kênh bán hàng với các phần mềm quản lý kho, kế toán và đơn vị vận chuyển. Mọi thông tin về tồn kho, trạng thái đơn hàng và doanh thu được tự động cập nhật đồng bộ, giúp giảm thiểu sai sót do thao tác thủ công.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Ket-noi-he-thong-quan-tri-va-kho-van-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Kết nối hệ thống quản trị và kho vận - Winterfrost"
+          "imageAlt": "Kết nối hệ thống quản trị và kho vận - SoftBuild"
         },
         {
           "title": "Tích hợp cổng thanh toán và bảo mật giao dịch",
           "description": "Thiết lập các kết nối kỹ thuật an toàn với ngân hàng, ví điện tử và các tổ chức trung gian thanh toán. Chúng tôi áp dụng các tiêu chuẩn mã hóa dữ liệu nghiêm ngặt để bảo vệ thông tin tài chính của khách hàng và uy tín của doanh nghiệp.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Tich-hop-cong-thanh-toan-va-bao-mat-giao-dich-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Tích hợp cổng thanh toán và bảo mật giao dịch - Winterfrost"
+          "imageAlt": "Tích hợp cổng thanh toán và bảo mật giao dịch - SoftBuild"
         },
         {
           "title": "Bảo trì và tối ưu hiệu suất",
           "description": "Theo dõi và tinh chỉnh mã nguồn để trang web luôn hoạt động mượt mà trong các đợt cao điểm mua sắm. Dịch vụ này bao gồm việc kiểm tra lỗ hổng bảo mật định kỳ, cập nhật tính năng mới và đảm bảo hệ thống không bị gián đoạn khi có lượng truy cập lớn.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Bao-tri-va-toi-uu-hieu-suat-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Bảo trì và tối ưu hiệu suất - Winterfrost"
+          "imageAlt": "Bảo trì và tối ưu hiệu suất - SoftBuild"
         }
       ],
       "cta": "Khám phá tất cả dịch vụ"
@@ -4089,7 +4089,7 @@
           "number": "05",
           "tag": "Vận hành",
           "title": "Triển khai và phát hành sản phẩm",
-          "description": "Cấu hình máy chủ, cài đặt chứng chỉ bảo mật và chính thức đưa hệ thống vào hoạt động. Winterfrost hỗ trợ doanh nghiệp nhập liệu sản phẩm ban đầu và hướng dẫn đội ngũ nhân sự sử dụng thành thạo trang quản trị."
+          "description": "Cấu hình máy chủ, cài đặt chứng chỉ bảo mật và chính thức đưa hệ thống vào hoạt động. SoftBuild hỗ trợ doanh nghiệp nhập liệu sản phẩm ban đầu và hướng dẫn đội ngũ nhân sự sử dụng thành thạo trang quản trị."
         },
         {
           "number": "06",
@@ -4107,7 +4107,7 @@
       "items": [
         {
           "q": "Chi phí xây dựng một hệ thống thương mại điện tử được tính toán dựa trên yếu tố nào?",
-          "a": "Chi phí phụ thuộc vào độ phức tạp của các tính năng như đấu giá, đa người bán, yêu cầu về hạ tầng chịu tải và số lượng hệ thống bên thứ ba cần tích hợp. Winterfrost cung cấp bảng báo giá chi tiết sau khi khảo sát kỹ lưỡng nhu cầu thực tế và quy mô vận hành của doanh nghiệp."
+          "a": "Chi phí phụ thuộc vào độ phức tạp của các tính năng như đấu giá, đa người bán, yêu cầu về hạ tầng chịu tải và số lượng hệ thống bên thứ ba cần tích hợp. SoftBuild cung cấp bảng báo giá chi tiết sau khi khảo sát kỹ lưỡng nhu cầu thực tế và quy mô vận hành của doanh nghiệp."
         },
         {
           "q": "Hệ thống có khả năng kết nối với các phần mềm quản lý kho và kế toán sẵn có không?",
@@ -4115,18 +4115,18 @@
         },
         {
           "q": "Làm thế nào để đảm bảo website không bị treo khi lượng truy cập tăng đột biến?",
-          "a": "Winterfrost sử dụng kiến trúc hệ thống hiện đại và hạ tầng điện toán đám mây có khả năng tự động mở rộng. Chúng tôi tối ưu hóa mã nguồn và cấu trúc cơ sở dữ liệu để hệ thống luôn vận hành mượt mà, ngay cả trong những đợt cao điểm khuyến mãi có hàng nghìn người truy cập cùng lúc."
+          "a": "SoftBuild sử dụng kiến trúc hệ thống hiện đại và hạ tầng điện toán đám mây có khả năng tự động mở rộng. Chúng tôi tối ưu hóa mã nguồn và cấu trúc cơ sở dữ liệu để hệ thống luôn vận hành mượt mà, ngay cả trong những đợt cao điểm khuyến mãi có hàng nghìn người truy cập cùng lúc."
         },
         {
           "q": "Sau khi bàn giao, doanh nghiệp có quyền sở hữu hoàn toàn mã nguồn không?",
-          "a": "Có. Winterfrost thực hiện bàn giao toàn bộ mã nguồn và tài liệu hướng dẫn kỹ thuật ngay sau khi dự án hoàn thành. Doanh nghiệp toàn quyền sở hữu sản phẩm, chủ động trong việc nâng cấp hoặc thay đổi đơn vị vận hành mà không gặp bất kỳ rào cản pháp lý hay kỹ thuật nào."
+          "a": "Có. SoftBuild thực hiện bàn giao toàn bộ mã nguồn và tài liệu hướng dẫn kỹ thuật ngay sau khi dự án hoàn thành. Doanh nghiệp toàn quyền sở hữu sản phẩm, chủ động trong việc nâng cấp hoặc thay đổi đơn vị vận hành mà không gặp bất kỳ rào cản pháp lý hay kỹ thuật nào."
         },
         {
           "q": "Các giao dịch thanh toán trên hệ thống được bảo mật như thế nào?",
           "a": "Chúng tôi áp dụng các tiêu chuẩn mã hóa dữ liệu đầu cuối và tích hợp các cổng thanh toán uy tín đã đạt chứng chỉ bảo mật quốc tế. Hệ thống được thiết lập nhiều lớp xác thực và rà soát lỗ hổng định kỳ nhằm bảo vệ tuyệt đối thông tin tài chính của khách hàng."
         },
         {
-          "q": "Nền tảng của Winterfrost có hỗ trợ tốt cho việc làm SEO và Marketing không?",
+          "q": "Nền tảng của SoftBuild có hỗ trợ tốt cho việc làm SEO và Marketing không?",
           "a": "Có. Toàn bộ mã nguồn được tối ưu theo các tiêu chuẩn kỹ thuật mới nhất của Google, đảm bảo tốc độ tải trang nhanh và cấu trúc dữ liệu thân thiện với bộ máy tìm kiếm. Hệ thống cũng tích hợp sẵn các công cụ theo dõi hành vi người dùng để phục vụ hiệu quả cho các chiến dịch Marketing."
         }
       ]
@@ -4137,7 +4137,7 @@
     "title": "Vận tải và Logistics",
     "hero": {
       "title": "Giải pháp chuyển đổi số vận tải và logistics",
-      "description": "Winterfrost cung cấp dịch vụ lập trình hệ thống quản trị vận tải chuyên sâu, tập trung vào việc tự động hóa luồng hàng hóa và kiểm soát chính xác chi phí vận hành. Chúng tôi thiết kế các kiến trúc phần mềm giúp doanh nghiệp hợp nhất dữ liệu từ nhiều nguồn vận hành để tối ưu hóa hiệu suất chuỗi cung ứng.",
+      "description": "SoftBuild cung cấp dịch vụ lập trình hệ thống quản trị vận tải chuyên sâu, tập trung vào việc tự động hóa luồng hàng hóa và kiểm soát chính xác chi phí vận hành. Chúng tôi thiết kế các kiến trúc phần mềm giúp doanh nghiệp hợp nhất dữ liệu từ nhiều nguồn vận hành để tối ưu hóa hiệu suất chuỗi cung ứng.",
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-chuyen-doi-so-van-tai-va-logistics.jpg",
       "imageAlt": "Giải pháp chuyển đổi số vận tải và logistics",
       "primaryLabel": "Liên hệ trực tiếp",
@@ -4147,7 +4147,7 @@
       "label": "Overview",
       "title": "Tối ưu hóa logistics và số hóa quy trình vận tải",
       "paragraphs": [
-        "Thách thức lớn nhất của doanh nghiệp vận tải là sự thiếu minh bạch trong lộ trình và tình trạng lãng phí tài nguyên do điều phối thủ công. Winterfrost giải quyết vấn đề này bằng cách thiết lập hệ thống quản lý vận tải tập trung tích hợp thuật toán tối ưu hóa lộ trình và cơ chế giám sát hành trình thời gian thực. Giải pháp của chúng tôi đảm bảo tính đồng nhất của dữ liệu giữa kho hàng, đội xe và bộ phận điều phối để giảm thiểu thời gian trống và tối đa hóa tải trọng phương tiện."
+        "Thách thức lớn nhất của doanh nghiệp vận tải là sự thiếu minh bạch trong lộ trình và tình trạng lãng phí tài nguyên do điều phối thủ công. SoftBuild giải quyết vấn đề này bằng cách thiết lập hệ thống quản lý vận tải tập trung tích hợp thuật toán tối ưu hóa lộ trình và cơ chế giám sát hành trình thời gian thực. Giải pháp của chúng tôi đảm bảo tính đồng nhất của dữ liệu giữa kho hàng, đội xe và bộ phận điều phối để giảm thiểu thời gian trống và tối đa hóa tải trọng phương tiện."
       ],
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Toi-uu-hoa-chuoi-cung-ung-va-so-hoa-quy-trinh-van-tai.jpg",
       "imageAlt": "Tối ưu hóa chuỗi cung ứng và số hóa quy trình vận tải"
@@ -4219,7 +4219,7 @@
     },
     "why": {
       "label": "Tại sao chọn chúng tôi?",
-      "title": "Lý do doanh nghệ nên chọn Winterfrost làm đối tác",
+      "title": "Lý do doanh nghệ nên chọn SoftBuild làm đối tác",
       "items": [
         {
           "number": "1",
@@ -4256,14 +4256,14 @@
     "cta": {
       "label": "Liên hệ ngay!",
       "title": "Thiết lập hạ tầng vận tải và kho vận thông minh",
-      "description": "Kết nối với đội ngũ kỹ sư tại Winterfrost để xây dựng hệ thống điều phối vận chuyển tập trung và tối ưu hóa chuỗi cung ứng nhằm tăng hiệu suất vận hành cho doanh nghiệp.",
+      "description": "Kết nối với đội ngũ kỹ sư tại SoftBuild để xây dựng hệ thống điều phối vận chuyển tập trung và tối ưu hóa chuỗi cung ứng nhằm tăng hiệu suất vận hành cho doanh nghiệp.",
       "buttonLabel": "Nhận tư vấn kiến trúc hệ thống",
       "image": "/images/people/cta/winterfrost/quan-ly-nam.png",
       "imageAlt": "Expert consultant"
     },
     "cases": null,
     "services": {
-      "title": "Dịch vụ cốt lõi cho lĩnh vực Logistics của Winterfrost",
+      "title": "Dịch vụ cốt lõi cho lĩnh vực Logistics của SoftBuild",
       "intro": "Các hạng mục lập trình tập trung vào việc số hóa mọi điểm chạm trong chuỗi cung ứng.",
       "items": [
         {
@@ -4348,7 +4348,7 @@
       "items": [
         {
           "q": "Hệ thống có tương thích với các loại thiết bị định vị GPS khác nhau không?",
-          "a": "Có, Winterfrost thiết kế các cổng tiếp nhận dữ liệu linh hoạt thông qua giao thức API để kết nối trực tiếp với hầu hết các loại phần cứng giám sát hành trình hiện có trên thị trường. Chúng tôi đảm bảo dữ liệu từ các thiết bị ngoại vi được chuẩn hóa và đổ về hệ thống trung tâm một cách đồng bộ."
+          "a": "Có, SoftBuild thiết kế các cổng tiếp nhận dữ liệu linh hoạt thông qua giao thức API để kết nối trực tiếp với hầu hết các loại phần cứng giám sát hành trình hiện có trên thị trường. Chúng tôi đảm bảo dữ liệu từ các thiết bị ngoại vi được chuẩn hóa và đổ về hệ thống trung tâm một cách đồng bộ."
         },
         {
           "q": "Làm thế nào để đảm bảo dữ liệu không bị mất khi xe di chuyển vào vùng mất sóng?",
@@ -4378,7 +4378,7 @@
     "title": "Y tế",
     "hero": {
       "title": "Phát triển phần mềm y tế và chăm sóc sức khỏe",
-      "description": "Winterfrost là đơn vị chuyên trách phát triển các ứng dụng y tế tùy chỉnh cho các nhà cung cấp dịch vụ, đơn vị chi trả và các đội ngũ y tế kỹ thuật số tại các thị trường khắt khe như Mỹ, Châu Âu, Canada, Úc, Singapore và Nhật Bản. Với đội ngũ kỹ sư tại Việt Nam chuyên sâu về trí tuệ nhân tạo AI và học máy ML, chúng tôi giúp đối tác giảm thiểu rủi ro triển khai, tối ưu chi phí phát triển và đảm bảo tuân thủ các tiêu chuẩn bảo mật y tế nghiêm ngặt nhất.",
+      "description": "SoftBuild là đơn vị chuyên trách phát triển các ứng dụng y tế tùy chỉnh cho các nhà cung cấp dịch vụ, đơn vị chi trả và các đội ngũ y tế kỹ thuật số tại các thị trường khắt khe như Mỹ, Châu Âu, Canada, Úc, Singapore và Nhật Bản. Với đội ngũ kỹ sư tại Việt Nam chuyên sâu về trí tuệ nhân tạo AI và học máy ML, chúng tôi giúp đối tác giảm thiểu rủi ro triển khai, tối ưu chi phí phát triển và đảm bảo tuân thủ các tiêu chuẩn bảo mật y tế nghiêm ngặt nhất.",
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phat-trien-phan-mem-y-te-va-cham-soc-suc-khoe.jpg",
       "imageAlt": "Phát triển phần mềm y tế và chăm sóc sức khỏe",
       "primaryLabel": "Liên hệ trực tiếp",
@@ -4389,7 +4389,7 @@
       "title": "Tình hình chung của lĩnh vực y tế",
       "paragraphs": [
         "Các tổ chức y tế thường đối mặt với chi phí phát triển công nghệ quá cao và quy trình triển khai phức tạp, dễ dẫn đến rủi ro về vận hành. Việc quản lý dữ liệu bệnh nhân phân tán, thiếu tính kết nối và các rào cản về tiêu chuẩn bảo mật quốc tế khiến việc số hóa trở nên khó khăn. Ngoài ra, việc ứng dụng AI vào chẩn đoán và điều trị vẫn còn là thách thức lớn đối với nhiều doanh nghiệp y tế truyền thống.",
-        "Winterfrost cung cấp đội ngũ kỹ sư phần mềm chuyên môn cao, tập trung vào việc tích hợp AI và Machine Learning vào hạ tầng y tế. Giải pháp của chúng tôi giúp các đối tác quốc tế xây dựng hệ thống y tế thông minh, từ quản lý hồ sơ bệnh án đến các công cụ phân tích dữ liệu chuyên sâu. Chúng tôi tập trung vào việc giảm thiểu rủi ro kỹ thuật và tối ưu chi phí đầu tư, đồng thời duy trì sự tuân thủ tuyệt đối các tiêu chuẩn an toàn dữ liệu y tế toàn cầu."
+        "SoftBuild cung cấp đội ngũ kỹ sư phần mềm chuyên môn cao, tập trung vào việc tích hợp AI và Machine Learning vào hạ tầng y tế. Giải pháp của chúng tôi giúp các đối tác quốc tế xây dựng hệ thống y tế thông minh, từ quản lý hồ sơ bệnh án đến các công cụ phân tích dữ liệu chuyên sâu. Chúng tôi tập trung vào việc giảm thiểu rủi ro kỹ thuật và tối ưu chi phí đầu tư, đồng thời duy trì sự tuân thủ tuyệt đối các tiêu chuẩn an toàn dữ liệu y tế toàn cầu."
       ],
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Tinh-hinh-chung-ve-linh-vuc-y-te.jpg",
       "imageAlt": "Tình hình chung về lĩnh vực y tế"
@@ -4461,12 +4461,12 @@
     },
     "why": {
       "label": "Tại sao chọn chúng tôi?",
-      "title": "Tại sao chọn phát triển phần mềm y tế tại Winterfrost?",
+      "title": "Tại sao chọn phát triển phần mềm y tế tại SoftBuild?",
       "items": [
         {
           "number": "1",
           "title": "Chuyên gia AI và Machine Learning",
-          "description": "Đội ngũ kỹ sư tại Winterfrost có năng lực chuyên sâu trong việc tích hợp trí tuệ nhân tạo vào các giải pháp y tế số hiện đại."
+          "description": "Đội ngũ kỹ sư tại SoftBuild có năng lực chuyên sâu trong việc tích hợp trí tuệ nhân tạo vào các giải pháp y tế số hiện đại."
         },
         {
           "number": "2",
@@ -4486,19 +4486,19 @@
         {
           "number": "5",
           "title": "Giảm thiểu rủi ro triển khai",
-          "description": "Quy trình kỹ thuật bài bản và kinh nghiệm thực chiến giúp Winterfrost dự báo và xử lý nhanh các vấn đề phát sinh trong quá trình phát triển."
+          "description": "Quy trình kỹ thuật bài bản và kinh nghiệm thực chiến giúp SoftBuild dự báo và xử lý nhanh các vấn đề phát sinh trong quá trình phát triển."
         },
         {
           "number": "6",
           "title": "Bàn giao toàn quyền sở hữu",
-          "description": "Winterfrost cung cấp đầy đủ mã nguồn và tài liệu kỹ thuật, cho phép đối tác hoàn toàn chủ động trong việc vận hành và nâng cấp hệ thống."
+          "description": "SoftBuild cung cấp đầy đủ mã nguồn và tài liệu kỹ thuật, cho phép đối tác hoàn toàn chủ động trong việc vận hành và nâng cấp hệ thống."
         }
       ]
     },
     "cta": {
       "label": "Liên hệ ngay!",
       "title": "Số hóa hạ tầng y tế và quản trị bệnh viện thông minh",
-      "description": "Kết nối với đội ngũ kỹ sư tại Winterfrost để thiết lập hệ thống quản lý bệnh viện tập trung và tự động hóa quy trình khám chữa bệnh nhằm nâng cao hiệu suất vận hành cho các cơ sở y tế.",
+      "description": "Kết nối với đội ngũ kỹ sư tại SoftBuild để thiết lập hệ thống quản lý bệnh viện tập trung và tự động hóa quy trình khám chữa bệnh nhằm nâng cao hiệu suất vận hành cho các cơ sở y tế.",
       "buttonLabel": "Nhận tư vấn giải pháp y tế số",
       "image": "/images/people/cta/winterfrost/nhan-vien-cong-nghe-tre.png",
       "imageAlt": "Expert consultant"
@@ -4507,15 +4507,15 @@
       "title": "Case Studies",
       "links": [
         {
-          "href": "https://winterfrost.tech/case-studies/website-edunora",
+          "href": "https://softbuildvn.vercel.app/case-studies/website-edunora",
           "text": "Y TẾ\nTHIẾT KẾ WEBSITE\nWebsite Edunora\nXem dự án"
         },
         {
-          "href": "https://winterfrost.tech/case-studies/aeromint-cleanroom",
+          "href": "https://softbuildvn.vercel.app/case-studies/aeromint-cleanroom",
           "text": "BÁN LẺ\nY TẾ\nTHIẾT KẾ WEBSITE\nAeromint Cleanroom\nXem dự án"
         },
         {
-          "href": "https://winterfrost.tech/case-studies/website-dentavera",
+          "href": "https://softbuildvn.vercel.app/case-studies/website-dentavera",
           "text": "BÁN LẺ\nY TẾ\nTHIẾT KẾ WEBSITE\nWebsite Dentavera\nXem dự án"
         }
       ],
@@ -4580,7 +4580,7 @@
           "number": "01",
           "tag": "Khảo sát",
           "title": "Tìm hiểu nhu cầu",
-          "description": "Chúng tôi nghiên cứu kỹ cách vận hành của bệnh viện hoặc ứng dụng y tế của bạn. Đồng thời, Winterfrost xác định các tiêu chuẩn bảo mật bắt buộc như HIPAA của Mỹ hay GDPR của Châu Âu để đảm bảo hệ thống hợp pháp và an toàn ngay từ đầu."
+          "description": "Chúng tôi nghiên cứu kỹ cách vận hành của bệnh viện hoặc ứng dụng y tế của bạn. Đồng thời, SoftBuild xác định các tiêu chuẩn bảo mật bắt buộc như HIPAA của Mỹ hay GDPR của Châu Âu để đảm bảo hệ thống hợp pháp và an toàn ngay từ đầu."
         },
         {
           "number": "02",
@@ -4604,7 +4604,7 @@
           "number": "05",
           "tag": "Vận hành",
           "title": "Cài đặt hệ thống và hướng dẫn sử dụng",
-          "description": "Winterfrost hỗ trợ cài đặt phần mềm lên máy chủ và các thiết bị di động. Chúng tôi trực tiếp đào tạo, hướng dẫn bác sĩ và nhân viên y tế cách sử dụng các công cụ quản lý để đảm bảo mọi người đều làm chủ được hệ thống mới."
+          "description": "SoftBuild hỗ trợ cài đặt phần mềm lên máy chủ và các thiết bị di động. Chúng tôi trực tiếp đào tạo, hướng dẫn bác sĩ và nhân viên y tế cách sử dụng các công cụ quản lý để đảm bảo mọi người đều làm chủ được hệ thống mới."
         },
         {
           "number": "06",
@@ -4621,7 +4621,7 @@
       "intro": "Find answers to common questions about our industry-specific software development services.",
       "items": [
         {
-          "q": "Phần mềm của Winterfrost có đáp ứng các tiêu chuẩn bảo mật y tế quốc tế không?",
+          "q": "Phần mềm của SoftBuild có đáp ứng các tiêu chuẩn bảo mật y tế quốc tế không?",
           "a": "Có. Chúng tôi thiết kế hệ thống tuân thủ nghiêm ngặt các tiêu chuẩn như HIPAA (Mỹ), GDPR (Châu Âu) và các quy định bảo vệ dữ liệu y tế tại địa phương. Mọi thông tin bệnh nhân đều được mã hóa đa lớp và kiểm soát quyền truy cập chặt chẽ để đảm bảo tính riêng tư tuyệt đối."
         },
         {
@@ -4629,8 +4629,8 @@
           "a": "AI hỗ trợ phân tích hình ảnh chẩn đoán, dự báo nguy cơ bệnh lý từ dữ liệu lịch sử và tự động hóa các báo cáo y khoa phức tạp. Điều này giúp bác sĩ đưa ra quyết định nhanh hơn, chính xác hơn và giảm tải khối lượng công việc hành chính cho đội ngũ y tế."
         },
         {
-          "q": "Lợi thế khi hợp tác với đội ngũ kỹ sư tại Winterfrost cho các dự án y tế quốc tế là gì?",
-          "a": "Đối tác sẽ tiếp cận được nguồn nhân lực kỹ thuật chất lượng cao, chuyên sâu về AI/ML với chi phí phát triển tối ưu hơn nhiều so với thị trường Mỹ hay Châu Âu. Winterfrost cam kết duy trì chất lượng sản phẩm và quy trình làm việc đạt chuẩn toàn cầu."
+          "q": "Lợi thế khi hợp tác với đội ngũ kỹ sư tại SoftBuild cho các dự án y tế quốc tế là gì?",
+          "a": "Đối tác sẽ tiếp cận được nguồn nhân lực kỹ thuật chất lượng cao, chuyên sâu về AI/ML với chi phí phát triển tối ưu hơn nhiều so với thị trường Mỹ hay Châu Âu. SoftBuild cam kết duy trì chất lượng sản phẩm và quy trình làm việc đạt chuẩn toàn cầu."
         },
         {
           "q": "Hệ thống có thể kết nối với các thiết bị đo y tế hiện có không?",
@@ -4638,11 +4638,11 @@
         },
         {
           "q": "Doanh nghiệp có quyền sở hữu toàn bộ mã nguồn sau khi bàn giao không?",
-          "a": "Có. Winterfrost cam kết bàn giao 100% mã nguồn và tài liệu kỹ thuật sau khi dự án hoàn thành. Doanh nghiệp toàn quyền sở hữu, chủ động nâng cấp và mở rộng hệ thống mà không bị ràng buộc vào nhà cung cấp công nghệ."
+          "a": "Có. SoftBuild cam kết bàn giao 100% mã nguồn và tài liệu kỹ thuật sau khi dự án hoàn thành. Doanh nghiệp toàn quyền sở hữu, chủ động nâng cấp và mở rộng hệ thống mà không bị ràng buộc vào nhà cung cấp công nghệ."
         },
         {
-          "q": "Winterfrost hỗ trợ như thế nào trong việc bảo trì và cập nhật hệ thống?",
-          "a": "Chúng tôi cung cấp dịch vụ bảo trì định kỳ, theo dõi hiệu suất hệ thống 24/7 và hỗ trợ xử lý kỹ thuật nhanh chóng. Ngoài ra, Winterfrost sẽ liên tục cập nhật các bản vá bảo mật và tinh chỉnh thuật toán AI để phần mềm luôn hoạt động chính xác và an toàn nhất."
+          "q": "SoftBuild hỗ trợ như thế nào trong việc bảo trì và cập nhật hệ thống?",
+          "a": "Chúng tôi cung cấp dịch vụ bảo trì định kỳ, theo dõi hiệu suất hệ thống 24/7 và hỗ trợ xử lý kỹ thuật nhanh chóng. Ngoài ra, SoftBuild sẽ liên tục cập nhật các bản vá bảo mật và tinh chỉnh thuật toán AI để phần mềm luôn hoạt động chính xác và an toàn nhất."
         }
       ]
     }

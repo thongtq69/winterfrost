@@ -4,7 +4,7 @@
     "title": "零售",
     "hero": {
       "title": "零售软件开发服务",
-      "description": "Winterfrost提供深入的零售管理系统编程服务，重点是多渠道数据整合和运营流程自动化。我们构建软件基础设施，帮助企业在集中平台上准确控制货物流、现金流和客户数据。",
+      "description": "SoftBuild提供深入的零售管理系统编程服务，重点是多渠道数据整合和运营流程自动化。我们构建软件基础设施，帮助企业在集中平台上准确控制货物流、现金流和客户数据。",
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Dich-vu-phat-trien-phan-mem-ban-le.jpg",
       "imageAlt": "零售软件开发服务",
       "primaryLabel": "直接联系",
@@ -12,12 +12,12 @@
     },
     "overview": {
       "label": "概述",
-      "title": "来自Winterfrost的挑战与技术解决方案",
+      "title": "来自SoftBuild的挑战与技术解决方案",
       "paragraphs": [
-        "零售企业经常面临库存数据在实体店和电子商务平台之间分散的情况，导致数据差异和订单处理延迟。Winterfrost 通过设计实时同步软件架构，直接集成仓库、会计和运输系统之间的 API，以优化运营性能，解决了这一问题。"
+        "零售企业经常面临库存数据在实体店和电子商务平台之间分散的情况，导致数据差异和订单处理延迟。SoftBuild 通过设计实时同步软件架构，直接集成仓库、会计和运输系统之间的 API，以优化运营性能，解决了这一问题。"
       ],
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Thach-thuc-va-giai-phap-ky-thuat-tu-HomeNest-Viet-Nam.jpg",
-      "imageAlt": "来自Winterfrost的挑战与技术解决方案"
+      "imageAlt": "来自SoftBuild的挑战与技术解决方案"
     },
     "counters": [
       {
@@ -86,7 +86,7 @@
     },
     "why": {
       "label": "为什么选择我们？",
-      "title": "选择Winterfrost作为技术合作伙伴的理由",
+      "title": "选择SoftBuild作为技术合作伙伴的理由",
       "items": [
         {
           "number": "1",
@@ -123,7 +123,7 @@
     "cta": {
       "label": "立即联系！",
       "title": "专属AI系统引领数字时代",
-      "description": "不要仅仅停留在常规自动化上。加入Winterfrost，探索数据的力量，构建独特的AI模型，帮助您的企业在市场上拥有绝对的竞争优势。",
+      "description": "不要仅仅停留在常规自动化上。加入SoftBuild，探索数据的力量，构建独特的AI模型，帮助您的企业在市场上拥有绝对的竞争优势。",
       "buttonLabel": "立即制定您的 AI 路线图",
       "image": "/images/people/cta/winterfrost/chuyen-vien-tu-van-viet-nam.png",
       "imageAlt": "专家顾问"
@@ -132,15 +132,15 @@
       "title": "Case Studies",
       "links": [
         {
-          "href": "https://winterfrost.tech/case-studies/website-zenovia-retail",
+          "href": "https://softbuildvn.vercel.app/case-studies/website-zenovia-retail",
           "text": "零售\n供应链\n网站设计\nZenovia 零售网站\n查看项目"
         },
         {
-          "href": "https://winterfrost.tech/case-studies/website-veloura-nails",
+          "href": "https://softbuildvn.vercel.app/case-studies/website-veloura-nails",
           "text": "零售\n网站设计\n网站：Veloura Nails\n查看项目"
         },
         {
-          "href": "https://winterfrost.tech/case-studies/website-mocvan-tea",
+          "href": "https://softbuildvn.vercel.app/case-studies/website-mocvan-tea",
           "text": "零售\n电子商务\n网站设计\nMocvan茶叶网站\n查看项目"
         }
       ],
@@ -163,7 +163,7 @@
           "title": "电子商务网站设计",
           "description": "打造高性能销售网站，优化技术转化率。",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Thiet-ke-website-E-commerce-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "电子商务网站设计 - Winterfrost"
+          "imageAlt": "电子商务网站设计 - SoftBuild"
         },
         {
           "title": "移动应用购物开发",
@@ -247,7 +247,7 @@
       "items": [
         {
           "q": "该系统能否与现有的会计或ERP软件集成？",
-          "a": "Winterfrost 基于 API-First 架构设计系统，允许直接连接 SAP、Oracle、Misa 或其他专业管理软件等流行平台。我们通过RESTful API或Webhooks协议进行数据同步，确保各部门财务和商品信息的一致流动。"
+          "a": "SoftBuild 基于 API-First 架构设计系统，允许直接连接 SAP、Oracle、Misa 或其他专业管理软件等流行平台。我们通过RESTful API或Webhooks协议进行数据同步，确保各部门财务和商品信息的一致流动。"
         },
         {
           "q": "系统在大型促销期间是如何应对超载的？",
@@ -267,7 +267,7 @@
         },
         {
           "q": "维护成本是多少，切换后系统升级的能力如何？",
-          "a": "该系统建立在独立的模块化结构上，因此无需重构整个源代码，即可快速升级或添加新功能。在维护成本方面，Winterfrost 优化源代码以最小化硬件资源消耗，帮助企业节省每月基础设施运营成本，并为内部团队提供完整的技术文档。"
+          "a": "该系统建立在独立的模块化结构上，因此无需重构整个源代码，即可快速升级或添加新功能。在维护成本方面，SoftBuild 优化源代码以最小化硬件资源消耗，帮助企业节省每月基础设施运营成本，并为内部团队提供完整的技术文档。"
         }
       ]
     }
@@ -277,7 +277,7 @@
     "title": "房地产",
     "hero": {
       "title": "房地产数字化转型与编程解决方案",
-      "description": "Winterfrost 提供集中式房地产管理软件基础设施建设服务，帮助开发商和交易所自动化产品分销流程、管理客户数据并优化交易现金流。",
+      "description": "SoftBuild 提供集中式房地产管理软件基础设施建设服务，帮助开发商和交易所自动化产品分销流程、管理客户数据并优化交易现金流。",
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-lap-trinh-va-chuyen-doi-so-bat-dong-san.jpg",
       "imageAlt": "房地产数字化转型与编程解决方案",
       "primaryLabel": "直接联系",
@@ -287,7 +287,7 @@
       "label": "概述",
       "title": "交易流程的集中控制与标准化",
       "paragraphs": [
-        "房地产企业面临的最大挑战是购物车管理的分散化，导致交易重叠和佣金计算缺乏透明度。Winterfrost 通过建立集中库存管理系统解决了这一问题，该系统集成了实时的根锁定机制，确保交易的独特性，并在销售、会计和客户之间同步数据。"
+        "房地产企业面临的最大挑战是购物车管理的分散化，导致交易重叠和佣金计算缺乏透明度。SoftBuild 通过建立集中库存管理系统解决了这一问题，该系统集成了实时的根锁定机制，确保交易的独特性，并在销售、会计和客户之间同步数据。"
       ],
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Kiem-soat-tap-trung-va-chuan-hoa-quy-trinh-giao-dich.jpg",
       "imageAlt": "交易流程的集中控制与标准化"
@@ -359,7 +359,7 @@
     },
     "why": {
       "label": "为什么选择我们？",
-      "title": "选择Winterfrost作为技术合作伙伴的理由",
+      "title": "选择SoftBuild作为技术合作伙伴的理由",
       "items": [
         {
           "number": "1",
@@ -396,7 +396,7 @@
     "cta": {
       "label": "立即联系！",
       "title": "房地产管理和分销基础设施的数字化",
-      "description": "请联系Winterfrost的工程团队，实施实时购物车管理系统并自动化交易流程，提升企业运营效率。",
+      "description": "请联系SoftBuild的工程团队，实施实时购物车管理系统并自动化交易流程，提升企业运营效率。",
       "buttonLabel": "获取技术解决方案建议",
       "image": "/images/people/cta/winterfrost/chuyen-vien-nu.png",
       "imageAlt": "专家顾问"
@@ -405,15 +405,15 @@
       "title": "Case Studies",
       "links": [
         {
-          "href": "https://winterfrost.tech/case-studies/website-verdora-property",
+          "href": "https://softbuildvn.vercel.app/case-studies/website-verdora-property",
           "text": "房地产\n网站设计\nVerdora Property 网站\n查看项目"
         },
         {
-          "href": "https://winterfrost.tech/case-studies/mont-pine-realty",
+          "href": "https://softbuildvn.vercel.app/case-studies/mont-pine-realty",
           "text": "房地产\n网站设计\nVerdora Property 网站\n查看项目"
         },
         {
-          "href": "https://winterfrost.tech/case-studies/la-cerise-dalat-villas",
+          "href": "https://softbuildvn.vercel.app/case-studies/la-cerise-dalat-villas",
           "text": "房地产\n网站设计\nRovena Travel – 大叻房地产网站设计\n查看项目"
         }
       ],
@@ -524,7 +524,7 @@
       "items": [
         {
           "q": "系统如何防止销售时堆叠设备？",
-          "a": "Winterfrost 在数据库层直接使用悲观锁定机制。当员工发起保留订单时，该产品记录会立即在毫秒级被锁定，阻止其他写入访问，直到交易完成或指定的保留时间结束。"
+          "a": "SoftBuild 在数据库层直接使用悲观锁定机制。当员工发起保留订单时，该产品记录会立即在毫秒级被锁定，阻止其他写入访问，直到交易完成或指定的保留时间结束。"
         },
         {
           "q": "该系统能否与企业现有的ERP或会计平台集成？",
@@ -540,7 +540,7 @@
         },
         {
           "q": "软件是否支持在线签署电子合同和识别客户的流程？",
-          "a": "是的。Winterfrost集成了电子身份识别电子身份验证解决方案以认证客户信息，并与数字签名服务提供商连接，数字化整个合同签署流程，确保符合现行法律的合法性。"
+          "a": "是的。SoftBuild集成了电子身份识别电子身份验证解决方案以认证客户信息，并与数字签名服务提供商连接，数字化整个合同签署流程，确保符合现行法律的合法性。"
         },
         {
           "q": "企业能否自行配置复杂的折扣计划和销售政策？",
@@ -554,9 +554,9 @@
     "title": "供应链",
     "hero": {
       "title": "全面的供应链管理解决方案",
-      "description": "Winterfrost 提供集中式供应链管理软件基础设施建设服务，帮助企业全面控制从供应商到终端客户的数据流。我们设计的软件架构能够整合多渠道数据，确保透明度并优化整个物流系统的运营成本。",
+      "description": "SoftBuild 提供集中式供应链管理软件基础设施建设服务，帮助企业全面控制从供应商到终端客户的数据流。我们设计的软件架构能够整合多渠道数据，确保透明度并优化整个物流系统的运营成本。",
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-dong-bo-chuoi-cung-ung-cua-HomeNest-Viet-Nam.jpg",
-      "imageAlt": "Winterfrost 的供应链同步解决方案",
+      "imageAlt": "SoftBuild 的供应链同步解决方案",
       "primaryLabel": "直接联系",
       "secondaryLabel": "求教信息"
     },
@@ -564,7 +564,7 @@
       "label": "概述",
       "title": "供应链同步解决方案",
       "paragraphs": [
-        "供应链管理中最大的挑战是各方信息缺乏同步，导致虚拟库存和货物协调延迟。Winterfrost通过建立统一供应链枢纽系统解决了这一问题，该系统集成了制造商、承运商和仓库之间的实时数据共享机制。我们的解决方案消除了数据瓶颈，使企业能够准确跟踪产品旅程，并能即时应对市场波动。"
+        "供应链管理中最大的挑战是各方信息缺乏同步，导致虚拟库存和货物协调延迟。SoftBuild通过建立统一供应链枢纽系统解决了这一问题，该系统集成了制造商、承运商和仓库之间的实时数据共享机制。我们的解决方案消除了数据瓶颈，使企业能够准确跟踪产品旅程，并能即时应对市场波动。"
       ],
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-quan-ly-chuoi-cung-ung-toan-dien.jpg",
       "imageAlt": "全面的供应链管理解决方案"
@@ -636,7 +636,7 @@
     },
     "why": {
       "label": "为什么选择我们？",
-      "title": "为什么选择Winterfrost作为供应链数字化转型解决方案",
+      "title": "为什么选择SoftBuild作为供应链数字化转型解决方案",
       "items": [
         {
           "number": "1",
@@ -673,7 +673,7 @@
     "cta": {
       "label": "立即联系！",
       "title": "全面供应链管理基础设施的数字化",
-      "description": "请联系Winterfrost的工程团队，建立集中供应管理系统，并自动化编排流程，以优化您的业务运营效率。",
+      "description": "请联系SoftBuild的工程团队，建立集中供应管理系统，并自动化编排流程，以优化您的业务运营效率。",
       "buttonLabel": "立即获取建议",
       "image": "/images/people/cta/winterfrost/nhan-vien-cong-nghe-tre.png",
       "imageAlt": "专家顾问"
@@ -682,7 +682,7 @@
       "title": "Case Studies",
       "links": [
         {
-          "href": "https://winterfrost.tech/case-studies/website-zenovia-retail",
+          "href": "https://softbuildvn.vercel.app/case-studies/website-zenovia-retail",
           "text": "零售\n供应链\n网站设计\nZenovia 零售网站\n查看项目"
         }
       ],
@@ -780,7 +780,7 @@
       "items": [
         {
           "q": "该系统是否能够与企业现有的ERP管理软件集成？",
-          "a": "Winterfrost 按照 API First 标准设计基础设施，实现与 SAP 和 Oracle 等主流平台或其他内部管理系统直接连接。数据流采用双向同步方式设置，确保采购流程、仓库运营和财务会计在企业内的绝对一致性。"
+          "a": "SoftBuild 按照 API First 标准设计基础设施，实现与 SAP 和 Oracle 等主流平台或其他内部管理系统直接连接。数据流采用双向同步方式设置，确保采购流程、仓库运营和财务会计在企业内的绝对一致性。"
         },
         {
           "q": "当供应网络规模和交易数据量大幅增加时，系统如何应对？",
@@ -810,9 +810,9 @@
     "title": "金融科技",
     "hero": {
       "title": "金融科技解决方案",
-      "description": "Winterfrost 在云原生平台上构建超安全且可扩展的金融应用。从现代数字银行的开发、算法交易系统到深入的区块链整合，我们支持金融机构和初创企业实现大规模的强力创新。Winterfrost 的解决方案专注于打造安全、透明的交易环境，并优化真实世界的数据处理性能。",
+      "description": "SoftBuild 在云原生平台上构建超安全且可扩展的金融应用。从现代数字银行的开发、算法交易系统到深入的区块链整合，我们支持金融机构和初创企业实现大规模的强力创新。SoftBuild 的解决方案专注于打造安全、透明的交易环境，并优化真实世界的数据处理性能。",
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-cong-nghe-tai-chinh-HomeNest-Viet-Nam.jpg",
-      "imageAlt": "金融科技解决方案 - Winterfrost",
+      "imageAlt": "金融科技解决方案 - SoftBuild",
       "primaryLabel": "直接联系",
       "secondaryLabel": "求教信息"
     },
@@ -821,7 +821,7 @@
       "title": "金融科技行业的挑战",
       "paragraphs": [
         "金融机构常常面临过时的旧系统、交易处理速度缓慢以及高安全风险的挑战。缺乏可扩展性使系统在用户数量快速增长时容易过载。此外，区块链或自动化交易等新技术在现有基础设施中整合也面临许多复杂的技术障碍。",
-        "Winterfrost 在云原生平台上构建超安全且可扩展的金融应用。我们提供从数字银行、算法交易系统到深入区块链集成的全方位解决方案。该解决方案帮助金融机构和初创企业大规模强力创新，确保所有交易安全、透明且即时完成。"
+        "SoftBuild 在云原生平台上构建超安全且可扩展的金融应用。我们提供从数字银行、算法交易系统到深入区块链集成的全方位解决方案。该解决方案帮助金融机构和初创企业大规模强力创新，确保所有交易安全、透明且即时完成。"
       ],
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Thach-thuc-cua-linh-vuc-cong-nghe-tai-chinh.jpg",
       "imageAlt": "金融科技行业的挑战"
@@ -893,7 +893,7 @@
     },
     "why": {
       "label": "为什么选择我们？",
-      "title": "为什么要使用 Winterfrost 的服务",
+      "title": "为什么要使用 SoftBuild 的服务",
       "items": [
         {
           "number": "1",
@@ -913,7 +913,7 @@
         {
           "number": "4",
           "title": "交出并拥有绝对的源代码",
-          "description": "项目完成后，Winterfrost 交付了 100% 的源代码和技术架构文档。企业对产品拥有全部所有权，积极主动地运营，升级时不依赖供应商。"
+          "description": "项目完成后，SoftBuild 交付了 100% 的源代码和技术架构文档。企业对产品拥有全部所有权，积极主动地运营，升级时不依赖供应商。"
         },
         {
           "number": "5",
@@ -923,14 +923,14 @@
         {
           "number": "6",
           "title": "根据实际运营提供咨询解决方案",
-          "description": "我们会深入研究每家金融机构的具体商业模式，以提出最合适的功能。Winterfrost 的解决方案专注于直接解决运营问题并优化客户现金流。"
+          "description": "我们会深入研究每家金融机构的具体商业模式，以提出最合适的功能。SoftBuild 的解决方案专注于直接解决运营问题并优化客户现金流。"
         }
       ]
     },
     "cta": {
       "label": "立即联系！",
       "title": "现在就打造一个安全的金融生态系统吧！",
-      "description": "准备好将您的金融基础设施转变为安全且高性能的云原生平台。让Winterfrost帮助您打造专业的金融科技解决方案，确保绝对透明和源代码终身拥有权。",
+      "description": "准备好将您的金融基础设施转变为安全且高性能的云原生平台。让SoftBuild帮助您打造专业的金融科技解决方案，确保绝对透明和源代码终身拥有权。",
       "buttonLabel": "获取解决方案建议和实施路线图",
       "image": "/images/people/cta/winterfrost/chuyen-vien-nam-tre.png",
       "imageAlt": "专家顾问"
@@ -938,43 +938,43 @@
     "cases": null,
     "services": {
       "title": "HomneNest越南的深入金融科技服务",
-      "intro": "Winterfrost 在云原生和区块链平台上提供下一代金融系统编程服务。我们专注于构建安全的交易基础设施、大规模数据处理，并确保金融机构严格合规。",
+      "intro": "SoftBuild 在云原生和区块链平台上提供下一代金融系统编程服务。我们专注于构建安全的交易基础设施、大规模数据处理，并确保金融机构严格合规。",
       "items": [
         {
           "title": "开发数字银行平台",
           "description": "构建具备完整功能的现代银行应用：账户管理、快速转账、储蓄和账单支付。该系统设计为完全在数字环境中运行，采用极简的用户体验和多层安全。",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phat-trien-nen-tang-ngan-hang-so-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "数字银行平台开发 - Winterfrost"
+          "imageAlt": "数字银行平台开发 - SoftBuild"
         },
         {
           "title": "构建电子钱包和支付网关",
           "description": "建立数字支付基础设施，支持与银行系统和国际金融机构的多元联系。我们采用端到端加密标准，确保所有用户交易的绝对安全。",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Xay-dung-vi-dien-tu-va-cong-thanh-toan-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "构建电子钱包和支付网关 - Winterfrost"
+          "imageAlt": "构建电子钱包和支付网关 - SoftBuild"
         },
         {
           "title": "算法交易系统的编程",
           "description": "开发支持基于实时数据分析算法的金融市场自动化交易的软件。该方案有助于消除情绪因素，优化订单执行速度，提高投资风险管理效率。",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Lap-trinh-he-thong-giao-dich-thuat-toan-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "算法交易系统编程 - Winterfrost"
+          "imageAlt": "算法交易系统编程 - SoftBuild"
         },
         {
           "title": "区块链解决方案集成",
           "description": "将去中心化账本技术应用于数字资产管理、电子身份识别以及通过智能合约实现金融协议自动化。该服务确保透明度，数据不可篡改，并增强系统信任度。",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Tich-hop-giai-phap-blockchain-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "区块链解决方案集成 - Winterfrost"
+          "imageAlt": "区块链解决方案集成 - SoftBuild"
         },
         {
           "title": "开发贷款平台",
           "description": "构建一个集成数据分析技术以实现自动信用评分的在线贷款系统。贷款审批流程基于智能风险评估算法，快速且准确地进行。",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phat-trien-nen-tang-cho-vay-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "借贷平台开发 - Winterfrost"
+          "imageAlt": "借贷平台开发 - SoftBuild"
         },
         {
           "title": "管理技术解决方案",
           "description": "提供技术工具，帮助企业自动化客户识别、身份验证、反洗钱预防和金融监管合规控制流程。该解决方案有助于最大限度地降低法律风险，优化组织的运营成本。",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-cong-nghe-quan-ly-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "管理技术解决方案 - Winterfrost"
+          "imageAlt": "管理技术解决方案 - SoftBuild"
         }
       ],
       "cta": "探索所有服务"
@@ -1010,7 +1010,7 @@
           "number": "05",
           "tag": "系统发布",
           "title": "部署与运行监测",
-          "description": "高度安全的服务器配置，实时事务监控工具安装，并正式投入应用运行。Winterfrost建立了自动警报系统，能够立即检测并防止异常访问行为。"
+          "description": "高度安全的服务器配置，实时事务监控工具安装，并正式投入应用运行。SoftBuild建立了自动警报系统，能够立即检测并防止异常访问行为。"
         },
         {
           "number": "06",
@@ -1027,15 +1027,15 @@
       "intro": "回答关于金融技术系统的问题",
       "items": [
         {
-          "q": "Winterfrost 的系统如何确保货币交易的安全？",
+          "q": "SoftBuild 的系统如何确保货币交易的安全？",
           "a": "我们采用最严格的安全标准，包括端到端数据加密、多重身份验证和生物识别。此外，系统还会定期进行渗透测试，以及时发现并防止安全漏洞。"
         },
         {
           "q": "该系统是否符合越南的金融法规？",
-          "a": "是的。Winterfrost的解决方案旨在严格遵守国家银行的法规以及反洗钱（AML）和KYC等国际标准。这有助于企业最大限度地降低法律风险并实现透明运营。"
+          "a": "是的。SoftBuild的解决方案旨在严格遵守国家银行的法规以及反洗钱（AML）和KYC等国际标准。这有助于企业最大限度地降低法律风险并实现透明运营。"
         },
         {
-          "q": "Winterfrost 的基础设施能否同时处理大量交易？",
+          "q": "SoftBuild 的基础设施能否同时处理大量交易？",
           "a": "得益于云原生架构和微服务，系统能够自动瞬间扩展资源，每秒处理数千笔交易。表现始终保持稳定，确保高峰交易时段无种马或延误。"
         },
         {
@@ -1043,11 +1043,11 @@
           "a": "绝对是。我们使用标准化的API网关，实现新金融科技应用与传统核心银行系统之间的数据连接和同步。这一流程确保现金流和客户数据始终准确且安全地更新。"
         },
         {
-          "q": "项目完成后，Winterfrost 会交出整个源代码吗？",
-          "a": "是的。Winterfrost 致力于将 100% 的源代码和技术架构文档交给企业。你可以完全拥有系统，主动升级，运营系统，不受任何技术供应商的约束。"
+          "q": "项目完成后，SoftBuild 会交出整个源代码吗？",
+          "a": "是的。SoftBuild 致力于将 100% 的源代码和技术架构文档交给企业。你可以完全拥有系统，主动升级，运营系统，不受任何技术供应商的约束。"
         },
         {
-          "q": "区块链技术如何应用于Winterfrost的解决方案？",
+          "q": "区块链技术如何应用于SoftBuild的解决方案？",
           "a": "我们应用区块链创建不可约的交易账本，提升透明度和安全性。该技术还被用于实施智能合约，能够自动化金融安排，无需中介。"
         }
       ]
@@ -1058,7 +1058,7 @@
     "title": "石油",
     "hero": {
       "title": "石油和天然气行业的数字化转型解决方案",
-      "description": "石油和天然气行业需要准确的监控、严格遵守安全标准以及保持不间断的运营。Winterfrost 提供定制化的技术解决方案，旨在优化复杂的运营流程。",
+      "description": "石油和天然气行业需要准确的监控、严格遵守安全标准以及保持不间断的运营。SoftBuild 提供定制化的技术解决方案，旨在优化复杂的运营流程。",
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-chuyen-doi-so-cho-nganh-dau-khi.jpg",
       "imageAlt": "石油和天然气行业的数字化转型解决方案",
       "primaryLabel": "直接联系",
@@ -1069,7 +1069,7 @@
       "title": "利用真实数据优化操作",
       "paragraphs": [
         "在石油和天然气行业，远程管理机器并确保安全是最大的挑战。如果系统不互联，企业容易浪费资源和排查延迟。你需要一个集中管理所有东西的地方，从钻机到管道，确保工作流程顺畅。",
-        "Winterfrost 提供连接从挖矿到交付的所有活动的软件。通过跟踪传感器数据，我们帮助领导者了解绩效，管理车队，提前预测故障，避免突然停机。"
+        "SoftBuild 提供连接从挖矿到交付的所有活动的软件。通过跟踪传感器数据，我们帮助领导者了解绩效，管理车队，提前预测故障，避免突然停机。"
       ],
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Toi-uu-van-hanh-bang-du-lieu-thuc-te-cho-nganh-dau-khi.jpg",
       "imageAlt": "利用真实数据优化油气行业的运营"
@@ -1141,12 +1141,12 @@
     },
     "why": {
       "label": "为什么选择我们？",
-      "title": "为什么能源企业信任Winterfrost",
+      "title": "为什么能源企业信任SoftBuild",
       "items": [
         {
           "number": "1",
           "title": "多领域知识",
-          "description": "我们基于对钻井平台、管道和仓库运营流程的深入理解构建解决方案。Winterfrost 不提供大规模软件，但提供解决能源行业特定问题的工具。"
+          "description": "我们基于对钻井平台、管道和仓库运营流程的深入理解构建解决方案。SoftBuild 不提供大规模软件，但提供解决能源行业特定问题的工具。"
         },
         {
           "number": "2",
@@ -1161,7 +1161,7 @@
         {
           "number": "4",
           "title": "故障预测技术",
-          "description": "Winterfrost 的解决方案不再等待故障修复，而是利用人工智能及早识别潜在损害。这有助于企业主动维护、延长机器寿命，避免紧急维修费用。"
+          "description": "SoftBuild 的解决方案不再等待故障修复，而是利用人工智能及早识别潜在损害。这有助于企业主动维护、延长机器寿命，避免紧急维修费用。"
         },
         {
           "number": "5",
@@ -1171,14 +1171,14 @@
         {
           "number": "6",
           "title": "全天候24小时技术支持",
-          "description": "石油和天然气行业昼夜不停地工作，我们也是如此。Winterfrost的技术团队随时待命，随时应对各种情况，确保您的制作流程永不中断。"
+          "description": "石油和天然气行业昼夜不停地工作，我们也是如此。SoftBuild的技术团队随时待命，随时应对各种情况，确保您的制作流程永不中断。"
         }
       ]
     },
     "cta": {
       "label": "立即联系！",
       "title": "准备好优化您的能源基础设施",
-      "description": "不要让突发停工或安全风险扰乱生产流，侵蚀企业利润。让Winterfrost帮助您打造一个智能操作系统，每个参数都可控，每个问题都能提前预测。",
+      "description": "不要让突发停工或安全风险扰乱生产流，侵蚀企业利润。让SoftBuild帮助您打造一个智能操作系统，每个参数都可控，每个问题都能提前预测。",
       "buttonLabel": "深入解决方案咨询",
       "image": "/images/people/cta/winterfrost/chuyen-vien-nu.png",
       "imageAlt": "专家顾问"
@@ -1186,43 +1186,43 @@
     "cases": null,
     "services": {
       "title": "石油和天然气行业的专业解决方案",
-      "intro": "Winterfrost 提供深入的数字解决方案生态系统，优化从开采到分配的油气运营流程。我们专注于技术基础设施、数据管理和预测技术的应用，以确保运营安全和实际利用效率。",
+      "intro": "SoftBuild 提供深入的数字解决方案生态系统，优化从开采到分配的油气运营流程。我们专注于技术基础设施、数据管理和预测技术的应用，以确保运营安全和实际利用效率。",
       "items": [
         {
           "title": "SCADA与物联网系统",
           "description": "现场直接连接测量设备和PLC控制器。收集并数字化压力、温度和流量等规格，发送到中央服务器。",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Thiet-lap-mang-luoi-SCADA-va-IoT-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "SCADA 和物联网网络设置 – Winterfrost"
+          "imageAlt": "SCADA 和物联网网络设置 – SoftBuild"
         },
         {
           "title": "维护预测软件",
           "description": "应用操作数据分析算法以确定组件的磨损状态。系统根据实际机器运行时间提供维护计划，以便在问题发生前更换组件。",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phan-mem-du-bao-bao-tri-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "维护预测软件 – Winterfrost"
+          "imageAlt": "维护预测软件 – SoftBuild"
         },
         {
           "title": "监控平台",
           "description": "在地理信息系统上数字化运输管道网络。确定整个网络图中压力波动或泄漏的精确位置。",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Nen-tang-giam-sat-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "监控平台 – Winterfrost"
+          "imageAlt": "监控平台 – SoftBuild"
         },
         {
           "title": "自动紧急停止系统",
           "description": "当规范超过允许的安全阈值时，自动断电的编程场景。确保系统在不需人工干预的情况下立即停止工作。",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/He-thong-dung-khan-cap-tu-dong-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "自动紧急停止系统 - Winterfrost"
+          "imageAlt": "自动紧急停止系统 - SoftBuild"
         },
         {
           "title": "交通与燃料管理解决方案",
           "description": "集成卫星导航和油箱液位传感器，监控车队和油罐车的航线和货物容量。对燃料的进口、出口和库存进行精确控制。",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-quan-ly-van-tai-va-nhien-lieu-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "交通与燃料管理解决方案——Winterfrost"
+          "imageAlt": "交通与燃料管理解决方案——SoftBuild"
         },
         {
           "title": "汇总和分析大数据",
           "description": "建立一个集中存储库和处理海量运营数据。提取关于采矿性能和能耗标准的技术报告。",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Nen-tang-phan-tich-du-lieu-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "数据分析平台 - Winterfrost"
+          "imageAlt": "数据分析平台 - SoftBuild"
         }
       ],
       "cta": "探索所有服务"
@@ -1264,7 +1264,7 @@
           "number": "06",
           "tag": "支持",
           "title": "全天候维护与支持",
-          "description": "始终提供软件健康监测和技术支持。Winterfrost 团队致力于快速处理连接问题，确保数据流和生产不中断。"
+          "description": "始终提供软件健康监测和技术支持。SoftBuild 团队致力于快速处理连接问题，确保数据流和生产不中断。"
         }
       ],
       "cta": "开始构建您的产品！"
@@ -1275,7 +1275,7 @@
       "intro": "解答关于石油技术解决方案的问题",
       "items": [
         {
-          "q": "Winterfrost 的系统是否兼容现有的 SCADA 和 PLC 设备？",
+          "q": "SoftBuild 的系统是否兼容现有的 SCADA 和 PLC 设备？",
           "a": "我们设计基于流行的行业协议标准，如OPC UA、Modbus、MQTT。这使得系统能够直接连接并收集企业现有控制器和传感器的数据，而无需更换硬件基础设施。"
         },
         {
@@ -1306,7 +1306,7 @@
     "title": "旅行",
     "hero": {
       "title": "旅游业技术解决方案",
-      "description": "如今的旅行者希望从搜索到旅行结束，拥有无缝且个性化的旅程。Winterfrost 构建了专门的平台，帮助管理旅行服务的整个生命周期。我们开发智能预订引擎、灵活的定价算法和全渠道时刻管理系统，帮助企业提高入住率、减少弃客率，并提供专业的客户体验。",
+      "description": "如今的旅行者希望从搜索到旅行结束，拥有无缝且个性化的旅程。SoftBuild 构建了专门的平台，帮助管理旅行服务的整个生命周期。我们开发智能预订引擎、灵活的定价算法和全渠道时刻管理系统，帮助企业提高入住率、减少弃客率，并提供专业的客户体验。",
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Linh-vuc-du-lich.jpg",
       "imageAlt": "旅游业",
       "primaryLabel": "直接联系",
@@ -1317,10 +1317,10 @@
       "title": "旅游运营问题",
       "paragraphs": [
         "旅游业企业常常在多个平台上手动管理旅游日程、房间列表和机票，遇到困难。网站和咨询应用之间信息的延迟或不一致很容易导致混淆、空缺、错误报价、声誉丧失和收入损失。",
-        "Winterfrost 提供了一个集中管理系统，将企业的整个业务连接到一个平台。所有关于时刻表、可用性和服务价格的数据都会实时自动同步。这帮助企业顺畅运营，即时响应客户，并全面掌握数据，实现品牌可持续发展。"
+        "SoftBuild 提供了一个集中管理系统，将企业的整个业务连接到一个平台。所有关于时刻表、可用性和服务价格的数据都会实时自动同步。这帮助企业顺畅运营，即时响应客户，并全面掌握数据，实现品牌可持续发展。"
       ],
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Du-Lich-HomeNest-Viet-Nam.jpg",
-      "imageAlt": "交通 - Winterfrost"
+      "imageAlt": "交通 - SoftBuild"
     },
     "counters": [
       {
@@ -1346,7 +1346,7 @@
     ],
     "values": {
       "title": "旅游和住宿行业的技术解决方案",
-      "intro": "Winterfrost 构建了高效能平台，将观众转化为真实客户，并将首次旅行者转变为忠实客户。",
+      "intro": "SoftBuild 构建了高效能平台，将观众转化为真实客户，并将首次旅行者转变为忠实客户。",
       "items": [
         {
           "title": "自动优化销售价格",
@@ -1389,7 +1389,7 @@
     },
     "why": {
       "label": "为什么选择我们？",
-      "title": "为什么选择Winterfrost的技术解决方案",
+      "title": "为什么选择SoftBuild的技术解决方案",
       "items": [
         {
           "number": "1",
@@ -1425,7 +1425,7 @@
     },
     "cta": {
       "label": "立即联系！",
-      "title": "与Winterfrost一起开启旅游业数字化转型之旅",
+      "title": "与SoftBuild一起开启旅游业数字化转型之旅",
       "description": "让我们帮助您掌握直销预订渠道，并用智能技术全面优化运营流程。立即联系我们的专家团队，为您的企业提供专业解决方案咨询。",
       "buttonLabel": "立即咨询解决方案",
       "image": "/images/people/cta/winterfrost/chuyen-vien-nam-tre.png",
@@ -1435,11 +1435,11 @@
       "title": "Case Studies",
       "links": [
         {
-          "href": "https://winterfrost.tech/case-studies/website-rovena-travel",
+          "href": "https://softbuildvn.vercel.app/case-studies/website-rovena-travel",
           "text": "交通\n网站设计\n网站 罗维纳旅游\n查看项目"
         },
         {
-          "href": "https://winterfrost.tech/case-studies/website-du-lich-leveltrip",
+          "href": "https://softbuildvn.vercel.app/case-studies/website-du-lich-leveltrip",
           "text": "交通\n网站设计\n罗韦纳旅游网站\n查看项目"
         }
       ],
@@ -1452,43 +1452,43 @@
     },
     "services": {
       "title": "各旅行细分段的解决方案",
-      "intro": "Winterfrost提供全面的技术能力，支持旅游生态系统中的每一种商业模式。",
+      "intro": "SoftBuild提供全面的技术能力，支持旅游生态系统中的每一种商业模式。",
       "items": [
         {
           "title": "酒店与度假村",
           "description": "重点建设直订系统，减少对中介楼层的依赖，并整合内部公用设施，帮助提升宾客体验。",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Khach-san-va-khu-nghi-duong-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "酒店与度假村 - Winterfrost"
+          "imageAlt": "酒店与度假村 - SoftBuild"
         },
         {
           "title": "在线旅行社",
           "description": "开发大数据处理技术以帮助快速综合信息，并建立高负载预订系统以优化旅游换算站的转化率。",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Dai-ly-du-lich-truc-tuyen-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "在线旅行社 - Winterfrost"
+          "imageAlt": "在线旅行社 - SoftBuild"
         },
         {
           "title": "旅游运营商",
           "description": "提供全包式旅游运营商工具，直接与导游和服务提供商连接，确保时刻表始终准确。",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Cong-ty-lu-hanh-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "旅游运营商 - Winterfrost"
+          "imageAlt": "旅游运营商 - SoftBuild"
         },
         {
           "title": "大规模航空与交通",
           "description": "构建优化辅助服务收入和忠诚度管理系统的模型，以提升每位访客的平均价值。",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Hang-khong-va-van-tai-quy-mo-lon-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "大型航空与运输 - Winterfrost"
+          "imageAlt": "大型航空与运输 - SoftBuild"
         },
         {
           "title": "租车服务",
           "description": "自动定位和调度技术的应用帮助企业主有效管理车队，准确控制司机的作息时间。",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Dich-vu-cho-thue-xe-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "租车服务 - Winterfrost"
+          "imageAlt": "租车服务 - SoftBuild"
         },
         {
           "title": "企业旅游管理",
           "description": "提供自动化业务费用管理平台，帮助组织严格控制预算并简化文件退款流程。",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Quan-tri-du-lich-cho-doanh-nghiep-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "企业旅游管理 - Winterfrost"
+          "imageAlt": "企业旅游管理 - SoftBuild"
         }
       ],
       "cta": "探索所有服务"
@@ -1545,7 +1545,7 @@
           "a": "通常，从调查阶段到实际调试的过程需要8到12周，具体取决于企业所需功能的规模和复杂度。"
         },
         {
-          "q": "Winterfrost 的解决方案是否连接到现有的管理软件？",
+          "q": "SoftBuild 的解决方案是否连接到现有的管理软件？",
           "a": "该系统设计高度兼容，可直接连接房间管理软件或流行的国内支付网关，帮助企业始终顺利运行。"
         },
         {
@@ -1554,7 +1554,7 @@
         },
         {
           "q": "不懂技术的员工能轻松使用这个系统吗？",
-          "a": "管理界面由Winterfrost优化，注重简洁和直观，帮助教师和操作人员在短时间内掌握技术并熟练操作。"
+          "a": "管理界面由SoftBuild优化，注重简洁和直观，帮助教师和操作人员在短时间内掌握技术并熟练操作。"
         },
         {
           "q": "旅行者的数据和商业信息是如何安全的？",
@@ -1572,7 +1572,7 @@
     "title": "教育",
     "hero": {
       "title": "教育行业的软件解决方案",
-      "description": "Winterfrost 提供学习管理系统编程解决方案、在线培训平台和支持强化教育运营的应用程序。我们专注于数字化学习材料、自动化学生管理流程以及优化数字平台上的内容传递基础设施。",
+      "description": "SoftBuild 提供学习管理系统编程解决方案、在线培训平台和支持强化教育运营的应用程序。我们专注于数字化学习材料、自动化学生管理流程以及优化数字平台上的内容传递基础设施。",
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-phan-mem-cho-nganh-giao-duc.jpg",
       "imageAlt": "教育行业的软件解决方案",
       "primaryLabel": "直接联系",
@@ -1582,7 +1582,7 @@
       "label": "概述",
       "title": "克服教育基础设施障碍",
       "paragraphs": [
-        "大型培训机构常常面临分散在多个独立平台上的学生数据，导致管理难以集中管理和伪造运营报告。Winterfrost 通过建立统一数据架构，通过中央 API 系统同步模块间实时信息，解决了这一问题。此外，为了解决同时访问考试用户数量增加时的系统拥堵，我们采用了结合微服务架构和云计算平台自动扩展机制的结合，以保持响应速度不足2秒。",
+        "大型培训机构常常面临分散在多个独立平台上的学生数据，导致管理难以集中管理和伪造运营报告。SoftBuild 通过建立统一数据架构，通过中央 API 系统同步模块间实时信息，解决了这一问题。此外，为了解决同时访问考试用户数量增加时的系统拥堵，我们采用了结合微服务架构和云计算平台自动扩展机制的结合，以保持响应速度不足2秒。",
         "学术信息安全和试卷泄露防范也通过端到端数据加密协议和多级访问去中心化机制得到全面处理。我们还集成了CDN内容分发网络，优化视频讲座流的性能，并为遗留系统进行源代码重构，彻底消除技术债务。最后，编写工作流程自动化业务流程自动化脚本，帮助教育企业大幅降低重复性任务（如安排教学或定期发送学费通知）的人力成本。"
       ],
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Khac-phuc-rao-can-ha-tang-giao-duc.jpg",
@@ -1655,7 +1655,7 @@
     },
     "why": {
       "label": "为什么选择我们？",
-      "title": "选择Winterfrost技术能力的理由",
+      "title": "选择SoftBuild技术能力的理由",
       "items": [
         {
           "number": "1",
@@ -1692,7 +1692,7 @@
     "cta": {
       "label": "立即联系！",
       "title": "教育与培训管理基础设施的数字化",
-      "description": "请联系Winterfrost的工程团队，建立集中学习管理系统并自动化运营流程，以优化教育机构的教学表现。",
+      "description": "请联系SoftBuild的工程团队，建立集中学习管理系统并自动化运营流程，以优化教育机构的教学表现。",
       "buttonLabel": "获取技术解决方案建议",
       "image": "/images/people/cta/winterfrost/chuyen-vien-nam-tre.png",
       "imageAlt": "专家顾问"
@@ -1790,7 +1790,7 @@
       "items": [
         {
           "q": "企业在交接后是否拥有源代码的全部所有权？",
-          "a": "是的。Winterfrost 交出了 100% 原始源代码及相关技术规范文件。这确保企业能够完全控制系统，能够主动升级或更换基础设施，而无需依赖任何软件提供商。"
+          "a": "是的。SoftBuild 交出了 100% 原始源代码及相关技术规范文件。这确保企业能够完全控制系统，能够主动升级或更换基础设施，而无需依赖任何软件提供商。"
         },
         {
           "q": "当成千上万的学生同时参加在线考试时，系统怎么可能不崩溃？",
@@ -1798,7 +1798,7 @@
         },
         {
           "q": "独家讲座视频内容如何防止抄袭？",
-          "a": "Winterfrost 集成了 DRM 视频流加密技术和包含用户身份信息的数字水印技术。该解决方案有效防止未经授权的下载工具，并帮助企业准确追踪录制讲座画面的账户。"
+          "a": "SoftBuild 集成了 DRM 视频流加密技术和包含用户身份信息的数字水印技术。该解决方案有效防止未经授权的下载工具，并帮助企业准确追踪录制讲座画面的账户。"
         },
         {
           "q": "系统能否与会计软件或支付网关同步数据？",
@@ -1810,7 +1810,7 @@
         },
         {
           "q": "官方的运营后技术支持和维护政策是什么？",
-          "a": "Winterfrost承诺提供直接技术支持，在运营过程中24小时内处理出现的问题。我们还定期进行系统审计和安全补丁，确保软件基础设施始终处于最优和安全的状态。"
+          "a": "SoftBuild承诺提供直接技术支持，在运营过程中24小时内处理出现的问题。我们还定期进行系统审计和安全补丁，确保软件基础设施始终处于最优和安全的状态。"
         }
       ]
     }
@@ -1820,7 +1820,7 @@
     "title": "会计",
     "hero": {
       "title": "企业会计系统解决方案",
-      "description": "Winterfrost 提供深入的会计系统编程解决方案，专注于确保数据完整性和自动化复杂的财务业务流程。我们构建了一套软件基础设施，帮助企业将销售、物流和人力资源模块的所有交易整合到单一账本中，以控制准确的现金流。",
+      "description": "SoftBuild 提供深入的会计系统编程解决方案，专注于确保数据完整性和自动化复杂的财务业务流程。我们构建了一套软件基础设施，帮助企业将销售、物流和人力资源模块的所有交易整合到单一账本中，以控制准确的现金流。",
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-he-thong-ke-toan-doanh-nghiep.jpg",
       "imageAlt": "企业会计系统解决方案",
       "primaryLabel": "直接联系",
@@ -1830,7 +1830,7 @@
       "label": "概述",
       "title": "自动化会计操作",
       "paragraphs": [
-        "企业面临的最大挑战是财务数据分散在多个Excel文件或独立软件中，导致手工对账既耗时又容易出错。Winterfrost 通过构建一个采用严格交易控制机制的集中治理系统来解决这个问题。我们的解决方案确保每个分录都实时自动交叉核对和同步，消除运营数据与会计数据之间的相位差异。"
+        "企业面临的最大挑战是财务数据分散在多个Excel文件或独立软件中，导致手工对账既耗时又容易出错。SoftBuild 通过构建一个采用严格交易控制机制的集中治理系统来解决这个问题。我们的解决方案确保每个分录都实时自动交叉核对和同步，消除运营数据与会计数据之间的相位差异。"
       ],
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Tu-dong-hoa-nghiep-vu-tai-chinh.jpg",
       "imageAlt": "自动化财务运营"
@@ -1902,7 +1902,7 @@
     },
     "why": {
       "label": "为什么选择我们？",
-      "title": "选择Winterfrost进行会计行业数字化转型的理由",
+      "title": "选择SoftBuild进行会计行业数字化转型的理由",
       "items": [
         {
           "number": "1",
@@ -1939,7 +1939,7 @@
     "cta": {
       "label": "立即联系！",
       "title": "企业财务管理基础设施的标准化",
-      "description": "与Winterfrost的工程团队联系，建立集中会计系统并自动化会计流程，确保运营数据的绝对准确性。",
+      "description": "与SoftBuild的工程团队联系，建立集中会计系统并自动化会计流程，确保运营数据的绝对准确性。",
       "buttonLabel": "获取系统架构咨询",
       "image": "/images/people/cta/winterfrost/chuyen-vien-nu.png",
       "imageAlt": "专家顾问"
@@ -2069,7 +2069,7 @@
       "title": "建筑与施工软件开发",
       "description": "大型工程项目需要精确的协调、严格的预算控制以及实时数据访问。依赖手动管理方法或离散报告常常导致资本短缺和项目施工进度延误。",
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Linh-vuc-Xay-dung-HomeNest-Viet-Nam.jpg",
-      "imageAlt": "区域-施工-Winterfrost-越南-越南",
+      "imageAlt": "区域-施工-SoftBuild-越南-越南",
       "primaryLabel": "直接联系",
       "secondaryLabel": "求教信息"
     },
@@ -2078,10 +2078,10 @@
       "title": "消除建筑行业的障碍",
       "paragraphs": [
         "建筑行业经常面临施工现场与管理办公室之间的信息中断。依赖纸质报告或独立软件很容易导致图纸误解、排期冲突和供应链瓶颈，干扰项目进展。",
-        "Winterfrost 通过单一集中化的项目管理系统解决了这些挑战。我们将基于云的现场报告工具与预算可视化系统连接起来，打造一个透明的运营中心。该解决方案帮助各级管理者准确跟踪每个进展里程碑，有效分配任务，并确保施工的每个阶段都符合实际运营需求。"
+        "SoftBuild 通过单一集中化的项目管理系统解决了这些挑战。我们将基于云的现场报告工具与预算可视化系统连接起来，打造一个透明的运营中心。该解决方案帮助各级管理者准确跟踪每个进展里程碑，有效分配任务，并确保施工的每个阶段都符合实际运营需求。"
       ],
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Kien-truc-va-xay-dung-HomeNest-Viet-Nam.jpg",
-      "imageAlt": "建筑与施工 - Winterfrost"
+      "imageAlt": "建筑与施工 - SoftBuild"
     },
     "counters": [
       {
@@ -2107,7 +2107,7 @@
     ],
     "values": {
       "title": "建筑行业数字化转型的优势",
-      "intro": "Winterfrost协助企业全面优化运营流程，提升品牌在市场中的声誉。",
+      "intro": "SoftBuild协助企业全面优化运营流程，提升品牌在市场中的声誉。",
       "items": [
         {
           "title": "数据连接",
@@ -2150,12 +2150,12 @@
     },
     "why": {
       "label": "为什么选择我们？",
-      "title": "为什么选择Winterfrost的建筑技术解决方案",
+      "title": "为什么选择SoftBuild的建筑技术解决方案",
       "items": [
         {
           "number": "1",
           "title": "严格的成本控制",
-          "description": "Winterfrost 帮助您停止现场材料和人工的浪费。密切监控每一项费用有助于企业保持利润，避免担心资本损失或意外成本。"
+          "description": "SoftBuild 帮助您停止现场材料和人工的浪费。密切监控每一项费用有助于企业保持利润，避免担心资本损失或意外成本。"
         },
         {
           "number": "2",
@@ -2180,13 +2180,13 @@
         {
           "number": "6",
           "title": "一定要有专家陪同",
-          "description": "Winterfrost 不仅提供工具，还会在需要时支持企业提供技术支持。我们确保系统始终稳定，确保工程师在工地外的工作不会被打断。"
+          "description": "SoftBuild 不仅提供工具，还会在需要时支持企业提供技术支持。我们确保系统始终稳定，确保工程师在工地外的工作不会被打断。"
         }
       ]
     },
     "cta": {
       "label": "立即联系！",
-      "title": "开始与Winterfrost一起进行智能建筑管理",
+      "title": "开始与SoftBuild一起进行智能建筑管理",
       "description": "让我们帮助您严格控制材料成本，确保每个项目的施工进度。请联系我们的专家团队，获取量身定制的切实解决方案。",
       "buttonLabel": "立即咨询解决方案",
       "image": "/images/people/cta/winterfrost/quan-ly-nam.png",
@@ -2196,15 +2196,15 @@
       "title": "Case Studies",
       "links": [
         {
-          "href": "https://winterfrost.tech/case-studies/website-virela-interior",
+          "href": "https://softbuildvn.vercel.app/case-studies/website-virela-interior",
           "text": "建筑与施工\n电子商务\n网站设计\n维雷拉内部网站\n查看项目"
         },
         {
-          "href": "https://winterfrost.tech/case-studies/website-ceranova",
+          "href": "https://softbuildvn.vercel.app/case-studies/website-ceranova",
           "text": "建筑与施工\n电子商务\n网站设计\n网站 Ceranova\n查看项目"
         },
         {
-          "href": "https://winterfrost.tech/case-studies/website-chromiva-coatings",
+          "href": "https://softbuildvn.vercel.app/case-studies/website-chromiva-coatings",
           "text": "建筑与施工\n电子商务\n网站设计\n网站 Chromiva 涂层\n查看项目"
         }
       ],
@@ -2223,37 +2223,37 @@
           "title": "项目管理系统",
           "description": "创建一个连接办公室和现场的单一运营中心。所有关于进度、人员和项目变更的信息都会即时更新，确保所有人始终在统一的计划下工作。",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/He-thong-quan-tri-cong-trinh-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "大楼管理系统 - Winterfrost"
+          "imageAlt": "大楼管理系统 - SoftBuild"
         },
         {
           "title": "工程师的现场应用",
           "description": "在手机上开发工具，帮助工程师在施工现场发送报告、拍摄验收照片并更新事故情况。这减少了文书工作，帮助领导者在不亲自到场的情况下掌握实际情况。",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Ung-dung-cho-ky-su-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "工程师应用 – Winterfrost"
+          "imageAlt": "工程师应用 – SoftBuild"
         },
         {
           "title": "材料与设备控制工具",
           "description": "实时详细跟踪进出材料和机器位置。这项服务帮助承包商牢固掌握用电规范，消除损失，并在采购阶段更加主动。",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Cong-cu-kiem-soat-vat-tu-va-thiet-bi-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "材料与设备控制工具 - Winterfrost"
+          "imageAlt": "材料与设备控制工具 - SoftBuild"
         },
         {
           "title": "管理图纸和技术数据",
           "description": "存储并去中心化对最新设计版本的访问。施工团队可以通过移动设备直接查看图纸，确保施工方法正确，避免因维修费用而出错。",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Quan-ly-ban-ve-va-du-lieu-ky-thuat-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "技术数据与图纸管理 - Winterfrost"
+          "imageAlt": "技术数据与图纸管理 - SoftBuild"
         },
         {
           "title": "项目现金流监控解决方案",
           "description": "自动将实际费用与最初预估预算进行更新。这帮助企业主严格控制每项商品的利润，并在财务方面及时调整。",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-giam-sat-dong-tien-du-an-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "项目现金流监控解决方案 – Winterfrost"
+          "imageAlt": "项目现金流监控解决方案 – SoftBuild"
         },
         {
           "title": "建置中文档自动化系统",
           "description": "自动收集图片、会议记录和施工数据，快速导出结算记录。这项服务帮助企业缩短交接时间，并迅速从投资者那里回收资金。",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/He-thong-tu-dong-hoa-ho-so-hoan-cong-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "成稿文档自动化系统 - Winterfrost"
+          "imageAlt": "成稿文档自动化系统 - SoftBuild"
         }
       ],
       "cta": "探索所有服务"
@@ -2311,7 +2311,7 @@
         },
         {
           "q": "不熟练技术的现场工程师能用吗？",
-          "a": "应用界面由Winterfrost设计，极简，注重简洁的点缀和摄影。我们提供现场培训，确保即使是最不情愿的人员也能在仅需15分钟熟悉时间内更新报告并查看图纸。"
+          "a": "应用界面由SoftBuild设计，极简，注重简洁的点缀和摄影。我们提供现场培训，确保即使是最不情愿的人员也能在仅需15分钟熟悉时间内更新报告并查看图纸。"
         },
         {
           "q": "如果工地网络薄弱或没有互联网，系统如何运作？",
@@ -2319,15 +2319,15 @@
         },
         {
           "q": "技术文件和项目图纸是否被安全保护？",
-          "a": "图纸和施工图是重要的知识产权，因此Winterfrost采用多层加密技术和严格去中心化的访问。只有持证人员才能查看或编辑数据，让企业对项目安全完全安心。"
+          "a": "图纸和施工图是重要的知识产权，因此SoftBuild采用多层加密技术和严格去中心化的访问。只有持证人员才能查看或编辑数据，让企业对项目安全完全安心。"
         },
         {
-          "q": "Winterfrost 的系统是否与现有会计软件集成？",
+          "q": "SoftBuild 的系统是否与现有会计软件集成？",
           "a": "我们的系统能够灵活连接越南流行的会计或办公管理软件。数据同步帮助会计师无需从头重新录入数据，确保工地与办公室之间的数据始终100%匹配。"
         },
         {
           "q": "系统的实施会打乱当前的施工进度吗？",
-          "a": "Winterfrost的实施过程分为多个阶段，并与项目运营同步进行。我们优先安装核心功能，让企业逐步适应，确保它们不会对施工现场的实际施工造成任何障碍。"
+          "a": "SoftBuild的实施过程分为多个阶段，并与项目运营同步进行。我们优先安装核心功能，让企业逐步适应，确保它们不会对施工现场的实际施工造成任何障碍。"
         }
       ]
     }
@@ -2337,7 +2337,7 @@
     "title": "银行",
     "hero": {
       "title": "银行业数字化转型解决方案",
-      "description": "Winterfrost提供专业的银行技术基础设施建设服务，专注于大规模数据处理，确保最高水平的信息安全。我们设计软件架构，帮助金融机构整合复杂交易流，自动化核心银行业务，并在数字平台上打造无缝的用户体验。",
+      "description": "SoftBuild提供专业的银行技术基础设施建设服务，专注于大规模数据处理，确保最高水平的信息安全。我们设计软件架构，帮助金融机构整合复杂交易流，自动化核心银行业务，并在数字平台上打造无缝的用户体验。",
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-chuyen-doi-so-cho-nganh-ngan-hang.jpg",
       "imageAlt": "银行业数字化转型解决方案",
       "primaryLabel": "直接联系",
@@ -2347,7 +2347,7 @@
       "label": "概述",
       "title": "优化交易安全",
       "paragraphs": [
-        "银行业面临的最大挑战是缺乏连接的遗留系统，导致处理缓慢和信息安全风险。Winterfrost 通过建立现代化的数字银行基础设施，采用灵活的微服务架构来解决这一问题。我们的解决方案消除了数据障碍，实现每笔交易的即时同步，并建立了多层保护层，确保资产和客户信息的完整性。"
+        "银行业面临的最大挑战是缺乏连接的遗留系统，导致处理缓慢和信息安全风险。SoftBuild 通过建立现代化的数字银行基础设施，采用灵活的微服务架构来解决这一问题。我们的解决方案消除了数据障碍，实现每笔交易的即时同步，并建立了多层保护层，确保资产和客户信息的完整性。"
       ],
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Toi-uu-hoa-tinh-an-toan-trong-giao-dich.jpg",
       "imageAlt": "优化交易安全"
@@ -2419,7 +2419,7 @@
     },
     "why": {
       "label": "为什么选择我们？",
-      "title": "银行选择Winterfrost的理由",
+      "title": "银行选择SoftBuild的理由",
       "items": [
         {
           "number": "1",
@@ -2449,14 +2449,14 @@
         {
           "number": "6",
           "title": "交出所有技术掌控",
-          "description": "Winterfrost 提供完整的源代码和详细的技术文档，帮助企业实现长期运营和升级的自主性。我们致力于避免对供应商产生依赖。"
+          "description": "SoftBuild 提供完整的源代码和详细的技术文档，帮助企业实现长期运营和升级的自主性。我们致力于避免对供应商产生依赖。"
         }
       ]
     },
     "cta": {
       "label": "立即联系！",
       "title": "金融基础设施数字化与安全数字银行",
-      "description": "请联系Winterfrost的工程团队，建立集中银行系统并自动化交易流程，确保金融基础设施的绝对安全。",
+      "description": "请联系SoftBuild的工程团队，建立集中银行系统并自动化交易流程，确保金融基础设施的绝对安全。",
       "buttonLabel": "与我们聊天",
       "image": "/images/people/cta/winterfrost/quan-ly-nam.png",
       "imageAlt": "专家顾问"
@@ -2470,7 +2470,7 @@
           "title": "核心银行系统编程",
           "description": "建立一个中央运营体系，帮助管理账户、存款、贷款和集中财务会计。",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Lap-trinh-he-thong-ngan-hang-loi-Core-Banking-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "核心银行系统编程 – Winterfrost"
+          "imageAlt": "核心银行系统编程 – SoftBuild"
         },
         {
           "title": "构建电子身份验证电子身份验证解决方案",
@@ -2554,7 +2554,7 @@
       "items": [
         {
           "q": "该系统如何确保对大规模网络攻击的绝对安全？",
-          "a": "Winterfrost 实现了多层安全架构，结合了高级应用防火墙和实时异常流量监控机制。所有交易数据和客户信息均采用AES 256标准进行加密。我们还建立了多因素认证系统和严格的访问管理，以防止系统内外的未经授权入侵。"
+          "a": "SoftBuild 实现了多层安全架构，结合了高级应用防火墙和实时异常流量监控机制。所有交易数据和客户信息均采用AES 256标准进行加密。我们还建立了多因素认证系统和严格的访问管理，以防止系统内外的未经授权入侵。"
         },
         {
           "q": "该系统能否与银行长期建立的核心银行基础设施集成？",
@@ -2584,9 +2584,9 @@
     "title": "农业",
     "hero": {
       "title": "农业行业的数字化转型",
-      "description": "现代农业需要比传统方法更高的条件。这需要有实际数据来证明。Winterfrost开发按需农业技术平台，旨在提高农业效率。从利用物联网技术的传感器、作物预测到植物健康状态监测能力，我们支持农业企业更智能地成长，减少成本损失，并将优质产品推向市场。",
+      "description": "现代农业需要比传统方法更高的条件。这需要有实际数据来证明。SoftBuild开发按需农业技术平台，旨在提高农业效率。从利用物联网技术的传感器、作物预测到植物健康状态监测能力，我们支持农业企业更智能地成长，减少成本损失，并将优质产品推向市场。",
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Gioi-thieu-linh-vuc-nong-nghiep-HomeNest-Viet-Nam.jpg",
-      "imageAlt": "关于农业 - Winterfrost",
+      "imageAlt": "关于农业 - SoftBuild",
       "primaryLabel": "直接联系",
       "secondaryLabel": "求教信息"
     },
@@ -2595,10 +2595,10 @@
       "title": "农业管理解决方案",
       "paragraphs": [
         "目前，农业部门正面临许多严峻挑战，如气候变化、劳动力短缺以及日益严格的食品安全要求。采用传统的生产管理方法，如簿记、逐个零部件跟踪，并基于感知处理病虫害，常常导致农产品质量不稳定，导致收获后浪费，降低企业在市场中的竞争力。",
-        "Winterfrost通过构建农业管理系统解决了这些问题。我们结合物联网传感器设备的数据、人工智能预测模型，及时解决问题并提出下一步策略。"
+        "SoftBuild通过构建农业管理系统解决了这些问题。我们结合物联网传感器设备的数据、人工智能预测模型，及时解决问题并提出下一步策略。"
       ],
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Nong-nghiep-HomeNest-Viet-Nam.jpg",
-      "imageAlt": "农业 - Winterfrost"
+      "imageAlt": "农业 - SoftBuild"
     },
     "counters": [
       {
@@ -2624,7 +2624,7 @@
     ],
     "values": {
       "title": "农业企业解决方案",
-      "intro": "Winterfrost 构建定制数据平台，帮助将传统农业模式转变为智能数字农业模式。",
+      "intro": "SoftBuild 构建定制数据平台，帮助将传统农业模式转变为智能数字农业模式。",
       "items": [
         {
           "title": "土壤状况监测",
@@ -2667,7 +2667,7 @@
     },
     "why": {
       "label": "为什么选择我们？",
-      "title": "为什么Winterfrost是农业企业值得信赖的合作伙伴？",
+      "title": "为什么SoftBuild是农业企业值得信赖的合作伙伴？",
       "items": [
         {
           "number": "1",
@@ -2692,7 +2692,7 @@
         {
           "number": "5",
           "title": "连接可用软件",
-          "description": "Winterfrost 的平台可以轻松连接到企业使用的会计系统、仓储管理或农产品交易所。这有助于数据从生产到销售的顺畅流动，无需多次重新录入数据。"
+          "description": "SoftBuild 的平台可以轻松连接到企业使用的会计系统、仓储管理或农产品交易所。这有助于数据从生产到销售的顺畅流动，无需多次重新录入数据。"
         },
         {
           "number": "6",
@@ -2704,7 +2704,7 @@
     "cta": {
       "label": "立即联系！",
       "title": "准备好数字化转型您的农业产业了吗？",
-      "description": "让我们与Winterfrost一起建立集中管理体系，密切监控农场状况，优化运营成本，并基于实际数据提升农产品质量。",
+      "description": "让我们与SoftBuild一起建立集中管理体系，密切监控农场状况，优化运营成本，并基于实际数据提升农产品质量。",
       "buttonLabel": "立即收到解决方案建议",
       "image": "/images/people/cta/winterfrost/chuyen-vien-nu.png",
       "imageAlt": "专家顾问"
@@ -2713,11 +2713,11 @@
       "title": "Case Studies",
       "links": [
         {
-          "href": "https://winterfrost.tech/case-studies/website-flexora-packaging",
+          "href": "https://softbuildvn.vercel.app/case-studies/website-flexora-packaging",
           "text": "农业\n网站设计\n网站 Flexora 包装\n查看项目"
         },
         {
-          "href": "https://winterfrost.tech/case-studies/website-polyvera",
+          "href": "https://softbuildvn.vercel.app/case-studies/website-polyvera",
           "text": "零售\n农业\n网站设计\n网站Polyvera\n查看项目"
         }
       ],
@@ -2734,7 +2734,7 @@
     },
     "services": {
       "title": "各农业部门的技术解决方案",
-      "intro": "从本地合作社到跨国农业公司，Winterfrost提供适合各种规模和生产模式的深入软件解决方案。",
+      "intro": "从本地合作社到跨国农业公司，SoftBuild提供适合各种规模和生产模式的深入软件解决方案。",
       "items": [
         {
           "title": "精准种植与农业",
@@ -2746,31 +2746,31 @@
           "title": "牛和家禽养殖",
           "description": "牛群管理系统、支持监控每个个体健康、自动化喂养计划以确保营养，并密切监控过程以限制疾病。",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Chan-nuoi-gia-suc-va-gia-cam-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "牛与家禽养殖 - Winterfrost"
+          "imageAlt": "牛与家禽养殖 - SoftBuild"
         },
         {
           "title": "水产养殖",
           "description": "建立水质监测网络和自动供水系统。该软件帮助管理国内和离岸养殖模式的最佳养殖密度，确保海鲜的最佳生长环境。",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Chan-nuoi-thuy-hai-san-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "水产养殖 - Winterfrost"
+          "imageAlt": "水产养殖 - SoftBuild"
         },
         {
           "title": "农业物资的分发",
           "description": "为化肥、种子和农药分销商提供仓储管理和需求预测解决方案。该系统有助于优化进口循环，并高效管理向农民运输的流程。",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Cung-ung-va-phan-phoi-vat-tu-nong-nghiep-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "农业材料供应与分销 - Winterfrost"
+          "imageAlt": "农业材料供应与分销 - SoftBuild"
         },
         {
           "title": "质量检验与供应链",
           "description": "构建收获后产品质量检测平台、持续冷藏温度监测系统，以及协调加工厂到零售点运输的工具，确保产品新鲜。",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Kiem-tra-chat-luong-va-chuoi-cung-ung-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "质量检验与供应链 - Winterfrost"
+          "imageAlt": "质量检验与供应链 - SoftBuild"
         },
         {
           "title": "资本管理支持",
           "description": "帮助企业以透明的方式跟踪贷款或农业支持资金的使用情况，确保资金被用于正确的目的且高效。",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Ho-tro-quan-ly-nguon-von-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "资本管理支持 - Winterfrost"
+          "imageAlt": "资本管理支持 - SoftBuild"
         }
       ],
       "cta": "探索所有服务"
@@ -2782,7 +2782,7 @@
           "number": "01",
           "tag": "接待处",
           "title": "接收需求",
-          "description": "Winterfrost 倾听企业面临的实际问题，提供合适的技术解决方案建议，帮助彻底解决企业的运营问题。"
+          "description": "SoftBuild 倾听企业面临的实际问题，提供合适的技术解决方案建议，帮助彻底解决企业的运营问题。"
         },
         {
           "number": "02",
@@ -2806,7 +2806,7 @@
           "number": "05",
           "tag": "部署",
           "title": "实施与培训",
-          "description": "测试成功后，将系统安装到整个企业规模。Winterfrost直接为工人提供管理技术培训和现场操作指导，确保工作顺利。"
+          "description": "测试成功后，将系统安装到整个企业规模。SoftBuild直接为工人提供管理技术培训和现场操作指导，确保工作顺利。"
         },
         {
           "number": "06",
@@ -2823,27 +2823,27 @@
       "intro": "我们总结了最常见的问题，帮助企业在开始数字化转型之旅前有更清晰的视角。",
       "items": [
         {
-          "q": "Winterfrost 的系统在没有 4G/WiFi 覆盖的地区能正常工作吗？",
+          "q": "SoftBuild 的系统在没有 4G/WiFi 覆盖的地区能正常工作吗？",
           "a": "是的。我们的移动应用设计时就考虑了离线模式。员工仍然可以正常录入数据并拍摄报告照片。一旦设备重新连接网络，数据将自动同步到系统，确保信息不会被中断。"
         },
         {
           "q": "不懂技术的农场工人能使用这些软件吗？",
-          "a": "绝对是。Winterfrost 强调极其简洁的界面设计，使用直观的图标和易懂的越南语。此外，我们还在现场设有实时培训流程，确保即使是技术最不熟悉的人也能掌握日常任务。"
+          "a": "绝对是。SoftBuild 强调极其简洁的界面设计，使用直观的图标和易懂的越南语。此外，我们还在现场设有实时培训流程，确保即使是技术最不熟悉的人也能掌握日常任务。"
         },
         {
-          "q": "Winterfrost 的解决方案能否根据每种作物或牲畜的特性进行定制？",
-          "a": "是的。我们不卖一刀切的软件。根据水稻、果树和海鲜等各类作物的生长特性，Winterfrost将根据企业实际生产情况定制预警指标、养护流程和报告表格。"
+          "q": "SoftBuild 的解决方案能否根据每种作物或牲畜的特性进行定制？",
+          "a": "是的。我们不卖一刀切的软件。根据水稻、果树和海鲜等各类作物的生长特性，SoftBuild将根据企业实际生产情况定制预警指标、养护流程和报告表格。"
         },
         {
           "q": "我的配方和产量数据安全吗？",
-          "a": "数据安全是我们的首要任务。所有关于商业机密、农业流程和客户数据的信息都被加密并存储在独立系统中。Winterfrost承诺未经您的书面同意，不会与任何第三方分享业务数据。"
+          "a": "数据安全是我们的首要任务。所有关于商业机密、农业流程和客户数据的信息都被加密并存储在独立系统中。SoftBuild承诺未经您的书面同意，不会与任何第三方分享业务数据。"
         },
         {
           "q": "实施成本是如何计算的？",
-          "a": "费用取决于农场规模、需安装的传感器数量以及软件功能的复杂程度。Winterfrost会在实地调查后提供详细估价，确保您只投资真正经济可行的功能。"
+          "a": "费用取决于农场规模、需安装的传感器数量以及软件功能的复杂程度。SoftBuild会在实地调查后提供详细估价，确保您只投资真正经济可行的功能。"
         },
         {
-          "q": "如果设备或软件出现问题，Winterfrost还能支持多久？",
+          "q": "如果设备或软件出现问题，SoftBuild还能支持多久？",
           "a": "我们承诺在收到请求后24小时内响应并启动技术故障排查流程。如有需要，我们的技术团队将提供远程或现场支持，确保生产不中断。"
         }
       ]
@@ -2854,7 +2854,7 @@
     "title": "企业软件",
     "hero": {
       "title": "开发定制企业软件",
-      "description": "Winterfrost 构建智能、强大且易用的企业软件系统，旨在统一您的整个运营流程。从整体ERP系统到定制CRM平台，我们打造坚实的技术基础，满足企业在数字时代实现可持续增长的需求。",
+      "description": "SoftBuild 构建智能、强大且易用的企业软件系统，旨在统一您的整个运营流程。从整体ERP系统到定制CRM平台，我们打造坚实的技术基础，满足企业在数字时代实现可持续增长的需求。",
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phat-trien-phan-mem-doanh-nghiep-tuy-chinh.jpg",
       "imageAlt": "开发定制企业软件",
       "primaryLabel": "直接联系",
@@ -2865,7 +2865,7 @@
       "title": "通过ERP和CRM系统优化运营效率",
       "paragraphs": [
         "企业常常难以在大量离散软件上运行，导致数据分散且缺乏同步。手工流程浪费时间、易出错且难以控制人员绩效。此外，预包装软件通常缺乏灵活性，难以根据业务特性定制，或在扩展过程中遇到障碍。",
-        "Winterfrost 提供针对每个企业实际业务流程量身定制的软件解决方案。我们专注于将工作流程整合到单一平台，涵盖ERP资源管理、客户关系管理（CRM）、客户管理、人力资源和供应链管理。该解决方案帮助企业优化资源，掌握集中数据，构建专业且灵活的运营体系。"
+        "SoftBuild 提供针对每个企业实际业务流程量身定制的软件解决方案。我们专注于将工作流程整合到单一平台，涵盖ERP资源管理、客户关系管理（CRM）、客户管理、人力资源和供应链管理。该解决方案帮助企业优化资源，掌握集中数据，构建专业且灵活的运营体系。"
       ],
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Toi-uu-hoa-hieu-suat-van-hanh-bang-he-thong-ERP-va-CRM.jpg",
       "imageAlt": "通过ERP和CRM系统优化运营绩效"
@@ -2894,7 +2894,7 @@
     ],
     "values": {
       "title": "为什么您的企业需要定制软件？",
-      "intro": "Winterfrost 的解决方案通过连接数据、自动化流程并全面掌握自有技术平台，帮助您更高效地管理公司。",
+      "intro": "SoftBuild 的解决方案通过连接数据、自动化流程并全面掌握自有技术平台，帮助您更高效地管理公司。",
       "items": [
         {
           "title": "不再有丢失的信息",
@@ -2916,7 +2916,7 @@
         },
         {
           "title": "遵循你流程的软件",
-          "description": "与常常受限的现成软件不同，Winterfrost的软件是基于你的工作方式构建的。如果你想随着公司增长增加或移除功能或更改流程，这很容易做到。",
+          "description": "与常常受限的现成软件不同，SoftBuild的软件是基于你的工作方式构建的。如果你想随着公司增长增加或移除功能或更改流程，这很容易做到。",
           "image": "",
           "imageAlt": ""
         },
@@ -2937,12 +2937,12 @@
     },
     "why": {
       "label": "为什么选择我们？",
-      "title": "Winterfrost 的竞争优势",
+      "title": "SoftBuild 的竞争优势",
       "items": [
         {
           "number": "1",
           "title": "完全所有权移交",
-          "description": "Winterfrost 承诺在项目完成后，100% 转让源代码和技术文档。企业有完全权利管理和处置升级或系统变更，不受供应商法律或技术界限的约束。"
+          "description": "SoftBuild 承诺在项目完成后，100% 转让源代码和技术文档。企业有完全权利管理和处置升级或系统变更，不受供应商法律或技术界限的约束。"
         },
         {
           "number": "2",
@@ -2957,7 +2957,7 @@
         {
           "number": "4",
           "title": "在国际市场部署的能力",
-          "description": "Winterfrost的工程团队已为美国、欧洲、新加坡和日本的合作伙伴实施了软件项目。我们根据国际标准对每个项目应用技术标准和质量控制流程。"
+          "description": "SoftBuild的工程团队已为美国、欧洲、新加坡和日本的合作伙伴实施了软件项目。我们根据国际标准对每个项目应用技术标准和质量控制流程。"
         },
         {
           "number": "5",
@@ -2967,14 +2967,14 @@
         {
           "number": "6",
           "title": "提供持续的维护和技术支持服务",
-          "description": "我们定期进行维护，更新安全补丁，并全天候处理技术问题。Winterfrost 确保系统始终稳定且紧跟最新技术。"
+          "description": "我们定期进行维护，更新安全补丁，并全天候处理技术问题。SoftBuild 确保系统始终稳定且紧跟最新技术。"
         }
       ]
     },
     "cta": {
       "label": "立即联系！",
       "title": "立即标准化业务操作流程！",
-      "description": "准备将手动流程和碎片数据转换为集中管理系统。让Winterfrost帮助您构建定制的ERP/CRM平台，确保绝对的数据同步和永久的源代码所有权。",
+      "description": "准备将手动流程和碎片数据转换为集中管理系统。让SoftBuild帮助您构建定制的ERP/CRM平台，确保绝对的数据同步和永久的源代码所有权。",
       "buttonLabel": "立即收到解决方案建议",
       "image": "/images/people/cta/winterfrost/chuyen-vien-nam-tre.png",
       "imageAlt": "专家顾问"
@@ -2982,7 +2982,7 @@
     "cases": null,
     "services": {
       "title": "定制企业软件编程服务",
-      "intro": "Winterfrost 实现了集中管理系统的编程和实施，如 ERP、CRM 和人力资源管理。我们专注于业务流程数字化、部门间数据连接，以及提供分析工具，帮助企业准确控制运营。",
+      "intro": "SoftBuild 实现了集中管理系统的编程和实施，如 ERP、CRM 和人力资源管理。我们专注于业务流程数字化、部门间数据连接，以及提供分析工具，帮助企业准确控制运营。",
       "items": [
         {
           "title": "整体ERP系统开发",
@@ -3060,7 +3060,7 @@
           "number": "06",
           "tag": "转乘",
           "title": "源代码切换与例行维护",
-          "description": "将源代码和技术指导文件100%交付给企业。Winterfrost 提供持续维护、补丁更新和技术支持，确保系统始终兼容不断变化的需求。"
+          "description": "将源代码和技术指导文件100%交付给企业。SoftBuild 提供持续维护、补丁更新和技术支持，确保系统始终兼容不断变化的需求。"
         }
       ],
       "cta": "开始构建您的产品！"
@@ -3080,7 +3080,7 @@
         },
         {
           "q": "完成ERP或CRM系统的编程需要多长时间？",
-          "a": "实施时间取决于模块数量和业务流程的复杂度。通常，Winterfrost 会将项目划分为多个阶段，并在每个模块中交接，以便企业能够尽早将最重要的功能投入运营。"
+          "a": "实施时间取决于模块数量和业务流程的复杂度。通常，SoftBuild 会将项目划分为多个阶段，并在每个模块中交接，以便企业能够尽早将最重要的功能投入运营。"
         },
         {
           "q": "随着人员和数据的增加，软件会响应吗？",
@@ -3088,10 +3088,10 @@
         },
         {
           "q": "企业在交付项目后能否拥有源代码？",
-          "a": "是的。Winterfrost 承诺在项目完成后交付 100% 的源代码和技术文档。企业拥有产品的全部所有权，有权自行升级或更换维护单元，无需对我们施加法律障碍。"
+          "a": "是的。SoftBuild 承诺在项目完成后交付 100% 的源代码和技术文档。企业拥有产品的全部所有权，有权自行升级或更换维护单元，无需对我们施加法律障碍。"
         },
         {
-          "q": "系统正式投入使用后，Winterfrost 的支持如何？",
+          "q": "系统正式投入使用后，SoftBuild 的支持如何？",
           "a": "我们提供定期维护、安全补丁更新，以及全天候24小时支持，处理技术错误。此外，我们随时准备提供建议并实施新功能升级，确保软件系统始终与您的业务策略兼容。"
         }
       ]
@@ -3102,7 +3102,7 @@
     "title": "实用软件",
     "hero": {
       "title": "企业用公用事业软件解决方案",
-      "description": "Winterfrost 专注于编程工具，帮助优化服务器性能、自动化后台任务并保障技术基础设施安全。我们专注于构建高度兼容的插件，以解决您技术系统中的具体运营问题。",
+      "description": "SoftBuild 专注于编程工具，帮助优化服务器性能、自动化后台任务并保障技术基础设施安全。我们专注于构建高度兼容的插件，以解决您技术系统中的具体运营问题。",
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-phan-mem-tien-ich-cho-doanh-nghiep.jpg",
       "imageAlt": "企业用公用事业软件解决方案",
       "primaryLabel": "直接联系",
@@ -3112,10 +3112,10 @@
       "label": "概述",
       "title": "利用实用软件优化性能",
       "paragraphs": [
-        "企业常常面临资源消耗巨大的手动流程或底层流程的不稳定性，这些都会影响运营。Winterfrost 提供了一种解决方案，用于编程自定义工具，用于自动数据处理、基础设施监控和内存优化。我们的解决方案消除系统错误，消除源代码冲突，确保核心应用始终处于最佳运行状态。"
+        "企业常常面临资源消耗巨大的手动流程或底层流程的不稳定性，这些都会影响运营。SoftBuild 提供了一种解决方案，用于编程自定义工具，用于自动数据处理、基础设施监控和内存优化。我们的解决方案消除系统错误，消除源代码冲突，确保核心应用始终处于最佳运行状态。"
       ],
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Toi-uu-hieu-suat-voi-phan-mem-tien-ich-HomeNest-Viet-Nam.jpg",
-      "imageAlt": "使用实用软件优化性能 - Winterfrost"
+      "imageAlt": "使用实用软件优化性能 - SoftBuild"
     },
     "counters": [
       {
@@ -3184,7 +3184,7 @@
     },
     "why": {
       "label": "为什么选择我们？",
-      "title": "企业选择Winterfrost公用软件解决方案的原因",
+      "title": "企业选择SoftBuild公用软件解决方案的原因",
       "items": [
         {
           "number": "1",
@@ -3194,7 +3194,7 @@
         {
           "number": "2",
           "title": "解决运营瓶颈",
-          "description": "Winterfrost不提供大规模工具，而是深入客户独特的技术基础设施，编程能够准确处理市场上现有软件无法解决的瓶颈的工具。这为企业创造了真实且即时的使用价值。"
+          "description": "SoftBuild不提供大规模工具，而是深入客户独特的技术基础设施，编程能够准确处理市场上现有软件无法解决的瓶颈的工具。这为企业创造了真实且即时的使用价值。"
         },
         {
           "number": "3",
@@ -3214,14 +3214,14 @@
         {
           "number": "6",
           "title": "所有权与源代码转移",
-          "description": "Winterfrost 提供完整的源代码和详细的技术文档，完全消除对开发者的依赖。企业可以完全主动地根据自身开发路线图升级、编辑或整合新功能，无需额外支付版税费用。"
+          "description": "SoftBuild 提供完整的源代码和详细的技术文档，完全消除对开发者的依赖。企业可以完全主动地根据自身开发路线图升级、编辑或整合新功能，无需额外支付版税费用。"
         }
       ]
     },
     "cta": {
       "label": "立即联系！",
       "title": "优化企业技术基础设施的性能",
-      "description": "请联系Winterfrost的工程团队，编写专用工具软件并自动化运营，以提升技术系统的稳定性。",
+      "description": "请联系SoftBuild的工程团队，编写专用工具软件并自动化运营，以提升技术系统的稳定性。",
       "buttonLabel": "立即获取建议",
       "image": "/images/people/cta/winterfrost/chuyen-vien-nam-tre.png",
       "imageAlt": "专家顾问"
@@ -3319,7 +3319,7 @@
       "items": [
         {
           "q": "公用事业软件会减慢企业关键系统的速度吗？",
-          "a": "没有。Winterfrost 优化源代码，使工具独立运行，并最大限度地减少服务器资源消耗。我们设置了低优先级的后台进程，以确保附加软件不会占用核心业务应用的带宽或内存。"
+          "a": "没有。SoftBuild 优化源代码，使工具独立运行，并最大限度地减少服务器资源消耗。我们设置了低优先级的后台进程，以确保附加软件不会占用核心业务应用的带宽或内存。"
         },
         {
           "q": "这些工具在各种操作系统平台上都能可靠地工作吗？",
@@ -3349,7 +3349,7 @@
     "title": "根据需要开发应用程序",
     "hero": {
       "title": "按需移动应用设计与开发",
-      "description": "Winterfrost 在两个 iOS 和 Android 平台上提供定制移动应用开发服务。我们专注于构建稳定的软件架构、优化用户体验的界面，以及与现有数据系统的灵活集成。",
+      "description": "SoftBuild 在两个 iOS 和 Android 平台上提供定制移动应用开发服务。我们专注于构建稳定的软件架构、优化用户体验的界面，以及与现有数据系统的灵活集成。",
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Thiet-ke-va-phat-trien-ung-dung-di-dong-theo-yeu-cau.jpg",
       "imageAlt": "按需移动应用设计与开发",
       "primaryLabel": "直接联系",
@@ -3360,10 +3360,10 @@
       "title": "移动应用的总体状态",
       "paragraphs": [
         "由于界面复杂、速度缓慢和操作不稳定，许多移动应用的下架率很高。与内部系统如ERP/CRM的连接导致数据碎片化、安全负担增加和每次操作系统更新时的高昂维护成本，降低企业的投资效率。",
-        "Winterfrost 开发 iOS 和 Android 跨平台应用，采用最佳源代码，确保高速和绝对稳定性。该解决方案基于集中式数据架构，便于与现有管理系统实现实际集成和同步。我们建立了多层安全，并致力于主动提供技术支持，确保应用符合最新标准。"
+        "SoftBuild 开发 iOS 和 Android 跨平台应用，采用最佳源代码，确保高速和绝对稳定性。该解决方案基于集中式数据架构，便于与现有管理系统实现实际集成和同步。我们建立了多层安全，并致力于主动提供技术支持，确保应用符合最新标准。"
       ],
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Ung-dung-tuy-chinh-HomeNest-Viet-Nam.jpg",
-      "imageAlt": "自定义应用 - Winterfrost"
+      "imageAlt": "自定义应用 - SoftBuild"
     },
     "counters": [
       {
@@ -3432,7 +3432,7 @@
     },
     "why": {
       "label": "为什么选择我们？",
-      "title": "为什么企业应该信任Winterfrost服务",
+      "title": "为什么企业应该信任SoftBuild服务",
       "items": [
         {
           "number": "1",
@@ -3462,14 +3462,14 @@
         {
           "number": "6",
           "title": "完全拥有该应用",
-          "description": "项目完成后，Winterfrost将全部源代码和技术文档交给了他们。企业完全拥有产品，积极升级未来。"
+          "description": "项目完成后，SoftBuild将全部源代码和技术文档交给了他们。企业完全拥有产品，积极升级未来。"
         }
       ]
     },
     "cta": {
       "label": "立即联系！",
       "title": "准备好拥有自己的移动应用了吗？",
-      "description": "让Winterfrost将您的想法实现为稳定、安全、并带来真实业务绩效的技术产品。我们承诺在整个运营和升级过程中交付所有源代码及相关业务。",
+      "description": "让SoftBuild将您的想法实现为稳定、安全、并带来真实业务绩效的技术产品。我们承诺在整个运营和升级过程中交付所有源代码及相关业务。",
       "buttonLabel": "立即获取建议",
       "image": "/images/people/cta/winterfrost/nhan-vien-cong-nghe-tre.png",
       "imageAlt": "专家顾问"
@@ -3482,7 +3482,7 @@
           "text": "按需应用开发\n应用设计\n应用 Nivora Connect\n查看项目"
         },
         {
-          "href": "https://winterfrost.tech/case-studies/app-grevia-lawn",
+          "href": "https://softbuildvn.vercel.app/case-studies/app-grevia-lawn",
           "text": "按需应用开发\n应用设计\n阿普格雷维亚草坪\n查看项目"
         }
       ],
@@ -3498,44 +3498,44 @@
       ]
     },
     "services": {
-      "title": "Winterfrost 的定制应用设计服务",
-      "intro": "Winterfrost 提供全面的移动应用开发服务，从界面设计到系统编程和运行。我们专注于打造稳定、易用且能灵活整合企业现有技术基础设施的技术解决方案。",
+      "title": "SoftBuild 的定制应用设计服务",
+      "intro": "SoftBuild 提供全面的移动应用开发服务，从界面设计到系统编程和运行。我们专注于打造稳定、易用且能灵活整合企业现有技术基础设施的技术解决方案。",
       "items": [
         {
           "title": "为企业设计应用程序",
           "description": "为人力资源管理、流程审批、项目进度跟踪和现场报告开发内部应用。该服务专注于将业务表单和工作流程数字化到移动设备上。",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Thiet-ke-ung-dung-cho-doanh-nghiep-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "为企业设计应用 - Winterfrost"
+          "imageAlt": "为企业设计应用 - SoftBuild"
         },
         {
           "title": "销售应用开发",
           "description": "设计一个包含完整模块的在线购物应用：购物车、产品搜索、支付网关集成和订单跟踪。我们专注于构建简洁的采购流程，以优化成交率。",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phat-trien-app-ban-hang-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "销售应用开发 - Winterfrost"
+          "imageAlt": "销售应用开发 - SoftBuild"
         },
         {
           "title": "按需应用设计",
-          "description": "基于不同的商业理念或初创模式编程应用。Winterfrost 从打造独家功能到构建自己的数据结构，确保与市场上的产品不重复。",
+          "description": "基于不同的商业理念或初创模式编程应用。SoftBuild 从打造独家功能到构建自己的数据结构，确保与市场上的产品不重复。",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Thiet-ke-ung-dung-theo-yeu-cau-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "自定义应用设计 - Winterfrost"
+          "imageAlt": "自定义应用设计 - SoftBuild"
         },
         {
           "title": "UXUI 标准接口设计",
           "description": "提供用户行为研究、骨架图设计以及完整的应用图形界面。这是一项面向已有编程团队但需要专业且易用设计的企业的服务。",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Thiet-ke-giao-dien-chuan-UXUI-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "UXUI 标准接口设计 - Winterfrost"
+          "imageAlt": "UXUI 标准接口设计 - SoftBuild"
         },
         {
           "title": "构建后端系统并连接API",
           "description": "搭建服务器基础设施，构建数据库和技术网关。该服务帮助移动应用直接连接并同步现有管理软件，如ERP、CRM或企业网站。",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Xay-dung-he-thong-Backend-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "构建后端系统 - Winterfrost"
+          "imageAlt": "构建后端系统 - SoftBuild"
         },
         {
           "title": "应用升级与维护",
           "description": "执行将应用上架至App Store/Google Play的流程，并保持稳定运行。我们负责修复技术漏洞、更新新功能，并升级源代码，使应用兼容最新版本的 iOS 和 Android 操作系统。",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Nang-cap-va-bao-tri-ung-dung-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "应用升级与维护 - Winterfrost"
+          "imageAlt": "应用升级与维护 - SoftBuild"
         }
       ],
       "cta": "探索所有服务"
@@ -3571,7 +3571,7 @@
           "number": "05",
           "tag": "发行",
           "title": "发布到App Store和Google Play",
-          "description": "完成技术程序，并将申请上传到国际商店。Winterfrost密切关注苹果和谷歌的审核流程，确保应用按时发布。"
+          "description": "完成技术程序，并将申请上传到国际商店。SoftBuild密切关注苹果和谷歌的审核流程，确保应用按时发布。"
         },
         {
           "number": "06",
@@ -3589,7 +3589,7 @@
       "items": [
         {
           "q": "开发基于该数据计算的移动应用成本是多少？",
-          "a": "成本由功能数量、用户界面复杂度以及后端基础设施的需求决定。Winterfrost在进行企业调查并与企业达成解决方案文件后，提供详细报价。"
+          "a": "成本由功能数量、用户界面复杂度以及后端基础设施的需求决定。SoftBuild在进行企业调查并与企业达成解决方案文件后，提供详细报价。"
         },
         {
           "q": "从应用开始到上线商店需要多长时间？",
@@ -3597,7 +3597,7 @@
         },
         {
           "q": "切换完成后，企业能否拥有整个源代码？",
-          "a": "是的。项目结束后，Winterfrost交付了所有源代码及相关技术架构文件。企业完全拥有产品，有权主动升级或转移运营。"
+          "a": "是的。项目结束后，SoftBuild交付了所有源代码及相关技术架构文件。企业完全拥有产品，有权主动升级或转移运营。"
         },
         {
           "q": "这个应用能在 iOS 和 Android 操作系统上同步工作吗？",
@@ -3608,7 +3608,7 @@
           "a": "我们采用端到端数据加密标准，并建立多层认证系统。在发布前，该应用会经过严格的安全测试，以检测并解决潜在的技术漏洞。"
         },
         {
-          "q": "当 IOS 和 Android 操作系统发布新版本时，Winterfrost 支持更新吗？",
+          "q": "当 IOS 和 Android 操作系统发布新版本时，SoftBuild 支持更新吗？",
           "a": "是的。我们定期提供维护服务，检查兼容性并根据谷歌和苹果的变更升级源代码。这确保了你的应用程序始终能在最新设备上稳定运行。"
         }
       ]
@@ -3619,7 +3619,7 @@
     "title": "企业融资",
     "hero": {
       "title": "企业金融软件开发",
-      "description": "Winterfrost 提供超安全、可扩展且完全合规的企业财务软件解决方案。我们支持金融机构现代化其过时的核心银行系统，构建自动化资产管理平台，提供与现代金融生态系统完美兼容的技术基础设施。",
+      "description": "SoftBuild 提供超安全、可扩展且完全合规的企业财务软件解决方案。我们支持金融机构现代化其过时的核心银行系统，构建自动化资产管理平台，提供与现代金融生态系统完美兼容的技术基础设施。",
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Tai-chinh-doanh-nghiep.jpg",
       "imageAlt": "企业融资",
       "primaryLabel": "直接联系",
@@ -3630,7 +3630,7 @@
       "title": "将旧金融体系转型为新一代数字架构",
       "paragraphs": [
         "许多金融机构仍在使用旧的核心银行系统，这些系统难以升级且维护成本极高。缺乏现代API网关使得与第三方应用的集成变得复杂且风险大。此外，处理大量数据同时确保严格合规法规，对于过时系统来说是一个难题。",
-        "Winterfrost 提供全面的金融基础设施现代化解决方案。我们致力于将遗留系统转型为现代微服务架构，构建自动化资产管理平台和智能风险管理系统。我们的解决方案帮助您优化运营绩效，掌握数据，并准备好满足全球金融市场最严格的标准。"
+        "SoftBuild 提供全面的金融基础设施现代化解决方案。我们致力于将遗留系统转型为现代微服务架构，构建自动化资产管理平台和智能风险管理系统。我们的解决方案帮助您优化运营绩效，掌握数据，并准备好满足全球金融市场最严格的标准。"
       ],
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Chuyen-doi-he-thong-tai-chinh-cu-sang-kien-truc-so-the-he-moi.jpg",
       "imageAlt": "将旧金融体系转变为新一代数字架构"
@@ -3702,7 +3702,7 @@
     },
     "why": {
       "label": "为什么选择我们？",
-      "title": "为什么选择Winterfrost的金融假说",
+      "title": "为什么选择SoftBuild的金融假说",
       "items": [
         {
           "number": "1",
@@ -3732,14 +3732,14 @@
         {
           "number": "6",
           "title": "优化总拥有成本",
-          "description": "Winterfrost 的解决方案降低了长期运营成本，并消除了包装供应商的高额版税费用。"
+          "description": "SoftBuild 的解决方案降低了长期运营成本，并消除了包装供应商的高额版税费用。"
         }
       ]
     },
     "cta": {
       "label": "立即联系！",
       "title": "建立企业财务管理基础设施",
-      "description": "请联系Winterfrost的工程团队，构建实时现金流管理系统，并自动化结算报告流程，优化您的企业治理绩效。",
+      "description": "请联系SoftBuild的工程团队，构建实时现金流管理系统，并自动化结算报告流程，优化您的企业治理绩效。",
       "buttonLabel": "立即联系我们",
       "image": "/images/people/cta/winterfrost/chuyen-vien-nu.png",
       "imageAlt": "专家顾问"
@@ -3747,7 +3747,7 @@
     "cases": null,
     "services": {
       "title": "下一代企业金融服务",
-      "intro": "Winterfrost部署解决方案，现代化核心银行系统，构建资产管理和智能风险管理平台，帮助企业掌握现代金融基础设施，实现大规模安全和高效运营。",
+      "intro": "SoftBuild部署解决方案，现代化核心银行系统，构建资产管理和智能风险管理平台，帮助企业掌握现代金融基础设施，实现大规模安全和高效运营。",
       "items": [
         {
           "title": "现代化核心银行系统",
@@ -3801,7 +3801,7 @@
           "number": "02",
           "tag": "设计",
           "title": "建筑设计与安全性",
-          "description": "Winterfrost 基于微服务架构构建技术图纸，使系统易于扩展和维护。数据安全层和API连接协议被严格建立，以确保财务信息从设计阶段起的完整性。"
+          "description": "SoftBuild 基于微服务架构构建技术图纸，使系统易于扩展和维护。数据安全层和API连接协议被严格建立，以确保财务信息从设计阶段起的完整性。"
         },
         {
           "number": "03",
@@ -3819,13 +3819,13 @@
           "number": "05",
           "tag": "实际操作",
           "title": "部署与转型",
-          "description": "我们允许新系统与旧系统并行运行一段时间以验证稳定性。当所有指示器都满意后，Winterfrost 会在不中断现有事务的情况下完成新系统的完全过渡。"
+          "description": "我们允许新系统与旧系统并行运行一段时间以验证稳定性。当所有指示器都满意后，SoftBuild 会在不中断现有事务的情况下完成新系统的完全过渡。"
         },
         {
           "number": "06",
           "tag": "交接",
           "title": "源代码切换与维护支持",
-          "description": "Winterfrost 将所有源代码和操作手册交给了企业的技术团队。我们全天候维护，并定期更新安全补丁，确保系统始终处于最佳状态。"
+          "description": "SoftBuild 将所有源代码和操作手册交给了企业的技术团队。我们全天候维护，并定期更新安全补丁，确保系统始终处于最佳状态。"
         }
       ],
       "cta": "开始构建您的产品！"
@@ -3837,14 +3837,14 @@
       "items": [
         {
           "q": "从旧的核心银行系统升级会干扰现有交易吗？",
-          "a": "没有。Winterfrost采用并行部署或分阶段转换的策略。我们设置了中间网关，确保旧系统和新系统之间的数据始终同步，确保所有客户交易在整个升级过程中保持顺畅。"
+          "a": "没有。SoftBuild采用并行部署或分阶段转换的策略。我们设置了中间网关，确保旧系统和新系统之间的数据始终同步，确保所有客户交易在整个升级过程中保持顺畅。"
         },
         {
           "q": "我如何确保迁移到新系统时财务数据不会丢失？",
           "a": "我们通过多种严格的审计来实施数据迁移流程，包括自动数据对账和迁移演练。从账户余额到交易历史的所有信息在新系统正式投入运行前都会经过100%的完整性验证。"
         },
         {
-          "q": "Winterfrost 的系统支持法律合规报告的自动化吗？",
+          "q": "SoftBuild 的系统支持法律合规报告的自动化吗？",
           "a": "是的。我们内置了监管科技工具，能够根据国际财务报告准则（IFRS）和央行监管等国际标准自动汇总数据并导出报告。这有助于企业节省时间，确保在监管机构面前获得绝对准确性。"
         },
         {
@@ -3853,10 +3853,10 @@
         },
         {
           "q": "企业在交接后有权拥有和编辑源代码吗？",
-          "a": "绝对是。Winterfrost 交付了 100% 的源代码和技术架构文档。企业对产品拥有全部所有权，可以主动维护、升级或根据业务战略定制功能，而无需依赖任何供应商。"
+          "a": "绝对是。SoftBuild 交付了 100% 的源代码和技术架构文档。企业对产品拥有全部所有权，可以主动维护、升级或根据业务战略定制功能，而无需依赖任何供应商。"
         },
         {
-          "q": "Winterfrost 如何保护金融数据免受网络攻击？",
+          "q": "SoftBuild 如何保护金融数据免受网络攻击？",
           "a": "我们构建了多层安全系统，从静态数据加密到交易传输安全。该系统集成入侵检测技术，并通过严格的渗透测试，确保金融基础设施始终具备抵御网络威胁的能力。"
         }
       ]
@@ -3867,7 +3867,7 @@
     "title": "电子商务",
     "hero": {
       "title": "全面的电子商务解决方案",
-      "description": "Winterfrost 构建高负载电商基础设施，确保处理大量流量且不牺牲运营效率。我们专注于开发定制的无接口Headless Commerce平台、多卖家电子商务平台以及订单履行自动化系统。该解决方案优先打造顺畅的交易环境以最大化转化率，并结合深入的集成安全管理后台流程。",
+      "description": "SoftBuild 构建高负载电商基础设施，确保处理大量流量且不牺牲运营效率。我们专注于开发定制的无接口Headless Commerce平台、多卖家电子商务平台以及订单履行自动化系统。该解决方案优先打造顺畅的交易环境以最大化转化率，并结合深入的集成安全管理后台流程。",
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-thuong-mai-dien-toan-dien.jpg",
       "imageAlt": "全面的电子商务解决方案",
       "primaryLabel": "直接联系",
@@ -3878,7 +3878,7 @@
       "title": "电子商务平台的现状",
       "paragraphs": [
         "许多企业面临电商系统加载速度缓慢和用户体验复杂，导致购物车弃置率较高。在线销售渠道与仓库和订单管理系统之间的联系缺失，扭曲了实际数据。此外，支付安全风险和网购高峰期载货能力不足的风险，损害了企业的声誉和收入。",
-        "Winterfrost 基于微服务架构开发电子商务系统，确保快速响应时间和承受数千次并发访问的能力。我们直接连接支付网关、发货单元，并实现与企业ERP/CRM管理系统的物理同步。该解决方案侧重于优化采购流程，建立多层安全，并提供深入的数据分析工具，以支持高效的业务运营。"
+        "SoftBuild 基于微服务架构开发电子商务系统，确保快速响应时间和承受数千次并发访问的能力。我们直接连接支付网关、发货单元，并实现与企业ERP/CRM管理系统的物理同步。该解决方案侧重于优化采购流程，建立多层安全，并提供深入的数据分析工具，以支持高效的业务运营。"
       ],
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Thuc-trang-cua-san-thuong-mai-dien-tu.jpg",
       "imageAlt": "电子商务平台的现状"
@@ -3907,7 +3907,7 @@
     ],
     "values": {
       "title": "应用技术时的实际价值",
-      "intro": "应用Winterfrost技术帮助企业自动化销售流程，优化转化率，集中管理数据，打造可持续且安全的在线运营平台。",
+      "intro": "应用SoftBuild技术帮助企业自动化销售流程，优化转化率，集中管理数据，打造可持续且安全的在线运营平台。",
       "items": [
         {
           "title": "自动化操作流程",
@@ -3950,7 +3950,7 @@
     },
     "why": {
       "label": "为什么选择我们？",
-      "title": "为什么企业应该选择Winterfrost？",
+      "title": "为什么企业应该选择SoftBuild？",
       "items": [
         {
           "number": "1",
@@ -3975,19 +3975,19 @@
         {
           "number": "5",
           "title": "企业完全拥有源代码",
-          "description": "完成后，Winterfrost 交付了完整的产品源代码。企业拥有全部所有权，可以自行升级或更换运营单元，无需强制。"
+          "description": "完成后，SoftBuild 交付了完整的产品源代码。企业拥有全部所有权，可以自行升级或更换运营单元，无需强制。"
         },
         {
           "number": "6",
           "title": "实用且有效的功能咨询",
-          "description": "我们专注于打造那些对销售真正必要的功能。Winterfrost 的解决方案优先帮助客户更快完成订单，并为企业节省管理成本。"
+          "description": "我们专注于打造那些对销售真正必要的功能。SoftBuild 的解决方案优先帮助客户更快完成订单，并为企业节省管理成本。"
         }
       ]
     },
     "cta": {
       "label": "立即联系！",
       "title": "今天就搭建一个电商平台吧！",
-      "description": "让Winterfrost陪伴你构建一个稳定、高负载且全面集成的销售平台。我们致力于将源代码的全部所有权交出，使企业能够主动可持续地开发并全面掌握业务数据。",
+      "description": "让SoftBuild陪伴你构建一个稳定、高负载且全面集成的销售平台。我们致力于将源代码的全部所有权交出，使企业能够主动可持续地开发并全面掌握业务数据。",
       "buttonLabel": "立即收到解决方案建议",
       "image": "/images/people/cta/winterfrost/chuyen-vien-nu.png",
       "imageAlt": "专家顾问"
@@ -3996,15 +3996,15 @@
       "title": "Case Studies",
       "links": [
         {
-          "href": "https://winterfrost.tech/case-studies/website-virela-interior",
+          "href": "https://softbuildvn.vercel.app/case-studies/website-virela-interior",
           "text": "建筑与施工\n电子商务\n网站设计\n维雷拉内部网站\n查看项目"
         },
         {
-          "href": "https://winterfrost.tech/case-studies/website-ceranova",
+          "href": "https://softbuildvn.vercel.app/case-studies/website-ceranova",
           "text": "建筑与施工\n电子商务\n网站设计\n网站 Ceranova\n查看项目"
         },
         {
-          "href": "https://winterfrost.tech/case-studies/website-mocvan-tea",
+          "href": "https://softbuildvn.vercel.app/case-studies/website-mocvan-tea",
           "text": "零售\n电子商务\n网站设计\nMocvan茶叶网站\n查看项目"
         }
       ],
@@ -4016,44 +4016,44 @@
       ]
     },
     "services": {
-      "title": "Winterfrost 的电子商务服务",
-      "intro": "Winterfrost 提供深入的编程和集成服务，将在线销售漏斗转变为自动化操作系统。我们专注于构建独立的技术基础设施，帮助企业全面掌握数据和交易流程。",
+      "title": "SoftBuild 的电子商务服务",
+      "intro": "SoftBuild 提供深入的编程和集成服务，将在线销售漏斗转变为自动化操作系统。我们专注于构建独立的技术基础设施，帮助企业全面掌握数据和交易流程。",
       "items": [
         {
           "title": "开发定制销售平台",
           "description": "根据企业的独特需求开发销售网站和应用，而不是依赖现有模板。该服务确保系统功能齐全，易于扩展，并在最高层面优化页面加载速度。",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phat-trien-nen-tang-ban-hang-tuy-chinh-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "定制销售平台开发 - Winterfrost"
+          "imageAlt": "定制销售平台开发 - SoftBuild"
         },
         {
           "title": "建设多卖家商业楼层",
           "description": "建立多家供应商参与的大型交换模式技术基础设施。该系统包含全系列展位管理模块、自动佣金分配以及每个卖家的服务质量控制。",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Xay-dung-san-thuong-mai-da-nguoi-ban-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "构建多卖家交易平台 - Winterfrost"
+          "imageAlt": "构建多卖家交易平台 - SoftBuild"
         },
         {
           "title": "实施无头商务解决方案",
           "description": "采用现代架构，将显示接口和数据处理设备分开。该解决方案使应用在任何设备上极其快速地运行，提升安全性，使企业能够灵活地更改界面而不影响后台销售系统。",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Trien-khai-giai-phap-Headless-Commerce-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "无头商会解决方案实现 - Winterfrost"
+          "imageAlt": "无头商会解决方案实现 - SoftBuild"
         },
         {
           "title": "行政系统与物流的连接",
           "description": "实现销售渠道与仓库管理、会计和运输单元软件之间的直接数据关联。所有关于库存、订单状态和收入的信息都会同步自动更新，有助于减少人工操作造成的错误。",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Ket-noi-he-thong-quan-tri-va-kho-van-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "物流与行政系统连接 - Winterfrost"
+          "imageAlt": "物流与行政系统连接 - SoftBuild"
         },
         {
           "title": "支付网关集成与交易安全",
           "description": "建立与银行、电子钱包和支付中介机构的安全技术连接。我们采用严格的数据加密标准，保护客户的财务信息和企业声誉。",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Tich-hop-cong-thanh-toan-va-bao-mat-giao-dich-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "支付网关集成与交易安全 - Winterfrost"
+          "imageAlt": "支付网关集成与交易安全 - SoftBuild"
         },
         {
           "title": "维护与性能优化",
           "description": "监控并精细调优源代码，确保网站在购物高峰期始终顺畅运行。该服务包括定期的漏洞检查、新功能更新，并确保系统在高流量时不会被中断。",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Bao-tri-va-toi-uu-hieu-suat-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "维护与性能优化 - Winterfrost"
+          "imageAlt": "维护与性能优化 - SoftBuild"
         }
       ],
       "cta": "探索所有服务"
@@ -4089,7 +4089,7 @@
           "number": "05",
           "tag": "操作",
           "title": "产品部署与发布",
-          "description": "配置服务器，安装安全证书，正式让系统投入运行。Winterfrost 支持企业输入初始产品数据，并指导员工掌握管理页面的使用。"
+          "description": "配置服务器，安装安全证书，正式让系统投入运行。SoftBuild 支持企业输入初始产品数据，并指导员工掌握管理页面的使用。"
         },
         {
           "number": "06",
@@ -4107,7 +4107,7 @@
       "items": [
         {
           "q": "基于什么计算来构建电子商务系统的成本？",
-          "a": "成本取决于拍卖、多卖家、负载基础设施需求以及需要集成的第三方系统数量等功能的复杂程度。Winterfrost 在对企业实际需求和规模进行全面调查后，提供详细报价。"
+          "a": "成本取决于拍卖、多卖家、负载基础设施需求以及需要集成的第三方系统数量等功能的复杂程度。SoftBuild 在对企业实际需求和规模进行全面调查后，提供详细报价。"
         },
         {
           "q": "该系统能否连接现有的会计和仓储管理软件？",
@@ -4115,18 +4115,18 @@
         },
         {
           "q": "我如何确保网站在流量激增时不会崩溃？",
-          "a": "Winterfrost 采用现代系统架构和具备自动扩展能力的云计算基础设施。我们优化源代码和数据库结构，确保系统始终顺畅运行，即使在高峰期有数千人同时访问。"
+          "a": "SoftBuild 采用现代系统架构和具备自动扩展能力的云计算基础设施。我们优化源代码和数据库结构，确保系统始终顺畅运行，即使在高峰期有数千人同时访问。"
         },
         {
           "q": "交接后，企业是否拥有源代码的全部所有权？",
-          "a": "是的。项目完成后，Winterfrost立即交付了所有源代码和技术文档。企业对产品拥有全部所有权，能够主动升级或更换运营单元，无需法律或技术障碍。"
+          "a": "是的。项目完成后，SoftBuild立即交付了所有源代码和技术文档。企业对产品拥有全部所有权，能够主动升级或更换运营单元，无需法律或技术障碍。"
         },
         {
           "q": "系统上的支付交易是如何保障安全的？",
           "a": "我们采用端到端数据加密标准，并集成了通过国际安全证书的信誉良好的支付网关。该系统配备了多层认证和定期漏洞审查，确保绝对保护客户的财务信息。"
         },
         {
-          "q": "Winterfrost 的平台支持SEO和营销效果如何？",
+          "q": "SoftBuild 的平台支持SEO和营销效果如何？",
           "a": "是的。所有源代码均依据最新的谷歌技术标准进行优化，确保快速的页面加载速度和对搜索引擎友好的数据结构。系统还内置用户行为追踪工具，以有效服务营销活动。"
         }
       ]
@@ -4137,7 +4137,7 @@
     "title": "运输与物流",
     "hero": {
       "title": "交通与物流数字化转型解决方案",
-      "description": "Winterfrost提供深入的运输管理系统编程服务，专注于货物流转自动化和运营成本的准确控制。我们设计软件架构，帮助企业整合来自多个运营源的数据，优化供应链绩效。",
+      "description": "SoftBuild提供深入的运输管理系统编程服务，专注于货物流转自动化和运营成本的准确控制。我们设计软件架构，帮助企业整合来自多个运营源的数据，优化供应链绩效。",
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-chuyen-doi-so-van-tai-va-logistics.jpg",
       "imageAlt": "交通与物流数字化转型解决方案",
       "primaryLabel": "直接联系",
@@ -4147,7 +4147,7 @@
       "label": "概述",
       "title": "优化物流，数字化运输流程",
       "paragraphs": [
-        "运输行业面临的最大挑战是路线缺乏透明度，以及因人工协调而导致的资源浪费。Winterfrost 通过建立一个集成路线优化算法和实时行程监控机制的集中交通管理系统，解决了这一问题。我们的解决方案确保仓库、车队和调度员之间的数据一致性，以最小化空闲时间并最大化车辆负载。"
+        "运输行业面临的最大挑战是路线缺乏透明度，以及因人工协调而导致的资源浪费。SoftBuild 通过建立一个集成路线优化算法和实时行程监控机制的集中交通管理系统，解决了这一问题。我们的解决方案确保仓库、车队和调度员之间的数据一致性，以最小化空闲时间并最大化车辆负载。"
       ],
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Toi-uu-hoa-chuoi-cung-ung-va-so-hoa-quy-trinh-van-tai.jpg",
       "imageAlt": "优化供应链，数字化运输流程"
@@ -4219,7 +4219,7 @@
     },
     "why": {
       "label": "为什么选择我们？",
-      "title": "为什么企业应该选择Winterfrost作为合作伙伴",
+      "title": "为什么企业应该选择SoftBuild作为合作伙伴",
       "items": [
         {
           "number": "1",
@@ -4256,14 +4256,14 @@
     "cta": {
       "label": "立即联系！",
       "title": "建设智能交通和物流基础设施",
-      "description": "与Winterfrost的工程团队联系，构建集中式运输协调系统，优化供应链，提升企业运营效率。",
+      "description": "与SoftBuild的工程团队联系，构建集中式运输协调系统，优化供应链，提升企业运营效率。",
       "buttonLabel": "获取系统架构咨询",
       "image": "/images/people/cta/winterfrost/quan-ly-nam.png",
       "imageAlt": "专家顾问"
     },
     "cases": null,
     "services": {
-      "title": "Winterfrost 的物流核心服务",
+      "title": "SoftBuild 的物流核心服务",
       "intro": "编程项目专注于数字化供应链中的每一个接触点。",
       "items": [
         {
@@ -4348,7 +4348,7 @@
       "items": [
         {
           "q": "该系统兼容不同类型的GPS导航设备吗？",
-          "a": "是的，Winterfrost 通过 API 协议设计灵活的数据摄取网关，直接连接市面上大多数类型的行程监控硬件。我们确保外围设备的数据标准化，并同步流向中央系统。"
+          "a": "是的，SoftBuild 通过 API 协议设计灵活的数据摄取网关，直接连接市面上大多数类型的行程监控硬件。我们确保外围设备的数据标准化，并同步流向中央系统。"
         },
         {
           "q": "如何确保车辆进入冗余区时数据不会丢失？",
@@ -4378,7 +4378,7 @@
     "title": "医疗",
     "hero": {
       "title": "医疗和医疗软件开发",
-      "description": "Winterfrost 是一家专注于为美国、欧洲、加拿大、澳大利亚、新加坡和日本等高需求市场的服务提供商、付款方和数字健康团队开发定制医疗应用的公司。 我们帮助合作伙伴降低部署风险，优化开发成本，并确保遵守最严格的健康安全标准。",
+      "description": "SoftBuild 是一家专注于为美国、欧洲、加拿大、澳大利亚、新加坡和日本等高需求市场的服务提供商、付款方和数字健康团队开发定制医疗应用的公司。 我们帮助合作伙伴降低部署风险，优化开发成本，并确保遵守最严格的健康安全标准。",
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phat-trien-phan-mem-y-te-va-cham-soc-suc-khoe.jpg",
       "imageAlt": "医疗和医疗软件开发",
       "primaryLabel": "直接联系",
@@ -4389,7 +4389,7 @@
       "title": "卫生部门的总体状况",
       "paragraphs": [
         "医疗机构常面临高昂的技术开发成本和复杂的实施流程，这很容易导致运营风险。分散的患者数据管理、缺乏连接以及国际安全标准的障碍使数字化变得困难。此外，人工智能在诊断和治疗中的应用仍然是许多传统医疗企业面临的重大挑战。",
-        "Winterfrost拥有一支高度专业化的软件工程师团队，专注于将人工智能和机器学习整合进医疗基础设施。我们的解决方案帮助国际合作伙伴构建智能健康系统，从医疗记录管理到深入的数据分析工具。我们专注于降低技术风险和优化投资成本，同时保持对全球健康数据安全标准的绝对合规。"
+        "SoftBuild拥有一支高度专业化的软件工程师团队，专注于将人工智能和机器学习整合进医疗基础设施。我们的解决方案帮助国际合作伙伴构建智能健康系统，从医疗记录管理到深入的数据分析工具。我们专注于降低技术风险和优化投资成本，同时保持对全球健康数据安全标准的绝对合规。"
       ],
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Tinh-hinh-chung-ve-linh-vuc-y-te.jpg",
       "imageAlt": "卫生领域的总体状况"
@@ -4461,12 +4461,12 @@
     },
     "why": {
       "label": "为什么选择我们？",
-      "title": "为什么选择Winterfrost的医疗软件开发？",
+      "title": "为什么选择SoftBuild的医疗软件开发？",
       "items": [
         {
           "number": "1",
           "title": "人工智能与机器学习专家",
-          "description": "Winterfrost的工程师团队在将人工智能融入现代数字健康解决方案方面具备深入能力。"
+          "description": "SoftBuild的工程师团队在将人工智能融入现代数字健康解决方案方面具备深入能力。"
         },
         {
           "number": "2",
@@ -4486,19 +4486,19 @@
         {
           "number": "5",
           "title": "最大限度降低部署风险",
-          "description": "有条不紊的技术流程和实践经验帮助Winterfrost预测并迅速处理开发过程中出现的问题。"
+          "description": "有条不紊的技术流程和实践经验帮助SoftBuild预测并迅速处理开发过程中出现的问题。"
         },
         {
           "number": "6",
           "title": "完全所有权移交",
-          "description": "Winterfrost 提供了完整的源代码和技术文档，使合作伙伴能够积极主动地运行和升级系统。"
+          "description": "SoftBuild 提供了完整的源代码和技术文档，使合作伙伴能够积极主动地运行和升级系统。"
         }
       ]
     },
     "cta": {
       "label": "立即联系！",
       "title": "医疗基础设施数字化与智能医院管理",
-      "description": "与Winterfrost的工程团队联系，建立集中管理系统，自动化医疗检查和治疗流程，提升医疗设施的运营效率。",
+      "description": "与SoftBuild的工程团队联系，建立集中管理系统，自动化医疗检查和治疗流程，提升医疗设施的运营效率。",
       "buttonLabel": "获取数字健康解决方案咨询",
       "image": "/images/people/cta/winterfrost/nhan-vien-cong-nghe-tre.png",
       "imageAlt": "专家顾问"
@@ -4507,15 +4507,15 @@
       "title": "Case Studies",
       "links": [
         {
-          "href": "https://winterfrost.tech/case-studies/website-edunora",
+          "href": "https://softbuildvn.vercel.app/case-studies/website-edunora",
           "text": "健康\n网站设计\n网站 Eedunora\n查看项目"
         },
         {
-          "href": "https://winterfrost.tech/case-studies/aeromint-cleanroom",
+          "href": "https://softbuildvn.vercel.app/case-studies/aeromint-cleanroom",
           "text": "零售\n健康\n网站设计\nAeromint 洁净室\n查看项目"
         },
         {
-          "href": "https://winterfrost.tech/case-studies/website-dentavera",
+          "href": "https://softbuildvn.vercel.app/case-studies/website-dentavera",
           "text": "零售\n健康\n网站设计\n丹塔维拉网站\n查看项目"
         }
       ],
@@ -4580,7 +4580,7 @@
           "number": "01",
           "tag": "调查",
           "title": "了解你的需求",
-          "description": "我们仔细研究您医院或医疗应用的运营情况。同时，Winterfrost制定了强制性安全标准，如美国HIPAA或欧洲GDPR，以确保系统从一开始就合法且安全。"
+          "description": "我们仔细研究您医院或医疗应用的运营情况。同时，SoftBuild制定了强制性安全标准，如美国HIPAA或欧洲GDPR，以确保系统从一开始就合法且安全。"
         },
         {
           "number": "02",
@@ -4604,7 +4604,7 @@
           "number": "05",
           "tag": "操作",
           "title": "系统安装与用户手册",
-          "description": "Winterfrost 支持在服务器和移动设备上安装软件。我们直接培训并指导医生和医务人员如何使用管理工具，确保每个人都能掌握新系统。"
+          "description": "SoftBuild 支持在服务器和移动设备上安装软件。我们直接培训并指导医生和医务人员如何使用管理工具，确保每个人都能掌握新系统。"
         },
         {
           "number": "06",
@@ -4621,7 +4621,7 @@
       "intro": "查找关于我们行业专用软件开发服务常见问题的答案。",
       "items": [
         {
-          "q": "Winterfrost 的软件是否符合国际医疗安全标准？",
+          "q": "SoftBuild 的软件是否符合国际医疗安全标准？",
           "a": "是的。我们设计的系统严格遵守如美国的HIPAA、欧洲的GDPR以及本地健康数据保护法规。所有患者信息均经过多层加密和严格控制，确保绝对隐私。"
         },
         {
@@ -4629,8 +4629,8 @@
           "a": "人工智能支持诊断图像分析、从历史数据预测疾病风险以及自动化复杂的医疗报告。这有助于医生做出更快、更准确的决策，减轻医疗团队的行政工作负担。"
         },
         {
-          "q": "与Winterfrost工程团队合作开展国际医疗项目有哪些优势？",
-          "a": "合作伙伴将获得高质量、深入的人工智能/机器学习技术人才，开发成本远高于美国或欧洲市场。Winterfrost 致力于保持全球标准的产品质量和工作流程。"
+          "q": "与SoftBuild工程团队合作开展国际医疗项目有哪些优势？",
+          "a": "合作伙伴将获得高质量、深入的人工智能/机器学习技术人才，开发成本远高于美国或欧洲市场。SoftBuild 致力于保持全球标准的产品质量和工作流程。"
         },
         {
           "q": "该系统能否连接到现有的医疗测量设备？",
@@ -4638,11 +4638,11 @@
         },
         {
           "q": "企业在切换后有权拥有整个源代码吗？",
-          "a": "是的。Winterfrost承诺在项目完成后交付100%的源代码和技术文档。企业拥有全部所有权，主动升级和扩展系统，无需依赖技术供应商。"
+          "a": "是的。SoftBuild承诺在项目完成后交付100%的源代码和技术文档。企业拥有全部所有权，主动升级和扩展系统，无需依赖技术供应商。"
         },
         {
-          "q": "Winterfrost 如何协助系统维护和更新？",
-          "a": "我们提供例行维护、全天候系统性能监控以及及时的技术处理支持。此外，Winterfrost将持续更新安全补丁并优化AI算法，确保软件始终正确且安全运行。"
+          "q": "SoftBuild 如何协助系统维护和更新？",
+          "a": "我们提供例行维护、全天候系统性能监控以及及时的技术处理支持。此外，SoftBuild将持续更新安全补丁并优化AI算法，确保软件始终正确且安全运行。"
         }
       ]
     }

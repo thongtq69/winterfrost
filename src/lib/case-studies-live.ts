@@ -7,7 +7,7 @@ export const liveCaseStudies: ContentPage[] = [
     image: "/images/projects/website-edunora/01-anh-bia-du-an.webp?v=wf-projects-pro-20260726",
     contentHtml: "",
     metaDescription:
-      "Edunora là nền tảng đào tạo được Winterfrost thiết kế với trải nghiệm trực quan, hiện đại và tối ưu trên mọi thiết bị.",
+      "Edunora là nền tảng đào tạo được SoftBuild thiết kế với trải nghiệm trực quan, hiện đại và tối ưu trên mọi thiết bị.",
     category: "Y tế",
     service: "Thiết kế Website",
   },

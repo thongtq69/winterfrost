@@ -170,14 +170,14 @@ export const dichVuDetailPages: Record<string, ServicePageContent> = {
 const dichVuItPage: ServicePageContent = {
   ...dichVuDetailPages["phat-trien-devops"],
   slug: "dich-vu-it",
-  metaTitle: "Dịch vụ IT toàn diện - Winterfrost",
+  metaTitle: "Dịch vụ IT toàn diện - SoftBuild",
   industries: dichVuDetailPages["thiet-ke-website"].industries,
   hero: {
     ...dichVuDetailPages["phat-trien-devops"].hero!,
     titleDark: "Dịch vụ IT toàn diện",
     titleLight: "",
     description:
-      "Winterfrost cung cấp các giải pháp quản trị hệ thống IT, bảo trì phần mềm và thiết lập hạ tầng công nghệ chuyên sâu. Chúng tôi tập trung vào việc duy trì tính ổn định của hệ thống, bảo mật dữ liệu và hỗ trợ doanh nghiệp làm chủ hoàn toàn các công cụ kỹ thuật để tập trung vào các hoạt động kinh doanh cốt lõi.",
+      "SoftBuild cung cấp các giải pháp quản trị hệ thống IT, bảo trì phần mềm và thiết lập hạ tầng công nghệ chuyên sâu. Chúng tôi tập trung vào việc duy trì tính ổn định của hệ thống, bảo mật dữ liệu và hỗ trợ doanh nghiệp làm chủ hoàn toàn các công cụ kỹ thuật để tập trung vào các hoạt động kinh doanh cốt lõi.",
     dashboardImage:
       "/images/migrated/homenest-software/wp-content/uploads/2026/04/Web-Application-Development-banner.jpg",
   },
@@ -187,7 +187,7 @@ const dichVuItPage: ServicePageContent = {
     headlineDark: "mang lại cho doanh nghiệp",
     description:
       "Số hóa và quản trị IT giúp tối ưu hóa chi phí vận hành, loại bỏ rủi ro gián đoạn kỹ thuật và đảm bảo tính liên tục của dữ liệu doanh nghiệp.",
-    ctaLabel: "Thảo luận với Winterfrost ngay!",
+    ctaLabel: "Thảo luận với SoftBuild ngay!",
     ctaHref: "tel:+84971450454",
     items: [
       {
@@ -219,7 +219,7 @@ const dichVuItPage: ServicePageContent = {
   features: {
     ...dichVuDetailPages["phat-trien-devops"].features!,
     headlineLight: "Các dịch vụ IT chuyên sâu",
-    headlineDark: "tại Winterfrost",
+    headlineDark: "tại SoftBuild",
     description:
       "Chúng tôi cung cấp giải pháp từ quản trị hệ thống hàng ngày đến triển khai các dự án công nghệ phức tạp, đảm bảo tính khớp nối hoàn toàn với nghiệp vụ đặc thù.",
     ctaLabel: "Nhận tư vấn ngay",
@@ -254,7 +254,7 @@ const dichVuItPage: ServicePageContent = {
   },
   howWeWork: {
     ...dichVuDetailPages["phat-trien-devops"].howWeWork!,
-    label: "Quy trình thực hiện dịch vụ IT của Winterfrost",
+    label: "Quy trình thực hiện dịch vụ IT của SoftBuild",
     ctaLabel: "",
     steps: [
       {
@@ -297,9 +297,9 @@ const dichVuItPage: ServicePageContent = {
   },
   benefits: {
     ...dichVuDetailPages["phat-trien-devops"].benefits!,
-    label: "Tại sao nên chọn Winterfrost ?",
+    label: "Tại sao nên chọn SoftBuild ?",
     headlineLight: "Vì sao doanh nghiệp nên chọn dịch vụ IT",
-    headlineDark: "tại Winterfrost ?",
+    headlineDark: "tại SoftBuild ?",
     items: [
       {
         num: "1",
@@ -309,7 +309,7 @@ const dichVuItPage: ServicePageContent = {
       {
         num: "2",
         title: "Bàn giao 100% mã nguồn",
-        desc: "Winterfrost cam kết chuyển giao toàn bộ mã nguồn ngay sau khi nghiệm thu, giúp doanh nghiệp hoàn toàn tự chủ công nghệ và không phụ thuộc vào phí bản quyền hàng tháng.",
+        desc: "SoftBuild cam kết chuyển giao toàn bộ mã nguồn ngay sau khi nghiệm thu, giúp doanh nghiệp hoàn toàn tự chủ công nghệ và không phụ thuộc vào phí bản quyền hàng tháng.",
       },
       {
         num: "3",
@@ -352,7 +352,7 @@ const dichVuItPage: ServicePageContent = {
     ...dichVuDetailPages["phat-trien-devops"].ctaBanner!,
     headline: "Dẫn đầu kỷ nguyên số với hệ thống AI độc quyền",
     description:
-      "Đừng chỉ dừng lại ở tự động hóa thông thường. Hãy cùng Winterfrost khai phá sức mạnh dữ liệu để xây dựng những mô hình AI riêng biệt, giúp doanh nghiệp của bạn sở hữu lợi thế cạnh tranh tuyệt đối trên thị trường.",
+      "Đừng chỉ dừng lại ở tự động hóa thông thường. Hãy cùng SoftBuild khai phá sức mạnh dữ liệu để xây dựng những mô hình AI riêng biệt, giúp doanh nghiệp của bạn sở hữu lợi thế cạnh tranh tuyệt đối trên thị trường.",
     ctaLabel: "Xây dựng lộ trình AI ngay",
     image: "/images/people/cta/winterfrost/chuyen-vien-tu-van-viet-nam.png",
   },
@@ -373,7 +373,7 @@ const dichVuItPage: ServicePageContent = {
       "Chi phí được thiết kế dựa trên quy mô hạ tầng và nhu cầu vận hành thực tế, đảm bảo doanh nghiệp chỉ chi trả cho những giải pháp thực sự cần thiết.",
     packages: [
       {
-        name: "Giá dịch vụ IT tại Winterfrost",
+        name: "Giá dịch vụ IT tại SoftBuild",
         price: "Chi phí linh hoạt theo nhu cầu",
         currency: "",
         period: "",
@@ -434,34 +434,34 @@ const dichVuItPage: ServicePageContent = {
     label: "Các câu hỏi thường gặp",
     headlineParts: ["Giải Đáp", "Mọi", "Thắc Mắc"],
     description:
-      "Giải đáp trực diện các vấn đề kỹ thuật, bảo mật và quyền sở hữu khi triển khai hạ tầng tại Winterfrost.",
+      "Giải đáp trực diện các vấn đề kỹ thuật, bảo mật và quyền sở hữu khi triển khai hạ tầng tại SoftBuild.",
     items: [
       {
-        q: "Chi phí dịch vụ IT tại Winterfrost được tính toán như thế nào?",
+        q: "Chi phí dịch vụ IT tại SoftBuild được tính toán như thế nào?",
         a: "Chi phí không cố định mà được thiết kế linh hoạt dựa trên quy mô hạ tầng và nhu cầu vận hành thực tế của từng doanh nghiệp. Điều này đảm bảo khách hàng chỉ chi trả cho những giải pháp và tài nguyên thực sự cần thiết cho hệ thống của mình.",
       },
       {
         q: "Doanh nghiệp có được sở hữu mã nguồn sau khi bàn giao không?",
-        a: "Có. Winterfrost cam kết bàn giao 100% mã nguồn và tài liệu cấu trúc hệ thống ngay sau khi nghiệm thu. Điều này giúp doanh nghiệp hoàn toàn tự chủ về công nghệ, có thể tự vận hành và không bị phụ thuộc vào phí bản quyền hàng tháng.",
+        a: "Có. SoftBuild cam kết bàn giao 100% mã nguồn và tài liệu cấu trúc hệ thống ngay sau khi nghiệm thu. Điều này giúp doanh nghiệp hoàn toàn tự chủ về công nghệ, có thể tự vận hành và không bị phụ thuộc vào phí bản quyền hàng tháng.",
       },
       {
         q: "Làm sao để tôi giám sát được tiến độ và chất lượng công việc hàng ngày?",
-        a: "Khách hàng có thể trực tiếp theo dõi quá trình phát triển và kiểm tra chất lượng thông qua các công cụ quản lý dự án chuyên dụng. Winterfrost thực hiện việc giám sát tiến độ hàng ngày để đảm bảo tính minh bạch và khớp nối hoàn toàn với nghiệp vụ của khách hàng.",
+        a: "Khách hàng có thể trực tiếp theo dõi quá trình phát triển và kiểm tra chất lượng thông qua các công cụ quản lý dự án chuyên dụng. SoftBuild thực hiện việc giám sát tiến độ hàng ngày để đảm bảo tính minh bạch và khớp nối hoàn toàn với nghiệp vụ của khách hàng.",
       },
       {
         q: "Dữ liệu của doanh nghiệp được bảo mật ra sao?",
         a: "Chúng tôi triển khai bảo mật hạ tầng đa lớp với các giao thức an ninh nghiêm ngặt để ngăn chặn rủi ro xâm nhập trái phép. Quy trình bao gồm đánh giá lỗ hổng an ninh mạng, thiết lập các vòng lặp sao lưu dữ liệu tự động và cập nhật bản vá bảo mật định kỳ theo cam kết trong hợp đồng.",
       },
       {
-        q: "Winterfrost có hỗ trợ xử lý sự cố trực tiếp tại trụ sở doanh nghiệp không?",
+        q: "SoftBuild có hỗ trợ xử lý sự cố trực tiếp tại trụ sở doanh nghiệp không?",
         a: "Có. Đội ngũ chuyên gia của chúng tôi sẵn sàng có mặt trực tiếp để xử lý các vấn đề phát sinh về phần cứng, hạ tầng mạng hoặc máy chủ tại trụ sở doanh nghiệp. Chúng tôi cam kết xử lý sự cố tại chỗ nhanh chóng trong 2 đến 4 tiếng.",
       },
       {
-        q: "Hệ thống của Winterfrost có khả năng chịu tải như thế nào?",
+        q: "Hệ thống của SoftBuild có khả năng chịu tải như thế nào?",
         a: "Chúng tôi có năng lực xây dựng và quản trị các nền tảng phục vụ hàng ngàn người dùng truy cập cùng lúc với độ trễ thấp. Hệ thống đảm bảo sự ổn định và tính liên tục của dữ liệu ngay cả trong các giai đoạn cao điểm.",
       },
       {
-        q: "Dịch vụ IT của Winterfrost am hiểu những tiêu chuẩn ngành đặc thù nào?",
+        q: "Dịch vụ IT của SoftBuild am hiểu những tiêu chuẩn ngành đặc thù nào?",
         a: "Chúng tôi có kinh nghiệm thực tế trong việc tích hợp các tiêu chuẩn kiểm định kỹ thuật cho nhiều lĩnh vực:\n• Nông nghiệp: Tích hợp cảm biến IoT và hệ thống truy xuất nguồn gốc.\n• Giáo dục: Quản trị các hệ thống phần mềm nghiệp vụ như LMS.\n• Sản xuất & nội thất: Kiểm định kỹ thuật theo tiêu chuẩn chuyên ngành như CO/CQ.",
       },
       {
@@ -475,14 +475,14 @@ const dichVuItPage: ServicePageContent = {
 const tuVanChuyenDoiSoPage: ServicePageContent = {
   ...dichVuDetailPages["phat-trien-iot"],
   slug: "tu-van-chuyen-doi-so",
-  metaTitle: "Dịch vụ tư vấn chuyển đổi số - Winterfrost",
+  metaTitle: "Dịch vụ tư vấn chuyển đổi số - SoftBuild",
   industries: dichVuDetailPages["thiet-ke-website"].industries,
   hero: {
     ...dichVuDetailPages["phat-trien-iot"].hero!,
     titleDark: "Dịch vụ tư vấn chuyển đổi số",
     titleLight: "",
     description:
-      "Winterfrost cung cấp dịch vụ số hóa dữ liệu, tái cấu trúc quy trình làm việc và tích hợp các công nghệ như điện toán đám mây Cloud, IoT và trí tuệ nhân tạo AI vào hệ thống vận hành. Chúng tôi hỗ trợ doanh nghiệp xây dựng lộ trình CNTT chi tiết để nâng cao hiệu suất và tối ưu hóa chi phí quản lý.",
+      "SoftBuild cung cấp dịch vụ số hóa dữ liệu, tái cấu trúc quy trình làm việc và tích hợp các công nghệ như điện toán đám mây Cloud, IoT và trí tuệ nhân tạo AI vào hệ thống vận hành. Chúng tôi hỗ trợ doanh nghiệp xây dựng lộ trình CNTT chi tiết để nâng cao hiệu suất và tối ưu hóa chi phí quản lý.",
     dashboardImage:
       "/images/migrated/homenest-software/wp-content/uploads/2026/04/Web-Application-Development-banner.jpg",
   },
@@ -491,7 +491,7 @@ const tuVanChuyenDoiSoPage: ServicePageContent = {
     headlineLight: "Lợi ích trực tiếp khi",
     headlineDark: "doanh nghiệp chuyển đổi số",
     description:
-      "Số hóa quy trình giúp tối ưu chi phí, đồng bộ dữ liệu và loại bỏ sai sót vận hành thủ công. Giải pháp của Winterfrost đảm bảo tính ổn định kỹ thuật, bảo mật thông tin và quyền sở hữu mã nguồn tuyệt đối cho doanh nghiệp.",
+      "Số hóa quy trình giúp tối ưu chi phí, đồng bộ dữ liệu và loại bỏ sai sót vận hành thủ công. Giải pháp của SoftBuild đảm bảo tính ổn định kỹ thuật, bảo mật thông tin và quyền sở hữu mã nguồn tuyệt đối cho doanh nghiệp.",
     ctaLabel: "Thảo luận dự án",
     ctaHref: "tel:+84971450454",
     items: [
@@ -573,7 +573,7 @@ const tuVanChuyenDoiSoPage: ServicePageContent = {
         num: "02",
         badge: "Lập kế hoạch",
         title: "Thiết lập lộ trình và chỉ số KPI",
-        desc: "Dựa trên dữ liệu khảo sát, Winterfrost xây dựng chiến lược số hóa với các mục tiêu định lượng rõ ràng. Lộ trình được chia thành từng giai đoạn cụ thể kèm theo bảng dự toán ngân sách và các chỉ số đo lường hiệu quả như thời gian xử lý quy trình, tỷ lệ giảm sai sót và mức độ tiết kiệm nhân lực.",
+        desc: "Dựa trên dữ liệu khảo sát, SoftBuild xây dựng chiến lược số hóa với các mục tiêu định lượng rõ ràng. Lộ trình được chia thành từng giai đoạn cụ thể kèm theo bảng dự toán ngân sách và các chỉ số đo lường hiệu quả như thời gian xử lý quy trình, tỷ lệ giảm sai sót và mức độ tiết kiệm nhân lực.",
       },
       {
         num: "03",
@@ -591,7 +591,7 @@ const tuVanChuyenDoiSoPage: ServicePageContent = {
         num: "05",
         badge: "Chuyển giao",
         title: "Đào tạo và bàn giao mã nguồn",
-        desc: "Winterfrost tổ chức các buổi đào tạo kỹ thuật trực tiếp cho nhân sự vận hành. Sau khi hệ thống chạy ổn định trên môi trường thực tế, chúng tôi thực hiện bàn giao 100% mã nguồn dự án, tài liệu cấu trúc dữ liệu và hướng dẫn quản trị để doanh nghiệp hoàn toàn làm chủ tài sản số.",
+        desc: "SoftBuild tổ chức các buổi đào tạo kỹ thuật trực tiếp cho nhân sự vận hành. Sau khi hệ thống chạy ổn định trên môi trường thực tế, chúng tôi thực hiện bàn giao 100% mã nguồn dự án, tài liệu cấu trúc dữ liệu và hướng dẫn quản trị để doanh nghiệp hoàn toàn làm chủ tài sản số.",
       },
       {
         num: "06",
@@ -603,7 +603,7 @@ const tuVanChuyenDoiSoPage: ServicePageContent = {
   },
   benefits: {
     ...dichVuDetailPages["phat-trien-iot"].benefits!,
-    label: "Tại sao nên chọn Winterfrost?",
+    label: "Tại sao nên chọn SoftBuild?",
     headlineLight: "Chi phí minh bạch",
     headlineDark: "cùng giải pháp chuyển đổi số bền vững",
     items: [
@@ -620,7 +620,7 @@ const tuVanChuyenDoiSoPage: ServicePageContent = {
       {
         num: "3",
         title: "Làm chủ công nghệ lõi",
-        desc: "Winterfrost trực tiếp phát triển AI, IoT và Blockchain. Việc không qua trung gian giúp rút ngắn thời gian triển khai, tối ưu chi phí và hỗ trợ kỹ thuật chuyên sâu nhất cho khách hàng.",
+        desc: "SoftBuild trực tiếp phát triển AI, IoT và Blockchain. Việc không qua trung gian giúp rút ngắn thời gian triển khai, tối ưu chi phí và hỗ trợ kỹ thuật chuyên sâu nhất cho khách hàng.",
       },
       {
         num: "4",
@@ -645,7 +645,7 @@ const tuVanChuyenDoiSoPage: ServicePageContent = {
       {
         num: "8",
         title: "Hỗ trợ kỹ thuật tại chỗ",
-        desc: "Đội ngũ của Winterfrost sẵn sàng có mặt để xử lý trực tiếp các vấn đề phát sinh, đảm bảo hoạt động kinh doanh của doanh nghiệp không bị ngưng trệ lâu.",
+        desc: "Đội ngũ của SoftBuild sẵn sàng có mặt để xử lý trực tiếp các vấn đề phát sinh, đảm bảo hoạt động kinh doanh của doanh nghiệp không bị ngưng trệ lâu.",
       },
       {
         num: "9",
@@ -658,7 +658,7 @@ const tuVanChuyenDoiSoPage: ServicePageContent = {
     ...dichVuDetailPages["phat-trien-iot"].ctaBanner!,
     headline: "Dẫn đầu kỷ nguyên số với hệ thống AI độc quyền",
     description:
-      "Đừng chỉ dừng lại ở tự động hóa thông thường. Hãy cùng Winterfrost khai phá sức mạnh dữ liệu để xây dựng những mô hình AI riêng biệt, giúp doanh nghiệp của bạn sở hữu lợi thế cạnh tranh tuyệt đối trên thị trường.",
+      "Đừng chỉ dừng lại ở tự động hóa thông thường. Hãy cùng SoftBuild khai phá sức mạnh dữ liệu để xây dựng những mô hình AI riêng biệt, giúp doanh nghiệp của bạn sở hữu lợi thế cạnh tranh tuyệt đối trên thị trường.",
     ctaLabel: "Xây dựng lộ trình AI ngay",
     image: "/images/people/cta/winterfrost/chuyen-vien-tu-van-viet-nam.png",
   },
@@ -740,11 +740,11 @@ const tuVanChuyenDoiSoPage: ServicePageContent = {
     label: "Các câu hỏi thường gặp",
     headlineParts: ["Giải Đáp", "Mọi", "Thắc Mắc"],
     description:
-      "Giải đáp trực diện các thắc mắc về chi phí, bảo mật và lộ trình triển khai, giúp doanh nghiệp nắm rõ các cam kết về tính tự chủ công nghệ tại Winterfrost.",
+      "Giải đáp trực diện các thắc mắc về chi phí, bảo mật và lộ trình triển khai, giúp doanh nghiệp nắm rõ các cam kết về tính tự chủ công nghệ tại SoftBuild.",
     items: [
       {
         q: "Chi phí dịch vụ tư vấn và triển khai được tính như thế nào?",
-        a: "Chi phí không cố định mà được xác định dựa trên quy mô hạ tầng hiện tại, số lượng quy trình cần số hóa và độ phức tạp khi tích hợp các công nghệ chuyên sâu như AI, IoT, Blockchain. Winterfrost sẽ cung cấp báo giá chi tiết từng hạng mục sau bước khảo sát thực tế.",
+        a: "Chi phí không cố định mà được xác định dựa trên quy mô hạ tầng hiện tại, số lượng quy trình cần số hóa và độ phức tạp khi tích hợp các công nghệ chuyên sâu như AI, IoT, Blockchain. SoftBuild sẽ cung cấp báo giá chi tiết từng hạng mục sau bước khảo sát thực tế.",
       },
       {
         q: "Quá trình chuyển đổi số có làm gián đoạn hoạt động kinh doanh hiện tại không?",
@@ -752,7 +752,7 @@ const tuVanChuyenDoiSoPage: ServicePageContent = {
       },
       {
         q: "Doanh nghiệp có thực sự sở hữu 100% mã nguồn sau khi bàn giao?",
-        a: "Có. Đây là cam kết cốt lõi của Winterfrost. Khách hàng nhận toàn bộ mã nguồn dự án, tài liệu kiến trúc hệ thống và quyền quản trị máy chủ. Doanh nghiệp hoàn toàn tự chủ, không phải trả phí duy trì tài khoản cho bên thứ ba và có quyền nâng cấp hệ thống bất kỳ lúc nào.",
+        a: "Có. Đây là cam kết cốt lõi của SoftBuild. Khách hàng nhận toàn bộ mã nguồn dự án, tài liệu kiến trúc hệ thống và quyền quản trị máy chủ. Doanh nghiệp hoàn toàn tự chủ, không phải trả phí duy trì tài khoản cho bên thứ ba và có quyền nâng cấp hệ thống bất kỳ lúc nào.",
       },
       {
         q: "Thời gian triển khai một dự án chuyển đổi số thường kéo dài bao lâu?",
@@ -771,17 +771,69 @@ const tuVanChuyenDoiSoPage: ServicePageContent = {
         a: "Hệ thống được bảo vệ qua nhiều lớp mã hóa dữ liệu tại chỗ, thiết lập tường lửa cho máy chủ Cloud và phân quyền truy cập chi tiết đến từng cấp bậc nhân sự. Trước khi bàn giao, chúng tôi thực hiện kiểm tra lỗ hổng bảo mật để đảm bảo an toàn tuyệt đối cho tài sản số của doanh nghiệp.",
       },
       {
-        q: "Winterfrost có hỗ trợ sau khi kết thúc dự án không?",
-        a: "Có. Chúng tôi thực hiện chính sách bảo hành kỹ thuật và cập nhật an ninh định kỳ theo hợp đồng. Ngoài ra, đội ngũ kỹ thuật tại Winterfrost luôn sẵn sàng hỗ trợ xử lý các vấn đề phát sinh hoặc tư vấn mở rộng tính năng khi doanh nghiệp có nhu cầu tăng trưởng.",
+        q: "SoftBuild có hỗ trợ sau khi kết thúc dự án không?",
+        a: "Có. Chúng tôi thực hiện chính sách bảo hành kỹ thuật và cập nhật an ninh định kỳ theo hợp đồng. Ngoài ra, đội ngũ kỹ thuật tại SoftBuild luôn sẵn sàng hỗ trợ xử lý các vấn đề phát sinh hoặc tư vấn mở rộng tính năng khi doanh nghiệp có nhu cầu tăng trưởng.",
       },
     ],
+  },
+};
+
+
+const tuDongHoaQuyTrinhPage: ServicePageContent = {
+  ...dichVuDetailPages["phat-trien-ai"],
+  slug: "tu-dong-hoa-quy-trinh",
+  metaTitle: "Dịch vụ tự động hóa quy trình (Automation & RPA) - SoftBuild",
+  industries: dichVuDetailPages["thiet-ke-website"].industries,
+  hero: {
+    ...dichVuDetailPages["phat-trien-ai"].hero!,
+    titleDark: "tự động hóa quy trình (Automation)",
+    titleLight: "Dịch vụ ",
+    description:
+      "SoftBuild cung cấp giải pháp tự động hóa quy trình nghiệp vụ thông minh (Intelligent Process Automation & RPA), tích hợp AI Agents và các luồng làm việc tự động (Workflow Automation). Chúng tôi giúp doanh nghiệp loại bỏ thao tác thủ công, liên thông dữ liệu và cắt giảm tới 60% chi phí vận hành.",
+  },
+  solution: {
+    ...dichVuDetailPages["phat-trien-ai"].solution!,
+    headlineLight: "Tối ưu hóa vận hành",
+    headlineDark: " bằng tự động hóa thông minh",
+    description:
+      "Tự động hóa không chỉ giúp tiết kiệm thời gian mà còn là giải pháp loại bỏ triệt để sai sót con người, tăng tốc độ xử lý đơn hàng và dữ liệu gấp 10 lần, đồng thời giải phóng nhân sự tập trung vào các hoạt động tạo ra doanh thu.",
+    ctaLabel: "Khám phá giải pháp tự động hóa",
+    ctaHref: "tel:+84971450454",
+    items: [
+      {
+        title: "Tự động hóa quy trình nghiệp vụ (RPA)",
+        desc: "Xây dựng các robot phần mềm (RPA) tự động thực hiện các thao tác lặp đi lặp lại như đối soát hóa đơn, nhập liệu đa hệ thống, đồng bộ kho bãi và gửi báo cáo định kỳ.",
+      },
+      {
+        title: "Trợ lý AI Agents điều phối thông minh",
+        desc: "Ứng dụng các tác nhân AI (AI Agents) có khả năng đọc hiểu tài liệu, phân loại email, xử lý hợp đồng và tự động ra quyết định theo quy tắc nghiệp vụ của doanh nghiệp.",
+      },
+      {
+        title: "Liên thông dữ liệu đa nền tảng (Integration)",
+        desc: "Kết nối liền mạch giữa CRM, ERP, sàn thương mại điện tử, cổng thanh toán và phần mềm kế toán, tạo thành hệ thống luân chuyển thông tin tự động liên tục 24/7.",
+      },
+      {
+        title: "Báo cáo & Phân tích tự động",
+        desc: "Tự động thu thập dữ liệu từ mọi điểm chạm và tổng hợp thành dashboard quản trị trực quan theo thời gian thực cho ban lãnh đạo.",
+      },
+    ],
+  },
+  features: {
+    ...dichVuDetailPages["phat-trien-ai"].features!,
+    headlineLight: "Năng lực tự động hóa",
+    headlineDark: " chuyên sâu tại SoftBuild",
+    description:
+      "Chúng tôi xây dựng các giải pháp tự động hóa đo ni đóng giày theo đúng quy trình nghiệp vụ thực tế của từng khách hàng, bảo mật tối đa và dễ dàng nâng cấp khi quy mô phát triển.",
+    ctaLabel: "Tư vấn lộ trình tự động hóa",
+    ctaHref: "tel:+84971450454",
   },
 };
 
 export function getDichVuDetailPage(slug: string): ServicePageContent | undefined {
   if (slug === "dich-vu-it") return dichVuItPage;
   if (slug === "tu-van-chuyen-doi-so") return tuVanChuyenDoiSoPage;
+  if (slug === "tu-dong-hoa-quy-trinh") return tuDongHoaQuyTrinhPage;
   return dichVuDetailPages[slug];
 }
 
-export const dichVuDetailSlugs = [...Object.keys(dichVuDetailPages), "dich-vu-it", "tu-van-chuyen-doi-so"];
+export const dichVuDetailSlugs = [...Object.keys(dichVuDetailPages), "dich-vu-it", "tu-van-chuyen-doi-so", "tu-dong-hoa-quy-trinh"];

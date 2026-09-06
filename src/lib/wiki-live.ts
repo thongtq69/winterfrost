@@ -68,7 +68,7 @@ export const liveWiki: ContentPage[] = [
     slug: "co-che-hoat-dong-cua-chatbot-dinh-huong-tac-vu",
     title: "Cơ chế hoạt động của Chatbot định hướng tác vụ",
     image: "/images/migrated/homenest-com-vn/wp-content/uploads/2026/07/Chatbot-dinh-huong-tac-vu-la-gi-1.jpg",
-    metaDescription: "Bài viết này sẽ giúp bạn giải đáp chi tiết về Chatbot định hướng tác vụ từ bản chất, cơ chế hoạt động đến cách triển khai. Cùng Winterfrost khám phá giải pháp tự động hóa quy trình kinh doanh trơn tru.",
+    metaDescription: "Bài viết này sẽ giúp bạn giải đáp chi tiết về Chatbot định hướng tác vụ từ bản chất, cơ chế hoạt động đến cách triển khai. Cùng SoftBuild khám phá giải pháp tự động hóa quy trình kinh doanh trơn tru.",
     contentHtml: "",
   },
   {

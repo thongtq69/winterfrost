@@ -1,6 +1,6 @@
 {
   "slug": "phat-trien-phan-mem-doanh-nghiep",
-  "metaTitle": "Dịch vụ phát triển phần mềm doanh nghiệp - Winterfrost",
+  "metaTitle": "Dịch vụ phát triển phần mềm doanh nghiệp - SoftBuild",
   "hero": {
     "titleDark": "doanh nghiệp",
     "titleLight": "Phát triển phần mềm",
@@ -60,7 +60,7 @@
         "num": "01",
         "badge": "Khảo sát",
         "title": "Tư vấn và phân tích",
-        "desc": "Chúng tôi sẽ cùng ngồi lại với đội ngũ của bạn để hiểu rõ hơn về quy trình làm việc, những vấn đề hiện tại và các mục tiêu trong tương lai. Từ đó, Winterfrost sẽ đưa ra phương án thiết kế phần mềm tối ưu nhất, nhằm giải quyết chính xác vấn đề kinh doanh của bạn."
+        "desc": "Chúng tôi sẽ cùng ngồi lại với đội ngũ của bạn để hiểu rõ hơn về quy trình làm việc, những vấn đề hiện tại và các mục tiêu trong tương lai. Từ đó, SoftBuild sẽ đưa ra phương án thiết kế phần mềm tối ưu nhất, nhằm giải quyết chính xác vấn đề kinh doanh của bạn."
       },
       {
         "num": "02",
@@ -72,7 +72,7 @@
         "num": "03",
         "badge": "Phát triển",
         "title": "Lập trình và tích hợp",
-        "desc": "Chúng tôi sẽ thực hiện việc lập trình theo các tiêu chuẩn công nghệ hiện đại. Winterfrost sẽ liên kết phần mềm mới với các công cụ đã có như ERP, CRM nhằm tạo ra một hệ thống dữ liệu đồng nhất cho doanh nghiệp."
+        "desc": "Chúng tôi sẽ thực hiện việc lập trình theo các tiêu chuẩn công nghệ hiện đại. SoftBuild sẽ liên kết phần mềm mới với các công cụ đã có như ERP, CRM nhằm tạo ra một hệ thống dữ liệu đồng nhất cho doanh nghiệp."
       },
       {
         "num": "04",
@@ -84,19 +84,19 @@
         "num": "05",
         "badge": "Vận hành",
         "title": "Triển khai và bàn giao",
-        "desc": "Winterfrost sẽ hỗ trợ việc lắp đặt hệ thống và tổ chức đào tạo kỹ thuật cho nhân viên. Sau khi bàn giao mã nguồn và tài liệu, chúng tôi sẽ tiếp tục hỗ trợ bạn trong việc vận hành và giải quyết những vấn đề phát sinh trong giai đoạn đầu."
+        "desc": "SoftBuild sẽ hỗ trợ việc lắp đặt hệ thống và tổ chức đào tạo kỹ thuật cho nhân viên. Sau khi bàn giao mã nguồn và tài liệu, chúng tôi sẽ tiếp tục hỗ trợ bạn trong việc vận hành và giải quyết những vấn đề phát sinh trong giai đoạn đầu."
       }
     ]
   },
   "benefits": {
-    "label": "Tại sao doanh nghiệp tin chọn Winterfrost?",
+    "label": "Tại sao doanh nghiệp tin chọn SoftBuild?",
     "headlineLight": "Kết nối kỹ thuật chuyên sâu",
     "headlineDark": "với tư duy quản trị thực tế",
     "items": [
       {
         "num": "1",
         "title": "Thấu hiểu nghiệp vụ thực tế",
-        "desc": "Trước khi bắt đầu, chúng tôi dành thời gian để tìm hiểu kỹ lưỡng về cách thức hoạt động của doanh nghiệp bạn. Winterfrost tin rằng phần mềm chỉ thực sự có ý nghĩa khi nó giải quyết đúng các vấn đề liên quan đến quy trình và dữ liệu của người sử dụng."
+        "desc": "Trước khi bắt đầu, chúng tôi dành thời gian để tìm hiểu kỹ lưỡng về cách thức hoạt động của doanh nghiệp bạn. SoftBuild tin rằng phần mềm chỉ thực sự có ý nghĩa khi nó giải quyết đúng các vấn đề liên quan đến quy trình và dữ liệu của người sử dụng."
       },
       {
         "num": "2",
@@ -111,7 +111,7 @@
       {
         "num": "4",
         "title": "Đồng nhất dữ liệu toàn hệ thống",
-        "desc": "Winterfrost giúp bạn khắc phục tình trạng dữ liệu không đồng nhất giữa các bộ phận. Tất cả thông tin đều được kết nối và đồng bộ, giúp ban lãnh đạo có cái nhìn chính xác và kịp thời về tình hình công ty."
+        "desc": "SoftBuild giúp bạn khắc phục tình trạng dữ liệu không đồng nhất giữa các bộ phận. Tất cả thông tin đều được kết nối và đồng bộ, giúp ban lãnh đạo có cái nhìn chính xác và kịp thời về tình hình công ty."
       },
       {
         "num": "5",
@@ -131,7 +131,7 @@
       {
         "num": "8",
         "title": "Cam kết đồng hành dài hạn",
-        "desc": "Winterfrost không chỉ bàn giao và rời đi. Chúng tôi cam kết hỗ trợ kỹ thuật, bảo trì định kỳ và tư vấn nâng cấp , để phần mềm luôn là nền tảng vững chắc cho quá trình phát triển lâu dài của tổ chức."
+        "desc": "SoftBuild không chỉ bàn giao và rời đi. Chúng tôi cam kết hỗ trợ kỹ thuật, bảo trì định kỳ và tư vấn nâng cấp , để phần mềm luôn là nền tảng vững chắc cho quá trình phát triển lâu dài của tổ chức."
       },
       {
         "num": "9",
@@ -143,7 +143,7 @@
   "ctaBanner": {
     "badge": "Liên hệ ngay!",
     "headline": "Chuẩn hóa quy trình vận hành doanh nghiệp ngay!",
-    "description": "Sẵn sàng chuyển đổi các quy trình thủ công và dữ liệu rời rạc sang hệ thống quản trị tập trung. Hãy để Winterfrost giúp bạn xây dựng nền tảng ERP/CRM tùy chỉnh, đảm bảo tính đồng bộ dữ liệu tuyệt đối và quyền sở hữu mã nguồn vĩnh viễn.",
+    "description": "Sẵn sàng chuyển đổi các quy trình thủ công và dữ liệu rời rạc sang hệ thống quản trị tập trung. Hãy để SoftBuild giúp bạn xây dựng nền tảng ERP/CRM tùy chỉnh, đảm bảo tính đồng bộ dữ liệu tuyệt đối và quyền sở hữu mã nguồn vĩnh viễn.",
     "ctaLabel": "Nhận tư vấn giải pháp ngay",
     "ctaHref": "/lien-he",
     "image": "/images/people/cta/winterfrost/chuyen-vien-nam-tre.png"
@@ -175,7 +175,7 @@
   },
   "industries": {
     "label": "Các lĩnh vực nổi bật",
-    "headlineLight": "Các lĩnh vực Winterfrost",
+    "headlineLight": "Các lĩnh vực SoftBuild",
     "headlineDark": "đang triển khai giải pháp phần mềm",
     "items": [
       {
@@ -229,7 +229,7 @@
     "label": "",
     "headlineLight": "Chi phí phát triển",
     "headlineDark": "phần mềm doanh nghiệp",
-    "description": "Winterfrost triển khai theo phạm vi công việc và lộ trình bàn giao cố định, không phát sinh phí theo giờ. Mọi gói dịch vụ đều bao gồm NDA, quản lý dự án riêng, hồ sơ kỹ thuật đầy đủ và quyền sở hữu 100% mã nguồn.",
+    "description": "SoftBuild triển khai theo phạm vi công việc và lộ trình bàn giao cố định, không phát sinh phí theo giờ. Mọi gói dịch vụ đều bao gồm NDA, quản lý dự án riêng, hồ sơ kỹ thuật đầy đủ và quyền sở hữu 100% mã nguồn.",
     "packages": [
       {
         "name": "Gói Cơ Bản",
@@ -274,7 +274,7 @@
         "price": "120.000.000",
         "currency": "VNĐ",
         "period": "/ dự án",
-        "description": "Tăng cường năng lực kỹ thuật của doanh nghiệp bằng cách tích hợp đội ngũ kỹ sư cấp cao của Winterfrost trực tiếp vào quy trình làm việc của bạn.",
+        "description": "Tăng cường năng lực kỹ thuật của doanh nghiệp bằng cách tích hợp đội ngũ kỹ sư cấp cao của SoftBuild trực tiếp vào quy trình làm việc của bạn.",
         "features": [
           "Đội ngũ kỹ sư CNTT cấp cao trực tiếp triển khai.",
           "Cơ chế làm việc và trao đổi trực tiếp giữa hai bên.",
@@ -433,12 +433,12 @@
     "description": "Tổng hợp các câu hỏi về cách chúng tôi tiếp cận hệ thống cũ, cam kết về quyền sở hữu mã nguồn và phương thức tích hợp dữ liệu cho doanh nghiệp.",
     "items": [
       {
-        "q": "Winterfrost có thể làm việc trên các hệ thống phần mềm cũ không?",
+        "q": "SoftBuild có thể làm việc trên các hệ thống phần mềm cũ không?",
         "a": "Có. Chúng tôi thực hiện đánh giá cấu trúc mã nguồn và hạ tầng hiện tại của doanh nghiệp để đưa ra lộ trình nâng cấp hoặc viết thêm các module tích hợp. Mục tiêu là cải thiện hiệu suất hệ thống mà không làm gián đoạn các quy trình vận hành đang diễn ra."
       },
       {
         "q": "Doanh nghiệp có sở hữu hoàn toàn mã nguồn sau khi dự án kết thúc không?",
-        "a": "Doanh nghiệp sẽ sở hữu 100% mã nguồn và quyền sở hữu trí tuệ ngay sau khi dự án được bàn giao và tất toán. Winterfrost cung cấp đầy đủ tài liệu kỹ thuật để đội ngũ của doanh nghiệp có thể chủ động quản lý hoặc phát triển thêm về sau."
+        "a": "Doanh nghiệp sẽ sở hữu 100% mã nguồn và quyền sở hữu trí tuệ ngay sau khi dự án được bàn giao và tất toán. SoftBuild cung cấp đầy đủ tài liệu kỹ thuật để đội ngũ của doanh nghiệp có thể chủ động quản lý hoặc phát triển thêm về sau."
       },
       {
         "q": "Làm thế nào để phần mềm mới kết nối được với các công cụ ERP, CRM hiện có?",
@@ -449,12 +449,12 @@
         "a": "Chi phí được xác định dựa trên phạm vi công việc và các cột mốc bàn giao cụ thể. Chúng tôi không thu phí theo giờ để giúp doanh nghiệp dễ dàng kiểm soát ngân sách và đảm bảo tiến độ hoàn thành dự án đúng cam kết."
       },
       {
-        "q": "Winterfrost bảo mật thông tin dự án như thế nào?",
+        "q": "SoftBuild bảo mật thông tin dự án như thế nào?",
         "a": "Chúng tôi ký kết thỏa thuận bảo mật NDA ngay từ giai đoạn thảo luận ban đầu. Trong quá trình triển khai, mã nguồn được quản lý trên các máy chủ bảo mật và dữ liệu thực nghiệm được mã hóa để ngăn chặn mọi hành vi truy cập trái phép."
       },
       {
         "q": "Sau khi bàn giao, tôi có được hỗ trợ kỹ thuật không?",
-        "a": "Có. Winterfrost cung cấp các gói bảo trì và hỗ trợ vận hành sau khi dự án đi vào hoạt động thực tế. Chúng tôi chịu trách nhiệm xử lý các lỗi phát sinh, cập nhật bảo mật định kỳ và tư vấn các phương án nâng cấp khi quy mô doanh nghiệp thay đổi."
+        "a": "Có. SoftBuild cung cấp các gói bảo trì và hỗ trợ vận hành sau khi dự án đi vào hoạt động thực tế. Chúng tôi chịu trách nhiệm xử lý các lỗi phát sinh, cập nhật bảo mật định kỳ và tư vấn các phương án nâng cấp khi quy mô doanh nghiệp thay đổi."
       }
     ]
   }

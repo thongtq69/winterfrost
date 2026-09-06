@@ -1,11 +1,11 @@
 {
   "slug": "phat-trien-ai",
-  "metaTitle": "Dịch vụ phát triển AI - Winterfrost",
+  "metaTitle": "Dịch vụ phát triển AI - SoftBuild",
   "ctaBannerAfterIndustries": true,
   "hero": {
     "titleLight": "Dịch vụ phát triển AI ",
     "titleDark": "chuyên nghiệp",
-    "description": "Winterfrost cung cấp dịch vụ phát triển trí tuệ nhân tạo, từ xây dựng machine learning đến triển khai hệ thống ngôn ngữ lớn LLMs. Ngoài ra, chúng tôi còn giúp doanh nghiệp tự động hóa các quy trình phức tạp và khai thác dữ liệu thông minh để mang lại những kết quả kinh doanh thực tế.",
+    "description": "SoftBuild cung cấp dịch vụ phát triển trí tuệ nhân tạo, từ xây dựng machine learning đến triển khai hệ thống ngôn ngữ lớn LLMs. Ngoài ra, chúng tôi còn giúp doanh nghiệp tự động hóa các quy trình phức tạp và khai thác dữ liệu thông minh để mang lại những kết quả kinh doanh thực tế.",
     "bgImage": "/images/migrated/homenest-software/wp-content/uploads/2026/03/services-app-bg.jpg",
     "dashboardImage": "",
     "phones": {
@@ -141,7 +141,7 @@
       {
         "num": "8",
         "title": "Bảo mật tuyệt đối",
-        "desc": "Dữ liệu của bạn được bảo mật hoàn toàn. Winterfrost chúng tôi cam kết bàn giao toàn bộ mã nguồn và quyền sở hữu các mô hình AI sau khi hoàn tất."
+        "desc": "Dữ liệu của bạn được bảo mật hoàn toàn. SoftBuild chúng tôi cam kết bàn giao toàn bộ mã nguồn và quyền sở hữu các mô hình AI sau khi hoàn tất."
       },
       {
         "num": "9",
@@ -153,7 +153,7 @@
   "ctaBanner": {
     "badge": "Liên hệ ngay!",
     "headline": "Tối ưu hiệu suất vận hành bằng trí tuệ nhân tạo AI",
-    "description": "Tiết kiệm thời gian xử lý dữ liệu và tự động hóa các quy trình lặp đi lặp lại là những giá trị thực tế mà giải pháp AI của Winterfrost mang lại. Chúng tôi giúp doanh nghiệp của bạn hoạt động thông minh hơn thông qua các hệ thống phân tích và dự báo chính xác.",
+    "description": "Tiết kiệm thời gian xử lý dữ liệu và tự động hóa các quy trình lặp đi lặp lại là những giá trị thực tế mà giải pháp AI của SoftBuild mang lại. Chúng tôi giúp doanh nghiệp của bạn hoạt động thông minh hơn thông qua các hệ thống phân tích và dự báo chính xác.",
     "ctaLabel": "Nhận tư vấn giải pháp AI",
     "ctaHref": "/lien-he",
     "image": "/images/people/cta/winterfrost/chuyen-vien-nam-tre.png"
@@ -239,7 +239,7 @@
     "label": "",
     "headlineLight": "Bảng giá dịch vụ ",
     "headlineDark": "phát triển AI ",
-    "description": "Chi phí minh bạch để xây dựng và mở rộng các giải pháp AI cùng Winterfrost.",
+    "description": "Chi phí minh bạch để xây dựng và mở rộng các giải pháp AI cùng SoftBuild.",
     "packages": [
       {
         "name": "Gói Cơ Bản",
@@ -283,7 +283,7 @@
   },
   "techStack": {
     "headlineLight": "Công nghệ vận hành AI",
-    "headlineDark": "tại Winterfrost",
+    "headlineDark": "tại SoftBuild",
     "filters": [
       "Tất cả",
       "Giao diện",
@@ -421,15 +421,15 @@
       "Mọi",
       "Thắc Mắc"
     ],
-    "description": "Giải đáp mọi thắc mắc về công nghệ, tính bảo mật và lộ trình thực thi trí tuệ nhân tạo chuyên sâu tại Winterfrost.",
+    "description": "Giải đáp mọi thắc mắc về công nghệ, tính bảo mật và lộ trình thực thi trí tuệ nhân tạo chuyên sâu tại SoftBuild.",
     "items": [
       {
         "q": "Dữ liệu của doanh nghiệp có được bảo mật khi làm AI không?",
-        "a": "Bảo mật dữ liệu là ưu tiên hàng đầu. Winterfrost cam kết mọi dữ liệu của doanh nghiệp được xử lý trong môi trường riêng biệt, đảm bảo tuyệt đối không rò rỉ thông tin ra bên ngoài. Chúng tôi áp dụng các biện pháp bảo mật đa lớp để bảo vệ tài sản số của bạn."
+        "a": "Bảo mật dữ liệu là ưu tiên hàng đầu. SoftBuild cam kết mọi dữ liệu của doanh nghiệp được xử lý trong môi trường riêng biệt, đảm bảo tuyệt đối không rò rỉ thông tin ra bên ngoài. Chúng tôi áp dụng các biện pháp bảo mật đa lớp để bảo vệ tài sản số của bạn."
       },
       {
-        "q": "Winterfrost sử dụng AI của bên thứ ba hay tự phát triển mô hình riêng?",
-        "a": "Chúng tôi linh hoạt theo nhu cầu của bạn. Winterfrost có thể tích hợp các API hàng đầu thế giới để tối ưu thời gian, hoặc phát triển và tinh chỉnh (fine-tune) các mô hình ngôn ngữ lớn (LLM) riêng biệt dựa trên dữ liệu đặc thù của doanh nghiệp để đảm bảo tính chính xác và độc quyền."
+        "q": "SoftBuild sử dụng AI của bên thứ ba hay tự phát triển mô hình riêng?",
+        "a": "Chúng tôi linh hoạt theo nhu cầu của bạn. SoftBuild có thể tích hợp các API hàng đầu thế giới để tối ưu thời gian, hoặc phát triển và tinh chỉnh (fine-tune) các mô hình ngôn ngữ lớn (LLM) riêng biệt dựa trên dữ liệu đặc thù của doanh nghiệp để đảm bảo tính chính xác và độc quyền."
       },
       {
         "q": "Giải pháp AI có thể tích hợp vào các phần mềm hiện có không?",
@@ -441,7 +441,7 @@
       },
       {
         "q": "Doanh nghiệp có cần đội ngũ kỹ thuật cao để vận hành AI không?",
-        "a": "Không nhất thiết. Winterfrost thiết kế giao diện quản trị và tương tác cực kỳ đơn giản cho người dùng cuối. Chúng tôi cung cấp đầy đủ tài liệu hướng dẫn và hỗ trợ kỹ thuật định kỳ để đội ngũ của bạn có thể vận hành hệ thống một cách dễ dàng."
+        "a": "Không nhất thiết. SoftBuild thiết kế giao diện quản trị và tương tác cực kỳ đơn giản cho người dùng cuối. Chúng tôi cung cấp đầy đủ tài liệu hướng dẫn và hỗ trợ kỹ thuật định kỳ để đội ngũ của bạn có thể vận hành hệ thống một cách dễ dàng."
       },
       {
         "q": "Doanh nghiệp có được sở hữu mô hình AI sau khi bàn giao không?",
@@ -449,7 +449,7 @@
       },
       {
         "q": "Làm thế nào để đo lường hiệu quả (ROI) của dự án AI?",
-        "a": "Trước khi bắt đầu, Winterfrost sẽ cùng bạn xác định các chỉ số hiệu quả rõ ràng như: tỷ lệ tiết kiệm chi phí nhân sự, thời gian xử lý quy trình, hoặc mức tăng trưởng tỷ lệ chuyển đổi khách hàng. Chúng tôi tập trung vào việc tạo ra những kết quả có thể đo lường bằng con số thực tế."
+        "a": "Trước khi bắt đầu, SoftBuild sẽ cùng bạn xác định các chỉ số hiệu quả rõ ràng như: tỷ lệ tiết kiệm chi phí nhân sự, thời gian xử lý quy trình, hoặc mức tăng trưởng tỷ lệ chuyển đổi khách hàng. Chúng tôi tập trung vào việc tạo ra những kết quả có thể đo lường bằng con số thực tế."
       },
       {
         "q": "AI có hay đưa ra các thông tin sai lệch không?",

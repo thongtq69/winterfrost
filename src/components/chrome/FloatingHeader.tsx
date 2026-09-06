@@ -6,9 +6,9 @@ import { useEffect, useRef, useState } from "react";
 import { Search, ChevronRight, X } from "lucide-react";
 import { LocaleSwitcher } from "./LocaleSwitcher";
 import { useTranslations } from "next-intl";
+import { Logo } from "./Logo";
 import s from "./FloatingHeader.module.css";
 
-const LOGO_SRC = "/images/brand/winterfrost/winterfrost-wordmark.png";
 const BANNER_SRC =
   "/images/brand/winterfrost/winterfrost-menu-banner-clean.webp?v=wf-menu-clean-20260727";
 
@@ -16,13 +16,14 @@ const SERVICE_TABS = [
   {
     titleKey: "softwareDevelopment",
     items: [
-      { href: "/dich-vu/thiet-ke-website", key: "websiteDesign" },
-      { href: "/dich-vu/phat-trien-ai", key: "aiDevelopment" },
-      { href: "/dich-vu/phat-trien-ung-dung-saas", key: "saasDevelopment" },
       { href: "/dich-vu/thiet-ke-app", key: "appDesign" },
-      { href: "/dich-vu/van-hanh-va-bao-tri", key: "maintenance" },
+      { href: "/dich-vu/phat-trien-ai", key: "aiDevelopment" },
+      { href: "/dich-vu/tu-dong-hoa-quy-trinh", key: "automation" },
+      { href: "/dich-vu/thiet-ke-website", key: "websiteDesign" },
+      { href: "/dich-vu/phat-trien-ung-dung-saas", key: "saasDevelopment" },
       { href: "/dich-vu/phat-trien-phan-mem-doanh-nghiep", key: "enterpriseSoftware" },
       { href: "/dich-vu/phat-trien-phan-mem-mvp", key: "mvpDevelopment" },
+      { href: "/dich-vu/van-hanh-va-bao-tri", key: "maintenance" },
       { href: "/dich-vu/dich-vu-it", key: "itServices" },
       { href: "/dich-vu/tu-van-chuyen-doi-so", key: "digitalTransformation" },
     ],
@@ -95,17 +96,9 @@ export function FloatingHeader() {
           >
             <div className={s.topBar}>
               <div className={s.topBarMain}>
-                <Link href="/" className={s.logo} aria-label={tHeader("homeAria")}>
-                  <Image
-                    src={LOGO_SRC}
-                    alt="Logo Winterfrost"
-                    title="Logo Winterfrost"
-                    width={146}
-                    height={36}
-                    className={s.logoIcon}
-                    priority
-                  />
-                </Link>
+                <div className={s.logo}>
+                  <Logo />
+                </div>
 
                 <div className={s.mobileHeaderLocale}>
                   <LocaleSwitcher variant="mobileHeader" />
@@ -244,15 +237,9 @@ export function FloatingHeader() {
               aria-label={tHeader("mainNavigation")}
             >
               <div className={s.mobileDrawerHeader}>
-                <Link href="/" className={s.mobileDrawerLogo} onClick={close}>
-                  <Image
-                    src={LOGO_SRC}
-                    alt="Logo Winterfrost"
-                    width={124}
-                    height={47}
-                    priority
-                  />
-                </Link>
+                <div className={s.mobileDrawerLogo} onClick={close}>
+                  <Logo />
+                </div>
                 <button
                   type="button"
                   className={s.mobileCloseBtn}

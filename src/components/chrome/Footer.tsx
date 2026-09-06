@@ -11,13 +11,14 @@ const SERVICES_GROUPS = [
   {
     titleKey: "softwareDevelopment",
     items: [
-      { href: "/dich-vu/thiet-ke-website", key: "websiteDesign" },
-      { href: "/dich-vu/phat-trien-ai", key: "aiDevelopment" },
-      { href: "/dich-vu/phat-trien-ung-dung-saas", key: "saasDevelopment" },
       { href: "/dich-vu/thiet-ke-app", key: "appDesign" },
-      { href: "/dich-vu/van-hanh-va-bao-tri", key: "maintenance" },
+      { href: "/dich-vu/phat-trien-ai", key: "aiDevelopment" },
+      { href: "/dich-vu/tu-dong-hoa-quy-trinh", key: "automation" },
+      { href: "/dich-vu/thiet-ke-website", key: "websiteDesign" },
+      { href: "/dich-vu/phat-trien-ung-dung-saas", key: "saasDevelopment" },
       { href: "/dich-vu/phat-trien-phan-mem-doanh-nghiep", key: "enterpriseSoftware" },
       { href: "/dich-vu/phat-trien-phan-mem-mvp", key: "mvpDevelopment" },
+      { href: "/dich-vu/van-hanh-va-bao-tri", key: "maintenance" },
       { href: "/dich-vu/dich-vu-it", key: "itServices" },
       { href: "/dich-vu/tu-van-chuyen-doi-so", key: "digitalTransformation" },
     ],
@@ -33,10 +34,10 @@ const SERVICES_GROUPS = [
 ];
 
 const COMPANIES = [
-  { href: "/", label: "Winterfrost Digital", logo: "/images/brand/winterfrost/winterfrost-wordmark.png" },
-  { href: "/", label: "Winterfrost Labs", logo: "/images/brand/winterfrost/winterfrost-wordmark.png" },
-  { href: "/", label: "Winterfrost Cloud", logo: "/images/brand/winterfrost/winterfrost-wordmark.png" },
-  { href: "/", label: "Winterfrost Media", logo: "/images/brand/winterfrost/winterfrost-wordmark.png" },
+  { href: "/", label: "SoftBuild Digital", logo: "/images/brand/winterfrost/winterfrost-wordmark.png" },
+  { href: "/", label: "SoftBuild Labs", logo: "/images/brand/winterfrost/winterfrost-wordmark.png" },
+  { href: "/", label: "SoftBuild Cloud", logo: "/images/brand/winterfrost/winterfrost-wordmark.png" },
+  { href: "/", label: "SoftBuild Media", logo: "/images/brand/winterfrost/winterfrost-wordmark.png" },
 ];
 
 const SOCIAL_ICON_MAP: Record<string, React.ReactNode> = {
@@ -161,7 +162,7 @@ export function Footer() {
 
           <div className={s.midRow}>
             <div className={s.brandWrapper}>
-              <p className={s.brandBig}>WINTERFROST</p>
+              <p className={s.brandBig}>SOFTBUILD</p>
             </div>
             <div className={s.socialWrapper}>
               <p className={s.colTitle}>{tFooter("socialMedia")}</p>
@@ -197,7 +198,7 @@ export function Footer() {
               >
                 <span className={s.companyLogo}>
                   {/* eslint-disable-next-line @next/next/no-img-element */}
-                  <img src={c.logo} alt={`Logo ${c.label} - Hệ sinh thái công nghệ Winterfrost`} title={c.label} />
+                  <img src={c.logo} alt={`Logo ${c.label} - Hệ sinh thái công nghệ SoftBuild`} title={c.label} />
                 </span>
                 <span className={s.companyName}>{c.label}</span>
               </a>

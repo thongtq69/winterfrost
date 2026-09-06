@@ -37,7 +37,7 @@ export function AboutSection() {
             ))}
           </div>
           <div className={s.imageCol}>
-            <video autoPlay loop playsInline muted title="Thị trường Winterfrost phục vụ">
+            <video autoPlay loop playsInline muted title="Thị trường SoftBuild phục vụ">
               <source src={MAP_VIDEO} type="video/mp4" />
               Your browser does not support the video tag.
             </video>

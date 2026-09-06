@@ -68,10 +68,10 @@ export async function generateMetadata({
   const description = t("description");
 
   return {
-    metadataBase: new URL("https://winterfrost.tech"),
+    metadataBase: new URL("https://softbuildvn.vercel.app"),
     title: {
       default: title,
-      template: "%s | Winterfrost",
+      template: "%s | SoftBuild",
     },
     description,
     alternates: {
@@ -91,7 +91,7 @@ export async function generateMetadata({
       alternateLocale: routing.locales
         .filter((supportedLocale) => supportedLocale !== locale)
         .map((supportedLocale) => OPEN_GRAPH_LOCALES[supportedLocale]),
-      siteName: "Winterfrost",
+      siteName: "SoftBuild",
       images: ["/og-image.jpg"],
     },
     twitter: {

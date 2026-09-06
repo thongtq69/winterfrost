@@ -4,7 +4,7 @@
     "title": "Einzelhandel",
     "hero": {
       "title": "Dienstleistungen zur Entwicklung von Einzelhandelssoftware",
-      "description": "Winterfrost bietet umfassende Programmdienstleistungen für Einzelhandelsmanagementsysteme an, mit Schwerpunkt auf Multikanal-Datenkonsolidierung und Automatisierung von operativen Prozessen. Wir bauen eine Softwareinfrastruktur auf, die Unternehmen dabei unterstützt, den Warenfluss, den Cashflow und die Kundendaten auf einer zentralen Plattform genau zu steuern.",
+      "description": "SoftBuild bietet umfassende Programmdienstleistungen für Einzelhandelsmanagementsysteme an, mit Schwerpunkt auf Multikanal-Datenkonsolidierung und Automatisierung von operativen Prozessen. Wir bauen eine Softwareinfrastruktur auf, die Unternehmen dabei unterstützt, den Warenfluss, den Cashflow und die Kundendaten auf einer zentralen Plattform genau zu steuern.",
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Dich-vu-phat-trien-phan-mem-ban-le.jpg",
       "imageAlt": "Dienstleistungen zur Entwicklung von Einzelhandelssoftware",
       "primaryLabel": "Direkt kontaktieren",
@@ -12,12 +12,12 @@
     },
     "overview": {
       "label": "Überblick",
-      "title": "Herausforderungen und technische Lösungen von Winterfrost",
+      "title": "Herausforderungen und technische Lösungen von SoftBuild",
       "paragraphs": [
-        "Einzelhandelsunternehmen sehen sich häufig mit der Situation konfrontiert, dass Lagerbestandsdaten zwischen physischen Geschäften und E-Commerce-Plattformen fragmentiert sind, was zu Datenabweichungen und Verzögerungen bei der Bestellbearbeitung führt. Winterfrost löst dieses Problem, indem es eine Echtzeit-Synchronisationssoftwarearchitektur entwirft, die APIs direkt zwischen Lager-, Buchhaltungs- und Versandsystemen integriert, um die Betriebsleistung zu optimieren."
+        "Einzelhandelsunternehmen sehen sich häufig mit der Situation konfrontiert, dass Lagerbestandsdaten zwischen physischen Geschäften und E-Commerce-Plattformen fragmentiert sind, was zu Datenabweichungen und Verzögerungen bei der Bestellbearbeitung führt. SoftBuild löst dieses Problem, indem es eine Echtzeit-Synchronisationssoftwarearchitektur entwirft, die APIs direkt zwischen Lager-, Buchhaltungs- und Versandsystemen integriert, um die Betriebsleistung zu optimieren."
       ],
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Thach-thuc-va-giai-phap-ky-thuat-tu-HomeNest-Viet-Nam.jpg",
-      "imageAlt": "Herausforderungen und technische Lösungen von Winterfrost"
+      "imageAlt": "Herausforderungen und technische Lösungen von SoftBuild"
     },
     "counters": [
       {
@@ -86,7 +86,7 @@
     },
     "why": {
       "label": "Warum wählst du uns?",
-      "title": "Gründe für die Wahl von Winterfrost als technischen Partner",
+      "title": "Gründe für die Wahl von SoftBuild als technischen Partner",
       "items": [
         {
           "number": "1",
@@ -123,7 +123,7 @@
     "cta": {
       "label": "Jetzt kontaktieren!",
       "title": "Führen Sie das digitale Zeitalter mit einem exklusiven KI-System an",
-      "description": "Bleiben Sie nicht bei der regulären Automatisierung stehen. Werden Sie Teil von Winterfrost und entdecken Sie die Leistungsfähigkeit von Daten zur Erstellung einzigartiger KI-Modelle, die Ihrem Unternehmen zu einem absoluten Wettbewerbsvorteil auf dem Markt verhelfen.",
+      "description": "Bleiben Sie nicht bei der regulären Automatisierung stehen. Werden Sie Teil von SoftBuild und entdecken Sie die Leistungsfähigkeit von Daten zur Erstellung einzigartiger KI-Modelle, die Ihrem Unternehmen zu einem absoluten Wettbewerbsvorteil auf dem Markt verhelfen.",
       "buttonLabel": "Erstellen Sie jetzt Ihre KI-Roadmap",
       "image": "/images/people/cta/winterfrost/chuyen-vien-tu-van-viet-nam.png",
       "imageAlt": "Fachberater"
@@ -132,15 +132,15 @@
       "title": "Case Studies",
       "links": [
         {
-          "href": "https://winterfrost.tech/case-studies/website-zenovia-retail",
+          "href": "https://softbuildvn.vercel.app/case-studies/website-zenovia-retail",
           "text": "EINZELHANDEL\nLIEFERKETTE\nWEBDESIGN\nWebseite Zenovia Retail\nProjekt ansehen"
         },
         {
-          "href": "https://winterfrost.tech/case-studies/website-veloura-nails",
+          "href": "https://softbuildvn.vercel.app/case-studies/website-veloura-nails",
           "text": "EINZELHANDEL\nWEBDESIGN\nWebseite Veloura Nails\nProjekt ansehen"
         },
         {
-          "href": "https://winterfrost.tech/case-studies/website-mocvan-tea",
+          "href": "https://softbuildvn.vercel.app/case-studies/website-mocvan-tea",
           "text": "EINZELHANDEL\nE-COMMERCE\nWEBDESIGN\nWebseite Mocvan Tea\nProjekt ansehen"
         }
       ],
@@ -163,7 +163,7 @@
           "title": "Design von E-Commerce-Webseiten",
           "description": "Aufbauen Sie leistungsstarke Verkaufswebsites, optimieren Sie technische Konversionsraten.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Thiet-ke-website-E-commerce-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "E-Commerce-Website-Design – Winterfrost"
+          "imageAlt": "E-Commerce-Website-Design – SoftBuild"
         },
         {
           "title": "Entwicklung mobiler App-Shopping",
@@ -247,7 +247,7 @@
       "items": [
         {
           "q": "Ist das System in der Lage, sich mit bestehender Buchhaltungs- oder ERP-Software zu integrieren?",
-          "a": "Winterfrost entwickelt das System auf Basis der API-First-Architektur, die eine direkte Verbindung zu beliebten Plattformen wie SAP, Oracle, Misa oder anderer spezialisierter Verwaltungssoftware ermöglicht. Wir führen Datensynchronisation über RESTful APIs oder Webhooks-Protokolle durch, um einen konsistenten Fluss von Finanz- und Wareninformationen über die Abteilungen hinweg sicherzustellen."
+          "a": "SoftBuild entwickelt das System auf Basis der API-First-Architektur, die eine direkte Verbindung zu beliebten Plattformen wie SAP, Oracle, Misa oder anderer spezialisierter Verwaltungssoftware ermöglicht. Wir führen Datensynchronisation über RESTful APIs oder Webhooks-Protokolle durch, um einen konsistenten Fluss von Finanz- und Wareninformationen über die Abteilungen hinweg sicherzustellen."
         },
         {
           "q": "Wie geht das System mit Überlastung während großer Promotionen um?",
@@ -267,7 +267,7 @@
         },
         {
           "q": "Wie hoch sind die Wartungskosten und die Möglichkeit, das System nach der Übergabe aufzurüsten?",
-          "a": "Das System basiert auf einer unabhängigen modularen Struktur, die es schnell macht, neue Funktionen zu aktualisieren oder hinzuzufügen, ohne den gesamten Quellcode neu bewerten zu müssen. Was die Wartungskosten betrifft, optimiert Winterfrost den Quellcode, um den Hardware-Ressourcenverbrauch zu minimieren, hilft Unternehmen, monatliche Betriebskosten für die Infrastruktur zu sparen, und stellt vollständige technische Dokumentation für interne Teams zur Verfügung."
+          "a": "Das System basiert auf einer unabhängigen modularen Struktur, die es schnell macht, neue Funktionen zu aktualisieren oder hinzuzufügen, ohne den gesamten Quellcode neu bewerten zu müssen. Was die Wartungskosten betrifft, optimiert SoftBuild den Quellcode, um den Hardware-Ressourcenverbrauch zu minimieren, hilft Unternehmen, monatliche Betriebskosten für die Infrastruktur zu sparen, und stellt vollständige technische Dokumentation für interne Teams zur Verfügung."
         }
       ]
     }
@@ -277,7 +277,7 @@
     "title": "Immobilien",
     "hero": {
       "title": "Lösungen zur digitalen Transformation und Programmierung von Immobilien",
-      "description": "Winterfrost bietet zentrale Immobilienmanagement-Software für den Aufbau von Infrastrukturen an, die Entwicklern und Börsen helfen, Produktverteilungsprozesse zu automatisieren, Kundendaten zu verwalten und den Transaktionscashflow zu optimieren.",
+      "description": "SoftBuild bietet zentrale Immobilienmanagement-Software für den Aufbau von Infrastrukturen an, die Entwicklern und Börsen helfen, Produktverteilungsprozesse zu automatisieren, Kundendaten zu verwalten und den Transaktionscashflow zu optimieren.",
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-lap-trinh-va-chuyen-doi-so-bat-dong-san.jpg",
       "imageAlt": "Lösungen zur digitalen Transformation und Programmierung von Immobilien",
       "primaryLabel": "Direkt kontaktieren",
@@ -287,7 +287,7 @@
       "label": "Überblick",
       "title": "Zentralisierte Kontrolle und Standardisierung des Handelsprozesses",
       "paragraphs": [
-        "Die größte Herausforderung für Immobilienunternehmen ist die Fragmentierung im Einkaufswagenmanagement, was zu überlappenden Transaktionen und mangelnder Transparenz bei der Provisionsberechnung führt. Winterfrost löst dieses Problem, indem es ein zentralisiertes Inventarverwaltungssystem etabliert, das einen Echtzeit-Root-Locking-Mechanismus integriert, die Einzigartigkeit von Transaktionen sicherstellt und Daten zwischen Vertrieb, Buchhaltern und Kunden synchronisiert."
+        "Die größte Herausforderung für Immobilienunternehmen ist die Fragmentierung im Einkaufswagenmanagement, was zu überlappenden Transaktionen und mangelnder Transparenz bei der Provisionsberechnung führt. SoftBuild löst dieses Problem, indem es ein zentralisiertes Inventarverwaltungssystem etabliert, das einen Echtzeit-Root-Locking-Mechanismus integriert, die Einzigartigkeit von Transaktionen sicherstellt und Daten zwischen Vertrieb, Buchhaltern und Kunden synchronisiert."
       ],
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Kiem-soat-tap-trung-va-chuan-hoa-quy-trinh-giao-dich.jpg",
       "imageAlt": "Zentralisierte Kontrolle und Standardisierung des Handelsprozesses"
@@ -359,7 +359,7 @@
     },
     "why": {
       "label": "Warum wählst du uns?",
-      "title": "Gründe für die Wahl von Winterfrost als technischen Partner",
+      "title": "Gründe für die Wahl von SoftBuild als technischen Partner",
       "items": [
         {
           "number": "1",
@@ -396,7 +396,7 @@
     "cta": {
       "label": "Jetzt kontaktieren!",
       "title": "Digitalisierung der Immobilienverwaltungs- und Vertriebsinfrastruktur",
-      "description": "Kontaktieren Sie das Ingenieurteam von Winterfrost, um ein Echtzeit-Cart-Management-System einzuführen und den Transaktionsprozess zu automatisieren, um die operative Effizienz Ihres Unternehmens zu steigern.",
+      "description": "Kontaktieren Sie das Ingenieurteam von SoftBuild, um ein Echtzeit-Cart-Management-System einzuführen und den Transaktionsprozess zu automatisieren, um die operative Effizienz Ihres Unternehmens zu steigern.",
       "buttonLabel": "Holen Sie sich technische Lösungsratschläge",
       "image": "/images/people/cta/winterfrost/chuyen-vien-nu.png",
       "imageAlt": "Fachberater"
@@ -405,15 +405,15 @@
       "title": "Case Studies",
       "links": [
         {
-          "href": "https://winterfrost.tech/case-studies/website-verdora-property",
+          "href": "https://softbuildvn.vercel.app/case-studies/website-verdora-property",
           "text": "IMMOBILIEN\nWEBDESIGN\nWebsite Verdora Property\nProjekt ansehen"
         },
         {
-          "href": "https://winterfrost.tech/case-studies/mont-pine-realty",
+          "href": "https://softbuildvn.vercel.app/case-studies/mont-pine-realty",
           "text": "IMMOBILIEN\nWEBDESIGN\nWebsite Verdora Property\nProjekt ansehen"
         },
         {
-          "href": "https://winterfrost.tech/case-studies/la-cerise-dalat-villas",
+          "href": "https://softbuildvn.vercel.app/case-studies/la-cerise-dalat-villas",
           "text": "IMMOBILIEN\nWEBDESIGN\nRovena Travel – Dalat Immobilien-Website-Design\nProjekt ansehen"
         }
       ],
@@ -524,7 +524,7 @@
       "items": [
         {
           "q": "Wie verhindert das System das Stapeln von Einheiten während des Verkaufs?",
-          "a": "Winterfrost verwendet einen pessimistischen Sperrmechanismus direkt auf der Datenbankebene. Wenn ein Mitarbeiter einen Holdorder initiiert, wird dieser Produktdatensatz sofort auf Millisekundenebene gesperrt, wodurch jeglicher weitere Schreibzugriff verhindert wird, bis die Transaktion abgeschlossen ist oder die angegebene Wartezeit abgelaufen ist."
+          "a": "SoftBuild verwendet einen pessimistischen Sperrmechanismus direkt auf der Datenbankebene. Wenn ein Mitarbeiter einen Holdorder initiiert, wird dieser Produktdatensatz sofort auf Millisekundenebene gesperrt, wodurch jeglicher weitere Schreibzugriff verhindert wird, bis die Transaktion abgeschlossen ist oder die angegebene Wartezeit abgelaufen ist."
         },
         {
           "q": "Ist das System in der Lage, sich mit den bestehenden ERP- oder Buchhaltungsplattformen des Unternehmens zu integrieren?",
@@ -540,7 +540,7 @@
         },
         {
           "q": "Unterstützt die Software den Prozess der Unterzeichnung elektronischer Verträge und der Kundenidentifikation online?",
-          "a": "Ja. Winterfrost integriert elektronische Identifikations-eKYC-Lösungen zur Authentifizierung von Kundeninformationen und verbindet sich mit Anbietern digitaler Signaturen, um den gesamten Vertragsunterzeichnungsprozess zu digitalisieren und so die rechtliche Gültigkeit gemäß den geltenden Gesetzen sicherzustellen."
+          "a": "Ja. SoftBuild integriert elektronische Identifikations-eKYC-Lösungen zur Authentifizierung von Kundeninformationen und verbindet sich mit Anbietern digitaler Signaturen, um den gesamten Vertragsunterzeichnungsprozess zu digitalisieren und so die rechtliche Gültigkeit gemäß den geltenden Gesetzen sicherzustellen."
         },
         {
           "q": "Können Unternehmen komplexe Rabattprogramme und Verkaufsrichtlinien selbst konfigurieren?",
@@ -554,9 +554,9 @@
     "title": "Lieferkette",
     "hero": {
       "title": "Umfassende Lösung für das Lieferkettenmanagement",
-      "description": "Winterfrost bietet zentralisierte Softwarelösungen für das Lieferkettenmanagement, Infrastrukturaufbau, und hilft Unternehmen, den Datenfluss von Lieferanten zu Endkunden umfassend zu steuern. Wir entwerfen eine Softwarearchitektur, die in der Lage ist, Multikanal-Daten zu konsolidieren, Transparenz zu gewährleisten und die Betriebskosten im gesamten Logistiksystem zu optimieren.",
+      "description": "SoftBuild bietet zentralisierte Softwarelösungen für das Lieferkettenmanagement, Infrastrukturaufbau, und hilft Unternehmen, den Datenfluss von Lieferanten zu Endkunden umfassend zu steuern. Wir entwerfen eine Softwarearchitektur, die in der Lage ist, Multikanal-Daten zu konsolidieren, Transparenz zu gewährleisten und die Betriebskosten im gesamten Logistiksystem zu optimieren.",
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-dong-bo-chuoi-cung-ung-cua-HomeNest-Viet-Nam.jpg",
-      "imageAlt": "Winterfrosts Lösung zur Synchronisation der Lieferkette",
+      "imageAlt": "SoftBuilds Lösung zur Synchronisation der Lieferkette",
       "primaryLabel": "Direkt kontaktieren",
       "secondaryLabel": "Nachricht für Rat"
     },
@@ -564,7 +564,7 @@
       "label": "Überblick",
       "title": "Lieferketten-Synchronlösung",
       "paragraphs": [
-        "Die größte Herausforderung im Lieferkettenmanagement ist die mangelnde Synchronisation der Informationen zwischen den beteiligten Parteien, was zu virtuellen Lagerbeständen und Verzögerungen bei der Koordination der Güter führt. Winterfrost löst dieses Problem durch die Einrichtung eines Unified Supply Chain Hub-Systems, das einen Echtzeit-Datenaustauschmechanismus zwischen Herstellern, Trägern und Lagern integriert. Unsere Lösung beseitigt Datenengpässe und ermöglicht es Unternehmen, die Produktreise genau zu verfolgen und sofort auf Marktschwankungen zu reagieren."
+        "Die größte Herausforderung im Lieferkettenmanagement ist die mangelnde Synchronisation der Informationen zwischen den beteiligten Parteien, was zu virtuellen Lagerbeständen und Verzögerungen bei der Koordination der Güter führt. SoftBuild löst dieses Problem durch die Einrichtung eines Unified Supply Chain Hub-Systems, das einen Echtzeit-Datenaustauschmechanismus zwischen Herstellern, Trägern und Lagern integriert. Unsere Lösung beseitigt Datenengpässe und ermöglicht es Unternehmen, die Produktreise genau zu verfolgen und sofort auf Marktschwankungen zu reagieren."
       ],
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-quan-ly-chuoi-cung-ung-toan-dien.jpg",
       "imageAlt": "Umfassende Lösung für das Lieferkettenmanagement"
@@ -636,7 +636,7 @@
     },
     "why": {
       "label": "Warum wählst du uns?",
-      "title": "Warum wählen Sie Winterfrost für Ihre digitale Transformationslösung in der Lieferkette",
+      "title": "Warum wählen Sie SoftBuild für Ihre digitale Transformationslösung in der Lieferkette",
       "items": [
         {
           "number": "1",
@@ -673,7 +673,7 @@
     "cta": {
       "label": "Jetzt kontaktieren!",
       "title": "Digitalisierung umfassender Infrastruktur für das Lieferkettenmanagement",
-      "description": "Kontaktieren Sie das Ingenieurteam von Winterfrost, um ein zentrales Versorgungsmanagementsystem einzurichten und den Orchestrierungsprozess zu automatisieren, um die operative Effizienz Ihres Unternehmens zu optimieren.",
+      "description": "Kontaktieren Sie das Ingenieurteam von SoftBuild, um ein zentrales Versorgungsmanagementsystem einzurichten und den Orchestrierungsprozess zu automatisieren, um die operative Effizienz Ihres Unternehmens zu optimieren.",
       "buttonLabel": "Lassen Sie sich jetzt beraten",
       "image": "/images/people/cta/winterfrost/nhan-vien-cong-nghe-tre.png",
       "imageAlt": "Fachberater"
@@ -682,7 +682,7 @@
       "title": "Case Studies",
       "links": [
         {
-          "href": "https://winterfrost.tech/case-studies/website-zenovia-retail",
+          "href": "https://softbuildvn.vercel.app/case-studies/website-zenovia-retail",
           "text": "EINZELHANDEL\nLIEFERKETTE\nWEBDESIGN\nWebseite Zenovia Retail\nProjekt ansehen"
         }
       ],
@@ -780,7 +780,7 @@
       "items": [
         {
           "q": "Ist das System in der Lage, sich mit der bestehenden ERP-Management-Software des Unternehmens zu integrieren?",
-          "a": "Winterfrost gestaltet die Infrastruktur nach dem API First-Standard, um direkte Verbindungen zu beliebten Plattformen wie SAP und Oracle oder anderen internen Managementsystemen herzustellen. Der Datenfluss ist zweiseitig synchron eingerichtet, um eine absolute Konsistenz zwischen Einkaufsprozess, Lagerabläufen und Finanzbuchhaltung im gesamten Unternehmen sicherzustellen."
+          "a": "SoftBuild gestaltet die Infrastruktur nach dem API First-Standard, um direkte Verbindungen zu beliebten Plattformen wie SAP und Oracle oder anderen internen Managementsystemen herzustellen. Der Datenfluss ist zweiseitig synchron eingerichtet, um eine absolute Konsistenz zwischen Einkaufsprozess, Lagerabläufen und Finanzbuchhaltung im gesamten Unternehmen sicherzustellen."
         },
         {
           "q": "Wie geht das System damit um, wenn die Größe des Liefernetzwerks und die Menge an Transaktionsdaten dramatisch zunehmen?",
@@ -810,9 +810,9 @@
     "title": "Finanztechnologie",
     "hero": {
       "title": "Fintech-Lösungen",
-      "description": "Winterfrost entwickelt ultrasichere und skalierbare Finanzanwendungen auf einer cloudnativen Plattform. Von der Entwicklung moderner digitaler Banken, algorithmischer Transaktionssysteme bis hin zur tiefgehenden Blockchain-Integration unterstützen wir Finanzinstitute und Start-ups dabei, in großem Maßstab stark zu innovieren. Die Lösung von Winterfrost konzentriert sich darauf, eine sichere, transparente Handelsumgebung zu schaffen und die reale Datenverarbeitungsleistung zu optimieren.",
+      "description": "SoftBuild entwickelt ultrasichere und skalierbare Finanzanwendungen auf einer cloudnativen Plattform. Von der Entwicklung moderner digitaler Banken, algorithmischer Transaktionssysteme bis hin zur tiefgehenden Blockchain-Integration unterstützen wir Finanzinstitute und Start-ups dabei, in großem Maßstab stark zu innovieren. Die Lösung von SoftBuild konzentriert sich darauf, eine sichere, transparente Handelsumgebung zu schaffen und die reale Datenverarbeitungsleistung zu optimieren.",
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-cong-nghe-tai-chinh-HomeNest-Viet-Nam.jpg",
-      "imageAlt": "Fintech-Lösungen – Winterfrost",
+      "imageAlt": "Fintech-Lösungen – SoftBuild",
       "primaryLabel": "Direkt kontaktieren",
       "secondaryLabel": "Nachricht für Rat"
     },
@@ -821,7 +821,7 @@
       "title": "Herausforderungen des Fintech-Sektors",
       "paragraphs": [
         "Finanzinstitute stehen oft vor Herausforderungen durch veraltete Systeme, langsame Transaktionsverarbeitungsgeschwindigkeiten und hohe Sicherheitsrisiken. Der Mangel an Skalierbarkeit macht das System anfällig für Überlastung, da die Zahl der Nutzer schnell wächst. Darüber hinaus steht die Integration neuer Technologien wie Blockchain oder automatisierter Transaktionen in bestehende Infrastruktur vor vielen komplexen technischen Hürden.",
-        "Winterfrost entwickelt ultrasichere und skalierbare Finanzanwendungen auf einer cloudnativen Plattform. Wir bieten ein umfassendes Spektrum an Lösungen an, von digitalem Banking, algorithmischen Transaktionssystemen bis hin zu tiefgehender Blockchain-Integration. Die Lösung hilft Finanzinstituten und Start-ups, in großem Maßstab stark zu innovieren und sicherzustellen, dass alle Transaktionen sicher, transparent und augenblicklich ablaufen."
+        "SoftBuild entwickelt ultrasichere und skalierbare Finanzanwendungen auf einer cloudnativen Plattform. Wir bieten ein umfassendes Spektrum an Lösungen an, von digitalem Banking, algorithmischen Transaktionssystemen bis hin zu tiefgehender Blockchain-Integration. Die Lösung hilft Finanzinstituten und Start-ups, in großem Maßstab stark zu innovieren und sicherzustellen, dass alle Transaktionen sicher, transparent und augenblicklich ablaufen."
       ],
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Thach-thuc-cua-linh-vuc-cong-nghe-tai-chinh.jpg",
       "imageAlt": "Herausforderungen des Fintech-Sektors"
@@ -893,7 +893,7 @@
     },
     "why": {
       "label": "Warum wählst du uns?",
-      "title": "Warum Dienste bei Winterfrost nutzen",
+      "title": "Warum Dienste bei SoftBuild nutzen",
       "items": [
         {
           "number": "1",
@@ -913,7 +913,7 @@
         {
           "number": "4",
           "title": "Übergabe und Besitz des absoluten Quellcodes",
-          "description": "Winterfrost übergab nach Abschluss des Projekts 100 % des Quellcodes und der technischen Architekturdokumentation. Unternehmen haben das volle Eigentum am Produkt, sind proaktiv im Betrieb und modernisieren, ohne von Lieferanten abhängig zu sein."
+          "description": "SoftBuild übergab nach Abschluss des Projekts 100 % des Quellcodes und der technischen Architekturdokumentation. Unternehmen haben das volle Eigentum am Produkt, sind proaktiv im Betrieb und modernisieren, ohne von Lieferanten abhängig zu sein."
         },
         {
           "number": "5",
@@ -923,14 +923,14 @@
         {
           "number": "6",
           "title": "Beratungslösungen entsprechend praktischen Abläufen",
-          "description": "Wir untersuchen das spezifische Geschäftsmodell jeder Finanzinstitution gründlich, um die am besten geeigneten Merkmale vorzuschlagen. Die Lösung von Winterfrost konzentriert sich darauf, operative Probleme direkt zu lösen und den Cashflow für Kunden zu optimieren."
+          "description": "Wir untersuchen das spezifische Geschäftsmodell jeder Finanzinstitution gründlich, um die am besten geeigneten Merkmale vorzuschlagen. Die Lösung von SoftBuild konzentriert sich darauf, operative Probleme direkt zu lösen und den Cashflow für Kunden zu optimieren."
         }
       ]
     },
     "cta": {
       "label": "Jetzt kontaktieren!",
       "title": "Schaffen Sie jetzt ein sicheres Finanzökosystem!",
-      "description": "Bereit, Ihre Finanzinfrastruktur in eine Cloud-native Plattform zu verwandeln, die sicher und leistungsstark ist. Lassen Sie sich von Winterfrost dabei helfen, eine spezialisierte Fintech-Lösung zu entwickeln, die absolute Transparenz und lebenslangen Eigentum am Quellcode gewährleistet.",
+      "description": "Bereit, Ihre Finanzinfrastruktur in eine Cloud-native Plattform zu verwandeln, die sicher und leistungsstark ist. Lassen Sie sich von SoftBuild dabei helfen, eine spezialisierte Fintech-Lösung zu entwickeln, die absolute Transparenz und lebenslangen Eigentum am Quellcode gewährleistet.",
       "buttonLabel": "Erhalten Sie Lösungsratschläge und eine Implementierungsroadmap",
       "image": "/images/people/cta/winterfrost/chuyen-vien-nam-tre.png",
       "imageAlt": "Fachberater"
@@ -938,43 +938,43 @@
     "cases": null,
     "services": {
       "title": "Tiefgehende Fintech-Dienstleistungen bei HomneNest Vietnam",
-      "intro": "Winterfrost bietet Programmierdienste für Finanzsysteme der nächsten Generation auf cloudnativen und Blockchain-Plattformen an. Wir konzentrieren uns auf den Aufbau sicherer Transaktionsinfrastruktur, groß angelegte Datenverarbeitung und die Sicherstellung strikter Einhaltung von Finanzinstituten.",
+      "intro": "SoftBuild bietet Programmierdienste für Finanzsysteme der nächsten Generation auf cloudnativen und Blockchain-Plattformen an. Wir konzentrieren uns auf den Aufbau sicherer Transaktionsinfrastruktur, groß angelegte Datenverarbeitung und die Sicherstellung strikter Einhaltung von Finanzinstituten.",
       "items": [
         {
           "title": "Entwicklung einer digitalen Bankingplattform",
           "description": "Entwickeln Sie moderne Bankanwendungen mit allen Funktionen: Kontoverwaltung, schnelle Geldüberweisungen, Sparen und Rechnungszahlungen. Das System ist darauf ausgelegt, vollständig in der digitalen Umgebung zu arbeiten, mit minimalistischem Nutzererlebnis und mehrschichtiger Sicherheit.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phat-trien-nen-tang-ngan-hang-so-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Entwicklung digitaler Banking-Plattformen – Winterfrost"
+          "imageAlt": "Entwicklung digitaler Banking-Plattformen – SoftBuild"
         },
         {
           "title": "E-Wallets und Zahlungsgateways aufbauen",
           "description": "Aufbau digitaler Zahlungsinfrastruktur, Unterstützung vielfältiger Verbindungen zum Bankensystem und internationalen Finanzinstituten. Wir wenden End-to-End-Verschlüsselungsstandards an, um die absolute Sicherheit aller Nutzertransaktionen zu gewährleisten.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Xay-dung-vi-dien-tu-va-cong-thanh-toan-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "E-Wallets und Zahlungsgateways bauen – Winterfrost"
+          "imageAlt": "E-Wallets und Zahlungsgateways bauen – SoftBuild"
         },
         {
           "title": "Programmierung algorithmischer Handelssysteme",
           "description": "Entwickeln Sie Software, die automatisierten Handel an Finanzmärkten auf Basis von Echtzeit-Datenanalysealgorithmen unterstützt. Die Lösung hilft, den emotionalen Faktor zu eliminieren, die Geschwindigkeit der Auftragsausführung zu optimieren und die Effizienz des Risikomanagements zu verbessern.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Lap-trinh-he-thong-giao-dich-thuat-toan-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Algorithmische Handelssystemprogrammierung – Winterfrost"
+          "imageAlt": "Algorithmische Handelssystemprogrammierung – SoftBuild"
         },
         {
           "title": "Integration von Blockchain-Lösungen",
           "description": "Anwendung dezentraler Hauptbuchtechnologie auf das Management digitaler Vermögenswerte, elektronische Identifikation und die Automatisierung finanzieller Vereinbarungen über Smart Contracts. Dieser Dienst gewährleistet Transparenz, die Daten können nicht verändert werden und das Vertrauen des Systems wird gestärkt.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Tich-hop-giai-phap-blockchain-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Integration von Blockchain-Lösungen – Winterfrost"
+          "imageAlt": "Integration von Blockchain-Lösungen – SoftBuild"
         },
         {
           "title": "Entwicklung einer Kreditplattform",
           "description": "Bauen Sie ein Online-Kreditsystem auf, das Datenanalysetechnologie für die automatische Kreditbewertung integriert. Der Kreditgenehmigungsprozess wird schnell und präzise auf Basis intelligenter Risikobewertungsalgorithmen durchgeführt.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phat-trien-nen-tang-cho-vay-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Entwicklung von Lending-Plattformen – Winterfrost"
+          "imageAlt": "Entwicklung von Lending-Plattformen – SoftBuild"
         },
         {
           "title": "Managementtechnologie-Lösungen",
           "description": "Bereitstellen Sie Technologietools, die Unternehmen dabei unterstützen, den Prozess der Kundenidentifikation, KYC, AML-Geldwäscheprävention und Kontrollen zur Einhaltung von Finanzregulierungen zu automatisieren. Die Lösung hilft, rechtliche Risiken zu minimieren und die Betriebskosten für Organisationen zu optimieren.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-cong-nghe-quan-ly-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Managementtechnologie-Lösungen – Winterfrost"
+          "imageAlt": "Managementtechnologie-Lösungen – SoftBuild"
         }
       ],
       "cta": "Entdecken Sie alle Dienste"
@@ -1010,7 +1010,7 @@
           "number": "05",
           "tag": "Systemveröffentlichung",
           "title": "Einsatz und Betriebsüberwachung",
-          "description": "Hochsichere Serverkonfiguration, Echtzeit-Transaktionsüberwachungstools installiert und die Anwendung offiziell in Betrieb genommen. Winterfrost etabliert ein automatisiertes Alarmsystem, um abnormale Zugriffsverhalten sofort zu erkennen und zu verhindern."
+          "description": "Hochsichere Serverkonfiguration, Echtzeit-Transaktionsüberwachungstools installiert und die Anwendung offiziell in Betrieb genommen. SoftBuild etabliert ein automatisiertes Alarmsystem, um abnormale Zugriffsverhalten sofort zu erkennen und zu verhindern."
         },
         {
           "number": "06",
@@ -1027,15 +1027,15 @@
       "intro": "Fragen zum Finanztechnologiesystem beantworten",
       "items": [
         {
-          "q": "Wie gewährleistet das System von Winterfrost die Sicherheit von Währungstransaktionen?",
+          "q": "Wie gewährleistet das System von SoftBuild die Sicherheit von Währungstransaktionen?",
           "a": "Wir wenden die strengsten Sicherheitsstandards an, darunter: E2EE End-to-End-Datenverschlüsselung, MFA-Multi-Faktor-Authentifizierung und biometrische Identifikation. Darüber hinaus durchläuft das System stets regelmäßige Penetrationstests, um Sicherheitslücken rechtzeitig zu erkennen und zu verhindern."
         },
         {
           "q": "Entspricht das System den Finanzvorschriften in Vietnam?",
-          "a": "Ja. Die Lösungen von Winterfrost sind darauf ausgelegt, strikt den Vorschriften der Staatsbanken und internationalen Standards wie AML und KYC zu entsprechen. Dies hilft Unternehmen, rechtliche Risiken zu minimieren und transparent zu agieren."
+          "a": "Ja. Die Lösungen von SoftBuild sind darauf ausgelegt, strikt den Vorschriften der Staatsbanken und internationalen Standards wie AML und KYC zu entsprechen. Dies hilft Unternehmen, rechtliche Risiken zu minimieren und transparent zu agieren."
         },
         {
-          "q": "Ist die Infrastruktur von Winterfrost in der Lage, gleichzeitig ein großes Volumen an Transaktionen zu verarbeiten?",
+          "q": "Ist die Infrastruktur von SoftBuild in der Lage, gleichzeitig ein großes Volumen an Transaktionen zu verarbeiten?",
           "a": "Dank der cloudnativen Architektur und Microservices ist das System in der Lage, Ressourcen automatisch sofort zu skalieren, um Tausende von Transaktionen pro Sekunde zu verarbeiten. Die Leistung bleibt stets stabil, sodass während der Haupthandelszeiten keine Hengste oder Verzögerungen auftreten."
         },
         {
@@ -1043,11 +1043,11 @@
           "a": "Absolut. Wir nutzen standardisierte API-Gateways, um Datenverbindungen und Synchronisationen zwischen neuen Fintech-Anwendungen und traditionellen Kernbanking-Systemen herzustellen. Dieser Prozess stellt sicher, dass Cashflow und Kundendaten stets genau und sicher aktualisiert werden."
         },
         {
-          "q": "Wird Winterfrost nach Abschluss des Projekts den gesamten Quellcode herausgeben?",
-          "a": "Ja. Winterfrost verpflichtet sich, 100 % des Quellcodes und der technischen Architekturdokumentation an Unternehmen zu übergeben. Man hat das volle Eigentum, proaktive Upgrades und Betrieb des Systems, ohne an einen Technologieanbieter gebunden zu sein."
+          "q": "Wird SoftBuild nach Abschluss des Projekts den gesamten Quellcode herausgeben?",
+          "a": "Ja. SoftBuild verpflichtet sich, 100 % des Quellcodes und der technischen Architekturdokumentation an Unternehmen zu übergeben. Man hat das volle Eigentum, proaktive Upgrades und Betrieb des Systems, ohne an einen Technologieanbieter gebunden zu sein."
         },
         {
-          "q": "Wie wird die Blockchain-Technologie in der Lösung von Winterfrost angewendet?",
+          "q": "Wie wird die Blockchain-Technologie in der Lösung von SoftBuild angewendet?",
           "a": "Wir wenden Blockchain an, um irreduzible Transaktionsbücher zu erstellen, die Transparenz und Sicherheit erhöhen. Die Technologie wird auch zur Implementierung von Smart Contracts eingesetzt, die finanzielle Vereinbarungen automatisieren, ohne dass Vermittler benötigt werden."
         }
       ]
@@ -1058,7 +1058,7 @@
     "title": "Erdöl",
     "hero": {
       "title": "Digitale Transformationslösungen für die Öl- und Gasindustrie",
-      "description": "Die Öl- und Gasindustrie erfordert eine genaue Überwachung, strikte Einhaltung von Sicherheitsstandards und die Aufrechterhaltung eines ununterbrochenen Betriebs. Winterfrost bietet maßgeschneiderte Technologielösungen an, die darauf ausgelegt sind, komplexe operative Prozesse zu optimieren.",
+      "description": "Die Öl- und Gasindustrie erfordert eine genaue Überwachung, strikte Einhaltung von Sicherheitsstandards und die Aufrechterhaltung eines ununterbrochenen Betriebs. SoftBuild bietet maßgeschneiderte Technologielösungen an, die darauf ausgelegt sind, komplexe operative Prozesse zu optimieren.",
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-chuyen-doi-so-cho-nganh-dau-khi.jpg",
       "imageAlt": "Digitale Transformationslösungen für die Öl- und Gasindustrie",
       "primaryLabel": "Direkt kontaktieren",
@@ -1069,7 +1069,7 @@
       "title": "Optimierung der Abläufe mit echten Daten",
       "paragraphs": [
         "In der Öl- und Gasindustrie sind die Verwaltung von entfernten Maschinen und die Gewährleistung der Sicherheit die größten Herausforderungen. Wenn Systeme nicht miteinander verbunden sind, neigen Unternehmen zu Ressourcenverschwendung und Verzögerungen bei der Fehlerbehebung. Man braucht einen zentralen Ort, um alles zu verwalten, von Rigs bis zu Rohrleitungen, um sicherzustellen, dass die Arbeit reibungslos funktioniert.",
-        "Winterfrost stellt Software bereit, die alle Aktivitäten vom Mining bis zur Auslieferung verbindet. Indem wir Daten von Sensoren verfolgen, helfen wir Führungskräften, die Leistung zu verstehen, Flotten zu verwalten und Pannen im Voraus vorherzusagen, um plötzliche Ausfallzeiten zu vermeiden."
+        "SoftBuild stellt Software bereit, die alle Aktivitäten vom Mining bis zur Auslieferung verbindet. Indem wir Daten von Sensoren verfolgen, helfen wir Führungskräften, die Leistung zu verstehen, Flotten zu verwalten und Pannen im Voraus vorherzusagen, um plötzliche Ausfallzeiten zu vermeiden."
       ],
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Toi-uu-van-hanh-bang-du-lieu-thuc-te-cho-nganh-dau-khi.jpg",
       "imageAlt": "Optimierung von Abläufen mit echten Daten für die Öl- und Gasindustrie"
@@ -1141,12 +1141,12 @@
     },
     "why": {
       "label": "Warum wählst du uns?",
-      "title": "Warum Energieunternehmen Winterfrost vertrauen",
+      "title": "Warum Energieunternehmen SoftBuild vertrauen",
       "items": [
         {
           "number": "1",
           "title": "Wissen in vielen Bereichen",
-          "description": "Wir bauen Lösungen auf Basis eines gründlichen Verständnisses der operativen Abläufe an Bohranlagen, Pipelines und Lagern. Winterfrost bietet keine Massensoftware an, stellt aber Werkzeuge zur Verfügung, um spezifische Probleme der Energiebranche zu lösen."
+          "description": "Wir bauen Lösungen auf Basis eines gründlichen Verständnisses der operativen Abläufe an Bohranlagen, Pipelines und Lagern. SoftBuild bietet keine Massensoftware an, stellt aber Werkzeuge zur Verfügung, um spezifische Probleme der Energiebranche zu lösen."
         },
         {
           "number": "2",
@@ -1161,7 +1161,7 @@
         {
           "number": "4",
           "title": "Fehlervorhersagetechnologie",
-          "description": "Anstatt darauf zu warten, dass der Fehler behoben ist, nutzt die Lösung von Winterfrost künstliche Intelligenz, um potenzielle Schäden frühzeitig zu erkennen. Dies hilft Unternehmen, Maschinen proaktiv zu warten, die Lebensdauer zu verlängern und Notfallreparaturkosten zu vermeiden."
+          "description": "Anstatt darauf zu warten, dass der Fehler behoben ist, nutzt die Lösung von SoftBuild künstliche Intelligenz, um potenzielle Schäden frühzeitig zu erkennen. Dies hilft Unternehmen, Maschinen proaktiv zu warten, die Lebensdauer zu verlängern und Notfallreparaturkosten zu vermeiden."
         },
         {
           "number": "5",
@@ -1171,14 +1171,14 @@
         {
           "number": "6",
           "title": "24/7 technischer Support",
-          "description": "Die Öl- und Gasindustrie arbeitet rund um die Uhr, und wir auch. Das technische Team von Winterfrost steht jederzeit zur Verfügung, um jede Situation zu bewältigen und sorgt dafür, dass Ihr Produktionsfluss niemals unterbrochen wird."
+          "description": "Die Öl- und Gasindustrie arbeitet rund um die Uhr, und wir auch. Das technische Team von SoftBuild steht jederzeit zur Verfügung, um jede Situation zu bewältigen und sorgt dafür, dass Ihr Produktionsfluss niemals unterbrochen wird."
         }
       ]
     },
     "cta": {
       "label": "Jetzt kontaktieren!",
       "title": "Machen Sie sich bereit, Ihre Energieinfrastruktur zu optimieren",
-      "description": "Lassen Sie nicht zu, dass plötzliche Schließungen oder Sicherheitsrisiken die Produktionsabläufe stören und die Unternehmensgewinne untergraben. Lassen Sie Winterfrost Ihnen helfen, ein intelligentes Betriebssystem zu entwickeln, bei dem jeder Parameter unter Kontrolle ist und jedes Problem im Voraus vorhergesagt wird.",
+      "description": "Lassen Sie nicht zu, dass plötzliche Schließungen oder Sicherheitsrisiken die Produktionsabläufe stören und die Unternehmensgewinne untergraben. Lassen Sie SoftBuild Ihnen helfen, ein intelligentes Betriebssystem zu entwickeln, bei dem jeder Parameter unter Kontrolle ist und jedes Problem im Voraus vorhergesagt wird.",
       "buttonLabel": "Tiefgehende Lösungsberatung",
       "image": "/images/people/cta/winterfrost/chuyen-vien-nu.png",
       "imageAlt": "Fachberater"
@@ -1186,43 +1186,43 @@
     "cases": null,
     "services": {
       "title": "Spezialisierte Lösungen für die Öl- und Gasindustrie",
-      "intro": "Winterfrost bietet ein tiefgehendes digitales Lösungsökosystem, um den Öl- und Gasbetriebsprozess von der Ausbeutung bis zur Verteilung zu optimieren. Wir konzentrieren uns auf technische Infrastruktur, Datenmanagement und den Einsatz von Prognosetechnologie, um operative Sicherheit und tatsächliche Auswertungseffizienz zu gewährleisten.",
+      "intro": "SoftBuild bietet ein tiefgehendes digitales Lösungsökosystem, um den Öl- und Gasbetriebsprozess von der Ausbeutung bis zur Verteilung zu optimieren. Wir konzentrieren uns auf technische Infrastruktur, Datenmanagement und den Einsatz von Prognosetechnologie, um operative Sicherheit und tatsächliche Auswertungseffizienz zu gewährleisten.",
       "items": [
         {
           "title": "SCADA- und IoT-Systeme",
           "description": "Direkter Anschluss an Messgeräte und SPS-Regler vor Ort. Erfassung und Digitalisierung von Spezifikationen wie Druck, Temperatur und Datenverkehr zum zentralen Server.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Thiet-lap-mang-luoi-SCADA-va-IoT-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "SCADA- und IoT-Netzwerkeinrichtung – Winterfrost"
+          "imageAlt": "SCADA- und IoT-Netzwerkeinrichtung – SoftBuild"
         },
         {
           "title": "Wartungsprognosesoftware",
           "description": "Anwendung von Betriebsdatenanalyse-Algorithmen zur Bestimmung des Verschleißzustands von Bauteilen. Das System stellt einen Wartungsplan basierend auf der tatsächlichen Laufzeit der Maschine bereit, um Komponenten vor Auftreten eines Problems zu ersetzen.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phan-mem-du-bao-bao-tri-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Wartungsprognosesoftware – Winterfrost"
+          "imageAlt": "Wartungsprognosesoftware – SoftBuild"
         },
         {
           "title": "Überwachungsplattform",
           "description": "Digitalisierung des Verkehrspipeline-Netzwerks im geografischen Informationssystem. Bestimmen Sie den genauen Ort von Druckschwankungen oder Lecks im gesamten Netzdiagramm.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Nen-tang-giam-sat-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Überwachungsplattform – Winterfrost"
+          "imageAlt": "Überwachungsplattform – SoftBuild"
         },
         {
           "title": "Automatisches Notstoppsystem",
           "description": "Programmierung von Szenarien für ein automatisches Abschalten, wenn die Spezifikationen die zulässige Sicherheitsschwelle überschreiten. Stellen Sie sicher, dass das System ohne manuelles Eingreifen sofort nicht mehr funktioniert.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/He-thong-dung-khan-cap-tu-dong-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Automatisches Notstoppsystem – Winterfrost"
+          "imageAlt": "Automatisches Notstoppsystem – SoftBuild"
         },
         {
           "title": "Transport- und Kraftstoffmanagementlösungen",
           "description": "Integrierte Satellitennavigations- und Tankpegelsensoren zur Überwachung der Route und des Frachtvolumens der Flotte und der Panzerlaster. Präzise Kontrolle von Kraftstoffimporten, -exporten und Lagerbeständen.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-quan-ly-van-tai-va-nhien-lieu-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Transport- und Kraftstoffmanagementlösungen – Winterfrost"
+          "imageAlt": "Transport- und Kraftstoffmanagementlösungen – SoftBuild"
         },
         {
           "title": "Aggregation und Analyse von Big Data",
           "description": "Bauen Sie ein zentrales Repository und verarbeiten Sie riesige Mengen an Betriebsdaten. Technische Berichte zu Bergbauleistung und Energieverbrauchsnormen extrahieren.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Nen-tang-phan-tich-du-lieu-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Datenanalyseplattform – Winterfrost"
+          "imageAlt": "Datenanalyseplattform – SoftBuild"
         }
       ],
       "cta": "Entdecken Sie alle Dienste"
@@ -1264,7 +1264,7 @@
           "number": "06",
           "tag": "Unterstützung",
           "title": "24/7 Wartung und Support",
-          "description": "Stellen Sie jederzeit Software-Gesundheitsüberwachung und technischen Support bereit. Das Winterfrost-Team setzt sich dafür ein, Konnektivitätsprobleme schnell zu lösen, damit Datenfluss und -produktion nicht unterbrochen werden."
+          "description": "Stellen Sie jederzeit Software-Gesundheitsüberwachung und technischen Support bereit. Das SoftBuild-Team setzt sich dafür ein, Konnektivitätsprobleme schnell zu lösen, damit Datenfluss und -produktion nicht unterbrochen werden."
         }
       ],
       "cta": "Beginnen Sie mit der Entwicklung Ihres Produkts!"
@@ -1275,7 +1275,7 @@
       "intro": "Beantwortung von Fragen zu Lösungen für Erdöltechnologie",
       "items": [
         {
-          "q": "Ist das System von Winterfrost mit bestehenden SCADA- und SPS-Geräten kompatibel?",
+          "q": "Ist das System von SoftBuild mit bestehenden SCADA- und SPS-Geräten kompatibel?",
           "a": "Wir entwickeln Software basierend auf gängigen Industrieprotokollstandards wie OPC UA, Modbus und MQTT. Dies ermöglicht es dem System, die bestehenden Controller und Sensoren des Unternehmens direkt zu verbinden und Daten zu sammeln, ohne die Hardware-Infrastruktur ersetzen zu müssen."
         },
         {
@@ -1306,7 +1306,7 @@
     "title": "Reisen",
     "hero": {
       "title": "Technologielösungen für die Tourismusbranche",
-      "description": "Heutige Reisende wünschen sich eine nahtlose und personalisierte Reise vom Moment der Suche bis zur Zeit nach der Reise. Winterfrost entwickelt spezialisierte Plattformen, die helfen, den gesamten Lebenszyklus von Reisedienstleistungen zu verwalten. Wir entwickeln intelligente Buchungsmaschinen, flexible Preisalgorithmen und Omnichannel-Terminmanagementsysteme, um Unternehmen dabei zu helfen, die Auslastung zu steigern, Verlassen zu reduzieren und ein professionelles Kundenerlebnis zu bieten.",
+      "description": "Heutige Reisende wünschen sich eine nahtlose und personalisierte Reise vom Moment der Suche bis zur Zeit nach der Reise. SoftBuild entwickelt spezialisierte Plattformen, die helfen, den gesamten Lebenszyklus von Reisedienstleistungen zu verwalten. Wir entwickeln intelligente Buchungsmaschinen, flexible Preisalgorithmen und Omnichannel-Terminmanagementsysteme, um Unternehmen dabei zu helfen, die Auslastung zu steigern, Verlassen zu reduzieren und ein professionelles Kundenerlebnis zu bieten.",
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Linh-vuc-du-lich.jpg",
       "imageAlt": "Tourismussektor",
       "primaryLabel": "Direkt kontaktieren",
@@ -1317,10 +1317,10 @@
       "title": "Problem des Tourismusbetriebs",
       "paragraphs": [
         "Tourismusunternehmen haben oft Schwierigkeiten, wenn sie Tourpläne, Zimmerlisten und Flugtickets gleichzeitig auf mehreren Plattformen manuell verwalten müssen. Die Verzögerung oder Unstimmigkeit von Informationen zwischen Websites und Beratungsanwendungen führt leicht zu Verwirrung, offenen Stellen, falschen Angeboten, Reputationsverlust und Einnahmeverlust.",
-        "Winterfrost bietet ein zentrales Managementsystem, das das gesamte Geschäft des Unternehmens auf einer einzigen Plattform verbindet. Alle Daten zu Zeitplänen, Verfügbarkeit und Servicepreisen werden automatisch in Echtzeit synchronisiert. Dies hilft Unternehmen, reibungslos zu arbeiten, sofort auf Kunden zu reagieren und Daten vollständig zu beherrschen, um nachhaltige Markenentwicklung zu ermöglichen."
+        "SoftBuild bietet ein zentrales Managementsystem, das das gesamte Geschäft des Unternehmens auf einer einzigen Plattform verbindet. Alle Daten zu Zeitplänen, Verfügbarkeit und Servicepreisen werden automatisch in Echtzeit synchronisiert. Dies hilft Unternehmen, reibungslos zu arbeiten, sofort auf Kunden zu reagieren und Daten vollständig zu beherrschen, um nachhaltige Markenentwicklung zu ermöglichen."
       ],
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Du-Lich-HomeNest-Viet-Nam.jpg",
-      "imageAlt": "Reisen – Winterfrost"
+      "imageAlt": "Reisen – SoftBuild"
     },
     "counters": [
       {
@@ -1346,7 +1346,7 @@
     ],
     "values": {
       "title": "Technologielösungen für die Tourismus- und Unterkunftsbranche",
-      "intro": "Winterfrost baut leistungsstarke Plattformen auf, die Zuschauer in echte Kunden verwandeln und Erstreisende in treue Kunden verwandeln.",
+      "intro": "SoftBuild baut leistungsstarke Plattformen auf, die Zuschauer in echte Kunden verwandeln und Erstreisende in treue Kunden verwandeln.",
       "items": [
         {
           "title": "Automatische Optimierung der Verkaufspreise",
@@ -1389,7 +1389,7 @@
     },
     "why": {
       "label": "Warum wählst du uns?",
-      "title": "Warum sich für Technologielösungen von Winterfrost entscheiden",
+      "title": "Warum sich für Technologielösungen von SoftBuild entscheiden",
       "items": [
         {
           "number": "1",
@@ -1425,7 +1425,7 @@
     },
     "cta": {
       "label": "Jetzt kontaktieren!",
-      "title": "Wir beginnen eine digitale Transformationsreise für die Tourismusbranche mit Winterfrost",
+      "title": "Wir beginnen eine digitale Transformationsreise für die Tourismusbranche mit SoftBuild",
       "description": "Lassen Sie uns Ihnen helfen, den Direktbuchungskanal zu meistern und den Betriebsprozess umfassend mit smarter Technologie zu optimieren. Kontaktieren Sie unser Expertenteam, um jetzt eine spezialisierte Beratung für Ihr Unternehmen zu erhalten.",
       "buttonLabel": "Jetzt Lösungen konsultieren",
       "image": "/images/people/cta/winterfrost/chuyen-vien-nam-tre.png",
@@ -1435,11 +1435,11 @@
       "title": "Case Studies",
       "links": [
         {
-          "href": "https://winterfrost.tech/case-studies/website-rovena-travel",
+          "href": "https://softbuildvn.vercel.app/case-studies/website-rovena-travel",
           "text": "REISEN\nWEBDESIGN\nWebseite Rovena Travel\nProjekt ansehen"
         },
         {
-          "href": "https://winterfrost.tech/case-studies/website-du-lich-leveltrip",
+          "href": "https://softbuildvn.vercel.app/case-studies/website-du-lich-leveltrip",
           "text": "REISEN\nWEBDESIGN\nWebsite du lịch Rovena Travel\nProjekt ansehen"
         }
       ],
@@ -1452,43 +1452,43 @@
     },
     "services": {
       "title": "Lösungen für jedes Reisesegment",
-      "intro": "Winterfrost bietet umfassende technische Fähigkeiten, um jedes Geschäftsmodell im Tourismus-Ökosystem zu unterstützen.",
+      "intro": "SoftBuild bietet umfassende technische Fähigkeiten, um jedes Geschäftsmodell im Tourismus-Ökosystem zu unterstützen.",
       "items": [
         {
           "title": "Hotels & Resorts",
           "description": "Konzentrieren Sie sich auf den Aufbau eines Direktbuchungssystems, um die Abhängigkeit von Zwischenebenen zu verringern und interne Versorgungsleitungen zu integrieren, was das Gästeerlebnis verbessert.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Khach-san-va-khu-nghi-duong-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Hotels & Resorts – Winterfrost"
+          "imageAlt": "Hotels & Resorts – SoftBuild"
         },
         {
           "title": "Online-Reisebüro",
           "description": "Entwicklung von Big-Data-Verarbeitungstechnologien, um Informationen schnell zu synthetisieren, sowie ein Buchungssystem mit hoher Belastung zur Optimierung der Konversionsraten für Reisebörsen.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Dai-ly-du-lich-truc-tuyen-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Online-Reisebüro – Winterfrost"
+          "imageAlt": "Online-Reisebüro – SoftBuild"
         },
         {
           "title": "Reiseveranstalter",
           "description": "Bietet ein All-inclusive-Reiseveranstalter-Tool, das direkt mit Reiseleitern und Dienstleistern verbunden ist, um sicherzustellen, dass der Zeitplan stets korrekt ist.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Cong-ty-lu-hanh-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Reiseveranstalter - Winterfrost"
+          "imageAlt": "Reiseveranstalter - SoftBuild"
         },
         {
           "title": "Großflächige Luftfahrt und Transport",
           "description": "Entwickeln Sie Modelle, die die Einnahmen aus ergänzenden Dienstleistungen und Loyalitätsmanagementsystemen optimieren, um den durchschnittlichen Wert pro Besucher zu steigern.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Hang-khong-va-van-tai-quy-mo-lon-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Großflächige Luftfahrt und Transport – Winterfrost"
+          "imageAlt": "Großflächige Luftfahrt und Transport – SoftBuild"
         },
         {
           "title": "Autovermietungsservice",
           "description": "Der Einsatz von automatischer Positionierungs- und Dispositionstechnologie hilft Geschäftsinhabern, ihre Flotte effektiv zu verwalten und die Fahrpläne der Fahrer genau zu steuern.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Dich-vu-cho-thue-xe-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Autovermietungsdienste – Winterfrost"
+          "imageAlt": "Autovermietungsdienste – SoftBuild"
         },
         {
           "title": "Tourismusmanagement für Unternehmen",
           "description": "Bietet eine automatisierte Plattform für das Management von Geschäftsausgaben, die Organisationen dabei unterstützt, ihre Budgets streng zu kontrollieren und den Prozess der Rückerstattung von Dokumenten zu vereinfachen.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Quan-tri-du-lich-cho-doanh-nghiep-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Unternehmenstourismusmanagement – Winterfrost"
+          "imageAlt": "Unternehmenstourismusmanagement – SoftBuild"
         }
       ],
       "cta": "Entdecken Sie alle Dienste"
@@ -1545,7 +1545,7 @@
           "a": "In der Regel dauert der Prozess von der Begutachtungsphase bis zur eigentlichen Inbetriebnahme zwischen 8 und 12 Wochen, abhängig von Größe und Komplexität der vom Unternehmen benötigten Funktionen."
         },
         {
-          "q": "Ist die Lösung von Winterfrost mit bestehender Verwaltungssoftware verbunden?",
+          "q": "Ist die Lösung von SoftBuild mit bestehender Verwaltungssoftware verbunden?",
           "a": "Das System ist mit hoher Kompatibilität konstruiert, um direkt mit Raumverwaltungssoftware oder beliebten Zahlungsgateways für den Haushalt verbunden zu sein, sodass Unternehmen stets reibungslos laufen."
         },
         {
@@ -1554,7 +1554,7 @@
         },
         {
           "q": "Können nicht technikaffine Mitarbeiter dieses System einfach nutzen?",
-          "a": "Die Verwaltungsoberfläche wurde von Winterfrost in Richtung Minimalismus und Funktionalität optimiert, sodass Lehrer und Mitarbeiter die Technologie bereits nach kurzer Zeit professionell beherrschen und kompetent arbeiten."
+          "a": "Die Verwaltungsoberfläche wurde von SoftBuild in Richtung Minimalismus und Funktionalität optimiert, sodass Lehrer und Mitarbeiter die Technologie bereits nach kurzer Zeit professionell beherrschen und kompetent arbeiten."
         },
         {
           "q": "Wie werden Reisedaten und Geschäftsinformationen gesichert?",
@@ -1572,7 +1572,7 @@
     "title": "Bildung",
     "hero": {
       "title": "Softwarelösungen für die Bildungsbranche",
-      "description": "Winterfrost bietet LMS-Lernmanagementsystem-Programmierlösungen, Online-Trainingsplattformen und Anwendungen an, die intensive Bildungsabläufe unterstützen. Wir konzentrieren uns auf die Digitalisierung von Lernmaterialien, die Automatisierung der Prozesse der studentischen Verwaltung und die Optimierung der Inhaltsbereitstellungsinfrastruktur auf digitalen Plattformen.",
+      "description": "SoftBuild bietet LMS-Lernmanagementsystem-Programmierlösungen, Online-Trainingsplattformen und Anwendungen an, die intensive Bildungsabläufe unterstützen. Wir konzentrieren uns auf die Digitalisierung von Lernmaterialien, die Automatisierung der Prozesse der studentischen Verwaltung und die Optimierung der Inhaltsbereitstellungsinfrastruktur auf digitalen Plattformen.",
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-phan-mem-cho-nganh-giao-duc.jpg",
       "imageAlt": "Softwarelösungen für die Bildungsbranche",
       "primaryLabel": "Direkt kontaktieren",
@@ -1582,7 +1582,7 @@
       "label": "Überblick",
       "title": "Überwindung von Hürden für Bildungsinfrastruktur",
       "paragraphs": [
-        "Groß angelegte Ausbildungsorganisationen sehen sich häufig fragmentierten Schülerdaten über mehrere unabhängige Plattformen hinweg gegenüber, was es erschwert, die Verwaltung zu zentralisieren und operative Berichte zu fälschen. Winterfrost löst dieses Problem, indem es eine Unified Data Architecture etabliert, die Echtzeitinformationen zwischen Modulen über ein zentrales API-System synchronisiert. Zusätzlich implementieren wir, um die Systemüberlastung zu überwinden, wenn die Anzahl der gleichzeitig auf die Prüfung zugreifenden Nutzer steigt, eine Microservices-Architektur kombiniert mit dem Auto Scaling-Mechanismus auf der Cloud-Computing-Plattform, um eine Antwortgeschwindigkeit von weniger als 2 Sekunden zu gewährleisten.",
+        "Groß angelegte Ausbildungsorganisationen sehen sich häufig fragmentierten Schülerdaten über mehrere unabhängige Plattformen hinweg gegenüber, was es erschwert, die Verwaltung zu zentralisieren und operative Berichte zu fälschen. SoftBuild löst dieses Problem, indem es eine Unified Data Architecture etabliert, die Echtzeitinformationen zwischen Modulen über ein zentrales API-System synchronisiert. Zusätzlich implementieren wir, um die Systemüberlastung zu überwinden, wenn die Anzahl der gleichzeitig auf die Prüfung zugreifenden Nutzer steigt, eine Microservices-Architektur kombiniert mit dem Auto Scaling-Mechanismus auf der Cloud-Computing-Plattform, um eine Antwortgeschwindigkeit von weniger als 2 Sekunden zu gewährleisten.",
         "Auch das Thema akademische Informationssicherheit und die Verhinderung von Prüfungslecks werden gründlich durch End-to-End-Datenverschlüsselungsprotokolle und mehrstufige Zugriffsdezentralisierungsmechanismen behandelt. Wir integrieren außerdem ein CDN-Content-Delivery-Netzwerk, um die Leistung von Videovorlesungsströmen zu optimieren, und führen Quellcode-Refactoring für Altsysteme durch, um technische Schulden vollständig zu beseitigen. Schließlich hilft die Programmierung von Workflow-Automatisierungsskripten für Geschäftsprozessautomatisierung, Bildungsunternehmen, die Personalkosten für sich wiederholende Aufgaben wie die Terminplanung von Unterricht oder das Versenden regelmäßiger Studiengebührenbenachrichtigungen erheblich zu senken."
       ],
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Khac-phuc-rao-can-ha-tang-giao-duc.jpg",
@@ -1655,7 +1655,7 @@
     },
     "why": {
       "label": "Warum wählst du uns?",
-      "title": "Gründe für die Wahl der technologischen Fähigkeiten von Winterfrost",
+      "title": "Gründe für die Wahl der technologischen Fähigkeiten von SoftBuild",
       "items": [
         {
           "number": "1",
@@ -1692,7 +1692,7 @@
     "cta": {
       "label": "Jetzt kontaktieren!",
       "title": "Digitalisierung der Bildungs- und Ausbildungsmanagementinfrastruktur",
-      "description": "Kontaktieren Sie das Ingenieurteam von Winterfrost, um ein zentrales Lernmanagementsystem einzurichten und operative Prozesse zur Optimierung der Lehrleistung für Bildungseinrichtungen zu automatisieren.",
+      "description": "Kontaktieren Sie das Ingenieurteam von SoftBuild, um ein zentrales Lernmanagementsystem einzurichten und operative Prozesse zur Optimierung der Lehrleistung für Bildungseinrichtungen zu automatisieren.",
       "buttonLabel": "Holen Sie sich technische Lösungsratschläge",
       "image": "/images/people/cta/winterfrost/chuyen-vien-nam-tre.png",
       "imageAlt": "Fachberater"
@@ -1790,7 +1790,7 @@
       "items": [
         {
           "q": "Hat das Unternehmen nach der Übergabe das volle Eigentum am Quellcode?",
-          "a": "Ja. Winterfrost übergab 100 % des ursprünglichen Quellcodes und die dazugehörigen technischen Spezifikationsdokumente. Dies stellt sicher, dass Unternehmen die volle Kontrolle über das System haben und die Infrastruktur aktiv aktualisieren oder verändern können, ohne von einem Softwareanbieter abhängig zu sein."
+          "a": "Ja. SoftBuild übergab 100 % des ursprünglichen Quellcodes und die dazugehörigen technischen Spezifikationsdokumente. Dies stellt sicher, dass Unternehmen die volle Kontrolle über das System haben und die Infrastruktur aktiv aktualisieren oder verändern können, ohne von einem Softwareanbieter abhängig zu sein."
         },
         {
           "q": "Wie kann das System nicht abstürzen, wenn Zehntausende von Studierenden gleichzeitig die Online-Prüfung ablegen?",
@@ -1798,7 +1798,7 @@
         },
         {
           "q": "Wie werden exklusive Vorlesungsvideos vor Plagiat geschützt?",
-          "a": "Winterfrost integriert DRM-Videostrom-Verschlüsselungstechnologie und digitale Wassermarkierungstechnologie mit Benutzeridentifikationsinformationen. Diese Lösung verhindert effektiv unautorisierte Download-Tools und hilft Unternehmen, Konten genau nachzuverfolgen, die Vorlesungsbildschirme aufzeichnen."
+          "a": "SoftBuild integriert DRM-Videostrom-Verschlüsselungstechnologie und digitale Wassermarkierungstechnologie mit Benutzeridentifikationsinformationen. Diese Lösung verhindert effektiv unautorisierte Download-Tools und hilft Unternehmen, Konten genau nachzuverfolgen, die Vorlesungsbildschirme aufzeichnen."
         },
         {
           "q": "Kann das System Daten mit Buchhaltungssoftware oder Zahlungsgateways synchronisieren?",
@@ -1810,7 +1810,7 @@
         },
         {
           "q": "Was ist die offizielle technische Support- und Wartungsrichtlinie nach dem Einsatz?",
-          "a": "Winterfrost verpflichtet sich, direkten technischen Support zu leisten, um Probleme zu beheben, die während des Betriebs auftreten, innerhalb von 24 Stunden. Wir führen außerdem regelmäßige Systemaudits durch und aktualisieren Sicherheitspatches, um sicherzustellen, dass die Softwareinfrastruktur stets im optimalsten und sichersten Zustand arbeitet."
+          "a": "SoftBuild verpflichtet sich, direkten technischen Support zu leisten, um Probleme zu beheben, die während des Betriebs auftreten, innerhalb von 24 Stunden. Wir führen außerdem regelmäßige Systemaudits durch und aktualisieren Sicherheitspatches, um sicherzustellen, dass die Softwareinfrastruktur stets im optimalsten und sichersten Zustand arbeitet."
         }
       ]
     }
@@ -1820,7 +1820,7 @@
     "title": "Buchhaltung",
     "hero": {
       "title": "Lösungen für Unternehmensbuchhaltungssysteme",
-      "description": "Winterfrost bietet eine tiefgehende Programmierlösung für Buchhaltungssysteme an, die sich auf die Sicherstellung der Datenintegrität und die Automatisierung komplexer Finanzgeschäftsabläufe konzentriert. Wir bauen eine Softwareinfrastruktur auf, die Unternehmen dabei unterstützt, alle Transaktionen von Vertriebs-, Logistik- und HR-Modulen in einem einzigen Hauptbuch zu bündeln, um den genauen Cashflow zu steuern.",
+      "description": "SoftBuild bietet eine tiefgehende Programmierlösung für Buchhaltungssysteme an, die sich auf die Sicherstellung der Datenintegrität und die Automatisierung komplexer Finanzgeschäftsabläufe konzentriert. Wir bauen eine Softwareinfrastruktur auf, die Unternehmen dabei unterstützt, alle Transaktionen von Vertriebs-, Logistik- und HR-Modulen in einem einzigen Hauptbuch zu bündeln, um den genauen Cashflow zu steuern.",
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-he-thong-ke-toan-doanh-nghiep.jpg",
       "imageAlt": "Lösungen für Unternehmensbuchhaltungssysteme",
       "primaryLabel": "Direkt kontaktieren",
@@ -1830,7 +1830,7 @@
       "label": "Überblick",
       "title": "Automatisieren Sie Buchhaltungsabläufe",
       "paragraphs": [
-        "Die größte Herausforderung für Unternehmen besteht darin, dass Finanzdaten in mehreren Excel-Dateien oder separater Software fragmentiert sind, was zu zeitaufwändigen und fehleranfälligen manuellen Abstimmungen führt. Winterfrost löst dieses Problem, indem es ein zentralisiertes Governance-System aufbaut, das einen strengen Handelskontrollmechanismus verwendet. Unsere Lösung stellt sicher, dass jeder Eintrag automatisch überprüft und in Echtzeit synchronisiert wird, wodurch der Phasenunterschied zwischen Betriebsdaten und Buchhaltungsdaten eliminiert wird."
+        "Die größte Herausforderung für Unternehmen besteht darin, dass Finanzdaten in mehreren Excel-Dateien oder separater Software fragmentiert sind, was zu zeitaufwändigen und fehleranfälligen manuellen Abstimmungen führt. SoftBuild löst dieses Problem, indem es ein zentralisiertes Governance-System aufbaut, das einen strengen Handelskontrollmechanismus verwendet. Unsere Lösung stellt sicher, dass jeder Eintrag automatisch überprüft und in Echtzeit synchronisiert wird, wodurch der Phasenunterschied zwischen Betriebsdaten und Buchhaltungsdaten eliminiert wird."
       ],
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Tu-dong-hoa-nghiep-vu-tai-chinh.jpg",
       "imageAlt": "Automatisierung von Finanzoperationen"
@@ -1902,7 +1902,7 @@
     },
     "why": {
       "label": "Warum wählst du uns?",
-      "title": "Gründe für die Wahl von Winterfrost für die digitale Transformation in der Buchhaltungsbranche",
+      "title": "Gründe für die Wahl von SoftBuild für die digitale Transformation in der Buchhaltungsbranche",
       "items": [
         {
           "number": "1",
@@ -1939,7 +1939,7 @@
     "cta": {
       "label": "Jetzt kontaktieren!",
       "title": "Standardisierung der Infrastruktur für das Unternehmensfinanzmanagement",
-      "description": "Nehmen Sie Kontakt mit dem Ingenieurteam von Winterfrost auf, um ein zentrales Buchhaltungssystem einzurichten und den Buchhaltungsprozess zu automatisieren, um die absolute Genauigkeit der Betriebsdaten sicherzustellen.",
+      "description": "Nehmen Sie Kontakt mit dem Ingenieurteam von SoftBuild auf, um ein zentrales Buchhaltungssystem einzurichten und den Buchhaltungsprozess zu automatisieren, um die absolute Genauigkeit der Betriebsdaten sicherzustellen.",
       "buttonLabel": "Erhalten Sie eine Beratung zur Systemarchitektur",
       "image": "/images/people/cta/winterfrost/chuyen-vien-nu.png",
       "imageAlt": "Fachberater"
@@ -2069,7 +2069,7 @@
       "title": "Entwicklung von Architektur- und Bausoftware",
       "description": "Groß angelegte Ingenieurprojekte erfordern präzise Koordination, strenge Budgetkontrolle und Echtzeit-Datenzugänge. Die Abhängigkeit von manuellen Managementmethoden oder diskreter Berichterstattung führt häufig zu Kapitalengpässen und Verzögerungen im Bauplan von Projekten.",
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Linh-vuc-Xay-dung-HomeNest-Viet-Nam.jpg",
-      "imageAlt": "Gebiet-Bau-Winterfrost-Vietnam-Vietnam",
+      "imageAlt": "Gebiet-Bau-SoftBuild-Vietnam-Vietnam",
       "primaryLabel": "Direkt kontaktieren",
       "secondaryLabel": "Nachricht für Rat"
     },
@@ -2078,10 +2078,10 @@
       "title": "Abbau von Hürden in der Bauindustrie",
       "paragraphs": [
         "Die Baubranche sieht sich häufig mit einer Informationsstörung zwischen der Baustelle und dem Verwaltungsbüro konfrontiert. Die Abhängigkeit von Papierberichten oder diskreter Software kann leicht zu Fehlinterpretationen von Zeichnungen, Terminkonflikten und Engpässen in der Lieferkette führen, was den Projektfortschritt stört.",
-        "Winterfrost löst diese Herausforderungen mit einem einzigen zentralisierten Projektmanagementsystem. Wir verbinden cloudbasierte Feldberichterstattungstools mit Budgetvisualisierungssystemen, um ein transparentes Betriebszentrum zu schaffen. Diese Lösung hilft Managern auf allen Ebenen, jeden Fortschrittsmeilenstein genau zu verfolgen, Aufgaben effektiv zuzuweisen und sicherzustellen, dass jede Bauphase mit den tatsächlichen operativen Anforderungen übereinstimmt."
+        "SoftBuild löst diese Herausforderungen mit einem einzigen zentralisierten Projektmanagementsystem. Wir verbinden cloudbasierte Feldberichterstattungstools mit Budgetvisualisierungssystemen, um ein transparentes Betriebszentrum zu schaffen. Diese Lösung hilft Managern auf allen Ebenen, jeden Fortschrittsmeilenstein genau zu verfolgen, Aufgaben effektiv zuzuweisen und sicherzustellen, dass jede Bauphase mit den tatsächlichen operativen Anforderungen übereinstimmt."
       ],
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Kien-truc-va-xay-dung-HomeNest-Viet-Nam.jpg",
-      "imageAlt": "Architektur und Bauwesen – Winterfrost"
+      "imageAlt": "Architektur und Bauwesen – SoftBuild"
     },
     "counters": [
       {
@@ -2107,7 +2107,7 @@
     ],
     "values": {
       "title": "Vorteile der digitalen Transformation der Bauindustrie",
-      "intro": "Winterfrost begleitet Unternehmen dabei, den Betriebsprozess umfassend zu optimieren und den Markenruf auf dem Markt zu stärken.",
+      "intro": "SoftBuild begleitet Unternehmen dabei, den Betriebsprozess umfassend zu optimieren und den Markenruf auf dem Markt zu stärken.",
       "items": [
         {
           "title": "Datenverbindung",
@@ -2150,12 +2150,12 @@
     },
     "why": {
       "label": "Warum wählst du uns?",
-      "title": "Warum sich für Bautechnologielösungen von Winterfrost entscheiden",
+      "title": "Warum sich für Bautechnologielösungen von SoftBuild entscheiden",
       "items": [
         {
           "number": "1",
           "title": "Strenge Kostenkontrolle",
-          "description": "Winterfrost hilft Ihnen, Material- und Arbeitsverschwendung vor Ort zu stoppen. Die genaue Überwachung jeder Ausgabe hilft Unternehmen, Gewinne zu halten und sich keine Sorgen um Kapitalverluste oder unerwartete Kosten zu machen."
+          "description": "SoftBuild hilft Ihnen, Material- und Arbeitsverschwendung vor Ort zu stoppen. Die genaue Überwachung jeder Ausgabe hilft Unternehmen, Gewinne zu halten und sich keine Sorgen um Kapitalverluste oder unerwartete Kosten zu machen."
         },
         {
           "number": "2",
@@ -2180,13 +2180,13 @@
         {
           "number": "6",
           "title": "Haben Sie immer einen Experten bei sich",
-          "description": "Winterfrost stellt nicht nur Werkzeuge bereit, sondern steht auch bei Bedarf an der Seite von Unternehmen, um technische Unterstützung zu leisten. Wir stellen sicher, dass das System stets stabil ist, damit die Arbeit der Ingenieure außerhalb der Baustelle nicht unterbrochen wird."
+          "description": "SoftBuild stellt nicht nur Werkzeuge bereit, sondern steht auch bei Bedarf an der Seite von Unternehmen, um technische Unterstützung zu leisten. Wir stellen sicher, dass das System stets stabil ist, damit die Arbeit der Ingenieure außerhalb der Baustelle nicht unterbrochen wird."
         }
       ]
     },
     "cta": {
       "label": "Jetzt kontaktieren!",
-      "title": "Starten Sie Smart Building Management mit Winterfrost",
+      "title": "Starten Sie Smart Building Management mit SoftBuild",
       "description": "Lassen Sie uns Ihnen helfen, die Materialkosten streng zu kontrollieren und den Baufortschritt für jedes Projekt sicherzustellen. Kontaktieren Sie unser Expertenteam, um noch heute eine praxisnahe Lösung zu erhalten, die auf Ihr Unternehmen zugeschnitten ist.",
       "buttonLabel": "Jetzt Lösungen konsultieren",
       "image": "/images/people/cta/winterfrost/quan-ly-nam.png",
@@ -2196,15 +2196,15 @@
       "title": "Case Studies",
       "links": [
         {
-          "href": "https://winterfrost.tech/case-studies/website-virela-interior",
+          "href": "https://softbuildvn.vercel.app/case-studies/website-virela-interior",
           "text": "ARCHITEKTUR & BAUWESEN\nE-COMMERCE\nWEBDESIGN\nWebsite Virela Innenraum\nProjekt ansehen"
         },
         {
-          "href": "https://winterfrost.tech/case-studies/website-ceranova",
+          "href": "https://softbuildvn.vercel.app/case-studies/website-ceranova",
           "text": "ARCHITEKTUR & BAUWESEN\nE-COMMERCE\nWEBDESIGN\nWebsite Ceranova\nProjekt ansehen"
         },
         {
-          "href": "https://winterfrost.tech/case-studies/website-chromiva-coatings",
+          "href": "https://softbuildvn.vercel.app/case-studies/website-chromiva-coatings",
           "text": "ARCHITEKTUR & BAUWESEN\nE-COMMERCE\nWEBDESIGN\nWebseite Chromiva Coatings\nProjekt ansehen"
         }
       ],
@@ -2223,37 +2223,37 @@
           "title": "Projektmanagementsystem",
           "description": "Schaffen Sie ein einziges Operationszentrum, das das Büro und das Feld verbindet. Alle Informationen über Fortschritt, Personal und Änderungen im Projekt werden sofort aktualisiert, sodass alle stets an einem einheitlichen Plan arbeiten.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/He-thong-quan-tri-cong-trinh-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Gebäudeverwaltungssystem – Winterfrost"
+          "imageAlt": "Gebäudeverwaltungssystem – SoftBuild"
         },
         {
           "title": "Feldanwendung für Ingenieure",
           "description": "Wir entwickeln Werkzeuge auf Handys, um Ingenieuren dabei zu helfen, Berichte zu senden, Abnahmefotos zu machen und Vorfälle direkt auf der Baustelle zu aktualisieren. Das reduziert den Papierkram und hilft den Führungskräften, die tatsächliche Situation zu verstehen, ohne physisch anwesend zu sein.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Ung-dung-cho-ky-su-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Anwendungen für Ingenieure – Winterfrost"
+          "imageAlt": "Anwendungen für Ingenieure – SoftBuild"
         },
         {
           "title": "Werkzeuge zur Steuerung von Materialien und Geräten",
           "description": "Detaillierte Nachverfolgung von ein- und ausgehenden Materialien sowie Maschinenstandorten in Echtzeit. Dieser Service hilft Auftragnehmern, Verbrauchsnormen fest zu verstehen, Verluste zu vermeiden und proaktiver in der Einkaufsphase zu sein.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Cong-cu-kiem-soat-vat-tu-va-thiet-bi-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Werkzeuge zur Steuerung von Materialien und Geräten – Winterfrost"
+          "imageAlt": "Werkzeuge zur Steuerung von Materialien und Geräten – SoftBuild"
         },
         {
           "title": "Verwaltung von Zeichnungen und technischen Daten",
           "description": "Speichere und dezentralisiere den Zugriff auf die neuesten Designversionen. Das Bauteam kann die Zeichnungen direkt auf seinen mobilen Geräten ansehen, um die korrekte Technik sicherzustellen und Fehler zu vermeiden, die Reparaturen kosten.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Quan-ly-ban-ve-va-du-lieu-ky-thuat-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Technische Daten- und Zeichnungsverwaltung – Winterfrost"
+          "imageAlt": "Technische Daten- und Zeichnungsverwaltung – SoftBuild"
         },
         {
           "title": "Lösung zur Überwachung des Cashflow-Projekts",
           "description": "Aktualisieren Sie Ihre tatsächlichen Kosten automatisch gegenüber Ihrem ursprünglichen geschätzten Budget. Dies hilft Geschäftsinhabern, die Gewinne bei jedem Artikel strikt zu kontrollieren und zeitnahe Anpassungen in Bezug auf die Finanzierung vorzunehmen.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-giam-sat-dong-tien-du-an-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Projekt-Lösung zur Überwachung des Cashflow – Winterfrost"
+          "imageAlt": "Projekt-Lösung zur Überwachung des Cashflow – SoftBuild"
         },
         {
           "title": "As-Built-Dokumentenautomatisierungssystem",
           "description": "Automatisch Bilder, Protokolle und Baudaten sammeln, um Siedlungsaufzeichnungen schnell zu exportieren. Dieser Service hilft Unternehmen, die Übergabezeit zu verkürzen und schnell Kapital vom Investor zurückzugewinnen.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/He-thong-tu-dong-hoa-ho-so-hoan-cong-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "As-built-Dokumentenautomatisierungssystem – Winterfrost"
+          "imageAlt": "As-built-Dokumentenautomatisierungssystem – SoftBuild"
         }
       ],
       "cta": "Entdecken Sie alle Dienste"
@@ -2311,7 +2311,7 @@
         },
         {
           "q": "Können Feldingenieure, die nicht technisch versiert sind, sie nutzen?",
-          "a": "Die Anwendungsoberfläche wurde von Winterfrost minimalistisch gestaltet und konzentriert sich auf einfache Details und Fotografie. Wir bieten vor Ort Schulungen an, damit selbst die widerwilligsten Mitarbeiter Berichte aktualisieren und Zeichnungen in nur 15 Minuten Eingewöhnung ansehen können."
+          "a": "Die Anwendungsoberfläche wurde von SoftBuild minimalistisch gestaltet und konzentriert sich auf einfache Details und Fotografie. Wir bieten vor Ort Schulungen an, damit selbst die widerwilligsten Mitarbeiter Berichte aktualisieren und Zeichnungen in nur 15 Minuten Eingewöhnung ansehen können."
         },
         {
           "q": "Wenn das Netz auf der Baustelle schwach ist oder kein Internet vorhanden ist, wie funktioniert das System dann?",
@@ -2319,15 +2319,15 @@
         },
         {
           "q": "Sind technische Dokumente und Projektzeichnungen sicher gesichert?",
-          "a": "Zeichnungen und Baupläne sind wichtiges geistiges Eigentum, daher verwendet Winterfrost mehrschichtige Verschlüsselungstechnologie und eine strenge Dezentralisierung des Zugangs. Nur lizenzierte Mitarbeiter können die Daten einsehen oder bearbeiten, was Unternehmen völlige Sicherheit hinsichtlich der Sicherheit des Projekts gibt."
+          "a": "Zeichnungen und Baupläne sind wichtiges geistiges Eigentum, daher verwendet SoftBuild mehrschichtige Verschlüsselungstechnologie und eine strenge Dezentralisierung des Zugangs. Nur lizenzierte Mitarbeiter können die Daten einsehen oder bearbeiten, was Unternehmen völlige Sicherheit hinsichtlich der Sicherheit des Projekts gibt."
         },
         {
-          "q": "Ist das System von Winterfrost mit bestehender Buchhaltungssoftware integriert?",
+          "q": "Ist das System von SoftBuild mit bestehender Buchhaltungssoftware integriert?",
           "a": "Unser System kann flexibel mit beliebten Buchhaltungs- oder Büroverwaltungssoftware in Vietnam verbunden werden. Die Datensynchronisation hilft Buchhaltern, Daten nicht von Grund auf neu eingeben zu müssen, sodass die Zahlen zwischen Baustelle und Büro stets zu 100 % übereinstimmen."
         },
         {
           "q": "Wird die Implementierung des Systems den aktuellen Bauplan stören?",
-          "a": "Der Implementierungsprozess von Winterfrost ist in Phasen unterteilt und erfolgt parallel zum Betrieb des Projekts. Wir setzen Priorität darauf, Kernfunktionen im Voraus zu installieren, damit sich Unternehmen schrittweise daran gewöhnen können, damit sie keinen Hindernissen für den eigentlichen Baufortschritt auf der Baustelle verursachen."
+          "a": "Der Implementierungsprozess von SoftBuild ist in Phasen unterteilt und erfolgt parallel zum Betrieb des Projekts. Wir setzen Priorität darauf, Kernfunktionen im Voraus zu installieren, damit sich Unternehmen schrittweise daran gewöhnen können, damit sie keinen Hindernissen für den eigentlichen Baufortschritt auf der Baustelle verursachen."
         }
       ]
     }
@@ -2337,7 +2337,7 @@
     "title": "Bank",
     "hero": {
       "title": "Digitale Transformationslösungen für die Bankenbranche",
-      "description": "Winterfrost bietet spezialisierte Dienstleistungen im Bereich Banktechnologieinfrastruktur an, mit Schwerpunkt auf großflächiger Datenverarbeitung und der Gewährleistung der höchsten Informationssicherheit. Wir entwickeln Softwarearchitekturen, die Finanzinstituten helfen, komplexe Transaktionsabläufe zu konsolidieren, die Kernbankabläufe zu automatisieren und nahtlose Nutzererlebnisse über digitale Plattformen hinweg zu schaffen.",
+      "description": "SoftBuild bietet spezialisierte Dienstleistungen im Bereich Banktechnologieinfrastruktur an, mit Schwerpunkt auf großflächiger Datenverarbeitung und der Gewährleistung der höchsten Informationssicherheit. Wir entwickeln Softwarearchitekturen, die Finanzinstituten helfen, komplexe Transaktionsabläufe zu konsolidieren, die Kernbankabläufe zu automatisieren und nahtlose Nutzererlebnisse über digitale Plattformen hinweg zu schaffen.",
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-chuyen-doi-so-cho-nganh-ngan-hang.jpg",
       "imageAlt": "Digitale Transformationslösungen für die Bankenbranche",
       "primaryLabel": "Direkt kontaktieren",
@@ -2347,7 +2347,7 @@
       "label": "Überblick",
       "title": "Optimierung der Sicherheit im Handel",
       "paragraphs": [
-        "Die größte Herausforderung der Bankenbranche ist das Vorhandensein von Altsystemen ohne Konnektivität, was zu langsamer Verarbeitung und dem Risiko von Informationsunsicherheit führt. Winterfrost löst dieses Problem durch die Einrichtung einer modernen digitalen Bankinfrastruktur mit einer flexiblen Microservices-Architektur. Unsere Lösung beseitigt Datenbarrieren, ermöglicht eine sofortige Synchronisation jeder Transaktion und etabliert mehrschichtige Schutzschichten, um die Integrität von Vermögenswerten und Kundeninformationen zu gewährleisten."
+        "Die größte Herausforderung der Bankenbranche ist das Vorhandensein von Altsystemen ohne Konnektivität, was zu langsamer Verarbeitung und dem Risiko von Informationsunsicherheit führt. SoftBuild löst dieses Problem durch die Einrichtung einer modernen digitalen Bankinfrastruktur mit einer flexiblen Microservices-Architektur. Unsere Lösung beseitigt Datenbarrieren, ermöglicht eine sofortige Synchronisation jeder Transaktion und etabliert mehrschichtige Schutzschichten, um die Integrität von Vermögenswerten und Kundeninformationen zu gewährleisten."
       ],
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Toi-uu-hoa-tinh-an-toan-trong-giao-dich.jpg",
       "imageAlt": "Optimierung der Handelssicherheit"
@@ -2419,7 +2419,7 @@
     },
     "why": {
       "label": "Warum wählst du uns?",
-      "title": "Gründe, warum Banken sich für Winterfrost entscheiden sollten",
+      "title": "Gründe, warum Banken sich für SoftBuild entscheiden sollten",
       "items": [
         {
           "number": "1",
@@ -2449,14 +2449,14 @@
         {
           "number": "6",
           "title": "Übergabe aller Technologiemeisterschaft",
-          "description": "Winterfrost stellt vollständigen Quellcode und detaillierte technische Dokumentation bereit, damit Unternehmen langfristig autonom sind und Upgrades durchführen können. Wir setzen uns dafür ein, keine Abhängigkeit von Lieferanten zu schaffen."
+          "description": "SoftBuild stellt vollständigen Quellcode und detaillierte technische Dokumentation bereit, damit Unternehmen langfristig autonom sind und Upgrades durchführen können. Wir setzen uns dafür ein, keine Abhängigkeit von Lieferanten zu schaffen."
         }
       ]
     },
     "cta": {
       "label": "Jetzt kontaktieren!",
       "title": "Digitalisierung der Finanzinfrastruktur und sicheres digitales Bankgeschäft",
-      "description": "Kontaktieren Sie das Ingenieurteam von Winterfrost, um ein zentralisiertes Banksystem einzurichten und den Transaktionsprozess zu automatisieren, um die absolute Sicherheit der Finanzinfrastruktur zu gewährleisten.",
+      "description": "Kontaktieren Sie das Ingenieurteam von SoftBuild, um ein zentralisiertes Banksystem einzurichten und den Transaktionsprozess zu automatisieren, um die absolute Sicherheit der Finanzinfrastruktur zu gewährleisten.",
       "buttonLabel": "Sprechen Sie mit uns",
       "image": "/images/people/cta/winterfrost/quan-ly-nam.png",
       "imageAlt": "Fachberater"
@@ -2470,7 +2470,7 @@
           "title": "Programmierung des Kernbanksystems",
           "description": "Aufbau eines zentralen Betriebsapparats zur Verwaltung von Konten, Einlagen, Krediten und zentraler Finanzbuchhaltung.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Lap-trinh-he-thong-ngan-hang-loi-Core-Banking-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Programmierung des Kernbanksystems – Winterfrost"
+          "imageAlt": "Programmierung des Kernbanksystems – SoftBuild"
         },
         {
           "title": "Aufbau einer elektronischen eKYC-Identifikationslösung",
@@ -2554,7 +2554,7 @@
       "items": [
         {
           "q": "Wie gewährleistet das System absolute Sicherheit vor groß angelegten Cyberangriffen?",
-          "a": "Winterfrost implementiert eine mehrschichtige Sicherheitsarchitektur, die aus einer hochrangigen Anwendungsfirewall kombiniert mit einem Echtzeit-Mechanismus zur Überwachung von abnormalem Verkehr besteht. Alle Transaktionsdaten und Kundeninformationen werden mit dem AES-256-Standard verschlüsselt. Wir haben außerdem ein Multi-Faktor-Authentifizierungssystem und ein strenges Zugriffsmanagement eingerichtet, um unbefugte Eindringlinge sowohl von außen als auch von innen zu verhindern."
+          "a": "SoftBuild implementiert eine mehrschichtige Sicherheitsarchitektur, die aus einer hochrangigen Anwendungsfirewall kombiniert mit einem Echtzeit-Mechanismus zur Überwachung von abnormalem Verkehr besteht. Alle Transaktionsdaten und Kundeninformationen werden mit dem AES-256-Standard verschlüsselt. Wir haben außerdem ein Multi-Faktor-Authentifizierungssystem und ein strenges Zugriffsmanagement eingerichtet, um unbefugte Eindringlinge sowohl von außen als auch von innen zu verhindern."
         },
         {
           "q": "Ist das System in der Lage, sich mit der langjährigen Kernbankinfrastruktur der Bank zu integrieren?",
@@ -2584,9 +2584,9 @@
     "title": "Landwirtschaft",
     "hero": {
       "title": "DIGITALE TRANSFORMATION FÜR DIE AGRARINDUSTRIE",
-      "description": "Die moderne Landwirtschaft erfordert höhere Bedingungen als traditionelle Methoden. Es muss anhand tatsächlicher Daten bewiesen werden. Winterfrost entwickelt On-Demand-Plattformen für landwirtschaftliche Technologien, die darauf abzielen, die Effizienz der Landwirtschaft zu steigern. Von Sensoren mit IoT-Technologie über die Erntevorhersage bis hin zur Fähigkeit, den Gesundheitszustand von Pflanzen zu überwachen, unterstützen wir landwirtschaftliche Unternehmen dabei, intelligenter zu wachsen, Kostenverluste zu minimieren und hochwertige Produkte auf den Markt zu bringen.",
+      "description": "Die moderne Landwirtschaft erfordert höhere Bedingungen als traditionelle Methoden. Es muss anhand tatsächlicher Daten bewiesen werden. SoftBuild entwickelt On-Demand-Plattformen für landwirtschaftliche Technologien, die darauf abzielen, die Effizienz der Landwirtschaft zu steigern. Von Sensoren mit IoT-Technologie über die Erntevorhersage bis hin zur Fähigkeit, den Gesundheitszustand von Pflanzen zu überwachen, unterstützen wir landwirtschaftliche Unternehmen dabei, intelligenter zu wachsen, Kostenverluste zu minimieren und hochwertige Produkte auf den Markt zu bringen.",
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Gioi-thieu-linh-vuc-nong-nghiep-HomeNest-Viet-Nam.jpg",
-      "imageAlt": "Über Landwirtschaft – Winterfrost",
+      "imageAlt": "Über Landwirtschaft – SoftBuild",
       "primaryLabel": "Direkt kontaktieren",
       "secondaryLabel": "Nachricht für Rat"
     },
@@ -2595,10 +2595,10 @@
       "title": "Lösungen für das Landwirtschaftliche Management",
       "paragraphs": [
         "Derzeit steht der Agrarsektor vor vielen ernsthaften Schwierigkeiten wie dem Klimawandel, Arbeitskräftemangel und immer strengeren Anforderungen an Lebensmittelsicherheit. Die Anwendung traditioneller Produktionsmanagementmethoden durch Buchhaltung, das Verfolgen jedes einzelnen Teils und die Behandlung von Schädlingen und Krankheiten anhand der Wahrnehmung führt oft zu instabiler Qualität landwirtschaftlicher Produkte, was zu Nachernte-Abfällen führt und die Wettbewerbsfähigkeit der Unternehmen auf dem Markt verringert.",
-        "Winterfrost hat diese Probleme durch den Aufbau eines landwirtschaftlichen Managementsystems gelöst. Wir kombinieren Daten von IoT-Sensorgeräten, prognostizieren Modelle von KI, um Probleme rechtzeitig zu lösen und nächste Strategien vorzuschlagen."
+        "SoftBuild hat diese Probleme durch den Aufbau eines landwirtschaftlichen Managementsystems gelöst. Wir kombinieren Daten von IoT-Sensorgeräten, prognostizieren Modelle von KI, um Probleme rechtzeitig zu lösen und nächste Strategien vorzuschlagen."
       ],
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Nong-nghiep-HomeNest-Viet-Nam.jpg",
-      "imageAlt": "Landwirtschaft – Winterfrost"
+      "imageAlt": "Landwirtschaft – SoftBuild"
     },
     "counters": [
       {
@@ -2624,7 +2624,7 @@
     ],
     "values": {
       "title": "Lösungen für landwirtschaftliche Unternehmen",
-      "intro": "Winterfrost entwickelt maßgeschneiderte Datenplattformen und hilft dabei, traditionelle Agrarmodelle in intelligente digitale Agrarmodelle umzuwandeln.",
+      "intro": "SoftBuild entwickelt maßgeschneiderte Datenplattformen und hilft dabei, traditionelle Agrarmodelle in intelligente digitale Agrarmodelle umzuwandeln.",
       "items": [
         {
           "title": "Überwachung des Bodenzustands",
@@ -2667,7 +2667,7 @@
     },
     "why": {
       "label": "Warum wählst du uns?",
-      "title": "Warum ist Winterfrost ein vertrauenswürdiger Partner für landwirtschaftliche Unternehmen?",
+      "title": "Warum ist SoftBuild ein vertrauenswürdiger Partner für landwirtschaftliche Unternehmen?",
       "items": [
         {
           "number": "1",
@@ -2692,7 +2692,7 @@
         {
           "number": "5",
           "title": "Verbinden Sie sich mit verfügbarer Software",
-          "description": "Die Plattform von Winterfrost ist leicht mit den Buchhaltungssystemen, dem Lagermanagement oder den Agrarproduktebörsen verknüpft, die Unternehmen nutzen. Dies hilft, dass die Daten reibungslos von der Produktion zum Verkauf fließen, ohne dass mehrfach Wiedereingabedaten benötigt werden."
+          "description": "Die Plattform von SoftBuild ist leicht mit den Buchhaltungssystemen, dem Lagermanagement oder den Agrarproduktebörsen verknüpft, die Unternehmen nutzen. Dies hilft, dass die Daten reibungslos von der Produktion zum Verkauf fließen, ohne dass mehrfach Wiedereingabedaten benötigt werden."
         },
         {
           "number": "6",
@@ -2704,7 +2704,7 @@
     "cta": {
       "label": "Jetzt kontaktieren!",
       "title": "Bereit, Ihre Landwirtschaftsbranche digital zu transformieren?",
-      "description": "Lassen Sie uns ein zentralisiertes Managementsystem mit Winterfrost aufbauen, um die Situation auf dem Bauernhof genau zu überwachen, die Betriebskosten zu optimieren und die Qualität landwirtschaftlicher Produkte anhand von tatsächlichen Daten zu verbessern.",
+      "description": "Lassen Sie uns ein zentralisiertes Managementsystem mit SoftBuild aufbauen, um die Situation auf dem Bauernhof genau zu überwachen, die Betriebskosten zu optimieren und die Qualität landwirtschaftlicher Produkte anhand von tatsächlichen Daten zu verbessern.",
       "buttonLabel": "Erhalten Sie umgehend eine Lösungsberatung",
       "image": "/images/people/cta/winterfrost/chuyen-vien-nu.png",
       "imageAlt": "Fachberater"
@@ -2713,11 +2713,11 @@
       "title": "Case Studies",
       "links": [
         {
-          "href": "https://winterfrost.tech/case-studies/website-flexora-packaging",
+          "href": "https://softbuildvn.vercel.app/case-studies/website-flexora-packaging",
           "text": "LANDWIRTSCHAFT\nWEBDESIGN\nWebsite Flexora Packaging\nProjekt ansehen"
         },
         {
-          "href": "https://winterfrost.tech/case-studies/website-polyvera",
+          "href": "https://softbuildvn.vercel.app/case-studies/website-polyvera",
           "text": "EINZELHANDEL\nLANDWIRTSCHAFT\nWEBDESIGN\nWebseite Polyvera\nProjekt ansehen"
         }
       ],
@@ -2734,7 +2734,7 @@
     },
     "services": {
       "title": "Technologielösungen für jeden Agrarsektor",
-      "intro": "Von lokalen Genossenschaften bis hin zu multinationalen landwirtschaftlichen Konzernen bietet Winterfrost tiefgehende Softwarelösungen, die für alle Größen und Produktionsmodelle geeignet sind.",
+      "intro": "Von lokalen Genossenschaften bis hin zu multinationalen landwirtschaftlichen Konzernen bietet SoftBuild tiefgehende Softwarelösungen, die für alle Größen und Produktionsmodelle geeignet sind.",
       "items": [
         {
           "title": "Präzisionsanbau und Landwirtschaft",
@@ -2746,31 +2746,31 @@
           "title": "Rinder- und Geflügelzucht",
           "description": "Rinderherdenmanagementsystem, Unterstützung zur Überwachung der Gesundheit jedes Einzelnen, Automatisierung von Fütterungsplänen zur Sicherstellung der Ernährung und eine genaue Überwachung des Prozesses zur Begrenzung von Krankheiten.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Chan-nuoi-gia-suc-va-gia-cam-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Rinder- und Geflügelzucht – Winterfrost"
+          "imageAlt": "Rinder- und Geflügelzucht – SoftBuild"
         },
         {
           "title": "Aquakultur",
           "description": "Einrichtung eines Wasserqualitätsüberwachungsnetzwerks und eines automatischen Zuleitungssystems. Die Software hilft dabei, die optimale Anbaudichte sowohl für heimische als auch für Offshore-Landwirtschaftsmodelle zu steuern und sorgt so für die beste Anbauumgebung für Meeresfrüchte.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Chan-nuoi-thuy-hai-san-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Aquakultur – Winterfrost"
+          "imageAlt": "Aquakultur – SoftBuild"
         },
         {
           "title": "Verteilung landwirtschaftlicher Materialien",
           "description": "Lösungen für Lagerverwaltung und Nachfrageprognose für Händler von Düngemitteln, Saatgut und Pestiziden. Das System hilft, den Importzyklus zu optimieren und den Transportprozess zu den Landwirten effizient zu steuern.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Cung-ung-va-phan-phoi-vat-tu-nong-nghiep-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Lieferung und Verteilung von landwirtschaftlichen Materialien – Winterfrost"
+          "imageAlt": "Lieferung und Verteilung von landwirtschaftlichen Materialien – SoftBuild"
         },
         {
           "title": "Qualitätsinspektion und Lieferkette",
           "description": "Aufbauen Sie eine Plattform für die Qualitätskontrolle der Produkte nach der Ernte, ein kontinuierliches Temperaturüberwachungssystem für die Kühllagerung und ein Werkzeug zur Koordination des Transports von Verarbeitungsanlagen zu Einzelhandelspunkten, um die Frische der Produkte sicherzustellen.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Kiem-tra-chat-luong-va-chuoi-cung-ung-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Qualitätsinspektion und Lieferkette – Winterfrost"
+          "imageAlt": "Qualitätsinspektion und Lieferkette – SoftBuild"
         },
         {
           "title": "Unterstützung des Kapitalmanagements",
           "description": "Helfen Sie Unternehmen, die Nutzung von Krediten oder landwirtschaftlichen Unterstützungsmitteln transparent zu verfolgen, um sicherzustellen, dass das Geld für den richtigen Zweck und effektiv verwendet wird.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Ho-tro-quan-ly-nguon-von-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Kapitalmanagement-Unterstützung – Winterfrost"
+          "imageAlt": "Kapitalmanagement-Unterstützung – SoftBuild"
         }
       ],
       "cta": "Entdecken Sie alle Dienste"
@@ -2782,7 +2782,7 @@
           "number": "01",
           "tag": "Rezeption",
           "title": "Empfangsbedürfnisse",
-          "description": "Winterfrost hört auf die praktischen Probleme, mit denen Unternehmen konfrontiert sind, um geeignete technologische Lösungen zu beraten und so die operativen Probleme des Unternehmens umfassend zu lösen."
+          "description": "SoftBuild hört auf die praktischen Probleme, mit denen Unternehmen konfrontiert sind, um geeignete technologische Lösungen zu beraten und so die operativen Probleme des Unternehmens umfassend zu lösen."
         },
         {
           "number": "02",
@@ -2806,7 +2806,7 @@
           "number": "05",
           "tag": "Bereitstellung",
           "title": "Implementierung und Schulung",
-          "description": "Installieren Sie das System nach erfolgreichem Test im gesamten Unternehmensmaßstab. Winterfrost bietet direkt technische Schulungen für Management und Feldbetriebsführung für die Arbeiter an, um einen reibungslosen Betrieb zu gewährleisten."
+          "description": "Installieren Sie das System nach erfolgreichem Test im gesamten Unternehmensmaßstab. SoftBuild bietet direkt technische Schulungen für Management und Feldbetriebsführung für die Arbeiter an, um einen reibungslosen Betrieb zu gewährleisten."
         },
         {
           "number": "06",
@@ -2823,27 +2823,27 @@
       "intro": "Wir haben die häufigsten Fragen zusammengestellt, um Unternehmen eine klarere Sicht zu geben, bevor sie ihre digitale Transformationsreise beginnen.",
       "items": [
         {
-          "q": "Funktioniert das System von Winterfrost in Gebieten, in denen es keine 4G-/WLAN-Abdeckung gibt?",
+          "q": "Funktioniert das System von SoftBuild in Gebieten, in denen es keine 4G-/WLAN-Abdeckung gibt?",
           "a": "Ja. Unsere mobilen Anwendungen sind mit Blick auf den Offline-Modus konzipiert. Mitarbeiter können weiterhin normal Daten eingeben und Fotos von Berichten machen. Die Daten werden automatisch mit dem System synchronisiert, sobald das Gerät wieder eine Netzwerkverbindung hat, sodass die Informationen nicht unterbrochen werden."
         },
         {
           "q": "Können nicht technikaffine Landarbeiter die Software nutzen?",
-          "a": "Absolut. Winterfrost legt Wert auf ein äußerst einfaches Interface-Design, das intuitive Symbole und eine leicht verständliche vietnamesische Sprache verwendet. Außerdem haben wir einen Live-Schulungsprozess vor Ort, um sicherzustellen, dass selbst die technisch unerfahrensten Menschen alltägliche Aufgaben meistern können."
+          "a": "Absolut. SoftBuild legt Wert auf ein äußerst einfaches Interface-Design, das intuitive Symbole und eine leicht verständliche vietnamesische Sprache verwendet. Außerdem haben wir einen Live-Schulungsprozess vor Ort, um sicherzustellen, dass selbst die technisch unerfahrensten Menschen alltägliche Aufgaben meistern können."
         },
         {
-          "q": "Kann die Lösung von Winterfrost an die Eigenschaften jeder Kultur oder jedes Viehs angepasst werden?",
-          "a": "Ja. Wir verkaufen keine Standardsoftware. Basierend auf den Wachstumsmerkmalen jeder Art wie Reis, Obstbäume und Meeresfrüchte passt Winterfrost die Warnindikatoren, Pflegeprozesse und Berichtsformulare an die tatsächliche Produktion des Unternehmens an."
+          "q": "Kann die Lösung von SoftBuild an die Eigenschaften jeder Kultur oder jedes Viehs angepasst werden?",
+          "a": "Ja. Wir verkaufen keine Standardsoftware. Basierend auf den Wachstumsmerkmalen jeder Art wie Reis, Obstbäume und Meeresfrüchte passt SoftBuild die Warnindikatoren, Pflegeprozesse und Berichtsformulare an die tatsächliche Produktion des Unternehmens an."
         },
         {
           "q": "Sind meine Rezept- und Ertragsdaten sicher?",
-          "a": "Datensicherheit hat für uns oberste Priorität. Alle Informationen über Geschäftsgeheimnisse, landwirtschaftliche Prozesse und Kundendaten werden verschlüsselt und auf einem separaten System gespeichert. Winterfrost verpflichtet sich, Geschäftsdaten ohne Ihre schriftliche Zustimmung nicht mit Dritten zu teilen."
+          "a": "Datensicherheit hat für uns oberste Priorität. Alle Informationen über Geschäftsgeheimnisse, landwirtschaftliche Prozesse und Kundendaten werden verschlüsselt und auf einem separaten System gespeichert. SoftBuild verpflichtet sich, Geschäftsdaten ohne Ihre schriftliche Zustimmung nicht mit Dritten zu teilen."
         },
         {
           "q": "Wie werden die Implementierungskosten berechnet?",
-          "a": "Die Kosten hängen von der Größe der Farm, der Anzahl der zu installierenden Sensoren und der Komplexität der Softwarefunktionen ab. Winterfrost liefert nach der Felduntersuchung eine detaillierte Schätzung, um sicherzustellen, dass Sie nur in Funktionen investieren, die wirklich wirtschaftlich tragfähig sind."
+          "a": "Die Kosten hängen von der Größe der Farm, der Anzahl der zu installierenden Sensoren und der Komplexität der Softwarefunktionen ab. SoftBuild liefert nach der Felduntersuchung eine detaillierte Schätzung, um sicherzustellen, dass Sie nur in Funktionen investieren, die wirklich wirtschaftlich tragfähig sind."
         },
         {
-          "q": "Wenn das Gerät oder die Software schiefgeht, wie lange unterstützt Winterfrost?",
+          "q": "Wenn das Gerät oder die Software schiefgeht, wie lange unterstützt SoftBuild?",
           "a": "Wir verpflichten uns, innerhalb von 24 Stunden nach Erhalt der Anfrage zu antworten und den technischen Fehlerbehebungsprozess einzuleiten. Unser technisches Team bietet bei Bedarf Fern- oder Vor-Ort-Unterstützung an, um sicherzustellen, dass die Produktion nicht unterbrochen wird."
         }
       ]
@@ -2854,7 +2854,7 @@
     "title": "Unternehmenssoftware",
     "hero": {
       "title": "Entwicklung maßgeschneiderter Unternehmenssoftware",
-      "description": "Winterfrost entwickelt intelligente, leistungsstarke und einfach zu bedienende Unternehmenssoftwaresysteme, die darauf ausgelegt sind, Ihren gesamten operativen Prozess zu vereinen. Von kompletten ERP-Systemen bis hin zu maßgeschneiderten CRM-Plattformen schaffen wir eine solide technologische Grundlage, die den Bedürfnissen von Unternehmen für nachhaltiges Wachstum im digitalen Zeitalter entspricht.",
+      "description": "SoftBuild entwickelt intelligente, leistungsstarke und einfach zu bedienende Unternehmenssoftwaresysteme, die darauf ausgelegt sind, Ihren gesamten operativen Prozess zu vereinen. Von kompletten ERP-Systemen bis hin zu maßgeschneiderten CRM-Plattformen schaffen wir eine solide technologische Grundlage, die den Bedürfnissen von Unternehmen für nachhaltiges Wachstum im digitalen Zeitalter entspricht.",
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phat-trien-phan-mem-doanh-nghiep-tuy-chinh.jpg",
       "imageAlt": "Entwicklung maßgeschneiderter Unternehmenssoftware",
       "primaryLabel": "Direkt kontaktieren",
@@ -2865,7 +2865,7 @@
       "title": "Optimierung der operativen Effizienz mit ERP- und CRM-Systemen",
       "paragraphs": [
         "Unternehmen haben oft Schwierigkeiten, mit viel diskreter Software zu arbeiten, was zu verstreuten Daten und mangelnder Synchronisation führt. Manuelle Prozesse sind zeitverschwendung, fehleranfällig und schwer zu kontrollieren für die Leistung des Personals. Darüber hinaus ist vorgefertigte Software oft unflexibel, schwer an die Eigenschaften des Unternehmens anzupassen oder stößt bei der Skalierung auf Hindernisse.",
-        "Winterfrost bietet Softwarelösungen, die auf die tatsächlichen Geschäftsprozesse jedes Unternehmens zugeschnitten sind. Wir konzentrieren uns darauf, Arbeitsabläufe auf einer einzigen Plattform zu konsolidieren, von ERP-Ressourcenmanagement, CRM-Kundenmanagement bis hin zu Personal- und Lieferkettenmanagement. Die Lösung hilft Unternehmen, Ressourcen zu optimieren, zentralisierte Daten zu beherrschen und ein professionelles, flexibles Betriebsgerät aufzubauen."
+        "SoftBuild bietet Softwarelösungen, die auf die tatsächlichen Geschäftsprozesse jedes Unternehmens zugeschnitten sind. Wir konzentrieren uns darauf, Arbeitsabläufe auf einer einzigen Plattform zu konsolidieren, von ERP-Ressourcenmanagement, CRM-Kundenmanagement bis hin zu Personal- und Lieferkettenmanagement. Die Lösung hilft Unternehmen, Ressourcen zu optimieren, zentralisierte Daten zu beherrschen und ein professionelles, flexibles Betriebsgerät aufzubauen."
       ],
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Toi-uu-hoa-hieu-suat-van-hanh-bang-he-thong-ERP-va-CRM.jpg",
       "imageAlt": "Optimieren Sie die Betriebsleistung mit ERP- und CRM-Systemen"
@@ -2894,7 +2894,7 @@
     ],
     "values": {
       "title": "Warum benötigt Ihr Unternehmen maßgeschneiderte Software?",
-      "intro": "Die Lösung von Winterfrost hilft Ihnen, Ihr Unternehmen effizienter zu verwalten, indem Sie Daten verknüpfen, Prozesse automatisieren und Ihre eigene Technologieplattform vollständig beherrschen.",
+      "intro": "Die Lösung von SoftBuild hilft Ihnen, Ihr Unternehmen effizienter zu verwalten, indem Sie Daten verknüpfen, Prozesse automatisieren und Ihre eigene Technologieplattform vollständig beherrschen.",
       "items": [
         {
           "title": "Keine verlorenen Informationen mehr",
@@ -2916,7 +2916,7 @@
         },
         {
           "title": "Software, die deinem Prozess folgt",
-          "description": "Im Gegensatz zur oft restriktiven Standardsoftware basiert die Software von Winterfrost auf der Arbeitsweise. Wenn Sie Funktionen hinzufügen oder entfernen oder Prozesse ändern möchten, während Ihr Unternehmen wächst, ist das ganz einfach.",
+          "description": "Im Gegensatz zur oft restriktiven Standardsoftware basiert die Software von SoftBuild auf der Arbeitsweise. Wenn Sie Funktionen hinzufügen oder entfernen oder Prozesse ändern möchten, während Ihr Unternehmen wächst, ist das ganz einfach.",
           "image": "",
           "imageAlt": ""
         },
@@ -2937,12 +2937,12 @@
     },
     "why": {
       "label": "Warum wählst du uns?",
-      "title": "Wettbewerbsvorteil von Winterfrost",
+      "title": "Wettbewerbsvorteil von SoftBuild",
       "items": [
         {
           "number": "1",
           "title": "Übergabe des vollständigen Eigentums",
-          "description": "Winterfrost verpflichtet sich, nach Abschluss des Projekts 100 % des Quellcodes und der technischen Dokumentation zu übertragen. Das Unternehmen hat das volle Recht, das Upgrade oder die Änderung des Systems zu verwalten und zu entsorgen, ohne an die rechtlichen oder technischen Grenzen des Lieferanten gebunden zu sein."
+          "description": "SoftBuild verpflichtet sich, nach Abschluss des Projekts 100 % des Quellcodes und der technischen Dokumentation zu übertragen. Das Unternehmen hat das volle Recht, das Upgrade oder die Änderung des Systems zu verwalten und zu entsorgen, ohne an die rechtlichen oder technischen Grenzen des Lieferanten gebunden zu sein."
         },
         {
           "number": "2",
@@ -2957,7 +2957,7 @@
         {
           "number": "4",
           "title": "Fähigkeit zum Einsatz auf internationalen Märkten",
-          "description": "Das Ingenieurteam von Winterfrost hat Softwareprojekte für Partner in den USA, Europa, Singapur und Japan umgesetzt. Wir wenden technische Standards und Qualitätskontrollprozesse nach internationalen Standards bei jedem Projekt an."
+          "description": "Das Ingenieurteam von SoftBuild hat Softwareprojekte für Partner in den USA, Europa, Singapur und Japan umgesetzt. Wir wenden technische Standards und Qualitätskontrollprozesse nach internationalen Standards bei jedem Projekt an."
         },
         {
           "number": "5",
@@ -2967,14 +2967,14 @@
         {
           "number": "6",
           "title": "Bereitstellung laufender Wartungs- und technischer Unterstützungsdienste",
-          "description": "Wir führen regelmäßige Wartungen durch, aktualisieren Sicherheitsupdates und unterstützen die Behandlung technischer Probleme, die rund um die Uhr auftreten. Winterfrost stellt sicher, dass das System stets stabil und mit den neuesten Technologien auf dem neuesten Stand ist."
+          "description": "Wir führen regelmäßige Wartungen durch, aktualisieren Sicherheitsupdates und unterstützen die Behandlung technischer Probleme, die rund um die Uhr auftreten. SoftBuild stellt sicher, dass das System stets stabil und mit den neuesten Technologien auf dem neuesten Stand ist."
         }
       ]
     },
     "cta": {
       "label": "Jetzt kontaktieren!",
       "title": "Jetzt Geschäftsprozesse standardisieren!",
-      "description": "Bereit zur Konvertierung manueller Prozesse und fragmentierter Daten in ein zentralisiertes Verwaltungssystem. Lassen Sie sich von Winterfrost beim Aufbau einer maßgeschneiderten ERP/CRM-Plattform unterstützen, die eine absolute Datensynchronisierung und dauerhafte Eigentümerschaft des Quellcodes gewährleistet.",
+      "description": "Bereit zur Konvertierung manueller Prozesse und fragmentierter Daten in ein zentralisiertes Verwaltungssystem. Lassen Sie sich von SoftBuild beim Aufbau einer maßgeschneiderten ERP/CRM-Plattform unterstützen, die eine absolute Datensynchronisierung und dauerhafte Eigentümerschaft des Quellcodes gewährleistet.",
       "buttonLabel": "Erhalten Sie umgehend eine Lösungsberatung",
       "image": "/images/people/cta/winterfrost/chuyen-vien-nam-tre.png",
       "imageAlt": "Fachberater"
@@ -2982,7 +2982,7 @@
     "cases": null,
     "services": {
       "title": "Maßgeschneiderte Unternehmenssoftware-Programmierdienste",
-      "intro": "Winterfrost implementiert die Programmierung und Implementierung zentraler Managementsysteme wie ERP, CRM und HRM. Wir konzentrieren uns auf die Digitalisierung von Geschäftsprozessen, die Verbindung von Daten zwischen Abteilungen und die Bereitstellung von Analysetools, die Unternehmen helfen, ihre Abläufe genau zu steuern.",
+      "intro": "SoftBuild implementiert die Programmierung und Implementierung zentraler Managementsysteme wie ERP, CRM und HRM. Wir konzentrieren uns auf die Digitalisierung von Geschäftsprozessen, die Verbindung von Daten zwischen Abteilungen und die Bereitstellung von Analysetools, die Unternehmen helfen, ihre Abläufe genau zu steuern.",
       "items": [
         {
           "title": "Gesamtentwicklung des ERP-Systems",
@@ -3060,7 +3060,7 @@
           "number": "06",
           "tag": "Übertragen",
           "title": "Quellcode-Übergabe und routinemäßige Wartung",
-          "description": "Führen Sie eine 100%ige Übergabe von Quellcode und technischen Leitfäden an Unternehmen durch. Winterfrost bietet fortlaufende Wartung, Patch-Updates und technischen Support an, um sicherzustellen, dass das System stets mit den sich wandelnden Anforderungen kompatibel ist."
+          "description": "Führen Sie eine 100%ige Übergabe von Quellcode und technischen Leitfäden an Unternehmen durch. SoftBuild bietet fortlaufende Wartung, Patch-Updates und technischen Support an, um sicherzustellen, dass das System stets mit den sich wandelnden Anforderungen kompatibel ist."
         }
       ],
       "cta": "Beginnen Sie mit der Entwicklung Ihres Produkts!"
@@ -3080,7 +3080,7 @@
         },
         {
           "q": "Wie lange dauert es, die Programmierung eines ERP- oder CRM-Systems abzuschließen?",
-          "a": "Die Implementierungszeit hängt von der Anzahl der Module und der Komplexität des Geschäftsprozesses ab. In der Regel teilt Winterfrost das Projekt in mehrere Phasen auf und übergibt in jedem Modul, damit Unternehmen die wichtigsten Funktionen frühzeitig in Betrieb nehmen können."
+          "a": "Die Implementierungszeit hängt von der Anzahl der Module und der Komplexität des Geschäftsprozesses ab. In der Regel teilt SoftBuild das Projekt in mehrere Phasen auf und übergibt in jedem Modul, damit Unternehmen die wichtigsten Funktionen frühzeitig in Betrieb nehmen können."
         },
         {
           "q": "Wird die Software reagieren, wenn die Anzahl der Mitarbeiter und Daten zunimmt?",
@@ -3088,10 +3088,10 @@
         },
         {
           "q": "Können Unternehmen den Quellcode nach der Übergabe des Projekts besitzen?",
-          "a": "Ja. Winterfrost verpflichtet sich, nach Abschluss des Projekts 100 % des Quellcodes und der technischen Dokumentation zu übergeben. Unternehmen haben dauerhaft vollständiges Eigentum am Produkt und das Recht, die Wartungseinheiten selbst aufzurüsten oder zu verändern, ohne dass wir rechtliche Hindernisse befürchten."
+          "a": "Ja. SoftBuild verpflichtet sich, nach Abschluss des Projekts 100 % des Quellcodes und der technischen Dokumentation zu übergeben. Unternehmen haben dauerhaft vollständiges Eigentum am Produkt und das Recht, die Wartungseinheiten selbst aufzurüsten oder zu verändern, ohne dass wir rechtliche Hindernisse befürchten."
         },
         {
-          "q": "Wie unterstützt Winterfrost die Unterstützung, nachdem das System offiziell in Betrieb ist?",
+          "q": "Wie unterstützt SoftBuild die Unterstützung, nachdem das System offiziell in Betrieb ist?",
           "a": "Wir bieten regelmäßige Wartungen, Sicherheitsupdates und 24/7-Unterstützung zur Behandlung technischer Fehler, die auftreten. Darüber hinaus sind wir stets bereit, neue Funktionsverbesserungen zu beraten und umzusetzen, damit das Softwaresystem stets mit Ihren Geschäftsstrategien kompatibel ist."
         }
       ]
@@ -3102,7 +3102,7 @@
     "title": "Dienstprogramm-Software",
     "hero": {
       "title": "Versorgungssoftwarelösungen für Unternehmen",
-      "description": "Winterfrost spezialisiert sich auf die Programmierung von Utility-Tools, die helfen, die Serverleistung zu optimieren, Hintergrundaufgaben zu automatisieren und Technologieinfrastruktur zu sichern. Wir konzentrieren uns darauf, hochkompatible Add-ons zu entwickeln, um spezifische operative Probleme in Ihren technischen Systemen zu lösen.",
+      "description": "SoftBuild spezialisiert sich auf die Programmierung von Utility-Tools, die helfen, die Serverleistung zu optimieren, Hintergrundaufgaben zu automatisieren und Technologieinfrastruktur zu sichern. Wir konzentrieren uns darauf, hochkompatible Add-ons zu entwickeln, um spezifische operative Probleme in Ihren technischen Systemen zu lösen.",
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-phan-mem-tien-ich-cho-doanh-nghiep.jpg",
       "imageAlt": "Versorgungssoftwarelösungen für Unternehmen",
       "primaryLabel": "Direkt kontaktieren",
@@ -3112,10 +3112,10 @@
       "label": "Überblick",
       "title": "Optimieren Sie die Leistung mit Utility-Software",
       "paragraphs": [
-        "Unternehmen kämpfen oft mit ressourcenaufwendigen manuellen Prozessen oder der Instabilität der zugrunde liegenden Prozesse, die den Betrieb stören. Winterfrost bietet eine Lösung zur Programmierung maßgeschneiderter Werkzeuge für automatisierte Datenverarbeitung, Infrastrukturüberwachung und Speicheroptimierung. Unsere Lösung eliminiert Systemfehler, beseitigt Quellcode-Konflikte und stellt sicher, dass Kernanwendungen stets auf höchster Leistung laufen."
+        "Unternehmen kämpfen oft mit ressourcenaufwendigen manuellen Prozessen oder der Instabilität der zugrunde liegenden Prozesse, die den Betrieb stören. SoftBuild bietet eine Lösung zur Programmierung maßgeschneiderter Werkzeuge für automatisierte Datenverarbeitung, Infrastrukturüberwachung und Speicheroptimierung. Unsere Lösung eliminiert Systemfehler, beseitigt Quellcode-Konflikte und stellt sicher, dass Kernanwendungen stets auf höchster Leistung laufen."
       ],
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Toi-uu-hieu-suat-voi-phan-mem-tien-ich-HomeNest-Viet-Nam.jpg",
-      "imageAlt": "Optimieren Sie die Leistung mit Utility-Software – Winterfrost"
+      "imageAlt": "Optimieren Sie die Leistung mit Utility-Software – SoftBuild"
     },
     "counters": [
       {
@@ -3184,7 +3184,7 @@
     },
     "why": {
       "label": "Warum wählst du uns?",
-      "title": "Gründe, warum Unternehmen bei Winterfrost eine Versorgungssoftwarelösung wählen sollten",
+      "title": "Gründe, warum Unternehmen bei SoftBuild eine Versorgungssoftwarelösung wählen sollten",
       "items": [
         {
           "number": "1",
@@ -3194,7 +3194,7 @@
         {
           "number": "2",
           "title": "Lösen von operativen Engpässen",
-          "description": "Anstatt Massenwerkzeuge bereitzustellen, taucht Winterfrost in die besondere technische Infrastruktur des Kunden ein, um Dienstprogramme zu programmieren, die in der Lage sind, Engpässe genau zu bewältigen, die die auf dem Markt verfügbare Software nicht lösen kann. Dies schafft einen echten und unmittelbaren Nutzungswert für das Unternehmen."
+          "description": "Anstatt Massenwerkzeuge bereitzustellen, taucht SoftBuild in die besondere technische Infrastruktur des Kunden ein, um Dienstprogramme zu programmieren, die in der Lage sind, Engpässe genau zu bewältigen, die die auf dem Markt verfügbare Software nicht lösen kann. Dies schafft einen echten und unmittelbaren Nutzungswert für das Unternehmen."
         },
         {
           "number": "3",
@@ -3214,14 +3214,14 @@
         {
           "number": "6",
           "title": "Eigentumsübertragung und Quellcode",
-          "description": "Winterfrost stellt vollständigen Quellcode und detaillierte technische Dokumentation bereit, um die Abhängigkeit vom Entwickler vollständig zu eliminieren. Unternehmen haben volle Initiative bei der Aktualisierung, Bearbeitung oder Integration neuer Funktionen gemäß ihrem eigenen Entwicklungsplan ohne zusätzliche Lizenzgebühren."
+          "description": "SoftBuild stellt vollständigen Quellcode und detaillierte technische Dokumentation bereit, um die Abhängigkeit vom Entwickler vollständig zu eliminieren. Unternehmen haben volle Initiative bei der Aktualisierung, Bearbeitung oder Integration neuer Funktionen gemäß ihrem eigenen Entwicklungsplan ohne zusätzliche Lizenzgebühren."
         }
       ]
     },
     "cta": {
       "label": "Jetzt kontaktieren!",
       "title": "Optimierung der Leistung der Unternehmenstechnologieinfrastruktur",
-      "description": "Kontaktieren Sie das Ingenieurteam von Winterfrost, um spezialisierte Versorgungssoftware zu programmieren und Abläufe zu automatisieren, um die Stabilität des technischen Systems zu verbessern.",
+      "description": "Kontaktieren Sie das Ingenieurteam von SoftBuild, um spezialisierte Versorgungssoftware zu programmieren und Abläufe zu automatisieren, um die Stabilität des technischen Systems zu verbessern.",
       "buttonLabel": "Lassen Sie sich jetzt beraten",
       "image": "/images/people/cta/winterfrost/chuyen-vien-nam-tre.png",
       "imageAlt": "Fachberater"
@@ -3319,7 +3319,7 @@
       "items": [
         {
           "q": "Verlangsamt Versorgungssoftware die Geschwindigkeit wichtiger Systeme im Unternehmen?",
-          "a": "Nein. Winterfrost optimiert den Quellcode so, dass die Werkzeuge unabhängig arbeiten und minimale Serverressourcen verbrauchen. Wir richten Hintergrundprozesse mit niedriger Priorität ein, um sicherzustellen, dass die Zusatzsoftware nicht die Bandbreite oder den Speicher der Kerngeschäftsanwendungen beansprucht."
+          "a": "Nein. SoftBuild optimiert den Quellcode so, dass die Werkzeuge unabhängig arbeiten und minimale Serverressourcen verbrauchen. Wir richten Hintergrundprozesse mit niedriger Priorität ein, um sicherzustellen, dass die Zusatzsoftware nicht die Bandbreite oder den Speicher der Kerngeschäftsanwendungen beansprucht."
         },
         {
           "q": "Funktionieren diese Werkzeuge zuverlässig auf verschiedenen Betriebssystemplattformen?",
@@ -3349,7 +3349,7 @@
     "title": "Entwickeln Sie Anwendungen nach Bedarf",
     "hero": {
       "title": "On-Demand-Design und -Entwicklung von mobilen Apps",
-      "description": "Winterfrost bietet maßgeschneiderte Mobile-App-Entwicklungsdienste auf zwei IOS- und Android-Plattformen an. Wir konzentrieren uns auf den Aufbau stabiler Softwarearchitekturen, Schnittstellen zur Optimierung der Benutzererfahrung und der flexiblen Integration mit Ihren bestehenden Datensystemen.",
+      "description": "SoftBuild bietet maßgeschneiderte Mobile-App-Entwicklungsdienste auf zwei IOS- und Android-Plattformen an. Wir konzentrieren uns auf den Aufbau stabiler Softwarearchitekturen, Schnittstellen zur Optimierung der Benutzererfahrung und der flexiblen Integration mit Ihren bestehenden Datensystemen.",
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Thiet-ke-va-phat-trien-ung-dung-di-dong-theo-yeu-cau.jpg",
       "imageAlt": "On-Demand-Design und -Entwicklung von mobilen Apps",
       "primaryLabel": "Direkt kontaktieren",
@@ -3360,10 +3360,10 @@
       "title": "Allgemeiner Status der mobilen Anwendung",
       "paragraphs": [
         "Viele mobile Apps haben inzwischen hohe Entfernungsraten aufgrund komplexer Schnittstellen, langsamer Geschwindigkeiten und instabiler Betriebsfehler. Der Mangel an Verbindung zu internen Systemen wie ERP/CRM führt bei jeder Aktualisierung des Betriebssystems zu Datenfragmentierung, Sicherheitsbelastungen und teuren Wartungskosten, was die Investitionseffizienz der Unternehmen verringert.",
-        "Winterfrost entwickelt plattformübergreifende IOS- und Android-Anwendungen mit optimalem Quellcode, was hohe Geschwindigkeit und absolute Stabilität gewährleistet. Die Lösung basiert auf einer zentralisierten Datenarchitektur, die eine praktische Integration und Synchronisation mit bestehenden Managementsystemen ermöglicht. Wir schaffen mehrschichtige Sicherheit und engagieren uns für proaktiven technischen Support, um die App mit den neuesten Standards kompatibel zu halten."
+        "SoftBuild entwickelt plattformübergreifende IOS- und Android-Anwendungen mit optimalem Quellcode, was hohe Geschwindigkeit und absolute Stabilität gewährleistet. Die Lösung basiert auf einer zentralisierten Datenarchitektur, die eine praktische Integration und Synchronisation mit bestehenden Managementsystemen ermöglicht. Wir schaffen mehrschichtige Sicherheit und engagieren uns für proaktiven technischen Support, um die App mit den neuesten Standards kompatibel zu halten."
       ],
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Ung-dung-tuy-chinh-HomeNest-Viet-Nam.jpg",
-      "imageAlt": "Benutzerdefinierte App – Winterfrost"
+      "imageAlt": "Benutzerdefinierte App – SoftBuild"
     },
     "counters": [
       {
@@ -3432,7 +3432,7 @@
     },
     "why": {
       "label": "Warum wählst du uns?",
-      "title": "Warum Unternehmen den Diensten von Winterfrost vertrauen sollten",
+      "title": "Warum Unternehmen den Diensten von SoftBuild vertrauen sollten",
       "items": [
         {
           "number": "1",
@@ -3462,14 +3462,14 @@
         {
           "number": "6",
           "title": "Besitze die App vollständig",
-          "description": "Winterfrost übergab den gesamten Quellcode und die technische Dokumentation nach Abschluss des Projekts. Unternehmen besitzen Produkte vollständig und sind proaktiv dabei, die Zukunft zu verbessern."
+          "description": "SoftBuild übergab den gesamten Quellcode und die technische Dokumentation nach Abschluss des Projekts. Unternehmen besitzen Produkte vollständig und sind proaktiv dabei, die Zukunft zu verbessern."
         }
       ]
     },
     "cta": {
       "label": "Jetzt kontaktieren!",
       "title": "Bereit, eine eigene mobile App zu besitzen?",
-      "description": "Lassen Sie Winterfrost Ihre Idee in ein Technologieprodukt umsetzen, das stabil, sicher ist und echte Geschäftsleistung liefert. Wir sind verpflichtet, während des gesamten Betriebs- und Upgrade-Prozesses den gesamten Quellcode und die begleitenden Unternehmen zu übergeben.",
+      "description": "Lassen Sie SoftBuild Ihre Idee in ein Technologieprodukt umsetzen, das stabil, sicher ist und echte Geschäftsleistung liefert. Wir sind verpflichtet, während des gesamten Betriebs- und Upgrade-Prozesses den gesamten Quellcode und die begleitenden Unternehmen zu übergeben.",
       "buttonLabel": "Lassen Sie sich jetzt beraten",
       "image": "/images/people/cta/winterfrost/nhan-vien-cong-nghe-tre.png",
       "imageAlt": "Fachberater"
@@ -3482,7 +3482,7 @@
           "text": "ENTWICKLUNG VON ANWENDUNGEN AUF ABRUF\nAPP-DESIGN\nApp Nivora Connect\nProjekt ansehen"
         },
         {
-          "href": "https://winterfrost.tech/case-studies/app-grevia-lawn",
+          "href": "https://softbuildvn.vercel.app/case-studies/app-grevia-lawn",
           "text": "ENTWICKLUNG VON ANWENDUNGEN AUF ABRUF\nAPP-DESIGN\nApp Grevia Lawn\nProjekt ansehen"
         }
       ],
@@ -3498,44 +3498,44 @@
       ]
     },
     "services": {
-      "title": "Die maßgeschneiderten App-Design-Dienste von Winterfrost",
-      "intro": "Winterfrost bietet umfassende Dienstleistungen zur Entwicklung mobiler Apps an, von der Schnittstellenentwicklung bis hin zur Systemprogrammierung und -bedienung. Wir konzentrieren uns darauf, Technologielösungen zu schaffen, die stabil, einfach zu bedienen sind und flexibel in die bestehende technische Infrastruktur des Unternehmens integriert werden können.",
+      "title": "Die maßgeschneiderten App-Design-Dienste von SoftBuild",
+      "intro": "SoftBuild bietet umfassende Dienstleistungen zur Entwicklung mobiler Apps an, von der Schnittstellenentwicklung bis hin zur Systemprogrammierung und -bedienung. Wir konzentrieren uns darauf, Technologielösungen zu schaffen, die stabil, einfach zu bedienen sind und flexibel in die bestehende technische Infrastruktur des Unternehmens integriert werden können.",
       "items": [
         {
           "title": "Entwicklung von Anwendungen für Unternehmen",
           "description": "Baue interne Anwendungen für HR-Management, Prozessgenehmigungen, Projektfortschrittsverfolgung und Feldberichterstattung. Dieser Service konzentriert sich darauf, Geschäftsformulare und Arbeitsabläufe auf mobile Geräte zu digitalisieren.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Thiet-ke-ung-dung-cho-doanh-nghiep-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Apps für Unternehmen entwerfen – Winterfrost"
+          "imageAlt": "Apps für Unternehmen entwerfen – SoftBuild"
         },
         {
           "title": "Entwicklung von Verkaufs-Apps",
           "description": "Entwerfen Sie eine Online-Shopping-Anwendung mit einem vollständigen Modulumfang: Warenkorb, Produktsuche, Zahlungsgateway-Integration und Bestellverfolgung. Wir konzentrieren uns darauf, einen prägnanten Kauffluss zu erstellen, um die Abschlussrate zu optimieren.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phat-trien-app-ban-hang-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Verkaufs-App-Entwicklung – Winterfrost"
+          "imageAlt": "Verkaufs-App-Entwicklung – SoftBuild"
         },
         {
           "title": "On-Demand-App-Design",
-          "description": "Programmiere Bewerbungen basierend auf separaten Geschäftsideen oder Start-up-Modellen. Winterfrost geht von der Entwicklung exklusiver Funktionen hin zur Strukturierung eigener Daten, um sicherzustellen, dass keine Duplikate mit den auf dem Markt verfügbaren Produkten entstehen.",
+          "description": "Programmiere Bewerbungen basierend auf separaten Geschäftsideen oder Start-up-Modellen. SoftBuild geht von der Entwicklung exklusiver Funktionen hin zur Strukturierung eigener Daten, um sicherzustellen, dass keine Duplikate mit den auf dem Markt verfügbaren Produkten entstehen.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Thiet-ke-ung-dung-theo-yeu-cau-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Benutzerdefiniertes App-Design – Winterfrost"
+          "imageAlt": "Benutzerdefiniertes App-Design – SoftBuild"
         },
         {
           "title": "UXUI-Standard-Schnittstellendesign",
           "description": "Bereitstellung von Nutzerverhaltensforschung, Design von Skelettzeichnungen und einer vollständigen grafischen Benutzeroberfläche für die Anwendung. Dies ist ein Service für Unternehmen, die bereits ein Programmierteam haben, aber ein professionelles und einfach zu bedienendes Design benötigen.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Thiet-ke-giao-dien-chuan-UXUI-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "UXUI-Standard-Schnittstellendesign – Winterfrost"
+          "imageAlt": "UXUI-Standard-Schnittstellendesign – SoftBuild"
         },
         {
           "title": "Baue ein Backend-System und verbinde APIs",
           "description": "Aufbau von Serverinfrastruktur, Aufbau von Datenbanken und technischen Gateways. Dieser Dienst hilft mobilen Anwendungen, Daten direkt mit bestehenden Management-Software wie ERP, CRM oder Unternehmenswebsites zu verbinden und zu synchronisieren.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Xay-dung-he-thong-Backend-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Ein Backend-System aufbauen – Winterfrost"
+          "imageAlt": "Ein Backend-System aufbauen – SoftBuild"
         },
         {
           "title": "Anwendungs-Upgrades und Wartung",
           "description": "Führen Sie Maßnahmen durch, um die App im App Store/Google Play zu installieren und einen stabilen Betrieb aufrechtzuerhalten. Wir sind dafür verantwortlich, technische Fehler zu beheben, neue Funktionen zu aktualisieren und den Quellcode zu aktualisieren, damit die App mit den neuesten Versionen von iOS und Android kompatibel ist.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Nang-cap-va-bao-tri-ung-dung-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Anwendungs-Upgrades und Wartung – Winterfrost"
+          "imageAlt": "Anwendungs-Upgrades und Wartung – SoftBuild"
         }
       ],
       "cta": "Entdecken Sie alle Dienste"
@@ -3571,7 +3571,7 @@
           "number": "05",
           "tag": "Veröffentlichung",
           "title": "Veröffentlichen Sie im App Store und bei Google Play",
-          "description": "Führen Sie technische Verfahren durch und laden Sie den Antrag bei internationalen Filialen hoch. Winterfrost überwacht den Prüfprozess von Apple und Google genau, um sicherzustellen, dass Apps pünktlich erscheinen."
+          "description": "Führen Sie technische Verfahren durch und laden Sie den Antrag bei internationalen Filialen hoch. SoftBuild überwacht den Prüfprozess von Apple und Google genau, um sicherzustellen, dass Apps pünktlich erscheinen."
         },
         {
           "number": "06",
@@ -3589,7 +3589,7 @@
       "items": [
         {
           "q": "Welche Kosten berechnet die Entwicklung einer mobilen App?",
-          "a": "Die Kosten werden durch die Anzahl der Funktionen, die Komplexität der Benutzeroberfläche und die Anforderungen der Backend-Infrastruktur bestimmt. Winterfrost erstellt ein detailliertes Angebot nach Durchführung einer Geschäftsumfrage und der Vereinbarung eines Lösungsdokuments mit dem Unternehmen."
+          "a": "Die Kosten werden durch die Anzahl der Funktionen, die Komplexität der Benutzeroberfläche und die Anforderungen der Backend-Infrastruktur bestimmt. SoftBuild erstellt ein detailliertes Angebot nach Durchführung einer Geschäftsumfrage und der Vereinbarung eines Lösungsdokuments mit dem Unternehmen."
         },
         {
           "q": "Wie lange dauert es vom Anfang bis zur Veröffentlichung der App im Store?",
@@ -3597,7 +3597,7 @@
         },
         {
           "q": "Kann das Unternehmen nach der Übergabe den gesamten Quellcode besitzen?",
-          "a": "Ja. Winterfrost übergab nach Abschluss des Projekts den gesamten Quellcode und zugehörige technische Architekturdokumente. Unternehmen besitzen das Produkt vollständig und haben das Recht, den Betrieb aktiv aufzurüsten oder zu übertragen."
+          "a": "Ja. SoftBuild übergab nach Abschluss des Projekts den gesamten Quellcode und zugehörige technische Architekturdokumente. Unternehmen besitzen das Produkt vollständig und haben das Recht, den Betrieb aktiv aufzurüsten oder zu übertragen."
         },
         {
           "q": "Funktioniert die App synchron sowohl auf iOS als auch auf Android?",
@@ -3608,7 +3608,7 @@
           "a": "Wir verwenden End-to-End-Datenverschlüsselungsstandards und richten ein mehrschichtiges Authentifizierungssystem ein. Vor ihrer Veröffentlichung wird die App strengen Sicherheitstests unterzogen, um potenzielle technische Schwachstellen zu erkennen und zu beheben."
         },
         {
-          "q": "Unterstützt Winterfrost Updates, wenn neue Versionen von IOS- und Android-Betriebssystemen veröffentlicht werden?",
+          "q": "Unterstützt SoftBuild Updates, wenn neue Versionen von IOS- und Android-Betriebssystemen veröffentlicht werden?",
           "a": "Ja. Wir bieten regelmäßige Wartungsdienste an, um die Kompatibilität zu überprüfen und den Quellcode entsprechend Änderungen von Google und Apple zu aktualisieren. Das stellt sicher, dass Ihre Anwendungen immer stabil auf den neuesten Geräten laufen."
         }
       ]
@@ -3619,7 +3619,7 @@
     "title": "Unternehmensfinanzierung",
     "hero": {
       "title": "Softwareentwicklung für Unternehmensfinanzierung",
-      "description": "Winterfrost bietet ultrasichere, skalierbare und vollständig konforme Unternehmensfinanzierungssoftwarelösungen an. Wir unterstützen Finanzinstitute dabei, ihre veralteten Kernbanksysteme zu modernisieren und automatisierte Vermögensverwaltungsplattformen zu entwickeln, die eine technologische Infrastruktur bieten, die perfekt mit dem modernen Finanzökosystem kompatibel ist.",
+      "description": "SoftBuild bietet ultrasichere, skalierbare und vollständig konforme Unternehmensfinanzierungssoftwarelösungen an. Wir unterstützen Finanzinstitute dabei, ihre veralteten Kernbanksysteme zu modernisieren und automatisierte Vermögensverwaltungsplattformen zu entwickeln, die eine technologische Infrastruktur bieten, die perfekt mit dem modernen Finanzökosystem kompatibel ist.",
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Tai-chinh-doanh-nghiep.jpg",
       "imageAlt": "Unternehmensfinanzierung",
       "primaryLabel": "Direkt kontaktieren",
@@ -3630,7 +3630,7 @@
       "title": "Die Umwandlung des alten Finanzsystems in eine digitale Architektur der neuen Generation",
       "paragraphs": [
         "Viele Finanzinstitute arbeiten auf alten Kernbanksystemen, die schwer aufzurüsten und extrem teuer in der Wartung sind. Das Fehlen moderner API-Gateways macht die Integration mit Drittanbieteranwendungen komplex und riskant. Darüber hinaus ist die Verarbeitung großer Datenmengen bei gleichzeitiger Einhaltung strenger Vorschriften ein Dilemma für veraltete Systeme.",
-        "Winterfrost bietet eine umfassende Lösung zur Modernisierung der Finanzinfrastruktur an. Wir führen die Transformation von Altsystemen zu moderner Microservices-Architektur durch, indem wir automatisierte Asset-Management-Plattformen und intelligente Risikomanagementsysteme aufbauen. Unsere Lösungen helfen Ihnen, die operative Leistung zu optimieren, Ihre Daten zu beherrschen und bereit zu sein, alle strengsten Standards der globalen Finanzmärkte zu erfüllen."
+        "SoftBuild bietet eine umfassende Lösung zur Modernisierung der Finanzinfrastruktur an. Wir führen die Transformation von Altsystemen zu moderner Microservices-Architektur durch, indem wir automatisierte Asset-Management-Plattformen und intelligente Risikomanagementsysteme aufbauen. Unsere Lösungen helfen Ihnen, die operative Leistung zu optimieren, Ihre Daten zu beherrschen und bereit zu sein, alle strengsten Standards der globalen Finanzmärkte zu erfüllen."
       ],
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Chuyen-doi-he-thong-tai-chinh-cu-sang-kien-truc-so-the-he-moi.jpg",
       "imageAlt": "Die Umwandlung des alten Finanzsystems in eine neue digitale Architektur"
@@ -3702,7 +3702,7 @@
     },
     "why": {
       "label": "Warum wählst du uns?",
-      "title": "Warum die Finanzhypothese bei Winterfrost wählen",
+      "title": "Warum die Finanzhypothese bei SoftBuild wählen",
       "items": [
         {
           "number": "1",
@@ -3732,14 +3732,14 @@
         {
           "number": "6",
           "title": "Optimieren Sie die Gesamtkosten des Besitzes",
-          "description": "Die Lösung von Winterfrost senkt langfristige Betriebskosten und eliminiert teure Lizenzgebühren für Verpackungsanbieter."
+          "description": "Die Lösung von SoftBuild senkt langfristige Betriebskosten und eliminiert teure Lizenzgebühren für Verpackungsanbieter."
         }
       ]
     },
     "cta": {
       "label": "Jetzt kontaktieren!",
       "title": "Aufbau der Infrastruktur für das Unternehmensfinanzmanagement",
-      "description": "Kontaktieren Sie das Engineering-Team von Winterfrost, um ein Echtzeit-Cashflow-Management-System zu erstellen und den Abwicklungsberichterstattungsprozess zu automatisieren, um die Governance-Leistung für Ihr Unternehmen zu optimieren.",
+      "description": "Kontaktieren Sie das Engineering-Team von SoftBuild, um ein Echtzeit-Cashflow-Management-System zu erstellen und den Abwicklungsberichterstattungsprozess zu automatisieren, um die Governance-Leistung für Ihr Unternehmen zu optimieren.",
       "buttonLabel": "Kontaktieren Sie uns jetzt",
       "image": "/images/people/cta/winterfrost/chuyen-vien-nu.png",
       "imageAlt": "Fachberater"
@@ -3747,7 +3747,7 @@
     "cases": null,
     "services": {
       "title": "Nächste Generation von Unternehmensfinanzdienstleistungen",
-      "intro": "Winterfrost setzt Lösungen ein, um das Kernbanksystem zu modernisieren, eine Asset Management- und Smart Risk Management-Plattform aufzubauen, die Unternehmen dabei unterstützt, moderne Finanzinfrastruktur zu meistern, zu sichern und effizient im großen Maßstab zu agieren.",
+      "intro": "SoftBuild setzt Lösungen ein, um das Kernbanksystem zu modernisieren, eine Asset Management- und Smart Risk Management-Plattform aufzubauen, die Unternehmen dabei unterstützt, moderne Finanzinfrastruktur zu meistern, zu sichern und effizient im großen Maßstab zu agieren.",
       "items": [
         {
           "title": "Modernisierung des Kernbanksystems",
@@ -3801,7 +3801,7 @@
           "number": "02",
           "tag": "Design",
           "title": "Architektonisches Design und Sicherheit",
-          "description": "Winterfrost erstellt technische Zeichnungen basierend auf der Microservices-Architektur, sodass das System leicht skalierbar und wartbar ist. Datensicherheitsschichten und API-Verbindungsprotokolle sind streng etabliert, um die Integrität der Finanzinformationen von Anfang an zu gewährleisten."
+          "description": "SoftBuild erstellt technische Zeichnungen basierend auf der Microservices-Architektur, sodass das System leicht skalierbar und wartbar ist. Datensicherheitsschichten und API-Verbindungsprotokolle sind streng etabliert, um die Integrität der Finanzinformationen von Anfang an zu gewährleisten."
         },
         {
           "number": "03",
@@ -3819,13 +3819,13 @@
           "number": "05",
           "tag": "Praktische Nutzung",
           "title": "Einsatz und Transformation",
-          "description": "Wir erlauben es, dass das neue System für einen bestimmten Zeitraum parallel zum alten System läuft, um die Stabilität zu überprüfen. Nachdem jeder Indikator zufriedenstellend ist, führt Winterfrost einen vollständigen Übergang zum neuen System durch, ohne bestehende Transaktionen zu unterbrechen."
+          "description": "Wir erlauben es, dass das neue System für einen bestimmten Zeitraum parallel zum alten System läuft, um die Stabilität zu überprüfen. Nachdem jeder Indikator zufriedenstellend ist, führt SoftBuild einen vollständigen Übergang zum neuen System durch, ohne bestehende Transaktionen zu unterbrechen."
         },
         {
           "number": "06",
           "tag": "Übergabe",
           "title": "Quellcode-Übergabe und Wartungsunterstützung",
-          "description": "Winterfrost übergab den gesamten Quellcode und die Betriebshandbücher an das technische Team des Unternehmens. Wir warten rund um die Uhr und aktualisieren regelmäßig Sicherheitspatches, damit das System stets bestmöglich funktioniert."
+          "description": "SoftBuild übergab den gesamten Quellcode und die Betriebshandbücher an das technische Team des Unternehmens. Wir warten rund um die Uhr und aktualisieren regelmäßig Sicherheitspatches, damit das System stets bestmöglich funktioniert."
         }
       ],
       "cta": "Beginnen Sie mit der Entwicklung Ihres Produkts!"
@@ -3837,14 +3837,14 @@
       "items": [
         {
           "q": "Wird ein Upgrade vom alten Kernbanksystem bestehende Transaktionen stören?",
-          "a": "Nein. Winterfrost verfolgt eine Strategie der parallelen Bereitstellung oder phasenweisen Transformation. Wir richten Zwischengateways ein, um sicherzustellen, dass die Daten immer zwischen dem alten und dem neuen System synchronisiert werden, sodass alle Kundentransaktionen während des gesamten Upgrade-Prozesses reibungslos verlaufen."
+          "a": "Nein. SoftBuild verfolgt eine Strategie der parallelen Bereitstellung oder phasenweisen Transformation. Wir richten Zwischengateways ein, um sicherzustellen, dass die Daten immer zwischen dem alten und dem neuen System synchronisiert werden, sodass alle Kundentransaktionen während des gesamten Upgrade-Prozesses reibungslos verlaufen."
         },
         {
           "q": "Wie kann ich sicherstellen, dass finanzielle Daten bei der Migration auf ein neues System nicht verloren gehen?",
           "a": "Wir setzen den Datenmigrationsprozess durch eine Vielzahl rigoroser Audits um, einschließlich automatisierter Datenabstimmung und Migrationsübungen. Alle Informationen vom Kontostand bis zur Transaktionshistorie werden auf 100 % Integrität überprüft, bevor das neue System offiziell in Betrieb genommen wird."
         },
         {
-          "q": "Unterstützt das System von Winterfrost die Automatisierung von Compliance-Berichten?",
+          "q": "Unterstützt das System von SoftBuild die Automatisierung von Compliance-Berichten?",
           "a": "Ja. Wir verfügen über integrierte RegTech-Tools, die die Datenaggregation und den Export von Berichten gemäß internationalen Standards wie IFRS und Zentralbankvorschriften automatisieren. Dies hilft Unternehmen, Zeit zu sparen und absolute Genauigkeit vor den Aufsichtsbehörden sicherzustellen."
         },
         {
@@ -3853,10 +3853,10 @@
         },
         {
           "q": "Hat das Unternehmen das Recht, den Quellcode nach der Übergabe zu besitzen und zu bearbeiten?",
-          "a": "Absolut. Winterfrost übergab 100 % des Quellcodes und der technischen Architekturdokumentation. Unternehmen haben das volle Eigentum am Produkt und können proaktiv Funktionen entsprechend der Geschäftsstrategie pflegen, aktualisieren oder anpassen, ohne von einem Lieferanten abhängig zu sein."
+          "a": "Absolut. SoftBuild übergab 100 % des Quellcodes und der technischen Architekturdokumentation. Unternehmen haben das volle Eigentum am Produkt und können proaktiv Funktionen entsprechend der Geschäftsstrategie pflegen, aktualisieren oder anpassen, ohne von einem Lieferanten abhängig zu sein."
         },
         {
-          "q": "Wie schützt Winterfrost Finanzdaten gegen Cyberangriffe?",
+          "q": "Wie schützt SoftBuild Finanzdaten gegen Cyberangriffe?",
           "a": "Wir bauen ein mehrschichtiges Sicherheitssystem, von der ruhenden Datenverschlüsselung bis zur Sicherheit der Transaktionsübertragung. Das System integriert Eindringlingserkennungstechnologien und unterzieht sich strengen Penetrationstests, um sicherzustellen, dass die Finanzinfrastruktur stets widerstandsfähig gegen Cyberbedrohungen ist."
         }
       ]
@@ -3867,7 +3867,7 @@
     "title": "Elektronischer Handel",
     "hero": {
       "title": "Umfassende E-Commerce-Lösung",
-      "description": "Winterfrost baut eine hochlastige E-Commerce-Infrastruktur auf und gewährleistet die Bewältigung großer Datenmengen, ohne die operative Effizienz zu beeinträchtigen. Wir konzentrieren uns auf die Entwicklung einer maßgeschneiderten Headless-Commerce-Plattform ohne Benutzeroberfläche, einer Multi-Seller-E-Commerce-Plattform und einem Automatisierungssystem zur Auftragsabwicklung. Die Lösung priorisiert die Schaffung einer reibungslosen Handelsumgebung, um die Konversionsraten zu maximieren, kombiniert mit einem tiefgehenden Backend-integrierten Sicherheitsmanagementprozess.",
+      "description": "SoftBuild baut eine hochlastige E-Commerce-Infrastruktur auf und gewährleistet die Bewältigung großer Datenmengen, ohne die operative Effizienz zu beeinträchtigen. Wir konzentrieren uns auf die Entwicklung einer maßgeschneiderten Headless-Commerce-Plattform ohne Benutzeroberfläche, einer Multi-Seller-E-Commerce-Plattform und einem Automatisierungssystem zur Auftragsabwicklung. Die Lösung priorisiert die Schaffung einer reibungslosen Handelsumgebung, um die Konversionsraten zu maximieren, kombiniert mit einem tiefgehenden Backend-integrierten Sicherheitsmanagementprozess.",
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-thuong-mai-dien-toan-dien.jpg",
       "imageAlt": "Umfassende E-Commerce-Lösung",
       "primaryLabel": "Direkt kontaktieren",
@@ -3878,7 +3878,7 @@
       "title": "Der aktuelle Stand der E-Commerce-Plattformen",
       "paragraphs": [
         "Viele Unternehmen kämpfen mit E-Commerce-Systemen mit langsamen Ladezeiten und komplexen Benutzererfahrungen, was zu hohen Warenkorb-Verlassensraten führt. Die fehlende Verbindung zwischen dem Online-Vertriebskanal und dem Lager- und Bestellverwaltungssystem verzerrt die tatsächlichen Daten. Darüber hinaus verringern die Risiken durch Zahlungssicherheit und schlechte Auslastungskapazitäten während der Spitzenzeiten des Online-Shoppings den Ruf und den Umsatz der Unternehmen.",
-        "Winterfrost entwickelt E-Commerce-Systeme auf Basis der Microservices-Architektur, die schnelle Reaktionszeiten und die Fähigkeit, Tausende gleichzeitiger Besuche zu bewältigen, gewährleistet. Wir stellen eine direkte Verbindung von Zahlungsgateways, Versandeinheiten und physischer Synchronisation mit dem ERP/CRM-Managementsystem des Unternehmens her. Die Lösung konzentriert sich darauf, den Kauffluss zu optimieren, mehrschichtige Sicherheit zu etablieren und tiefgehende Datenanalysetools zur Unterstützung effizienter Geschäftsabläufe bereitzustellen."
+        "SoftBuild entwickelt E-Commerce-Systeme auf Basis der Microservices-Architektur, die schnelle Reaktionszeiten und die Fähigkeit, Tausende gleichzeitiger Besuche zu bewältigen, gewährleistet. Wir stellen eine direkte Verbindung von Zahlungsgateways, Versandeinheiten und physischer Synchronisation mit dem ERP/CRM-Managementsystem des Unternehmens her. Die Lösung konzentriert sich darauf, den Kauffluss zu optimieren, mehrschichtige Sicherheit zu etablieren und tiefgehende Datenanalysetools zur Unterstützung effizienter Geschäftsabläufe bereitzustellen."
       ],
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Thuc-trang-cua-san-thuong-mai-dien-tu.jpg",
       "imageAlt": "Der aktuelle Stand der E-Commerce-Plattformen"
@@ -3907,7 +3907,7 @@
     ],
     "values": {
       "title": "Praktischer Wert bei der Anwendung von Technologie",
-      "intro": "Die Anwendung der Winterfrost-Technologie hilft Unternehmen, den Verkaufsprozess zu automatisieren, Konversionsraten zu optimieren und das Datenmanagement zu zentralisieren, wodurch eine nachhaltige und sichere Betriebsplattform im Online-Umfeld geschaffen wird.",
+      "intro": "Die Anwendung der SoftBuild-Technologie hilft Unternehmen, den Verkaufsprozess zu automatisieren, Konversionsraten zu optimieren und das Datenmanagement zu zentralisieren, wodurch eine nachhaltige und sichere Betriebsplattform im Online-Umfeld geschaffen wird.",
       "items": [
         {
           "title": "Betriebsabläufe automatisieren",
@@ -3950,7 +3950,7 @@
     },
     "why": {
       "label": "Warum wählst du uns?",
-      "title": "Warum sollten Unternehmen sich für Winterfrost entscheiden?",
+      "title": "Warum sollten Unternehmen sich für SoftBuild entscheiden?",
       "items": [
         {
           "number": "1",
@@ -3975,19 +3975,19 @@
         {
           "number": "5",
           "title": "Unternehmen besitzen den Quellcode vollständig",
-          "description": "Nach Abschluss übergab Winterfrost den gesamten Quellcode des Produkts. Unternehmen haben das volle Eigentum, können ihre Betriebseinheiten selbst aufrüsten oder ändern, ohne verpflichtet zu sein."
+          "description": "Nach Abschluss übergab SoftBuild den gesamten Quellcode des Produkts. Unternehmen haben das volle Eigentum, können ihre Betriebseinheiten selbst aufrüsten oder ändern, ohne verpflichtet zu sein."
         },
         {
           "number": "6",
           "title": "Praktische und effektive Feature-Beratung",
-          "description": "Wir konzentrieren uns darauf, die Funktionen zu entwickeln, die wirklich für den Verkauf notwendig sind. Die Lösung von Winterfrost priorisiert es, Kunden dabei zu helfen, Bestellungen schneller abzuschließen und Verwaltungskosten für Unternehmen zu sparen."
+          "description": "Wir konzentrieren uns darauf, die Funktionen zu entwickeln, die wirklich für den Verkauf notwendig sind. Die Lösung von SoftBuild priorisiert es, Kunden dabei zu helfen, Bestellungen schneller abzuschließen und Verwaltungskosten für Unternehmen zu sparen."
         }
       ]
     },
     "cta": {
       "label": "Jetzt kontaktieren!",
       "title": "Bauen Sie noch heute eine E-Commerce-Plattform auf!",
-      "description": "Lassen Sie sich von Winterfrost begleiten, um eine stabile, leistungsstarke und umfassend integrierte Vertriebsplattform aufzubauen. Wir setzen uns dafür ein, das vollständige Eigentum am Quellcode abzugeben, damit Unternehmen proaktiv nachhaltig entwickeln und Geschäftsdaten vollständig beherrschen können.",
+      "description": "Lassen Sie sich von SoftBuild begleiten, um eine stabile, leistungsstarke und umfassend integrierte Vertriebsplattform aufzubauen. Wir setzen uns dafür ein, das vollständige Eigentum am Quellcode abzugeben, damit Unternehmen proaktiv nachhaltig entwickeln und Geschäftsdaten vollständig beherrschen können.",
       "buttonLabel": "Erhalten Sie umgehend eine Lösungsberatung",
       "image": "/images/people/cta/winterfrost/chuyen-vien-nu.png",
       "imageAlt": "Fachberater"
@@ -3996,15 +3996,15 @@
       "title": "Case Studies",
       "links": [
         {
-          "href": "https://winterfrost.tech/case-studies/website-virela-interior",
+          "href": "https://softbuildvn.vercel.app/case-studies/website-virela-interior",
           "text": "ARCHITEKTUR & BAUWESEN\nE-COMMERCE\nWEBDESIGN\nWebsite Virela Innenraum\nProjekt ansehen"
         },
         {
-          "href": "https://winterfrost.tech/case-studies/website-ceranova",
+          "href": "https://softbuildvn.vercel.app/case-studies/website-ceranova",
           "text": "ARCHITEKTUR & BAUWESEN\nE-COMMERCE\nWEBDESIGN\nWebsite Ceranova\nProjekt ansehen"
         },
         {
-          "href": "https://winterfrost.tech/case-studies/website-mocvan-tea",
+          "href": "https://softbuildvn.vercel.app/case-studies/website-mocvan-tea",
           "text": "EINZELHANDEL\nE-COMMERCE\nWEBDESIGN\nWebseite Mocvan Tea\nProjekt ansehen"
         }
       ],
@@ -4016,44 +4016,44 @@
       ]
     },
     "services": {
-      "title": "E-Commerce-Dienstleistungen bei Winterfrost",
-      "intro": "Winterfrost bietet tiefgehende Programm- und Integrationsdienste, um den Online-Verkaufstrichter in ein automatisiertes Betriebssystem zu verwandeln. Wir konzentrieren uns darauf, eine separate technische Infrastruktur aufzubauen, die Unternehmen dabei unterstützt, den Daten- und Transaktionsprozess vollständig zu meistern.",
+      "title": "E-Commerce-Dienstleistungen bei SoftBuild",
+      "intro": "SoftBuild bietet tiefgehende Programm- und Integrationsdienste, um den Online-Verkaufstrichter in ein automatisiertes Betriebssystem zu verwandeln. Wir konzentrieren uns darauf, eine separate technische Infrastruktur aufzubauen, die Unternehmen dabei unterstützt, den Daten- und Transaktionsprozess vollständig zu meistern.",
       "items": [
         {
           "title": "Entwickeln Sie eine maßgeschneiderte Vertriebsplattform",
           "description": "Entwickeln Sie Verkaufswebsites und -anwendungen basierend auf den individuellen Anforderungen des Unternehmens, anstatt bestehende Vorlagen zu verwenden. Dieser Dienst stellt sicher, dass das System vollständig ausgestattet, leicht skalierbar ist und die Seitenladegeschwindigkeit auf höchster Ebene optimiert.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phat-trien-nen-tang-ban-hang-tuy-chinh-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Entwicklung maßgeschneiderter Verkaufsplattformen – Winterfrost"
+          "imageAlt": "Entwicklung maßgeschneiderter Verkaufsplattformen – SoftBuild"
         },
         {
           "title": "Bau eines Mehrverkäufer-Gewerbegeschosses",
           "description": "Technische Infrastruktur für groß angelegte Austauschmodelle mit Beteiligung mehrerer Anbieter aufbauen. Das System umfasst ein vollständiges Angebot an Standverwaltungsmodulen, automatische Provisionsverteilung und Qualitätskontrolle jedes Verkäufers.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Xay-dung-san-thuong-mai-da-nguoi-ban-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Aufbau einer Multi-Seller-Handelsplattform – Winterfrost"
+          "imageAlt": "Aufbau einer Multi-Seller-Handelsplattform – SoftBuild"
         },
         {
           "title": "Implementierung einer Headless-Commerce-Lösung",
           "description": "Sie verwenden eine moderne Architektur, die die Anzeigeoberfläche und das Datenverarbeitungsgerät voneinander trennt. Diese Lösung hilft der Anwendung dabei, auf jedem Gerät extrem schnell zu arbeiten, erhöht die Sicherheit und ermöglicht es Unternehmen, die Benutzeroberfläche flexibel zu verändern, ohne das Backend-Vertriebssystem zu beeinträchtigen.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Trien-khai-giai-phap-Headless-Commerce-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Implementierung von Headless-Commerce-Lösungen – Winterfrost"
+          "imageAlt": "Implementierung von Headless-Commerce-Lösungen – SoftBuild"
         },
         {
           "title": "Verbindung von Verwaltungssystemen und Logistik",
           "description": "Direkte Datenverknüpfung zwischen Vertriebskanälen und Lagerverwaltungs-, Buchhaltungs- und Versandeinheiten implementieren. Alle Informationen zu Lagerbestand, Bestellstatus und Umsatz werden automatisch synchron aktualisiert, um Fehler durch manuelle Operationen zu minimieren.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Ket-noi-he-thong-quan-tri-va-kho-van-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Logistik- und Verwaltungssystemverbindung – Winterfrost"
+          "imageAlt": "Logistik- und Verwaltungssystemverbindung – SoftBuild"
         },
         {
           "title": "Integration von Zahlungsgateways und Transaktionssicherheit",
           "description": "Stellen Sie sichere technische Verbindungen zu Banken, E-Wallets und Zahlungsvermittlern her. Wir wenden strenge Datenverschlüsselungsstandards an, um die Finanzinformationen unserer Kunden und den Ruf unseres Unternehmens zu schützen.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Tich-hop-cong-thanh-toan-va-bao-mat-giao-dich-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Integration von Zahlungsgateways und Transaktionssicherheit – Winterfrost"
+          "imageAlt": "Integration von Zahlungsgateways und Transaktionssicherheit – SoftBuild"
         },
         {
           "title": "Wartung und Leistungsoptimierung",
           "description": "Überwachen und verfeinern Sie den Quellcode, damit die Seite während der Spitzenzeiten des Einkaufs immer reibungslos läuft. Dieser Service umfasst regelmäßige Schwachstellenprüfungen, neue Funktionsupdates und die Sicherstellung, dass das System bei hohem Verkehr nicht unterbrochen wird.",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Bao-tri-va-toi-uu-hieu-suat-HomeNest-Viet-Nam.jpg",
-          "imageAlt": "Wartung und Leistungsoptimierung – Winterfrost"
+          "imageAlt": "Wartung und Leistungsoptimierung – SoftBuild"
         }
       ],
       "cta": "Entdecken Sie alle Dienste"
@@ -4089,7 +4089,7 @@
           "number": "05",
           "tag": "Betrieb",
           "title": "Produkteinführung und -veröffentlichung",
-          "description": "Konfigurieren Sie den Server, installieren Sie Sicherheitszertifikate und setzen Sie das System offiziell in Betrieb. Winterfrost unterstützt Unternehmen bei der Eingabe der ersten Produktdaten und weist das Personal an, die Nutzung der Admin-Seite zu beherrschen."
+          "description": "Konfigurieren Sie den Server, installieren Sie Sicherheitszertifikate und setzen Sie das System offiziell in Betrieb. SoftBuild unterstützt Unternehmen bei der Eingabe der ersten Produktdaten und weist das Personal an, die Nutzung der Admin-Seite zu beherrschen."
         },
         {
           "number": "06",
@@ -4107,7 +4107,7 @@
       "items": [
         {
           "q": "Welche Kosten berechnet der Aufbau eines E-Commerce-Systems?",
-          "a": "Die Kosten hängen von der Komplexität von Funktionen wie Auktionen, Multi-Sellers, Anforderungen an die Lastinfrastruktur und der Anzahl der zu integrierenden Drittanbietersysteme ab. Winterfrost liefert nach einer gründlichen Übersicht über die tatsächlichen Bedürfnisse und den Umfang des Unternehmens ein detailliertes Angebot."
+          "a": "Die Kosten hängen von der Komplexität von Funktionen wie Auktionen, Multi-Sellers, Anforderungen an die Lastinfrastruktur und der Anzahl der zu integrierenden Drittanbietersysteme ab. SoftBuild liefert nach einer gründlichen Übersicht über die tatsächlichen Bedürfnisse und den Umfang des Unternehmens ein detailliertes Angebot."
         },
         {
           "q": "Ist das System in der Lage, sich mit bestehender Buchhaltungs- und Lagerverwaltungssoftware zu verbinden?",
@@ -4115,18 +4115,18 @@
         },
         {
           "q": "Wie stelle ich sicher, dass meine Website während eines Besucheranstiegs nicht abstürzt?",
-          "a": "Winterfrost verwendet eine moderne Systemarchitektur und eine Cloud-Computing-Infrastruktur, die automatisch skalieren kann. Wir optimieren den Quellcode und die Datenbankstruktur, sodass das System immer reibungslos läuft, selbst während der Spitzenaktionen mit Tausenden von Besuchern."
+          "a": "SoftBuild verwendet eine moderne Systemarchitektur und eine Cloud-Computing-Infrastruktur, die automatisch skalieren kann. Wir optimieren den Quellcode und die Datenbankstruktur, sodass das System immer reibungslos läuft, selbst während der Spitzenaktionen mit Tausenden von Besuchern."
         },
         {
           "q": "Hat das Unternehmen nach der Übergabe das volle Eigentum am Quellcode?",
-          "a": "Ja. Winterfrost übergab den gesamten Quellcode und die technische Dokumentation unmittelbar nach Abschluss des Projekts. Unternehmen haben das volle Eigentum am Produkt, ergreifen die Initiative zur Aufrüstung oder Änderung der Betriebseinheit ohne rechtliche oder technische Hürden."
+          "a": "Ja. SoftBuild übergab den gesamten Quellcode und die technische Dokumentation unmittelbar nach Abschluss des Projekts. Unternehmen haben das volle Eigentum am Produkt, ergreifen die Initiative zur Aufrüstung oder Änderung der Betriebseinheit ohne rechtliche oder technische Hürden."
         },
         {
           "q": "Wie werden Zahlungstransaktionen im System gesichert?",
           "a": "Wir wenden End-to-End-Datenverschlüsselungsstandards an und integrieren seriöse Zahlungsgateways, die internationale Sicherheitszertifikate bestanden haben. Das System ist mit mehreren Authentifizierungsebenen und regelmäßigen Sicherheitsüberprüfungen ausgestattet, um die finanziellen Informationen der Kunden absolut zu schützen."
         },
         {
-          "q": "Unterstützt die Plattform von Winterfrost SEO und Marketing gut?",
+          "q": "Unterstützt die Plattform von SoftBuild SEO und Marketing gut?",
           "a": "Ja. Der gesamte Quellcode ist gemäß den neuesten technischen Standards von Google optimiert, was schnelle Seitenladezeiten und suchmaschinenfreundliche Datenstrukturen gewährleistet. Das System verfügt außerdem über integrierte Tools zur Verfolgung des Nutzerverhaltens, um Marketingkampagnen effektiv zu bedienen."
         }
       ]
@@ -4137,7 +4137,7 @@
     "title": "Transport und Logistik",
     "hero": {
       "title": "Digitale Transformationslösungen für Transport und Logistik",
-      "description": "Winterfrost bietet tiefgehende Programmierungsdienste für Transportmanagementsysteme an, die sich auf die Automatisierung des Warenflusses und die genaue Kontrolle der Betriebskosten konzentrieren. Wir entwickeln Softwarearchitekturen, die Unternehmen dabei helfen, Daten aus mehreren operativen Quellen zu konsolidieren, um die Leistung der Lieferkette zu optimieren.",
+      "description": "SoftBuild bietet tiefgehende Programmierungsdienste für Transportmanagementsysteme an, die sich auf die Automatisierung des Warenflusses und die genaue Kontrolle der Betriebskosten konzentrieren. Wir entwickeln Softwarearchitekturen, die Unternehmen dabei helfen, Daten aus mehreren operativen Quellen zu konsolidieren, um die Leistung der Lieferkette zu optimieren.",
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Giai-phap-chuyen-doi-so-van-tai-va-logistics.jpg",
       "imageAlt": "Digitale Transformationslösungen für Transport und Logistik",
       "primaryLabel": "Direkt kontaktieren",
@@ -4147,7 +4147,7 @@
       "label": "Überblick",
       "title": "Logistik optimieren und Transportprozesse digitalisieren",
       "paragraphs": [
-        "Die größte Herausforderung für Transportunternehmen ist der Mangel an Transparenz bei den Routen und die Ressourcenverschwendung durch manuelle Koordination. Winterfrost löst dieses Problem durch die Einrichtung eines zentralen Verkehrsmanagementsystems, das Routenoptimierungsalgorithmen und Echtzeit-Reiseüberwachungsmechanismen integriert. Unsere Lösung gewährleistet die Datengleichmäßigkeit zwischen Lagerhäusern, Flotten und Disponenten, um die Leerlaufzeiten zu minimieren und die Fahrzeuglasten zu maximieren."
+        "Die größte Herausforderung für Transportunternehmen ist der Mangel an Transparenz bei den Routen und die Ressourcenverschwendung durch manuelle Koordination. SoftBuild löst dieses Problem durch die Einrichtung eines zentralen Verkehrsmanagementsystems, das Routenoptimierungsalgorithmen und Echtzeit-Reiseüberwachungsmechanismen integriert. Unsere Lösung gewährleistet die Datengleichmäßigkeit zwischen Lagerhäusern, Flotten und Disponenten, um die Leerlaufzeiten zu minimieren und die Fahrzeuglasten zu maximieren."
       ],
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Toi-uu-hoa-chuoi-cung-ung-va-so-hoa-quy-trinh-van-tai.jpg",
       "imageAlt": "Optimieren Sie die Lieferkette und digitalisieren Sie den Transportprozess"
@@ -4219,7 +4219,7 @@
     },
     "why": {
       "label": "Warum wählst du uns?",
-      "title": "Warum Unternehmen Winterfrost als Partner wählen sollten",
+      "title": "Warum Unternehmen SoftBuild als Partner wählen sollten",
       "items": [
         {
           "number": "1",
@@ -4256,14 +4256,14 @@
     "cta": {
       "label": "Jetzt kontaktieren!",
       "title": "Aufbau intelligenter Transport- und Logistikinfrastruktur",
-      "description": "Verbinde dich mit dem Ingenieurteam von Winterfrost, um ein zentrales Transportkoordinationssystem aufzubauen und die Lieferkette zu optimieren, um die operative Effizienz für Unternehmen zu steigern.",
+      "description": "Verbinde dich mit dem Ingenieurteam von SoftBuild, um ein zentrales Transportkoordinationssystem aufzubauen und die Lieferkette zu optimieren, um die operative Effizienz für Unternehmen zu steigern.",
       "buttonLabel": "Erhalten Sie eine Beratung zur Systemarchitektur",
       "image": "/images/people/cta/winterfrost/quan-ly-nam.png",
       "imageAlt": "Fachberater"
     },
     "cases": null,
     "services": {
-      "title": "Logistik-Kerndienstleistungen von Winterfrost",
+      "title": "Logistik-Kerndienstleistungen von SoftBuild",
       "intro": "Programmierungen konzentrieren sich darauf, jeden Kontaktpunkt in der Lieferkette zu digitalisieren.",
       "items": [
         {
@@ -4348,7 +4348,7 @@
       "items": [
         {
           "q": "Ist das System mit verschiedenen Arten von GPS-Navigationsgeräten kompatibel?",
-          "a": "Ja, Winterfrost entwickelt flexible Datenaufnahme-Gateways über API-Protokolle, um sich direkt mit den meisten auf dem Markt verfügbaren Reiseüberwachungshardware zu verbinden. Wir stellen sicher, dass Daten von Peripheriegeräten standardisiert und synchron zum zentralen System fließen."
+          "a": "Ja, SoftBuild entwickelt flexible Datenaufnahme-Gateways über API-Protokolle, um sich direkt mit den meisten auf dem Markt verfügbaren Reiseüberwachungshardware zu verbinden. Wir stellen sicher, dass Daten von Peripheriegeräten standardisiert und synchron zum zentralen System fließen."
         },
         {
           "q": "Wie stellt man sicher, dass Daten nicht verloren gehen, wenn das Fahrzeug in die Redundance-Zone fährt?",
@@ -4378,7 +4378,7 @@
     "title": "Medizinisch",
     "hero": {
       "title": "Entwicklung von medizinischer und Gesundheitssoftware",
-      "description": "Winterfrost ist ein Unternehmen, das sich auf die Entwicklung maßgeschneiderter medizinischer Anwendungen für Dienstleister, Kostenträger und digitale Gesundheitsteams in anspruchsvollen Märkten wie den USA, Europa, Kanada, Australien, Singapur und Japan spezialisiert hat.  Wir helfen Partnern, Bereitstellungsrisiken zu minimieren, Entwicklungskosten zu optimieren und die Einhaltung der strengsten Gesundheitssicherheitsstandards sicherzustellen.",
+      "description": "SoftBuild ist ein Unternehmen, das sich auf die Entwicklung maßgeschneiderter medizinischer Anwendungen für Dienstleister, Kostenträger und digitale Gesundheitsteams in anspruchsvollen Märkten wie den USA, Europa, Kanada, Australien, Singapur und Japan spezialisiert hat.  Wir helfen Partnern, Bereitstellungsrisiken zu minimieren, Entwicklungskosten zu optimieren und die Einhaltung der strengsten Gesundheitssicherheitsstandards sicherzustellen.",
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phat-trien-phan-mem-y-te-va-cham-soc-suc-khoe.jpg",
       "imageAlt": "Entwicklung von medizinischer und Gesundheitssoftware",
       "primaryLabel": "Direkt kontaktieren",
@@ -4389,7 +4389,7 @@
       "title": "Die allgemeine Lage des Gesundheitssektors",
       "paragraphs": [
         "Gesundheitseinrichtungen sehen sich oft exorbitanten Technologieentwicklungskosten und komplexen Implementierungsprozessen gegenüber, was leicht zu operativen Risiken führen kann. Verteiltes Patientendatenmanagement, fehlende Konnektivität und Hürden für internationale Sicherheitsstandards erschweren die Digitalisierung. Darüber hinaus ist die Anwendung von KI bei Diagnose und Behandlung weiterhin eine große Herausforderung für viele traditionelle medizinische Unternehmen.",
-        "Winterfrost stellt ein Team hochspezialisierter Softwareingenieure bereit, das sich auf die Integration von KI und maschinellem Lernen in medizinische Infrastruktur konzentriert. Unsere Lösungen helfen internationalen Partnern, intelligente Gesundheitssysteme zu entwickeln, von der Verwaltung medizinischer Akten bis hin zu tiefgehenden Datenanalysetools. Wir konzentrieren uns auf die Minimierung technischer Risiken und die Optimierung der Investitionskosten bei absoluter Einhaltung globaler Sicherheitsstandards für Gesundheitsdaten."
+        "SoftBuild stellt ein Team hochspezialisierter Softwareingenieure bereit, das sich auf die Integration von KI und maschinellem Lernen in medizinische Infrastruktur konzentriert. Unsere Lösungen helfen internationalen Partnern, intelligente Gesundheitssysteme zu entwickeln, von der Verwaltung medizinischer Akten bis hin zu tiefgehenden Datenanalysetools. Wir konzentrieren uns auf die Minimierung technischer Risiken und die Optimierung der Investitionskosten bei absoluter Einhaltung globaler Sicherheitsstandards für Gesundheitsdaten."
       ],
       "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Tinh-hinh-chung-ve-linh-vuc-y-te.jpg",
       "imageAlt": "Allgemeine Situation im Gesundheitssektor"
@@ -4461,12 +4461,12 @@
     },
     "why": {
       "label": "Warum wählst du uns?",
-      "title": "Warum sollte man sich für medizinische Softwareentwicklung bei Winterfrost entscheiden?",
+      "title": "Warum sollte man sich für medizinische Softwareentwicklung bei SoftBuild entscheiden?",
       "items": [
         {
           "number": "1",
           "title": "Experten für KI und maschinelles Lernen",
-          "description": "Das Ingenieurteam von Winterfrost verfügt über umfassende Fähigkeiten zur Integration künstlicher Intelligenz in moderne digitale Gesundheitslösungen."
+          "description": "Das Ingenieurteam von SoftBuild verfügt über umfassende Fähigkeiten zur Integration künstlicher Intelligenz in moderne digitale Gesundheitslösungen."
         },
         {
           "number": "2",
@@ -4486,19 +4486,19 @@
         {
           "number": "5",
           "title": "Minimieren Sie das Bereitstellungsrisiko",
-          "description": "Methodische technische Prozesse und praktische Erfahrung helfen Winterfrost, Probleme im Entwicklungsprozess vorherzusagen und schnell zu bewältigen."
+          "description": "Methodische technische Prozesse und praktische Erfahrung helfen SoftBuild, Probleme im Entwicklungsprozess vorherzusagen und schnell zu bewältigen."
         },
         {
           "number": "6",
           "title": "Übergabe des vollständigen Eigentums",
-          "description": "Winterfrost bietet ein vollständiges Spektrum an Quellcode und technischer Dokumentation, sodass Partner proaktiv das System bedienen und modernisieren können."
+          "description": "SoftBuild bietet ein vollständiges Spektrum an Quellcode und technischer Dokumentation, sodass Partner proaktiv das System bedienen und modernisieren können."
         }
       ]
     },
     "cta": {
       "label": "Jetzt kontaktieren!",
       "title": "Digitalisierung der medizinischen Infrastruktur und intelligentes Krankenhausmanagement",
-      "description": "Arbeiten Sie mit dem Ingenieurteam von Winterfrost zusammen, um ein zentrales Krankenhausmanagementsystem aufzubauen und den medizinischen Untersuchungs- und Behandlungsprozess zu automatisieren, um die betriebliche Effizienz für medizinische Einrichtungen zu verbessern.",
+      "description": "Arbeiten Sie mit dem Ingenieurteam von SoftBuild zusammen, um ein zentrales Krankenhausmanagementsystem aufzubauen und den medizinischen Untersuchungs- und Behandlungsprozess zu automatisieren, um die betriebliche Effizienz für medizinische Einrichtungen zu verbessern.",
       "buttonLabel": "Erhalten Sie eine Beratung zu digitalen Gesundheitslösungen",
       "image": "/images/people/cta/winterfrost/nhan-vien-cong-nghe-tre.png",
       "imageAlt": "Fachberater"
@@ -4507,15 +4507,15 @@
       "title": "Case Studies",
       "links": [
         {
-          "href": "https://winterfrost.tech/case-studies/website-edunora",
+          "href": "https://softbuildvn.vercel.app/case-studies/website-edunora",
           "text": "GESUNDHEIT\nWEBDESIGN\nWebsite Edunora\nProjekt ansehen"
         },
         {
-          "href": "https://winterfrost.tech/case-studies/aeromint-cleanroom",
+          "href": "https://softbuildvn.vercel.app/case-studies/aeromint-cleanroom",
           "text": "EINZELHANDEL\nGESUNDHEIT\nWEBDESIGN\nAeromint Reinraum\nProjekt ansehen"
         },
         {
-          "href": "https://winterfrost.tech/case-studies/website-dentavera",
+          "href": "https://softbuildvn.vercel.app/case-studies/website-dentavera",
           "text": "EINZELHANDEL\nGESUNDHEIT\nWEBDESIGN\nWebsite Dentavera\nProjekt ansehen"
         }
       ],
@@ -4580,7 +4580,7 @@
           "number": "01",
           "tag": "Umfrage",
           "title": "Verstehe deine Bedürfnisse",
-          "description": "Wir prüfen sorgfältig den Betrieb Ihres Krankenhauses oder Ihrer medizinischen Anwendung. Gleichzeitig definiert Winterfrost verpflichtende Sicherheitsstandards wie das US-HIPAA oder die europäische DSGVO, um sicherzustellen, dass das System von Anfang an legal und sicher ist."
+          "description": "Wir prüfen sorgfältig den Betrieb Ihres Krankenhauses oder Ihrer medizinischen Anwendung. Gleichzeitig definiert SoftBuild verpflichtende Sicherheitsstandards wie das US-HIPAA oder die europäische DSGVO, um sicherzustellen, dass das System von Anfang an legal und sicher ist."
         },
         {
           "number": "02",
@@ -4604,7 +4604,7 @@
           "number": "05",
           "tag": "Betrieb",
           "title": "Systeminstallation und Benutzerhandbuch",
-          "description": "Winterfrost unterstützt die Installation von Software auf Servern und mobilen Geräten. Wir schulen und unterrichten Ärzte und medizinisches Personal direkt, wie man Managementtools nutzt, damit jeder das neue System beherrscht."
+          "description": "SoftBuild unterstützt die Installation von Software auf Servern und mobilen Geräten. Wir schulen und unterrichten Ärzte und medizinisches Personal direkt, wie man Managementtools nutzt, damit jeder das neue System beherrscht."
         },
         {
           "number": "06",
@@ -4621,7 +4621,7 @@
       "intro": "Finden Sie Antworten auf häufige Fragen zu unseren branchenspezifischen Softwareentwicklungsdienstleistungen.",
       "items": [
         {
-          "q": "Entspricht die Software von Winterfrost internationalen medizinischen Sicherheitsstandards?",
+          "q": "Entspricht die Software von SoftBuild internationalen medizinischen Sicherheitsstandards?",
           "a": "Ja. Wir entwerfen Systeme, die strikt den Standards wie HIPAA (USA), DSGVO (Europa) und lokalen Gesundheitsdatenschutzvorschriften entsprechen. Alle Patientendaten sind mehrschichtig, verschlüsselt und streng kontrolliert, um absolute Privatsphäre zu gewährleisten."
         },
         {
@@ -4629,8 +4629,8 @@
           "a": "KI unterstützt die diagnostische Bildanalyse, die Prognose von Krankheitsrisiken anhand historischer Daten und die Automatisierung komplexer medizinischer Berichte. Dies hilft Ärzten, schnellere und genauere Entscheidungen zu treffen und reduziert die administrative Arbeitsbelastung für das medizinische Team."
         },
         {
-          "q": "Was sind die Vorteile einer Partnerschaft mit dem Ingenieurteam bei Winterfrost für internationale medizinische Projekte?",
-          "a": "Partner haben Zugang zu hochwertigen, tiefgehenden technischen Personalressourcen im Bereich KI/ML mit deutlich optimaleren Entwicklungskosten als auf dem US- oder europäischen Markt. Winterfrost verpflichtet sich, weltweit standardisierte Produktqualität und Arbeitsabläufe aufrechtzuerhalten."
+          "q": "Was sind die Vorteile einer Partnerschaft mit dem Ingenieurteam bei SoftBuild für internationale medizinische Projekte?",
+          "a": "Partner haben Zugang zu hochwertigen, tiefgehenden technischen Personalressourcen im Bereich KI/ML mit deutlich optimaleren Entwicklungskosten als auf dem US- oder europäischen Markt. SoftBuild verpflichtet sich, weltweit standardisierte Produktqualität und Arbeitsabläufe aufrechtzuerhalten."
         },
         {
           "q": "Kann das System mit bestehenden medizinischen Messgeräten verbunden werden?",
@@ -4638,11 +4638,11 @@
         },
         {
           "q": "Hat das Unternehmen das Recht, den gesamten Quellcode nach der Übergabe zu besitzen?",
-          "a": "Ja. Winterfrost verpflichtet sich, nach Abschluss des Projekts 100 % des Quellcodes und der technischen Dokumentation zu übergeben. Unternehmen haben volle Eigentümerschaft, können das System proaktiv aufrüsten und erweitern, ohne an einen Technologieanbieter gebunden zu sein."
+          "a": "Ja. SoftBuild verpflichtet sich, nach Abschluss des Projekts 100 % des Quellcodes und der technischen Dokumentation zu übergeben. Unternehmen haben volle Eigentümerschaft, können das System proaktiv aufrüsten und erweitern, ohne an einen Technologieanbieter gebunden zu sein."
         },
         {
-          "q": "Wie unterstützt Winterfrost bei der Systemwartung und Aktualisierung?",
-          "a": "Wir bieten routinemäßige Wartung, 24/7-Überwachung der Systemleistung und schnelle technische Bearbeitungsunterstützung an. Darüber hinaus wird Winterfrost kontinuierlich Sicherheitspatches aktualisieren und KI-Algorithmen verfeinern, sodass die Software stets korrekt und sicher funktioniert."
+          "q": "Wie unterstützt SoftBuild bei der Systemwartung und Aktualisierung?",
+          "a": "Wir bieten routinemäßige Wartung, 24/7-Überwachung der Systemleistung und schnelle technische Bearbeitungsunterstützung an. Darüber hinaus wird SoftBuild kontinuierlich Sicherheitspatches aktualisieren und KI-Algorithmen verfeinern, sodass die Software stets korrekt und sicher funktioniert."
         }
       ]
     }

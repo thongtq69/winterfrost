@@ -158,8 +158,8 @@ export function Hero() {
                   <div className={s.platformShadow} />
                   <Image
                     src={PLATFORM_IMG}
-                    alt={`${p.title} — Winterfrost`}
-                    title={`${p.title} — Winterfrost`}
+                    alt={`${p.title} — SoftBuild`}
+                    title={`${p.title} — SoftBuild`}
                     width={1024}
                     height={1024}
                     className={s.platformImage}
@@ -172,8 +172,8 @@ export function Hero() {
                 <div className={s.pillarWrapper}>
                   <Image
                     src={PILLAR_IMG}
-                    alt={`${p.title} — Winterfrost`}
-                    title={`${p.title} — Winterfrost`}
+                    alt={`${p.title} — SoftBuild`}
+                    title={`${p.title} — SoftBuild`}
                     width={115}
                     height={330}
                     className={s.pillarImage}

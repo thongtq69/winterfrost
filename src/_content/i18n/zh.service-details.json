@@ -1,18 +1,18 @@
 {
   "thiet-ke-website": {
     "slug": "thiet-ke-website",
-    "metaTitle": "网站设计服务-Winterfrost",
+    "metaTitle": "网站设计服务-SoftBuild",
     "hero": {
       "titleDark": "网站设计服务",
       "titleLight": "专业的",
-      "description": "Winterfrost为企业提供高速且绝对安全的专业网站设计服务。此外，还通过我们的专业网站帮助企业优化运营并在市场上肯定其品牌。",
+      "description": "SoftBuild为企业提供高速且绝对安全的专业网站设计服务。此外，还通过我们的专业网站帮助企业优化运营并在市场上肯定其品牌。",
       "bgImage": "/images/migrated/homenest-software/wp-content/uploads/2026/03/Web-app-development.jpg",
       "dashboardImage": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Web-Application-Development-banner.jpg"
     },
     "solution": {
       "headlineLight": "网站设计",
       "headlineDark": "凭借卓越的技术",
-      "description": "我们设计高转化效率的网站来解决复杂的业务问题。同时，Winterfrost还注重网站结构和流畅的用户体验，帮助留住客户，从而帮助企业在数字市场中发展。",
+      "description": "我们设计高转化效率的网站来解决复杂的业务问题。同时，SoftBuild还注重网站结构和流畅的用户体验，帮助留住客户，从而帮助企业在数字市场中发展。",
       "ctaLabel": "现在讨论该项目！",
       "ctaHref": "tel:+84971450454",
       "items": [
@@ -45,7 +45,7 @@
     "features": {
       "headlineLight": "网站设计解决方案",
       "headlineDark": "对于企业",
-      "description": "Winterfrost构建高性能网站系统，解决所有运营问题。我们建立全面的生态系统，帮助促进企业可持续增长。",
+      "description": "SoftBuild构建高性能网站系统，解决所有运营问题。我们建立全面的生态系统，帮助促进企业可持续增长。",
       "ctaLabel": "网站项目咨询",
       "ctaHref": "tel:+84971450454",
       "items": [
@@ -85,7 +85,7 @@
           "num": "01",
           "badge": "初始化",
           "title": "了解需求并规划项目",
-          "desc": "Winterfrost 深入讨论以了解企业的业务目标。我们确定项目范围和评估，以建立最坚实的实施基础。"
+          "desc": "SoftBuild 深入讨论以了解企业的业务目标。我们确定项目范围和评估，以建立最坚实的实施基础。"
         },
         {
           "num": "02",
@@ -114,7 +114,7 @@
       ]
     },
     "benefits": {
-      "label": "为什么您应该选择 Winterfrost？",
+      "label": "为什么您应该选择 SoftBuild？",
       "headlineLight": "成本透明",
       "headlineDark": "提供可靠的网站设计解决方案",
       "items": [
@@ -131,7 +131,7 @@
         {
           "num": "3",
           "title": "对不同领域的理解",
-          "desc": "Winterfrost深入了解健康、供应链或房地产等多个不同领域的运营流程，以确保网站满足实际需求。"
+          "desc": "SoftBuild深入了解健康、供应链或房地产等多个不同领域的运营流程，以确保网站满足实际需求。"
         },
         {
           "num": "4",
@@ -168,7 +168,7 @@
     "ctaBanner": {
       "badge": "立即联系！",
       "headline": "拥有一个专业的网站来推广您的业务",
-      "description": "让 Winterfrost 帮助您构建快速、高度安全的网站并优化用户体验，以吸引当今的潜在客户。",
+      "description": "让 SoftBuild 帮助您构建快速、高度安全的网站并优化用户体验，以吸引当今的潜在客户。",
       "ctaLabel": "立即获取设计咨询",
       "ctaHref": "/lien-he",
       "image": "/images/people/cta/winterfrost/quan-ly-nam.png"
@@ -200,7 +200,7 @@
     },
     "industries": {
       "label": "特色领域",
-      "headlineLight": "Winterfrost提供服务",
+      "headlineLight": "SoftBuild提供服务",
       "headlineDark": "根据每个具体领域",
       "items": [
         {
@@ -465,10 +465,10 @@
         "每个",
         "奇迹"
       ],
-      "description": "回答您有关 Winterfrost 网站设计服务流程和承诺的所有问题。",
+      "description": "回答您有关 SoftBuild 网站设计服务流程和承诺的所有问题。",
       "items": [
         {
-          "q": "在 Winterfrost 设计一个网站需要多少钱？",
+          "q": "在 SoftBuild 设计一个网站需要多少钱？",
           "a": "成本取决于项目的规模、功能和技术复杂性。我们提供灵活的服务包，从小型企业的基本解决方案到大型企业的专业系统。所有报价均确保成本透明，无隐藏成本。"
         },
         {
@@ -477,30 +477,30 @@
         },
         {
           "q": "我拥有整个网站源代码吗？",
-          "a": "是的。在Winterfrost，我们承诺在项目完成后将100%的知识产权和源代码移交给客户。您拥有完全的权利根据自己的需要管理、操作和升级系统，而不需要依赖我们。"
+          "a": "是的。在SoftBuild，我们承诺在项目完成后将100%的知识产权和源代码移交给客户。您拥有完全的权利根据自己的需要管理、操作和升级系统，而不需要依赖我们。"
         },
         {
           "q": "网站在手机上运行良好并符合 SEO 标准吗？",
-          "a": "当然。 Winterfrost 设计的每个网站都符合最现代的技术标准： • 响应式界面：在从计算机到手机的所有设备上完美显示。 • SEO 优化：友好的网络结构有助于增加潜在客户的可访问性。"
+          "a": "当然。 SoftBuild 设计的每个网站都符合最现代的技术标准： • 响应式界面：在从计算机到手机的所有设备上完美显示。 • SEO 优化：友好的网络结构有助于增加潜在客户的可访问性。"
         },
         {
           "q": "我的网站数据安全有保障吗？",
-          "a": "安全是我们的首要任务。 Winterfrost 采用企业级安全标准，包括高级数据加密和反入侵协议来保护您的业务信息。"
+          "a": "安全是我们的首要任务。 SoftBuild 采用企业级安全标准，包括高级数据加密和反入侵协议来保护您的业务信息。"
         },
         {
-          "q": "网站上线后Winterfrost是否提供支持？",
+          "q": "网站上线后SoftBuild是否提供支持？",
           "a": "我们提供日常维护和长期技术支持。我们的专家团队随时准备处理出现的问题，并就功能升级提供建议，以确保网站始终稳定有效地运行。"
         },
         {
           "q": "移交后我会收到有关如何管理网站的说明吗？",
-          "a": "当然。完成后，Winterfrost 将组织现场培训课程或发送详细的说明文档，以便您的团队能够掌握系统，从更新内容、管理订单到检查网站上的基本指标。"
+          "a": "当然。完成后，SoftBuild 将组织现场培训课程或发送详细的说明文档，以便您的团队能够掌握系统，从更新内容、管理订单到检查网站上的基本指标。"
         },
         {
           "q": "谁将为网站准备内容和图像？",
-          "a": "通常，企业会提供核心内容和品牌形象。不过，Winterfrost可以支持SEO标准的内容结构和图像优化咨询，使网站在美观和页面加载速度上都达到最佳表现。"
+          "a": "通常，企业会提供核心内容和品牌形象。不过，SoftBuild可以支持SEO标准的内容结构和图像优化咨询，使网站在美观和页面加载速度上都达到最佳表现。"
         },
         {
-          "q": "Winterfrost 是否支持域和服务器注册（托管）？",
+          "q": "SoftBuild 是否支持域和服务器注册（托管）？",
           "a": "我们随时协助您选择和注册适合您网站规模的域名和服务器。我们将为企业提供高稳定性和最佳安全性的云基础设施解决方案建议。"
         }
       ]
@@ -508,11 +508,11 @@
   },
   "phat-trien-devops": {
     "slug": "phat-trien-devops",
-    "metaTitle": "DevOps 开发服务 - Winterfrost",
+    "metaTitle": "DevOps 开发服务 - SoftBuild",
     "hero": {
       "titleDark": "开发服务",
       "titleLight": "开发运营",
-      "description": "Winterfrost 设计灵活的云基础设施、标准化 CI/CD 并部署 DevSecOps 解决方案，帮助企业缩短产品发布时间并确保各种规模的系统平稳运行。",
+      "description": "SoftBuild 设计灵活的云基础设施、标准化 CI/CD 并部署 DevSecOps 解决方案，帮助企业缩短产品发布时间并确保各种规模的系统平稳运行。",
       "bgImage": "/images/migrated/homenest-software/wp-content/uploads/2026/03/Web-app-development.jpg",
       "dashboardImage": "/images/services/winterfrost/web-application-development.webp"
     },
@@ -621,7 +621,7 @@
       ]
     },
     "benefits": {
-      "label": "在 Winterfrost 使用 DevOps 服务有哪些好处？",
+      "label": "在 SoftBuild 使用 DevOps 服务有哪些好处？",
       "headlineLight": "突出优势",
       "headlineDark": "基础设施管理和自动化",
       "items": [
@@ -668,14 +668,14 @@
         {
           "num": "9",
           "title": "SRE工程师值班",
-          "desc": "直接与 Winterfrost 的高素质系统操作员技术团队合作，致力于立即处理技术要求。"
+          "desc": "直接与 SoftBuild 的高素质系统操作员技术团队合作，致力于立即处理技术要求。"
         }
       ]
     },
     "ctaBanner": {
       "badge": "立即联系！",
       "headline": "优化软件开发和运营流程",
-      "description": "如果企业需要一个持续安全运行的系统，Winterfrost 将设计深入的基础设施安全和监控流程。该解决方案有助于及早发现错误并防止服务中断的风险。",
+      "description": "如果企业需要一个持续安全运行的系统，SoftBuild 将设计深入的基础设施安全和监控流程。该解决方案有助于及早发现错误并防止服务中断的风险。",
       "ctaLabel": "获取 DevOps 咨询",
       "ctaHref": "/lien-he",
       "image": "/images/people/cta/winterfrost/nhan-vien-cong-nghe-tre.png"
@@ -821,7 +821,7 @@
     },
     "techStack": {
       "headlineLight": "DevOps开发技术",
-      "headlineDark": "在 Winterfrost",
+      "headlineDark": "在 SoftBuild",
       "filters": [
         "全部",
         "接口",
@@ -939,7 +939,7 @@
         {
           "slug": "phat-trien-phan-mem-doanh-nghiep",
           "title": "企业软件开发",
-          "desc": "大规模软件需要高标准的 DevOps 基础设施。 Winterfrost 为复杂的多服务架构构建 CI/CD 管道，确保工作流程符合严格的标准，并且基础设施能够持续处理大流量。",
+          "desc": "大规模软件需要高标准的 DevOps 基础设施。 SoftBuild 为复杂的多服务架构构建 CI/CD 管道，确保工作流程符合严格的标准，并且基础设施能够持续处理大流量。",
           "image": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Dich-vu-phat-trien-phan-mem-doanh-nghiep-HomeNest-Viet-Nam.jpg",
           "href": "/dich-vu/phat-trien-phan-mem-doanh-nghiep"
         },
@@ -970,12 +970,12 @@
           "a": "是的。我们集成了 DevSecOps 模型，将自动恶意软件扫描和漏洞测试工具嵌入到部署管道中。所有源代码变更都必须通过安全测试才能发布到实际运行环境。"
         },
         {
-          "q": "我当前的系统不使用云，Winterfrost 支持吗？",
-          "a": "是的。我们支持物理服务器基础设施和混合云模型上的 DevOps 实施。 Winterfrost将使用Docker实现应用程序容器化，以确保无论底层基础设施环境如何，软件都稳定运行且易于管理。"
+          "q": "我当前的系统不使用云，SoftBuild 支持吗？",
+          "a": "是的。我们支持物理服务器基础设施和混合云模型上的 DevOps 实施。 SoftBuild将使用Docker实现应用程序容器化，以确保无论底层基础设施环境如何，软件都稳定运行且易于管理。"
         },
         {
           "q": "如何保证更新时系统不中断？",
-          "a": "Winterfrost 应用现代部署策略，例如蓝绿部署或金丝雀发布。此过程允许使用新版本创建并行环境，检查稳定性，然后重定向用户流量，确保系统始终可用 24/7。"
+          "a": "SoftBuild 应用现代部署策略，例如蓝绿部署或金丝雀发布。此过程允许使用新版本创建并行环境，检查稳定性，然后重定向用户流量，确保系统始终可用 24/7。"
         },
         {
           "q": "代码基础设施管理给企业带来什么好处？",
@@ -983,10 +983,10 @@
         },
         {
           "q": "移交后，我的团队可以自己操作系统吗？",
-          "a": "是的。 Winterfrost 移交所有基础设施配置源代码、操作说明和系统架构图。我们还提供技术培训课程，帮助内部团队掌握治理流程并使用有效的监控工具。"
+          "a": "是的。 SoftBuild 移交所有基础设施配置源代码、操作说明和系统架构图。我们还提供技术培训课程，帮助内部团队掌握治理流程并使用有效的监控工具。"
         },
         {
-          "q": "Winterfrost 如何监控系统运行状况？",
+          "q": "SoftBuild 如何监控系统运行状况？",
           "a": "我们建立了集中监控和警报系统。所有服务器性能指标和应用程序错误日志都受到实时监控。一旦检测到过载或服务错误的迹象，系统将自动通过 Telegram/Slack/Email 向技术团队发送警告。"
         }
       ]
@@ -994,18 +994,18 @@
   },
   "phat-trien-iot": {
     "slug": "phat-trien-iot",
-    "metaTitle": "物联网开发服务 - Winterfrost",
+    "metaTitle": "物联网开发服务 - SoftBuild",
     "hero": {
       "titleDark": "服务",
       "titleLight": "物联网发展",
-      "description": "Winterfrost 提供全面的物联网解决方案，包括嵌入式固件编程、设置端点设备、创建云仪表板以及智能数据分析系统。",
+      "description": "SoftBuild 提供全面的物联网解决方案，包括嵌入式固件编程、设置端点设备、创建云仪表板以及智能数据分析系统。",
       "bgImage": "/images/migrated/homenest-software/wp-content/uploads/2026/03/Web-app-development.jpg",
       "dashboardImage": "/images/services/winterfrost/web-application-development.webp"
     },
     "solution": {
       "headlineLight": "执行值自",
       "headlineDark": "物联网生态系统",
-      "description": "Winterfrost 的物联网解决方案增强了设备之间的连接性，确保即时数据处理并通过多层安全保护系统，从而提高企业的自动化性能。",
+      "description": "SoftBuild 的物联网解决方案增强了设备之间的连接性，确保即时数据处理并通过多层安全保护系统，从而提高企业的自动化性能。",
       "ctaLabel": "开始你的项目",
       "ctaHref": "/lien-he",
       "items": [
@@ -1113,7 +1113,7 @@
       ]
     },
     "benefits": {
-      "label": "为什么应该选择 Winterfrost 的物联网服务？",
+      "label": "为什么应该选择 SoftBuild 的物联网服务？",
       "headlineLight": "打造专业化的物联网生态系统",
       "headlineDark": "商业自动化",
       "items": [
@@ -1167,7 +1167,7 @@
     "ctaBanner": {
       "badge": "立即联系！",
       "headline": "通过互联网连接和控制智能设备",
-      "description": "如果您的企业需要监控资产或自动化生产线，Winterfrost 的解决方案将帮助您实现这一目标。该系统确保数据持续、安全地传输并轻松分析以做出业务决策。",
+      "description": "如果您的企业需要监控资产或自动化生产线，SoftBuild 的解决方案将帮助您实现这一目标。该系统确保数据持续、安全地传输并轻松分析以做出业务决策。",
       "ctaLabel": "立即开始您的物联网项目",
       "ctaHref": "/lien-he",
       "image": "/images/people/cta/winterfrost/chuyen-vien-nu.png"
@@ -1313,7 +1313,7 @@
     },
     "techStack": {
       "headlineLight": "物联网开发技术",
-      "headlineDark": "在 Winterfrost",
+      "headlineDark": "在 SoftBuild",
       "filters": [
         "全部",
         "接口",
@@ -1454,7 +1454,7 @@
       "description": "有关硬件解决方案、连接协议、数据安全和系统集成能力的信息汇总。",
       "items": [
         {
-          "q": "Winterfrost 是否支持硬件设备选择？",
+          "q": "SoftBuild 是否支持硬件设备选择？",
           "a": "是的。根据实际需求和部署环境，我们将建议并选择在容量、耐用性和成本方面最优化的微控制器、传感器和通信模块系列。我们优先考虑具有高市场可用性的组件，以确保长期的可维护性。"
         },
         {
@@ -1467,7 +1467,7 @@
         },
         {
           "q": "该系统可以与企业现有的软件集成吗？",
-          "a": "是的。 Winterfrost 物联网平台的所有数据均可通过 API 门户获取。这使得企业能够轻松连接并将数据直接推送到现有管理系统，例如 SAP、Salesforce 或其他内部应用程序。"
+          "a": "是的。 SoftBuild 物联网平台的所有数据均可通过 API 门户获取。这使得企业能够轻松连接并将数据直接推送到现有管理系统，例如 SAP、Salesforce 或其他内部应用程序。"
         },
         {
           "q": "首选哪种连接协议？",
@@ -1475,7 +1475,7 @@
         },
         {
           "q": "企业可以拥有固件和软件源代码吗？",
-          "a": "是的。 Winterfrost承诺交出100%的源代码和相关技术文档。企业完全拥有技术，并有权在未来自行升级或扩展系统。"
+          "a": "是的。 SoftBuild承诺交出100%的源代码和相关技术文档。企业完全拥有技术，并有权在未来自行升级或扩展系统。"
         },
         {
           "q": "每月物联网基础设施运营成本如何计算？",
@@ -1486,18 +1486,18 @@
   },
   "phat-trien-blockchain": {
     "slug": "phat-trien-blockchain",
-    "metaTitle": "区块链开发服务-Winterfrost",
+    "metaTitle": "区块链开发服务-SoftBuild",
     "hero": {
       "titleDark": "开发服务",
       "titleLight": "区块链",
-      "description": "Winterfrost提供全面的区块链开发服务，包括网络架构设计、智能合约编程、Web3新一代互联网开发以及DApp去中心化应用在多个不同平台上的实现。",
+      "description": "SoftBuild提供全面的区块链开发服务，包括网络架构设计、智能合约编程、Web3新一代互联网开发以及DApp去中心化应用在多个不同平台上的实现。",
       "bgImage": "/images/migrated/homenest-software/wp-content/uploads/2026/03/Web-app-development.jpg",
       "dashboardImage": "/images/services/winterfrost/web-application-development.webp"
     },
     "solution": {
       "headlineLight": "突出优点",
       "headlineDark": "区块链技术",
-      "description": "Winterfrost 使用分布式账本和智能合约，创建透明且安全的操作系统，帮助您的公司消除中间商并完全控制资产。",
+      "description": "SoftBuild 使用分布式账本和智能合约，创建透明且安全的操作系统，帮助您的公司消除中间商并完全控制资产。",
       "ctaLabel": "分享您的需求",
       "ctaHref": "/lien-he",
       "items": [
@@ -1530,7 +1530,7 @@
     "features": {
       "headlineLight": "区块链和解决方案生态系统",
       "headlineDark": "去中心化的基础设施",
-      "description": "Winterfrost 提供全面的 Web3 解决方案生态系统，从编程安全智能合约到构建去中心化应用程序和专门的区块链系统，适合各种规模的公司运营。",
+      "description": "SoftBuild 提供全面的 Web3 解决方案生态系统，从编程安全智能合约到构建去中心化应用程序和专门的区块链系统，适合各种规模的公司运营。",
       "ctaLabel": "讨论您的项目",
       "ctaHref": "/lien-he",
       "items": [
@@ -1562,7 +1562,7 @@
       ]
     },
     "howWeWork": {
-      "label": "Winterfrost的区块链实施流程",
+      "label": "SoftBuild的区块链实施流程",
       "ctaLabel": "开始构建您的产品！",
       "ctaHref": "/lien-he",
       "steps": [
@@ -1599,7 +1599,7 @@
       ]
     },
     "benefits": {
-      "label": "为什么要选择Winterfrost的区块链服务？",
+      "label": "为什么要选择SoftBuild的区块链服务？",
       "headlineLight": "确认领先地位",
       "headlineDark": "与现实世界的区块链解决方案",
       "items": [
@@ -1636,7 +1636,7 @@
         {
           "num": "7",
           "title": "交出100%源代码和所有权",
-          "desc": "Winterfrost 承诺归还智能合约和应用程序的所有源代码。企业完全拥有知识产权，掌控整个系统，不依赖合作伙伴。"
+          "desc": "SoftBuild 承诺归还智能合约和应用程序的所有源代码。企业完全拥有知识产权，掌控整个系统，不依赖合作伙伴。"
         },
         {
           "num": "8",
@@ -1653,7 +1653,7 @@
     "ctaBanner": {
       "badge": "立即联系！",
       "headline": "构建透明、安全的区块链技术体系",
-      "description": "如果您需要一个绝对安全且无需中介的交易管理平台，请让 Winterfrost 为您提供帮助。我们提供深度编程服务，完全符合现代技术标准，并具有根据项目规模灵活扩展的能力。",
+      "description": "如果您需要一个绝对安全且无需中介的交易管理平台，请让 SoftBuild 为您提供帮助。我们提供深度编程服务，完全符合现代技术标准，并具有根据项目规模灵活扩展的能力。",
       "ctaLabel": "获取区块链咨询",
       "ctaHref": "/lien-he",
       "image": "/images/people/cta/winterfrost/quan-ly-nam.png"
@@ -1798,7 +1798,7 @@
     },
     "techStack": {
       "headlineLight": "该技术是",
-      "headlineDark": "使用 Winterfrost",
+      "headlineDark": "使用 SoftBuild",
       "filters": [
         "全部",
         "接口",
@@ -1939,7 +1939,7 @@
       "description": "有关分布式账本技术、安全审计流程和企业 Web3 部署路线图的信息摘要。",
       "items": [
         {
-          "q": "Winterfrost 是否有助于选择正确的区块链网络？",
+          "q": "SoftBuild 是否有助于选择正确的区块链网络？",
           "a": "是的。根据项目目标，我们将就最佳网络提供建议：以太坊/Polygon（优先考虑安全性和大型生态系统）、Solana/BNB Chain（优先考虑快速交易速度和低成本）或针对需要高度去中心化内部网络的企业的 Hyperledger Fabric。"
         },
         {
@@ -1960,7 +1960,7 @@
         },
         {
           "q": "企业是否完全拥有源代码？",
-          "a": "是的。 Winterfrost承诺100%交出智能合约源代码、DApp应用及相关技术文档。企业完全拥有知识产权，对系统拥有完全控制权。"
+          "a": "是的。 SoftBuild承诺100%交出智能合约源代码、DApp应用及相关技术文档。企业完全拥有知识产权，对系统拥有完全控制权。"
         },
         {
           "q": "区块链部署是否违反越南法律规定？",
@@ -1971,12 +1971,12 @@
   },
   "phat-trien-ai": {
     "slug": "phat-trien-ai",
-    "metaTitle": "人工智能开发服务-Winterfrost",
+    "metaTitle": "人工智能开发服务-SoftBuild",
     "ctaBannerAfterIndustries": true,
     "hero": {
       "titleLight": "人工智能开发服务",
       "titleDark": "专业的",
-      "description": "Winterfrost 提供人工智能开发服务，从构建机器学习到实施大型语言系统法学硕士。此外，我们还帮助企业自动化复杂的流程并利用智能数据来交付真正的业务成果。",
+      "description": "SoftBuild 提供人工智能开发服务，从构建机器学习到实施大型语言系统法学硕士。此外，我们还帮助企业自动化复杂的流程并利用智能数据来交付真正的业务成果。",
       "bgImage": "/images/migrated/homenest-software/wp-content/uploads/2026/03/services-app-bg.jpg",
       "dashboardImage": "",
       "phones": {
@@ -2112,7 +2112,7 @@
         {
           "num": "8",
           "title": "绝对安全",
-          "desc": "您的数据是完全安全的。 Winterfrost 承诺在完成后移交所有源代码和人工智能模型的所有权。"
+          "desc": "您的数据是完全安全的。 SoftBuild 承诺在完成后移交所有源代码和人工智能模型的所有权。"
         },
         {
           "num": "9",
@@ -2124,7 +2124,7 @@
     "ctaBanner": {
       "badge": "立即联系！",
       "headline": "利用AI人工智能优化运营绩效",
-      "description": "节省数据处理时间和自动化重复流程是 Winterfrost 的 AI 解决方案带来的真正价值。我们通过准确的分析和预测系统帮助您的企业更智能地运营。",
+      "description": "节省数据处理时间和自动化重复流程是 SoftBuild 的 AI 解决方案带来的真正价值。我们通过准确的分析和预测系统帮助您的企业更智能地运营。",
       "ctaLabel": "获取有关人工智能解决方案的建议",
       "ctaHref": "/lien-he",
       "image": "/images/people/cta/winterfrost/chuyen-vien-nam-tre.png"
@@ -2210,7 +2210,7 @@
       "label": "",
       "headlineLight": "服务价格表",
       "headlineDark": "人工智能开发",
-      "description": "使用 Winterfrost 构建和扩展 AI 解决方案的成本透明。",
+      "description": "使用 SoftBuild 构建和扩展 AI 解决方案的成本透明。",
       "packages": [
         {
           "name": "Gói Cơ Bản",
@@ -2254,7 +2254,7 @@
     },
     "techStack": {
       "headlineLight": "人工智能操作技术",
-      "headlineDark": "在 Winterfrost",
+      "headlineDark": "在 SoftBuild",
       "filters": [
         "全部",
         "接口",
@@ -2392,15 +2392,15 @@
         "每个",
         "奇迹"
       ],
-      "description": "在 Winterfrost 回答您有关技术、安全性和实施深度人工智能路线图的所有问题。",
+      "description": "在 SoftBuild 回答您有关技术、安全性和实施深度人工智能路线图的所有问题。",
       "items": [
         {
           "q": "与人工智能合作时业务数据安全吗？",
-          "a": "数据安全是重中之重。 Winterfrost承诺所有业务数据都在独立的环境中处理，确保绝对不会有信息泄露给外界。我们采用多层安全措施来保护您的数字资产。"
+          "a": "数据安全是重中之重。 SoftBuild承诺所有业务数据都在独立的环境中处理，确保绝对不会有信息泄露给外界。我们采用多层安全措施来保护您的数字资产。"
         },
         {
-          "q": "Winterfrost 使用第三方 AI 还是开发自己的模型？",
-          "a": "我们根据您的需求灵活安排。 Winterfrost 可以集成世界领先的 API 来优化时间，或根据特定于业务的数据开发和微调定制的大型语言模型 (LLM)，以确保准确性和排他性。"
+          "q": "SoftBuild 使用第三方 AI 还是开发自己的模型？",
+          "a": "我们根据您的需求灵活安排。 SoftBuild 可以集成世界领先的 API 来优化时间，或根据特定于业务的数据开发和微调定制的大型语言模型 (LLM)，以确保准确性和排他性。"
         },
         {
           "q": "人工智能解决方案可以集成到现有软件中吗？",
@@ -2412,7 +2412,7 @@
         },
         {
           "q": "企业是否需要一支高技术团队来运营人工智能？",
-          "a": "不一定。 Winterfrost 为最终用户设计了极其简单的管理和交互界面。我们提供完整的文档和定期的技术支持，以便您的团队可以轻松操作系统。"
+          "a": "不一定。 SoftBuild 为最终用户设计了极其简单的管理和交互界面。我们提供完整的文档和定期的技术支持，以便您的团队可以轻松操作系统。"
         },
         {
           "q": "交接后企业能否拥有AI模型？",
@@ -2420,7 +2420,7 @@
         },
         {
           "q": "如何衡量AI项目的有效性（ROI）？",
-          "a": "在开始之前，Winterfrost 将与您一起确定明确的绩效指标，例如：人员成本节省率、流程处理时间或客户转化率增长。我们专注于用实数创造可衡量的结果。"
+          "a": "在开始之前，SoftBuild 将与您一起确定明确的绩效指标，例如：人员成本节省率、流程处理时间或客户转化率增长。我们专注于用实数创造可衡量的结果。"
         },
         {
           "q": "AI经常给出虚假信息吗？",
@@ -2431,11 +2431,11 @@
   },
   "phat-trien-ung-dung-saas": {
     "slug": "phat-trien-ung-dung-saas",
-    "metaTitle": "SaaS应用开发服务-Winterfrost",
+    "metaTitle": "SaaS应用开发服务-SoftBuild",
     "hero": {
       "titleLight": "发展",
       "titleDark": "SaaS 应用程序",
-      "description": "从设计到实际运营，我们构建具有灵活扩展性的SaaS平台。 Winterfrost 将帮助您创建现代软件产品，能够随着用户数量的增长而快速增长，并为企业带来可持续的收入来源。",
+      "description": "从设计到实际运营，我们构建具有灵活扩展性的SaaS平台。 SoftBuild 将帮助您创建现代软件产品，能够随着用户数量的增长而快速增长，并为企业带来可持续的收入来源。",
       "bgImage": "/images/migrated/homenest-software/wp-content/uploads/2026/03/services-app-bg.jpg",
       "dashboardImage": "",
       "phones": {
@@ -2515,7 +2515,7 @@
       ]
     },
     "benefits": {
-      "label": "与 Winterfrost 的竞争优势",
+      "label": "与 SoftBuild 的竞争优势",
       "headlineLight": "可持续解决方案",
       "headlineDark": "长期业务路线图",
       "items": [
@@ -2569,7 +2569,7 @@
     "ctaBanner": {
       "badge": "立即联系！",
       "headline": "构建无限扩展的SaaS平台",
-      "description": "Winterfrost帮助企业实现云平台上稳定且易于管理的服务软件的理念。我们专注于构建强大的技术基础设施，让企业能够同时服务大量客户，同时确保快速的访问速度和最佳的性能。",
+      "description": "SoftBuild帮助企业实现云平台上稳定且易于管理的服务软件的理念。我们专注于构建强大的技术基础设施，让企业能够同时服务大量客户，同时确保快速的访问速度和最佳的性能。",
       "ctaLabel": "立即启动您的 SaaS 项目",
       "ctaHref": "/lien-he",
       "image": "/images/people/cta/winterfrost/chuyen-vien-nu.png"
@@ -2600,7 +2600,7 @@
       ]
     },
     "industries": {
-      "label": "Winterfrost 服务的区域",
+      "label": "SoftBuild 服务的区域",
       "headlineLight": "打造专业SaaS平台",
       "headlineDark": "适合所有职业",
       "items": [
@@ -2655,7 +2655,7 @@
       "label": "",
       "headlineLight": "SaaS开发服务包",
       "headlineDark": "",
-      "description": "使用 Winterfrost 选择正确的路径来启动和扩展您的 SaaS 平台。",
+      "description": "使用 SoftBuild 选择正确的路径来启动和扩展您的 SaaS 平台。",
       "packages": [
         {
           "name": "Cơ bản",
@@ -2697,7 +2697,7 @@
     },
     "techStack": {
       "headlineLight": "SaaS运营技术",
-      "headlineDark": "在 Winterfrost",
+      "headlineDark": "在 SoftBuild",
       "filters": [
         "全部",
         "接口",
@@ -2839,18 +2839,18 @@
       "items": [
         {
           "q": "多用户架构能否保证数据安全？",
-          "a": "完全安全。 Winterfrost 在数据库级别设计了严格的数据隔离层。尽管许多客户使用相同的基础设施来优化成本，但每个租户的数据始终加密且完全分离，确保不会重叠或信息泄漏。"
+          "a": "完全安全。 SoftBuild 在数据库级别设计了严格的数据隔离层。尽管许多客户使用相同的基础设施来优化成本，但每个租户的数据始终加密且完全分离，确保不会重叠或信息泄漏。"
         },
         {
           "q": "项目完成后我真的拥有源代码吗？",
-          "a": "当然。 Winterfrost 将完整的架构文档和所有知识产权交给您。我们为您打造产品，让您拥有并自由发展您的业务，而不受源代码留住客户的任何限制。"
+          "a": "当然。 SoftBuild 将完整的架构文档和所有知识产权交给您。我们为您打造产品，让您拥有并自由发展您的业务，而不受源代码留住客户的任何限制。"
         },
         {
           "q": "系统如何应对用户突然增加的情况？",
           "a": "我们使用云计算架构和自动缩放机制。当流量增加时系统会自动以秒级增加服务器资源，并在非高峰时自动缩减。这有助于您的应用程序保持流畅，同时仍然最大限度地节省服务器成本。"
         },
         {
-          "q": "Winterfrost 是否支持国际支付网关集成？",
+          "q": "SoftBuild 是否支持国际支付网关集成？",
           "a": "是的。我们在集成计费系统和管理定期订阅方面拥有丰富的经验。系统自动处理续费、升级套餐、发送发票，帮助您拥有一台完整的自动收款机。"
         },
         {
@@ -2870,11 +2870,11 @@
   },
   "thiet-ke-app": {
     "slug": "thiet-ke-app",
-    "metaTitle": "应用程序设计服务 - Winterfrost",
+    "metaTitle": "应用程序设计服务 - SoftBuild",
     "hero": {
       "titleLight": "服务",
       "titleDark": "应用程序设计",
-      "description": "Winterfrost是一家专业的应用程序设计单位，创建直观的移动界面，为用户提供卓越的用户体验和智能便捷的功能。以此帮助企业缩短与客户的距离，快速连接并在IOS和Android上大流量下稳定运行。",
+      "description": "SoftBuild是一家专业的应用程序设计单位，创建直观的移动界面，为用户提供卓越的用户体验和智能便捷的功能。以此帮助企业缩短与客户的距离，快速连接并在IOS和Android上大流量下稳定运行。",
       "bgImage": "/images/migrated/homenest-software/wp-content/uploads/2026/03/services-app-bg.jpg",
       "dashboardImage": "",
       "phones": {
@@ -3007,7 +3007,7 @@
     "ctaBanner": {
       "badge": "立即联系！",
       "headline": "设计移动应用程序以有效连接客户",
-      "description": "Winterfrost 设计的 IOS 和 Android 应用程序快速、安全且易于使用。该解决方案可帮助您随时随地保持状态并与客户互动。",
+      "description": "SoftBuild 设计的 IOS 和 Android 应用程序快速、安全且易于使用。该解决方案可帮助您随时随地保持状态并与客户互动。",
       "ctaLabel": "获取有关应用程序设计的建议",
       "ctaHref": "/lien-he",
       "image": "/images/people/cta/winterfrost/nhan-vien-cong-nghe-tre.png"
@@ -3138,7 +3138,7 @@
     },
     "techStack": {
       "headlineLight": "应用程序设计技术",
-      "headlineDark": "在 Winterfrost",
+      "headlineDark": "在 SoftBuild",
       "filters": [
         "全部",
         "接口",
@@ -3275,11 +3275,11 @@
         "所有人的答案",
         "奇迹"
       ],
-      "description": "使用 Winterfrost 回答技术问题、将应用程序上传到存储库的过程以及长期配套策略。",
+      "description": "使用 SoftBuild 回答技术问题、将应用程序上传到存储库的过程以及长期配套策略。",
       "items": [
         {
-          "q": "Winterfrost 是否支持将应用程序上传到 App Store 和 Google Play？",
-          "a": "是的。这是我们综合服务的重要组成部分。 Winterfrost将陪伴您办理注册手续、技术配置，并确保申请符合Apple和Google的严格政策，以最快的速度获得批准。"
+          "q": "SoftBuild 是否支持将应用程序上传到 App Store 和 Google Play？",
+          "a": "是的。这是我们综合服务的重要组成部分。 SoftBuild将陪伴您办理注册手续、技术配置，并确保申请符合Apple和Google的严格政策，以最快的速度获得批准。"
         },
         {
           "q": "我应该选择跨平台应用程序还是本机应用程序？",
@@ -3287,7 +3287,7 @@
         },
         {
           "q": "启动后维护应用程序的成本是多少？",
-          "a": "该费用通常包括服务器租赁费、应用商店的年度开发者帐户维护费以及定期的技术维护费。 Winterfrost 将向您提供最佳基础设施包的建议，以节省您的成本，同时仍确保应用程序的稳定运行。"
+          "a": "该费用通常包括服务器租赁费、应用商店的年度开发者帐户维护费以及定期的技术维护费。 SoftBuild 将向您提供最佳基础设施包的建议，以节省您的成本，同时仍确保应用程序的稳定运行。"
         },
         {
           "q": "如何让应用程序在多种不同型号的手机上良好运行？",
@@ -3298,7 +3298,7 @@
           "a": "也许吧。我们可以设计本地数据存储和智能同步机制。这使得用户即使在离线状态下也可以访问和使用一些核心功能，一旦网络连接恢复，数据将自动更新到服务器。"
         },
         {
-          "q": "当 iOS 或 Android 发布新版本时，Winterfrost 是否支持更新？",
+          "q": "当 iOS 或 Android 发布新版本时，SoftBuild 是否支持更新？",
           "a": "当然。我们提供长期支持和维护包，以确保您的应用程序始终与 Apple 和 Google 的最新更新兼容，避免出现功能错误或因技术过时而从应用程序商店中删除。"
         },
         {
@@ -3310,12 +3310,12 @@
   },
   "van-hanh-va-bao-tri": {
     "slug": "van-hanh-va-bao-tri",
-    "metaTitle": "运维服务-Winterfrost",
+    "metaTitle": "运维服务-SoftBuild",
     "hero": {
       "titleDark": "和维护",
       "titleLight": "运营服务",
       "lightFirst": true,
-      "description": "确保您的网站、移动应用程序和软件系统不间断地在线。 Winterfrost 应用自动监控技术，帮助保持峰值性能、多层安全并即时适应技术变化，帮助企业安心成长。",
+      "description": "确保您的网站、移动应用程序和软件系统不间断地在线。 SoftBuild 应用自动监控技术，帮助保持峰值性能、多层安全并即时适应技术变化，帮助企业安心成长。",
       "bgImage": "",
       "dashboardImage": "",
       "carousel": {
@@ -3376,7 +3376,7 @@
           "num": "02",
           "badge": "解决方案",
           "title": "设置自动监控",
-          "desc": "安装智能警告工具可帮助 Winterfrost 的技术团队比您的用户更快收到事件报告。"
+          "desc": "安装智能警告工具可帮助 SoftBuild 的技术团队比您的用户更快收到事件报告。"
         },
         {
           "num": "03",
@@ -3393,7 +3393,7 @@
       ]
     },
     "benefits": {
-      "label": "为什么选择Winterfrost操作系统？",
+      "label": "为什么选择SoftBuild操作系统？",
       "headlineLight": "管理能力和",
       "headlineDark": "确保系统运行。",
       "items": [
@@ -3447,7 +3447,7 @@
     "ctaBanner": {
       "badge": "立即联系！",
       "headline": "确保软件系统始终稳定运行",
-      "description": "Winterfrost 提供持续监控、更新和故障排除服务。我们帮助您的系统在整个业务流程中始终安全、准确、不间断地运行。",
+      "description": "SoftBuild 提供持续监控、更新和故障排除服务。我们帮助您的系统在整个业务流程中始终安全、准确、不间断地运行。",
       "ctaLabel": "获取维护建议",
       "ctaHref": "/lien-he",
       "image": "/images/people/cta/winterfrost/quan-ly-nam.png"
@@ -3532,15 +3532,15 @@
     "price": {
       "label": "",
       "headlineLight": "运维包",
-      "headlineDark": "在 Winterfrost",
-      "description": "以最佳成本保持网站、移动应用程序和软件的最佳性能和绝对安全。 Winterfrost致力于深度运营，消除所有技术风险并24/7快速响应。",
+      "headlineDark": "在 SoftBuild",
+      "description": "以最佳成本保持网站、移动应用程序和软件的最佳性能和绝对安全。 SoftBuild致力于深度运营，消除所有技术风险并24/7快速响应。",
       "packages": [
         {
           "name": "Giải pháp tùy chỉnh",
           "price": "根据实际需要灵活调整",
           "currency": "",
           "period": "",
-          "description": "确保网站和应用程序始终稳定、快速和安全。 Winterfrost有责任优化每一行代码，使您的系统随时准备好为大量用户服务。",
+          "description": "确保网站和应用程序始终稳定、快速和安全。 SoftBuild有责任优化每一行代码，使您的系统随时准备好为大量用户服务。",
           "features": [
             "持续的性能优化。",
             "定期扫描错误，防止数据泄露。",
@@ -3558,7 +3558,7 @@
     },
     "techStack": {
       "headlineLight": "运营技术",
-      "headlineDark": "在 Winterfrost",
+      "headlineDark": "在 SoftBuild",
       "filters": [
         "全部",
         "接口",
@@ -3699,12 +3699,12 @@
       "description": "有关系统接管流程、响应时间承诺以及我们如何保护您的软件免受技术问题影响的一系列问题。",
       "items": [
         {
-          "q": "Winterfrost 是否接受其他单位开发的软件的维护？",
-          "a": "是的。我们将进行技术调查来评估您当前的代码和基础设施。了解结构后，Winterfrost 将提出接管和优化路线图建议，以确保系统最稳定的运行。"
+          "q": "SoftBuild 是否接受其他单位开发的软件的维护？",
+          "a": "是的。我们将进行技术调查来评估您当前的代码和基础设施。了解结构后，SoftBuild 将提出接管和优化路线图建议，以确保系统最稳定的运行。"
         },
         {
           "q": "晚上系统出现紧急情况怎么办？",
-          "a": "根据您选择的服务套餐，我们有值班技术团队或 24/7 自动警报系统。对于严重事件，Winterfrost 承诺立即开始处理，以尽量减少对业务的损害。"
+          "a": "根据您选择的服务套餐，我们有值班技术团队或 24/7 自动警报系统。对于严重事件，SoftBuild 承诺立即开始处理，以尽量减少对业务的损害。"
         },
         {
           "q": "为什么我应该购买定期维护包而不是在某个地方进行修复？",
@@ -3712,22 +3712,22 @@
         },
         {
           "q": "维护包是否包括新功能的开发？",
-          "a": "维护包主要侧重于保持系统稳定和安全。但是，我们仍然支持较小的界面或功能升级。对于较大的开发需求，Winterfrost将单独提出建议，以确保当前的运营结构不受影响。"
+          "a": "维护包主要侧重于保持系统稳定和安全。但是，我们仍然支持较小的界面或功能升级。对于较大的开发需求，SoftBuild将单独提出建议，以确保当前的运营结构不受影响。"
         },
         {
-          "q": "Winterfrost 接管后我的数据安全吗？",
+          "q": "SoftBuild 接管后我的数据安全吗？",
           "a": "绝对安全。我们建立信息安全承诺并使用严格的数据加密层。技术人员在系统上的每个操作都会被记录，以便您可以完全控制访问。"
         },
         {
           "q": "我将如何收到工作报告？",
-          "a": "每个月或每个季度，Winterfrost 都会发送有关系统状态的详细报告，包括：已解决的错误数量、安全状态、服务器性能和优化建议。您将始终了解维护预算的使用效率。"
+          "a": "每个月或每个季度，SoftBuild 都会发送有关系统状态的详细报告，包括：已解决的错误数量、安全状态、服务器性能和优化建议。您将始终了解维护预算的使用效率。"
         }
       ]
     }
   },
   "phat-trien-phan-mem-doanh-nghiep": {
     "slug": "phat-trien-phan-mem-doanh-nghiep",
-    "metaTitle": "企业软件开发服务-Winterfrost",
+    "metaTitle": "企业软件开发服务-SoftBuild",
     "hero": {
       "titleDark": "商业",
       "titleLight": "软件开发",
@@ -3787,7 +3787,7 @@
           "num": "01",
           "badge": "调查",
           "title": "咨询分析",
-          "desc": "我们将与您的团队坐下来更好地了解您的工作流程、当前问题和未来目标。在此基础上，Winterfrost 将提出最优化的软件设计解决方案来准确解决您的业务问题。"
+          "desc": "我们将与您的团队坐下来更好地了解您的工作流程、当前问题和未来目标。在此基础上，SoftBuild 将提出最优化的软件设计解决方案来准确解决您的业务问题。"
         },
         {
           "num": "02",
@@ -3799,7 +3799,7 @@
           "num": "03",
           "badge": "发展",
           "title": "编程和集成",
-          "desc": "我们将按照现代技术标准进行编程。 Winterfrost 将新软件与 ERP 和 CRM 等现有工具连接起来，为企业创建统一的数据系统。"
+          "desc": "我们将按照现代技术标准进行编程。 SoftBuild 将新软件与 ERP 和 CRM 等现有工具连接起来，为企业创建统一的数据系统。"
         },
         {
           "num": "04",
@@ -3811,19 +3811,19 @@
           "num": "05",
           "badge": "操作",
           "title": "部署和移交",
-          "desc": "Winterfrost将支持系统安装并为员工组织技术培训。移交源代码和文档后，我们将继续支持您操作并解决前期出现的问题。"
+          "desc": "SoftBuild将支持系统安装并为员工组织技术培训。移交源代码和文档后，我们将继续支持您操作并解决前期出现的问题。"
         }
       ]
     },
     "benefits": {
-      "label": "为什么企业选择Winterfrost？",
+      "label": "为什么企业选择SoftBuild？",
       "headlineLight": "深度技术对接",
       "headlineDark": "具有实用的管理思维",
       "items": [
         {
           "num": "1",
           "title": "了解实际操作",
-          "desc": "在开始之前，我们会花时间彻底了解您的业务运作方式。 Winterfrost 相信软件只有在正确解决与用户流程和数据相关的问题时才真正有意义。"
+          "desc": "在开始之前，我们会花时间彻底了解您的业务运作方式。 SoftBuild 相信软件只有在正确解决与用户流程和数据相关的问题时才真正有意义。"
         },
         {
           "num": "2",
@@ -3838,7 +3838,7 @@
         {
           "num": "4",
           "title": "全系统数据统一",
-          "desc": "Winterfrost 帮助您克服部门之间的数据不一致问题。所有信息互联、同步，帮助董事会准确、及时了解公司情况。"
+          "desc": "SoftBuild 帮助您克服部门之间的数据不一致问题。所有信息互联、同步，帮助董事会准确、及时了解公司情况。"
         },
         {
           "num": "5",
@@ -3858,7 +3858,7 @@
         {
           "num": "8",
           "title": "致力于长期陪伴",
-          "desc": "Winterfrost 不只是交出并离开。我们致力于技术支持、定期维护和升级咨询，使软件始终成为组织长期发展的坚实基础。"
+          "desc": "SoftBuild 不只是交出并离开。我们致力于技术支持、定期维护和升级咨询，使软件始终成为组织长期发展的坚实基础。"
         },
         {
           "num": "9",
@@ -3870,7 +3870,7 @@
     "ctaBanner": {
       "badge": "立即联系！",
       "headline": "立即标准化业务操作流程！",
-      "description": "准备将手动流程和碎片数据转换为集中管理系统。让Winterfrost帮助您构建定制的ERP/CRM平台，确保绝对的数据同步和永久的源代码所有权。",
+      "description": "准备将手动流程和碎片数据转换为集中管理系统。让SoftBuild帮助您构建定制的ERP/CRM平台，确保绝对的数据同步和永久的源代码所有权。",
       "ctaLabel": "立即收到解决方案建议",
       "ctaHref": "/lien-he",
       "image": "/images/people/cta/winterfrost/chuyen-vien-nam-tre.png"
@@ -3902,7 +3902,7 @@
     },
     "industries": {
       "label": "特色领域",
-      "headlineLight": "Winterfrost 字段",
+      "headlineLight": "SoftBuild 字段",
       "headlineDark": "实施软件解决方案",
       "items": [
         {
@@ -3956,7 +3956,7 @@
       "label": "",
       "headlineLight": "开发成本",
       "headlineDark": "企业软件",
-      "description": "Winterfrost 根据工作范围和固定交付时间表进行部署，不产生按小时收费。每个服务包均包含 NDA、私人项目管理、完整的技术文档和 100% 源代码所有权。",
+      "description": "SoftBuild 根据工作范围和固定交付时间表进行部署，不产生按小时收费。每个服务包均包含 NDA、私人项目管理、完整的技术文档和 100% 源代码所有权。",
       "packages": [
         {
           "name": "Gói Cơ Bản",
@@ -4001,7 +4001,7 @@
           "price": "120.000.000",
           "currency": "越南盾",
           "period": "/ 项目",
-          "description": "通过将 Winterfrost 的高级工程团队直接集成到您的工作流程中来增强您企业的技术能力。",
+          "description": "通过将 SoftBuild 的高级工程团队直接集成到您的工作流程中来增强您企业的技术能力。",
           "features": [
             "资深IT工程师团队直接部署。",
             "双方工作和直接交流机制。",
@@ -4160,12 +4160,12 @@
       "description": "关于我们如何处理遗留系统、我们对源代码所有权的承诺以及我们的业务数据集成方法的一系列问题。",
       "items": [
         {
-          "q": "Winterfrost 可以在旧版软件系统上工作吗？",
+          "q": "SoftBuild 可以在旧版软件系统上工作吗？",
           "a": "是的。我们评估企业当前的源代码结构和基础设施，以提供升级或编写其他集成模块的路线图。目标是在不中断正在进行的操作流程的情况下提高系统性能。"
         },
         {
           "q": "项目结束后企业是否完全拥有源代码？",
-          "a": "项目移交落户后，企业将立即拥有100%的源代码和知识产权。 Winterfrost 提供完整的技术文档，以便您的团队能够主动管理或进一步开发。"
+          "a": "项目移交落户后，企业将立即拥有100%的源代码和知识产权。 SoftBuild 提供完整的技术文档，以便您的团队能够主动管理或进一步开发。"
         },
         {
           "q": "新软件如何与现有的 ERP 和 CRM 工具连接？",
@@ -4176,19 +4176,19 @@
           "a": "成本根据工作范围和具体交付里程碑确定。我们不收取小时费用，帮助企业轻松控制预算，确保项目按承诺完成进度。"
         },
         {
-          "q": "Winterfrost 如何保护项目信息？",
+          "q": "SoftBuild 如何保护项目信息？",
           "a": "我们从最初的讨论阶段就签署了保密协议。在部署过程中，源代码在安全服务器上进行管理，并对实验数据进行加密，以防止任何未经授权的访问。"
         },
         {
           "q": "移交后，我可以获得技术支持吗？",
-          "a": "是的。 Winterfrost在项目投入实际运营后提供维护和运营支持包。我们负责处理出现的错误，定期更新安全性，并在业务规模发生变化时咨询升级选项。"
+          "a": "是的。 SoftBuild在项目投入实际运营后提供维护和运营支持包。我们负责处理出现的错误，定期更新安全性，并在业务规模发生变化时咨询升级选项。"
         }
       ]
     }
   },
   "phat-trien-phan-mem-mvp": {
     "slug": "phat-trien-phan-mem-mvp",
-    "metaTitle": "MVP 软件开发服务 - Winterfrost",
+    "metaTitle": "MVP 软件开发服务 - SoftBuild",
     "hero": {
       "titleDark": "MVP 软件",
       "titleLight": "发展",
@@ -4240,7 +4240,7 @@
       ]
     },
     "howWeWork": {
-      "label": "Winterfrost 的 MVP 软件创建过程",
+      "label": "SoftBuild 的 MVP 软件创建过程",
       "ctaLabel": "立即联系咨询",
       "ctaHref": "/lien-he",
       "steps": [
@@ -4277,7 +4277,7 @@
       ]
     },
     "benefits": {
-      "label": "为什么应该从 Winterfrost 开始 MVP 版本？",
+      "label": "为什么应该从 SoftBuild 开始 MVP 版本？",
       "headlineLight": "以最快的速度将创意推向市场",
       "headlineDark": "以最优成本",
       "items": [
@@ -4324,14 +4324,14 @@
         {
           "num": "9",
           "title": "增长路线图咨询",
-          "desc": "不仅仅是交接，Winterfrost根据项目实际发展情况，持续提供技术支持和升级策略咨询。"
+          "desc": "不仅仅是交接，SoftBuild根据项目实际发展情况，持续提供技术支持和升级策略咨询。"
         }
       ]
     },
     "ctaBanner": {
       "badge": "立即联系！",
       "headline": "开发 MVP 产品以快速推向市场",
-      "description": "Winterfrost 帮助企业以最优化的成本构建核心软件版本。我们专注于最重要的功能，以便企业可以测试想法并立即从用户那里获得真实的反馈。",
+      "description": "SoftBuild 帮助企业以最优化的成本构建核心软件版本。我们专注于最重要的功能，以便企业可以测试想法并立即从用户那里获得真实的反馈。",
       "ctaLabel": "启动 MVP 项目",
       "ctaHref": "/lien-he",
       "image": "/images/people/cta/winterfrost/chuyen-vien-nu.png"
@@ -4363,7 +4363,7 @@
     },
     "industries": {
       "label": "服务领域",
-      "headlineLight": "Winterfrost 字段",
+      "headlineLight": "SoftBuild 字段",
       "headlineDark": "专注于实现 MVP 版本",
       "items": [
         {
@@ -4417,7 +4417,7 @@
       "label": "",
       "headlineLight": "开发成本",
       "headlineDark": "MVP 软件",
-      "description": "Winterfrost 根据特定功能和路线图进行报价。您从一开始就知道结果、时间表和预算。承诺不按小时收费，不产生超出约定范围的费用。",
+      "description": "SoftBuild 根据特定功能和路线图进行报价。您从一开始就知道结果、时间表和预算。承诺不按小时收费，不产生超出约定范围的费用。",
       "packages": [
         {
           "name": "Gói Cơ Bản",
@@ -4622,7 +4622,7 @@
       "items": [
         {
           "q": "MVP 需要多长时间才能发布？",
-          "a": "在 Winterfrost 完成 MVP 的平均时间通常为 4 到 12 周。具体时间取决于需要编程的核心功能数量。我们优先考虑快速启动，以便您尽早获得来自用户的真实数据。"
+          "a": "在 SoftBuild 完成 MVP 的平均时间通常为 4 到 12 周。具体时间取决于需要编程的核心功能数量。我们优先考虑快速启动，以便您尽早获得来自用户的真实数据。"
         },
         {
           "q": "从MVP升级到成品的成本是如何计算的？",
@@ -4630,10 +4630,10 @@
         },
         {
           "q": "如果测试后我想彻底改变该功能怎么办？",
-          "a": "这是成为 MVP 的主要目的。由于 Winterfrost 从一开始就使用灵活的技术和干净的代码结构，因此可以快速调整软件逻辑或更改业务流程，而无需拆除整个遗留系统。"
+          "a": "这是成为 MVP 的主要目的。由于 SoftBuild 从一开始就使用灵活的技术和干净的代码结构，因此可以快速调整软件逻辑或更改业务流程，而无需拆除整个遗留系统。"
         },
         {
-          "q": "Winterfrost 是否接受其他单位制作的 MVP 版本的进一步开发？",
+          "q": "SoftBuild 是否接受其他单位制作的 MVP 版本的进一步开发？",
           "a": "是的。我们的技术团队将对您当前的源代码和架构进行质量检查。如果源代码符合标准，我们将接管并开发更多功能。如果源代码太旧或过时，我们将建议最佳解决方案以节省长期成本。"
         },
         {
@@ -4649,11 +4649,11 @@
   },
   "dich-vu-it": {
     "slug": "dich-vu-it",
-    "metaTitle": "综合 IT 服务 - Winterfrost",
+    "metaTitle": "综合 IT 服务 - SoftBuild",
     "hero": {
       "titleDark": "综合IT服务",
       "titleLight": "",
-      "description": "Winterfrost 提供 IT 系统管理解决方案、软件维护和深入的技术基础设施设置。我们专注于维护系统稳定性、数据安全，帮助企业充分掌握技术工具，专注于核心业务活动。",
+      "description": "SoftBuild 提供 IT 系统管理解决方案、软件维护和深入的技术基础设施设置。我们专注于维护系统稳定性、数据安全，帮助企业充分掌握技术工具，专注于核心业务活动。",
       "bgImage": "/images/migrated/homenest-software/wp-content/uploads/2026/03/Web-app-development.jpg",
       "dashboardImage": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Web-Application-Development-banner.jpg"
     },
@@ -4661,7 +4661,7 @@
       "headlineLight": "IT 服务的好处",
       "headlineDark": "给企业带来",
       "description": "数字化和 IT 管理有助于优化运营成本、消除技术中断风险并确保业务数据连续性。",
-      "ctaLabel": "立即与 Winterfrost 讨论！",
+      "ctaLabel": "立即与 SoftBuild 讨论！",
       "ctaHref": "tel:+84971450454",
       "items": [
         {
@@ -4692,7 +4692,7 @@
     },
     "features": {
       "headlineLight": "深度IT服务",
-      "headlineDark": "在 Winterfrost",
+      "headlineDark": "在 SoftBuild",
       "description": "我们提供从日常系统管理到复杂技术项目实施的解决方案，确保与特定操作完全兼容。",
       "ctaLabel": "立即获取建议",
       "ctaHref": "tel:+84971450454",
@@ -4725,7 +4725,7 @@
       ]
     },
     "howWeWork": {
-      "label": "Winterfrost的IT服务实施流程",
+      "label": "SoftBuild的IT服务实施流程",
       "ctaLabel": "",
       "ctaHref": "/lien-he",
       "steps": [
@@ -4768,9 +4768,9 @@
       ]
     },
     "benefits": {
-      "label": "为什么您应该选择 Winterfrost？",
+      "label": "为什么您应该选择 SoftBuild？",
       "headlineLight": "企业为什么要选择IT服务？",
-      "headlineDark": "在 Winterfrost ？",
+      "headlineDark": "在 SoftBuild ？",
       "items": [
         {
           "num": "1",
@@ -4780,7 +4780,7 @@
         {
           "num": "2",
           "title": "交出100%源代码",
-          "desc": "Winterfrost 承诺在接受后立即转让所有源代码，帮助企业拥有完全的技术自主权，而不依赖于每月的许可费。"
+          "desc": "SoftBuild 承诺在接受后立即转让所有源代码，帮助企业拥有完全的技术自主权，而不依赖于每月的许可费。"
         },
         {
           "num": "3",
@@ -4822,7 +4822,7 @@
     "ctaBanner": {
       "badge": "立即联系！",
       "headline": "专属AI系统引领数字时代",
-      "description": "不要仅仅停留在常规自动化上。加入Winterfrost，探索数据的力量，构建独特的AI模型，帮助您的企业在市场上拥有绝对的竞争优势。",
+      "description": "不要仅仅停留在常规自动化上。加入SoftBuild，探索数据的力量，构建独特的AI模型，帮助您的企业在市场上拥有绝对的竞争优势。",
       "ctaLabel": "立即制定您的 AI 路线图",
       "ctaHref": "/lien-he",
       "image": "/images/people/cta/winterfrost/chuyen-vien-tu-van-viet-nam.png"
@@ -4854,7 +4854,7 @@
     },
     "industries": {
       "label": "特色领域",
-      "headlineLight": "Winterfrost提供服务",
+      "headlineLight": "SoftBuild提供服务",
       "headlineDark": "根据每个具体领域",
       "items": [
         {
@@ -4911,7 +4911,7 @@
       "description": "成本是根据基础设施规模和实际运营需求设计的，确保企业只为真正必要的解决方案付费。",
       "packages": [
         {
-          "name": "Giá dịch vụ IT tại Winterfrost",
+          "name": "Giá dịch vụ IT tại SoftBuild",
           "price": "根据需要灵活费用",
           "currency": "",
           "period": "",
@@ -5073,34 +5073,34 @@
         "每个",
         "奇迹"
       ],
-      "description": "在 Winterfrost 部署基础设施时直接回答技术、安全和所有权问题。",
+      "description": "在 SoftBuild 部署基础设施时直接回答技术、安全和所有权问题。",
       "items": [
         {
-          "q": "Winterfrost 的 IT 服务成本是如何计算的？",
+          "q": "SoftBuild 的 IT 服务成本是如何计算的？",
           "a": "成本不是固定的，而是根据各业务的基础设施规模和实际运营需求灵活设计。这确保客户只需为其系统真正需要的解决方案和资源付费。"
         },
         {
           "q": "移交后企业能否拥有源代码？",
-          "a": "是的。 Winterfrost承诺在验收后立即移交100%的源代码和系统结构文档。这有助于企业拥有完全的技术自主权，可以自行运营，并且不依赖于每月的许可费。"
+          "a": "是的。 SoftBuild承诺在验收后立即移交100%的源代码和系统结构文档。这有助于企业拥有完全的技术自主权，可以自行运营，并且不依赖于每月的许可费。"
         },
         {
           "q": "如何监控日常工作的进度和质量？",
-          "a": "客户可以通过专用的项目管理工具直接监控开发过程并检查质量。 Winterfrost 进行日常进度监控，以确保完全透明并与客户运营保持一致。"
+          "a": "客户可以通过专用的项目管理工具直接监控开发过程并检查质量。 SoftBuild 进行日常进度监控，以确保完全透明并与客户运营保持一致。"
         },
         {
           "q": "业务数据的安全性如何？",
           "a": "我们通过严格的安全协议部署多层基础设施安全，以防止未经授权的入侵风险。该过程包括评估网络安全漏洞、建立自动数据备份循环以及根据合同承诺定期更新安全补丁。"
         },
         {
-          "q": "Winterfrost 是否支持直接在业务总部进行故障排除？",
+          "q": "SoftBuild 是否支持直接在业务总部进行故障排除？",
           "a": "是的。我们的专家团队随时准备直接在场处理业务总部的硬件、网络基础设施或服务器出现的问题。我们承诺在2至4小时内快速解决现场问题。"
         },
         {
-          "q": "Winterfrost系统的负载能力是多少？",
+          "q": "SoftBuild系统的负载能力是多少？",
           "a": "我们有能力构建和管理平台，为数千名用户同时低延迟访问提供服务。即使在高峰时段，系统也能确保数据的稳定性和连续性。"
         },
         {
-          "q": "Winterfrost 的 IT 服务了解哪些具体行业标准？",
+          "q": "SoftBuild 的 IT 服务了解哪些具体行业标准？",
           "a": "我们拥有整合多个领域技术检验标准的实践经验：\n• 农业：集成物联网传感器和追溯系统。\n• 教育：LMS 等专业软件系统的管理。\n• 生产和内饰：根据CO/CQ 等专业标准进行技术检查。"
         },
         {
@@ -5112,18 +5112,18 @@
   },
   "tu-van-chuyen-doi-so": {
     "slug": "tu-van-chuyen-doi-so",
-    "metaTitle": "数字化转型咨询服务-Winterfrost",
+    "metaTitle": "数字化转型咨询服务-SoftBuild",
     "hero": {
       "titleDark": "数字化转型咨询服务",
       "titleLight": "",
-      "description": "Winterfrost 提供数据数字化、重组工作流程以及将云计算、物联网和人工智能等技术集成到操作系统中的服务。我们支持企业制定详细的 IT 路线图，以提高绩效并优化管理成本。",
+      "description": "SoftBuild 提供数据数字化、重组工作流程以及将云计算、物联网和人工智能等技术集成到操作系统中的服务。我们支持企业制定详细的 IT 路线图，以提高绩效并优化管理成本。",
       "bgImage": "/images/migrated/homenest-software/wp-content/uploads/2026/03/Web-app-development.jpg",
       "dashboardImage": "/images/migrated/homenest-software/wp-content/uploads/2026/04/Web-Application-Development-banner.jpg"
     },
     "solution": {
       "headlineLight": "直接效益时",
       "headlineDark": "数字化转型业务",
-      "description": "数字化流程有助于优化成本、同步数据并消除手动操作错误。 Winterfrost的解决方案确保企业的技术稳定性、信息安全和绝对的源代码所有权。",
+      "description": "数字化流程有助于优化成本、同步数据并消除手动操作错误。 SoftBuild的解决方案确保企业的技术稳定性、信息安全和绝对的源代码所有权。",
       "ctaLabel": "项目讨论",
       "ctaHref": "tel:+84971450454",
       "items": [
@@ -5202,7 +5202,7 @@
           "num": "02",
           "badge": "制定计划",
           "title": "设置路线图和 KPI 指标",
-          "desc": "Winterfrost 根据调查数据制定了具有明确量化目标的数字化战略。该路线图分为具体阶段，包括预算估算和性能指标，例如流程处理时间、错误减少率和人力资源节省。"
+          "desc": "SoftBuild 根据调查数据制定了具有明确量化目标的数字化战略。该路线图分为具体阶段，包括预算估算和性能指标，例如流程处理时间、错误减少率和人力资源节省。"
         },
         {
           "num": "03",
@@ -5220,7 +5220,7 @@
           "num": "05",
           "badge": "转乘",
           "title": "培训并移交源代码",
-          "desc": "Winterfrost 为操作人员组织现场技术培训课程。系统在真实环境稳定运行后，我们100%交出项目源代码、数据结构文档和管理指令，让企业完全拥有数字资产。"
+          "desc": "SoftBuild 为操作人员组织现场技术培训课程。系统在真实环境稳定运行后，我们100%交出项目源代码、数据结构文档和管理指令，让企业完全拥有数字资产。"
         },
         {
           "num": "06",
@@ -5231,7 +5231,7 @@
       ]
     },
     "benefits": {
-      "label": "为什么选择Winterfrost？",
+      "label": "为什么选择SoftBuild？",
       "headlineLight": "成本透明",
       "headlineDark": "提供可持续的数字化转型解决方案",
       "items": [
@@ -5248,7 +5248,7 @@
         {
           "num": "3",
           "title": "掌握核心技术",
-          "desc": "Winterfrost 直接开发人工智能、物联网和区块链。不经过中介，有助于缩短实施时间，优化成本，为客户提供最深入的技术支持。"
+          "desc": "SoftBuild 直接开发人工智能、物联网和区块链。不经过中介，有助于缩短实施时间，优化成本，为客户提供最深入的技术支持。"
         },
         {
           "num": "4",
@@ -5273,7 +5273,7 @@
         {
           "num": "8",
           "title": "现场技术支持",
-          "desc": "Winterfrost 的团队已准备好直接处理出现的问题，确保业务运营不会长期停滞。"
+          "desc": "SoftBuild 的团队已准备好直接处理出现的问题，确保业务运营不会长期停滞。"
         },
         {
           "num": "9",
@@ -5285,7 +5285,7 @@
     "ctaBanner": {
       "badge": "立即联系！",
       "headline": "专属AI系统引领数字时代",
-      "description": "不要仅仅停留在常规自动化上。加入Winterfrost，探索数据的力量，构建独特的AI模型，帮助您的企业在市场上拥有绝对的竞争优势。",
+      "description": "不要仅仅停留在常规自动化上。加入SoftBuild，探索数据的力量，构建独特的AI模型，帮助您的企业在市场上拥有绝对的竞争优势。",
       "ctaLabel": "立即制定您的 AI 路线图",
       "ctaHref": "/lien-he",
       "image": "/images/people/cta/winterfrost/chuyen-vien-tu-van-viet-nam.png"
@@ -5317,7 +5317,7 @@
     },
     "industries": {
       "label": "特色领域",
-      "headlineLight": "Winterfrost提供服务",
+      "headlineLight": "SoftBuild提供服务",
       "headlineDark": "根据每个具体领域",
       "items": [
         {
@@ -5536,11 +5536,11 @@
         "每个",
         "奇迹"
       ],
-      "description": "直接回答有关成本、安全性和实施路线图的问题，帮助企业清楚地了解 Winterfrost 对技术自主的承诺。",
+      "description": "直接回答有关成本、安全性和实施路线图的问题，帮助企业清楚地了解 SoftBuild 对技术自主的承诺。",
       "items": [
         {
           "q": "咨询和实施服务费用如何计算？",
-          "a": "成本不是固定的，而是根据当前基础设施规模、需要数字化的流程数量以及集成人工智能、物联网、区块链等专业技术的复杂性来确定。 Winterfrost将在实际调查后提供每件商品的详细报价。"
+          "a": "成本不是固定的，而是根据当前基础设施规模、需要数字化的流程数量以及集成人工智能、物联网、区块链等专业技术的复杂性来确定。 SoftBuild将在实际调查后提供每件商品的详细报价。"
         },
         {
           "q": "数字化转型是否会扰乱当前的业务运营？",
@@ -5548,7 +5548,7 @@
         },
         {
           "q": "交接后企业真的拥有100%的源代码吗？",
-          "a": "是的。这是Winterfrost的核心承诺。客户获得所有项目源代码、系统架构文档和服务器管理权限。业务完全自主，无需向第三方支付账户维护费用，并有权随时升级系统。"
+          "a": "是的。这是SoftBuild的核心承诺。客户获得所有项目源代码、系统架构文档和服务器管理权限。业务完全自主，无需向第三方支付账户维护费用，并有权随时升级系统。"
         },
         {
           "q": "实施数字化转型项目通常需要多长时间？",
@@ -5567,8 +5567,8 @@
           "a": "系统通过多层现场数据加密保护，为云服务器设置防火墙，并对各级人员制定详细的访问权限。移交前，我们会进行安全漏洞测试，确保企业数字资产的绝对安全。"
         },
         {
-          "q": "项目结束后 Winterfrost 是否提供支持？",
-          "a": "是的。我们根据合同实施技术保修政策和定期安全更新。此外，Winterfrost 的技术团队随时准备帮助处理出现的问题或在业务需要增长时就扩展功能提供建议。"
+          "q": "项目结束后 SoftBuild 是否提供支持？",
+          "a": "是的。我们根据合同实施技术保修政策和定期安全更新。此外，SoftBuild 的技术团队随时准备帮助处理出现的问题或在业务需要增长时就扩展功能提供建议。"
         }
       ]
     }

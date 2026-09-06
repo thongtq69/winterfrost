@@ -47,7 +47,7 @@ const extraServices = [
     ogImage:
       "/images/services/winterfrost/custom-software-solutions.webp",
     contentText:
-      "Winterfrost cung cấp dịch vụ IT toàn diện từ tư vấn kiến trúc, quản trị hạ tầng đến giám sát và hỗ trợ kỹ thuật. Giải pháp được thiết kế theo nhu cầu thực tế, giúp doanh nghiệp duy trì hệ thống ổn định, bảo mật và sẵn sàng mở rộng.",
+      "SoftBuild cung cấp dịch vụ IT toàn diện từ tư vấn kiến trúc, quản trị hạ tầng đến giám sát và hỗ trợ kỹ thuật. Giải pháp được thiết kế theo nhu cầu thực tế, giúp doanh nghiệp duy trì hệ thống ổn định, bảo mật và sẵn sàng mở rộng.",
   },
   {
     slug: "tu-van-chuyen-doi-so",
@@ -59,7 +59,19 @@ const extraServices = [
     ogImage:
       "/images/services/winterfrost/generative-ai-integration.webp",
     contentText:
-      "Đội ngũ Winterfrost đồng hành cùng doanh nghiệp trong việc đánh giá hiện trạng, xác định mục tiêu và xây dựng lộ trình chuyển đổi số khả thi. Mỗi đề xuất tập trung vào hiệu quả vận hành, khả năng đo lường và tốc độ triển khai.",
+      "Đội ngũ SoftBuild đồng hành cùng doanh nghiệp trong việc đánh giá hiện trạng, xác định mục tiêu và xây dựng lộ trình chuyển đổi số khả thi. Mỗi đề xuất tập trung vào hiệu quả vận hành, khả năng đo lường và tốc độ triển khai.",
+  },
+  {
+    slug: "tu-dong-hoa-quy-trinh",
+    title: "Tự động hóa quy trình (Automation)",
+    metaDescription:
+      "Giải pháp tự động hóa thông minh RPA, Workflow Automation và AI Agents giúp doanh nghiệp tối ưu chi phí và tăng tốc xử lý.",
+    image:
+      "/images/services/winterfrost/generative-ai-integration.webp",
+    ogImage:
+      "/images/services/winterfrost/generative-ai-integration.webp",
+    contentText:
+      "SoftBuild cung cấp giải pháp tự động hóa toàn diện cho doanh nghiệp từ RPA, tích hợp hệ thống đa nền tảng đến trợ lý AI điều phối công việc tự động 24/7.",
   },
 ] as const;
 
