@@ -23,7 +23,7 @@ export function WhoWeAre() {
           <div className={styles.rightColumn}>
             <div className={styles.mainText}>
               <p>
-                {tr("Tại Winterfrost, chúng tôi không chỉ xây dựng phần mềm, chúng tôi tháo gỡ những rào cản kỹ thuật để doanh nghiệp bạn vận hành trơn tru.")}
+                {tr("Tại SoftBuild, chúng tôi không chỉ xây dựng phần mềm, chúng tôi tháo gỡ những rào cản kỹ thuật để doanh nghiệp bạn vận hành trơn tru.")}
                 <br />
                 {tr("Từ")} <Link href="/dich-vu/thiet-ke-website">{tr("thiết kế website")}</Link>, <Link href="/dich-vu/thiet-ke-app">{tr("thiết kế app")}</Link> {tr("đến")} <Link href="/dich-vu/phat-trien-ai">{tr("phát triển AI")}</Link>, {tr("mọi dòng code đều được viết ra để tối ưu hóa chi phí và tạo đà tăng trưởng doanh thu thực tế cho doanh nghiệp.")}
               </p>
@@ -34,7 +34,7 @@ export function WhoWeAre() {
               <p className={styles.quoteText}>“{content.quote}”</p>
               <div className={styles.profileBox}>
                 {/* eslint-disable-next-line @next/next/no-img-element */}
-                <img src={content.quoteImage} alt={`${content.quoteAuthor} - Winterfrost`} className={styles.avatar} />
+                <img src={content.quoteImage} alt={`${content.quoteAuthor} - SoftBuild`} className={styles.avatar} />
                 <div className={styles.profileInfo}>
                   <span className={styles.name}>{content.quoteAuthor}</span>
                   <span className={styles.role}>{content.quoteRole}</span>

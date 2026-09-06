@@ -5,11 +5,11 @@ import { Link } from "@/i18n/routing";
 import { useAutoText, useLocalizedValue } from "@/i18n/auto-text-client";
 
 const STYLESHEETS = [
-  "https://winterfrost.tech/_next/static/chunks/419f318b2056e9cc.css",
-  "https://winterfrost.tech/_next/static/chunks/f6a48a8a59bef51b.css",
-  "https://winterfrost.tech/_next/static/chunks/591312935a8a436b.css",
-  "https://winterfrost.tech/_next/static/chunks/6732512e87e8f355.css",
-  "https://winterfrost.tech/_next/static/chunks/356b7c84cad65aa0.css",
+  "https://softbuildvn.vercel.app/_next/static/chunks/419f318b2056e9cc.css",
+  "https://softbuildvn.vercel.app/_next/static/chunks/f6a48a8a59bef51b.css",
+  "https://softbuildvn.vercel.app/_next/static/chunks/591312935a8a436b.css",
+  "https://softbuildvn.vercel.app/_next/static/chunks/6732512e87e8f355.css",
+  "https://softbuildvn.vercel.app/_next/static/chunks/356b7c84cad65aa0.css",
 ];
 
 type Card = {
@@ -24,27 +24,27 @@ type Card = {
 };
 
 const tester: Card = {
-  slug: "cong-viec-cua-tester-tai-winterfrost-viet-nam-se-lam-nhung-gi",
-  title: "Công việc của Tester tại Winterfrost sẽ làm những gì?",
-  image: "/images/people/work-life/mot-ngay-kiem-thu-winterfrost.webp",
-  imageAlt: "Một ngày là tester tại Winterfrost",
+  slug: "cong-viec-cua-tester-tai-softbuild-viet-nam-se-lam-nhung-gi",
+  title: "Công việc của Tester tại SoftBuild sẽ làm những gì?",
+  image: "/images/people/work-life/mot-ngay-kiem-thu-softbuild.webp",
+  imageAlt: "Một ngày là tester tại SoftBuild",
   author: "Hữu Trí",
   date: "Jul 13, 2026",
   views: "3",
-  description: "Bài viết mang đến góc nhìn chân thực và chuyên sâu về công việc của một Software Tester thông qua nhật ký một ngày làm việc của Nguyễn Quốc Huy và Thục Quyên tại Winterfrost. Vượt ra khỏi định kiến “chỉ dùng thử rồi báo lỗi”, quy trình kiểm thử đòi hỏi sự phân tích kỹ lưỡng từ khâu đọc tài liệu đặc tả, lên kịch bản, đến việc đánh giá hiệu năng và giao diện trên các nền tảng công nghệ đa dạng. Bên cạnh việc phác họa chi tiết cách Tester phối hợp nhịp nhàng cùng Developer và BA để giải quyết bài toán trải nghiệm người dùng, bài viết còn đúc kết những lời khuyên thực tế cho người mới vào nghề và giới thiệu các cơ hội phát triển sự nghiệp hấp dẫn tại Winterfrost.",
+  description: "Bài viết mang đến góc nhìn chân thực và chuyên sâu về công việc của một Software Tester thông qua nhật ký một ngày làm việc của Nguyễn Quốc Huy và Thục Quyên tại SoftBuild. Vượt ra khỏi định kiến “chỉ dùng thử rồi báo lỗi”, quy trình kiểm thử đòi hỏi sự phân tích kỹ lưỡng từ khâu đọc tài liệu đặc tả, lên kịch bản, đến việc đánh giá hiệu năng và giao diện trên các nền tảng công nghệ đa dạng. Bên cạnh việc phác họa chi tiết cách Tester phối hợp nhịp nhàng cùng Developer và BA để giải quyết bài toán trải nghiệm người dùng, bài viết còn đúc kết những lời khuyên thực tế cho người mới vào nghề và giới thiệu các cơ hội phát triển sự nghiệp hấp dẫn tại SoftBuild.",
 };
 
 const popular: Card[] = [
   { slug: "ui-ux-designer-la-gi-hanh-trang-can-co-de-buoc-vao-nghe-thiet-ke-ui-ux", title: "UI/UX Designer Là Gì? Hành Trang Cần Có Để Bước Vào Nghề Thiết Kế UI/UX", image: "/images/migrated/homenest-com-vn/wp-content/uploads/2026/03/22120006/ui-ux-la-gi.jpg", imageAlt: "ui-ux-la-gi", author: "Phương Ly", date: "Mar 12, 2026", views: "129" },
   { slug: "flutter-so-voi-react-native-va-xamarin", title: "Flutter so với React Native và Xamarin: Nên chọn framework nào cho phát triển Mobile?", image: "/images/migrated/homenest-com-vn/wp-content/uploads/2026/03/22115935/Flutter-so-voi-React-Native-va-Xamarin-Nen-chon-framework-nao-cho-phat-trien-Mobile.webp", imageAlt: "Flutter so với React Native và Xamarin Nên chọn framework nào cho phát triển Mobile", author: "Phương Ly", date: "Mar 14, 2026", views: "87" },
   { slug: "top-10-khoa-hoc-back-end-developer-tot-nhat", title: "Top 10 Khóa Học Back-End Developer Tốt Nhất", image: "/images/migrated/homenest-com-vn/wp-content/uploads/2026/03/22115940/Top-10-Khoa-Hoc-Back-End-Developer-Tot-Nhat.png", imageAlt: "Top 10 Khóa Học Back-End Developer Tốt Nhất", author: "Phương Ly", date: "Mar 14, 2026", views: "50" },
-  { slug: "mot-ngay-lam-viec-cua-mot-backend-engineer-tai-winterfrost", title: "Một ngày làm việc của một Backend Engineer tại Winterfrost", image: "/images/migrated/homenest-com-vn/wp-content/uploads/2026/03/22115915/Ngay-lam-viec-cua-mot-Backend.jpg", imageAlt: "Ngày làm việc của một Backend", author: "Lê Chân", date: "Mar 17, 2026", views: "31" },
+  { slug: "mot-ngay-lam-viec-cua-mot-backend-engineer-tai-softbuild", title: "Một ngày làm việc của một Backend Engineer tại SoftBuild", image: "/images/migrated/homenest-com-vn/wp-content/uploads/2026/03/22115915/Ngay-lam-viec-cua-mot-Backend.jpg", imageAlt: "Ngày làm việc của một Backend", author: "Lê Chân", date: "Mar 17, 2026", views: "31" },
   { slug: "react-native-developer-la-gi-ky-nang-va-mo-ta-cong-viec-react-native", title: "React Native Developer là gì? Kỹ năng và mô tả công việc React Native", image: "/images/migrated/homenest-com-vn/wp-content/uploads/2026/03/22115956/React-Native-Developer-la-gi.png", imageAlt: "React Native Developer là gì", author: "Phương Ly", date: "Mar 12, 2026", views: "25" },
 ];
 
 const posts: Card[] = [
-  { slug: "mot-ngay-lam-viec-cua-ba-tai-winterfrost-viet-nam", title: "Một ngày làm việc của Business Analytics (BA) tại Winterfrost sẽ như thế nào?", image: "/images/people/work-life/mot-ngay-business-analyst-winterfrost.webp", imageAlt: "Một ngày làm việc của Business Analytics", author: "Hữu Trí", date: "Jul 4, 2026", views: "8", description: "Tìm hiểu xem vai trò của BA tại Winterfrost. Khám phá quy trình làm việc, cách giải quyết vấn đề, kinh nghiệm thực chiến và lời khuyên cho người mới." },
-  { slug: "mot-ngay-lam-viec-cua-flutter-developer-se-nhu-the-nao", title: "Một ngày làm việc của Flutter Developer sẽ như thế nào?", image: "/images/people/work-life/mot-ngay-flutter-developer-winterfrost.webp", imageAlt: "Một ngày làm việc của Flutter Developer tại Winterfrost", author: "Lê Chân", date: "Jun 30, 2026", views: "8", description: "Khám phá một ngày làm việc thực tế của Flutter Developer tại Winterfrost. Đọc ngay để nắm bắt quy trình làm việc, cách giải quyết bài toán kinh doanh và những lời khuyên đắt giá cho lĩnh vực IT." },
+  { slug: "mot-ngay-lam-viec-cua-ba-tai-softbuild-viet-nam", title: "Một ngày làm việc của Business Analytics (BA) tại SoftBuild sẽ như thế nào?", image: "/images/people/work-life/mot-ngay-business-analyst-softbuild.webp", imageAlt: "Một ngày làm việc của Business Analytics", author: "Hữu Trí", date: "Jul 4, 2026", views: "8", description: "Tìm hiểu xem vai trò của BA tại SoftBuild. Khám phá quy trình làm việc, cách giải quyết vấn đề, kinh nghiệm thực chiến và lời khuyên cho người mới." },
+  { slug: "mot-ngay-lam-viec-cua-flutter-developer-se-nhu-the-nao", title: "Một ngày làm việc của Flutter Developer sẽ như thế nào?", image: "/images/people/work-life/mot-ngay-flutter-developer-softbuild.webp", imageAlt: "Một ngày làm việc của Flutter Developer tại SoftBuild", author: "Lê Chân", date: "Jun 30, 2026", views: "8", description: "Khám phá một ngày làm việc thực tế của Flutter Developer tại SoftBuild. Đọc ngay để nắm bắt quy trình làm việc, cách giải quyết bài toán kinh doanh và những lời khuyên đắt giá cho lĩnh vực IT." },
   { slug: "lo-trinh-nghe-nghiep-software-engineer-cach-chon-huong-di-phu-hop-voi-ban", title: "Lộ trình nghề nghiệp Software Engineer: Cách chọn hướng đi phù hợp với bạn", image: "/images/migrated/homenest-com-vn/wp-content/uploads/2026/03/22115909/Lo-trinh-nghe-nghiep-Software-Engineer.jpg", imageAlt: "Lộ trình nghề nghiệp Software Engineer", author: "Phương Ly", date: "Mar 17, 2026", views: "19", description: "Lộ trình sự nghiệp của một Software Engineer không có một công thức cố định cho tất cả mọi người. Điều quan trọng không phải là lựa chọn Front-end, Back-end, Mobile, AI hay DevOps ngay từ đầu, mà là không ngừng học hỏi, tích lũy kinh nghiệm thực tế và xây dựng tư duy giải quyết vấn đề. Khi nền tảng kỹ thuật ngày càng vững chắc, bạn sẽ có nhiều cơ hội phát triển theo hướng chuyên gia (Technical Expert), quản lý (Engineering Manager, CTO) hoặc khởi nghiệp với chính những sản phẩm công nghệ của mình. Trong một ngành luôn thay đổi như CNTT, khả năng thích nghi, tinh thần học tập liên tục và sự chính trực trong công việc sẽ là những yếu tố tạo nên lợi thế cạnh tranh và giúp bạn xây dựng một sự nghiệp bền vững trong dài hạn." },
   popular[3],
   popular[1],

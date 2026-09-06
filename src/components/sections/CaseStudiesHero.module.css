@@ -49,7 +49,7 @@
   flex-direction: column;
   align-items: center;
   gap: 10px;
-  font-family: var(--font-Winterfrost), var(--font-manrope), sans-serif;
+  font-family: var(--font-SoftBuild), var(--font-manrope), sans-serif;
   font-weight: 500;
   position: relative;
   z-index: 1;

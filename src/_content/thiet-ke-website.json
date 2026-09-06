@@ -51,27 +51,27 @@
       {
         "title": "Website quản trị doanh nghiệp",
         "desc": "Thiết kế website với các tính năng quản lý khách hàng và nguồn lực nội bộ, được tích hợp thẳng vào website để tối ưu hóa quy trình vận hành.",
-        "image": "/images/services/winterfrost/enterprise-software-development.webp"
+        "image": "/images/services/softbuild/enterprise-software-development.webp"
       },
       {
         "title": "Website tích hợp trí tuệ nhân tạo",
         "desc": "Chuyển đổi mô hình kinh doanh bằng các website tích hợp AI có khả năng tự động hóa và xử lý các vấn đề, giúp nâng cao năng suất và hiệu quả công việc",
-        "image": "/images/services/winterfrost/ai-development.webp"
+        "image": "/images/services/softbuild/ai-development.webp"
       },
       {
         "title": "Website phân tích dữ liệu",
         "desc": "Cung cấp các hệ thống báo cáo và số liệu thực tế ngay trên website giúp nhà quản lý theo dõi hiệu suất kinh doanh một cách chính xác.",
-        "image": "/images/services/winterfrost/devops-development.webp"
+        "image": "/images/services/softbuild/devops-development.webp"
       },
       {
         "title": "Website bán hàng trực tuyến",
         "desc": "Xây dựng nền tảng thương mại điện tử có tốc độ cao và bảo mật tuyệt đối giúp doanh nghiệp mở rộng quy mô kinh doanh.",
-        "image": "/images/services/winterfrost/saas-application-development.webp"
+        "image": "/images/services/softbuild/saas-application-development.webp"
       },
       {
         "title": "Kết nối và đồng bộ hệ thống",
         "desc": "Website của chúng tôi có khả năng liên kết mượt mà với các phần mềm khác để đảm bảo dữ liệu luôn được cập nhật.",
-        "image": "/images/services/winterfrost/custom-software-solutions.webp"
+        "image": "/images/services/softbuild/custom-software-solutions.webp"
       }
     ]
   },
@@ -170,7 +170,7 @@
     "description": "Hãy để SoftBuild giúp bạn xây dựng một website có tốc độ nhanh, bảo mật cao và tối ưu trải nghiệm người dùng để thu hút khách hàng tiềm năng ngay hôm nay.",
     "ctaLabel": "Nhận tư vấn thiết kế ngay",
     "ctaHref": "/lien-he",
-    "image": "/images/people/cta/winterfrost/quan-ly-nam.png"
+    "image": "/images/people/cta/softbuild/quan-ly-nam.png"
   },
   "counter": {
     "badgeText": "Thành tựu của chúng tôi",
@@ -445,7 +445,7 @@
         "slug": "phat-trien-phan-mem-tuy-chinh",
         "title": "Vận hành và bảo trì",
         "desc": "Không chỉ dừng lại ở việc bàn giao mã nguồn mà chúng tôi còn đồng hành dài hạn để giám sát, tối ưu hiệu suất và cập nhật bảo mật định kỳ, giúp hệ thống của doanh nghiệp luôn vận hành ổn định, an toàn và sẵn sàng mở rộng bất cứ lúc nào.",
-        "image": "/images/services/winterfrost/custom-software-solutions.webp",
+        "image": "/images/services/softbuild/custom-software-solutions.webp",
         "href": "/dich-vu/van-hanh-va-bao-tri"
       },
       {

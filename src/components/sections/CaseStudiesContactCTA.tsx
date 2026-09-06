@@ -5,7 +5,7 @@ import { Link } from "@/i18n/routing";
 import { ArrowRight, ArrowUpRight, Copy } from "lucide-react";
 import styles from "./CaseStudiesContactCTA.module.css";
 
-const SIDE_IMAGE = "/images/people/van-phong/van-phong-winterfrost.webp";
+const SIDE_IMAGE = "/images/people/van-phong/van-phong-softbuild.webp";
 
 export function CaseStudiesContactCTA() {
   return (
@@ -37,7 +37,7 @@ export function CaseStudiesContactCTA() {
               <div className={styles.mailHint}>
                 <span>Hoặc gửi mail trực tiếp tới:</span>
                 <strong>
-                  info@winterfrost.tech <Copy size={14} aria-hidden />
+                  contact@softbuild.vn <Copy size={14} aria-hidden />
                 </strong>
               </div>
               <button type="submit" className={styles.submit}>
@@ -53,7 +53,7 @@ export function CaseStudiesContactCTA() {
               <li className={styles.checkItem}>Tư vấn chiến lược rõ ràng.</li>
             </ul>
             <div className={styles.sideImage}>
-              <Image src={SIDE_IMAGE} alt="Winterfrost — Liên hệ tư vấn" fill sizes="(max-width:1024px) 100vw, 600px" />
+              <Image src={SIDE_IMAGE} alt="SoftBuild — Liên hệ tư vấn" fill sizes="(max-width:1024px) 100vw, 600px" />
             </div>
             <Link href="/lien-he" className={styles.sideCta}>
               Đặt lịch tư vấn

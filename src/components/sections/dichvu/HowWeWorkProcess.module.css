@@ -27,7 +27,7 @@
   align-items: center;
   gap: 8px;
   margin: 0;
-  font-family: Winterfrost, -apple-system, system-ui, "Segoe UI", Roboto, Arial, sans-serif;
+  font-family: SoftBuild, -apple-system, system-ui, "Segoe UI", Roboto, Arial, sans-serif;
   font-size: 18px;
   font-weight: 500;
   line-height: 1.2;
@@ -95,7 +95,7 @@
   letter-spacing: -.04em;
   color: #1a3b91;
   margin: 0;
-  font-family: Winterfrost, -apple-system, system-ui, "Segoe UI", Roboto, Arial, sans-serif;
+  font-family: SoftBuild, -apple-system, system-ui, "Segoe UI", Roboto, Arial, sans-serif;
   font-size: 32px;
   font-weight: 500;
   line-height: 1em;

@@ -11,25 +11,25 @@ import { isSupportedLocale, routing, type Locale } from "@/i18n/routing";
 
 type Params = { locale: string; slug: string };
 
-const HERO_IMAGE = "/images/people/tuyen-dung/doi-ngu-winterfrost.webp";
+const HERO_IMAGE = "/images/people/tuyen-dung/doi-ngu-softbuild.webp";
 const PROMO_IMAGE = "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/job-detail-banner.png";
-const CONSULTANT_IMAGE = "/images/people/cta/winterfrost/chuyen-vien-tu-van-viet-nam.png";
+const CONSULTANT_IMAGE = "/images/people/cta/softbuild/chuyen-vien-tu-van-viet-nam.png";
 
 const workLife = [
   {
-    href: "/wiki/cong-viec-cua-tester-tai-winterfrost-viet-nam-se-lam-nhung-gi",
-    title: "Công việc của Tester tại Winterfrost sẽ làm những gì?",
-    description: "Bài viết mang đến góc nhìn chân thực và chuyên sâu về công việc của một Software Tester thông qua nhật ký một ngày làm việc của Nguyễn Quốc Huy và Thục Quyên tại Winterfrost. Vượt ra khỏi định kiến “chỉ dùng thử rồi báo lỗi”, quy trình kiểm thử đòi hỏi sự phân tích kỹ lưỡng từ khâu đọc tài liệu đặc tả, lên kịch bản, đến việc đánh giá hiệu năng và giao diện trên các nền tảng công nghệ đa dạng. Bên cạnh việc phác họa chi tiết cách Tester phối hợp nhịp nhàng cùng Developer và BA để giải quyết bài toán trải nghiệm người dùng, bài viết còn đúc kết những lời khuyên thực tế cho người mới vào nghề và giới thiệu các cơ hội phát triển sự nghiệp hấp dẫn tại Winterfrost.",
-    image: "/images/people/work-life/mot-ngay-kiem-thu-winterfrost.webp",
+    href: "/wiki/cong-viec-cua-tester-tai-softbuild-viet-nam-se-lam-nhung-gi",
+    title: "Công việc của Tester tại SoftBuild sẽ làm những gì?",
+    description: "Bài viết mang đến góc nhìn chân thực và chuyên sâu về công việc của một Software Tester thông qua nhật ký một ngày làm việc của Nguyễn Quốc Huy và Thục Quyên tại SoftBuild. Vượt ra khỏi định kiến “chỉ dùng thử rồi báo lỗi”, quy trình kiểm thử đòi hỏi sự phân tích kỹ lưỡng từ khâu đọc tài liệu đặc tả, lên kịch bản, đến việc đánh giá hiệu năng và giao diện trên các nền tảng công nghệ đa dạng. Bên cạnh việc phác họa chi tiết cách Tester phối hợp nhịp nhàng cùng Developer và BA để giải quyết bài toán trải nghiệm người dùng, bài viết còn đúc kết những lời khuyên thực tế cho người mới vào nghề và giới thiệu các cơ hội phát triển sự nghiệp hấp dẫn tại SoftBuild.",
+    image: "/images/people/work-life/mot-ngay-kiem-thu-softbuild.webp",
     author: "Hữu Trí",
     date: "Jul 13, 2026",
     views: "3",
   },
   {
-    href: "/wiki/mot-ngay-lam-viec-cua-ba-tai-winterfrost-viet-nam",
-    title: "Một ngày làm việc của Business Analytics (BA) tại Winterfrost sẽ như thế nào?",
-    description: "Tìm hiểu xem vai trò của BA tại Winterfrost. Khám phá quy trình làm việc, cách giải quyết vấn đề, kinh nghiệm thực chiến và lời khuyên cho người mới.",
-    image: "/images/people/work-life/mot-ngay-business-analyst-winterfrost.webp",
+    href: "/wiki/mot-ngay-lam-viec-cua-ba-tai-softbuild-viet-nam",
+    title: "Một ngày làm việc của Business Analytics (BA) tại SoftBuild sẽ như thế nào?",
+    description: "Tìm hiểu xem vai trò của BA tại SoftBuild. Khám phá quy trình làm việc, cách giải quyết vấn đề, kinh nghiệm thực chiến và lời khuyên cho người mới.",
+    image: "/images/people/work-life/mot-ngay-business-analyst-softbuild.webp",
     author: "Hữu Trí",
     date: "Jul 4, 2026",
     views: "8",
@@ -37,8 +37,8 @@ const workLife = [
   {
     href: "/wiki/mot-ngay-lam-viec-cua-flutter-developer-se-nhu-the-nao",
     title: "Một ngày làm việc của Flutter Developer sẽ như thế nào?",
-    description: "Khám phá một ngày làm việc thực tế của Flutter Developer tại Winterfrost. Đọc ngay để nắm bắt quy trình làm việc, cách giải quyết bài toán kinh doanh và những lời khuyên đắt giá cho lĩnh vực IT.",
-    image: "/images/people/work-life/mot-ngay-flutter-developer-winterfrost.webp",
+    description: "Khám phá một ngày làm việc thực tế của Flutter Developer tại SoftBuild. Đọc ngay để nắm bắt quy trình làm việc, cách giải quyết bài toán kinh doanh và những lời khuyên đắt giá cho lĩnh vực IT.",
+    image: "/images/people/work-life/mot-ngay-flutter-developer-softbuild.webp",
     author: "Lê Chân",
     date: "Jun 30, 2026",
     views: "8",
@@ -57,8 +57,8 @@ export async function generateMetadata({ params }: { params: Promise<Params> }):
   const job = jobs.find((entry) => entry.slug === slug);
   if (!job) return {};
   return {
-    title: `${job.title} | ${tr("Tuyển dụng Winterfrost")}`,
-    description: `${tr("Tuyển dụng")} ${job.title} ${tr("tại Winterfrost. Hạn nộp hồ sơ: 2026-12-31.")}`,
+    title: `${job.title} | ${tr("Tuyển dụng SoftBuild")}`,
+    description: `${tr("Tuyển dụng")} ${job.title} ${tr("tại SoftBuild. Hạn nộp hồ sơ: 2026-12-31.")}`,
   };
 }
 
@@ -116,7 +116,7 @@ export default async function JobDetailPage({ params }: { params: Promise<Params
               <div className={s.sideItem}><strong>{side[7]}</strong><span>{side[8]}</span></div>
             </div>
             {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img className={s.promoImage} src={PROMO_IMAGE} alt={tr("Khuyến mãi Winterfrost")} />
+            <img className={s.promoImage} src={PROMO_IMAGE} alt={tr("Khuyến mãi SoftBuild")} />
           </aside>
 
           <article className={s.article}>
@@ -130,7 +130,7 @@ export default async function JobDetailPage({ params }: { params: Promise<Params
               <div className={s.wpContent}>{job.blocks.map((block, index) => <JobBlock block={block} key={`${block.type}-${index}`} />)}</div>
               <div className={s.wpContentExtra}>
                 {job.extra.map((block, index) => {
-                  if (index === 1) return <p key={block.text}>{tr("Nộp CV về mail:")} <a href="mailto:careers@winterfrost.tech">careers@winterfrost.tech</a></p>;
+                  if (index === 1) return <p key={block.text}>{tr("Nộp CV về mail:")} <a href="mailto:careers@softbuild.vn">careers@softbuild.vn</a></p>;
                   if (index === 2) return <p key={block.text}>{tr("Hoặc Zalo:")} <a href="https://zalo.me/0971450454">097 145 04 54</a></p>;
                   return <p key={block.text}>{block.text}</p>;
                 })}

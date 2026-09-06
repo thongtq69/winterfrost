@@ -1,4 +1,4 @@
-/* Header pill spec — winterfrost.tech (Header-module__vcZAwq__*) */
+/* Header pill spec — softbuildvn.vercel.app (Header-module__vcZAwq__*) */
 
 .header {
   z-index: 9999999;
@@ -424,7 +424,7 @@
   display: block;
   cursor: pointer;
   overflow: hidden;
-  font-family: var(--font-Winterfrost, var(--font-manrope, sans-serif));
+  font-family: var(--font-SoftBuild, var(--font-manrope, sans-serif));
   color: #0C1E5B;
   line-height: normal;
 }

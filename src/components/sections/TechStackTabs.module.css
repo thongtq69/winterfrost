@@ -1,4 +1,4 @@
-/* TechStack tabs — winterfrost.tech (TechStackSection-module__oJsRUG__*) */
+/* TechStack tabs — softbuildvn.vercel.app (TechStackSection-module__oJsRUG__*) */
 
 .section {
   display: flex;
@@ -28,7 +28,7 @@
   text-align: center;
 }
 .heading h2 {
-  font-family: Winterfrost, var(--font-Winterfrost), sans-serif;
+  font-family: SoftBuild, var(--font-SoftBuild), sans-serif;
   font-size: 60px;
   font-weight: 600;
   line-height: normal;
@@ -131,7 +131,7 @@
   gap: 0;
 }
 .detail .heading h2 {
-  font-family: Winterfrost, -apple-system, system-ui, "Segoe UI", Roboto, Arial, sans-serif;
+  font-family: SoftBuild, -apple-system, system-ui, "Segoe UI", Roboto, Arial, sans-serif;
   font-size: 44px !important;
   font-weight: 500;
   line-height: 1.2 !important;

@@ -10,7 +10,7 @@ import { Logo } from "./Logo";
 import s from "./FloatingHeader.module.css";
 
 const BANNER_SRC =
-  "/images/brand/winterfrost/winterfrost-menu-banner-clean.webp?v=wf-menu-clean-20260727";
+  "/images/brand/softbuild/softbuild-menu-banner-clean.webp?v=wf-menu-clean-20260727";
 
 const SERVICE_TABS = [
   {

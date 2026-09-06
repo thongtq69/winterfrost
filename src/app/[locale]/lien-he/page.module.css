@@ -4,7 +4,7 @@
 .infoCol { min-height: 700.58px; padding: 48px; display: flex; flex-direction: column; border-radius: 0; background: #f4f7fc; }
 .badge { height: 23px; display: flex; align-items: center; gap: 10px; color: #666; font-size: 17px; font-weight: 500; }
 .badge span { width: 8px; height: 8px; border-radius: 50%; background: #5a9de7; }
-.infoCol h1 { margin: 24px 0 0; color: #1a3b91; font-family: Winterfrost, sans-serif; font-size: 40px; font-weight: 600; line-height: 44px; }
+.infoCol h1 { margin: 24px 0 0; color: #1a3b91; font-family: SoftBuild, sans-serif; font-size: 40px; font-weight: 600; line-height: 44px; }
 .description { margin: 24px 0 0; font-size: 18px; line-height: 28.8px; }
 .bulletList { margin: 24px 0 0; padding: 0; display: flex; flex-direction: column; gap: 16px; list-style: none; font-size: 18px; }
 .bulletList li { display: flex; align-items: flex-start; gap: 12.6px; line-height: 27px; }
@@ -15,7 +15,7 @@
 .contactDetails svg { width: 20px; height: 20px; color: #68a0e2; stroke-width: 1.8; }
 .formCol { min-height: 700.58px; padding: 20px 0; }
 .formCol > img { display: block; width: 140.65px; height: 40px; object-fit: contain; object-position: left center; }
-.formCol h2 { margin: 29px 0 32px; color: #1a3b91; font-family: Winterfrost, sans-serif; font-size: 24px; font-weight: 500; line-height: 28.8px; }
+.formCol h2 { margin: 29px 0 32px; color: #1a3b91; font-family: SoftBuild, sans-serif; font-size: 24px; font-weight: 500; line-height: 28.8px; }
 .formCol form { position: relative; }
 .formRow { height: 76.6px; display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; }
 .formRow + .formRow { margin-top: 24px; }

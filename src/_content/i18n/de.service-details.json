@@ -52,27 +52,27 @@
         {
           "title": "Website für Betriebswirtschaftslehre",
           "desc": "Website-Design mit Kunden- und internen Ressourcenmanagementfunktionen, direkt in die Website integriert, um Betriebsprozesse zu optimieren.",
-          "image": "/images/services/winterfrost/enterprise-software-development.webp"
+          "image": "/images/services/softbuild/enterprise-software-development.webp"
         },
         {
           "title": "Mit künstlicher Intelligenz integrierte Website",
           "desc": "Transformieren Sie Geschäftsmodelle mit KI-integrierten Websites, die in der Lage sind, Probleme zu automatisieren und zu lösen und so zur Verbesserung der Produktivität und Arbeitseffizienz beizutragen.",
-          "image": "/images/services/winterfrost/ai-development.webp"
+          "image": "/images/services/softbuild/ai-development.webp"
         },
         {
           "title": "Website zur Datenanalyse",
           "desc": "Durch die Bereitstellung von Berichtssystemen und tatsächlichen Daten direkt auf der Website können Manager die Geschäftsleistung genau überwachen.",
-          "image": "/images/services/winterfrost/devops-development.webp"
+          "image": "/images/services/softbuild/devops-development.webp"
         },
         {
           "title": "Online-Verkaufswebsite",
           "desc": "Der Aufbau einer E-Commerce-Plattform mit hoher Geschwindigkeit und absoluter Sicherheit hilft Unternehmen, ihren Geschäftsumfang zu erweitern.",
-          "image": "/images/services/winterfrost/saas-application-development.webp"
+          "image": "/images/services/softbuild/saas-application-development.webp"
         },
         {
           "title": "Verbinden und synchronisieren Sie das System",
           "desc": "Unsere Website kann nahtlos mit anderer Software verknüpft werden, um sicherzustellen, dass die Daten immer aktualisiert sind.",
-          "image": "/images/services/winterfrost/custom-software-solutions.webp"
+          "image": "/images/services/softbuild/custom-software-solutions.webp"
         }
       ]
     },
@@ -171,7 +171,7 @@
       "description": "Lassen Sie sich von SoftBuild dabei unterstützen, eine schnelle, hochsichere Website zu erstellen und das Benutzererlebnis zu optimieren, um noch heute potenzielle Kunden anzulocken.",
       "ctaLabel": "Holen Sie sich jetzt eine Designberatung",
       "ctaHref": "/lien-he",
-      "image": "/images/people/cta/winterfrost/quan-ly-nam.png"
+      "image": "/images/people/cta/softbuild/quan-ly-nam.png"
     },
     "counter": {
       "badgeText": "Unsere Erfolge",
@@ -446,7 +446,7 @@
           "slug": "phat-trien-phan-mem-tuy-chinh",
           "title": "Betrieb und Wartung",
           "desc": "Wir beschränken uns nicht nur auf die Übergabe des Quellcodes, sondern bieten auch eine langfristige Begleitung bei der Überwachung, Optimierung der Leistung und regelmäßigen Sicherheitsaktualisierungen, damit das System des Unternehmens stets stabil, sicher und jederzeit erweiterungsfähig ist.",
-          "image": "/images/services/winterfrost/custom-software-solutions.webp",
+          "image": "/images/services/softbuild/custom-software-solutions.webp",
           "href": "/dich-vu/van-hanh-va-bao-tri"
         },
         {
@@ -514,7 +514,7 @@
       "titleLight": "DevOps",
       "description": "SoftBuild entwirft eine flexible Cloud-Infrastruktur, standardisiert CI/CD und stellt DevSecOps-Lösungen bereit, um Unternehmen dabei zu helfen, Produktveröffentlichungen zu verkürzen und einen reibungslosen Systembetrieb auf allen Ebenen sicherzustellen.",
       "bgImage": "/images/migrated/homenest-software/wp-content/uploads/2026/03/Web-app-development.jpg",
-      "dashboardImage": "/images/services/winterfrost/web-application-development.webp"
+      "dashboardImage": "/images/services/softbuild/web-application-development.webp"
     },
     "solution": {
       "headlineLight": "Wichtige Werte",
@@ -559,27 +559,27 @@
         {
           "title": "CI/CD einrichten und verwalten",
           "desc": "Automatisieren Sie die Quellcode-Integration und den Produktfreigabeprozess vollständig. Das System stellt sicher, dass jedes Update automatisch überprüft und in die Betriebsumgebung übertragen wird, ohne dass ein manueller Eingriff erforderlich ist.",
-          "image": "/images/services/winterfrost/enterprise-software-development.webp"
+          "image": "/images/services/softbuild/enterprise-software-development.webp"
         },
         {
           "title": "Infrastruktur mit Code verwalten",
           "desc": "Verwenden Sie Tools wie Terraform oder Ansible, um Server per Code einzurichten und zu verwalten. Dieser Ansatz trägt dazu bei, völlig identische Umgebungen zu erstellen, Konfigurationsfehler zu minimieren und eine sofortige Systemwiederherstellung zu ermöglichen.",
-          "image": "/images/services/winterfrost/ai-development.webp"
+          "image": "/images/services/softbuild/ai-development.webp"
         },
         {
           "title": "Optimieren Sie die Cloud-Computing-Infrastruktur",
           "desc": "Richten Sie Ressourcen auf Cloud-Computing-Plattformen ein, konfigurieren und optimieren Sie sie. Wir konzentrieren uns auf die Optimierung der Serverleistung, um die Anwendungsanforderungen genau zu erfüllen und gleichzeitig unnötige Ressourcenkosten zu reduzieren.",
-          "image": "/images/services/winterfrost/devops-development.webp"
+          "image": "/images/services/softbuild/devops-development.webp"
         },
         {
           "title": "Standardisieren und automatisieren Sie Abläufe",
           "desc": "Verwenden Sie Verpackungstechnologie, um sicherzustellen, dass sich die Anwendung auf allen Servern gleich verhält. Kombinieren Sie es mit einem automatisierten Verwaltungssystem, um Anwendungszustandsprüfungen zu automatisieren, bei Problemen automatisch neu zu starten und Ressourcen sofort an den Datenverkehr anzupassen.",
-          "image": "/images/services/winterfrost/saas-application-development.webp"
+          "image": "/images/services/softbuild/saas-application-development.webp"
         },
         {
           "title": "Systemüberwachung und Protokollanalyse",
           "desc": "Stellen Sie Systeme zur Überwachung des Server- und Anwendungszustands in Echtzeit bereit. Alle Parameter zu CPU, RAM, Bandbreite und Fehlerprotokollen werden visuell zusammengefasst und helfen so, Risiken einer Dienstunterbrechung rechtzeitig zu erkennen und schnell zu beheben.",
-          "image": "/images/services/winterfrost/custom-software-solutions.webp"
+          "image": "/images/services/softbuild/custom-software-solutions.webp"
         }
       ]
     },
@@ -678,7 +678,7 @@
       "description": "Wenn ein Unternehmen ein System benötigt, das kontinuierlich und sicher arbeitet, entwirft SoftBuild einen umfassenden Sicherheits- und Überwachungsprozess für die Infrastruktur. Diese Lösung trägt dazu bei, Fehler frühzeitig zu erkennen und das Risiko einer Serviceunterbrechung zu verhindern.",
       "ctaLabel": "Holen Sie sich DevOps-Beratung",
       "ctaHref": "/lien-he",
-      "image": "/images/people/cta/winterfrost/nhan-vien-cong-nghe-tre.png"
+      "image": "/images/people/cta/softbuild/nhan-vien-cong-nghe-tre.png"
     },
     "counter": {
       "badgeText": "Unsere Erfolge",
@@ -1000,7 +1000,7 @@
       "titleLight": "IoT-Entwicklung",
       "description": "SoftBuild bietet umfassende IoT-Lösungen, einschließlich eingebetteter Firmware-Programmierung, Einrichtung von Endpunktgeräten und Erstellung von Cloud-Dashboards sowie intelligenten Datenanalysesystemen.",
       "bgImage": "/images/migrated/homenest-software/wp-content/uploads/2026/03/Web-app-development.jpg",
-      "dashboardImage": "/images/services/winterfrost/web-application-development.webp"
+      "dashboardImage": "/images/services/softbuild/web-application-development.webp"
     },
     "solution": {
       "headlineLight": "Wert ausgeführt von",
@@ -1045,27 +1045,27 @@
         {
           "title": "Programmieren von Firmware und eingebetteten Geräten",
           "desc": "Entwerfen und entwickeln Sie Code für Mikrocontroller, um sicherzustellen, dass das Gerät so effizient wie möglich arbeitet, Strom spart und Aufgaben vor Ort optimal erledigt.",
-          "image": "/images/services/winterfrost/enterprise-software-development.webp"
+          "image": "/images/services/softbuild/enterprise-software-development.webp"
         },
         {
           "title": "Rechnen Sie am Rande",
           "desc": "Stellen Sie Knoten in der Nähe des Datenerfassungsstandorts für die Verarbeitung vor Ort bereit. Dies reduziert die Belastung der Cloud-Infrastruktur, reduziert die Latenz und stellt sicher, dass das System auch ohne Internetverbindung weiter funktioniert.",
-          "image": "/images/services/winterfrost/ai-development.webp"
+          "image": "/images/services/softbuild/ai-development.webp"
         },
         {
           "title": "Zentralisierte IoT-Verwaltungsplattform",
           "desc": "Erstellen Sie eine Cloud-Infrastruktur, um den Gerätelebenszyklus zu verwalten, große Datenmengen zu speichern und Informationen zwischen Teilen des Systems zu koordinieren.",
-          "image": "/images/services/winterfrost/devops-development.webp"
+          "image": "/images/services/softbuild/devops-development.webp"
         },
         {
           "title": "Intuitives Bedienfeld",
           "desc": "Entwickeln Sie Dashboards, die Sensorparameter in Echtzeit visuell anzeigen und Managern dabei helfen, Geräte einfach aus der Ferne zu überwachen und zu steuern.",
-          "image": "/images/services/winterfrost/saas-application-development.webp"
+          "image": "/images/services/softbuild/saas-application-development.webp"
         },
         {
           "title": "Integration von KI in IoT",
           "desc": "Integrieren Sie Modelle der künstlichen Intelligenz, um Sensordaten umfassend zu analysieren, Verhalten zu erkennen und automatisch intelligente Steuerungsentscheidungen zu treffen.",
-          "image": "/images/services/winterfrost/custom-software-solutions.webp"
+          "image": "/images/services/softbuild/custom-software-solutions.webp"
         }
       ]
     },
@@ -1170,7 +1170,7 @@
       "description": "Wenn Ihr Unternehmen Anlagen überwachen oder Produktionslinien automatisieren muss, hilft Ihnen die Lösung von SoftBuild dabei. Das System stellt sicher, dass Daten kontinuierlich, sicher und einfach analysiert werden, um Geschäftsentscheidungen zu treffen.",
       "ctaLabel": "Starten Sie jetzt Ihr IoT-Projekt",
       "ctaHref": "/lien-he",
-      "image": "/images/people/cta/winterfrost/chuyen-vien-nu.png"
+      "image": "/images/people/cta/softbuild/chuyen-vien-nu.png"
     },
     "counter": {
       "badgeText": "Unsere Erfolge",
@@ -1492,7 +1492,7 @@
       "titleLight": "Blockchain",
       "description": "SoftBuild bietet umfassende Blockchain-Entwicklungsdienste, einschließlich Netzwerkarchitekturdesign, Smart-Contract-Programmierung, Web3-Internetentwicklung der neuen Generation und Implementierung dezentraler DApp-Anwendungen auf vielen verschiedenen Plattformen.",
       "bgImage": "/images/migrated/homenest-software/wp-content/uploads/2026/03/Web-app-development.jpg",
-      "dashboardImage": "/images/services/winterfrost/web-application-development.webp"
+      "dashboardImage": "/images/services/softbuild/web-application-development.webp"
     },
     "solution": {
       "headlineLight": "Herausragende Vorteile von",
@@ -1537,27 +1537,27 @@
         {
           "title": "Entwicklung intelligenter Verträge",
           "desc": "Programmieren Sie selbstausführende Verträge in Netzwerken wie Ethereum oder Solana. Führen Sie Quellcode-Audits durch, um die Gaskosten zu minimieren und sicherzustellen, dass Sicherheitsprobleme vollständig vermieden werden.",
-          "image": "/images/services/winterfrost/enterprise-software-development.webp"
+          "image": "/images/services/softbuild/enterprise-software-development.webp"
         },
         {
           "title": "Dezentrale DApp-Anwendung",
           "desc": "Erstellen Sie vollständige Web3-Anwendungen und verbinden Sie die Benutzeroberfläche und die Blockchain-Infrastruktur nahtlos über spezielle Bibliotheken und E-Wallets.",
-          "image": "/images/services/winterfrost/ai-development.webp"
+          "image": "/images/services/softbuild/ai-development.webp"
         },
         {
           "title": "DeFi- und NFT-Lösungen",
           "desc": "Implementierung dezentraler Finanzprotokolle und eines NFT-Marktplatz-Ökosystems gemäß den Standards der Token-Industrie.",
-          "image": "/images/services/winterfrost/devops-development.webp"
+          "image": "/images/services/softbuild/devops-development.webp"
         },
         {
           "title": "Krypto-Wallets und Zahlungsgateways",
           "desc": "Integriertes, nicht verwahrtes Wallet und Zahlungsgateway für digitale Multi-Chain-Assets. Verwendet einen Mehrparteien-Signaturmechanismus für maximale Sicherheit privater Schlüssel.",
-          "image": "/images/services/winterfrost/saas-application-development.webp"
+          "image": "/images/services/softbuild/saas-application-development.webp"
         },
         {
           "title": "Unternehmens-Blockchain",
           "desc": "Entwerfen Sie ein internes Netzwerk für Supply Chain Management und Finanzen. Sorgen Sie für Datentransparenz und kontrollieren Sie dennoch die internen Zugriffsrechte streng.",
-          "image": "/images/services/winterfrost/custom-software-solutions.webp"
+          "image": "/images/services/softbuild/custom-software-solutions.webp"
         }
       ]
     },
@@ -1656,7 +1656,7 @@
       "description": "Wenn Sie eine absolut sichere Transaktionsmanagementplattform ohne Zwischenhändler benötigen, lassen Sie sich von SoftBuild unterstützen. Wir bieten umfassende Programmierdienstleistungen, die den modernen technischen Standards vollständig entsprechen und die Möglichkeit einer flexiblen Erweiterung je nach Projektumfang bieten.",
       "ctaLabel": "Holen Sie sich Blockchain-Beratung",
       "ctaHref": "/lien-he",
-      "image": "/images/people/cta/winterfrost/quan-ly-nam.png"
+      "image": "/images/people/cta/softbuild/quan-ly-nam.png"
     },
     "counter": {
       "badgeText": "Unsere Erfolge",
@@ -2127,7 +2127,7 @@
       "description": "Zeitersparnis bei der Datenverarbeitung und die Automatisierung sich wiederholender Prozesse sind die wahren Vorteile, die die KI-Lösung von SoftBuild mit sich bringt. Wir helfen Ihrem Unternehmen, durch genaue Analyse- und Prognosesysteme intelligenter zu arbeiten.",
       "ctaLabel": "Lassen Sie sich zu KI-Lösungen beraten",
       "ctaHref": "/lien-he",
-      "image": "/images/people/cta/winterfrost/chuyen-vien-nam-tre.png"
+      "image": "/images/people/cta/softbuild/chuyen-vien-nam-tre.png"
     },
     "counter": {
       "badgeText": "Unsere Erfolge",
@@ -2366,7 +2366,7 @@
           "slug": "phat-trien-ung-dung-saas",
           "title": "Entwicklung von SaaS-Anwendungen",
           "desc": "Erstellen Sie Software-as-a-Service-Plattformen mit mandantenfähiger Architektur und flexibler Skalierbarkeit. Wir unterstützen Unternehmen bei der Optimierung ihrer Cloud-Infrastruktur und der Entwicklung von Geschäftsmodellen, die nachhaltige, wiederkehrende Einnahmen liefern.",
-          "image": "/images/services/winterfrost/generative-ai-integration.webp",
+          "image": "/images/services/softbuild/generative-ai-integration.webp",
           "href": "/dich-vu/phat-trien-ung-dung-saas"
         },
         {
@@ -2572,7 +2572,7 @@
       "description": "SoftBuild hilft Unternehmen dabei, die Idee einer stabilen und einfach zu verwaltenden Servicesoftware auf der Cloud-Plattform zu verwirklichen. Wir konzentrieren uns auf den Aufbau einer starken technischen Infrastruktur, die es Unternehmen ermöglicht, eine große Anzahl von Kunden gleichzeitig zu bedienen und gleichzeitig eine schnelle Zugriffsgeschwindigkeit und optimale Leistung sicherzustellen.",
       "ctaLabel": "Starten Sie jetzt Ihr SaaS-Projekt",
       "ctaHref": "/lien-he",
-      "image": "/images/people/cta/winterfrost/chuyen-vien-nu.png"
+      "image": "/images/people/cta/softbuild/chuyen-vien-nu.png"
     },
     "counter": {
       "badgeText": "Unsere Erfolge",
@@ -3010,7 +3010,7 @@
       "description": "SoftBuild entwickelt IOS- und Android-Anwendungen, die schnell, sicher und einfach zu verwenden sind. Diese Lösung hilft Ihnen, jederzeit und überall präsent zu bleiben und mit Kunden zu interagieren.",
       "ctaLabel": "Lassen Sie sich zum App-Design beraten",
       "ctaHref": "/lien-he",
-      "image": "/images/people/cta/winterfrost/nhan-vien-cong-nghe-tre.png"
+      "image": "/images/people/cta/softbuild/nhan-vien-cong-nghe-tre.png"
     },
     "counter": {
       "badgeText": "Unsere Erfolge",
@@ -3250,21 +3250,21 @@
           "slug": "thiet-ke-website",
           "title": "Professionelles Website-Design",
           "desc": "Wir erstellen die entsprechende Webversion Ihrer mobilen App unter Verwendung derselben Kerndatenschicht und desselben Verwaltungssystems. Diese Lösung trägt dazu bei, dass Ihr Produkt auf allen Plattformen und Geräten, die Ihre Benutzer verwenden, reibungslos und konsistent läuft.",
-          "image": "/images/services/winterfrost/web-application-development.webp",
+          "image": "/images/services/softbuild/web-application-development.webp",
           "href": "/dich-vu/thiet-ke-website"
         },
         {
           "slug": "phat-trien-phan-mem-doanh-nghiep",
           "title": "Entwicklung von Unternehmenssoftware",
           "desc": "Bauen Sie eine Sicherheitssystemstruktur mit hoher Tragfähigkeit speziell für Großoperationen auf. Diese Lösung umfasst umfassende Datenkonnektivität und strenge Verpflichtungen zur Servicequalität.",
-          "image": "/images/services/winterfrost/enterprise-software-development.webp",
+          "image": "/images/services/softbuild/enterprise-software-development.webp",
           "href": "/dich-vu/phat-trien-phan-mem-doanh-nghiep"
         },
         {
           "slug": "van-hanh-va-bao-tri",
           "title": "Betriebs- und Wartungsservice",
           "desc": "Seien Sie nach dem Start Ihrer App für Sie da, um die Kompatibilität mit neuen Betriebssystem-Updates, eine zeitnahe Fehlerbehebung und kontinuierliche Leistungsverbesserungen sicherzustellen. Wir helfen Ihrer App dabei, hohe Bewertungen in App Stores zu behalten und Nutzer effektiv zu binden.",
-          "image": "/images/services/winterfrost/software-maintenance-and-support.webp",
+          "image": "/images/services/softbuild/software-maintenance-and-support.webp",
           "href": "/dich-vu/van-hanh-va-bao-tri"
         }
       ]
@@ -3450,7 +3450,7 @@
       "description": "SoftBuild bietet fortlaufende Überwachungs-, Aktualisierungs- und Fehlerbehebungsdienste. Wir sorgen dafür, dass Ihr System während des gesamten Geschäftsprozesses stets sicher, genau und unterbrechungsfrei arbeitet.",
       "ctaLabel": "Holen Sie sich Wartungsratschläge",
       "ctaHref": "/lien-he",
-      "image": "/images/people/cta/winterfrost/quan-ly-nam.png"
+      "image": "/images/people/cta/softbuild/quan-ly-nam.png"
     },
     "counter": {
       "badgeText": "Unsere Erfolge",
@@ -3670,21 +3670,21 @@
           "slug": "phat-trien-phan-mem-doanh-nghiep",
           "title": "Entwicklung von Unternehmenssoftware",
           "desc": "Modernisieren Sie den Geschäftsbetrieb mit umfassenden Management- und Sicherheitslösungen auf höchstem Niveau. Wir bauen maßgeschneiderte ERP- und CRM-Systeme, die dabei helfen, umfassende Daten zu synchronisieren und Betriebsprozesse für Großunternehmen zu optimieren.",
-          "image": "/images/services/winterfrost/enterprise-software-development.webp",
+          "image": "/images/services/softbuild/enterprise-software-development.webp",
           "href": "/dich-vu/phat-trien-phan-mem-doanh-nghiep"
         },
         {
           "slug": "phat-trien-devops",
           "title": "DevOps-Entwicklungsdienste",
           "desc": "Erstellen Sie zusätzliche Funktionsmodule oder gestalten Sie die Architektur neu, wenn sich der Geschäftsumfang ändert. Wir stellen sicher, dass der Übergang von der Wartung zur Neuentwicklung nahtlos verläuft.",
-          "image": "/images/services/winterfrost/devops-development.webp",
+          "image": "/images/services/softbuild/devops-development.webp",
           "href": "/dich-vu/phat-trien-devops"
         },
         {
           "slug": "phat-trien-ai",
           "title": "KI-Entwicklung",
           "desc": "Verbessern Sie bestehende Systeme durch die Integration separater Modelle der künstlichen Intelligenz. Von der Prozessautomatisierung bis hin zur prädiktiven Datenanalyse helfen wir Unternehmen, auf der Grundlage der verfügbaren Daten einen absoluten Wettbewerbsvorteil zu erzielen.",
-          "image": "/images/services/winterfrost/ai-development.webp",
+          "image": "/images/services/softbuild/ai-development.webp",
           "href": "/dich-vu/phat-trien-ai"
         }
       ]
@@ -3873,7 +3873,7 @@
       "description": "Bereit zur Konvertierung manueller Prozesse und fragmentierter Daten in ein zentralisiertes Verwaltungssystem. Lassen Sie sich von SoftBuild beim Aufbau einer maßgeschneiderten ERP/CRM-Plattform unterstützen, die eine absolute Datensynchronisierung und dauerhafte Eigentümerschaft des Quellcodes gewährleistet.",
       "ctaLabel": "Erhalten Sie umgehend eine Lösungsberatung",
       "ctaHref": "/lien-he",
-      "image": "/images/people/cta/winterfrost/chuyen-vien-nam-tre.png"
+      "image": "/images/people/cta/softbuild/chuyen-vien-nam-tre.png"
     },
     "counter": {
       "badgeText": "Unsere Erfolge",
@@ -4334,7 +4334,7 @@
       "description": "SoftBuild hilft Unternehmen dabei, Kernsoftwareversionen zu optimalen Kosten zu erstellen. Wir konzentrieren uns auf die wichtigsten Funktionen, damit Unternehmen Ideen testen und sofort echtes Feedback von Benutzern erhalten können.",
       "ctaLabel": "MVP-Projekt starten",
       "ctaHref": "/lien-he",
-      "image": "/images/people/cta/winterfrost/chuyen-vien-nu.png"
+      "image": "/images/people/cta/softbuild/chuyen-vien-nu.png"
     },
     "counter": {
       "badgeText": "Unsere Erfolge",
@@ -4700,27 +4700,27 @@
         {
           "title": "IT-Managed Services",
           "desc": "Verwalten und betreiben Sie die gesamte IT-Infrastruktur, von Servern über interne Netzwerke bis hin zu Personalterminals.",
-          "image": "/images/services/winterfrost/enterprise-software-development.webp"
+          "image": "/images/services/softbuild/enterprise-software-development.webp"
         },
         {
           "title": "Softwarewartung und -Upgrades",
           "desc": "Stellen Sie sicher, dass ERP-, CRM- und LMS-Unternehmenssoftwaresysteme stets stabil funktionieren, aktualisieren Sie Funktionen und beheben Sie Sicherheitsfehler regelmäßig.",
-          "image": "/images/services/winterfrost/ai-development.webp"
+          "image": "/images/services/softbuild/ai-development.webp"
         },
         {
           "title": "Design und Integration der Cloud-Infrastruktur",
           "desc": "Verschieben und verwalten Sie Daten auf Cloud-Computing-Plattformen mit Hochlastarchitektur und optimierten Speicherkosten.",
-          "image": "/images/services/winterfrost/devops-development.webp"
+          "image": "/images/services/softbuild/devops-development.webp"
         },
         {
           "title": "Setzen Sie spezielle Technologie ein",
           "desc": "Integrieren Sie Datenerfassungssensoren für die Landwirtschaft oder transparente Rückverfolgbarkeitssysteme für die Produktion.",
-          "image": "/images/services/winterfrost/saas-application-development.webp"
+          "image": "/images/services/softbuild/saas-application-development.webp"
         },
         {
           "title": "Systemsicherheit und Auditierung",
           "desc": "Bewerten Sie Cybersicherheitsschwachstellen und etablieren Sie technische Inspektionsprozesse gemäß speziellen Standards wie CO/CQ für Innenräume.",
-          "image": "/images/services/winterfrost/custom-software-solutions.webp"
+          "image": "/images/services/softbuild/custom-software-solutions.webp"
         }
       ]
     },
@@ -4825,7 +4825,7 @@
       "description": "Bleiben Sie nicht bei der regulären Automatisierung stehen. Werden Sie Teil von SoftBuild und entdecken Sie die Leistungsfähigkeit von Daten zur Erstellung einzigartiger KI-Modelle, die Ihrem Unternehmen zu einem absoluten Wettbewerbsvorteil auf dem Markt verhelfen.",
       "ctaLabel": "Erstellen Sie jetzt Ihre KI-Roadmap",
       "ctaHref": "/lien-he",
-      "image": "/images/people/cta/winterfrost/chuyen-vien-tu-van-viet-nam.png"
+      "image": "/images/people/cta/softbuild/chuyen-vien-tu-van-viet-nam.png"
     },
     "counter": {
       "badgeText": "Unsere Erfolge",
@@ -5047,21 +5047,21 @@
           "slug": "phat-trien-phan-mem-doanh-nghiep",
           "title": "ENTWICKLUNG VON UNTERNEHMENSSOFTWARE",
           "desc": "Programmieren Sie spezialisierte ERP-, CRM- oder EdTech-Systeme, um sicherzustellen, dass diese Geschäftsanwendungen stabil funktionieren und Daten in der gesamten IT-Infrastruktur des Unternehmens synchronisieren.",
-          "image": "/images/services/winterfrost/enterprise-software-development.webp",
+          "image": "/images/services/softbuild/enterprise-software-development.webp",
           "href": "/dich-vu/phat-trien-phan-mem-doanh-nghiep"
         },
         {
           "slug": "phat-trien-iot",
           "title": "IOT-ENTWICKLUNG",
           "desc": "Verbinden Sie Sensorsysteme und Hardwaregeräte mit dem zentralen IT-Netzwerk, um Daten automatisch zu sammeln und so die Echtzeitüberwachung von Produktions- und Agrarprozessen zu unterstützen.",
-          "image": "/images/services/winterfrost/iot-development.webp",
+          "image": "/images/services/softbuild/iot-development.webp",
           "href": "/dich-vu/phat-trien-iot"
         },
         {
           "slug": "phat-trien-blockchain",
           "title": "BLOCKCHAIN-ENTWICKLUNG",
           "desc": "Bereitstellung von Rückverfolgbarkeitslösungen und Authentifizierung technischer CO/CQ-Standards, Aufbau einer transparenten Datenschicht und Verbesserung der Sicherheit für Unternehmens-IT-Systeme.",
-          "image": "/images/services/winterfrost/blockchain-development.webp",
+          "image": "/images/services/softbuild/blockchain-development.webp",
           "href": "/dich-vu/phat-trien-blockchain"
         }
       ]
@@ -5163,27 +5163,27 @@
         {
           "title": "Digitalisierungsstrategie und Roadmap",
           "desc": "Bewerten Sie den aktuellen Zustand der IT-Infrastruktur und erfassen Sie tatsächliche Betriebsabläufe. Erstellen Sie eine Liste der Elemente, die bei der Konvertierung priorisiert werden müssen, um das Budget zu optimieren und die technische Machbarkeit sicherzustellen.",
-          "image": "/images/services/winterfrost/enterprise-software-development.webp"
+          "image": "/images/services/softbuild/enterprise-software-development.webp"
         },
         {
           "title": "Modernisieren und integrieren Sie Altsysteme",
           "desc": "Aktualisieren Sie veraltete Software und erstellen Sie ein API-Gateway-System. Dieser Dienst hilft bei der Synchronisierung von Daten zwischen alten Plattformen und neuer Technologie und sorgt so für einen reibungslosen, unterbrechungsfreien Informationsfluss.",
-          "image": "/images/services/winterfrost/ai-development.webp"
+          "image": "/images/services/softbuild/ai-development.webp"
         },
         {
           "title": "Separate Softwareentwicklung",
           "desc": "Programmierung spezialisierter Managementsysteme ERP, CRM, LMS entsprechend den tatsächlichen Geschäftsprozessen des Unternehmens. Wir entwickeln unsere eigenen Lösungen, die perfekt zu Ihren tatsächlichen Anforderungen passen, anstatt vorgefertigte Software zu verwenden.",
-          "image": "/images/services/winterfrost/devops-development.webp"
+          "image": "/images/services/softbuild/devops-development.webp"
         },
         {
           "title": "Integration von Hochtechnologie",
           "desc": "Installieren Sie IoT-Sensoren, um automatische Produktionsdaten zu erfassen, wenden Sie KI bei der Analyse von Prognoseberichten an und nutzen Sie Blockchain, um die Transparenz von Lieferkettendaten zu authentifizieren.",
-          "image": "/images/services/winterfrost/saas-application-development.webp"
+          "image": "/images/services/softbuild/saas-application-development.webp"
         },
         {
           "title": "Konvertierung und Verwaltung",
           "desc": "Führen Sie die gesamte Datenmigration zu Cloud-Plattformen durch. Richten Sie eine Serverarchitektur ein, die die Last automatisch ausgleicht und so einen kontinuierlichen Systembetrieb rund um die Uhr und absolute Sicherheit gewährleistet.",
-          "image": "/images/services/winterfrost/custom-software-solutions.webp"
+          "image": "/images/services/softbuild/custom-software-solutions.webp"
         }
       ]
     },
@@ -5288,7 +5288,7 @@
       "description": "Bleiben Sie nicht bei der regulären Automatisierung stehen. Werden Sie Teil von SoftBuild und entdecken Sie die Leistungsfähigkeit von Daten zur Erstellung einzigartiger KI-Modelle, die Ihrem Unternehmen zu einem absoluten Wettbewerbsvorteil auf dem Markt verhelfen.",
       "ctaLabel": "Erstellen Sie jetzt Ihre KI-Roadmap",
       "ctaHref": "/lien-he",
-      "image": "/images/people/cta/winterfrost/chuyen-vien-tu-van-viet-nam.png"
+      "image": "/images/people/cta/softbuild/chuyen-vien-tu-van-viet-nam.png"
     },
     "counter": {
       "badgeText": "Unsere Erfolge",
@@ -5510,21 +5510,21 @@
           "slug": "phat-trien-phan-mem-doanh-nghiep",
           "title": "ENTWICKLUNG VON UNTERNEHMENSSOFTWARE",
           "desc": "Entwerfen und programmieren Sie spezialisierte interne Managementsysteme, die dabei helfen, die Roadmap für die digitale Transformation für Abläufe wie Kundenbeziehungsmanagement, Ressourcenmanagement und Personalmanagement auf einer einzigen Plattform zu konkretisieren.",
-          "image": "/images/services/winterfrost/enterprise-software-development.webp",
+          "image": "/images/services/softbuild/enterprise-software-development.webp",
           "href": "/dich-vu/phat-trien-phan-mem-doanh-nghiep"
         },
         {
           "slug": "phat-trien-iot",
           "title": "IOT-ENTWICKLUNG",
           "desc": "Für produzierende oder landwirtschaftliche Unternehmen, die Daten aus dem Feld digitalisieren möchten. Wir verbinden Hardwaregeräte und Sensoren mit dem zentralen Managementsystem, um Betriebsdaten automatisch in Echtzeit zu erfassen.",
-          "image": "/images/services/winterfrost/iot-development.webp",
+          "image": "/images/services/softbuild/iot-development.webp",
           "href": "/dich-vu/phat-trien-iot"
         },
         {
           "slug": "phat-trien-blockchain",
           "title": "BLOCKCHAIN-ENTWICKLUNG",
           "desc": "Digitalisieren Sie die Rückverfolgbarkeit und machen Sie Transaktionsdaten transparent. Dieser Service eignet sich besonders für Unternehmen, die Produktqualitätsstandards (CO/CQ) oder geschlossene Produktionsprozesse authentifizieren müssen.",
-          "image": "/images/services/winterfrost/blockchain-development.webp",
+          "image": "/images/services/softbuild/blockchain-development.webp",
           "href": "/dich-vu/phat-trien-blockchain"
         }
       ]

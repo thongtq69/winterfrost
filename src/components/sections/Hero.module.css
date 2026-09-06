@@ -1,4 +1,4 @@
-/* Hero — 1:1 spec from winterfrost.tech (Hero-module__lZfp5q__*) */
+/* Hero — 1:1 spec from softbuildvn.vercel.app (Hero-module__lZfp5q__*) */
 
 .heroSection {
   background-color: #000;
@@ -83,7 +83,7 @@
   color: #fff;
   letter-spacing: -0.02em;
   margin: 0;
-  font-family: Winterfrost, var(--font-Winterfrost, var(--font-manrope, sans-serif));
+  font-family: SoftBuild, var(--font-SoftBuild, var(--font-manrope, sans-serif));
   font-size: clamp(60px, 7.5vw, 64px);
   font-weight: 800;
   line-height: 1;
@@ -335,7 +335,7 @@
   color: #fff;
   text-transform: uppercase;
   margin: 0;
-  font-family: Winterfrost, var(--font-Winterfrost, var(--font-manrope, sans-serif));
+  font-family: SoftBuild, var(--font-SoftBuild, var(--font-manrope, sans-serif));
   font-size: 54px;
   font-weight: 700;
   line-height: 1.2;

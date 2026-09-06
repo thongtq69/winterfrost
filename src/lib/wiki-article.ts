@@ -1,7 +1,7 @@
-import { winterfrostWiki } from "@/lib/wiki-content";
+import { softbuildWiki } from "@/lib/wiki-content";
 import type { ContentPage } from "@/lib/site";
 
-export const wikiArticles: ContentPage[] = winterfrostWiki;
+export const wikiArticles: ContentPage[] = softbuildWiki;
 
 function stripTags(value: string) {
   return value.replace(/<[^>]*>/g, "").replace(/&amp;/g, "&").replace(/&nbsp;/g, " ").trim();

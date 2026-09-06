@@ -170,9 +170,9 @@
         "label": "서비스 세부정보 보기",
         "href": "/dich-vu"
       },
-      "imageMain": "/images/brand/winterfrost/hero/winterfrost-energy-emblem-transparent.png?v=wf-energy-20260727",
-      "imageColumn": "/images/brand/winterfrost/hero/winterfrost-pillar.png",
-      "logo": "/images/brand/winterfrost/winterfrost-wordmark.png",
+      "imageMain": "/images/brand/softbuild/hero/softbuild-energy-emblem-transparent.png?v=wf-energy-20260727",
+      "imageColumn": "/images/brand/softbuild/hero/softbuild-pillar.png",
+      "logo": "/images/brand/softbuild/softbuild-wordmark.png",
       "video": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Video-banner-HomeNest-Viet-Nam.mp4",
       "detailCtaPrimary": {
         "label": "지금 연결하세요",
@@ -244,7 +244,7 @@
         "name": "Lê Khải Minh",
         "role": "공동 창립자",
         "quote": "고객 성공은 당사의 서비스 품질과 평판을 측정하는 유일한 척도입니다.",
-        "image": "/images/people/founder/winterfrost/le-khai-minh.webp"
+        "image": "/images/people/founder/softbuild/le-khai-minh.webp"
       },
       "vision": {
         "title": "비전과 미션",
@@ -318,63 +318,63 @@
               "title": "웹사이트 디자인",
               "desc": "빠른 웹사이트 디자인, 최적화된 사용자 경험으로 전환율을 높이는 데 도움이 됩니다.",
               "href": "/dich-vu/thiet-ke-website",
-              "hoverImg": "/images/services/winterfrost/web-application-development.webp"
+              "hoverImg": "/images/services/softbuild/web-application-development.webp"
             },
             {
               "num": "02",
               "title": "AI 개발",
               "desc": "AI 개발은 프로세스를 자동화하고 비즈니스 데이터를 최적화하는 데 도움이 됩니다.",
               "href": "/dich-vu/phat-trien-ai",
-              "hoverImg": "/images/services/winterfrost/ai-development.webp"
+              "hoverImg": "/images/services/softbuild/ai-development.webp"
             },
             {
               "num": "03",
               "title": "SaaS 애플리케이션 개발",
               "desc": "클라우드 네이티브 플랫폼 설계는 유연하고 확장이 용이하며 많은 사용자에게 서비스를 제공합니다.",
               "href": "/dich-vu/phat-trien-ung-dung-saas",
-              "hoverImg": "/images/services/winterfrost/saas-application-development.webp"
+              "hoverImg": "/images/services/softbuild/saas-application-development.webp"
             },
             {
               "num": "04",
               "title": "앱 디자인",
               "desc": "고성능 IOS 및 Android 애플리케이션을 개발하여 원활하고 안정적인 작동을 보장합니다.",
               "href": "/dich-vu/thiet-ke-app",
-              "hoverImg": "/images/services/winterfrost/mobile-app-development.webp"
+              "hoverImg": "/images/services/softbuild/mobile-app-development.webp"
             },
             {
               "num": "05",
               "title": "운영 및 유지보수",
               "desc": "소프트웨어를 작동하고 유지관리하면 시스템이 연중무휴 24시간 안전하고 안정적으로 작동하는 데 도움이 됩니다.",
               "href": "/dich-vu/van-hanh-va-bao-tri",
-              "hoverImg": "/images/services/winterfrost/software-maintenance-and-support.webp"
+              "hoverImg": "/images/services/softbuild/software-maintenance-and-support.webp"
             },
             {
               "num": "06",
               "title": "엔터프라이즈 소프트웨어 개발",
               "desc": "중앙집중적이고 안전한 관리 시스템으로 대규모 운영 프로세스를 최적화하세요.",
               "href": "/dich-vu/phat-trien-phan-mem-doanh-nghiep",
-              "hoverImg": "/images/services/winterfrost/enterprise-software-development.webp"
+              "hoverImg": "/images/services/softbuild/enterprise-software-development.webp"
             },
             {
               "num": "07",
               "title": "MVP 소프트웨어 개발",
               "desc": "아이디어를 검증하고 초기 투자 예산을 최적화하기 위한 신속한 제품 개발.",
               "href": "/dich-vu/phat-trien-phan-mem-mvp",
-              "hoverImg": "/images/services/winterfrost/mvp-software-development.webp"
+              "hoverImg": "/images/services/softbuild/mvp-software-development.webp"
             },
             {
               "num": "08",
               "title": "IT 서비스",
               "desc": "종합적인 IT 솔루션, 시스템 관리 및 전문적인 기술 지원을 제공합니다.",
               "href": "/dich-vu/dich-vu-it",
-              "hoverImg": "/images/services/winterfrost/custom-software-solutions.webp"
+              "hoverImg": "/images/services/softbuild/custom-software-solutions.webp"
             },
             {
               "num": "09",
               "title": "디지털 전환 컨설팅",
               "desc": "디지털 혁신 로드맵, 프로세스 최적화 및 최신 기술 적용에 대한 컨설팅.",
               "href": "/dich-vu/tu-van-chuyen-doi-so",
-              "hoverImg": "/images/services/winterfrost/generative-ai-integration.webp"
+              "hoverImg": "/images/services/softbuild/generative-ai-integration.webp"
             }
           ]
         },
@@ -386,21 +386,21 @@
               "title": "DevOps 개발",
               "desc": "개발 및 운영 프로세스를 최적화하여 출시 시간을 단축하고 시스템 안정성을 높입니다.",
               "href": "/dich-vu/phat-trien-devops",
-              "hoverImg": "/images/services/winterfrost/devops-development.webp"
+              "hoverImg": "/images/services/softbuild/devops-development.webp"
             },
             {
               "num": "02",
               "title": "IoT 개발",
               "desc": "장치를 연결하고 스마트 데이터를 수집하면 기업이 현실에서 귀중한 정보를 얻을 수 있습니다.",
               "href": "/dich-vu/phat-trien-iot",
-              "hoverImg": "/images/services/winterfrost/iot-development.webp"
+              "hoverImg": "/images/services/softbuild/iot-development.webp"
             },
             {
               "num": "03",
               "title": "블록체인 개발",
               "desc": "블록체인 플랫폼에서 절대적인 데이터 보안을 보장하는 데 도움이 되는 안전한 분산형 애플리케이션을 구축하세요.",
               "href": "/dich-vu/phat-trien-blockchain",
-              "hoverImg": "/images/services/winterfrost/blockchain-development.webp"
+              "hoverImg": "/images/services/softbuild/blockchain-development.webp"
             }
           ]
         }
@@ -602,7 +602,7 @@
           "/images/people/doi-tac/dang-hoai-thuong.webp",
           "/images/people/doi-tac/nguyen-tuan-kiet.webp"
         ],
-        "centerLogo": "/images/brand/winterfrost/winterfrost-wordmark.png"
+        "centerLogo": "/images/brand/softbuild/softbuild-wordmark.png"
       },
       "cardItem3": {
         "title": "첨단 기술",
@@ -651,7 +651,7 @@
         "userMessage": "조언이 필요해요.",
         "userAvatar": "/images/people/anh-hoi-thoai/tran-hoai-an.webp",
         "systemMessage": "SoftBuild가 당신을 지원할 준비가 되어 있습니다!",
-        "systemLogo": "/images/brand/winterfrost/winterfrost-symbol-transparent.png",
+        "systemLogo": "/images/brand/softbuild/softbuild-symbol-transparent.png",
         "decoration": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/decoration-pattern.png"
       },
       "cardItem4": {
@@ -1047,12 +1047,12 @@
         "해양 개발 서비스"
       ],
       "cubeFaces": {
-        "front": "/images/services/winterfrost/cube-faces/nha-trang-travel-website.png",
-        "right": "/images/services/winterfrost/cube-faces/greenscape-mobile-app.png",
-        "back": "/images/services/winterfrost/cube-faces/nova-paint-website.png",
-        "left": "/images/services/winterfrost/cube-faces/planora-mobile-app.png"
+        "front": "/images/services/softbuild/cube-faces/nha-trang-travel-website.png",
+        "right": "/images/services/softbuild/cube-faces/greenscape-mobile-app.png",
+        "back": "/images/services/softbuild/cube-faces/nova-paint-website.png",
+        "left": "/images/services/softbuild/cube-faces/planora-mobile-app.png"
       },
-      "bgImage": "/images/brand/winterfrost/winterfrost-banner.jpg"
+      "bgImage": "/images/brand/softbuild/softbuild-banner.jpg"
     },
     "servicesList": {
       "label": "우리의 서비스",
@@ -1065,73 +1065,73 @@
           "slug": "thiet-ke-website",
           "title": "웹사이트 디자인",
           "desc": "전문적인 웹사이트는 수익을 창출하는 도구여야 합니다. SoftBuild에서는 빠르고 안정적이며 사용자 경험에 최적화된 플랫폼을 구축합니다. 인터페이스부터 기능까지 모든 세부 사항이 전환을 유도하고 비즈니스를 원활하게 운영하며 브랜드 위치를 확고히 할 수 있도록 세밀하게 조정되었습니다.",
-          "img": "/images/services/winterfrost/web-application-development-v2.png"
+          "img": "/images/services/softbuild/web-application-development-v2.png"
         },
         {
           "slug": "phat-trien-ai",
           "title": "AI 개발",
           "desc": "SoftBuild는 전문 AI 및 머신러닝 솔루션을 통해 데이터를 분석하고 처리하는 데 도움을 줍니다. 이미지 인식부터 예측 분석까지, 우리는 기업이 복잡한 의사 결정 프로세스를 자동화하여 확실한 경쟁 우위를 확보할 수 있도록 지원합니다. 모든 모델은 비즈니스에 실제적이고 정확한 가치를 제공하도록 조정되었습니다.",
-          "img": "/images/services/winterfrost/ai-development.webp"
+          "img": "/images/services/softbuild/ai-development.webp"
         },
         {
           "slug": "phat-trien-ung-dung-saas",
           "title": "SaaS 애플리케이션 개발",
           "desc": "SoftBuild는 클라우드 플랫폼에서 SaaS 애플리케이션을 전문적으로 개발하여 보안 및 확장성 문제를 철저하게 해결합니다. 안정적인 운영을 위해 시스템 구조를 최적화하여 기업이 인프라 비용을 절감하고 지속 가능한 반복 수익원을 창출할 수 있도록 지원합니다.",
-          "img": "/images/services/winterfrost/saas-application-development.webp"
+          "img": "/images/services/softbuild/saas-application-development.webp"
         },
         {
           "slug": "thiet-ke-app",
           "title": "앱 디자인",
           "desc": "SoftBuild는 고성능 IOS 및 Android 애플리케이션 개발을 전문으로 하며 절대적인 안정성과 보안을 보장합니다. 우리의 솔루션은 기존 시스템과 유연하게 호환되므로 기업이 고객과 긴밀하게 연결되고 지속 가능한 성장을 이룰 수 있도록 돕습니다.",
-          "img": "/images/services/winterfrost/mobile-app-development.webp"
+          "img": "/images/services/softbuild/mobile-app-development.webp"
         },
         {
           "slug": "van-hanh-va-bao-tri",
           "title": "운영 및 유지보수",
           "desc": "우리는 안정적인 시스템이 비즈니스에 필수적이라는 것을 알고 있습니다. SoftBuild는 소프트웨어가 가능한 한 최상의 상태로 실행되도록 보안을 사전에 유지하고 업데이트합니다. 기술팀은 장치의 작업 프로세스가 중단되지 않도록 모든 문제를 신속하게 해결할 준비가 되어 있습니다. 우리는 매일 귀하의 시스템을 보호하기 위해 여기 있기 때문에 귀하는 귀하의 비즈니스 성장에 집중할 수 있다는 확신을 가질 수 있습니다.",
-          "img": "/images/services/winterfrost/software-maintenance-and-support.webp"
+          "img": "/images/services/softbuild/software-maintenance-and-support.webp"
         },
         {
           "slug": "phat-trien-phan-mem-doanh-nghiep",
           "title": "엔터프라이즈 소프트웨어 개발",
           "desc": "SoftBuild는 심층적인 관리 시스템을 개발하여 모든 운영상의 복잡성을 철저하게 해결합니다. 우리는 각 비즈니스의 고유한 프로세스에 따라 소프트웨어를 맞춤화하여 데이터를 중앙 집중화하고 절대적인 보안을 보장합니다. 이는 조직을 표준화하고 지속 가능한 자원을 최적화하기 위한 견고한 기반입니다.",
-          "img": "/images/services/winterfrost/enterprise-software-development.webp"
+          "img": "/images/services/softbuild/enterprise-software-development.webp"
         },
         {
           "slug": "phat-trien-phan-mem-mvp",
           "title": "MVP 소프트웨어 개발",
           "desc": "SoftBuild는 간소화된 MVP 개발 프로세스를 통해 기업이 제품을 빠르게 출시할 수 있도록 지원합니다. 우리는 아이디어를 검증하고 실제 피드백을 수집하는 핵심 기능에 중점을 두어 대규모 투자를 하기 전에 예산을 최적화하고 위험을 최소화하도록 돕습니다. 이는 귀하가 효과적이고 안전하게 시작할 수 있는 현명한 디딤돌입니다.",
-          "img": "/images/services/winterfrost/mvp-software-development.webp"
+          "img": "/images/services/softbuild/mvp-software-development.webp"
         },
         {
           "slug": "dich-vu-it",
           "title": "IT 서비스",
           "desc": "SoftBuild는 현재 프로세스를 직접 분석하여 수동 작업을 관리 소프트웨어 시스템으로 대체합니다. 디지털화는 데이터를 중앙에 저장하여 인적 오류를 최소화하고 작업 처리 시간을 단축하는 데 도움이 됩니다. 기업은 실제 데이터를 실시간으로 캡처하여 정확한 운영 결정을 내리고 이를 통해 운영 비용을 최적화하고 직원 성과를 향상시킵니다.",
-          "img": "/images/services/winterfrost/custom-software-solutions.webp"
+          "img": "/images/services/softbuild/custom-software-solutions.webp"
         },
         {
           "slug": "tu-van-chuyen-doi-so",
           "title": "디지털 전환 컨설팅",
           "desc": "기업을 위한 전체 서버 시스템, 내부 네트워크 및 기술 장비를 설정, 운영 및 유지 관리합니다. SoftBuild는 정보 손실이나 무단 침입의 위험을 방지하기 위해 보안 표준과 정기적인 백업 절차를 적용합니다. 기술 시스템은 중단 없이 작업을 보장하기 위해 지속적으로 유지 관리되고 운영되는 동시에 기업이 내부 IT 직원 채용 및 관리 비용을 줄이는 데 도움이 됩니다.",
-          "img": "/images/services/winterfrost/generative-ai-integration.webp"
+          "img": "/images/services/softbuild/generative-ai-integration.webp"
         },
         {
           "slug": "phat-trien-devops",
           "title": "DevOps 개발",
           "desc": "SoftBuild는 제품 출시 시간을 최소한으로 단축하는 자동화된 CI/CD 솔루션으로 소프트웨어 개발 프로세스를 개선합니다. 안정적인 클라우드 인프라 구축과 24시간 365일 지속적인 모니터링 시스템 구축에 중점을 두고 안정성을 확보하고 있습니다.",
-          "img": "/images/services/winterfrost/devops-development.webp"
+          "img": "/images/services/softbuild/devops-development.webp"
         },
         {
           "slug": "phat-trien-iot",
           "title": "IoT 개발",
           "desc": "SoftBuild는 스마트 장치를 연결하고 정보를 수집하여 기업의 운영 프로세스를 개선하는 데 도움을 줍니다. 실시간으로 데이터를 모니터링할 수 있는 안전하고 유연한 IoT 솔루션 개발에 중점을 두고 있습니다. 가장 정확한 데이터를 기반으로 의사결정을 내릴 수 있는 강력하게 연결된 생태계를 갖게 됩니다.",
-          "img": "/images/services/winterfrost/iot-development.webp"
+          "img": "/images/services/softbuild/iot-development.webp"
         },
         {
           "slug": "phat-trien-blockchain",
           "title": "블록체인 개발",
           "desc": "SoftBuild는 절대적인 데이터 보안을 보장하는 데 도움이 되는 분산형 블록체인 솔루션을 구축합니다. 비용을 최적화하고 중개 위험을 완전히 제거하기 위해 Smart Contract를 적용합니다. 이는 고객의 신뢰를 강화하고 디지털 시대에 효과적으로 돌파할 수 있도록 돕는 견고한 기반입니다.",
-          "img": "/images/services/winterfrost/blockchain-development.webp"
+          "img": "/images/services/softbuild/blockchain-development.webp"
         }
       ]
     },

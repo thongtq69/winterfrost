@@ -31,8 +31,8 @@ export function WikiCover({
     <>
       <Image src={item.image || item.ogImage || ""} alt={item.title} fill priority={priority} sizes={sizes} />
       <span className={s.tint} style={{ "--wiki-accent": accentFor(item.slug) } as React.CSSProperties} />
-      <span className={s.brand} aria-label="Winterfrost">
-        <Image src="/images/brand/winterfrost/winterfrost-wordmark.png" alt="Winterfrost" width={132} height={42} />
+      <span className={s.brand} aria-label="SoftBuild">
+        <Image src="/images/brand/softbuild/softbuild-wordmark.png" alt="SoftBuild" width={132} height={42} />
       </span>
       {showTitle && (
         <span className={s.copy}>

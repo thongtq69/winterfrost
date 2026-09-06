@@ -12,8 +12,8 @@ export async function generateMetadata({
   const locale = isSupportedLocale(candidate) ? candidate : routing.defaultLocale;
   const tr = await getAutoText(locale);
   return {
-    title: tr("Công nghệ tại Winterfrost"),
-    description: tr("Khám phá nền tảng Back-end, Front-end, App, AI và điện toán đám mây được Winterfrost sử dụng để phát triển các sản phẩm số."),
+    title: tr("Công nghệ tại SoftBuild"),
+    description: tr("Khám phá nền tảng Back-end, Front-end, App, AI và điện toán đám mây được SoftBuild sử dụng để phát triển các sản phẩm số."),
   };
 }
 

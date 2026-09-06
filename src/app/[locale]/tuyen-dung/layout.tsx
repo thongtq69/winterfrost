@@ -11,8 +11,8 @@ export async function generateMetadata({
   const locale = isSupportedLocale(candidate) ? candidate : routing.defaultLocale;
   const tr = await getAutoText(locale);
   return {
-    title: tr("Tuyển dụng Winterfrost"),
-    description: tr("Khám phá các vị trí tuyển dụng và cơ hội phát triển sự nghiệp cùng đội ngũ Winterfrost."),
+    title: tr("Tuyển dụng SoftBuild"),
+    description: tr("Khám phá các vị trí tuyển dụng và cơ hội phát triển sự nghiệp cùng đội ngũ SoftBuild."),
   };
 }
 

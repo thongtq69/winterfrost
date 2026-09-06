@@ -38,7 +38,7 @@ const CTA_SECTION = '<section class="CTABannerDynamic-module__UTmUdW__wrapper">'
 const UI_DESIGN_MOUNT = '<div data-legacy-ui-design-root="true"></div>';
 const CTA_HEADING = "Bạn muốn doanh nghiệp thành công như vậy?";
 const CTA_DESCRIPTION =
-  "Hãy chia sẻ bài toán kinh doanh của bạn, Winterfrost Việt Nam sẽ cùng bạn xây dựng giải pháp công nghệ hiệu quả và phù hợp nhất.";
+  "Hãy chia sẻ bài toán kinh doanh của bạn, SoftBuild Việt Nam sẽ cùng bạn xây dựng giải pháp công nghệ hiệu quả và phù hợp nhất.";
 const CTA_LABEL = "Nhận tư vấn giải pháp ngay";
 
 type PreparedLegacyHtml = {
@@ -107,7 +107,7 @@ function prepareLegacyHtml(
   const preparedHtml = html
     /*
      * These are shared template assets rather than project screenshots. The
-     * Winterfrost paths currently return a branded 404 page, while the original
+     * SoftBuild paths currently return a branded 404 page, while the original
      * HomeNest assets remain available. Project image URLs are left untouched.
      */
     .replaceAll('src="/assets/', 'src="https://homenest.com.vn/assets/')

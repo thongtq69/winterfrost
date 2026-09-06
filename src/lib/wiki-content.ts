@@ -1,5 +1,5 @@
 import type { ContentPage } from "@/lib/site";
-import generatedWiki from "@/_content/winterfrost-wiki.generated.json";
+import generatedWiki from "@/_content/softbuild-wiki.generated.json";
 
 type WikiSection = {
   heading: string;
@@ -13,7 +13,7 @@ type WikiArticleInput = Omit<ContentPage, "contentHtml" | "contentText"> & {
   closing: string;
 };
 
-const IMAGE_ROOT = "/images/wiki/winterfrost";
+const IMAGE_ROOT = "/images/wiki/softbuild";
 
 function escapeHtml(value: string) {
   return value
@@ -47,23 +47,23 @@ function renderArticle(input: WikiArticleInput): ContentPage {
     author: input.author,
     year: input.year,
     contentText: input.metaDescription,
-    contentHtml: `${intro}${sections}<h2>Winterfrost đồng hành cùng doanh nghiệp</h2><p>${escapeHtml(input.closing)}</p>`,
+    contentHtml: `${intro}${sections}<h2>SoftBuild đồng hành cùng doanh nghiệp</h2><p>${escapeHtml(input.closing)}</p>`,
   };
 }
 
-const curatedWinterfrostWiki: ContentPage[] = [
+const curatedSoftBuildWiki: ContentPage[] = [
   renderArticle({
     slug: "phat-trien-ai-chatbot-huong-dan-toan-dien-tu-a-z",
     title: "AI Chatbot Cho Doanh Nghiệp: Lộ Trình Từ Dữ Liệu Đến Vận Hành",
-    metaTitle: "AI Chatbot cho doanh nghiệp: Lộ trình triển khai | Winterfrost",
+    metaTitle: "AI Chatbot cho doanh nghiệp: Lộ trình triển khai | SoftBuild",
     metaDescription: "Hướng dẫn xây dựng AI chatbot dựa trên mục tiêu kinh doanh, dữ liệu đáng tin cậy, cơ chế kiểm soát và quy trình cải tiến liên tục.",
     image: `${IMAGE_ROOT}/ai-chatbot-enterprise.png`,
     category: "AI",
-    author: "Winterfrost Editorial",
+    author: "SoftBuild Editorial",
     year: "2026",
     intro: [
       "AI chatbot chỉ tạo ra giá trị khi được đặt đúng vào hành trình khách hàng và kết nối với dữ liệu doanh nghiệp. Một giao diện trò chuyện đẹp nhưng thiếu thông tin chính xác, không có quy trình chuyển tiếp cho nhân viên hoặc không đo được hiệu quả sẽ nhanh chóng trở thành một kênh hỗ trợ tốn chi phí.",
-      "Cách tiếp cận của Winterfrost bắt đầu từ bài toán vận hành, sau đó mới lựa chọn mô hình AI, kiến trúc dữ liệu và trải nghiệm hội thoại phù hợp. Nhờ vậy, chatbot có thể hỗ trợ khách hàng nhanh hơn mà vẫn giữ được tính nhất quán của thương hiệu.",
+      "Cách tiếp cận của SoftBuild bắt đầu từ bài toán vận hành, sau đó mới lựa chọn mô hình AI, kiến trúc dữ liệu và trải nghiệm hội thoại phù hợp. Nhờ vậy, chatbot có thể hỗ trợ khách hàng nhanh hơn mà vẫn giữ được tính nhất quán của thương hiệu.",
     ],
     sections: [
       {
@@ -94,16 +94,16 @@ const curatedWinterfrostWiki: ContentPage[] = [
         ],
       },
     ],
-    closing: "Winterfrost xây dựng chatbot theo hướng tích hợp được với website, CRM, hệ thống nội bộ và quy trình chăm sóc khách hàng. Mỗi dự án đều có lớp kiểm soát dữ liệu, tiêu chí đánh giá và lộ trình mở rộng rõ ràng.",
+    closing: "SoftBuild xây dựng chatbot theo hướng tích hợp được với website, CRM, hệ thống nội bộ và quy trình chăm sóc khách hàng. Mỗi dự án đều có lớp kiểm soát dữ liệu, tiêu chí đánh giá và lộ trình mở rộng rõ ràng.",
   }),
   renderArticle({
     slug: "ui-ux-tam-quan-trong-cua-ui-ux-doi-voi-website",
     title: "UI/UX Website: Thiết Kế Trải Nghiệm Tạo Chuyển Đổi",
-    metaTitle: "UI/UX website và hiệu quả chuyển đổi | Winterfrost",
+    metaTitle: "UI/UX website và hiệu quả chuyển đổi | SoftBuild",
     metaDescription: "Phân tích vai trò của UI, UX và quy trình thiết kế website dựa trên hành vi người dùng, mục tiêu kinh doanh và dữ liệu thực tế.",
     image: `${IMAGE_ROOT}/ui-ux-conversion.png`,
     category: "UIUX Design",
-    author: "Winterfrost Design Team",
+    author: "SoftBuild Design Team",
     year: "2026",
     intro: [
       "UI là phần người dùng nhìn thấy; UX là toàn bộ cảm nhận khi họ tìm kiếm thông tin, hoàn thành tác vụ và nhận phản hồi từ hệ thống. Hai phần này phải được thiết kế cùng nhau để website vừa đẹp, vừa dễ hiểu và phục vụ mục tiêu kinh doanh.",
@@ -129,16 +129,16 @@ const curatedWinterfrostWiki: ContentPage[] = [
         paragraphs: ["Thiết kế không kết thúc ở thời điểm bàn giao. Dữ liệu tìm kiếm, tỷ lệ hoàn thành biểu mẫu, điểm rời trang và phản hồi trực tiếp cho biết phần nào đang gây khó khăn. Mỗi thay đổi nên gắn với một giả thuyết và chỉ số đánh giá."],
       },
     ],
-    closing: "Winterfrost kết hợp nghiên cứu người dùng, thiết kế hệ thống và phát triển frontend để biến giao diện thành công cụ kinh doanh có thể đo lường, duy trì và mở rộng.",
+    closing: "SoftBuild kết hợp nghiên cứu người dùng, thiết kế hệ thống và phát triển frontend để biến giao diện thành công cụ kinh doanh có thể đo lường, duy trì và mở rộng.",
   }),
   renderArticle({
     slug: "cam-nang-trien-khai-crm-hieu-qua-nhung-luu-y-khong-the-bo-qua",
     title: "Triển Khai CRM Hiệu Quả: Từ Quy Trình Đến Dữ Liệu",
-    metaTitle: "Cẩm nang triển khai CRM hiệu quả | Winterfrost",
+    metaTitle: "Cẩm nang triển khai CRM hiệu quả | SoftBuild",
     metaDescription: "Cẩm nang giúp doanh nghiệp triển khai CRM theo quy trình thực tế, chuẩn hóa dữ liệu, thúc đẩy người dùng nội bộ và đo lường hiệu quả.",
     image: `${IMAGE_ROOT}/crm-implementation.png`,
     category: "Phần mềm",
-    author: "Winterfrost Solution Team",
+    author: "SoftBuild Solution Team",
     year: "2026",
     intro: [
       "CRM không phải là nơi nhập càng nhiều dữ liệu càng tốt. Giá trị của hệ thống nằm ở khả năng giúp đội bán hàng nhìn thấy cơ hội, phối hợp chăm sóc và ra quyết định dựa trên lịch sử tương tác đầy đủ.",
@@ -164,16 +164,16 @@ const curatedWinterfrostWiki: ContentPage[] = [
         bullets: ["Thí điểm với một nhóm nhỏ", "Cử người phụ trách dữ liệu", "Tạo tài liệu thao tác ngắn", "Họp cải tiến định kỳ"],
       },
     ],
-    closing: "Winterfrost tư vấn và phát triển CRM theo quy trình riêng của doanh nghiệp, từ khảo sát nghiệp vụ, kiến trúc dữ liệu đến tích hợp và hỗ trợ sau triển khai.",
+    closing: "SoftBuild tư vấn và phát triển CRM theo quy trình riêng của doanh nghiệp, từ khảo sát nghiệp vụ, kiến trúc dữ liệu đến tích hợp và hỗ trợ sau triển khai.",
   }),
   renderArticle({
     slug: "wordpress-la-gi-uu-nhuoc-diem-tai-sao-nen-dung-de-thiet-ke-web",
     title: "WordPress Có Phù Hợp Với Website Doanh Nghiệp?",
-    metaTitle: "Khi nào nên dùng WordPress cho website doanh nghiệp? | Winterfrost",
+    metaTitle: "Khi nào nên dùng WordPress cho website doanh nghiệp? | SoftBuild",
     metaDescription: "Đánh giá WordPress theo nhu cầu nội dung, hiệu suất, bảo mật, khả năng mở rộng và tổng chi phí sở hữu của website doanh nghiệp.",
     image: `${IMAGE_ROOT}/wordpress-enterprise.png`,
     category: "Website",
-    author: "Winterfrost Web Team",
+    author: "SoftBuild Web Team",
     year: "2026",
     intro: [
       "WordPress là một hệ quản trị nội dung linh hoạt, phù hợp với nhiều website giới thiệu, tin tức, landing page và thương mại điện tử quy mô vừa. Tuy nhiên, lựa chọn nền tảng nên dựa trên cách doanh nghiệp vận hành nội dung chứ không chỉ dựa vào độ phổ biến.",
@@ -199,16 +199,16 @@ const curatedWinterfrostWiki: ContentPage[] = [
         paragraphs: ["Chi phí không chỉ gồm thiết kế ban đầu mà còn có hosting, bản quyền, bảo trì, hỗ trợ và thời gian đội nội bộ. So sánh trên vòng đời ba đến năm năm sẽ cho quyết định thực tế hơn."],
       },
     ],
-    closing: "Winterfrost đánh giá yêu cầu trước khi đề xuất WordPress, headless CMS hoặc nền tảng tùy chỉnh, giúp doanh nghiệp chọn đúng kiến trúc thay vì chạy theo công nghệ.",
+    closing: "SoftBuild đánh giá yêu cầu trước khi đề xuất WordPress, headless CMS hoặc nền tảng tùy chỉnh, giúp doanh nghiệp chọn đúng kiến trúc thay vì chạy theo công nghệ.",
   }),
   renderArticle({
     slug: "phat-trien-mvp-cho-startup-huong-dan-chi-tiet",
     title: "Phát Triển MVP Cho Startup: Kiểm Chứng Nhanh, Mở Rộng Đúng",
-    metaTitle: "Phát triển MVP cho startup từ ý tưởng đến thị trường | Winterfrost",
+    metaTitle: "Phát triển MVP cho startup từ ý tưởng đến thị trường | SoftBuild",
     metaDescription: "Lộ trình xây dựng MVP giúp startup kiểm chứng giả thuyết, ưu tiên tính năng, đo phản hồi và chuẩn bị nền tảng kỹ thuật để mở rộng.",
     image: `${IMAGE_ROOT}/startup-mvp.png`,
     category: "Startups",
-    author: "Winterfrost Product Team",
+    author: "SoftBuild Product Team",
     year: "2026",
     intro: [
       "MVP không phải là phiên bản làm sơ sài của một sản phẩm lớn. Đó là phiên bản nhỏ nhất đủ để kiểm chứng một giả thuyết quan trọng với người dùng thật và tạo dữ liệu cho quyết định tiếp theo.",
@@ -234,16 +234,16 @@ const curatedWinterfrostWiki: ContentPage[] = [
         bullets: ["Theo dõi hiệu suất", "Thiết lập sao lưu", "Quản lý cấu hình môi trường", "Tách lớp dữ liệu quan trọng", "Duy trì nhật ký quyết định"],
       },
     ],
-    closing: "Winterfrost đồng hành từ workshop sản phẩm, prototype, phát triển MVP đến tối ưu sau thử nghiệm, giúp startup sử dụng ngân sách cho những giả thuyết có giá trị nhất.",
+    closing: "SoftBuild đồng hành từ workshop sản phẩm, prototype, phát triển MVP đến tối ưu sau thử nghiệm, giúp startup sử dụng ngân sách cho những giả thuyết có giá trị nhất.",
   }),
   renderArticle({
     slug: "javascript-la-gi-ly-do-nen-dung-javascript-khi-thiet-ke-website",
     title: "JavaScript Trong Website Hiện Đại: Kiến Trúc Và Hiệu Suất",
-    metaTitle: "JavaScript cho website hiện đại: kiến trúc và hiệu suất | Winterfrost",
+    metaTitle: "JavaScript cho website hiện đại: kiến trúc và hiệu suất | SoftBuild",
     metaDescription: "Góc nhìn thực tiễn về JavaScript, kiến trúc frontend, hiệu suất tải trang, bảo mật và cách lựa chọn công nghệ phù hợp cho website.",
     image: `${IMAGE_ROOT}/javascript-modern-web.png`,
     category: "Website",
-    author: "Winterfrost Engineering",
+    author: "SoftBuild Engineering",
     year: "2026",
     intro: [
       "JavaScript cho phép website phản hồi tức thời, xử lý dữ liệu trên trình duyệt và tạo nên các trải nghiệm tương tác phong phú. Nhưng nếu dùng thiếu kiểm soát, lượng mã tải xuống và công việc trên luồng chính có thể làm trang chậm hơn đáng kể.",
@@ -268,16 +268,16 @@ const curatedWinterfrostWiki: ContentPage[] = [
         paragraphs: ["TypeScript, kiểm thử tự động, lint và quy ước component giúp giảm lỗi khi nhiều nhóm cùng phát triển. Quan trọng hơn, đội ngũ cần một ranh giới rõ giữa logic giao diện, truy cập dữ liệu và nghiệp vụ."],
       },
     ],
-    closing: "Winterfrost thiết kế frontend dựa trên mức độ tương tác thực tế, cân bằng trải nghiệm, khả năng bảo trì, SEO và hiệu suất thay vì phụ thuộc vào một framework duy nhất.",
+    closing: "SoftBuild thiết kế frontend dựa trên mức độ tương tác thực tế, cân bằng trải nghiệm, khả năng bảo trì, SEO và hiệu suất thay vì phụ thuộc vào một framework duy nhất.",
   }),
   renderArticle({
     slug: "gemini-3-6-flash-va-google-antigravity-giai-phap-toi-uu-cho-lap-trinh",
     title: "AI Agent Trong Phát Triển Phần Mềm: Ứng Dụng An Toàn Và Hiệu Quả",
-    metaTitle: "AI Agent trong phát triển phần mềm | Winterfrost",
+    metaTitle: "AI Agent trong phát triển phần mềm | SoftBuild",
     metaDescription: "Cách áp dụng AI agent vào phân tích yêu cầu, lập trình, kiểm thử và vận hành mà vẫn duy trì kiểm soát chất lượng, bảo mật và trách nhiệm kỹ thuật.",
     image: `${IMAGE_ROOT}/ai-agent-software.png`,
     category: "AI",
-    author: "Winterfrost AI Lab",
+    author: "SoftBuild AI Lab",
     year: "2026",
     intro: [
       "AI agent có thể hỗ trợ đọc tài liệu, đề xuất thay đổi, tạo kiểm thử và tổng hợp kết quả từ nhiều công cụ. Giá trị lớn nhất nằm ở việc rút ngắn vòng phản hồi, không phải thay thế hoàn toàn phán đoán của kỹ sư.",
@@ -302,16 +302,16 @@ const curatedWinterfrostWiki: ContentPage[] = [
         paragraphs: ["Agent nên trình bày giả định, thay đổi và bằng chứng kiểm thử để người review hiểu được quyết định. Các lỗi lặp lại cần được chuyển thành quy tắc hoặc bộ đánh giá thay vì chỉ sửa từng lần."],
       },
     ],
-    closing: "Winterfrost xây dựng quy trình AI-assisted development có kiểm soát, tích hợp vào công cụ hiện có và ưu tiên chất lượng phần mềm lâu dài.",
+    closing: "SoftBuild xây dựng quy trình AI-assisted development có kiểm soát, tích hợp vào công cụ hiện có và ưu tiên chất lượng phần mềm lâu dài.",
   }),
   renderArticle({
     slug: "cong-nghe-blockchain-trong-y-te-loi-ich-va-ung-dung-thuc-tien",
     title: "Blockchain Trong Y Tế: Khi Nào Thực Sự Nên Dùng?",
-    metaTitle: "Blockchain trong y tế: ứng dụng và giới hạn | Winterfrost",
+    metaTitle: "Blockchain trong y tế: ứng dụng và giới hạn | SoftBuild",
     metaDescription: "Phân tích các trường hợp blockchain có thể tạo giá trị trong y tế, cùng yêu cầu về quyền riêng tư, tích hợp và quản trị dữ liệu.",
     image: `${IMAGE_ROOT}/blockchain-healthcare.png`,
     category: "Blockchain",
-    author: "Winterfrost Research",
+    author: "SoftBuild Research",
     year: "2026",
     intro: [
       "Y tế cần chia sẻ thông tin giữa nhiều tổ chức nhưng đồng thời phải bảo vệ dữ liệu cá nhân. Blockchain có thể hỗ trợ truy vết và đồng thuận trong một số mô hình liên tổ chức, nhưng không phải là nơi phù hợp để lưu trực tiếp toàn bộ hồ sơ bệnh án.",
@@ -336,16 +336,16 @@ const curatedWinterfrostWiki: ContentPage[] = [
         paragraphs: ["Cần xác định ai vận hành nút mạng, ai có quyền thay đổi quy tắc, cách xử lý dữ liệu sai và phương án khi một thành viên rời mạng. Đây là bài toán tổ chức quan trọng không kém công nghệ."],
       },
     ],
-    closing: "Winterfrost thực hiện đánh giá tính phù hợp trước khi đề xuất blockchain, đảm bảo giải pháp tập trung vào hiệu quả phối hợp, bảo mật và khả năng vận hành thực tế.",
+    closing: "SoftBuild thực hiện đánh giá tính phù hợp trước khi đề xuất blockchain, đảm bảo giải pháp tập trung vào hiệu quả phối hợp, bảo mật và khả năng vận hành thực tế.",
   }),
   renderArticle({
     slug: "top-10-phan-mem-crm-y-te-tot-nhat-cho-benh-vien-va-phong-kham",
     title: "Chọn CRM Y Tế: Bộ Tiêu Chí Cho Bệnh Viện Và Phòng Khám",
-    metaTitle: "Cách chọn CRM y tế cho bệnh viện và phòng khám | Winterfrost",
+    metaTitle: "Cách chọn CRM y tế cho bệnh viện và phòng khám | SoftBuild",
     metaDescription: "Bộ tiêu chí đánh giá CRM y tế dựa trên hành trình bệnh nhân, tích hợp hệ thống, bảo mật, tự động hóa và khả năng vận hành lâu dài.",
     image: `${IMAGE_ROOT}/healthcare-crm.png`,
     category: "Giải pháp Doanh nghiệp",
-    author: "Winterfrost Solution Team",
+    author: "SoftBuild Solution Team",
     year: "2026",
     intro: [
       "CRM y tế cần hỗ trợ mối quan hệ với bệnh nhân trước, trong và sau quá trình sử dụng dịch vụ. Hệ thống không thay thế phần mềm quản lý bệnh viện mà bổ sung lớp giao tiếp, chăm sóc, phân nhóm và đo lường trải nghiệm.",
@@ -370,16 +370,16 @@ const curatedWinterfrostWiki: ContentPage[] = [
         paragraphs: ["Hãy xem xét khả năng tùy biến quy trình, chất lượng hỗ trợ, phương án sao lưu, thời gian khôi phục và chi phí khi số lượng người dùng tăng. Một bản thử nghiệm với dữ liệu giả giúp kiểm chứng trước khi ký hợp đồng dài hạn."],
       },
     ],
-    closing: "Winterfrost thiết kế CRM y tế theo luồng vận hành thực tế, ưu tiên tích hợp an toàn và trải nghiệm liền mạch cho cả bệnh nhân lẫn đội ngũ chăm sóc.",
+    closing: "SoftBuild thiết kế CRM y tế theo luồng vận hành thực tế, ưu tiên tích hợp an toàn và trải nghiệm liền mạch cho cả bệnh nhân lẫn đội ngũ chăm sóc.",
   }),
   renderArticle({
     slug: "co-che-hoat-dong-cua-chatbot-dinh-huong-tac-vu",
     title: "Chatbot Định Hướng Tác Vụ: Kiến Trúc Và Cách Triển Khai",
-    metaTitle: "Chatbot định hướng tác vụ: kiến trúc triển khai | Winterfrost",
+    metaTitle: "Chatbot định hướng tác vụ: kiến trúc triển khai | SoftBuild",
     metaDescription: "Giải thích cách chatbot định hướng tác vụ nhận diện ý định, thu thập dữ liệu, gọi hệ thống nghiệp vụ và xử lý ngoại lệ an toàn.",
     image: `${IMAGE_ROOT}/task-oriented-chatbot.png`,
     category: "AI",
-    author: "Winterfrost AI Lab",
+    author: "SoftBuild AI Lab",
     year: "2026",
     intro: [
       "Chatbot định hướng tác vụ được thiết kế để giúp người dùng hoàn thành một việc cụ thể như đặt lịch, tra cứu đơn hàng hoặc gửi yêu cầu hỗ trợ. Khác với trò chuyện mở, hệ thống cần quản lý trạng thái và đảm bảo đủ dữ liệu trước khi thực hiện hành động.",
@@ -405,16 +405,16 @@ const curatedWinterfrostWiki: ContentPage[] = [
         paragraphs: ["Bộ test nên bao gồm nhiều cách diễn đạt, lỗi chính tả, câu hỏi xen ngang và tình huống bỏ dở. Sau khi ra mắt, các điểm rơi phổ biến cần được phân tích để tinh chỉnh luồng."],
       },
     ],
-    closing: "Winterfrost phát triển chatbot tác vụ gắn với hệ thống nghiệp vụ, có kiểm soát dữ liệu và cơ chế chuyển tiếp để doanh nghiệp tự động hóa mà không làm giảm chất lượng phục vụ.",
+    closing: "SoftBuild phát triển chatbot tác vụ gắn với hệ thống nghiệp vụ, có kiểm soát dữ liệu và cơ chế chuyển tiếp để doanh nghiệp tự động hóa mà không làm giảm chất lượng phục vụ.",
   }),
   renderArticle({
     slug: "loi-ich-cua-app-y-te-doi-voi-benh-nhan-va-bac-si",
     title: "Ứng Dụng Y Tế: Giá Trị Cho Bệnh Nhân, Bác Sĩ Và Vận Hành",
-    metaTitle: "Lợi ích và nguyên tắc phát triển ứng dụng y tế | Winterfrost",
+    metaTitle: "Lợi ích và nguyên tắc phát triển ứng dụng y tế | SoftBuild",
     metaDescription: "Phân tích giá trị của ứng dụng y tế đối với bệnh nhân, bác sĩ và cơ sở vận hành, cùng các yêu cầu về bảo mật và trải nghiệm.",
     image: `${IMAGE_ROOT}/healthcare-mobile-app.png`,
     category: "Mobile App",
-    author: "Winterfrost Product Team",
+    author: "SoftBuild Product Team",
     year: "2026",
     intro: [
       "Ứng dụng y tế có thể rút ngắn nhiều bước trong hành trình chăm sóc: tìm dịch vụ, đặt lịch, nhận hướng dẫn, theo dõi hồ sơ và trao đổi sau khám. Giá trị chỉ xuất hiện khi ứng dụng kết nối trơn tru với quy trình tại cơ sở y tế.",
@@ -440,16 +440,16 @@ const curatedWinterfrostWiki: ContentPage[] = [
         paragraphs: ["Các chỉ số nên phản ánh kết quả như tỷ lệ đặt lịch thành công, số cuộc hẹn bị bỏ, thời gian xử lý yêu cầu và mức hài lòng. Lượt tải ứng dụng chỉ là chỉ số khởi đầu."],
       },
     ],
-    closing: "Winterfrost phát triển ứng dụng y tế theo hướng lấy người dùng làm trung tâm, tích hợp với hệ thống hiện có và đặt bảo mật dữ liệu vào ngay từ kiến trúc.",
+    closing: "SoftBuild phát triển ứng dụng y tế theo hướng lấy người dùng làm trung tâm, tích hợp với hệ thống hiện có và đặt bảo mật dữ liệu vào ngay từ kiến trúc.",
   }),
   renderArticle({
     slug: "chatbot-truy-xuat-dua-tren-du-lieu-la-gi-huong-dan-tu-a-z",
     title: "Chatbot RAG: Kết Nối AI Với Dữ Liệu Doanh Nghiệp",
-    metaTitle: "Chatbot RAG và dữ liệu doanh nghiệp | Winterfrost",
+    metaTitle: "Chatbot RAG và dữ liệu doanh nghiệp | SoftBuild",
     metaDescription: "Hướng dẫn kiến trúc chatbot RAG từ chuẩn hóa tài liệu, tìm kiếm ngữ nghĩa, tạo câu trả lời có nguồn đến đánh giá chất lượng.",
     image: `${IMAGE_ROOT}/rag-enterprise-data.png`,
     category: "AI",
-    author: "Winterfrost AI Lab",
+    author: "SoftBuild AI Lab",
     year: "2026",
     intro: [
       "RAG kết hợp mô hình ngôn ngữ với khả năng truy xuất tài liệu doanh nghiệp. Thay vì trả lời chỉ từ kiến thức đã học, hệ thống tìm những đoạn liên quan và dùng chúng làm ngữ cảnh để tạo phản hồi.",
@@ -474,16 +474,16 @@ const curatedWinterfrostWiki: ContentPage[] = [
         paragraphs: ["Bộ đánh giá nên bao gồm câu hỏi đúng, câu hỏi mơ hồ, câu hỏi không có dữ liệu và các tình huống có tài liệu mâu thuẫn. Chất lượng cần được đo ở cả bước truy xuất lẫn câu trả lời cuối."],
       },
     ],
-    closing: "Winterfrost xây dựng chatbot RAG từ nền tảng dữ liệu và quyền truy cập, giúp doanh nghiệp khai thác tri thức nội bộ an toàn, có căn cứ và dễ cải tiến.",
+    closing: "SoftBuild xây dựng chatbot RAG từ nền tảng dữ liệu và quyền truy cập, giúp doanh nghiệp khai thác tri thức nội bộ an toàn, có căn cứ và dễ cải tiến.",
   }),
   renderArticle({
     slug: "blockchain-va-iot-toan-bo-kien-thuc-quan-trong-danh-cho-tech-leaders",
     title: "Blockchain Và IoT Cho Tech Leaders: Mô Hình Kết Hợp Và Rủi Ro",
-    metaTitle: "Blockchain và IoT cho lãnh đạo công nghệ | Winterfrost",
+    metaTitle: "Blockchain và IoT cho lãnh đạo công nghệ | SoftBuild",
     metaDescription: "Góc nhìn kiến trúc về cách kết hợp blockchain và IoT, từ danh tính thiết bị, tính toàn vẹn dữ liệu đến chi phí vận hành và quản trị mạng.",
     image: `${IMAGE_ROOT}/blockchain-iot.png`,
     category: "IoT",
-    author: "Winterfrost Research",
+    author: "SoftBuild Research",
     year: "2026",
     intro: [
       "IoT đưa dữ liệu từ thế giới vật lý vào hệ thống số, còn blockchain có thể cung cấp lớp bằng chứng và đồng thuận giữa nhiều bên. Sự kết hợp này phù hợp nhất khi các tổ chức cần chia sẻ lịch sử sự kiện nhưng không muốn phụ thuộc hoàn toàn vào một bên trung tâm.",
@@ -508,16 +508,16 @@ const curatedWinterfrostWiki: ContentPage[] = [
         paragraphs: ["Một proof of concept nên kiểm tra toàn bộ hành trình từ thiết bị đến báo cáo, bao gồm tình huống mất mạng, dữ liệu trùng và thay đổi thành viên. Kết quả phải được so sánh với giải pháp tập trung đơn giản hơn."],
       },
     ],
-    closing: "Winterfrost giúp doanh nghiệp đánh giá tính cần thiết của blockchain trong hệ thống IoT và xây dựng kiến trúc cân bằng giữa tính minh bạch, chi phí và khả năng vận hành.",
+    closing: "SoftBuild giúp doanh nghiệp đánh giá tính cần thiết của blockchain trong hệ thống IoT và xây dựng kiến trúc cân bằng giữa tính minh bạch, chi phí và khả năng vận hành.",
   }),
   renderArticle({
     slug: "flutter-so-voi-react-native-va-xamarin",
     title: "Flutter, React Native Hay Native: Chọn Nền Tảng Mobile Phù Hợp",
-    metaTitle: "So sánh Flutter, React Native và Native | Winterfrost",
+    metaTitle: "So sánh Flutter, React Native và Native | SoftBuild",
     metaDescription: "Khung đánh giá nền tảng phát triển mobile dựa trên trải nghiệm, tích hợp thiết bị, năng lực đội ngũ, vòng đời và chi phí sản phẩm.",
     image: `${IMAGE_ROOT}/cross-platform-mobile.png`,
     category: "Mobile App",
-    author: "Winterfrost Mobile Team",
+    author: "SoftBuild Mobile Team",
     year: "2026",
     intro: [
       "Không có framework mobile tốt nhất cho mọi dự án. Lựa chọn phụ thuộc vào trải nghiệm cần đạt, mức độ sử dụng tính năng thiết bị, năng lực đội ngũ và kế hoạch phát triển dài hạn.",
@@ -542,16 +542,16 @@ const curatedWinterfrostWiki: ContentPage[] = [
         paragraphs: ["Prototype nên tập trung vào tác vụ có rủi ro cao nhất thay vì màn hình đơn giản. Một thử nghiệm nhỏ với thiết bị thật cho biết sớm framework có đáp ứng trải nghiệm mục tiêu hay không."],
       },
     ],
-    closing: "Winterfrost lựa chọn kiến trúc mobile từ yêu cầu sản phẩm và vòng đời vận hành, giúp doanh nghiệp tránh quyết định theo xu hướng ngắn hạn.",
+    closing: "SoftBuild lựa chọn kiến trúc mobile từ yêu cầu sản phẩm và vòng đời vận hành, giúp doanh nghiệp tránh quyết định theo xu hướng ngắn hạn.",
   }),
   renderArticle({
     slug: "lo-trinh-nghe-nghiep-software-engineer-cach-chon-huong-di-phu-hop-voi-ban",
     title: "Lộ Trình Software Engineer: Phát Triển Năng Lực Theo Sản Phẩm",
-    metaTitle: "Lộ trình nghề nghiệp Software Engineer | Winterfrost",
+    metaTitle: "Lộ trình nghề nghiệp Software Engineer | SoftBuild",
     metaDescription: "Gợi ý xây dựng lộ trình Software Engineer dựa trên nền tảng kỹ thuật, năng lực giao tiếp, tư duy sản phẩm và khả năng chịu trách nhiệm.",
     image: `${IMAGE_ROOT}/software-engineer-career.png`,
     category: "Work Life",
-    author: "Winterfrost Engineering",
+    author: "SoftBuild Engineering",
     year: "2026",
     intro: [
       "Lộ trình nghề nghiệp của kỹ sư phần mềm không chỉ là danh sách ngôn ngữ cần học. Năng lực tăng trưởng khi bạn giải quyết được vấn đề lớn hơn, ra quyết định tốt hơn và giúp cả đội giao sản phẩm ổn định.",
@@ -576,20 +576,20 @@ const curatedWinterfrostWiki: ContentPage[] = [
         paragraphs: ["Cả hai hướng đều cần kỹ năng lãnh đạo, nhưng cách tạo tác động khác nhau. Chuyên gia kỹ thuật dẫn dắt kiến trúc và tiêu chuẩn; quản lý tạo môi trường, ưu tiên và phối hợp để đội ngũ thành công."],
       },
     ],
-    closing: "Tại Winterfrost, lộ trình phát triển gắn với dự án thực, phản hồi thường xuyên và mức độ sở hữu sản phẩm, giúp kỹ sư tiến bộ bằng giá trị tạo ra chứ không chỉ bằng thâm niên.",
+    closing: "Tại SoftBuild, lộ trình phát triển gắn với dự án thực, phản hồi thường xuyên và mức độ sở hữu sản phẩm, giúp kỹ sư tiến bộ bằng giá trị tạo ra chứ không chỉ bằng thâm niên.",
   }),
   renderArticle({
-    slug: "mot-ngay-lam-viec-cua-mot-backend-engineer-tai-winterfrost",
-    title: "Một Ngày Của Backend Engineer Tại Winterfrost",
-    metaTitle: "Một ngày làm việc của Backend Engineer tại Winterfrost",
-    metaDescription: "Khám phá cách Backend Engineer tại Winterfrost phân tích nghiệp vụ, thiết kế API, bảo vệ dữ liệu, review mã và phối hợp đưa sản phẩm vào vận hành.",
+    slug: "mot-ngay-lam-viec-cua-mot-backend-engineer-tai-softbuild",
+    title: "Một Ngày Của Backend Engineer Tại SoftBuild",
+    metaTitle: "Một ngày làm việc của Backend Engineer tại SoftBuild",
+    metaDescription: "Khám phá cách Backend Engineer tại SoftBuild phân tích nghiệp vụ, thiết kế API, bảo vệ dữ liệu, review mã và phối hợp đưa sản phẩm vào vận hành.",
     image: `${IMAGE_ROOT}/backend-engineer-workday.png`,
     category: "Work Life",
-    author: "Winterfrost People",
+    author: "SoftBuild People",
     year: "2026",
     intro: [
       "Một ngày của Backend Engineer không chỉ xoay quanh việc viết API. Công việc bắt đầu từ hiểu nhu cầu nghiệp vụ, đánh giá ảnh hưởng đến dữ liệu và phối hợp với frontend, QA, DevOps để thay đổi hoạt động ổn định.",
-      "Nhịp làm việc tại Winterfrost ưu tiên trao đổi ngắn, thời gian tập trung sâu và bằng chứng kỹ thuật rõ ràng qua test, log và tài liệu quyết định.",
+      "Nhịp làm việc tại SoftBuild ưu tiên trao đổi ngắn, thời gian tập trung sâu và bằng chứng kỹ thuật rõ ràng qua test, log và tài liệu quyết định.",
     ],
     sections: [
       {
@@ -610,16 +610,16 @@ const curatedWinterfrostWiki: ContentPage[] = [
         paragraphs: ["Những quyết định khó được ghi vào tài liệu ngắn. Nếu phát hiện lỗi mang tính hệ thống, đội ngũ bổ sung test hoặc cảnh báo để ngăn vấn đề lặp lại."],
       },
     ],
-    closing: "Winterfrost xây dựng môi trường kỹ thuật nơi mỗi thay đổi đều gắn với mục tiêu sản phẩm, trách nhiệm vận hành và cơ hội học hỏi của cả đội.",
+    closing: "SoftBuild xây dựng môi trường kỹ thuật nơi mỗi thay đổi đều gắn với mục tiêu sản phẩm, trách nhiệm vận hành và cơ hội học hỏi của cả đội.",
   }),
   renderArticle({
     slug: "top-23-cong-ty-tu-van-cong-nghe-va-phan-mem-uy-tin-nhat",
     title: "Cách Chọn Đối Tác Tư Vấn Công Nghệ Và Phát Triển Phần Mềm",
-    metaTitle: "Tiêu chí chọn đối tác tư vấn công nghệ | Winterfrost",
+    metaTitle: "Tiêu chí chọn đối tác tư vấn công nghệ | SoftBuild",
     metaDescription: "Bộ tiêu chí thực tế để đánh giá đối tác công nghệ qua năng lực khám phá bài toán, kiến trúc, bảo mật, quản trị dự án và hỗ trợ dài hạn.",
     image: `${IMAGE_ROOT}/technology-partner-selection.png`,
     category: "Giải pháp Doanh nghiệp",
-    author: "Winterfrost Advisory",
+    author: "SoftBuild Advisory",
     year: "2026",
     intro: [
       "Chọn đối tác công nghệ là quyết định ảnh hưởng đến dữ liệu, quy trình và tốc độ tăng trưởng trong nhiều năm. Danh mục công nghệ dài hoặc báo giá thấp chưa đủ chứng minh khả năng đưa sản phẩm vào vận hành.",
@@ -644,19 +644,19 @@ const curatedWinterfrostWiki: ContentPage[] = [
         paragraphs: ["Hãy làm rõ quyền sở hữu mã nguồn, tài liệu, dữ liệu, thời gian phản hồi và phương án thay đổi đội ngũ. Một hệ thống tốt cần tiếp tục vận hành được khi dự án kết thúc."],
       },
     ],
-    closing: "Winterfrost làm việc theo mô hình tư vấn minh bạch, xây dựng lộ trình theo giá trị và chuyển giao đầy đủ để doanh nghiệp luôn chủ động với tài sản số của mình.",
+    closing: "SoftBuild làm việc theo mô hình tư vấn minh bạch, xây dựng lộ trình theo giá trị và chuyển giao đầy đủ để doanh nghiệp luôn chủ động với tài sản số của mình.",
   }),
   renderArticle({
     slug: "work-life",
-    title: "Work Life Tại Winterfrost: Nhịp Làm Việc Của Đội Ngũ Sản Phẩm",
-    metaTitle: "Work Life và văn hóa sản phẩm tại Winterfrost",
-    metaDescription: "Cách đội ngũ Winterfrost tổ chức công việc, phản hồi, học tập và phối hợp để duy trì chất lượng sản phẩm trong một môi trường bền vững.",
-    image: `${IMAGE_ROOT}/winterfrost-work-life.png`,
+    title: "Work Life Tại SoftBuild: Nhịp Làm Việc Của Đội Ngũ Sản Phẩm",
+    metaTitle: "Work Life và văn hóa sản phẩm tại SoftBuild",
+    metaDescription: "Cách đội ngũ SoftBuild tổ chức công việc, phản hồi, học tập và phối hợp để duy trì chất lượng sản phẩm trong một môi trường bền vững.",
+    image: `${IMAGE_ROOT}/softbuild-work-life.png`,
     category: "Work Life",
-    author: "Winterfrost People",
+    author: "SoftBuild People",
     year: "2026",
     intro: [
-      "Văn hóa làm việc của đội ngũ sản phẩm được thể hiện qua cách ra quyết định mỗi ngày: ưu tiên rõ ràng, giao tiếp thẳng thắn và tôn trọng thời gian tập trung. Winterfrost hướng đến nhịp làm việc bền vững thay vì phụ thuộc vào những giai đoạn quá tải kéo dài.",
+      "Văn hóa làm việc của đội ngũ sản phẩm được thể hiện qua cách ra quyết định mỗi ngày: ưu tiên rõ ràng, giao tiếp thẳng thắn và tôn trọng thời gian tập trung. SoftBuild hướng đến nhịp làm việc bền vững thay vì phụ thuộc vào những giai đoạn quá tải kéo dài.",
       "Mỗi thành viên được khuyến khích hiểu tác động của công việc đến khách hàng, chủ động nêu rủi ro và chia sẻ kiến thức để cả đội tiến bộ cùng nhau.",
     ],
     sections: [
@@ -678,13 +678,13 @@ const curatedWinterfrostWiki: ContentPage[] = [
         paragraphs: ["Sau mỗi cột mốc, đội ngũ nhìn lại điều hiệu quả và điều cần thay đổi. Những bài học quan trọng được chuyển thành checklist, template hoặc công cụ để dự án sau bắt đầu tốt hơn."],
       },
     ],
-    closing: "Winterfrost xây dựng môi trường nơi chất lượng sản phẩm và sự phát triển của con người hỗ trợ lẫn nhau, tạo nền tảng cho những quan hệ hợp tác dài hạn.",
+    closing: "SoftBuild xây dựng môi trường nơi chất lượng sản phẩm và sự phát triển của con người hỗ trợ lẫn nhau, tạo nền tảng cho những quan hệ hợp tác dài hạn.",
   }),
 ];
 
-const curatedSlugs = new Set(curatedWinterfrostWiki.map((item) => item.slug));
+const curatedSlugs = new Set(curatedSoftBuildWiki.map((item) => item.slug));
 
-export const winterfrostWiki: ContentPage[] = [
-  ...curatedWinterfrostWiki,
+export const softbuildWiki: ContentPage[] = [
+  ...curatedSoftBuildWiki,
   ...(generatedWiki as ContentPage[]).filter((item) => !curatedSlugs.has(item.slug)),
 ];

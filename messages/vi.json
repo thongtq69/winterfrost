@@ -170,9 +170,9 @@
         "label": "Xem chi tiết dịch vụ",
         "href": "/dich-vu"
       },
-      "imageMain": "/images/brand/winterfrost/hero/winterfrost-energy-emblem-transparent.png?v=wf-energy-20260727",
-      "imageColumn": "/images/brand/winterfrost/hero/winterfrost-pillar.png",
-      "logo": "/images/brand/winterfrost/winterfrost-wordmark.png",
+      "imageMain": "/images/brand/softbuild/hero/softbuild-energy-emblem-transparent.png?v=wf-energy-20260727",
+      "imageColumn": "/images/brand/softbuild/hero/softbuild-pillar.png",
+      "logo": "/images/brand/softbuild/softbuild-wordmark.png",
       "video": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Video-banner-HomeNest-Viet-Nam.mp4",
       "detailCtaPrimary": {
         "label": "Kết nối ngay",
@@ -244,7 +244,7 @@
         "name": "Lê Khải Minh",
         "role": "CO-Founder",
         "quote": "Thành công của khách hàng chính là thước đo duy nhất cho chất lượng dịch vụ và uy tín của chúng tôi.",
-        "image": "/images/people/founder/winterfrost/le-khai-minh.webp"
+        "image": "/images/people/founder/softbuild/le-khai-minh.webp"
       },
       "vision": {
         "title": "Tầm nhìn & Sứ mệnh",
@@ -318,63 +318,63 @@
               "title": "Thiết kế website",
               "desc": "Thiết kế website tốc độ cao, tối ưu trải nghiệm người dùng giúp tăng tỷ lệ chuyển đổi.",
               "href": "/dich-vu/thiet-ke-website",
-              "hoverImg": "/images/services/winterfrost/web-application-development.webp"
+              "hoverImg": "/images/services/softbuild/web-application-development.webp"
             },
             {
               "num": "02",
               "title": "Phát triển AI",
               "desc": "Phát triển AI giúp tự động hóa quy trình và tối ưu hóa dữ liệu doanh nghiệp.",
               "href": "/dich-vu/phat-trien-ai",
-              "hoverImg": "/images/services/winterfrost/ai-development.webp"
+              "hoverImg": "/images/services/softbuild/ai-development.webp"
             },
             {
               "num": "03",
               "title": "Phát triển ứng dụng SaaS",
               "desc": "Thiết kế nền tảng Cloud-native linh hoạt, dễ dàng mở rộng và phục vụ lượng lớn người dùng.",
               "href": "/dich-vu/phat-trien-ung-dung-saas",
-              "hoverImg": "/images/services/winterfrost/saas-application-development.webp"
+              "hoverImg": "/images/services/softbuild/saas-application-development.webp"
             },
             {
               "num": "04",
               "title": "Thiết kế App",
               "desc": "Phát triển ứng dụng IOS và Android hiệu năng cao, đảm bảo vận hành mượt mà và ổn định.",
               "href": "/dich-vu/thiet-ke-app",
-              "hoverImg": "/images/services/winterfrost/mobile-app-development.webp"
+              "hoverImg": "/images/services/softbuild/mobile-app-development.webp"
             },
             {
               "num": "05",
               "title": "Vận hành và bảo trì",
               "desc": "Vận hành và bảo trì phần mềm giúp hệ thống luôn vận hành an toàn và ổn định 24/7.",
               "href": "/dich-vu/van-hanh-va-bao-tri",
-              "hoverImg": "/images/services/winterfrost/software-maintenance-and-support.webp"
+              "hoverImg": "/images/services/softbuild/software-maintenance-and-support.webp"
             },
             {
               "num": "06",
               "title": "Phát triển phần mềm doanh nghiệp",
               "desc": "Tối ưu quy trình vận hành quy mô lớn bằng hệ thống quản trị tập trung, an toàn và bảo mật.",
               "href": "/dich-vu/phat-trien-phan-mem-doanh-nghiep",
-              "hoverImg": "/images/services/winterfrost/enterprise-software-development.webp"
+              "hoverImg": "/images/services/softbuild/enterprise-software-development.webp"
             },
             {
               "num": "07",
               "title": "Phát triển phần mềm MVP",
               "desc": "Phát triển sản phẩm nhanh chóng để kiểm chứng ý tưởng và tối ưu ngân sách đầu tư ban đầu.",
               "href": "/dich-vu/phat-trien-phan-mem-mvp",
-              "hoverImg": "/images/services/winterfrost/mvp-software-development.webp"
+              "hoverImg": "/images/services/softbuild/mvp-software-development.webp"
             },
             {
               "num": "08",
               "title": "Dịch vụ IT",
               "desc": "Cung cấp giải pháp IT toàn diện, quản trị hệ thống và hỗ trợ kỹ thuật chuyên nghiệp.",
               "href": "/dich-vu/dich-vu-it",
-              "hoverImg": "/images/services/winterfrost/custom-software-solutions.webp"
+              "hoverImg": "/images/services/softbuild/custom-software-solutions.webp"
             },
             {
               "num": "09",
               "title": "Tư vấn chuyển đổi số",
               "desc": "Tư vấn lộ trình chuyển đổi số, tối ưu quy trình và ứng dụng công nghệ hiện đại.",
               "href": "/dich-vu/tu-van-chuyen-doi-so",
-              "hoverImg": "/images/services/winterfrost/generative-ai-integration.webp"
+              "hoverImg": "/images/services/softbuild/generative-ai-integration.webp"
             }
           ]
         },
@@ -386,21 +386,21 @@
               "title": "Phát triển DevOps",
               "desc": "Tối ưu quy trình phát triển và vận hành nhằm rút ngắn thời gian ra mắt, tăng tính ổn định cho hệ thống.",
               "href": "/dich-vu/phat-trien-devops",
-              "hoverImg": "/images/services/winterfrost/devops-development.webp"
+              "hoverImg": "/images/services/softbuild/devops-development.webp"
             },
             {
               "num": "02",
               "title": "Phát triển IoT",
               "desc": "Kết nối thiết bị và thu thập dữ liệu thông minh giúp doanh nghiệp khai phá những thông tin giá trị từ thực tế.",
               "href": "/dich-vu/phat-trien-iot",
-              "hoverImg": "/images/services/winterfrost/iot-development.webp"
+              "hoverImg": "/images/services/softbuild/iot-development.webp"
             },
             {
               "num": "03",
               "title": "Phát triển Blockchain",
               "desc": "Xây dựng ứng dụng phi tập trung an toàn, giúp bảo mật dữ liệu tuyệt đối trên nền tảng Blockchain.",
               "href": "/dich-vu/phat-trien-blockchain",
-              "hoverImg": "/images/services/winterfrost/blockchain-development.webp"
+              "hoverImg": "/images/services/softbuild/blockchain-development.webp"
             }
           ]
         }
@@ -602,7 +602,7 @@
           "/images/people/doi-tac/dang-hoai-thuong.webp",
           "/images/people/doi-tac/nguyen-tuan-kiet.webp"
         ],
-        "centerLogo": "/images/brand/winterfrost/winterfrost-wordmark.png"
+        "centerLogo": "/images/brand/softbuild/softbuild-wordmark.png"
       },
       "cardItem3": {
         "title": "Công nghệ tiên tiến",
@@ -651,7 +651,7 @@
         "userMessage": "Tôi cần tư vấn.",
         "userAvatar": "/images/people/anh-hoi-thoai/tran-hoai-an.webp",
         "systemMessage": "SoftBuild sẵn sàng hỗ trợ bạn!",
-        "systemLogo": "/images/brand/winterfrost/winterfrost-symbol-transparent.png",
+        "systemLogo": "/images/brand/softbuild/softbuild-symbol-transparent.png",
         "decoration": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/decoration-pattern.png"
       },
       "cardItem4": {
@@ -1047,12 +1047,12 @@
         "Dịch vụ Offshore Development"
       ],
       "cubeFaces": {
-        "front": "/images/services/winterfrost/cube-faces/nha-trang-travel-website.png",
-        "right": "/images/services/winterfrost/cube-faces/greenscape-mobile-app.png",
-        "back": "/images/services/winterfrost/cube-faces/nova-paint-website.png",
-        "left": "/images/services/winterfrost/cube-faces/planora-mobile-app.png"
+        "front": "/images/services/softbuild/cube-faces/nha-trang-travel-website.png",
+        "right": "/images/services/softbuild/cube-faces/greenscape-mobile-app.png",
+        "back": "/images/services/softbuild/cube-faces/nova-paint-website.png",
+        "left": "/images/services/softbuild/cube-faces/planora-mobile-app.png"
       },
-      "bgImage": "/images/brand/winterfrost/winterfrost-banner.jpg"
+      "bgImage": "/images/brand/softbuild/softbuild-banner.jpg"
     },
     "servicesList": {
       "label": "Các dịch vụ của chúng tôi",
@@ -1065,73 +1065,73 @@
           "slug": "thiet-ke-website",
           "title": "Thiết kế website",
           "desc": "Website chuyên nghiệp phải là công cụ tạo ra lợi nhuận. Tại SoftBuild, chúng tôi xây dựng những nền tảng tốc độ cao, ổn định và tối ưu trải nghiệm người dùng. Từ giao diện đến tính năng, mọi chi tiết đều được tinh chỉnh để thúc đẩy chuyển đổi, giúp doanh nghiệp vận hành trơn tru và khẳng định vị thế thương hiệu.",
-          "img": "/images/services/winterfrost/web-application-development-v2.png"
+          "img": "/images/services/softbuild/web-application-development-v2.png"
         },
         {
           "slug": "phat-trien-ai",
           "title": "Phát triển AI",
           "desc": "SoftBuild giúp bạn phân tích và xử lý dữ liệu của mình thông qua các giải pháp trí tuệ nhân tạo AI và machine learning chuyên biệt. Từ nhận diện hình ảnh đến phân tích dự đoán, chúng tôi hỗ trợ các doanh nghiệp tự động hóa các quy trình quyết định phức tạp nhằm tạo ra lợi thế cạnh tranh rõ ràng. Tất cả các mô hình đều được điều chỉnh để đem lại giá trị thực sự và chính xác nhất cho doanh nghiệp.",
-          "img": "/images/services/winterfrost/ai-development.webp"
+          "img": "/images/services/softbuild/ai-development.webp"
         },
         {
           "slug": "phat-trien-ung-dung-saas",
           "title": "Phát triển ứng dụng SaaS",
           "desc": "SoftBuild chuyên phát triển ứng dụng SaaS trên nền tảng đám mây, giải quyết triệt để bài toán bảo mật và khả năng mở rộng. Chúng tôi tối ưu hóa cấu trúc hệ thống để đảm bảo vận hành ổn định, giúp doanh nghiệp tiết kiệm chi phí hạ tầng và tạo nguồn doanh thu định kỳ bền vững.",
-          "img": "/images/services/winterfrost/saas-application-development.webp"
+          "img": "/images/services/softbuild/saas-application-development.webp"
         },
         {
           "slug": "thiet-ke-app",
           "title": "Thiết kế App",
           "desc": "SoftBuild chuyên phát triển ứng dụng IOS và Android hiệu suất cao, đảm bảo tính ổn định và bảo mật tuyệt đối. Giải pháp của chúng tôi tương thích linh hoạt với hệ thống sẵn có, giúp doanh nghiệp kết nối sâu sắc với khách hàng và tăng trưởng bền vững.",
-          "img": "/images/services/winterfrost/mobile-app-development.webp"
+          "img": "/images/services/softbuild/mobile-app-development.webp"
         },
         {
           "slug": "van-hanh-va-bao-tri",
           "title": "Vận hành và bảo trì",
           "desc": "Chúng tôi hiểu rằng một hệ thống ổn định là yếu tố sống còn đối với một doanh nghiệp. SoftBuild chủ động bảo trì và cập nhật bảo mật để phần mềm của bạn luôn hoạt động tốt nhất có thể. Đội ngũ kỹ thuật sẵn sàng giải quyết nhanh chóng mọi vấn đề để quá trình làm việc của đơn vị không bị gián đoạn. Bạn có thể hoàn toàn yên tâm tập trung phát triển kinh doanh vì chúng tôi ở đây để bảo vệ hệ thống mỗi ngày.",
-          "img": "/images/services/winterfrost/software-maintenance-and-support.webp"
+          "img": "/images/services/softbuild/software-maintenance-and-support.webp"
         },
         {
           "slug": "phat-trien-phan-mem-doanh-nghiep",
           "title": "Phát triển phần mềm doanh nghiệp",
           "desc": "SoftBuild phát triển các hệ thống quản lý chuyên sâu, giải quyết triệt để mọi phức tạp trong vận hành. Chúng tôi tùy biến phần mềm theo quy trình riêng biệt của từng doanh nghiệp, giúp số hóa dữ liệu tập trung và bảo mật tuyệt đối. Đây là nền tảng vững chắc để bạn chuẩn hóa tổ chức và tối ưu hóa nguồn lực bền vững.",
-          "img": "/images/services/winterfrost/enterprise-software-development.webp"
+          "img": "/images/services/softbuild/enterprise-software-development.webp"
         },
         {
           "slug": "phat-trien-phan-mem-mvp",
           "title": "Phát triển phần mềm MVP",
           "desc": "SoftBuild giúp doanh nghiệp ra mắt sản phẩm nhanh chóng với quy trình phát triển MVP tinh gọn. Chúng tôi tập trung vào các tính năng cốt lõi để xác thực ý tưởng và thu thập phản hồi thực tế, giúp tối ưu ngân sách và giảm thiểu rủi ro trước khi đầu tư lớn. Đây là bước đệm thông minh để bạn khởi đầu hiệu quả và an toàn.",
-          "img": "/images/services/winterfrost/mvp-software-development.webp"
+          "img": "/images/services/softbuild/mvp-software-development.webp"
         },
         {
           "slug": "dich-vu-it",
           "title": "Dịch vụ IT",
           "desc": "SoftBuild trực tiếp phân tích quy trình hiện tại để thay thế các thao tác thủ công bằng hệ thống phần mềm quản lý. Việc số hóa giúp dữ liệu được lưu trữ tập trung, giảm thiểu sai sót do con người và rút ngắn thời gian xử lý công việc. Doanh nghiệp sẽ nắm bắt được số liệu thực tế theo thời gian thực để đưa ra các quyết định điều hành chính xác, từ đó tối ưu hóa chi phí vận hành và nâng cao hiệu suất làm việc của nhân sự.",
-          "img": "/images/services/winterfrost/custom-software-solutions.webp"
+          "img": "/images/services/softbuild/custom-software-solutions.webp"
         },
         {
           "slug": "tu-van-chuyen-doi-so",
           "title": "Tư vấn chuyển đổi số",
           "desc": "Chúng tôi thực hiện thiết lập, vận hành và bảo trì toàn bộ hệ thống máy chủ, mạng nội bộ và các thiết bị kỹ thuật cho doanh nghiệp. SoftBuild áp dụng các tiêu chuẩn bảo mật và quy trình sao lưu định kỳ để ngăn chặn rủi ro mất mát thông tin hoặc xâm nhập trái phép. Hệ thống kỹ thuật được duy trì hoạt động liên tục giúp công việc không bị gián đoạn, đồng thời giúp doanh nghiệp giảm bớt chi phí tuyển dụng và quản lý đội ngũ nhân sự IT nội bộ.",
-          "img": "/images/services/winterfrost/generative-ai-integration.webp"
+          "img": "/images/services/softbuild/generative-ai-integration.webp"
         },
         {
           "slug": "phat-trien-devops",
           "title": "Phát triển DevOps",
           "desc": "SoftBuild cải thiện quy trình phát triển phần mềm nhờ vào giải pháp CI/CD tự động, giúp giảm thiểu thời gian giới thiệu sản phẩm xuống mức tối thiểu. Chúng tôi chú trọng vào việc xây dựng một hạ tầng đám mây an toàn và hệ thống giám sát liên tục 24/7 để đảm bảo ổn định.",
-          "img": "/images/services/winterfrost/devops-development.webp"
+          "img": "/images/services/softbuild/devops-development.webp"
         },
         {
           "slug": "phat-trien-iot",
           "title": "Phát triển IoT",
           "desc": "SoftBuild liên kết các thiết bị thông minh và thu thập thông tin giúp các doanh nghiệp cải thiện quy trình hoạt động. Chúng tôi chú trọng vào việc phát triển những giải pháp IoT an toàn và linh hoạt, cho phép bạn theo dõi dữ liệu theo thời gian thực. Bạn sẽ có một hệ sinh thái kết nối mạnh mẽ để đưa ra những quyết định dựa trên dữ liệu chính xác nhất.",
-          "img": "/images/services/winterfrost/iot-development.webp"
+          "img": "/images/services/softbuild/iot-development.webp"
         },
         {
           "slug": "phat-trien-blockchain",
           "title": "Phát triển Blockchain",
           "desc": "SoftBuild xây dựng giải pháp Blockchain phi tập trung giúp bảo mật dữ liệu tuyệt đối. Chúng tôi ứng dụng Smart Contract để tối ưu chi phí và loại bỏ hoàn toàn rủi ro trung gian. Đây là nền tảng vững chắc giúp bạn củng cố niềm tin khách hàng và bứt phá hiệu quả trong kỷ nguyên số.",
-          "img": "/images/services/winterfrost/blockchain-development.webp"
+          "img": "/images/services/softbuild/blockchain-development.webp"
         }
       ]
     },

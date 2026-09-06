@@ -140,7 +140,7 @@
     "description": "SoftBuild cung cấp dịch vụ theo dõi, cập nhật và xử lý sự cố liên tục. Chúng tôi giúp hệ thống của bạn luôn hoạt động an toàn, chính xác và không bị gián đoạn trong suốt quá trình kinh doanh.",
     "ctaLabel": "Nhận tư vấn bảo trì",
     "ctaHref": "/lien-he",
-    "image": "/images/people/cta/winterfrost/quan-ly-nam.png"
+    "image": "/images/people/cta/softbuild/quan-ly-nam.png"
   },
   "counter": {
     "badgeText": "Thành tựu của chúng tôi",
@@ -360,21 +360,21 @@
         "slug": "phat-trien-phan-mem-doanh-nghiep",
         "title": "Phát triển phần mềm doanh nghiệp",
         "desc": "Hiện đại hóa hoạt động kinh doanh bằng các giải pháp quản trị chuyên sâu và bảo mật cấp cao. Chúng tôi xây dựng các hệ thống ERP, CRM tùy chỉnh giúp đồng bộ dữ liệu toàn diện và tối ưu hóa quy trình vận hành cho các doanh nghiệp quy mô lớn.",
-        "image": "/images/services/winterfrost/enterprise-software-development.webp",
+        "image": "/images/services/softbuild/enterprise-software-development.webp",
         "href": "/dich-vu/phat-trien-phan-mem-doanh-nghiep"
       },
       {
         "slug": "phat-trien-devops",
         "title": "Dịch vụ phát triển DevOps",
         "desc": "Xây dựng thêm các module tính năng hoặc thiết kế lại kiến trúc khi quy mô doanh nghiệp thay đổi. Chúng tôi đảm bảo quá trình chuyển đổi từ bảo trì sang phát triển mới diễn ra liền mạch.",
-        "image": "/images/services/winterfrost/devops-development.webp",
+        "image": "/images/services/softbuild/devops-development.webp",
         "href": "/dich-vu/phat-trien-devops"
       },
       {
         "slug": "phat-trien-ai",
         "title": "Phát triển AI",
         "desc": "Nâng tầm hệ thống hiện có thông qua việc tích hợp các mô hình trí tuệ nhân tạo riêng biệt. Từ tự động hóa quy trình đến phân tích dữ liệu dự báo, chúng tôi giúp doanh nghiệp sở hữu lợi thế cạnh tranh tuyệt đối dựa trên nền tảng dữ liệu sẵn có.",
-        "image": "/images/services/winterfrost/ai-development.webp",
+        "image": "/images/services/softbuild/ai-development.webp",
         "href": "/dich-vu/phat-trien-ai"
       }
     ]

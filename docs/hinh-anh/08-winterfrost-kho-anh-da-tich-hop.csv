@@ -1,11 +1,11 @@
 stt,nhom,vai_tro,duong_dan_website,duong_dan_tap_tin,dinh_dang,kich_thuoc_px,dung_luong_kb,trang_thai
-1,Thương hiệu Winterfrost,Tài sản hình ảnh Winterfrost,/images/brand/winterfrost/contact/zalo.png,public/images/brand/winterfrost/contact/zalo.png,PNG,112 × 112,11,DA_TICH_HOP
-2,Thương hiệu Winterfrost,Tài sản hình ảnh Winterfrost,/images/brand/winterfrost/hero/winterfrost-pillar.png,public/images/brand/winterfrost/hero/winterfrost-pillar.png,PNG,250 × 718,145,DA_TICH_HOP
-3,Thương hiệu Winterfrost,Tài sản hình ảnh Winterfrost,/images/brand/winterfrost/hero/winterfrost-platform.png,public/images/brand/winterfrost/hero/winterfrost-platform.png,PNG,400 × 280,92,DA_TICH_HOP
-4,Thương hiệu Winterfrost,Tài sản hình ảnh Winterfrost,/images/brand/winterfrost/winterfrost-banner.jpg,public/images/brand/winterfrost/winterfrost-banner.jpg,JPEG,1508 × 1196,75,DA_TICH_HOP
-5,Thương hiệu Winterfrost,Tài sản hình ảnh Winterfrost,/images/brand/winterfrost/winterfrost-logo-source.jpg,public/images/brand/winterfrost/winterfrost-logo-source.jpg,JPEG,1004 × 975,76,DA_TICH_HOP
-6,Thương hiệu Winterfrost,Biểu tượng Winterfrost,/images/brand/winterfrost/winterfrost-symbol-transparent.png,public/images/brand/winterfrost/winterfrost-symbol-transparent.png,PNG,1004 × 975,671,DA_TICH_HOP
-7,Thương hiệu Winterfrost,Logo chữ Winterfrost,/images/brand/winterfrost/winterfrost-wordmark.png,public/images/brand/winterfrost/winterfrost-wordmark.png,PNG,520 × 128,23,DA_TICH_HOP
+1,Thương hiệu SoftBuild,Tài sản hình ảnh SoftBuild,/images/brand/softbuild/contact/zalo.png,public/images/brand/softbuild/contact/zalo.png,PNG,112 × 112,11,DA_TICH_HOP
+2,Thương hiệu SoftBuild,Tài sản hình ảnh SoftBuild,/images/brand/softbuild/hero/softbuild-pillar.png,public/images/brand/softbuild/hero/softbuild-pillar.png,PNG,250 × 718,145,DA_TICH_HOP
+3,Thương hiệu SoftBuild,Tài sản hình ảnh SoftBuild,/images/brand/softbuild/hero/softbuild-platform.png,public/images/brand/softbuild/hero/softbuild-platform.png,PNG,400 × 280,92,DA_TICH_HOP
+4,Thương hiệu SoftBuild,Tài sản hình ảnh SoftBuild,/images/brand/softbuild/softbuild-banner.jpg,public/images/brand/softbuild/softbuild-banner.jpg,JPEG,1508 × 1196,75,DA_TICH_HOP
+5,Thương hiệu SoftBuild,Tài sản hình ảnh SoftBuild,/images/brand/softbuild/softbuild-logo-source.jpg,public/images/brand/softbuild/softbuild-logo-source.jpg,JPEG,1004 × 975,76,DA_TICH_HOP
+6,Thương hiệu SoftBuild,Biểu tượng SoftBuild,/images/brand/softbuild/softbuild-symbol-transparent.png,public/images/brand/softbuild/softbuild-symbol-transparent.png,PNG,1004 × 975,671,DA_TICH_HOP
+7,Thương hiệu SoftBuild,Logo chữ SoftBuild,/images/brand/softbuild/softbuild-wordmark.png,public/images/brand/softbuild/softbuild-wordmark.png,PNG,520 × 128,23,DA_TICH_HOP
 8,Dự án và thương hiệu khách hàng,Ảnh bìa dự án,/images/projects/aeromint-cleanroom/01-anh-bia-du-an.webp,public/images/projects/aeromint-cleanroom/01-anh-bia-du-an.webp,WEBP,963 × 557,10,DA_TICH_HOP
 9,Dự án và thương hiệu khách hàng,Màn hình hoặc ảnh chi tiết dự án,/images/projects/aeromint-cleanroom/02-man-hinh-website.webp,public/images/projects/aeromint-cleanroom/02-man-hinh-website.webp,WEBP,1905 × 1080,22,DA_TICH_HOP
 10,Dự án và thương hiệu khách hàng,Màn hình hoặc ảnh chi tiết dự án,/images/projects/aeromint-cleanroom/03-man-hinh-website.webp,public/images/projects/aeromint-cleanroom/03-man-hinh-website.webp,WEBP,1901 × 1079,23,DA_TICH_HOP
@@ -263,17 +263,17 @@ stt,nhom,vai_tro,duong_dan_website,duong_dan_tap_tin,dinh_dang,kich_thuoc_px,dun
 262,Dự án và thương hiệu khách hàng,Màn hình hoặc ảnh chi tiết dự án,/images/projects/website-zenovia-retail/brand/symbol.svg,public/images/projects/website-zenovia-retail/brand/symbol.svg,SVG,256 × 256,1,DA_TICH_HOP
 263,Dự án và thương hiệu khách hàng,Logo chữ dự án,/images/projects/website-zenovia-retail/brand/wordmark.png,public/images/projects/website-zenovia-retail/brand/wordmark.png,PNG,1000 × 256,23,DA_TICH_HOP
 264,Dự án và thương hiệu khách hàng,Màn hình hoặc ảnh chi tiết dự án,/images/projects/website-zenovia-retail/brand/wordmark.svg,public/images/projects/website-zenovia-retail/brand/wordmark.svg,SVG,1000 × 256,1,DA_TICH_HOP
-265,Nhân vật và văn phòng,Tài sản hình ảnh Winterfrost,/images/people/anh-hoi-thoai/tran-hoai-an.webp,public/images/people/anh-hoi-thoai/tran-hoai-an.webp,WEBP,1000 × 1000,54,DA_TICH_HOP
-266,Nhân vật và văn phòng,Nhân vật CTA nền trong suốt,/images/people/cta/winterfrost/chuyen-vien-nam-tre.png,public/images/people/cta/winterfrost/chuyen-vien-nam-tre.png,PNG,1135 × 1386,474,DA_TICH_HOP
-267,Nhân vật và văn phòng,Nhân vật CTA nền trong suốt,/images/people/cta/winterfrost/chuyen-vien-nu.png,public/images/people/cta/winterfrost/chuyen-vien-nu.png,PNG,1134 × 1387,415,DA_TICH_HOP
-268,Nhân vật và văn phòng,Nhân vật CTA nền trong suốt,/images/people/cta/winterfrost/chuyen-vien-tu-van-viet-nam-chroma.png,public/images/people/cta/winterfrost/chuyen-vien-tu-van-viet-nam-chroma.png,PNG,1133 × 1388,1123,DA_TICH_HOP
-269,Nhân vật và văn phòng,Nhân vật CTA nền trong suốt,/images/people/cta/winterfrost/chuyen-vien-tu-van-viet-nam.png,public/images/people/cta/winterfrost/chuyen-vien-tu-van-viet-nam.png,PNG,1133 × 1388,415,DA_TICH_HOP
-270,Nhân vật và văn phòng,Tệp master,/images/people/cta/winterfrost/masters/chuyen-vien-nam-tre-chroma.png,public/images/people/cta/winterfrost/masters/chuyen-vien-nam-tre-chroma.png,PNG,1135 × 1386,1180,MASTER_LUU_TRU
-271,Nhân vật và văn phòng,Tệp master,/images/people/cta/winterfrost/masters/chuyen-vien-nu-chroma.png,public/images/people/cta/winterfrost/masters/chuyen-vien-nu-chroma.png,PNG,1134 × 1387,1116,MASTER_LUU_TRU
-272,Nhân vật và văn phòng,Tệp master,/images/people/cta/winterfrost/masters/nhan-vien-cong-nghe-tre-chroma.png,public/images/people/cta/winterfrost/masters/nhan-vien-cong-nghe-tre-chroma.png,PNG,1133 × 1388,1199,MASTER_LUU_TRU
-273,Nhân vật và văn phòng,Tệp master,/images/people/cta/winterfrost/masters/quan-ly-nam-chroma.png,public/images/people/cta/winterfrost/masters/quan-ly-nam-chroma.png,PNG,1133 × 1388,1206,MASTER_LUU_TRU
-274,Nhân vật và văn phòng,Nhân vật CTA nền trong suốt,/images/people/cta/winterfrost/nhan-vien-cong-nghe-tre.png,public/images/people/cta/winterfrost/nhan-vien-cong-nghe-tre.png,PNG,1133 × 1388,509,DA_TICH_HOP
-275,Nhân vật và văn phòng,Nhân vật CTA nền trong suốt,/images/people/cta/winterfrost/quan-ly-nam.png,public/images/people/cta/winterfrost/quan-ly-nam.png,PNG,1133 × 1388,516,DA_TICH_HOP
+265,Nhân vật và văn phòng,Tài sản hình ảnh SoftBuild,/images/people/anh-hoi-thoai/tran-hoai-an.webp,public/images/people/anh-hoi-thoai/tran-hoai-an.webp,WEBP,1000 × 1000,54,DA_TICH_HOP
+266,Nhân vật và văn phòng,Nhân vật CTA nền trong suốt,/images/people/cta/softbuild/chuyen-vien-nam-tre.png,public/images/people/cta/softbuild/chuyen-vien-nam-tre.png,PNG,1135 × 1386,474,DA_TICH_HOP
+267,Nhân vật và văn phòng,Nhân vật CTA nền trong suốt,/images/people/cta/softbuild/chuyen-vien-nu.png,public/images/people/cta/softbuild/chuyen-vien-nu.png,PNG,1134 × 1387,415,DA_TICH_HOP
+268,Nhân vật và văn phòng,Nhân vật CTA nền trong suốt,/images/people/cta/softbuild/chuyen-vien-tu-van-viet-nam-chroma.png,public/images/people/cta/softbuild/chuyen-vien-tu-van-viet-nam-chroma.png,PNG,1133 × 1388,1123,DA_TICH_HOP
+269,Nhân vật và văn phòng,Nhân vật CTA nền trong suốt,/images/people/cta/softbuild/chuyen-vien-tu-van-viet-nam.png,public/images/people/cta/softbuild/chuyen-vien-tu-van-viet-nam.png,PNG,1133 × 1388,415,DA_TICH_HOP
+270,Nhân vật và văn phòng,Tệp master,/images/people/cta/softbuild/masters/chuyen-vien-nam-tre-chroma.png,public/images/people/cta/softbuild/masters/chuyen-vien-nam-tre-chroma.png,PNG,1135 × 1386,1180,MASTER_LUU_TRU
+271,Nhân vật và văn phòng,Tệp master,/images/people/cta/softbuild/masters/chuyen-vien-nu-chroma.png,public/images/people/cta/softbuild/masters/chuyen-vien-nu-chroma.png,PNG,1134 × 1387,1116,MASTER_LUU_TRU
+272,Nhân vật và văn phòng,Tệp master,/images/people/cta/softbuild/masters/nhan-vien-cong-nghe-tre-chroma.png,public/images/people/cta/softbuild/masters/nhan-vien-cong-nghe-tre-chroma.png,PNG,1133 × 1388,1199,MASTER_LUU_TRU
+273,Nhân vật và văn phòng,Tệp master,/images/people/cta/softbuild/masters/quan-ly-nam-chroma.png,public/images/people/cta/softbuild/masters/quan-ly-nam-chroma.png,PNG,1133 × 1388,1206,MASTER_LUU_TRU
+274,Nhân vật và văn phòng,Nhân vật CTA nền trong suốt,/images/people/cta/softbuild/nhan-vien-cong-nghe-tre.png,public/images/people/cta/softbuild/nhan-vien-cong-nghe-tre.png,PNG,1133 × 1388,509,DA_TICH_HOP
+275,Nhân vật và văn phòng,Nhân vật CTA nền trong suốt,/images/people/cta/softbuild/quan-ly-nam.png,public/images/people/cta/softbuild/quan-ly-nam.png,PNG,1133 × 1388,516,DA_TICH_HOP
 276,Nhân vật và văn phòng,Chân dung đội ngũ,/images/people/doi-ngu/bui-hai-dang.webp,public/images/people/doi-ngu/bui-hai-dang.webp,WEBP,1200 × 1500,95,DA_TICH_HOP
 277,Nhân vật và văn phòng,Chân dung đội ngũ,/images/people/doi-ngu/dang-gia-duy.webp,public/images/people/doi-ngu/dang-gia-duy.webp,WEBP,1200 × 1500,112,DA_TICH_HOP
 278,Nhân vật và văn phòng,Chân dung đội ngũ,/images/people/doi-ngu/dang-hung-cuong.webp,public/images/people/doi-ngu/dang-hung-cuong.webp,WEBP,1200 × 1500,96,DA_TICH_HOP
@@ -319,49 +319,49 @@ stt,nhom,vai_tro,duong_dan_website,duong_dan_tap_tin,dinh_dang,kich_thuoc_px,dun
 318,Nhân vật và văn phòng,Chân dung đối tác,/images/people/doi-tac/tran-khanh-phong.webp,public/images/people/doi-tac/tran-khanh-phong.webp,WEBP,1000 × 1000,59,DA_TICH_HOP
 319,Nhân vật và văn phòng,Chân dung đối tác,/images/people/doi-tac/vo-khanh-linh.webp,public/images/people/doi-tac/vo-khanh-linh.webp,WEBP,1000 × 1000,52,DA_TICH_HOP
 320,Nhân vật và văn phòng,Chân dung đối tác,/images/people/doi-tac/vo-nhat-nam.webp,public/images/people/doi-tac/vo-nhat-nam.webp,WEBP,1000 × 1000,62,DA_TICH_HOP
-321,Nhân vật và văn phòng,Tệp master,/images/people/founder/winterfrost/le-khai-minh-master.png,public/images/people/founder/winterfrost/le-khai-minh-master.png,PNG,1122 × 1402,1831,MASTER_LUU_TRU
-322,Nhân vật và văn phòng,Tài sản hình ảnh Winterfrost,/images/people/founder/winterfrost/le-khai-minh.webp,public/images/people/founder/winterfrost/le-khai-minh.webp,WEBP,1600 × 2000,123,DA_TICH_HOP
+321,Nhân vật và văn phòng,Tệp master,/images/people/founder/softbuild/le-khai-minh-master.png,public/images/people/founder/softbuild/le-khai-minh-master.png,PNG,1122 × 1402,1831,MASTER_LUU_TRU
+322,Nhân vật và văn phòng,Tài sản hình ảnh SoftBuild,/images/people/founder/softbuild/le-khai-minh.webp,public/images/people/founder/softbuild/le-khai-minh.webp,WEBP,1600 × 2000,123,DA_TICH_HOP
 323,Nhân vật và văn phòng,Chân dung khách hàng,/images/people/khach-hang/dang-minh-khoa.webp,public/images/people/khach-hang/dang-minh-khoa.webp,WEBP,1000 × 1000,62,DA_TICH_HOP
 324,Nhân vật và văn phòng,Chân dung khách hàng,/images/people/khach-hang/le-duc-anh.webp,public/images/people/khach-hang/le-duc-anh.webp,WEBP,1000 × 1000,53,DA_TICH_HOP
 325,Nhân vật và văn phòng,Chân dung khách hàng,/images/people/khach-hang/nguyen-quoc-viet.webp,public/images/people/khach-hang/nguyen-quoc-viet.webp,WEBP,1000 × 1000,56,DA_TICH_HOP
 326,Nhân vật và văn phòng,Chân dung khách hàng,/images/people/khach-hang/pham-hai-long.webp,public/images/people/khach-hang/pham-hai-long.webp,WEBP,1000 × 1000,47,DA_TICH_HOP
 327,Nhân vật và văn phòng,Chân dung khách hàng,/images/people/khach-hang/tran-minh-chau.webp,public/images/people/khach-hang/tran-minh-chau.webp,WEBP,1000 × 1000,55,DA_TICH_HOP
 328,Nhân vật và văn phòng,Chân dung khách hàng,/images/people/khach-hang/vo-thanh-huong.webp,public/images/people/khach-hang/vo-thanh-huong.webp,WEBP,1000 × 1000,57,DA_TICH_HOP
-329,Nhân vật và văn phòng,Tệp master,/images/people/library/winterfrost/portrait-nam-01-master.png,public/images/people/library/winterfrost/portrait-nam-01-master.png,PNG,1122 × 1402,1992,MASTER_LUU_TRU
-330,Nhân vật và văn phòng,Tài sản hình ảnh Winterfrost,/images/people/library/winterfrost/portrait-nam-01.webp,public/images/people/library/winterfrost/portrait-nam-01.webp,WEBP,1200 × 1500,104,DA_TICH_HOP
-331,Nhân vật và văn phòng,Tệp master,/images/people/library/winterfrost/portrait-nam-02-master.png,public/images/people/library/winterfrost/portrait-nam-02-master.png,PNG,1122 × 1402,2018,MASTER_LUU_TRU
-332,Nhân vật và văn phòng,Tài sản hình ảnh Winterfrost,/images/people/library/winterfrost/portrait-nam-02.webp,public/images/people/library/winterfrost/portrait-nam-02.webp,WEBP,1200 × 1500,132,DA_TICH_HOP
-333,Nhân vật và văn phòng,Tệp master,/images/people/library/winterfrost/portrait-nam-03-master.png,public/images/people/library/winterfrost/portrait-nam-03-master.png,PNG,1122 × 1402,1769,MASTER_LUU_TRU
-334,Nhân vật và văn phòng,Tài sản hình ảnh Winterfrost,/images/people/library/winterfrost/portrait-nam-03.webp,public/images/people/library/winterfrost/portrait-nam-03.webp,WEBP,1200 × 1500,86,DA_TICH_HOP
-335,Nhân vật và văn phòng,Tệp master,/images/people/library/winterfrost/portrait-nam-04-master.png,public/images/people/library/winterfrost/portrait-nam-04-master.png,PNG,1122 × 1402,1996,MASTER_LUU_TRU
-336,Nhân vật và văn phòng,Tài sản hình ảnh Winterfrost,/images/people/library/winterfrost/portrait-nam-04.webp,public/images/people/library/winterfrost/portrait-nam-04.webp,WEBP,1200 × 1500,117,DA_TICH_HOP
-337,Nhân vật và văn phòng,Tệp master,/images/people/library/winterfrost/portrait-nam-05-master.png,public/images/people/library/winterfrost/portrait-nam-05-master.png,PNG,1122 × 1402,1937,MASTER_LUU_TRU
-338,Nhân vật và văn phòng,Tài sản hình ảnh Winterfrost,/images/people/library/winterfrost/portrait-nam-05.webp,public/images/people/library/winterfrost/portrait-nam-05.webp,WEBP,1200 × 1500,112,DA_TICH_HOP
-339,Nhân vật và văn phòng,Tệp master,/images/people/library/winterfrost/portrait-nam-06-master.png,public/images/people/library/winterfrost/portrait-nam-06-master.png,PNG,1122 × 1402,1707,MASTER_LUU_TRU
-340,Nhân vật và văn phòng,Tài sản hình ảnh Winterfrost,/images/people/library/winterfrost/portrait-nam-06.webp,public/images/people/library/winterfrost/portrait-nam-06.webp,WEBP,1200 × 1500,78,DA_TICH_HOP
-341,Nhân vật và văn phòng,Tệp master,/images/people/library/winterfrost/portrait-nu-01-master.png,public/images/people/library/winterfrost/portrait-nu-01-master.png,PNG,1122 × 1402,2015,MASTER_LUU_TRU
-342,Nhân vật và văn phòng,Tài sản hình ảnh Winterfrost,/images/people/library/winterfrost/portrait-nu-01.webp,public/images/people/library/winterfrost/portrait-nu-01.webp,WEBP,1200 × 1500,110,DA_TICH_HOP
-343,Nhân vật và văn phòng,Tệp master,/images/people/library/winterfrost/portrait-nu-02-master.png,public/images/people/library/winterfrost/portrait-nu-02-master.png,PNG,1122 × 1402,1921,MASTER_LUU_TRU
-344,Nhân vật và văn phòng,Tài sản hình ảnh Winterfrost,/images/people/library/winterfrost/portrait-nu-02.webp,public/images/people/library/winterfrost/portrait-nu-02.webp,WEBP,1200 × 1500,112,DA_TICH_HOP
-345,Nhân vật và văn phòng,Tệp master,/images/people/library/winterfrost/portrait-nu-03-master.png,public/images/people/library/winterfrost/portrait-nu-03-master.png,PNG,1122 × 1402,2107,MASTER_LUU_TRU
-346,Nhân vật và văn phòng,Tài sản hình ảnh Winterfrost,/images/people/library/winterfrost/portrait-nu-03.webp,public/images/people/library/winterfrost/portrait-nu-03.webp,WEBP,1200 × 1500,139,DA_TICH_HOP
-347,Nhân vật và văn phòng,Tệp master,/images/people/library/winterfrost/portrait-nu-04-master.png,public/images/people/library/winterfrost/portrait-nu-04-master.png,PNG,1122 × 1402,2049,MASTER_LUU_TRU
-348,Nhân vật và văn phòng,Tài sản hình ảnh Winterfrost,/images/people/library/winterfrost/portrait-nu-04.webp,public/images/people/library/winterfrost/portrait-nu-04.webp,WEBP,1200 × 1500,136,DA_TICH_HOP
-349,Nhân vật và văn phòng,Tệp master,/images/people/library/winterfrost/portrait-nu-05-master.png,public/images/people/library/winterfrost/portrait-nu-05-master.png,PNG,1122 × 1402,1926,MASTER_LUU_TRU
-350,Nhân vật và văn phòng,Tài sản hình ảnh Winterfrost,/images/people/library/winterfrost/portrait-nu-05.webp,public/images/people/library/winterfrost/portrait-nu-05.webp,WEBP,1200 × 1500,103,DA_TICH_HOP
-351,Nhân vật và văn phòng,Tệp master,/images/people/library/winterfrost/portrait-nu-06-master.png,public/images/people/library/winterfrost/portrait-nu-06-master.png,PNG,1122 × 1402,1875,MASTER_LUU_TRU
-352,Nhân vật và văn phòng,Tài sản hình ảnh Winterfrost,/images/people/library/winterfrost/portrait-nu-06.webp,public/images/people/library/winterfrost/portrait-nu-06.webp,WEBP,1200 × 1500,103,DA_TICH_HOP
-353,Nhân vật và văn phòng,Tệp master,/images/people/scenes/winterfrost/masters/backend-engineer.png,public/images/people/scenes/winterfrost/masters/backend-engineer.png,PNG,1086 × 1448,1845,MASTER_LUU_TRU
-354,Nhân vật và văn phòng,Tệp master,/images/people/scenes/winterfrost/masters/business-analyst.png,public/images/people/scenes/winterfrost/masters/business-analyst.png,PNG,1448 × 1086,1774,MASTER_LUU_TRU
-355,Nhân vật và văn phòng,Tệp master,/images/people/scenes/winterfrost/masters/doi-ngu-tuyen-dung.png,public/images/people/scenes/winterfrost/masters/doi-ngu-tuyen-dung.png,PNG,1672 × 941,1985,MASTER_LUU_TRU
-356,Nhân vật và văn phòng,Tệp master,/images/people/scenes/winterfrost/masters/flutter-developer.png,public/images/people/scenes/winterfrost/masters/flutter-developer.png,PNG,1254 × 1254,1770,MASTER_LUU_TRU
-357,Nhân vật và văn phòng,Tệp master,/images/people/scenes/winterfrost/masters/kiem-thu-phan-mem.png,public/images/people/scenes/winterfrost/masters/kiem-thu-phan-mem.png,PNG,1672 × 941,1922,MASTER_LUU_TRU
-358,Nhân vật và văn phòng,Tệp master,/images/people/scenes/winterfrost/masters/van-phong.png,public/images/people/scenes/winterfrost/masters/van-phong.png,PNG,1536 × 1024,2122,MASTER_LUU_TRU
-359,Nhân vật và văn phòng,Tài sản hình ảnh Winterfrost,/images/people/tuyen-dung/doi-ngu-winterfrost.webp,public/images/people/tuyen-dung/doi-ngu-winterfrost.webp,WEBP,2560 × 1440,238,DA_TICH_HOP
-360,Nhân vật và văn phòng,Ảnh văn phòng,/images/people/van-phong/van-phong-winterfrost.webp,public/images/people/van-phong/van-phong-winterfrost.webp,WEBP,2400 × 1600,298,DA_TICH_HOP
+329,Nhân vật và văn phòng,Tệp master,/images/people/library/softbuild/portrait-nam-01-master.png,public/images/people/library/softbuild/portrait-nam-01-master.png,PNG,1122 × 1402,1992,MASTER_LUU_TRU
+330,Nhân vật và văn phòng,Tài sản hình ảnh SoftBuild,/images/people/library/softbuild/portrait-nam-01.webp,public/images/people/library/softbuild/portrait-nam-01.webp,WEBP,1200 × 1500,104,DA_TICH_HOP
+331,Nhân vật và văn phòng,Tệp master,/images/people/library/softbuild/portrait-nam-02-master.png,public/images/people/library/softbuild/portrait-nam-02-master.png,PNG,1122 × 1402,2018,MASTER_LUU_TRU
+332,Nhân vật và văn phòng,Tài sản hình ảnh SoftBuild,/images/people/library/softbuild/portrait-nam-02.webp,public/images/people/library/softbuild/portrait-nam-02.webp,WEBP,1200 × 1500,132,DA_TICH_HOP
+333,Nhân vật và văn phòng,Tệp master,/images/people/library/softbuild/portrait-nam-03-master.png,public/images/people/library/softbuild/portrait-nam-03-master.png,PNG,1122 × 1402,1769,MASTER_LUU_TRU
+334,Nhân vật và văn phòng,Tài sản hình ảnh SoftBuild,/images/people/library/softbuild/portrait-nam-03.webp,public/images/people/library/softbuild/portrait-nam-03.webp,WEBP,1200 × 1500,86,DA_TICH_HOP
+335,Nhân vật và văn phòng,Tệp master,/images/people/library/softbuild/portrait-nam-04-master.png,public/images/people/library/softbuild/portrait-nam-04-master.png,PNG,1122 × 1402,1996,MASTER_LUU_TRU
+336,Nhân vật và văn phòng,Tài sản hình ảnh SoftBuild,/images/people/library/softbuild/portrait-nam-04.webp,public/images/people/library/softbuild/portrait-nam-04.webp,WEBP,1200 × 1500,117,DA_TICH_HOP
+337,Nhân vật và văn phòng,Tệp master,/images/people/library/softbuild/portrait-nam-05-master.png,public/images/people/library/softbuild/portrait-nam-05-master.png,PNG,1122 × 1402,1937,MASTER_LUU_TRU
+338,Nhân vật và văn phòng,Tài sản hình ảnh SoftBuild,/images/people/library/softbuild/portrait-nam-05.webp,public/images/people/library/softbuild/portrait-nam-05.webp,WEBP,1200 × 1500,112,DA_TICH_HOP
+339,Nhân vật và văn phòng,Tệp master,/images/people/library/softbuild/portrait-nam-06-master.png,public/images/people/library/softbuild/portrait-nam-06-master.png,PNG,1122 × 1402,1707,MASTER_LUU_TRU
+340,Nhân vật và văn phòng,Tài sản hình ảnh SoftBuild,/images/people/library/softbuild/portrait-nam-06.webp,public/images/people/library/softbuild/portrait-nam-06.webp,WEBP,1200 × 1500,78,DA_TICH_HOP
+341,Nhân vật và văn phòng,Tệp master,/images/people/library/softbuild/portrait-nu-01-master.png,public/images/people/library/softbuild/portrait-nu-01-master.png,PNG,1122 × 1402,2015,MASTER_LUU_TRU
+342,Nhân vật và văn phòng,Tài sản hình ảnh SoftBuild,/images/people/library/softbuild/portrait-nu-01.webp,public/images/people/library/softbuild/portrait-nu-01.webp,WEBP,1200 × 1500,110,DA_TICH_HOP
+343,Nhân vật và văn phòng,Tệp master,/images/people/library/softbuild/portrait-nu-02-master.png,public/images/people/library/softbuild/portrait-nu-02-master.png,PNG,1122 × 1402,1921,MASTER_LUU_TRU
+344,Nhân vật và văn phòng,Tài sản hình ảnh SoftBuild,/images/people/library/softbuild/portrait-nu-02.webp,public/images/people/library/softbuild/portrait-nu-02.webp,WEBP,1200 × 1500,112,DA_TICH_HOP
+345,Nhân vật và văn phòng,Tệp master,/images/people/library/softbuild/portrait-nu-03-master.png,public/images/people/library/softbuild/portrait-nu-03-master.png,PNG,1122 × 1402,2107,MASTER_LUU_TRU
+346,Nhân vật và văn phòng,Tài sản hình ảnh SoftBuild,/images/people/library/softbuild/portrait-nu-03.webp,public/images/people/library/softbuild/portrait-nu-03.webp,WEBP,1200 × 1500,139,DA_TICH_HOP
+347,Nhân vật và văn phòng,Tệp master,/images/people/library/softbuild/portrait-nu-04-master.png,public/images/people/library/softbuild/portrait-nu-04-master.png,PNG,1122 × 1402,2049,MASTER_LUU_TRU
+348,Nhân vật và văn phòng,Tài sản hình ảnh SoftBuild,/images/people/library/softbuild/portrait-nu-04.webp,public/images/people/library/softbuild/portrait-nu-04.webp,WEBP,1200 × 1500,136,DA_TICH_HOP
+349,Nhân vật và văn phòng,Tệp master,/images/people/library/softbuild/portrait-nu-05-master.png,public/images/people/library/softbuild/portrait-nu-05-master.png,PNG,1122 × 1402,1926,MASTER_LUU_TRU
+350,Nhân vật và văn phòng,Tài sản hình ảnh SoftBuild,/images/people/library/softbuild/portrait-nu-05.webp,public/images/people/library/softbuild/portrait-nu-05.webp,WEBP,1200 × 1500,103,DA_TICH_HOP
+351,Nhân vật và văn phòng,Tệp master,/images/people/library/softbuild/portrait-nu-06-master.png,public/images/people/library/softbuild/portrait-nu-06-master.png,PNG,1122 × 1402,1875,MASTER_LUU_TRU
+352,Nhân vật và văn phòng,Tài sản hình ảnh SoftBuild,/images/people/library/softbuild/portrait-nu-06.webp,public/images/people/library/softbuild/portrait-nu-06.webp,WEBP,1200 × 1500,103,DA_TICH_HOP
+353,Nhân vật và văn phòng,Tệp master,/images/people/scenes/softbuild/masters/backend-engineer.png,public/images/people/scenes/softbuild/masters/backend-engineer.png,PNG,1086 × 1448,1845,MASTER_LUU_TRU
+354,Nhân vật và văn phòng,Tệp master,/images/people/scenes/softbuild/masters/business-analyst.png,public/images/people/scenes/softbuild/masters/business-analyst.png,PNG,1448 × 1086,1774,MASTER_LUU_TRU
+355,Nhân vật và văn phòng,Tệp master,/images/people/scenes/softbuild/masters/doi-ngu-tuyen-dung.png,public/images/people/scenes/softbuild/masters/doi-ngu-tuyen-dung.png,PNG,1672 × 941,1985,MASTER_LUU_TRU
+356,Nhân vật và văn phòng,Tệp master,/images/people/scenes/softbuild/masters/flutter-developer.png,public/images/people/scenes/softbuild/masters/flutter-developer.png,PNG,1254 × 1254,1770,MASTER_LUU_TRU
+357,Nhân vật và văn phòng,Tệp master,/images/people/scenes/softbuild/masters/kiem-thu-phan-mem.png,public/images/people/scenes/softbuild/masters/kiem-thu-phan-mem.png,PNG,1672 × 941,1922,MASTER_LUU_TRU
+358,Nhân vật và văn phòng,Tệp master,/images/people/scenes/softbuild/masters/van-phong.png,public/images/people/scenes/softbuild/masters/van-phong.png,PNG,1536 × 1024,2122,MASTER_LUU_TRU
+359,Nhân vật và văn phòng,Tài sản hình ảnh SoftBuild,/images/people/tuyen-dung/doi-ngu-softbuild.webp,public/images/people/tuyen-dung/doi-ngu-softbuild.webp,WEBP,2560 × 1440,238,DA_TICH_HOP
+360,Nhân vật và văn phòng,Ảnh văn phòng,/images/people/van-phong/van-phong-softbuild.webp,public/images/people/van-phong/van-phong-softbuild.webp,WEBP,2400 × 1600,298,DA_TICH_HOP
 361,Nhân vật và văn phòng,Ảnh Work Life,/images/people/work-life-chi-tiet/ba-hop-du-an.webp,public/images/people/work-life-chi-tiet/ba-hop-du-an.webp,WEBP,1600 × 1600,133,DA_TICH_HOP
 362,Nhân vật và văn phòng,Ảnh Work Life,/images/people/work-life-chi-tiet/bat-dau-ngay-lam-viec-backend.webp,public/images/people/work-life-chi-tiet/bat-dau-ngay-lam-viec-backend.webp,WEBP,1200 × 1600,123,DA_TICH_HOP
-363,Nhân vật và văn phòng,Ảnh Work Life,/images/people/work-life-chi-tiet/doi-ngu-software-engineer-winterfrost.webp,public/images/people/work-life-chi-tiet/doi-ngu-software-engineer-winterfrost.webp,WEBP,2400 × 1600,233,DA_TICH_HOP
+363,Nhân vật và văn phòng,Ảnh Work Life,/images/people/work-life-chi-tiet/doi-ngu-software-engineer-softbuild.webp,public/images/people/work-life-chi-tiet/doi-ngu-software-engineer-softbuild.webp,WEBP,2400 × 1600,233,DA_TICH_HOP
 364,Nhân vật và văn phòng,Ảnh Work Life,/images/people/work-life-chi-tiet/hai-chuyen-vien-ba.webp,public/images/people/work-life-chi-tiet/hai-chuyen-vien-ba.webp,WEBP,1600 × 1600,142,DA_TICH_HOP
 365,Nhân vật và văn phòng,Ảnh Work Life,/images/people/work-life-chi-tiet/hai-chuyen-vien-kiem-thu.webp,public/images/people/work-life-chi-tiet/hai-chuyen-vien-kiem-thu.webp,WEBP,1920 × 1080,144,DA_TICH_HOP
 366,Nhân vật và văn phòng,Ảnh Work Life,/images/people/work-life-chi-tiet/hop-nhom-dau-ngay-kiem-thu.webp,public/images/people/work-life-chi-tiet/hop-nhom-dau-ngay-kiem-thu.webp,WEBP,1600 × 1600,133,DA_TICH_HOP
@@ -376,27 +376,27 @@ stt,nhom,vai_tro,duong_dan_website,duong_dan_tap_tin,dinh_dang,kich_thuoc_px,dun
 375,Nhân vật và văn phòng,Ảnh Work Life,/images/people/work-life-chi-tiet/tran-thuc-quyen-tester.webp,public/images/people/work-life-chi-tiet/tran-thuc-quyen-tester.webp,WEBP,1600 × 1600,102,DA_TICH_HOP
 376,Nhân vật và văn phòng,Ảnh Work Life,/images/people/work-life-chi-tiet/trao-doi-cong-viec-backend.webp,public/images/people/work-life-chi-tiet/trao-doi-cong-viec-backend.webp,WEBP,1600 × 1200,153,DA_TICH_HOP
 377,Nhân vật và văn phòng,Ảnh Work Life,/images/people/work-life-chi-tiet/vo-tuan-tai-business-analyst.webp,public/images/people/work-life-chi-tiet/vo-tuan-tai-business-analyst.webp,WEBP,1600 × 1600,103,DA_TICH_HOP
-378,Nhân vật và văn phòng,Ảnh Work Life,/images/people/work-life/mot-ngay-business-analyst-winterfrost.webp,public/images/people/work-life/mot-ngay-business-analyst-winterfrost.webp,WEBP,1920 × 1080,133,DA_TICH_HOP
-379,Nhân vật và văn phòng,Ảnh Work Life,/images/people/work-life/mot-ngay-flutter-developer-winterfrost.webp,public/images/people/work-life/mot-ngay-flutter-developer-winterfrost.webp,WEBP,1920 × 1080,118,DA_TICH_HOP
-380,Nhân vật và văn phòng,Ảnh Work Life,/images/people/work-life/mot-ngay-kiem-thu-winterfrost.webp,public/images/people/work-life/mot-ngay-kiem-thu-winterfrost.webp,WEBP,1920 × 1080,144,DA_TICH_HOP
-381,Dịch vụ Winterfrost,Ảnh dịch vụ,/images/services/winterfrost/ai-development.webp,public/images/services/winterfrost/ai-development.webp,WEBP,1360 × 840,128,DA_TICH_HOP
-382,Dịch vụ Winterfrost,Ảnh dịch vụ,/images/services/winterfrost/blockchain-development.webp,public/images/services/winterfrost/blockchain-development.webp,WEBP,1360 × 840,75,DA_TICH_HOP
-383,Dịch vụ Winterfrost,Ảnh dịch vụ,/images/services/winterfrost/custom-software-solutions.webp,public/images/services/winterfrost/custom-software-solutions.webp,WEBP,1360 × 841,85,DA_TICH_HOP
-384,Dịch vụ Winterfrost,Ảnh dịch vụ,/images/services/winterfrost/devops-development.webp,public/images/services/winterfrost/devops-development.webp,WEBP,1360 × 840,90,DA_TICH_HOP
-385,Dịch vụ Winterfrost,Ảnh dịch vụ,/images/services/winterfrost/enterprise-software-development.webp,public/images/services/winterfrost/enterprise-software-development.webp,WEBP,1360 × 837,89,DA_TICH_HOP
-386,Dịch vụ Winterfrost,Ảnh dịch vụ,/images/services/winterfrost/generative-ai-integration.webp,public/images/services/winterfrost/generative-ai-integration.webp,WEBP,1360 × 841,132,DA_TICH_HOP
-387,Dịch vụ Winterfrost,Ảnh dịch vụ,/images/services/winterfrost/iot-development.webp,public/images/services/winterfrost/iot-development.webp,WEBP,1360 × 840,154,DA_TICH_HOP
-388,Dịch vụ Winterfrost,Ảnh dịch vụ,/images/services/winterfrost/mobile-app-development.webp,public/images/services/winterfrost/mobile-app-development.webp,WEBP,1360 × 841,82,DA_TICH_HOP
-389,Dịch vụ Winterfrost,Ảnh dịch vụ,/images/services/winterfrost/mvp-software-development.webp,public/images/services/winterfrost/mvp-software-development.webp,WEBP,1380 × 845,82,DA_TICH_HOP
-390,Dịch vụ Winterfrost,Ảnh dịch vụ,/images/services/winterfrost/saas-application-development.webp,public/images/services/winterfrost/saas-application-development.webp,WEBP,1360 × 840,65,DA_TICH_HOP
-391,Dịch vụ Winterfrost,Ảnh dịch vụ,/images/services/winterfrost/software-maintenance-and-support.webp,public/images/services/winterfrost/software-maintenance-and-support.webp,WEBP,1360 × 844,117,DA_TICH_HOP
-392,Dịch vụ Winterfrost,Ảnh dịch vụ,/images/services/winterfrost/web-application-development.webp,public/images/services/winterfrost/web-application-development.webp,WEBP,1360 × 840,88,DA_TICH_HOP
-393,Biểu tượng ngành nghề,Biểu tượng ngành nghề,/images/industries/winterfrost/chuoi-cung-ung.png,public/images/industries/winterfrost/chuoi-cung-ung.png,PNG,96 × 96,4,DA_TICH_HOP
-394,Biểu tượng ngành nghề,Biểu tượng ngành nghề,/images/industries/winterfrost/dau-khi.png,public/images/industries/winterfrost/dau-khi.png,PNG,96 × 96,3,DA_TICH_HOP
-395,Biểu tượng ngành nghề,Biểu tượng ngành nghề,/images/industries/winterfrost/du-lich.png,public/images/industries/winterfrost/du-lich.png,PNG,96 × 96,3,DA_TICH_HOP
-396,Biểu tượng ngành nghề,Biểu tượng ngành nghề,/images/industries/winterfrost/ke-toan.png,public/images/industries/winterfrost/ke-toan.png,PNG,96 × 96,4,DA_TICH_HOP
-397,Biểu tượng ngành nghề,Biểu tượng ngành nghề,/images/industries/winterfrost/ngan-hang.png,public/images/industries/winterfrost/ngan-hang.png,PNG,96 × 96,4,DA_TICH_HOP
-398,Biểu tượng ngành nghề,Biểu tượng ngành nghề,/images/industries/winterfrost/nong-nghiep.png,public/images/industries/winterfrost/nong-nghiep.png,PNG,96 × 96,5,DA_TICH_HOP
-399,Biểu tượng ngành nghề,Biểu tượng ngành nghề,/images/industries/winterfrost/phan-mem-tien-ich.png,public/images/industries/winterfrost/phan-mem-tien-ich.png,PNG,96 × 96,4,DA_TICH_HOP
-400,Biểu tượng ngành nghề,Biểu tượng ngành nghề,/images/industries/winterfrost/ung-dung-theo-yeu-cau.png,public/images/industries/winterfrost/ung-dung-theo-yeu-cau.png,PNG,96 × 96,4,DA_TICH_HOP
-401,Biểu tượng ngành nghề,Biểu tượng ngành nghề,/images/industries/winterfrost/xay-dung.png,public/images/industries/winterfrost/xay-dung.png,PNG,96 × 96,3,DA_TICH_HOP
+378,Nhân vật và văn phòng,Ảnh Work Life,/images/people/work-life/mot-ngay-business-analyst-softbuild.webp,public/images/people/work-life/mot-ngay-business-analyst-softbuild.webp,WEBP,1920 × 1080,133,DA_TICH_HOP
+379,Nhân vật và văn phòng,Ảnh Work Life,/images/people/work-life/mot-ngay-flutter-developer-softbuild.webp,public/images/people/work-life/mot-ngay-flutter-developer-softbuild.webp,WEBP,1920 × 1080,118,DA_TICH_HOP
+380,Nhân vật và văn phòng,Ảnh Work Life,/images/people/work-life/mot-ngay-kiem-thu-softbuild.webp,public/images/people/work-life/mot-ngay-kiem-thu-softbuild.webp,WEBP,1920 × 1080,144,DA_TICH_HOP
+381,Dịch vụ SoftBuild,Ảnh dịch vụ,/images/services/softbuild/ai-development.webp,public/images/services/softbuild/ai-development.webp,WEBP,1360 × 840,128,DA_TICH_HOP
+382,Dịch vụ SoftBuild,Ảnh dịch vụ,/images/services/softbuild/blockchain-development.webp,public/images/services/softbuild/blockchain-development.webp,WEBP,1360 × 840,75,DA_TICH_HOP
+383,Dịch vụ SoftBuild,Ảnh dịch vụ,/images/services/softbuild/custom-software-solutions.webp,public/images/services/softbuild/custom-software-solutions.webp,WEBP,1360 × 841,85,DA_TICH_HOP
+384,Dịch vụ SoftBuild,Ảnh dịch vụ,/images/services/softbuild/devops-development.webp,public/images/services/softbuild/devops-development.webp,WEBP,1360 × 840,90,DA_TICH_HOP
+385,Dịch vụ SoftBuild,Ảnh dịch vụ,/images/services/softbuild/enterprise-software-development.webp,public/images/services/softbuild/enterprise-software-development.webp,WEBP,1360 × 837,89,DA_TICH_HOP
+386,Dịch vụ SoftBuild,Ảnh dịch vụ,/images/services/softbuild/generative-ai-integration.webp,public/images/services/softbuild/generative-ai-integration.webp,WEBP,1360 × 841,132,DA_TICH_HOP
+387,Dịch vụ SoftBuild,Ảnh dịch vụ,/images/services/softbuild/iot-development.webp,public/images/services/softbuild/iot-development.webp,WEBP,1360 × 840,154,DA_TICH_HOP
+388,Dịch vụ SoftBuild,Ảnh dịch vụ,/images/services/softbuild/mobile-app-development.webp,public/images/services/softbuild/mobile-app-development.webp,WEBP,1360 × 841,82,DA_TICH_HOP
+389,Dịch vụ SoftBuild,Ảnh dịch vụ,/images/services/softbuild/mvp-software-development.webp,public/images/services/softbuild/mvp-software-development.webp,WEBP,1380 × 845,82,DA_TICH_HOP
+390,Dịch vụ SoftBuild,Ảnh dịch vụ,/images/services/softbuild/saas-application-development.webp,public/images/services/softbuild/saas-application-development.webp,WEBP,1360 × 840,65,DA_TICH_HOP
+391,Dịch vụ SoftBuild,Ảnh dịch vụ,/images/services/softbuild/software-maintenance-and-support.webp,public/images/services/softbuild/software-maintenance-and-support.webp,WEBP,1360 × 844,117,DA_TICH_HOP
+392,Dịch vụ SoftBuild,Ảnh dịch vụ,/images/services/softbuild/web-application-development.webp,public/images/services/softbuild/web-application-development.webp,WEBP,1360 × 840,88,DA_TICH_HOP
+393,Biểu tượng ngành nghề,Biểu tượng ngành nghề,/images/industries/softbuild/chuoi-cung-ung.png,public/images/industries/softbuild/chuoi-cung-ung.png,PNG,96 × 96,4,DA_TICH_HOP
+394,Biểu tượng ngành nghề,Biểu tượng ngành nghề,/images/industries/softbuild/dau-khi.png,public/images/industries/softbuild/dau-khi.png,PNG,96 × 96,3,DA_TICH_HOP
+395,Biểu tượng ngành nghề,Biểu tượng ngành nghề,/images/industries/softbuild/du-lich.png,public/images/industries/softbuild/du-lich.png,PNG,96 × 96,3,DA_TICH_HOP
+396,Biểu tượng ngành nghề,Biểu tượng ngành nghề,/images/industries/softbuild/ke-toan.png,public/images/industries/softbuild/ke-toan.png,PNG,96 × 96,4,DA_TICH_HOP
+397,Biểu tượng ngành nghề,Biểu tượng ngành nghề,/images/industries/softbuild/ngan-hang.png,public/images/industries/softbuild/ngan-hang.png,PNG,96 × 96,4,DA_TICH_HOP
+398,Biểu tượng ngành nghề,Biểu tượng ngành nghề,/images/industries/softbuild/nong-nghiep.png,public/images/industries/softbuild/nong-nghiep.png,PNG,96 × 96,5,DA_TICH_HOP
+399,Biểu tượng ngành nghề,Biểu tượng ngành nghề,/images/industries/softbuild/phan-mem-tien-ich.png,public/images/industries/softbuild/phan-mem-tien-ich.png,PNG,96 × 96,4,DA_TICH_HOP
+400,Biểu tượng ngành nghề,Biểu tượng ngành nghề,/images/industries/softbuild/ung-dung-theo-yeu-cau.png,public/images/industries/softbuild/ung-dung-theo-yeu-cau.png,PNG,96 × 96,4,DA_TICH_HOP
+401,Biểu tượng ngành nghề,Biểu tượng ngành nghề,/images/industries/softbuild/xay-dung.png,public/images/industries/softbuild/xay-dung.png,PNG,96 × 96,3,DA_TICH_HOP

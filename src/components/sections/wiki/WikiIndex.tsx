@@ -10,7 +10,7 @@ import s from "./WikiIndex.module.css";
 
 const ALL_CATEGORIES = [
   "AI",
-  "Bản tin Winterfrost",
+  "Bản tin SoftBuild",
   "Blockchain",
   "Công nghệ",
   "Giải pháp Doanh nghiệp",
@@ -43,7 +43,7 @@ function categoryFor(item: ContentPage) {
 function ArticleMeta({ item, compact = false }: { item: ContentPage; compact?: boolean }) {
   return (
     <div className={`${s.meta} ${compact ? s.metaCompact : ""}`}>
-      <span><Pencil size={13} /> {item.author || "Winterfrost Editorial"}</span>
+      <span><Pencil size={13} /> {item.author || "SoftBuild Editorial"}</span>
       <span><Calendar size={13} /> {item.year || "2026"}</span>
       <span><Eye size={13} /> Mới</span>
     </div>
@@ -150,8 +150,8 @@ export function WikiIndex({ items: sourceItems }: { items: ContentPage[] }) {
     <>
       <section className={s.hero} data-visual-id="wiki-hero">
         <div>
-          <h1><span>Winterfrost</span>{" "}<br /><span>Wiki</span></h1>
-          <h2><strong>{tr("Góc nhìn của Winterfrost về những xu hướng công nghệ và giải pháp chuyển đổi số")}</strong></h2>
+          <h1><span>SoftBuild</span>{" "}<br /><span>Wiki</span></h1>
+          <h2><strong>{tr("Góc nhìn của SoftBuild về những xu hướng công nghệ và giải pháp chuyển đổi số")}</strong></h2>
         </div>
       </section>
 

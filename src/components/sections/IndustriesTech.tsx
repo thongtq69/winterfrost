@@ -28,7 +28,7 @@ export function IndustriesTech({ detail = false }: { detail?: boolean }) {
       <div className={styles.techContainer}>
         <h2 className={styles.techHeading}>
           {detail ? (
-            <span className={styles.techHeadingDark}>{tr("Những công nghệ nổi bật tại Winterfrost")}</span>
+            <span className={styles.techHeadingDark}>{tr("Những công nghệ nổi bật tại SoftBuild")}</span>
           ) : (
             <>
               <span className={styles.techHeadingLight}>{t.headlineLight} </span>

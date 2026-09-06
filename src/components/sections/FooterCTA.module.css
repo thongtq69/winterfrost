@@ -54,7 +54,7 @@
 
 .preTitle {
   color: #fff;
-  font-family: Winterfrost, var(--font-Winterfrost), sans-serif;
+  font-family: SoftBuild, var(--font-SoftBuild), sans-serif;
   font-size: 18px;
   font-weight: 500;
   line-height: 1.2;
@@ -63,7 +63,7 @@
 .heading {
   margin: 0;
   color: #fff;
-  font-family: Winterfrost, var(--font-Winterfrost), sans-serif;
+  font-family: SoftBuild, var(--font-SoftBuild), sans-serif;
   font-size: 60px;
   font-weight: 400;
   line-height: normal;

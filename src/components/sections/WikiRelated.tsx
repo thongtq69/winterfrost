@@ -3,7 +3,7 @@
 import { Link } from "@/i18n/routing";
 import { Calendar, Pencil } from "lucide-react";
 import { useLocalizedHome } from "@/i18n/content";
-import { winterfrostWikiHighlights } from "@/lib/wiki-highlights";
+import { softbuildWikiHighlights } from "@/lib/wiki-highlights";
 import { WikiCover } from "@/components/sections/wiki/WikiCover";
 import s from "./WikiRelated.module.css";
 import { useLocalizedValue } from "@/i18n/auto-text-client";
@@ -19,7 +19,7 @@ export function WikiRelated({
 } = {}) {
   const home = useLocalizedHome();
   const w = home.wikiSection;
-  const items = useLocalizedValue(winterfrostWikiHighlights);
+  const items = useLocalizedValue(softbuildWikiHighlights);
   return (
     <div className={`${s.section} ${compact ? s.compact : ""} ${isHome ? s.home : ""} ${plainCta ? s.technology : ""}`}>
         <div className={s.relatedHeader}>

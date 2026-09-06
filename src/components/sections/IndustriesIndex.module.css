@@ -27,7 +27,7 @@
 
 .heroTitle {
   margin: 0 0 20px;
-  font-family: var(--font-Winterfrost), sans-serif;
+  font-family: var(--font-SoftBuild), sans-serif;
   font-size: 56px;
   font-weight: 700;
   letter-spacing: -0.02em;
@@ -155,7 +155,7 @@
   max-width: 800px;
   margin: 3.4px 0 0;
   color: #1a2e6e;
-  font-family: var(--font-Winterfrost), sans-serif;
+  font-family: var(--font-SoftBuild), sans-serif;
   font-size: 45px;
   font-weight: 600;
   letter-spacing: -0.01em;
@@ -165,7 +165,7 @@
 .aboutNormal,
 .aboutNext {
   color: #1a2e6e;
-  font-family: var(--font-Winterfrost), sans-serif;
+  font-family: var(--font-SoftBuild), sans-serif;
   font-size: 45px;
   font-weight: 600;
   line-height: 1.1;
@@ -365,7 +365,7 @@
 
 .gridTitle {
   margin: 0;
-  font-family: var(--font-Winterfrost), sans-serif;
+  font-family: var(--font-SoftBuild), sans-serif;
   font-size: 48px;
   font-weight: 600;
   letter-spacing: -0.02em;
@@ -555,7 +555,7 @@
   margin: 0;
   flex-direction: column;
   color: #1a3b91;
-  font-family: var(--font-Winterfrost), sans-serif;
+  font-family: var(--font-SoftBuild), sans-serif;
   font-size: 48px;
   font-weight: 500;
   letter-spacing: -0.02em;
@@ -722,7 +722,7 @@
   padding: 12px 20px;
   background: linear-gradient(121deg, #021b7b 0%, #1670de 29%, #193493 100%);
   color: #fff;
-  font-family: var(--font-Winterfrost), sans-serif;
+  font-family: var(--font-SoftBuild), sans-serif;
   font-size: 16px;
   font-weight: 500;
   line-height: 22px;
@@ -780,7 +780,7 @@
 .whyTitle {
   max-width: 620px;
   margin: 0;
-  font-family: var(--font-Winterfrost), sans-serif;
+  font-family: var(--font-SoftBuild), sans-serif;
   font-size: 40px;
   font-weight: 600;
   letter-spacing: -0.02em;
@@ -891,7 +891,7 @@
 .caseHeading {
   margin: 0;
   color: #8ba1ff;
-  font-family: var(--font-Winterfrost), sans-serif;
+  font-family: var(--font-SoftBuild), sans-serif;
   font-size: 48px;
   font-weight: 500;
   letter-spacing: -0.02em;
@@ -1198,7 +1198,7 @@
 
 .techHeading {
   margin: 0;
-  font-family: var(--font-Winterfrost), sans-serif;
+  font-family: var(--font-SoftBuild), sans-serif;
   font-size: 44px;
   font-weight: 500;
   letter-spacing: -0.02em;
@@ -1331,7 +1331,7 @@
 .wikiHeading {
   margin: 0;
   color: #1a3b91;
-  font-family: var(--font-Winterfrost), sans-serif;
+  font-family: var(--font-SoftBuild), sans-serif;
   font-size: 48px;
   font-weight: 500;
   line-height: 1.2;

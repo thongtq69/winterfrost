@@ -2,7 +2,7 @@ import { useLocalizedHome } from "@/i18n/content";
 import s from "./AboutSection.module.css";
 
 const MAP_VIDEO =
-  "/images/brand/winterfrost/about/winterfrost-market-map.mp4?v=wf-map-20260727";
+  "/images/brand/softbuild/about/softbuild-market-map.mp4?v=wf-map-20260727";
 
 export function AboutSection() {
   const { about } = useLocalizedHome();

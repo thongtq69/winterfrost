@@ -18,7 +18,7 @@
 .row:nth-child(4) { height: 267.5859375px; }
 .row:nth-child(5) { height: 185.1796875px; }
 .progressWrapper { display: flex; width: 100px; height: 100%; flex-direction: column; align-items: center; gap: 20px; }
-.stepNumber { color: #1842a3; font-family: var(--font-Winterfrost), sans-serif; font-size: 64px; font-weight: 700; line-height: normal; }
+.stepNumber { color: #1842a3; font-family: var(--font-SoftBuild), sans-serif; font-size: 64px; font-weight: 700; line-height: normal; }
 .progressBar { position: relative; width: 2px; flex-grow: 1; background: rgba(24,66,163,.2); }
 .progressBar span { position: absolute; inset: 0; background: #1842a3; transform-origin: top; transition: transform .8s ease; }
 .textContent { display: flex; width: 640px; height: 100%; flex-direction: column; gap: 16px; padding-bottom: 128px; }

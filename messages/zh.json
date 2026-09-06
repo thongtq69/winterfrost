@@ -170,9 +170,9 @@
         "label": "查看服务详情",
         "href": "/dich-vu"
       },
-      "imageMain": "/images/brand/winterfrost/hero/winterfrost-energy-emblem-transparent.png?v=wf-energy-20260727",
-      "imageColumn": "/images/brand/winterfrost/hero/winterfrost-pillar.png",
-      "logo": "/images/brand/winterfrost/winterfrost-wordmark.png",
+      "imageMain": "/images/brand/softbuild/hero/softbuild-energy-emblem-transparent.png?v=wf-energy-20260727",
+      "imageColumn": "/images/brand/softbuild/hero/softbuild-pillar.png",
+      "logo": "/images/brand/softbuild/softbuild-wordmark.png",
       "video": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Video-banner-HomeNest-Viet-Nam.mp4",
       "detailCtaPrimary": {
         "label": "立即连接",
@@ -244,7 +244,7 @@
         "name": "Lê Khải Minh",
         "role": "联合创始人",
         "quote": "客户的成功是衡量我们服务质量和声誉的唯一标准。",
-        "image": "/images/people/founder/winterfrost/le-khai-minh.webp"
+        "image": "/images/people/founder/softbuild/le-khai-minh.webp"
       },
       "vision": {
         "title": "愿景与使命",
@@ -318,63 +318,63 @@
               "title": "网站设计",
               "desc": "高速的网站设计，优化的用户体验有助于提高转化率。",
               "href": "/dich-vu/thiet-ke-website",
-              "hoverImg": "/images/services/winterfrost/web-application-development.webp"
+              "hoverImg": "/images/services/softbuild/web-application-development.webp"
             },
             {
               "num": "02",
               "title": "人工智能开发",
               "desc": "人工智能开发有助于自动化流程并优化业务数据。",
               "href": "/dich-vu/phat-trien-ai",
-              "hoverImg": "/images/services/winterfrost/ai-development.webp"
+              "hoverImg": "/images/services/softbuild/ai-development.webp"
             },
             {
               "num": "03",
               "title": "SaaS应用程序开发",
               "desc": "云原生平台设计灵活，易于扩展，服务海量用户。",
               "href": "/dich-vu/phat-trien-ung-dung-saas",
-              "hoverImg": "/images/services/winterfrost/saas-application-development.webp"
+              "hoverImg": "/images/services/softbuild/saas-application-development.webp"
             },
             {
               "num": "04",
               "title": "应用程序设计",
               "desc": "开发高性能的IOS和Android应用程序，保证运行流畅稳定。",
               "href": "/dich-vu/thiet-ke-app",
-              "hoverImg": "/images/services/winterfrost/mobile-app-development.webp"
+              "hoverImg": "/images/services/softbuild/mobile-app-development.webp"
             },
             {
               "num": "05",
               "title": "操作维护",
               "desc": "运维软件帮助系统24/7安全稳定运行。",
               "href": "/dich-vu/van-hanh-va-bao-tri",
-              "hoverImg": "/images/services/winterfrost/software-maintenance-and-support.webp"
+              "hoverImg": "/images/services/softbuild/software-maintenance-and-support.webp"
             },
             {
               "num": "06",
               "title": "企业软件开发",
               "desc": "通过集中、安全、可靠的管理系统优化大规模运营流程。",
               "href": "/dich-vu/phat-trien-phan-mem-doanh-nghiep",
-              "hoverImg": "/images/services/winterfrost/enterprise-software-development.webp"
+              "hoverImg": "/images/services/softbuild/enterprise-software-development.webp"
             },
             {
               "num": "07",
               "title": "软件开发 MVP",
               "desc": "快速产品开发以验证想法并优化初始投资预算。",
               "href": "/dich-vu/phat-trien-phan-mem-mvp",
-              "hoverImg": "/images/services/winterfrost/mvp-software-development.webp"
+              "hoverImg": "/images/services/softbuild/mvp-software-development.webp"
             },
             {
               "num": "08",
               "title": "IT服务",
               "desc": "提供全面的IT解决方案、系统管理和专业技术支持。",
               "href": "/dich-vu/dich-vu-it",
-              "hoverImg": "/images/services/winterfrost/custom-software-solutions.webp"
+              "hoverImg": "/images/services/softbuild/custom-software-solutions.webp"
             },
             {
               "num": "09",
               "title": "数字化转型咨询",
               "desc": "数字化转型路线图、流程优化和现代技术应用咨询。",
               "href": "/dich-vu/tu-van-chuyen-doi-so",
-              "hoverImg": "/images/services/winterfrost/generative-ai-integration.webp"
+              "hoverImg": "/images/services/softbuild/generative-ai-integration.webp"
             }
           ]
         },
@@ -386,21 +386,21 @@
               "title": "开发运营开发",
               "desc": "优化开发和运营流程，缩短上线时间，提高系统稳定性。",
               "href": "/dich-vu/phat-trien-devops",
-              "hoverImg": "/images/services/winterfrost/devops-development.webp"
+              "hoverImg": "/images/services/softbuild/devops-development.webp"
             },
             {
               "num": "02",
               "title": "物联网发展",
               "desc": "连接设备和收集智能数据可以帮助企业从现实中释放有价值的信息。",
               "href": "/dich-vu/phat-trien-iot",
-              "hoverImg": "/images/services/winterfrost/iot-development.webp"
+              "hoverImg": "/images/services/softbuild/iot-development.webp"
             },
             {
               "num": "03",
               "title": "区块链开发",
               "desc": "构建安全的去中心化应用程序，有助于确保区块链平台上的绝对数据安全。",
               "href": "/dich-vu/phat-trien-blockchain",
-              "hoverImg": "/images/services/winterfrost/blockchain-development.webp"
+              "hoverImg": "/images/services/softbuild/blockchain-development.webp"
             }
           ]
         }
@@ -602,7 +602,7 @@
           "/images/people/doi-tac/dang-hoai-thuong.webp",
           "/images/people/doi-tac/nguyen-tuan-kiet.webp"
         ],
-        "centerLogo": "/images/brand/winterfrost/winterfrost-wordmark.png"
+        "centerLogo": "/images/brand/softbuild/softbuild-wordmark.png"
       },
       "cardItem3": {
         "title": "先进技术",
@@ -651,7 +651,7 @@
         "userMessage": "我需要建议。",
         "userAvatar": "/images/people/anh-hoi-thoai/tran-hoai-an.webp",
         "systemMessage": "SoftBuild 已准备好为您提供支持！",
-        "systemLogo": "/images/brand/winterfrost/winterfrost-symbol-transparent.png",
+        "systemLogo": "/images/brand/softbuild/softbuild-symbol-transparent.png",
         "decoration": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/decoration-pattern.png"
       },
       "cardItem4": {
@@ -1047,12 +1047,12 @@
         "离岸开发服务"
       ],
       "cubeFaces": {
-        "front": "/images/services/winterfrost/cube-faces/nha-trang-travel-website.png",
-        "right": "/images/services/winterfrost/cube-faces/greenscape-mobile-app.png",
-        "back": "/images/services/winterfrost/cube-faces/nova-paint-website.png",
-        "left": "/images/services/winterfrost/cube-faces/planora-mobile-app.png"
+        "front": "/images/services/softbuild/cube-faces/nha-trang-travel-website.png",
+        "right": "/images/services/softbuild/cube-faces/greenscape-mobile-app.png",
+        "back": "/images/services/softbuild/cube-faces/nova-paint-website.png",
+        "left": "/images/services/softbuild/cube-faces/planora-mobile-app.png"
       },
-      "bgImage": "/images/brand/winterfrost/winterfrost-banner.jpg"
+      "bgImage": "/images/brand/softbuild/softbuild-banner.jpg"
     },
     "servicesList": {
       "label": "我们的服务",
@@ -1065,73 +1065,73 @@
           "slug": "thiet-ke-website",
           "title": "网站设计",
           "desc": "一个专业的网站必须是一个盈利工具。在 SoftBuild，我们构建高速、稳定且针对用户体验进行优化的平台。从界面到功能，每个细节都经过精心调整，以推动转化，帮助企业顺利运营并肯定其品牌地位。",
-          "img": "/images/services/winterfrost/web-application-development-v2.png"
+          "img": "/images/services/softbuild/web-application-development-v2.png"
         },
         {
           "slug": "phat-trien-ai",
           "title": "人工智能开发",
           "desc": "SoftBuild 通过专门的 AI 和机器学习解决方案帮助您分析和处理数据。从图像识别到预测分析，我们帮助企业自动化复杂的决策流程，以创造明显的竞争优势。所有模型都经过调整，为企业带来真实、准确的价值。",
-          "img": "/images/services/winterfrost/ai-development.webp"
+          "img": "/images/services/softbuild/ai-development.webp"
         },
         {
           "slug": "phat-trien-ung-dung-saas",
           "title": "SaaS应用程序开发",
           "desc": "SoftBuild专注于云平台上的SaaS应用开发，彻底解决安全性和可扩展性问题。我们优化系统结构，确保稳定运行，帮助企业节省基础设施成本，创造可持续的经常性收入来源。",
-          "img": "/images/services/winterfrost/saas-application-development.webp"
+          "img": "/images/services/softbuild/saas-application-development.webp"
         },
         {
           "slug": "thiet-ke-app",
           "title": "应用程序设计",
           "desc": "SoftBuild专注于开发高性能的IOS和Android应用程序，确保绝对的稳定性和安全性。我们的解决方案灵活兼容现有系统，帮助企业与客户深度联系并可持续发展。",
-          "img": "/images/services/winterfrost/mobile-app-development.webp"
+          "img": "/images/services/softbuild/mobile-app-development.webp"
         },
         {
           "slug": "van-hanh-va-bao-tri",
           "title": "操作维护",
           "desc": "我们知道稳定的系统对于企业至关重要。 SoftBuild 主动维护和更新安全性，以使您的软件保持最佳运行状态。技术团队已准备好快速解决所有问题，使机组工作进程不被中断。您可以完全放心，您可以专注于发展您的业务，因为我们每天都在这里保护您的系统。",
-          "img": "/images/services/winterfrost/software-maintenance-and-support.webp"
+          "img": "/images/services/softbuild/software-maintenance-and-support.webp"
         },
         {
           "slug": "phat-trien-phan-mem-doanh-nghiep",
           "title": "企业软件开发",
           "desc": "SoftBuild开发了深入的管理系统，彻底解决了所有运营复杂性。我们根据每个企业的独特流程定制软件，帮助集中数据并确保绝对安全。这是您标准化组织和优化可持续资源的坚实基础。",
-          "img": "/images/services/winterfrost/enterprise-software-development.webp"
+          "img": "/images/services/softbuild/enterprise-software-development.webp"
         },
         {
           "slug": "phat-trien-phan-mem-mvp",
           "title": "软件开发 MVP",
           "desc": "SoftBuild 通过简化的 MVP 开发流程帮助企业快速推出产品。我们专注于核心功能来验证想法并收集现实世界的反馈，帮助在进行大规模投资之前优化预算并最大限度地降低风险。这是您有效、安全开始的明智踏脚石。",
-          "img": "/images/services/winterfrost/mvp-software-development.webp"
+          "img": "/images/services/softbuild/mvp-software-development.webp"
         },
         {
           "slug": "dich-vu-it",
           "title": "IT服务",
           "desc": "SoftBuild直接分析当前流程，用管理软件系统代替人工操作。数字化有助于集中存储数据，最大限度地减少人为错误并缩短工作处理时间。企业将实时捕获实际数据以做出准确的运营决策，从而优化运营成本并提高人员绩效。",
-          "img": "/images/services/winterfrost/custom-software-solutions.webp"
+          "img": "/images/services/softbuild/custom-software-solutions.webp"
         },
         {
           "slug": "tu-van-chuyen-doi-so",
           "title": "数字化转型咨询",
           "desc": "我们为企业建立、运营和维护整个服务器系统、内部网络和技术设备。 SoftBuild 采用安全标准和例行备份程序来防止信息丢失或未经授权的入侵的风险。技术系统持续维护和运行，保证工作不间断，同时也帮助企业降低招聘和管理内部IT人员的成本。",
-          "img": "/images/services/winterfrost/generative-ai-integration.webp"
+          "img": "/images/services/softbuild/generative-ai-integration.webp"
         },
         {
           "slug": "phat-trien-devops",
           "title": "开发运营开发",
           "desc": "SoftBuild 通过自动化 CI/CD 解决方案改进了软件开发流程，将产品发布时间降至最低。我们专注于构建安全的云基础设施和24/7持续监控系统以确保稳定性。",
-          "img": "/images/services/winterfrost/devops-development.webp"
+          "img": "/images/services/softbuild/devops-development.webp"
         },
         {
           "slug": "phat-trien-iot",
           "title": "物联网发展",
           "desc": "SoftBuild链接智能设备并收集信息，帮助企业改进运营流程。我们专注于开发安全、灵活的物联网解决方案，让您能够实时监控数据。您将拥有一个强大的互联生态系统，可以根据最准确的数据做出决策。",
-          "img": "/images/services/winterfrost/iot-development.webp"
+          "img": "/images/services/softbuild/iot-development.webp"
         },
         {
           "slug": "phat-trien-blockchain",
           "title": "区块链开发",
           "desc": "SoftBuild 构建了一个去中心化的区块链解决方案，有助于确保绝对的数据安全。我们应用智能合约来优化成本并彻底消除中间风险。这是帮助您增强客户信任并在数字时代有效突破的坚实基础。",
-          "img": "/images/services/winterfrost/blockchain-development.webp"
+          "img": "/images/services/softbuild/blockchain-development.webp"
         }
       ]
     },

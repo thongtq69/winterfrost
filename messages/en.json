@@ -170,9 +170,9 @@
         "label": "See service details",
         "href": "/dich-vu"
       },
-      "imageMain": "/images/brand/winterfrost/hero/winterfrost-energy-emblem-transparent.png?v=wf-energy-20260727",
-      "imageColumn": "/images/brand/winterfrost/hero/winterfrost-pillar.png",
-      "logo": "/images/brand/winterfrost/winterfrost-wordmark.png",
+      "imageMain": "/images/brand/softbuild/hero/softbuild-energy-emblem-transparent.png?v=wf-energy-20260727",
+      "imageColumn": "/images/brand/softbuild/hero/softbuild-pillar.png",
+      "logo": "/images/brand/softbuild/softbuild-wordmark.png",
       "video": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Video-banner-HomeNest-Viet-Nam.mp4",
       "detailCtaPrimary": {
         "label": "Connect now",
@@ -244,7 +244,7 @@
         "name": "Lê Khải Minh",
         "role": "CO-Founder",
         "quote": "Customer success is the only measure of our service quality and reputation.",
-        "image": "/images/people/founder/winterfrost/le-khai-minh.webp"
+        "image": "/images/people/founder/softbuild/le-khai-minh.webp"
       },
       "vision": {
         "title": "Vision & Mission",
@@ -318,63 +318,63 @@
               "title": "Website Design",
               "desc": "High-speed website design, optimized user experience helps increase conversion rate.",
               "href": "/dich-vu/thiet-ke-website",
-              "hoverImg": "/images/services/winterfrost/web-application-development.webp"
+              "hoverImg": "/images/services/softbuild/web-application-development.webp"
             },
             {
               "num": "02",
               "title": "AI Development",
               "desc": "AI development helps automate processes and optimize business data.",
               "href": "/dich-vu/phat-trien-ai",
-              "hoverImg": "/images/services/winterfrost/ai-development.webp"
+              "hoverImg": "/images/services/softbuild/ai-development.webp"
             },
             {
               "num": "03",
               "title": "SaaS Application Development",
               "desc": "Cloud-native platform design is flexible, easy to expand and serve a large number of users.",
               "href": "/dich-vu/phat-trien-ung-dung-saas",
-              "hoverImg": "/images/services/winterfrost/saas-application-development.webp"
+              "hoverImg": "/images/services/softbuild/saas-application-development.webp"
             },
             {
               "num": "04",
               "title": "App Design",
               "desc": "Develop high-performance IOS and Android applications, ensuring smooth and stable operation.",
               "href": "/dich-vu/thiet-ke-app",
-              "hoverImg": "/images/services/winterfrost/mobile-app-development.webp"
+              "hoverImg": "/images/services/softbuild/mobile-app-development.webp"
             },
             {
               "num": "05",
               "title": "Operation and Maintenance",
               "desc": "Operating and maintaining software helps the system operate safely and stably 24/7.",
               "href": "/dich-vu/van-hanh-va-bao-tri",
-              "hoverImg": "/images/services/winterfrost/software-maintenance-and-support.webp"
+              "hoverImg": "/images/services/softbuild/software-maintenance-and-support.webp"
             },
             {
               "num": "06",
               "title": "Enterprise Software Development",
               "desc": "Optimize large-scale operating processes with a centralized, safe and secure management system.",
               "href": "/dich-vu/phat-trien-phan-mem-doanh-nghiep",
-              "hoverImg": "/images/services/winterfrost/enterprise-software-development.webp"
+              "hoverImg": "/images/services/softbuild/enterprise-software-development.webp"
             },
             {
               "num": "07",
               "title": "MVP Software Development",
               "desc": "Rapid product development to validate ideas and optimize initial investment budget.",
               "href": "/dich-vu/phat-trien-phan-mem-mvp",
-              "hoverImg": "/images/services/winterfrost/mvp-software-development.webp"
+              "hoverImg": "/images/services/softbuild/mvp-software-development.webp"
             },
             {
               "num": "08",
               "title": "IT Services",
               "desc": "Providing comprehensive IT solutions, system administration and professional technical support.",
               "href": "/dich-vu/dich-vu-it",
-              "hoverImg": "/images/services/winterfrost/custom-software-solutions.webp"
+              "hoverImg": "/images/services/softbuild/custom-software-solutions.webp"
             },
             {
               "num": "09",
               "title": "Digital Transformation Consulting",
               "desc": "Consulting on digital transformation roadmap, process optimization and modern technology application.",
               "href": "/dich-vu/tu-van-chuyen-doi-so",
-              "hoverImg": "/images/services/winterfrost/generative-ai-integration.webp"
+              "hoverImg": "/images/services/softbuild/generative-ai-integration.webp"
             }
           ]
         },
@@ -386,21 +386,21 @@
               "title": "DevOps Development",
               "desc": "Optimize the development and operation process to shorten launch time and increase system stability.",
               "href": "/dich-vu/phat-trien-devops",
-              "hoverImg": "/images/services/winterfrost/devops-development.webp"
+              "hoverImg": "/images/services/softbuild/devops-development.webp"
             },
             {
               "num": "02",
               "title": "IoT Development",
               "desc": "Connecting devices and collecting smart data helps businesses unlock valuable information from reality.",
               "href": "/dich-vu/phat-trien-iot",
-              "hoverImg": "/images/services/winterfrost/iot-development.webp"
+              "hoverImg": "/images/services/softbuild/iot-development.webp"
             },
             {
               "num": "03",
               "title": "Blockchain Development",
               "desc": "Build safe decentralized applications, helping to ensure absolute data security on the Blockchain platform.",
               "href": "/dich-vu/phat-trien-blockchain",
-              "hoverImg": "/images/services/winterfrost/blockchain-development.webp"
+              "hoverImg": "/images/services/softbuild/blockchain-development.webp"
             }
           ]
         }
@@ -602,7 +602,7 @@
           "/images/people/doi-tac/dang-hoai-thuong.webp",
           "/images/people/doi-tac/nguyen-tuan-kiet.webp"
         ],
-        "centerLogo": "/images/brand/winterfrost/winterfrost-wordmark.png"
+        "centerLogo": "/images/brand/softbuild/softbuild-wordmark.png"
       },
       "cardItem3": {
         "title": "Advanced technology",
@@ -651,7 +651,7 @@
         "userMessage": "I need advice.",
         "userAvatar": "/images/people/anh-hoi-thoai/tran-hoai-an.webp",
         "systemMessage": "SoftBuild is ready to support you!",
-        "systemLogo": "/images/brand/winterfrost/winterfrost-symbol-transparent.png",
+        "systemLogo": "/images/brand/softbuild/softbuild-symbol-transparent.png",
         "decoration": "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/decoration-pattern.png"
       },
       "cardItem4": {
@@ -1047,12 +1047,12 @@
         "Offshore Development Services"
       ],
       "cubeFaces": {
-        "front": "/images/services/winterfrost/cube-faces/nha-trang-travel-website.png",
-        "right": "/images/services/winterfrost/cube-faces/greenscape-mobile-app.png",
-        "back": "/images/services/winterfrost/cube-faces/nova-paint-website.png",
-        "left": "/images/services/winterfrost/cube-faces/planora-mobile-app.png"
+        "front": "/images/services/softbuild/cube-faces/nha-trang-travel-website.png",
+        "right": "/images/services/softbuild/cube-faces/greenscape-mobile-app.png",
+        "back": "/images/services/softbuild/cube-faces/nova-paint-website.png",
+        "left": "/images/services/softbuild/cube-faces/planora-mobile-app.png"
       },
-      "bgImage": "/images/brand/winterfrost/winterfrost-banner.jpg"
+      "bgImage": "/images/brand/softbuild/softbuild-banner.jpg"
     },
     "servicesList": {
       "label": "Our services",
@@ -1065,73 +1065,73 @@
           "slug": "thiet-ke-website",
           "title": "Website Design",
           "desc": "A professional website must be a profit-generating tool. At SoftBuild, we build platforms that are high-speed, stable, and optimized for user experience. From interface to features, every detail is fine-tuned to drive conversions, help businesses operate smoothly and affirm their brand position.",
-          "img": "/images/services/winterfrost/web-application-development-v2.png"
+          "img": "/images/services/softbuild/web-application-development-v2.png"
         },
         {
           "slug": "phat-trien-ai",
           "title": "AI Development",
           "desc": "SoftBuild helps you analyze and process your data through specialized AI and machine learning solutions. From image recognition to predictive analytics, we help businesses automate complex decision processes to create a clear competitive advantage. All models are adjusted to bring real and accurate value to businesses.",
-          "img": "/images/services/winterfrost/ai-development.webp"
+          "img": "/images/services/softbuild/ai-development.webp"
         },
         {
           "slug": "phat-trien-ung-dung-saas",
           "title": "SaaS Application Development",
           "desc": "SoftBuild specializes in developing SaaS applications on the cloud platform, thoroughly solving security and scalability problems. We optimize the system structure to ensure stable operation, helping businesses save infrastructure costs and create sustainable recurring revenue sources.",
-          "img": "/images/services/winterfrost/saas-application-development.webp"
+          "img": "/images/services/softbuild/saas-application-development.webp"
         },
         {
           "slug": "thiet-ke-app",
           "title": "App Design",
           "desc": "SoftBuild specializes in developing high-performance IOS and Android applications, ensuring absolute stability and security. Our solution is flexibly compatible with existing systems, helping businesses connect deeply with customers and grow sustainably.",
-          "img": "/images/services/winterfrost/mobile-app-development.webp"
+          "img": "/images/services/softbuild/mobile-app-development.webp"
         },
         {
           "slug": "van-hanh-va-bao-tri",
           "title": "Operation and Maintenance",
           "desc": "We understand that a stable system is vital for a business. SoftBuild proactively maintains and updates security to keep your software running the best it can. The technical team is ready to quickly solve all problems so that the unit's working process is not interrupted. You can completely rest assured that you can focus on growing your business because we are here to protect your system every day.",
-          "img": "/images/services/winterfrost/software-maintenance-and-support.webp"
+          "img": "/images/services/softbuild/software-maintenance-and-support.webp"
         },
         {
           "slug": "phat-trien-phan-mem-doanh-nghiep",
           "title": "Enterprise Software Development",
           "desc": "SoftBuild develops in-depth management systems, thoroughly solving all operational complexities. We customize the software according to each business's unique processes, helping to centralize data and ensure absolute security. This is a solid foundation for you to standardize your organization and optimize sustainable resources.",
-          "img": "/images/services/winterfrost/enterprise-software-development.webp"
+          "img": "/images/services/softbuild/enterprise-software-development.webp"
         },
         {
           "slug": "phat-trien-phan-mem-mvp",
           "title": "MVP Software Development",
           "desc": "SoftBuild helps businesses launch products quickly with a streamlined MVP development process. We focus on core features to validate ideas and gather real-world feedback, helping to optimize budgets and minimize risks before making large investments. This is a smart stepping stone for you to start effectively and safely.",
-          "img": "/images/services/winterfrost/mvp-software-development.webp"
+          "img": "/images/services/softbuild/mvp-software-development.webp"
         },
         {
           "slug": "dich-vu-it",
           "title": "IT Services",
           "desc": "SoftBuild directly analyzes the current process to replace manual operations with a management software system. Digitalization helps data be stored centrally, minimizing human errors and shortening work processing time. Businesses will capture actual data in real time to make accurate operating decisions, thereby optimizing operating costs and improving personnel performance.",
-          "img": "/images/services/winterfrost/custom-software-solutions.webp"
+          "img": "/images/services/softbuild/custom-software-solutions.webp"
         },
         {
           "slug": "tu-van-chuyen-doi-so",
           "title": "Digital Transformation Consulting",
           "desc": "We set up, operate and maintain the entire server system, internal network and technical equipment for businesses. SoftBuild applies security standards and routine backup procedures to prevent the risk of information loss or unauthorized intrusion. The technical system is maintained and operates continuously to ensure uninterrupted work, while also helping businesses reduce costs of recruiting and managing internal IT staff.",
-          "img": "/images/services/winterfrost/generative-ai-integration.webp"
+          "img": "/images/services/softbuild/generative-ai-integration.webp"
         },
         {
           "slug": "phat-trien-devops",
           "title": "DevOps Development",
           "desc": "SoftBuild improves the software development process with an automated CI/CD solution that reduces product launch time to a minimum. We focus on building a secure cloud infrastructure and 24/7 continuous monitoring system to ensure stability.",
-          "img": "/images/services/winterfrost/devops-development.webp"
+          "img": "/images/services/softbuild/devops-development.webp"
         },
         {
           "slug": "phat-trien-iot",
           "title": "IoT Development",
           "desc": "SoftBuild links smart devices and collects information to help businesses improve operational processes. We focus on developing secure and flexible IoT solutions that allow you to monitor data in real time. You will have a powerful connected ecosystem to make decisions based on the most accurate data.",
-          "img": "/images/services/winterfrost/iot-development.webp"
+          "img": "/images/services/softbuild/iot-development.webp"
         },
         {
           "slug": "phat-trien-blockchain",
           "title": "Blockchain Development",
           "desc": "SoftBuild builds a decentralized Blockchain solution that helps ensure absolute data security. We apply Smart Contract to optimize costs and completely eliminate intermediary risks. This is a solid foundation to help you strengthen customer trust and effectively breakthrough in the digital era.",
-          "img": "/images/services/winterfrost/blockchain-development.webp"
+          "img": "/images/services/softbuild/blockchain-development.webp"
         }
       ]
     },

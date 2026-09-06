@@ -33,7 +33,7 @@ export async function generateMetadata({
   if (!detail) return {};
 
   return {
-    title: `${detail.title} - Winterfrost`,
+    title: `${detail.title} - SoftBuild`,
     description: detail.hero.description,
   };
 }

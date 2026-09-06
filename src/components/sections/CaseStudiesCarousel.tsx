@@ -10,7 +10,7 @@ import { useLocalizedHome } from "@/i18n/content";
 import { useAutoText } from "@/i18n/auto-text-client";
 import s from "./CaseStudiesCarousel.module.css";
 
-// Homepage CaseStudy section: exactly 3 hand-picked cards (from winterfrost.tech).
+// Homepage CaseStudy section: exactly 3 hand-picked cards (from softbuildvn.vercel.app).
 // Images, titles, categories and short descs are the homepage-specific copy
 // (different from the detail pages, which use longer titles + alt images).
 const HOMEPAGE_CARDS: Array<{
@@ -27,7 +27,7 @@ const HOMEPAGE_CARDS: Array<{
     image:
       "/images/projects/nivora-connect/01-cover.webp?v=wf-20260726",
     desc:
-      "Ứng dụng Nivora Connect, được phát triển bởi Winterfrost, là một nền tảng trực quan giúp kết nối cộng đồng người Việt tại Hàn Quốc với các dịch vụ thi...",
+      "Ứng dụng Nivora Connect, được phát triển bởi SoftBuild, là một nền tảng trực quan giúp kết nối cộng đồng người Việt tại Hàn Quốc với các dịch vụ thi...",
   },
   {
     slug: "app-grevia-lawn",
@@ -36,7 +36,7 @@ const HOMEPAGE_CARDS: Array<{
     image:
       "/images/projects/app-grevia-lawn/01-anh-bia-du-an.webp?v=wf-grevia-pro-20260726",
     desc:
-      "Khám phá cách Winterfrost xây dựng ứng dụng Grevia Lawn với thiết kế hiệu suất cao, tối ưu đặt lịch dễ dàng và quản lý chăm sóc sân vườn chuyên...",
+      "Khám phá cách SoftBuild xây dựng ứng dụng Grevia Lawn với thiết kế hiệu suất cao, tối ưu đặt lịch dễ dàng và quản lý chăm sóc sân vườn chuyên...",
   },
   {
     slug: "website-loomora-rugs",
@@ -45,7 +45,7 @@ const HOMEPAGE_CARDS: Array<{
     image:
       "/images/projects/website-loomora-rugs/01-anh-bia-du-an.webp?v=wf-projects-pro-20260726",
     desc:
-      "Website Loomora Rugs, được phát triển bởi Winterfrost, là một nền tảng thương mại điện tử cao cấp được thiết kế sang trọng, giúp trưng bày các sản ...",
+      "Website Loomora Rugs, được phát triển bởi SoftBuild, là một nền tảng thương mại điện tử cao cấp được thiết kế sang trọng, giúp trưng bày các sản ...",
   },
 ];
 

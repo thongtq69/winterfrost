@@ -34,10 +34,10 @@ const SERVICES_GROUPS = [
 ];
 
 const COMPANIES = [
-  { href: "/", label: "SoftBuild Digital", logo: "/images/brand/winterfrost/winterfrost-wordmark.png" },
-  { href: "/", label: "SoftBuild Labs", logo: "/images/brand/winterfrost/winterfrost-wordmark.png" },
-  { href: "/", label: "SoftBuild Cloud", logo: "/images/brand/winterfrost/winterfrost-wordmark.png" },
-  { href: "/", label: "SoftBuild Media", logo: "/images/brand/winterfrost/winterfrost-wordmark.png" },
+  { href: "/", label: "SoftBuild Digital", logo: "/images/brand/softbuild/softbuild-wordmark.png" },
+  { href: "/", label: "SoftBuild Labs", logo: "/images/brand/softbuild/softbuild-wordmark.png" },
+  { href: "/", label: "SoftBuild Cloud", logo: "/images/brand/softbuild/softbuild-wordmark.png" },
+  { href: "/", label: "SoftBuild Media", logo: "/images/brand/softbuild/softbuild-wordmark.png" },
 ];
 
 const SOCIAL_ICON_MAP: Record<string, React.ReactNode> = {

@@ -75,7 +75,7 @@ export function WhyChooseUs() {
               </div>
             </div>
             <div className={s.copyright}>
-              <p>Copyright © 2026 Winterfrost</p>
+              <p>Copyright © 2026 SoftBuild</p>
             </div>
           </div>
 
@@ -153,7 +153,7 @@ export function WhyChooseUs() {
                   </div>
                   <div className={s.brandLogoCenter} aria-hidden>
                     {/* eslint-disable-next-line @next/next/no-img-element */}
-                    <img src={c2.centerLogo} alt="Winterfrost" />
+                    <img src={c2.centerLogo} alt="SoftBuild" />
                   </div>
                 </div>
               </div>

@@ -50,7 +50,7 @@ function shouldPreserve(key: string, value: string) {
   return (
     preservedKeys.has(key) ||
     value === "SoftBuild" ||
-    value === "Winterfrost" ||
+    value === "SoftBuild" ||
     /^(?:https?:|tel:|mailto:|#)/.test(value) ||
     /^\/[a-z0-9_?=&%+./#-]*$/i.test(value) ||
     /^(?:rgba?\(|#[\da-f]{3,8}$)/i.test(value) ||

@@ -33,7 +33,7 @@
 .eyebrow::before { content: "✦"; color: #fff; font-size: 16px; line-height: 1; }
 
 .headline {
-  font-family: var(--font-Winterfrost), var(--font-manrope), sans-serif;
+  font-family: var(--font-SoftBuild), var(--font-manrope), sans-serif;
   font-weight: 500;
   font-size: clamp(36px, 5.4vw, 78px);
   line-height: 1.05;
@@ -67,7 +67,7 @@
   gap: 18px;
 }
 .cardForm h3 {
-  font-family: var(--font-Winterfrost), var(--font-manrope), sans-serif;
+  font-family: var(--font-SoftBuild), var(--font-manrope), sans-serif;
   font-weight: 500;
   font-size: 28px;
   letter-spacing: -0.02em;

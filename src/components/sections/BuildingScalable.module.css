@@ -26,7 +26,7 @@
   width: 600px;
   margin: 0;
   color: #fff;
-  font-family: var(--font-Winterfrost), sans-serif;
+  font-family: var(--font-SoftBuild), sans-serif;
   font-size: 60px;
   font-weight: 400;
   line-height: normal;
@@ -43,7 +43,7 @@
 .cardDescription { margin: 0; color: #5b5b5b; font-size: 18px; line-height: 1.3; }
 .cardDescription a { color: inherit; font-weight: 600; }
 .statsRow { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
-.statsRow strong, .singleStat strong { color: #1670de; font-family: var(--font-Winterfrost), sans-serif; font-size: 64px; font-weight: 500; line-height: 1; }
+.statsRow strong, .singleStat strong { color: #1670de; font-family: var(--font-SoftBuild), sans-serif; font-size: 64px; font-weight: 500; line-height: 1; }
 .statsRow p, .singleStat p { margin: 8px 0 0; color: #5b5b5b; font-size: 18px; line-height: 1.2; }
 .cardWhite hr { width: 100%; margin: 0; border: 0; border-top: 1px solid #dadadb; }
 .author { display: flex; align-items: center; gap: 12px; }

@@ -140,7 +140,7 @@
     "description": "SoftBuild thiết kế ứng dụng IOS và Android có tốc độ nhanh, bảo mật và dễ sử dụng. Giải pháp này giúp bạn duy trì sự hiện diện và tương tác với khách hàng mọi lúc, mọi nơi.",
     "ctaLabel": "Nhận tư vấn thiết kế app",
     "ctaHref": "/lien-he",
-    "image": "/images/people/cta/winterfrost/nhan-vien-cong-nghe-tre.png"
+    "image": "/images/people/cta/softbuild/nhan-vien-cong-nghe-tre.png"
   },
   "counter": {
     "badgeText": "Thành tựu của chúng tôi",
@@ -380,21 +380,21 @@
         "slug": "thiet-ke-website",
         "title": "Thiết kế website chuyên nghiệp",
         "desc": "Chúng tôi xây dựng phiên bản web tương ứng cho ứng dụng di động của bạn, sử dụng chung hệ thống quản trị và lớp dữ liệu cốt lõi. Giải pháp này giúp sản phẩm của bạn vận hành mượt mà và nhất quán trên mọi nền tảng và thiết bị mà người dùng sử dụng.",
-        "image": "/images/services/winterfrost/web-application-development.webp",
+        "image": "/images/services/softbuild/web-application-development.webp",
         "href": "/dich-vu/thiet-ke-website"
       },
       {
         "slug": "phat-trien-phan-mem-doanh-nghiep",
         "title": "Phát triển phần mềm doanh nghiệp",
         "desc": "Xây dựng cấu trúc hệ thống bảo mật có khả năng chịu tải cao dành riêng cho các quy mô vận hành lớn. Giải pháp này bao gồm việc kết nối dữ liệu chuyên sâu cùng các cam kết về chất lượng dịch vụ nghiêm ngặt.",
-        "image": "/images/services/winterfrost/enterprise-software-development.webp",
+        "image": "/images/services/softbuild/enterprise-software-development.webp",
         "href": "/dich-vu/phat-trien-phan-mem-doanh-nghiep"
       },
       {
         "slug": "van-hanh-va-bao-tri",
         "title": "Dịch vụ vận hành & bảo trì",
         "desc": "Sẵn sàng đồng hành cùng ứng dụng của bạn sau khi ra mắt để đảm bảo tính tương thích với các bản cập nhật hệ điều hành mới, xử lý sự cố kịp thời và liên tục cải thiện hiệu suất. Chúng tôi giúp ứng dụng của bạn luôn duy trì đánh giá cao trên các kho ứng dụng và giữ chân người dùng hiệu quả.",
-        "image": "/images/services/winterfrost/software-maintenance-and-support.webp",
+        "image": "/images/services/softbuild/software-maintenance-and-support.webp",
         "href": "/dich-vu/van-hanh-va-bao-tri"
       }
     ]

@@ -11,8 +11,8 @@ import {
 import s from "./Hero.module.css";
 
 const PLATFORM_IMG =
-  "/images/brand/winterfrost/hero/winterfrost-glowing-symbol-transparent.png?v=wf-clean-20260727-v2";
-const PILLAR_IMG = "/images/brand/winterfrost/hero/winterfrost-pillar.png";
+  "/images/brand/softbuild/hero/softbuild-glowing-symbol-transparent.png?v=wf-clean-20260727-v2";
+const PILLAR_IMG = "/images/brand/softbuild/hero/softbuild-pillar.png";
 
 const DEFAULT_POS_CLASSES = [s.posWeb, s.posApp, s.posSoftware, s.posAI, s.posMaintenance];
 const DETAIL_POS_CLASSES = [s.posDetail0, s.posDetail1, s.posDetail2, s.posDetail3, s.posDetail4];

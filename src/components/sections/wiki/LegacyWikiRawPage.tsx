@@ -3,18 +3,18 @@
 import { useEffect, useRef } from "react";
 
 const STYLESHEETS = [
-  "https://winterfrost.tech/_next/static/chunks/419f318b2056e9cc.css",
-  "https://winterfrost.tech/_next/static/chunks/f6a48a8a59bef51b.css",
-  "https://winterfrost.tech/_next/static/chunks/591312935a8a436b.css",
-  "https://winterfrost.tech/_next/static/chunks/6732512e87e8f355.css",
-  "https://winterfrost.tech/_next/static/chunks/356b7c84cad65aa0.css",
+  "https://softbuildvn.vercel.app/_next/static/chunks/419f318b2056e9cc.css",
+  "https://softbuildvn.vercel.app/_next/static/chunks/f6a48a8a59bef51b.css",
+  "https://softbuildvn.vercel.app/_next/static/chunks/591312935a8a436b.css",
+  "https://softbuildvn.vercel.app/_next/static/chunks/6732512e87e8f355.css",
+  "https://softbuildvn.vercel.app/_next/static/chunks/356b7c84cad65aa0.css",
 ];
 
 export function LegacyWikiRawPage({ html }: { html: string }) {
   const rootRef = useRef<HTMLDivElement>(null);
   const pageHtml = html
-    .replaceAll('src="/assets/', 'src="https://winterfrost.tech/assets/')
-    .replaceAll('srcset="/assets/', 'srcset="https://winterfrost.tech/assets/');
+    .replaceAll('src="/assets/', 'src="https://softbuildvn.vercel.app/assets/')
+    .replaceAll('srcset="/assets/', 'srcset="https://softbuildvn.vercel.app/assets/');
 
   useEffect(() => {
     const root = rootRef.current;

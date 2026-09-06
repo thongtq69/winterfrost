@@ -6,8 +6,8 @@ import { ArrowRight, Copy } from "lucide-react";
 import { Container } from "@/components/primitives/Container";
 import { Reveal } from "@/components/primitives/Reveal";
 
-const PHOTO = "/images/people/van-phong/van-phong-winterfrost.webp";
-const EMAIL = "info@winterfrost.tech";
+const PHOTO = "/images/people/van-phong/van-phong-softbuild.webp";
+const EMAIL = "contact@softbuild.vn";
 
 export function AboutContactCTA() {
   const [name, setName] = useState("");
@@ -119,7 +119,7 @@ export function AboutContactCTA() {
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
               src={PHOTO}
-              alt="Winterfrost office"
+              alt="SoftBuild office"
               loading="lazy"
               className="mt-6 block h-[260px] w-full rounded-xl object-cover"
             />

@@ -17,8 +17,8 @@ export async function generateMetadata({
   const locale = isSupportedLocale(candidate) ? candidate : routing.defaultLocale;
   const tr = await getAutoText(locale);
   return {
-    title: tr("Case study - Winterfrost"),
-    description: tr("Các dự án tiêu biểu Winterfrost đã đồng hành: thiết kế website, mobile app, AI và giải pháp số cho doanh nghiệp."),
+    title: tr("Case study - SoftBuild"),
+    description: tr("Các dự án tiêu biểu SoftBuild đã đồng hành: thiết kế website, mobile app, AI và giải pháp số cho doanh nghiệp."),
   };
 }
 

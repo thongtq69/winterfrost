@@ -12,7 +12,7 @@ const AVATARS = [
   "/images/people/khach-hang/vo-thanh-huong.webp",
 ];
 
-const AUTHOR = "/images/people/founder/winterfrost/le-khai-minh.webp";
+const AUTHOR = "/images/people/founder/softbuild/le-khai-minh.webp";
 const APP_IMAGE = "/images/projects/nivora-connect/01-cover.webp";
 const SOFTWARE_IMAGE =
   "/images/migrated/homenest-com-vn/wp-content/uploads/2026/04/Phat-trien-Phan-mem-HomeNest-Viet-Nam.jpg";

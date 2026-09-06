@@ -23,8 +23,8 @@ export async function generateMetadata({
   const locale = isSupportedLocale(candidate) ? candidate : routing.defaultLocale;
   const tr = await getAutoText(locale);
   return {
-    title: tr("Lĩnh vực - Winterfrost"),
-    description: tr("Winterfrost phát triển giải pháp công nghệ chuyên biệt cho từng ngành — từ tài chính, y tế đến bán lẻ, logistics và bất động sản."),
+    title: tr("Lĩnh vực - SoftBuild"),
+    description: tr("SoftBuild phát triển giải pháp công nghệ chuyên biệt cho từng ngành — từ tài chính, y tế đến bán lẻ, logistics và bất động sản."),
   };
 }
 

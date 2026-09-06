@@ -1,4 +1,4 @@
-/* WhyChooseUs bento — match WhyChooseUsSection-module on winterfrost.tech */
+/* WhyChooseUs bento — match WhyChooseUsSection-module on softbuildvn.vercel.app */
 
 .section {
   color: #05080C;
@@ -50,7 +50,7 @@
 .headingText {
   text-align: center;
   width: 100%;
-  font-family: Winterfrost, var(--font-Winterfrost), sans-serif;
+  font-family: SoftBuild, var(--font-SoftBuild), sans-serif;
   font-size: 60px;
   line-height: normal;
 }
@@ -141,7 +141,7 @@
 }
 .rightTitle {
   margin: 0;
-  font-family: Winterfrost, var(--font-Winterfrost), sans-serif;
+  font-family: SoftBuild, var(--font-SoftBuild), sans-serif;
   font-size: 22px;
   font-weight: 500;
   line-height: normal;
@@ -248,7 +248,7 @@
 .cardTitle {
   margin: 0;
   color: #121528;
-  font-family: Winterfrost, var(--font-Winterfrost), sans-serif;
+  font-family: SoftBuild, var(--font-SoftBuild), sans-serif;
   font-size: 22px;
   font-weight: 500;
   line-height: normal;
@@ -553,7 +553,7 @@
   margin: 0;
   color: #05080C;
   letter-spacing: -0.04em;
-  font-family: var(--font-Winterfrost, Manrope, sans-serif);
+  font-family: var(--font-SoftBuild, Manrope, sans-serif);
   font-size: 28px;
   font-weight: 500;
   line-height: 1;

@@ -43,9 +43,9 @@ const extraServices = [
     metaDescription:
       "Giải pháp IT toàn diện, quản trị hạ tầng, hỗ trợ kỹ thuật và tối ưu hệ thống cho doanh nghiệp.",
     image:
-      "/images/services/winterfrost/custom-software-solutions.webp",
+      "/images/services/softbuild/custom-software-solutions.webp",
     ogImage:
-      "/images/services/winterfrost/custom-software-solutions.webp",
+      "/images/services/softbuild/custom-software-solutions.webp",
     contentText:
       "SoftBuild cung cấp dịch vụ IT toàn diện từ tư vấn kiến trúc, quản trị hạ tầng đến giám sát và hỗ trợ kỹ thuật. Giải pháp được thiết kế theo nhu cầu thực tế, giúp doanh nghiệp duy trì hệ thống ổn định, bảo mật và sẵn sàng mở rộng.",
   },
@@ -55,9 +55,9 @@ const extraServices = [
     metaDescription:
       "Xây dựng lộ trình chuyển đổi số rõ ràng, tối ưu quy trình và lựa chọn công nghệ phù hợp với doanh nghiệp.",
     image:
-      "/images/services/winterfrost/generative-ai-integration.webp",
+      "/images/services/softbuild/generative-ai-integration.webp",
     ogImage:
-      "/images/services/winterfrost/generative-ai-integration.webp",
+      "/images/services/softbuild/generative-ai-integration.webp",
     contentText:
       "Đội ngũ SoftBuild đồng hành cùng doanh nghiệp trong việc đánh giá hiện trạng, xác định mục tiêu và xây dựng lộ trình chuyển đổi số khả thi. Mỗi đề xuất tập trung vào hiệu quả vận hành, khả năng đo lường và tốc độ triển khai.",
   },
@@ -67,9 +67,9 @@ const extraServices = [
     metaDescription:
       "Giải pháp tự động hóa thông minh RPA, Workflow Automation và AI Agents giúp doanh nghiệp tối ưu chi phí và tăng tốc xử lý.",
     image:
-      "/images/services/winterfrost/generative-ai-integration.webp",
+      "/images/services/softbuild/generative-ai-integration.webp",
     ogImage:
-      "/images/services/winterfrost/generative-ai-integration.webp",
+      "/images/services/softbuild/generative-ai-integration.webp",
     contentText:
       "SoftBuild cung cấp giải pháp tự động hóa toàn diện cho doanh nghiệp từ RPA, tích hợp hệ thống đa nền tảng đến trợ lý AI điều phối công việc tự động 24/7.",
   },

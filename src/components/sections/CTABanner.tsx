@@ -5,7 +5,7 @@ import { useEffect, useRef, useState } from "react";
 import { useLocalizedHome } from "@/i18n/content";
 import s from "./CTABanner.module.css";
 
-const PERSON_IMG = "/images/people/cta/winterfrost/chuyen-vien-tu-van-viet-nam.png";
+const PERSON_IMG = "/images/people/cta/softbuild/chuyen-vien-tu-van-viet-nam.png";
 
 type CTABannerProps = {
   home?: boolean;
@@ -84,8 +84,8 @@ export function CTABanner({
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
             src={image ?? PERSON_IMG}
-            alt={imageAlt ?? "Chuyên viên tư vấn người Việt của Winterfrost"}
-            title={imageAlt ?? "Chuyên viên tư vấn người Việt của Winterfrost"}
+            alt={imageAlt ?? "Chuyên viên tư vấn người Việt của SoftBuild"}
+            title={imageAlt ?? "Chuyên viên tư vấn người Việt của SoftBuild"}
             className={s.image}
             width={270}
             height={330}

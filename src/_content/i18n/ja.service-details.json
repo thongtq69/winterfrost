@@ -52,27 +52,27 @@
         {
           "title": "経営管理サイト",
           "desc": "顧客および内部のリソース管理機能を備えた Web サイトのデザインを Web サイトに直接統合して、運用プロセスを最適化します。",
-          "image": "/images/services/winterfrost/enterprise-software-development.webp"
+          "image": "/images/services/softbuild/enterprise-software-development.webp"
         },
         {
           "title": "人工知能と統合されたウェブサイト",
           "desc": "自動化して問題に対処できる AI 統合 Web サイトでビジネス モデルを変革し、生産性と作業効率の向上に貢献します。",
-          "image": "/images/services/winterfrost/ai-development.webp"
+          "image": "/images/services/softbuild/ai-development.webp"
         },
         {
           "title": "データ分析サイト",
           "desc": "レポート システムと実際のデータを Web サイト上で提供することで、管理者は業績を正確に監視できます。",
-          "image": "/images/services/winterfrost/devops-development.webp"
+          "image": "/images/services/softbuild/devops-development.webp"
         },
         {
           "title": "ネット販売サイト",
           "desc": "高速かつ絶対的なセキュリティを備えたECプラットフォームを構築することで、企業の事業規模の拡大を支援します。",
-          "image": "/images/services/winterfrost/saas-application-development.webp"
+          "image": "/images/services/softbuild/saas-application-development.webp"
         },
         {
           "title": "システムを接続して同期する",
           "desc": "当社の Web サイトには、データが常に更新されるように他のソフトウェアとシームレスにリンクする機能があります。",
-          "image": "/images/services/winterfrost/custom-software-solutions.webp"
+          "image": "/images/services/softbuild/custom-software-solutions.webp"
         }
       ]
     },
@@ -171,7 +171,7 @@
       "description": "SoftBuild を使用して、高速で安全性の高い Web サイトを構築し、ユーザー エクスペリエンスを最適化し、潜在的な顧客を今すぐ引き付けることができます。",
       "ctaLabel": "今すぐデザイン相談を受ける",
       "ctaHref": "/lien-he",
-      "image": "/images/people/cta/winterfrost/quan-ly-nam.png"
+      "image": "/images/people/cta/softbuild/quan-ly-nam.png"
     },
     "counter": {
       "badgeText": "私たちの実績",
@@ -446,7 +446,7 @@
           "slug": "phat-trien-phan-mem-tuy-chinh",
           "title": "運用と保守",
           "desc": "私たちはソース コードを引き渡すだけでなく、パフォーマンスの監視、最適化、セキュリティの定期的な更新などの長期的なサポートも提供し、企業のシステムが常に安定して安全に動作し、いつでも拡張できるように支援します。",
-          "image": "/images/services/winterfrost/custom-software-solutions.webp",
+          "image": "/images/services/softbuild/custom-software-solutions.webp",
           "href": "/dich-vu/van-hanh-va-bao-tri"
         },
         {
@@ -514,7 +514,7 @@
       "titleLight": "DevOps",
       "description": "SoftBuild は、柔軟なクラウド インフラストラクチャを設計し、CI/CD を標準化し、DevSecOps ソリューションを展開して、企業が製品リリースを短縮し、あらゆる規模でスムーズなシステム運用を確保できるように支援します。",
       "bgImage": "/images/migrated/homenest-software/wp-content/uploads/2026/03/Web-app-development.jpg",
-      "dashboardImage": "/images/services/winterfrost/web-application-development.webp"
+      "dashboardImage": "/images/services/softbuild/web-application-development.webp"
     },
     "solution": {
       "headlineLight": "重要な価値観",
@@ -559,27 +559,27 @@
         {
           "title": "CI/CD のセットアップと管理",
           "desc": "ソースコードの統合と製品リリースのプロセスを完全に自動化します。このシステムは、手動介入を必要とせずに、すべての更新が自動的にチェックされ、運用環境にプッシュされることを保証します。",
-          "image": "/images/services/winterfrost/enterprise-software-development.webp"
+          "image": "/images/services/softbuild/enterprise-software-development.webp"
         },
         {
           "title": "コードによるインフラストラクチャの管理",
           "desc": "Terraform や Ansible などのツールを使用して、コードを通じてサーバーをセットアップおよび管理します。このアプローチは、完全に同一の環境を作成し、構成エラーを最小限に抑え、即時のシステム回復を可能にするのに役立ちます。",
-          "image": "/images/services/winterfrost/ai-development.webp"
+          "image": "/images/services/softbuild/ai-development.webp"
         },
         {
           "title": "クラウド コンピューティング インフラストラクチャを最適化する",
           "desc": "クラウド コンピューティング プラットフォーム上でリソースをセットアップ、構成、調整します。当社は、不必要なリソース コストを削減しながら、アプリケーションのニーズを正確に満たすためにサーバーのパフォーマンスを最適化することに重点を置いています。",
-          "image": "/images/services/winterfrost/devops-development.webp"
+          "image": "/images/services/softbuild/devops-development.webp"
         },
         {
           "title": "業務の標準化と自動化",
           "desc": "パッケージ化テクノロジーを使用して、アプリケーションがすべてのサーバーで同じように動作するようにします。自動管理システムと組み合わせることで、アプリケーションのヘルスチェックを自動化し、問題が発生した場合は自動再起動し、トラフィックに応じてリソースを瞬時に調整します。",
-          "image": "/images/services/winterfrost/saas-application-development.webp"
+          "image": "/images/services/softbuild/saas-application-development.webp"
         },
         {
           "title": "システム監視とログ分析",
           "desc": "リアルタイムのサーバーとアプリケーションの健全性監視システムを導入します。 CPU、RAM、帯域幅、エラー ログに関するすべてのパラメータが視覚的に要約され、サービス中断のリスクを迅速に検出し、迅速に対処するのに役立ちます。",
-          "image": "/images/services/winterfrost/custom-software-solutions.webp"
+          "image": "/images/services/softbuild/custom-software-solutions.webp"
         }
       ]
     },
@@ -678,7 +678,7 @@
       "description": "ビジネスが継続的かつ安全に動作するシステムを必要とする場合、SoftBuild は綿密なインフラストラクチャのセキュリティと監視プロセスを設計します。このソリューションは、エラーを早期に検出し、サービス中断のリスクを防ぐのに役立ちます。",
       "ctaLabel": "DevOps コンサルティングを受ける",
       "ctaHref": "/lien-he",
-      "image": "/images/people/cta/winterfrost/nhan-vien-cong-nghe-tre.png"
+      "image": "/images/people/cta/softbuild/nhan-vien-cong-nghe-tre.png"
     },
     "counter": {
       "badgeText": "私たちの実績",
@@ -1000,7 +1000,7 @@
       "titleLight": "IoT開発",
       "description": "SoftBuild は、組み込みファームウェアのプログラミング、エンドポイント デバイスのセットアップ、インテリジェントなデータ分析システムとともにクラウド ダッシュボードの作成など、包括的な IoT ソリューションを提供します。",
       "bgImage": "/images/migrated/homenest-software/wp-content/uploads/2026/03/Web-app-development.jpg",
-      "dashboardImage": "/images/services/winterfrost/web-application-development.webp"
+      "dashboardImage": "/images/services/softbuild/web-application-development.webp"
     },
     "solution": {
       "headlineLight": "実行された値",
@@ -1045,27 +1045,27 @@
         {
           "title": "ファームウェアと組み込みデバイスのプログラミング",
           "desc": "マイクロコントローラーのコードを設計および開発して、デバイスが可能な限り効率的に動作し、電力を節約し、最適な方法で現場のタスクを処理できるようにします。",
-          "image": "/images/services/winterfrost/enterprise-software-development.webp"
+          "image": "/images/services/softbuild/enterprise-software-development.webp"
         },
         {
           "title": "エッジでのコンピューティング",
           "desc": "オンサイト処理のためにデータ収集サイトの近くにノードを展開します。これにより、クラウド インフラストラクチャの負担が軽減され、遅延が軽減され、インターネット接続がなくてもシステムが動作し続けることが保証されます。",
-          "image": "/images/services/winterfrost/ai-development.webp"
+          "image": "/images/services/softbuild/ai-development.webp"
         },
         {
           "title": "一元的なIoT管理プラットフォーム",
           "desc": "クラウド インフラストラクチャを構築して、デバイスのライフサイクルを管理し、大量のデータを保存し、システムの各部分間の情報を調整します。",
-          "image": "/images/services/winterfrost/devops-development.webp"
+          "image": "/images/services/softbuild/devops-development.webp"
         },
         {
           "title": "直感的なコントロールパネル",
           "desc": "センサー パラメーターをリアルタイムで視覚的に表示するダッシュボードを開発し、管理者がデバイスをリモートで簡単に監視および制御できるようにします。",
-          "image": "/images/services/winterfrost/saas-application-development.webp"
+          "image": "/images/services/softbuild/saas-application-development.webp"
         },
         {
           "title": "AI を IoT に統合する",
           "desc": "人工知能モデルを埋め込んで、センサーデータを深く分析し、動作を認識し、インテリジェントな制御決定を自動的に行います。",
-          "image": "/images/services/winterfrost/custom-software-solutions.webp"
+          "image": "/images/services/softbuild/custom-software-solutions.webp"
         }
       ]
     },
@@ -1170,7 +1170,7 @@
       "description": "ビジネスで資産の監視や生産ラインの自動化が必要な場合、SoftBuild のソリューションがそれを支援します。このシステムは、データが継続的に安全に送信され、ビジネス上の意思決定を行うために簡単に分析されることを保証します。",
       "ctaLabel": "今すぐ IoT プロジェクトを始めましょう",
       "ctaHref": "/lien-he",
-      "image": "/images/people/cta/winterfrost/chuyen-vien-nu.png"
+      "image": "/images/people/cta/softbuild/chuyen-vien-nu.png"
     },
     "counter": {
       "badgeText": "私たちの実績",
@@ -1492,7 +1492,7 @@
       "titleLight": "ブロックチェーン",
       "description": "SoftBuild は、ネットワーク アーキテクチャ設計、スマート コントラクト プログラミング、Web3 新世代インターネット開発、さまざまなプラットフォームでの DApp 分散型アプリケーションの実装など、包括的なブロックチェーン開発サービスを提供します。",
       "bgImage": "/images/migrated/homenest-software/wp-content/uploads/2026/03/Web-app-development.jpg",
-      "dashboardImage": "/images/services/winterfrost/web-application-development.webp"
+      "dashboardImage": "/images/services/softbuild/web-application-development.webp"
     },
     "solution": {
       "headlineLight": "優れた利点",
@@ -1537,27 +1537,27 @@
         {
           "title": "スマートコントラクトの開発",
           "desc": "Ethereum や Solana などのネットワーク上で自動実行契約をプログラムします。ソースコード監査を実行してガスコストを最小限に抑え、セキュリティ問題を完全に防止します。",
-          "image": "/images/services/winterfrost/enterprise-software-development.webp"
+          "image": "/images/services/softbuild/enterprise-software-development.webp"
         },
         {
           "title": "DApp 分散型アプリケーション",
           "desc": "完全な Web3 アプリケーションを構築し、専用のライブラリと電子ウォレットを通じてユーザー インターフェイスとブロックチェーン インフラストラクチャをシームレスに接続します。",
-          "image": "/images/services/winterfrost/ai-development.webp"
+          "image": "/images/services/softbuild/ai-development.webp"
         },
         {
           "title": "DeFi & NFT ソリューション",
           "desc": "トークン業界標準に従って、分散型金融プロトコルと NFT マーケットプレイス エコシステムを実装します。",
-          "image": "/images/services/winterfrost/devops-development.webp"
+          "image": "/images/services/softbuild/devops-development.webp"
         },
         {
           "title": "暗号ウォレットと支払いゲートウェイ",
           "desc": "マルチチェーンデジタル資産のための統合された非保管ウォレットと支払いゲートウェイ。秘密キーのセキュリティを最大限に高めるために、マルチパーティ署名メカニズムを使用します。",
-          "image": "/images/services/winterfrost/saas-application-development.webp"
+          "image": "/images/services/softbuild/saas-application-development.webp"
         },
         {
           "title": "エンタープライズブロックチェーン",
           "desc": "サプライチェーン管理と財務のための内部ネットワークを設計します。データの透明性を確保しながらも、内部アクセス権を厳密に制御します。",
-          "image": "/images/services/winterfrost/custom-software-solutions.webp"
+          "image": "/images/services/softbuild/custom-software-solutions.webp"
         }
       ]
     },
@@ -1656,7 +1656,7 @@
       "description": "仲介業者を通さない完全に安全なトランザクション管理プラットフォームが必要な場合は、SoftBuild にお任せください。現代の技術基準を完全に満たし、プロジェクト規模に応じて柔軟に拡張できる綿密なプログラミングサービスを提供します。",
       "ctaLabel": "ブロックチェーンのコンサルティングを受ける",
       "ctaHref": "/lien-he",
-      "image": "/images/people/cta/winterfrost/quan-ly-nam.png"
+      "image": "/images/people/cta/softbuild/quan-ly-nam.png"
     },
     "counter": {
       "badgeText": "私たちの実績",
@@ -2127,7 +2127,7 @@
       "description": "データ処理の時間を節約し、反復的なプロセスを自動化することは、SoftBuild の AI ソリューションがもたらす真の価値です。私たちは、正確な分析と予測システムを通じて、お客様のビジネスをよりスマートに運営できるよう支援します。",
       "ctaLabel": "AI ソリューションに関するアドバイスを得る",
       "ctaHref": "/lien-he",
-      "image": "/images/people/cta/winterfrost/chuyen-vien-nam-tre.png"
+      "image": "/images/people/cta/softbuild/chuyen-vien-nam-tre.png"
     },
     "counter": {
       "badgeText": "私たちの実績",
@@ -2366,7 +2366,7 @@
           "slug": "phat-trien-ung-dung-saas",
           "title": "SaaSアプリケーション開発",
           "desc": "マルチテナント アーキテクチャと柔軟な拡張性を備えた Software-as-a-Service プラットフォームを構築します。私たちは、企業がクラウド インフラストラクチャを最適化し、持続可能な経常収益をもたらすビジネス モデルを構築できるよう支援します。",
-          "image": "/images/services/winterfrost/generative-ai-integration.webp",
+          "image": "/images/services/softbuild/generative-ai-integration.webp",
           "href": "/dich-vu/phat-trien-ung-dung-saas"
         },
         {
@@ -2572,7 +2572,7 @@
       "description": "SoftBuild は、企業がクラウド プラットフォーム上で安定した管理しやすいサービス ソフトウェアのアイデアを実現するのに役立ちます。当社は、企業が高速アクセス速度と最適なパフォーマンスを確保しながら同時に多数の顧客にサービスを提供できるようにする強力な技術インフラストラクチャの構築に重点を置いています。",
       "ctaLabel": "今すぐ SaaS プロジェクトを始めましょう",
       "ctaHref": "/lien-he",
-      "image": "/images/people/cta/winterfrost/chuyen-vien-nu.png"
+      "image": "/images/people/cta/softbuild/chuyen-vien-nu.png"
     },
     "counter": {
       "badgeText": "私たちの実績",
@@ -3010,7 +3010,7 @@
       "description": "SoftBuild は、高速、安全、そして使いやすい IOS および Android アプリケーションを設計します。このソリューションは、いつでもどこでもプレゼンスを維持し、顧客と対話するのに役立ちます。",
       "ctaLabel": "アプリのデザインについてアドバイスを受ける",
       "ctaHref": "/lien-he",
-      "image": "/images/people/cta/winterfrost/nhan-vien-cong-nghe-tre.png"
+      "image": "/images/people/cta/softbuild/nhan-vien-cong-nghe-tre.png"
     },
     "counter": {
       "badgeText": "私たちの実績",
@@ -3250,21 +3250,21 @@
           "slug": "thiet-ke-website",
           "title": "プロのウェブサイトデザイン",
           "desc": "同じコア データ レイヤーと管理システムを使用して、モバイル アプリの対応する Web バージョンを構築します。このソリューションは、ユーザーが使用するあらゆるプラットフォームやデバイス上で製品がスムーズかつ一貫して動作するのに役立ちます。",
-          "image": "/images/services/winterfrost/web-application-development.webp",
+          "image": "/images/services/softbuild/web-application-development.webp",
           "href": "/dich-vu/thiet-ke-website"
         },
         {
           "slug": "phat-trien-phan-mem-doanh-nghiep",
           "title": "エンタープライズソフトウェア開発",
           "desc": "大規模運用に特化した耐荷重の高いセキュリティシステム構造を構築します。このソリューションには、綿密なデータ接続と厳格なサービス品質への取り組みが含まれています。",
-          "image": "/images/services/winterfrost/enterprise-software-development.webp",
+          "image": "/images/services/softbuild/enterprise-software-development.webp",
           "href": "/dich-vu/phat-trien-phan-mem-doanh-nghiep"
         },
         {
           "slug": "van-hanh-va-bao-tri",
           "title": "運用保守サービス",
           "desc": "新しいオペレーティング システムのアップデートとの互換性、タイムリーなトラブルシューティング、継続的なパフォーマンスの向上を確保するために、アプリの起動後も常に待機します。あなたのアプリがアプリ ストアで高い評価を維持し、効果的にユーザーを維持できるように支援します。",
-          "image": "/images/services/winterfrost/software-maintenance-and-support.webp",
+          "image": "/images/services/softbuild/software-maintenance-and-support.webp",
           "href": "/dich-vu/van-hanh-va-bao-tri"
         }
       ]
@@ -3450,7 +3450,7 @@
       "description": "SoftBuild は、継続的な監視、更新、トラブルシューティング サービスを提供します。ビジネス プロセス全体を通じて、お客様のシステムが常に安全、正確に、中断することなく動作するよう支援します。",
       "ctaLabel": "メンテナンスのアドバイスを受ける",
       "ctaHref": "/lien-he",
-      "image": "/images/people/cta/winterfrost/quan-ly-nam.png"
+      "image": "/images/people/cta/softbuild/quan-ly-nam.png"
     },
     "counter": {
       "badgeText": "私たちの実績",
@@ -3670,21 +3670,21 @@
           "slug": "phat-trien-phan-mem-doanh-nghiep",
           "title": "エンタープライズソフトウェア開発",
           "desc": "詳細な管理と高レベルのセキュリティ ソリューションにより、ビジネス オペレーションを最新化します。当社は、包括的なデータを同期し、大規模ビジネスの業務プロセスを最適化するのに役立つカスタマイズされた ERP および CRM システムを構築します。",
-          "image": "/images/services/winterfrost/enterprise-software-development.webp",
+          "image": "/images/services/softbuild/enterprise-software-development.webp",
           "href": "/dich-vu/phat-trien-phan-mem-doanh-nghiep"
         },
         {
           "slug": "phat-trien-devops",
           "title": "DevOps開発サービス",
           "desc": "ビジネス規模が変化した場合は、追加の機能モジュールを構築するか、アーキテクチャを再設計します。メンテナンスから新規開発への移行がシームレスに行われることを保証します。",
-          "image": "/images/services/winterfrost/devops-development.webp",
+          "image": "/images/services/softbuild/devops-development.webp",
           "href": "/dich-vu/phat-trien-devops"
         },
         {
           "slug": "phat-trien-ai",
           "title": "AI開発",
           "desc": "個別の人工知能モデルを統合することで、既存のシステムを強化します。プロセスの自動化から予測データ分析まで、当社は企業が利用可能なデータに基づいて絶対的な競争上の優位性を獲得できるよう支援します。",
-          "image": "/images/services/winterfrost/ai-development.webp",
+          "image": "/images/services/softbuild/ai-development.webp",
           "href": "/dich-vu/phat-trien-ai"
         }
       ]
@@ -3873,7 +3873,7 @@
       "description": "手動プロセスと断片化されたデータを集中管理システムに変換する準備ができています。 SoftBuild は、カスタマイズされた ERP/CRM プラットフォームの構築を支援し、絶対的なデータ同期と永久的なソース コードの所有権を保証します。",
       "ctaLabel": "解決策のアドバイスをすぐに受け取る",
       "ctaHref": "/lien-he",
-      "image": "/images/people/cta/winterfrost/chuyen-vien-nam-tre.png"
+      "image": "/images/people/cta/softbuild/chuyen-vien-nam-tre.png"
     },
     "counter": {
       "badgeText": "私たちの実績",
@@ -4334,7 +4334,7 @@
       "description": "SoftBuild は、企業が最適なコストでコア ソフトウェア バージョンを構築できるように支援します。企業がアイデアをテストし、ユーザーからすぐに実際のフィードバックを得ることができるように、最も重要な機能に重点を置いています。",
       "ctaLabel": "MVP プロジェクトを開始する",
       "ctaHref": "/lien-he",
-      "image": "/images/people/cta/winterfrost/chuyen-vien-nu.png"
+      "image": "/images/people/cta/softbuild/chuyen-vien-nu.png"
     },
     "counter": {
       "badgeText": "私たちの実績",
@@ -4700,27 +4700,27 @@
         {
           "title": "ITマネージドサービス",
           "desc": "サーバー、社内ネットワークから社員の端末に至るまで、ITインフラ全体を管理・運用します。",
-          "image": "/images/services/winterfrost/enterprise-software-development.webp"
+          "image": "/images/services/softbuild/enterprise-software-development.webp"
         },
         {
           "title": "ソフトウェアのメンテナンスとアップグレード",
           "desc": "ERP、CRM、LMS ビジネス ソフトウェア システムが常に安定して動作し、機能を更新し、セキュリティ エラーに定期的にパッチを当てます。",
-          "image": "/images/services/winterfrost/ai-development.webp"
+          "image": "/images/services/softbuild/ai-development.webp"
         },
         {
           "title": "クラウドインフラストラクチャの設計と統合",
           "desc": "高負荷アーキテクチャと最適化されたストレージ コストを備えたクラウド コンピューティング プラットフォームでデータを移動および管理します。",
-          "image": "/images/services/winterfrost/devops-development.webp"
+          "image": "/images/services/softbuild/devops-development.webp"
         },
         {
           "title": "専門技術を導入",
           "desc": "農業用のデータ収集センサーや生産用の透明なトレーサビリティ システムを統合します。",
-          "image": "/images/services/winterfrost/saas-application-development.webp"
+          "image": "/images/services/softbuild/saas-application-development.webp"
         },
         {
           "title": "システムのセキュリティと監査",
           "desc": "サイバーセキュリティの脆弱性を評価し、内装のCO/CQなどの専門基準に従って技術検査プロセスを確立します。",
-          "image": "/images/services/winterfrost/custom-software-solutions.webp"
+          "image": "/images/services/softbuild/custom-software-solutions.webp"
         }
       ]
     },
@@ -4825,7 +4825,7 @@
       "description": "通常の自動化だけにとどまらないでください。 SoftBuild に参加して、独自の AI モデルを構築するためのデータの力を探求し、貴社のビジネスが市場で絶対的な競争優位性を獲得できるように支援します。",
       "ctaLabel": "今すぐ AI ロードマップを構築しましょう",
       "ctaHref": "/lien-he",
-      "image": "/images/people/cta/winterfrost/chuyen-vien-tu-van-viet-nam.png"
+      "image": "/images/people/cta/softbuild/chuyen-vien-tu-van-viet-nam.png"
     },
     "counter": {
       "badgeText": "私たちの実績",
@@ -5047,21 +5047,21 @@
           "slug": "phat-trien-phan-mem-doanh-nghiep",
           "title": "エンタープライズ ソフトウェア開発",
           "desc": "特化した ERP、CRM、または EdTech システムをプログラムして、これらのビジネス アプリケーションが安定して動作し、ビジネスの IT インフラストラクチャ全体でデータを同期できるようにします。",
-          "image": "/images/services/winterfrost/enterprise-software-development.webp",
+          "image": "/images/services/softbuild/enterprise-software-development.webp",
           "href": "/dich-vu/phat-trien-phan-mem-doanh-nghiep"
         },
         {
           "slug": "phat-trien-iot",
           "title": "IoT開発",
           "desc": "センサー システムとハードウェア デバイスを中央 IT ネットワークに接続してデータを自動的に収集し、生産および農業プロセスのリアルタイム監視をサポートします。",
-          "image": "/images/services/winterfrost/iot-development.webp",
+          "image": "/images/services/softbuild/iot-development.webp",
           "href": "/dich-vu/phat-trien-iot"
         },
         {
           "slug": "phat-trien-blockchain",
           "title": "ブロックチェーン開発",
           "desc": "トレーサビリティ ソリューションの展開と CO/CQ 技術標準の認証、透明なデータ層の構築、ビジネス IT システムのセキュリティの強化。",
-          "image": "/images/services/winterfrost/blockchain-development.webp",
+          "image": "/images/services/softbuild/blockchain-development.webp",
           "href": "/dich-vu/phat-trien-blockchain"
         }
       ]
@@ -5163,27 +5163,27 @@
         {
           "title": "デジタル化戦略とロードマップ",
           "desc": "ITインフラの現状を評価し、実際の運用プロセスを調査します。予算を最適化し、技術的な実現可能性を確保するために、変換に優先順位を付ける必要がある項目のリストを確立します。",
-          "image": "/images/services/winterfrost/enterprise-software-development.webp"
+          "image": "/images/services/softbuild/enterprise-software-development.webp"
         },
         {
           "title": "レガシーシステムの最新化と統合",
           "desc": "古いソフトウェアをアップグレードし、API ゲートウェイ システムを構築します。このサービスは、古いプラットフォームと新しいテクノロジーの間でデータを同期し、スムーズで中断のない情報の流れを保証します。",
-          "image": "/images/services/winterfrost/ai-development.webp"
+          "image": "/images/services/softbuild/ai-development.webp"
         },
         {
           "title": "別途ソフトウェア開発",
           "desc": "企業の実際の業務プロセスに合わせて、ERP、CRM、LMSなどの特化した管理システムをプログラミングします。当社は、事前にパッケージ化されたソフトウェアを使用するのではなく、お客様の実際のニーズに完全に一致する独自のソリューションを構築します。",
-          "image": "/images/services/winterfrost/devops-development.webp"
+          "image": "/images/services/softbuild/devops-development.webp"
         },
         {
           "title": "ハイテクノロジーの融合",
           "desc": "IoT センサーを設置して自動生産データを収集し、予測レポートの分析に AI を適用し、ブロックチェーンを使用してサプライ チェーン データの透明性を認証します。",
-          "image": "/images/services/winterfrost/saas-application-development.webp"
+          "image": "/images/services/softbuild/saas-application-development.webp"
         },
         {
           "title": "変換と管理",
           "desc": "すべてのデータをクラウド プラットフォームに移行します。負荷を自動的に分散するサーバー アーキテクチャをセットアップし、24 時間 365 日の継続的なシステム運用と絶対的なセキュリティを確保します。",
-          "image": "/images/services/winterfrost/custom-software-solutions.webp"
+          "image": "/images/services/softbuild/custom-software-solutions.webp"
         }
       ]
     },
@@ -5288,7 +5288,7 @@
       "description": "通常の自動化だけにとどまらないでください。 SoftBuild に参加して、独自の AI モデルを構築するためのデータの力を探求し、貴社のビジネスが市場で絶対的な競争優位性を獲得できるように支援します。",
       "ctaLabel": "今すぐ AI ロードマップを構築しましょう",
       "ctaHref": "/lien-he",
-      "image": "/images/people/cta/winterfrost/chuyen-vien-tu-van-viet-nam.png"
+      "image": "/images/people/cta/softbuild/chuyen-vien-tu-van-viet-nam.png"
     },
     "counter": {
       "badgeText": "私たちの実績",
@@ -5510,21 +5510,21 @@
           "slug": "phat-trien-phan-mem-doanh-nghiep",
           "title": "エンタープライズ ソフトウェア開発",
           "desc": "特化した内部管理システムを設計およびプログラムし、顧客関係管理、リソース管理、人事管理などの業務のデジタル変革ロードマップを単一のプラットフォーム上で具体化するのに役立ちます。",
-          "image": "/images/services/winterfrost/enterprise-software-development.webp",
+          "image": "/images/services/softbuild/enterprise-software-development.webp",
           "href": "/dich-vu/phat-trien-phan-mem-doanh-nghiep"
         },
         {
           "slug": "phat-trien-iot",
           "title": "IoT開発",
           "desc": "現場のデータをデジタル化したい製造業または農業企業向け。ハードウェア機器やセンサーを中央管理システムに接続し、稼働データをリアルタイムで自動収集します。",
-          "image": "/images/services/winterfrost/iot-development.webp",
+          "image": "/images/services/softbuild/iot-development.webp",
           "href": "/dich-vu/phat-trien-iot"
         },
         {
           "slug": "phat-trien-blockchain",
           "title": "ブロックチェーン開発",
           "desc": "トレーサビリティをデジタル化し、取引データを透明化します。このサービスは、製品品質基準 (CO/CQ) またはクローズド生産プロセスを認証する必要がある企業に特に適しています。",
-          "image": "/images/services/winterfrost/blockchain-development.webp",
+          "image": "/images/services/softbuild/blockchain-development.webp",
           "href": "/dich-vu/phat-trien-blockchain"
         }
       ]

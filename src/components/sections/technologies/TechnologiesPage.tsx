@@ -145,28 +145,28 @@ const solutionCards = [
     title: "Thiết Kế Website Chuyên Nghiệp",
     desc: "Chúng tôi phát triển website tối ưu từ trang giới thiệu đến nền tảng thương mại điện tử. Hệ thống đảm bảo tốc độ tải trang cực nhanh, hiển thị hoàn hảo trên mọi thiết bị và tích hợp trình quản trị đơn giản, giúp bạn tối ưu trải nghiệm người dùng và thúc đẩy doanh thu trực tuyến hiệu quả.",
     image:
-      "/images/services/winterfrost/web-application-development.webp",
+      "/images/services/softbuild/web-application-development.webp",
     href: "/dich-vu/thiet-ke-website",
   },
   {
     title: "Thiết Kế App Chuyên Sâu",
-    desc: "Winterfrost lập trình ứng dụng di động mượt mà cho cả IOS và Android với giao diện trực quan. Chúng tôi chú trọng bảo mật dữ liệu tuyệt đối và tích hợp các công cụ thông báo tự động, giúp doanh nghiệp kết nối, tương tác và chăm sóc khách hàng liên tục mọi lúc, mọi nơi.",
+    desc: "SoftBuild lập trình ứng dụng di động mượt mà cho cả IOS và Android với giao diện trực quan. Chúng tôi chú trọng bảo mật dữ liệu tuyệt đối và tích hợp các công cụ thông báo tự động, giúp doanh nghiệp kết nối, tương tác và chăm sóc khách hàng liên tục mọi lúc, mọi nơi.",
     image:
-      "/images/services/winterfrost/mobile-app-development.webp",
+      "/images/services/softbuild/mobile-app-development.webp",
     href: "/dich-vu/thiet-ke-app",
   },
   {
     title: "Phát Triển Trí Tuệ Nhân Tạo AI",
     desc: "Chúng tôi tích hợp AI và các mô hình ngôn ngữ lớn (LLM) để tự động hóa quy trình vận hành và thiết lập trợ lý ảo 24/7. Giải pháp này giúp doanh nghiệp phân tích dữ liệu khổng lồ trong tích tắc, cắt giảm chi phí nhân sự và đưa ra các quyết định kinh doanh chính xác hơn.",
     image:
-      "/images/services/winterfrost/ai-development.webp",
+      "/images/services/softbuild/ai-development.webp",
     href: "/dich-vu/phat-trien-ai",
   },
   {
     title: "Phát Triển Phần Mềm Doanh Nghiệp",
     desc: "Chúng tôi thiết kế phần mềm quản trị nội bộ bám sát quy trình thực tế của bạn, giúp số hóa thao tác thủ công và đồng bộ dữ liệu tức thời. Hệ thống dễ dàng mở rộng khi công ty phát triển, đi kèm cam kết bàn giao 100% mã nguồn để bạn có toàn quyền sở hữu tài sản số.",
     image:
-      "/images/services/winterfrost/enterprise-software-development.webp",
+      "/images/services/softbuild/enterprise-software-development.webp",
     href: "/dich-vu/phat-trien-phan-mem-doanh-nghiep",
   },
 ];
@@ -182,7 +182,7 @@ const benefits = [
   },
   {
     title: "Bảo vệ dữ liệu tuyệt đối",
-    desc: "Winterfrost tin dùng các thuật toán mã hóa đa lớp tiên tiến nhất để ngăn chặn rủi ro an ninh mạng, bảo vệ an toàn cho dữ liệu nội bộ và thông tin người dùng.",
+    desc: "SoftBuild tin dùng các thuật toán mã hóa đa lớp tiên tiến nhất để ngăn chặn rủi ro an ninh mạng, bảo vệ an toàn cho dữ liệu nội bộ và thông tin người dùng.",
   },
   {
     title: "Nâng cấp không gián đoạn",
@@ -201,7 +201,7 @@ const benefits = [
 const technologiesIndustries: ServiceIndustries = {
   label: "Lĩnh vực",
   headlineLight: "Các lĩnh vực chuyên môn",
-  headlineDark: "của Winterfrost",
+  headlineDark: "của SoftBuild",
   items: [...dichVuPage.industries.items],
 };
 
@@ -294,11 +294,11 @@ function Hero() {
         <Reveal className={shared.heroText} direction="left" distance={34} amount={0.01}>
           <h1 className={`${shared.heroTitle} ${s.heroTitle}`}>
             <span className={shared.heroTitleMain}>Công nghệ và Ngôn ngữ lập trình</span>{" "}
-            <span className={`${shared.heroTitleSub} ${s.heroTitleSub}`}>tại Winterfrost</span>
+            <span className={`${shared.heroTitleSub} ${s.heroTitleSub}`}>tại SoftBuild</span>
           </h1>
           <div className={shared.heroDescription}>
             <p>
-              {tr("Tại Winterfrost, chúng tôi phát triển các dự án")}{" "}
+              {tr("Tại SoftBuild, chúng tôi phát triển các dự án")}{" "}
               <Link href="/dich-vu/phat-trien-phan-mem-doanh-nghiep">{tr("phần mềm")}</Link>,{" "}
               <Link href="/dich-vu/phat-trien-iot">IoT</Link> và{" "}
               <Link href="/dich-vu/phat-trien-blockchain">Blockchain</Link>{" "}
@@ -325,7 +325,7 @@ function Hero() {
         <Reveal className={shared.heroImage} direction="right" distance={34} delay={100} amount={0.01}>
           <Image
             src="/images/migrated/homenest-software/wp-content/uploads/2026/04/Industry-Specific-Deevelopment-industries.jpg"
-            alt="Nền tảng công nghệ phát triển phần mềm Winterfrost"
+            alt="Nền tảng công nghệ phát triển phần mềm SoftBuild"
             fill
             sizes="(min-width: 1024px) 55vw, 100vw"
             priority
@@ -346,13 +346,13 @@ function About() {
         <div className={shared.aboutHeader}>
           <SectionLabel>Tổng quan công nghệ</SectionLabel>
           <h2 className={`${shared.aboutTitle} ${s.aboutTitle}`}>
-            Năng lực triển khai và đội ngũ tại Winterfrost
+            Năng lực triển khai và đội ngũ tại SoftBuild
           </h2>
         </div>
         <div className={shared.aboutBody}>
           <Reveal className={shared.aboutText} direction="left" distance={28} amount={0.05}>
             <p>
-              {tr("Với hơn 10 năm kinh nghiệm, Winterfrost chúng tôi cung cấp các giải pháp chuyển đổi số toàn diện từ")}{" "}
+              {tr("Với hơn 10 năm kinh nghiệm, SoftBuild chúng tôi cung cấp các giải pháp chuyển đổi số toàn diện từ")}{" "}
               <Link href="/dich-vu/thiet-ke-website">{tr("thiết kế website")}</Link>{" "}
               {tr("đến")}{" "}
               <Link href="/dich-vu/phat-trien-ai">{tr("phát triển trí tuệ nhân tạo AI")}</Link>{" "}
@@ -361,7 +361,7 @@ function About() {
               {tr("để sẵn sàng tiếp nhận mọi quy mô dự án.")}
             </p>
             <p>
-              {tr("Chúng tôi đặc biệt có thế mạnh và không ngại khó khăn trong việc giải quyết các hệ thống phần mềm phức tạp với chi phí tối ưu nhất. Tất cả nhân viên tại Winterfrost đều được đào tạo bài bản và có nhiều năm kinh nghiệm thực chiến, đảm bảo mang đến cho khách hàng")}{" "}
+              {tr("Chúng tôi đặc biệt có thế mạnh và không ngại khó khăn trong việc giải quyết các hệ thống phần mềm phức tạp với chi phí tối ưu nhất. Tất cả nhân viên tại SoftBuild đều được đào tạo bài bản và có nhiều năm kinh nghiệm thực chiến, đảm bảo mang đến cho khách hàng")}{" "}
               <Link href="/case-studies">{tr("những sản phẩm chất lượng")}</Link>{" "}
               {tr("cao và vận hành ổn định nhất.")}
             </p>
@@ -369,7 +369,7 @@ function About() {
           <Reveal className={shared.aboutImage} direction="right" distance={28} delay={90} amount={0.05}>
             <Image
               src="/images/migrated/homenest-software/wp-content/uploads/2026/04/Every-Industry-Has-Its-Own-Language.jpg"
-              alt="Công nghệ phát triển phần mềm Winterfrost"
+              alt="Công nghệ phát triển phần mềm SoftBuild"
               fill
               sizes="(min-width: 768px) 50vw, 100vw"
             />
@@ -444,7 +444,7 @@ function Benefits() {
             Giá trị của các công nghệ
           </p>
           <h2 className={shared.whyTitle}>
-            <span className={shared.whyTitleLight}>Lý do Winterfrost</span>
+            <span className={shared.whyTitleLight}>Lý do SoftBuild</span>
             <span className={shared.whyTitleDark}>chọn những công nghệ này</span>
           </h2>
         </Reveal>
@@ -490,10 +490,10 @@ export function TechnologiesPage() {
       <CTABanner
         label={tr("Liên hệ ngay!")}
         headline={tr("Chuyển hóa ý tưởng thành sản phẩm thực tế")}
-        description={tr("Chia sẻ bài toán vận hành của bạn, đội ngũ Winterfrost sẽ phác thảo ngay nền tảng công nghệ phù hợp nhất. Xây dựng hệ thống nhanh chóng, bảo mật chặt chẽ và cam kết bạn sẽ sở hữu 100% mã nguồn.")}
+        description={tr("Chia sẻ bài toán vận hành của bạn, đội ngũ SoftBuild sẽ phác thảo ngay nền tảng công nghệ phù hợp nhất. Xây dựng hệ thống nhanh chóng, bảo mật chặt chẽ và cam kết bạn sẽ sở hữu 100% mã nguồn.")}
         ctaLabel={tr("Bắt đầu dự án của bạn ngay!")}
         ctaHref="tel:+84971450454"
-        image="/images/people/cta/winterfrost/quan-ly-nam.png"
+        image="/images/people/cta/softbuild/quan-ly-nam.png"
       />
       <IndustriesGrid9 data={localizedIndustries} tone="muted" />
       <section className={s.wikiSection}>
@@ -502,7 +502,7 @@ export function TechnologiesPage() {
       <FAQAccordion
         label={tr("Các câu hỏi thường gặp")}
         headline={[tr("Giải Đáp"), tr("Mọi"), tr("Thắc Mắc")]}
-        intro={tr("Giải đáp chi tiết về kiến trúc hệ thống, tiêu chuẩn bảo mật và quyền sở hữu mã nguồn trong các dự án công nghệ tại Winterfrost.")}
+        intro={tr("Giải đáp chi tiết về kiến trúc hệ thống, tiêu chuẩn bảo mật và quyền sở hữu mã nguồn trong các dự án công nghệ tại SoftBuild.")}
         items={localizedFaq}
       />
     </>

@@ -116,16 +116,16 @@ export function IndustryDetailPage({ data }: { data: IndustryDetailData }) {
   const [heroLead, heroAccent] = splitLastPhrase(data.hero.title, data.title);
   const [overviewLead, overviewAccent] = splitLastPhrase(
     data.overview.title,
-    "Winterfrost",
+    "SoftBuild",
   );
   const whyHeadingLead = useLocalizedValue<Record<string, string>>({
-    "ban-le": "Lý do chọn Winterfrost",
-    "bat-dong-san": "Lý do chọn Winterfrost",
-    "chuoi-cung-ung": "Vì sao nên chọn Winterfrost",
+    "ban-le": "Lý do chọn SoftBuild",
+    "bat-dong-san": "Lý do chọn SoftBuild",
+    "chuoi-cung-ung": "Vì sao nên chọn SoftBuild",
     "cong-nghe-tai-chinh": "Vì sao nên sử dụng dịch vụ",
     "dau-khi": "Tại sao các doanh nghiệp năng lượng",
     "giao-duc": "Lý do chọn năng lực công nghệ",
-    "ke-toan": "Lý do chọn Winterfrost",
+    "ke-toan": "Lý do chọn SoftBuild",
     "ngan-hang": "Lý do ngân hàng nên chọn dịch vụ",
     "phan-mem-doanh-nghiep": "Lợi thế cạnh tranh",
     "phan-mem-tien-ich": "Lý do doanh nghiệp nên chọn giải pháp",

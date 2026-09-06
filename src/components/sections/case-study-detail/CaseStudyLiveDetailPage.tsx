@@ -156,7 +156,7 @@ export function CaseStudyLiveDetailPage({ data, related }: Props) {
         <CTABanner
           label={tr("Liên hệ ngay!")}
           headline={tr("Bạn muốn doanh nghiệp thành công như vậy?")}
-          description={tr("Hãy chia sẻ bài toán kinh doanh của bạn, Winterfrost Việt Nam sẽ cùng bạn xây dựng giải pháp công nghệ hiệu quả và phù hợp nhất.")}
+          description={tr("Hãy chia sẻ bài toán kinh doanh của bạn, SoftBuild Việt Nam sẽ cùng bạn xây dựng giải pháp công nghệ hiệu quả và phù hợp nhất.")}
           ctaLabel={tr("Nhận tư vấn giải pháp ngay")}
           ctaHref="/lien-he#contact-form"
         />

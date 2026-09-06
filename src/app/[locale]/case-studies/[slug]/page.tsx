@@ -256,7 +256,7 @@ export default async function CaseStudyDetail({ params }: { params: Promise<Para
       <CTABanner
         label={tr("Liên hệ ngay!")}
         headline={tr("Dẫn đầu kỷ nguyên số với hệ thống AI độc quyền")}
-        description={tr("Đừng chỉ dừng lại ở tự động hóa thông thường. Hãy cùng Winterfrost khai phá sức mạnh dữ liệu để xây dựng những mô hình AI riêng biệt, giúp doanh nghiệp của bạn sở hữu lợi thế cạnh tranh tuyệt đối trên thị trường.")}
+        description={tr("Đừng chỉ dừng lại ở tự động hóa thông thường. Hãy cùng SoftBuild khai phá sức mạnh dữ liệu để xây dựng những mô hình AI riêng biệt, giúp doanh nghiệp của bạn sở hữu lợi thế cạnh tranh tuyệt đối trên thị trường.")}
         ctaLabel={tr("Xây dựng lộ trình AI ngay")}
         ctaHref="/lien-he"
       />

@@ -21,7 +21,7 @@
   color: #1a3b91;
   opacity: 1;
   margin: 0 0 8px;
-  font-family: Winterfrost, var(--font-Winterfrost), sans-serif;
+  font-family: SoftBuild, var(--font-SoftBuild), sans-serif;
   font-size: 24px;
   font-weight: 600;
   line-height: 1.6;
@@ -101,7 +101,7 @@
 .socialIcon:hover { opacity: .8; transform: translateY(-2px); }
 .socialIcon svg { width: 16px; height: 16px; }
 
-.bottomRow { display: flex; justify-content: space-between; align-items: center; margin-top: 60px; font-family: Winterfrost, var(--font-Winterfrost), sans-serif; }
+.bottomRow { display: flex; justify-content: space-between; align-items: center; margin-top: 60px; font-family: SoftBuild, var(--font-SoftBuild), sans-serif; }
 .copyright,
 .bottomLinks { color: #5b5b5b; font-size: 16px; font-weight: 500; line-height: 1.6; }
 .copyright { margin: 0; }

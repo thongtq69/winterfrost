@@ -11,7 +11,7 @@ import s from "./WikiArticle.module.css";
 function ArticleMeta({ item }: { item: ContentPage }) {
   return (
     <>
-      <span><Pencil size={13} /> {item.author || "Winterfrost Editorial"}</span>
+      <span><Pencil size={13} /> {item.author || "SoftBuild Editorial"}</span>
       <span><Calendar size={13} /> {item.year || "2026"}</span>
       <span><Eye size={13} /> Mới</span>
     </>
@@ -69,7 +69,7 @@ export function WikiArticle({ item, related }: { item: ContentPage; related: Con
           <div className={s.articleHeader}>
             <h1>{item.title}</h1>
             <div className={s.meta}>
-              <div><span>{tr("Tác giả")}</span><strong>{item.author || "Winterfrost Editorial"}</strong></div>
+              <div><span>{tr("Tác giả")}</span><strong>{item.author || "SoftBuild Editorial"}</strong></div>
               <div><span>{tr("Năm")}</span><strong>{item.year || "2026"}</strong></div>
             </div>
             {item.contentText && <p className={s.summary}>{item.contentText}</p>}

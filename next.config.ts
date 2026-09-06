@@ -38,27 +38,51 @@ const projectRedirects = [
 const contentRedirects = [
   [
     "gioi-thieu-ai-chatbot-tai-homenest-viet-nam",
+    "gioi-thieu-ai-chatbot-tai-softbuild-viet-nam",
+  ],
+  [
     "gioi-thieu-ai-chatbot-tai-winterfrost-viet-nam",
+    "gioi-thieu-ai-chatbot-tai-softbuild-viet-nam",
   ],
   [
     "mot-ngay-lam-viec-cua-mot-backend-engineer-tai-homenest",
+    "mot-ngay-lam-viec-cua-mot-backend-engineer-tai-softbuild",
+  ],
+  [
     "mot-ngay-lam-viec-cua-mot-backend-engineer-tai-winterfrost",
+    "mot-ngay-lam-viec-cua-mot-backend-engineer-tai-softbuild",
   ],
   [
     "cong-viec-cua-tester-tai-homenest-viet-nam-se-lam-nhung-gi",
+    "cong-viec-cua-tester-tai-softbuild-viet-nam-se-lam-nhung-gi",
+  ],
+  [
     "cong-viec-cua-tester-tai-winterfrost-viet-nam-se-lam-nhung-gi",
+    "cong-viec-cua-tester-tai-softbuild-viet-nam-se-lam-nhung-gi",
   ],
   [
     "mot-ngay-lam-viec-cua-ba-tai-homenest-viet-nam",
+    "mot-ngay-lam-viec-cua-ba-tai-softbuild-viet-nam",
+  ],
+  [
     "mot-ngay-lam-viec-cua-ba-tai-winterfrost-viet-nam",
+    "mot-ngay-lam-viet-cua-ba-tai-softbuild-viet-nam",
   ],
   [
     "quy-trinh-thiet-ke-app-chuan-ux-ui-tai-homenest",
+    "quy-trinh-thiet-ke-app-chuan-ux-ui-tai-softbuild",
+  ],
+  [
     "quy-trinh-thiet-ke-app-chuan-ux-ui-tai-winterfrost",
+    "quy-trinh-thiet-ke-app-chuan-ux-ui-tai-softbuild",
   ],
   [
     "java-developer-tai-homenest-software-lam-gi-goc-nhin-tu-ben-trong",
+    "java-developer-tai-softbuild-software-lam-gi-goc-nhin-tu-ben-trong",
+  ],
+  [
     "java-developer-tai-winterfrost-software-lam-gi-goc-nhin-tu-ben-trong",
+    "java-developer-tai-softbuild-software-lam-gi-goc-nhin-tu-ben-trong",
   ],
 ] as const;
 

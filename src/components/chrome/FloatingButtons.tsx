@@ -6,11 +6,11 @@ import { Phone, Send, Smile, X } from "lucide-react";
 import { livechatProviders } from "@/lib/integrations/livechat";
 import s from "./FloatingButtons.module.css";
 
-const ZALO_ICON = "/images/brand/winterfrost/contact/zalo.png";
-const ROBOT_GIF = "/images/brand/winterfrost/winterfrost-symbol-transparent.png";
+const ZALO_ICON = "/images/brand/softbuild/contact/zalo.png";
+const ROBOT_GIF = "/images/brand/softbuild/softbuild-symbol-transparent.png";
 const CHATBOT_AVATAR =
-  "/images/brand/winterfrost/winterfrost-symbol-transparent.png";
-const CHATBOT_BRAND = "/images/brand/winterfrost/winterfrost-symbol-transparent.png";
+  "/images/brand/softbuild/softbuild-symbol-transparent.png";
+const CHATBOT_BRAND = "/images/brand/softbuild/softbuild-symbol-transparent.png";
 
 function WhatsappIcon(props: React.SVGProps<SVGSVGElement>) {
   return (

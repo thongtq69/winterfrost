@@ -3,7 +3,7 @@
 .header { display: flex; width: 100%; max-width: 1400px; height: 161.09375px; flex-direction: column; align-items: center; margin: 0 auto 48px; text-align: center; }
 .label { display: inline-flex; height: 22.59375px; align-items: center; gap: 12px; color: #05080c; font-size: 16px; font-weight: 500; line-height: normal; }
 .label::before { content: "✦"; display: inline-flex; width: 16px; height: 16px; align-items: center; justify-content: center; font-size: 18px; }
-.title { height: 138.5px; margin: 0; color: #121528; font-family: var(--font-Winterfrost), sans-serif; font-size: 60px; font-weight: 400; line-height: normal; }
+.title { height: 138.5px; margin: 0; color: #121528; font-family: var(--font-SoftBuild), sans-serif; font-size: 60px; font-weight: 400; line-height: normal; }
 .scriptAccent { font-family: var(--font-script), cursive; font-size: 1em; font-style: normal; font-weight: 400; }
 .cards { display: grid; width: 100%; max-width: 1400px; height: 479.046875px; grid-template-columns: 2fr 1fr; gap: 24px; margin: 0 auto 50px; }
 
@@ -22,7 +22,7 @@
 .benefits li::before { content: ""; width: 6px; height: 6px; flex-shrink: 0; border-radius: 50%; background: #121528; }
 .priceFooter { display: flex; width: 100%; height: 96px; align-items: center; justify-content: space-between; border-radius: 12px; padding: 24px 32px; background: linear-gradient(121deg,#021b7b,#1670de 29%,#193493); }
 .priceVal { display: flex; align-items: baseline; gap: 6px; color: #fff; }
-.priceVal strong { font-family: var(--font-Winterfrost), sans-serif; font-size: 40px; font-weight: 500; line-height: 1; }
+.priceVal strong { font-family: var(--font-SoftBuild), sans-serif; font-size: 40px; font-weight: 500; line-height: 1; }
 .priceVal span { color: rgba(255,255,255,.85); font-size: 14px; }
 .contactBtn { display: inline-flex; align-items: center; gap: 10px; border: 0; border-radius: 999px; padding: 2px 2px 2px 22px; background: #fff; color: #05080c; font-size: 16px; font-weight: 500; }
 .contactBtnIcon { display: inline-flex; width: 44px; height: 44px; align-items: center; justify-content: center; border-radius: 50%; background: #121528; color: #fff; }

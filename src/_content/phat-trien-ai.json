@@ -156,7 +156,7 @@
     "description": "Tiết kiệm thời gian xử lý dữ liệu và tự động hóa các quy trình lặp đi lặp lại là những giá trị thực tế mà giải pháp AI của SoftBuild mang lại. Chúng tôi giúp doanh nghiệp của bạn hoạt động thông minh hơn thông qua các hệ thống phân tích và dự báo chính xác.",
     "ctaLabel": "Nhận tư vấn giải pháp AI",
     "ctaHref": "/lien-he",
-    "image": "/images/people/cta/winterfrost/chuyen-vien-nam-tre.png"
+    "image": "/images/people/cta/softbuild/chuyen-vien-nam-tre.png"
   },
   "counter": {
     "badgeText": "Thành tựu của chúng tôi",
@@ -395,7 +395,7 @@
         "slug": "phat-trien-ung-dung-saas",
         "title": "Phát triển ứng dụng SaaS",
         "desc": "Xây dựng các nền tảng phần mềm dưới dạng dịch vụ với kiến trúc đa người dùng và khả năng mở rộng linh hoạt. Chúng tôi giúp doanh nghiệp tối ưu hóa hạ tầng đám mây và kiến tạo các mô hình kinh doanh mang lại doanh thu định kỳ bền vững.",
-        "image": "/images/services/winterfrost/generative-ai-integration.webp",
+        "image": "/images/services/softbuild/generative-ai-integration.webp",
         "href": "/dich-vu/phat-trien-ung-dung-saas"
       },
       {

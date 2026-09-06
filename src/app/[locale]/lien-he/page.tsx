@@ -6,7 +6,7 @@ import { submitContactForm } from "@/lib/integrations/contact-form";
 import s from "./page.module.css";
 import { useAutoText } from "@/i18n/auto-text-client";
 
-const LOGO = "/images/brand/winterfrost/winterfrost-wordmark.png";
+const LOGO = "/images/brand/softbuild/softbuild-wordmark.png";
 
 export default function ContactPage() {
   const tr = useAutoText();
@@ -43,14 +43,14 @@ export default function ContactPage() {
             </ul>
             <div className={s.divider} />
             <div className={s.contactDetails}>
-              <a href="mailto:info@winterfrost.tech"><Mail />info@winterfrost.tech</a>
+              <a href="mailto:contact@softbuild.vn"><Mail />contact@softbuild.vn</a>
               <a href="tel:+84971450454"><Phone />097 145 04 54</a>
             </div>
           </div>
 
           <div className={s.formCol}>
             {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src={LOGO} alt="Winterfrost" />
+            <img src={LOGO} alt="SoftBuild" />
             <h2>{tr("Hãy chia sẻ ý tưởng của bạn")}</h2>
             <form onSubmit={onSubmit}>
               <div className={s.formRow}>

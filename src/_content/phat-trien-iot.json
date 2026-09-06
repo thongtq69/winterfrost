@@ -6,7 +6,7 @@
     "titleLight": "phát triển IoT",
     "description": "SoftBuild cung cấp giải pháp IoT toàn diện, bao gồm lập trình firmware nhúng, thiết lập các thiết bị đầu cuối và tạo bảng điều khiển đám mây cùng với hệ thống phân tích dữ liệu thông minh.",
     "bgImage": "/images/migrated/homenest-software/wp-content/uploads/2026/03/Web-app-development.jpg",
-    "dashboardImage": "/images/services/winterfrost/web-application-development.webp"
+    "dashboardImage": "/images/services/softbuild/web-application-development.webp"
   },
   "solution": {
     "headlineLight": "Giá trị thực thi từ",
@@ -51,27 +51,27 @@
       {
         "title": "Lập trình firmware và thiết bị nhúng",
         "desc": "Thiết kế và phát triển mã cho các vi điều khiển, nhằm đảm bảo thiết bị hoạt động hiệu quả nhất có thể, tiết kiệm điện năng và xử lý các công việc tại chỗ một cách tốt nhất.",
-        "image": "/images/services/winterfrost/enterprise-software-development.webp"
+        "image": "/images/services/softbuild/enterprise-software-development.webp"
       },
       {
         "title": "Tính toán tại biên",
         "desc": "Triển khai các nốt gần nơi thu thập dữ liệu để xử lý ngay tại chỗ. Điều này giúp giảm bớt gánh nặng cho hạ tầng đám mây, giảm độ trễ và đảm bảo hệ thống vẫn tiếp tục hoạt động ngay cả khi không có kết nối internet.",
-        "image": "/images/services/winterfrost/ai-development.webp"
+        "image": "/images/services/softbuild/ai-development.webp"
       },
       {
         "title": "Nền tảng quản lý IoT tập trung",
         "desc": "Xây dựng hạ tầng đám mây để quản lý vòng đời của thiết bị, lưu trữ lượng dữ liệu lớn và điều phối thông tin giữa các phần trong hệ thống.",
-        "image": "/images/services/winterfrost/devops-development.webp"
+        "image": "/images/services/softbuild/devops-development.webp"
       },
       {
         "title": "Bảng điều khiển trực quan",
         "desc": "Phát triển các bảng điều khiển hiển thị thông số cảm biến một cách trực quan theo thời gian thực, giúp cho người quản lý dễ dàng theo dõi và điều khiển thiết bị từ xa.",
-        "image": "/images/services/winterfrost/saas-application-development.webp"
+        "image": "/images/services/softbuild/saas-application-development.webp"
       },
       {
         "title": "Tích hợp AI vào IoT",
         "desc": "Nhúng các mô hình trí tuệ nhân tạo để phân tích dữ liệu cảm biến một cách sâu sắc, nhận diện hành vi và tự động đưa ra quyết định điều khiển thông minh.",
-        "image": "/images/services/winterfrost/custom-software-solutions.webp"
+        "image": "/images/services/softbuild/custom-software-solutions.webp"
       }
     ]
   },
@@ -176,7 +176,7 @@
     "description": "Nếu doanh nghiệp cần giám sát tài sản hoặc tự động hóa dây chuyền sản xuất, giải pháp của SoftBuild sẽ giúp bạn thực hiện điều đó. Hệ thống đảm bảo dữ liệu được truyền tải liên tục, bảo mật và dễ dàng phân tích để đưa ra quyết định kinh doanh.",
     "ctaLabel": "Bắt đầu dự án IoT ngay",
     "ctaHref": "/lien-he",
-    "image": "/images/people/cta/winterfrost/chuyen-vien-nu.png"
+    "image": "/images/people/cta/softbuild/chuyen-vien-nu.png"
   },
   "counter": {
     "badgeText": "Thành tựu của chúng tôi",

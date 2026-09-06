@@ -7,7 +7,7 @@ import { jobContents } from "@/lib/job-data";
 import s from "./page.module.css";
 import { useAutoText, useLocalizedValue } from "@/i18n/auto-text-client";
 
-const HERO_IMAGE = "/images/people/tuyen-dung/doi-ngu-winterfrost.webp";
+const HERO_IMAGE = "/images/people/tuyen-dung/doi-ngu-softbuild.webp";
 
 const filterGroups = [
   { title: "Vị trí ứng tuyển", values: ["Tất cả", "Brand Strategy", "Business Analyst", "Data Analyst", "Graphic Design", "Hành chánh nhân sự", "Kế toán - Kiểm toán", "Kinh doanh", "Marketing", "Pháp chế", "Quản trị rủi ro", "Software Development", "Software Tester", "UI/UX Design", "Vận hành", "Văn phòng"] },
@@ -17,9 +17,9 @@ const filterGroups = [
 ];
 
 const workLife = [
-  { href: "/wiki/cong-viec-cua-tester-tai-winterfrost-viet-nam-se-lam-nhung-gi", title: "Công việc của Tester tại Winterfrost sẽ làm những gì?", description: "Bài viết mang đến góc nhìn chân thực và chuyên sâu về công việc của một Software Tester thông qua nhật ký một ngày làm việc của Nguyễn Quốc Huy và Thục Quyên tại Winterfrost. Vượt ra khỏi định kiến “chỉ dùng thử rồi báo lỗi”, quy trình kiểm thử đòi hỏi sự phân tích kỹ lưỡng từ khâu đọc tài liệu đặc tả, lên kịch bản, đến việc đánh giá hiệu năng và giao diện trên các nền tảng công nghệ đa dạng. Bên cạnh việc phác họa chi tiết cách Tester phối hợp nhịp nhàng cùng Developer và BA để giải quyết bài toán trải nghiệm người dùng, bài viết còn đúc kết những lời khuyên thực tế cho người mới vào nghề và giới thiệu các cơ hội phát triển sự nghiệp hấp dẫn tại Winterfrost.", image: "/images/people/work-life/mot-ngay-kiem-thu-winterfrost.webp", author: "Hữu Trí", date: "Jul 13, 2026", views: "3" },
-  { href: "/wiki/mot-ngay-lam-viec-cua-ba-tai-winterfrost-viet-nam", title: "Một ngày làm việc của Business Analytics (BA) tại Winterfrost sẽ như thế nào?", description: "Tìm hiểu xem vai trò của BA tại Winterfrost. Khám phá quy trình làm việc, cách giải quyết vấn đề, kinh nghiệm thực chiến và lời khuyên cho người mới.", image: "/images/people/work-life/mot-ngay-business-analyst-winterfrost.webp", author: "Hữu Trí", date: "Jul 4, 2026", views: "8" },
-  { href: "/wiki/mot-ngay-lam-viec-cua-flutter-developer-se-nhu-the-nao", title: "Một ngày làm việc của Flutter Developer sẽ như thế nào?", description: "Khám phá một ngày làm việc thực tế của Flutter Developer tại Winterfrost. Đọc ngay để nắm bắt quy trình làm việc, cách giải quyết bài toán kinh doanh và những lời khuyên đắt giá cho lĩnh vực IT.", image: "/images/people/work-life/mot-ngay-flutter-developer-winterfrost.webp", author: "Lê Chân", date: "Jun 30, 2026", views: "8" },
+  { href: "/wiki/cong-viec-cua-tester-tai-softbuild-viet-nam-se-lam-nhung-gi", title: "Công việc của Tester tại SoftBuild sẽ làm những gì?", description: "Bài viết mang đến góc nhìn chân thực và chuyên sâu về công việc của một Software Tester thông qua nhật ký một ngày làm việc của Nguyễn Quốc Huy và Thục Quyên tại SoftBuild. Vượt ra khỏi định kiến “chỉ dùng thử rồi báo lỗi”, quy trình kiểm thử đòi hỏi sự phân tích kỹ lưỡng từ khâu đọc tài liệu đặc tả, lên kịch bản, đến việc đánh giá hiệu năng và giao diện trên các nền tảng công nghệ đa dạng. Bên cạnh việc phác họa chi tiết cách Tester phối hợp nhịp nhàng cùng Developer và BA để giải quyết bài toán trải nghiệm người dùng, bài viết còn đúc kết những lời khuyên thực tế cho người mới vào nghề và giới thiệu các cơ hội phát triển sự nghiệp hấp dẫn tại SoftBuild.", image: "/images/people/work-life/mot-ngay-kiem-thu-softbuild.webp", author: "Hữu Trí", date: "Jul 13, 2026", views: "3" },
+  { href: "/wiki/mot-ngay-lam-viec-cua-ba-tai-softbuild-viet-nam", title: "Một ngày làm việc của Business Analytics (BA) tại SoftBuild sẽ như thế nào?", description: "Tìm hiểu xem vai trò của BA tại SoftBuild. Khám phá quy trình làm việc, cách giải quyết vấn đề, kinh nghiệm thực chiến và lời khuyên cho người mới.", image: "/images/people/work-life/mot-ngay-business-analyst-softbuild.webp", author: "Hữu Trí", date: "Jul 4, 2026", views: "8" },
+  { href: "/wiki/mot-ngay-lam-viec-cua-flutter-developer-se-nhu-the-nao", title: "Một ngày làm việc của Flutter Developer sẽ như thế nào?", description: "Khám phá một ngày làm việc thực tế của Flutter Developer tại SoftBuild. Đọc ngay để nắm bắt quy trình làm việc, cách giải quyết bài toán kinh doanh và những lời khuyên đắt giá cho lĩnh vực IT.", image: "/images/people/work-life/mot-ngay-flutter-developer-softbuild.webp", author: "Lê Chân", date: "Jun 30, 2026", views: "8" },
 ];
 
 export default function CareersPage() {
@@ -45,15 +45,15 @@ export default function CareersPage() {
   return (
     <main className={s.main}>
       <section className={s.intro}>
-        <h1>{tr("Đồng hành cùng Winterfrost")}<br />{tr("trong kỷ nguyên số")}</h1>
-        <p>{tr("Chúng tôi không chỉ cung cấp những giải pháp chuyển đổi số hiệu quả mà còn tạo ra một môi trường chuyên nghiệp để các bạn được")} <strong>{tr("phát huy tài năng")}</strong>. {tr("Với mạng lưới")} <strong>{tr("dự án trải dài ở hơn 15 quốc gia")}</strong>, {tr("trở thành một thành viên của Winterfrost là bạn sẽ có cơ hội làm việc trong một môi trường đa văn hóa, trực tiếp giải quyết những")} <strong>{tr("thách thức công nghệ lớn")}</strong>. {tr("Chúng tôi luôn chú trọng vào sự phát triển của nhân viên, vì tin rằng nhân viên thoải mái, vui vẻ làm việc sẽ tạo ra được những sản phẩm chất lượng.")}</p>
+        <h1>{tr("Đồng hành cùng SoftBuild")}<br />{tr("trong kỷ nguyên số")}</h1>
+        <p>{tr("Chúng tôi không chỉ cung cấp những giải pháp chuyển đổi số hiệu quả mà còn tạo ra một môi trường chuyên nghiệp để các bạn được")} <strong>{tr("phát huy tài năng")}</strong>. {tr("Với mạng lưới")} <strong>{tr("dự án trải dài ở hơn 15 quốc gia")}</strong>, {tr("trở thành một thành viên của SoftBuild là bạn sẽ có cơ hội làm việc trong một môi trường đa văn hóa, trực tiếp giải quyết những")} <strong>{tr("thách thức công nghệ lớn")}</strong>. {tr("Chúng tôi luôn chú trọng vào sự phát triển của nhân viên, vì tin rằng nhân viên thoải mái, vui vẻ làm việc sẽ tạo ra được những sản phẩm chất lượng.")}</p>
       </section>
 
       <section className={s.heroBanner}>
         {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img src={HERO_IMAGE} alt={tr("Đội ngũ Winterfrost")} />
+        <img src={HERO_IMAGE} alt={tr("Đội ngũ SoftBuild")} />
         <h2>{tr("Vị trí đang tuyển dụng")}</h2>
-        <p>{tr("Tìm kiếm công việc phù hợp và gia nhập đội ngũ Winterfrost ngay hôm nay.")}</p>
+        <p>{tr("Tìm kiếm công việc phù hợp và gia nhập đội ngũ SoftBuild ngay hôm nay.")}</p>
       </section>
 
       <div className={s.jobSearch}>

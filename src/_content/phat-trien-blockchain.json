@@ -6,7 +6,7 @@
     "titleLight": "Blockchain",
     "description": "SoftBuild mang đến dịch vụ phát triển Blockchain toàn diện, bao gồm việc thiết kế kiến trúc mạng, lập trình hợp đồng thông minh Smart Contract, phát triển internet thế hệ mới Web3 cho đến việc thực hiện các ứng dụng phi tập trung DApp trên nhiều nền tảng khác nhau.",
     "bgImage": "/images/migrated/homenest-software/wp-content/uploads/2026/03/Web-app-development.jpg",
-    "dashboardImage": "/images/services/winterfrost/web-application-development.webp"
+    "dashboardImage": "/images/services/softbuild/web-application-development.webp"
   },
   "solution": {
     "headlineLight": "Ưu thế nổi bật của ",
@@ -51,27 +51,27 @@
       {
         "title": "Phát triển Smart Contract",
         "desc": "Lập trình các hợp đồng tự thực thi trên các mạng như Ethereum hoặc Solana. Thực hiện kiểm tra mã nguồn để giảm thiểu chi phí gas và đảm bảo ngăn chặn hoàn toàn các vấn đề về bảo mật.",
-        "image": "/images/services/winterfrost/enterprise-software-development.webp"
+        "image": "/images/services/softbuild/enterprise-software-development.webp"
       },
       {
         "title": "Ứng dụng phi tập trung DApp",
         "desc": "Xây dựng ứng dụng Web3 đầy đủ, kết nối liền mạch giữa giao diện người dùng và cơ sở hạ tầng Blockchain thông qua các thư viện chuyên dụng và ví điện tử.",
-        "image": "/images/services/winterfrost/ai-development.webp"
+        "image": "/images/services/softbuild/ai-development.webp"
       },
       {
         "title": "Giải pháp DeFi & NFT",
         "desc": "Triển khai các giao thức tài chính phi tập trung và một hệ sinh thái NFT Marketplace theo tiêu chuẩn của ngành công nghiệp token.",
-        "image": "/images/services/winterfrost/devops-development.webp"
+        "image": "/images/services/softbuild/devops-development.webp"
       },
       {
         "title": "Ví và Cổng thanh toán Crypto",
         "desc": "Tích hợp ví không cần lưu ký và cổng thanh toán cho tài sản số đa chuỗi. Sử dụng cơ chế chữ ký nhiều bên để bảo vệ an toàn tối đa cho khóa cá nhân.",
-        "image": "/images/services/winterfrost/saas-application-development.webp"
+        "image": "/images/services/softbuild/saas-application-development.webp"
       },
       {
         "title": "Blockchain doanh nghiệp",
         "desc": "Thiết kế một mạng lưới nội bộ cho việc quản lý chuỗi cung ứng và tài chính. Đảm bảo dữ liệu minh bạch nhưng vẫn kiểm soát chặt chẽ quyền truy cập nội bộ.",
-        "image": "/images/services/winterfrost/custom-software-solutions.webp"
+        "image": "/images/services/softbuild/custom-software-solutions.webp"
       }
     ]
   },
@@ -170,7 +170,7 @@
     "description": "Nếu bạn cần một nền tảng quản lý giao dịch an toàn tuyệt đối mà không cần qua trung gian, hãy để SoftBuild hỗ trợ. Chúng tôi cung cấp dịch vụ lập trình chuyên sâu, đáp ứng đầy đủ các tiêu chuẩn kỹ thuật hiện đại và có khả năng mở rộng linh hoạt theo quy mô dự án.",
     "ctaLabel": "Nhận tư vấn blockchain",
     "ctaHref": "/lien-he",
-    "image": "/images/people/cta/winterfrost/quan-ly-nam.png"
+    "image": "/images/people/cta/softbuild/quan-ly-nam.png"
   },
   "counter": {
     "badgeText": "Thành tựu của chúng tôi",

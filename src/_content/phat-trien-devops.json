@@ -6,7 +6,7 @@
     "titleLight": " DevOps ",
     "description": "SoftBuild thiết kế hạ tầng Cloud linh hoạt, chuẩn hóa CI/CD và triển khai các giải pháp DevSecOps, giúp doanh nghiệp rút ngắn phát hành sản phẩm và đảm bảo hệ thống vận hành thông suốt ở mọi quy mô.",
     "bgImage": "/images/migrated/homenest-software/wp-content/uploads/2026/03/Web-app-development.jpg",
-    "dashboardImage": "/images/services/winterfrost/web-application-development.webp"
+    "dashboardImage": "/images/services/softbuild/web-application-development.webp"
   },
   "solution": {
     "headlineLight": "Các giá trị quan trọng",
@@ -51,27 +51,27 @@
       {
         "title": "Thiết lập và quản trị CI/CD",
         "desc": "Tự động hóa hoàn toàn quy trình tích hợp mã nguồn và phát hành sản phẩm. Hệ thống đảm bảo rằng mọi bản cập nhật đều được kiểm tra tự động và đưa lên môi trường hoạt động mà không cần can thiệp thủ công.",
-        "image": "/images/services/winterfrost/enterprise-software-development.webp"
+        "image": "/images/services/softbuild/enterprise-software-development.webp"
       },
       {
         "title": "Quản trị hạ tầng bằng mã",
         "desc": "Sử dụng các công cụ như Terraform hoặc Ansible để thiết lập và quản lý máy chủ thông qua mã. Cách làm này giúp tạo ra các môi trường hoàn toàn giống nhau, giảm thiểu lỗi cấu hình và cho phép khôi phục hệ thống ngay lập tức.",
-        "image": "/images/services/winterfrost/ai-development.webp"
+        "image": "/images/services/softbuild/ai-development.webp"
       },
       {
         "title": "Tối ưu hóa hạ tầng điện toán đám mây",
         "desc": "Thiết lập, cấu hình và điều chỉnh tài nguyên trên các nền tảng điện toán đám mây. Chúng tôi chú trọng vào việc tối ưu hiệu suất máy chủ để đáp ứng chính xác nhu cầu của ứng dụng, đồng thời cắt giảm chi phí tài nguyên không cần thiết.",
-        "image": "/images/services/winterfrost/devops-development.webp"
+        "image": "/images/services/softbuild/devops-development.webp"
       },
       {
         "title": "Chuẩn hóa và tự động vận hành",
         "desc": "Sử dụng công nghệ đóng gói để đảm bảo ứng dụng hoạt động giống nhau trên tất cả các máy chủ. Kết hợp với hệ thống quản lý tự động để tự động hóa việc kiểm tra tình trạng ứng dụng, tự động khởi động lại khi có sự cố và điều chỉnh tài nguyên ngay lập tức theo lưu lượng truy cập.",
-        "image": "/images/services/winterfrost/saas-application-development.webp"
+        "image": "/images/services/softbuild/saas-application-development.webp"
       },
       {
         "title": "Giám sát hệ thống và phân tích nhật ký",
         "desc": "Triển khai các hệ thống theo dõi tình trạng máy chủ và ứng dụng theo thời gian thực. Tất cả các thông số về CPU, RAM, băng thông và nhật ký lỗi đều được tổng hợp một cách trực quan, giúp phát hiện kịp thời các nguy cơ gây gián đoạn dịch vụ và xử lý nhanh chóng.",
-        "image": "/images/services/winterfrost/custom-software-solutions.webp"
+        "image": "/images/services/softbuild/custom-software-solutions.webp"
       }
     ]
   },
@@ -170,7 +170,7 @@
     "description": "Nếu doanh nghiệp cần một hệ thống hoạt động liên tục và an toàn, SoftBuild sẽ thiết kế quy trình giám sát và bảo mật hạ tầng chuyên sâu. Giải pháp này giúp phát hiện lỗi sớm và ngăn chặn các rủi ro gây gián đoạn dịch vụ.",
     "ctaLabel": "Nhận tư vấn DevOps",
     "ctaHref": "/lien-he",
-    "image": "/images/people/cta/winterfrost/nhan-vien-cong-nghe-tre.png"
+    "image": "/images/people/cta/softbuild/nhan-vien-cong-nghe-tre.png"
   },
   "counter": {
     "badgeText": "Thành tựu của chúng tôi",

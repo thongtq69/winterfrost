@@ -16,7 +16,7 @@ export async function generateMetadata({
   const tr = await getAutoText(locale);
   return {
     title: tr("Chính sách bảo mật"),
-    description: tr("Chính sách bảo mật thông tin khách hàng và người dùng tại Winterfrost."),
+    description: tr("Chính sách bảo mật thông tin khách hàng và người dùng tại SoftBuild."),
   };
 }
 
@@ -51,9 +51,9 @@ export default function PrivacyPolicyPage() {
 
         <section className={s.introBox}>
           <h1>Chính sách bảo mật</h1>
-          <p>Chính sách bảo mật này quy định cách thức Winterfrost sử dụng và bảo vệ bất kỳ thông tin nào bạn cung cấp khi sử dụng trang web https://winterfrost.tech</p>
-          <p>Winterfrost cam kết bảo vệ quyền riêng tư của bạn. Khi chúng tôi yêu cầu bạn cung cấp một số thông tin nhất định để nhận diện trong quá trình sử dụng trang web này, bạn có thể hoàn toàn yên tâm rằng thông tin đó sẽ chỉ được sử dụng theo đúng các điều khoản trong tuyên bố bảo mật này.</p>
-          <p>Winterfrost có thể thay đổi chính sách này tùy theo từng thời điểm bằng cách cập nhật trên trang web. Bạn nên kiểm tra trang này định kỳ để đảm bảo luôn nắm bắt và đồng ý với các thay đổi. Chính sách này có hiệu lực từ ngày 1 tháng 1 năm 2017</p>
+          <p>Chính sách bảo mật này quy định cách thức SoftBuild sử dụng và bảo vệ bất kỳ thông tin nào bạn cung cấp khi sử dụng trang web https://softbuildvn.vercel.app</p>
+          <p>SoftBuild cam kết bảo vệ quyền riêng tư của bạn. Khi chúng tôi yêu cầu bạn cung cấp một số thông tin nhất định để nhận diện trong quá trình sử dụng trang web này, bạn có thể hoàn toàn yên tâm rằng thông tin đó sẽ chỉ được sử dụng theo đúng các điều khoản trong tuyên bố bảo mật này.</p>
+          <p>SoftBuild có thể thay đổi chính sách này tùy theo từng thời điểm bằng cách cập nhật trên trang web. Bạn nên kiểm tra trang này định kỳ để đảm bảo luôn nắm bắt và đồng ý với các thay đổi. Chính sách này có hiệu lực từ ngày 1 tháng 1 năm 2017</p>
         </section>
 
         <section className={s.section}>
@@ -86,7 +86,7 @@ export default function PrivacyPolicyPage() {
 
         <section className={s.section}>
           <h2>Liên kết đến các trang web khác</h2>
-          <p>Trang web của chúng tôi có thể chứa các liên kết dẫn đến các trang web khác. Tuy nhiên, một khi bạn đã sử dụng các liên kết này để rời khỏi trang web của Winterfrost, bạn cần lưu ý rằng chúng tôi không có bất kỳ quyền kiểm soát nào đối với trang web của bên thứ ba đó. Do đó, chúng tôi không thể chịu trách nhiệm về việc bảo vệ quyền riêng tư đối với bất kỳ thông tin nào bạn cung cấp khi truy cập các trang này, và các trang đó cũng không chịu sự chi phối của tuyên bố bảo mật này. Bạn nên thận trọng và xem xét các chính sách bảo mật áp dụng cho trang web được đề cập.</p>
+          <p>Trang web của chúng tôi có thể chứa các liên kết dẫn đến các trang web khác. Tuy nhiên, một khi bạn đã sử dụng các liên kết này để rời khỏi trang web của SoftBuild, bạn cần lưu ý rằng chúng tôi không có bất kỳ quyền kiểm soát nào đối với trang web của bên thứ ba đó. Do đó, chúng tôi không thể chịu trách nhiệm về việc bảo vệ quyền riêng tư đối với bất kỳ thông tin nào bạn cung cấp khi truy cập các trang này, và các trang đó cũng không chịu sự chi phối của tuyên bố bảo mật này. Bạn nên thận trọng và xem xét các chính sách bảo mật áp dụng cho trang web được đề cập.</p>
         </section>
 
         <section className={`${s.section} ${s.controlSection}`}>
@@ -95,7 +95,7 @@ export default function PrivacyPolicyPage() {
           <div className={s.cards2}>{controlCards.map((card, index) => <NumberCard {...card} index={index + 1} key={card.title} />)}</div>
           <p>Chúng tôi sẽ không bán, phân phối hoặc cho thuê thông tin cá nhân của bạn cho bên thứ ba trừ khi chúng tôi có sự cho phép của bạn hoặc bị pháp luật yêu cầu. Chúng tôi có thể sử dụng thông tin cá nhân của bạn để gửi cho bạn thông tin quảng cáo về các bên thứ ba mà chúng tôi nghĩ rằng bạn có thể thấy thú vị nếu bạn cho chúng tôi biết bạn muốn điều này xảy ra.</p>
           <p>Nếu bạn cho rằng bất kỳ thông tin nào chúng tôi đang lưu giữ về bạn là không chính xác hoặc không đầy đủ, vui lòng liên hệ ngay với chúng tôi. Chúng tôi sẽ nhanh chóng sửa chữa bất kỳ thông tin nào được phát hiện là chưa chính xác.</p>
-          <p>Nếu bạn có bất kỳ câu hỏi nào về chính sách này, vui lòng liên hệ trực tiếp tại văn phòng của chúng tôi ở Vinhomes Grand Park, Quận 9, Thành phố Hồ Chí Minh, hoặc qua email info@winterfrost.tech để nhận được sự hỗ trợ của công ty.</p>
+          <p>Nếu bạn có bất kỳ câu hỏi nào về chính sách này, vui lòng liên hệ trực tiếp tại văn phòng của chúng tôi ở Vinhomes Grand Park, Quận 9, Thành phố Hồ Chí Minh, hoặc qua email contact@softbuild.vn để nhận được sự hỗ trợ của công ty.</p>
         </section>
       </div>
     </main>

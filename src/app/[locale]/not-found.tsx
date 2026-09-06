@@ -89,8 +89,8 @@ export default function NotFound() {
         {/* eslint-disable-next-line @next/next/no-img-element */}
         <img
           src={BG}
-          alt="Hình nền Winterfrost"
-          title="Hình nền Winterfrost"
+          alt="Hình nền SoftBuild"
+          title="Hình nền SoftBuild"
           className="wf-not-found-bg-image"
           loading="lazy"
         />

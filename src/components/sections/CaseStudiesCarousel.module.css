@@ -1,4 +1,4 @@
-/* CaseStudies sticky-scroll — winterfrost.tech (CaseStudySection-module__SnMETW__*) */
+/* CaseStudies sticky-scroll — softbuildvn.vercel.app (CaseStudySection-module__SnMETW__*) */
 
 .section {
   background: rgba(250, 250, 250, 0.9);
@@ -59,7 +59,7 @@
   width: 28%;
   height: min-content;
   padding: 0 0 200px;
-  font-family: var(--font-Winterfrost, var(--font-manrope, sans-serif));
+  font-family: var(--font-SoftBuild, var(--font-manrope, sans-serif));
   font-size: 60px;
   line-height: 66px;
   position: sticky;
@@ -143,7 +143,7 @@
 .cardCategory {
   color: #05080C;
   margin: 0;
-  font-family: Winterfrost, var(--font-Winterfrost), sans-serif;
+  font-family: SoftBuild, var(--font-SoftBuild), sans-serif;
   font-size: 28px;
   font-weight: 600;
   line-height: 1.6;

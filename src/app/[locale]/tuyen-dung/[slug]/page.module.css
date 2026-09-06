@@ -15,11 +15,11 @@
 .breadcrumb { display: flex; align-items: center; gap: 10px; height: 19px; color: #666; font-size: 14px; line-height: 19px; white-space: nowrap; }
 .breadcrumb a { color: #666; text-decoration: none; }
 .breadcrumb span:last-child { overflow: hidden; color: #1a3b91; text-overflow: ellipsis; }
-.article > h1 { margin: 12px 0 24px; color: #0d2460; font-family: Winterfrost, sans-serif; font-size: 40px; font-weight: 600; line-height: 48px; }
+.article > h1 { margin: 12px 0 24px; color: #0d2460; font-family: SoftBuild, sans-serif; font-size: 40px; font-weight: 600; line-height: 48px; }
 .jobContent { width: 100%; }
-.wpContent h2, .wpContentExtra h2 { margin: 32px 0 16px; color: #1a3b91; font-family: Winterfrost, sans-serif; font-size: 18px; font-weight: 500; line-height: 21.6px; text-transform: uppercase; }
+.wpContent h2, .wpContentExtra h2 { margin: 32px 0 16px; color: #1a3b91; font-family: SoftBuild, sans-serif; font-size: 18px; font-weight: 500; line-height: 21.6px; text-transform: uppercase; }
 .wpContent > h2:first-child { margin-top: 0; }
-.wpContent h3 { margin: 24px 0 12px; color: #0d1321; font-family: Winterfrost, sans-serif; font-size: 16px; font-weight: 600; line-height: 20px; }
+.wpContent h3 { margin: 24px 0 12px; color: #0d1321; font-family: SoftBuild, sans-serif; font-size: 16px; font-weight: 600; line-height: 20px; }
 .wpContent ul { margin: 0 0 24px; padding-left: 16px; list-style: disc; }
 .wpContent li { margin: 0 0 6px; padding-left: 3px; line-height: 28px; white-space: pre-line; }
 .main[data-job-slug="content-marketing"] .wpContent li { letter-spacing: -.01px; }
@@ -32,25 +32,25 @@
 .consultCard { position: relative; min-height: 356px; overflow: hidden; padding: 40px 340px 40px 56px; border-radius: 24px; color: #fff; background: linear-gradient(121deg, #021b7b 0%, #1670de 29%, #193493 100%); }
 .consultCopy { position: relative; z-index: 1; max-width: 1042px; }
 .consultCopy > span { display: inline-flex; margin-bottom: 16px; padding: 7px 14px; border: 1px solid rgba(255,255,255,.34); border-radius: 999px; font-size: 14px; }
-.consultCopy h2 { margin: 0; font-family: Winterfrost, sans-serif; font-size: 32px; font-weight: 500; line-height: 41.6px; }
+.consultCopy h2 { margin: 0; font-family: SoftBuild, sans-serif; font-size: 32px; font-weight: 500; line-height: 41.6px; }
 .consultCopy p { margin: 16px 0 0; font-size: 18px; line-height: 28.8px; }
-.consultCopy a { display: inline-flex; align-items: center; gap: 8px; min-height: 44px; margin-top: 40px; padding: 0 20px; border-radius: 24px; color: #0d2460; background: #fff; font-family: Winterfrost, sans-serif; font-size: 16px; font-weight: 600; text-decoration: none; }
+.consultCopy a { display: inline-flex; align-items: center; gap: 8px; min-height: 44px; margin-top: 40px; padding: 0 20px; border-radius: 24px; color: #0d2460; background: #fff; font-family: SoftBuild, sans-serif; font-size: 16px; font-weight: 600; text-decoration: none; }
 .consultCopy a svg { width: 17px; height: 17px; }
 .consultCard > img { position: absolute; right: 41px; bottom: 0; width: 270px; height: 330px; object-fit: contain; }
 .relatedJobs { margin-top: 80px; }
 .relatedHeader { min-height: 60.8px; }
 .relatedHeader span { display: block; margin-bottom: 7px; color: #166bd9; font-size: 14px; font-weight: 600; line-height: 19.2px; }
-.relatedHeader h2 { margin: 0; font-family: Winterfrost, sans-serif; font-size: 28px; font-weight: 500; line-height: 33.6px; }
+.relatedHeader h2 { margin: 0; font-family: SoftBuild, sans-serif; font-size: 28px; font-weight: 500; line-height: 33.6px; }
 .relatedList { margin-top: 32px; }
 .relatedList > a { min-height: 119.8px; padding: 20px; display: flex; align-items: center; justify-content: space-between; border-top: 1px solid #dedede; color: #0d1321; text-decoration: none; transition: background .2s ease; }
 .relatedList > a:last-child { border-bottom: 1px solid #dedede; }
 .relatedList > a:hover { background: #f4f7fc; }
-.relatedList h3 { margin: 0 0 10px; font-family: Winterfrost, sans-serif; font-size: 19px; font-weight: 600; line-height: 24px; }
+.relatedList h3 { margin: 0 0 10px; font-family: SoftBuild, sans-serif; font-size: 19px; font-weight: 600; line-height: 24px; }
 .relatedList p { display: inline; margin: 0 30px 0 0; color: #666; font-size: 14px; }
 .relatedList svg { width: 22px; height: 22px; color: #1a3b91; }
 .workLife { margin: 0 20px; min-height: 735.2px; padding: 80px 40px; }
 .workHeader { display: flex; align-items: center; justify-content: space-between; }
-.workHeader h2 { margin: 0; font-family: Winterfrost, sans-serif; font-size: 48px; font-weight: 500; line-height: 57.6px; }
+.workHeader h2 { margin: 0; font-family: SoftBuild, sans-serif; font-size: 48px; font-weight: 500; line-height: 57.6px; }
 .workHeader a { display: inline-flex; align-items: center; gap: 8px; color: #1a3b91; text-decoration: none; }
 .workHeader svg { width: 17px; }
 .workGrid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; margin-top: 32px; }
@@ -60,7 +60,7 @@
 .workCard:hover .workImage img { transform: scale(1.025); }
 .workBadge { display: inline-flex; align-self: flex-start; padding: 3.953125px 8px; border-radius: 999px; color: #1a3b91; background: rgba(217,132,22,.45); font-size: 12px; font-weight: 700; line-height: 12px; }
 .workCopy { display: flex; flex-direction: column; gap: 12px; }
-.workCard h3 { display: -webkit-box; overflow: hidden; margin: 0; font-family: Winterfrost, sans-serif; font-size: 20px; font-weight: 500; line-height: 28px; -webkit-box-orient: vertical; -webkit-line-clamp: 2; }
+.workCard h3 { display: -webkit-box; overflow: hidden; margin: 0; font-family: SoftBuild, sans-serif; font-size: 20px; font-weight: 500; line-height: 28px; -webkit-box-orient: vertical; -webkit-line-clamp: 2; }
 .workCard p { display: -webkit-box; overflow: hidden; margin: 0; color: #666; font-size: 14px; line-height: 22.4px; -webkit-box-orient: vertical; -webkit-line-clamp: 3; }
 .workMeta { display: flex; align-items: center; gap: 18px; padding-top: 10px; color: #7589b5; font-size: 13px; line-height: 19px; }
 .workMeta span { display: inline-flex; align-items: center; gap: 4px; }

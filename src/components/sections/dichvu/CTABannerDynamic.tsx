@@ -5,7 +5,7 @@ import { Reveal } from "@/components/primitives/Reveal";
 import s from "./CTABannerDynamic.module.css";
 
 const CONSULTANT_IMAGE =
-  "/images/people/cta/winterfrost/chuyen-vien-nu.png";
+  "/images/people/cta/softbuild/chuyen-vien-nu.png";
 
 export function CTABannerDynamic() {
   const dichVuPage = useLocalizedServicesPage();
