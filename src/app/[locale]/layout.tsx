@@ -100,6 +100,9 @@ export async function generateMetadata({
       description: t("openGraphDescription"),
     },
     robots: { index: true, follow: true },
+    verification: {
+      google: "fu4LyBAm7czFawwI7KS-2YaYKGAdKr6vnHgvpNvwO4g",
+    },
   };
 }
 
@@ -131,6 +134,12 @@ export default async function RootLayout({
       data-scroll-behavior="smooth"
       className={`${manrope.variable} ${greatVibes.variable} ${plusJakarta.variable} h-full antialiased`}
     >
+      <head>
+        <meta
+          name="google-site-verification"
+          content="fu4LyBAm7czFawwI7KS-2YaYKGAdKr6vnHgvpNvwO4g"
+        />
+      </head>
       <body className="min-h-full flex flex-col bg-bg text-text">
         <NextIntlClientProvider locale={locale} messages={messages}>
           <FloatingHeader />
