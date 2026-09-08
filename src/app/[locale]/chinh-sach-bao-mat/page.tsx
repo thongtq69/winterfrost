@@ -95,7 +95,7 @@ export default function PrivacyPolicyPage() {
           <div className={s.cards2}>{controlCards.map((card, index) => <NumberCard {...card} index={index + 1} key={card.title} />)}</div>
           <p>Chúng tôi sẽ không bán, phân phối hoặc cho thuê thông tin cá nhân của bạn cho bên thứ ba trừ khi chúng tôi có sự cho phép của bạn hoặc bị pháp luật yêu cầu. Chúng tôi có thể sử dụng thông tin cá nhân của bạn để gửi cho bạn thông tin quảng cáo về các bên thứ ba mà chúng tôi nghĩ rằng bạn có thể thấy thú vị nếu bạn cho chúng tôi biết bạn muốn điều này xảy ra.</p>
           <p>Nếu bạn cho rằng bất kỳ thông tin nào chúng tôi đang lưu giữ về bạn là không chính xác hoặc không đầy đủ, vui lòng liên hệ ngay với chúng tôi. Chúng tôi sẽ nhanh chóng sửa chữa bất kỳ thông tin nào được phát hiện là chưa chính xác.</p>
-          <p>Nếu bạn có bất kỳ câu hỏi nào về chính sách này, vui lòng liên hệ trực tiếp tại văn phòng của chúng tôi ở Vinhomes Grand Park, Quận 9, Thành phố Hồ Chí Minh, hoặc qua email contact@softbuild.vn để nhận được sự hỗ trợ của công ty.</p>
+          <p>Nếu bạn có bất kỳ câu hỏi nào về chính sách này, vui lòng liên hệ trực tiếp tại văn phòng của chúng tôi ở 4529 Nguyễn Cửu Phú, Phường Tân Tạo, TP. Hồ Chí Minh, hoặc qua email contact@softbuild.vn để nhận được sự hỗ trợ của công ty.</p>
         </section>
       </div>
     </main>
